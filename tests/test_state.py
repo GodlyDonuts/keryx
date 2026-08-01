@@ -23,6 +23,30 @@ def role(source: str = "feed", url: str = "https://jobs.example.com/123") -> Obs
 
 
 class StateTests(unittest.TestCase):
+    def test_single_source_custom_domain_is_not_published(self) -> None:
+        state = merge_state(
+            {"jobs": []},
+            [role(url="https://careers.example.com/jobs/123")],
+            complete_sources={"feed"},
+            today="2026-08-01",
+        )
+        job = state["jobs"][0]
+        self.assertIsNone(job["url"])
+        self.assertEqual(job["url_host"], "careers.example.com")
+        self.assertEqual(job["link_status"], "unverified")
+        self.assertNotIn("_candidate_url", job)
+
+    def test_structured_recruiting_platform_link_is_published(self) -> None:
+        state = merge_state(
+            {"jobs": []},
+            [role(url="https://job-boards.greenhouse.io/example/jobs/123")],
+            complete_sources={"feed"},
+            today="2026-08-01",
+        )
+        job = state["jobs"][0]
+        self.assertEqual(job["url"], "https://job-boards.greenhouse.io/example/jobs/123")
+        self.assertEqual(job["link_status"], "platform-structured")
+
     def test_two_complete_misses_close_role(self) -> None:
         state = merge_state({"jobs": []}, [role()], complete_sources={"feed"}, today="2026-08-01")
         state = merge_state(state, [], complete_sources={"feed"}, today="2026-08-02")
@@ -36,7 +60,7 @@ class StateTests(unittest.TestCase):
         self.assertEqual(state["jobs"][0]["missed_runs"], 0)
 
     def test_duplicates_merge_provenance(self) -> None:
-        first = role("community", "https://company.example/job?gh_jid=123")
+        first = role("community", "https://company.com/job?gh_jid=123")
         second = role("ats:greenhouse:example", "https://job-boards.greenhouse.io/example/jobs/123")
         state = merge_state(
             {"jobs": []},
@@ -46,6 +70,21 @@ class StateTests(unittest.TestCase):
         )
         self.assertEqual(len(state["jobs"]), 1)
         self.assertEqual(len(state["jobs"][0]["sources"]), 2)
+        self.assertEqual(state["jobs"][0]["link_status"], "ats-verified")
+
+    def test_unsafe_previous_link_is_removed_without_a_grace_period(self) -> None:
+        previous = {
+            "jobs": [
+                {
+                    "id": "unsafe",
+                    "url": "https://127.0.0.1/collect",
+                    "status": "open",
+                    "sources": [{"id": "feed", "label": "Feed", "url": "https://example.com"}],
+                }
+            ]
+        }
+        state = merge_state(previous, [], complete_sources=set(), today="2026-08-01")
+        self.assertEqual(state["jobs"], [])
 
 
 if __name__ == "__main__":

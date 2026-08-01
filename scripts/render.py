@@ -1,10 +1,14 @@
 from __future__ import annotations
 
+import hashlib
 import json
 import os
 import tempfile
 from pathlib import Path
 from typing import Any
+from urllib.parse import urlsplit
+
+from .normalize import canonical_url, is_recruiting_platform_url, sanitize_job_url
 
 _DATABASES = (
     ("internship", "summer-2027", Path("internships/summer-2027.md"), "Summer 2027 US Internships"),
@@ -26,6 +30,7 @@ _DATABASES = (
         "US New-Graduate Roles — Cycle Not Stated",
     ),
 )
+_LINK_STATUSES = frozenset({"ats-verified", "cross-source", "platform-structured", "unverified"})
 
 
 def _write(path: Path, text: str) -> None:
@@ -43,16 +48,38 @@ def _write(path: Path, text: str) -> None:
 
 
 def _cell(value: object) -> str:
-    return " ".join(str(value or "—").replace("|", "/").split())
+    text = " ".join(str(value or "—").replace("|", "/").split())
+    return (
+        text.replace("\\", "\\\\")
+        .replace("[", "\\[")
+        .replace("]", "\\]")
+        .replace("<", "&lt;")
+        .replace(">", "&gt;")
+        .replace("://", "&#58;//")
+    )
 
 
 def _source_links(job: dict[str, Any]) -> str:
     links = []
     for source in job.get("sources", [])[:4]:
         label = _cell(source.get("label"))
-        url = str(source.get("url") or "")
+        url = canonical_url(str(source.get("url") or ""))
         links.append(f"[{label}]({url})" if url else label)
     return ", ".join(links) or "—"
+
+
+def _apply_link(job: dict[str, Any]) -> str:
+    raw_url = job.get("url")
+    url = raw_url if isinstance(raw_url, str) else ""
+    host = str(job.get("url_host") or (urlsplit(url).hostname if url else "") or "external site")
+    if not url:
+        return f"destination withheld<br><sub>single source · {_cell(host)}</sub>"
+    status = {
+        "ats-verified": "ATS checked",
+        "cross-source": "cross-checked",
+        "platform-structured": "recognized recruiting platform",
+    }.get(str(job.get("link_status")), "source reported")
+    return f"[apply · {_cell(host)}]({url})<br><sub>{status}</sub>"
 
 
 def _markdown(title: str, jobs: list[dict[str, Any]], *, count_label: str = "open roles") -> str:
@@ -84,7 +111,7 @@ def _markdown(title: str, jobs: list[dict[str, Any]], *, count_label: str = "ope
                     _cell(job.get("location")),
                     _cell(job.get("posted_at")),
                     _source_links(job),
-                    f"[apply]({job['url']})",
+                    _apply_link(job),
                 )
             )
             + " |"
@@ -116,7 +143,62 @@ def _count_table(counts: dict[tuple[str, str], int]) -> str:
     return "\n".join(rows)
 
 
-def render_repository(root: Path, payload: dict[str, Any], boards: object) -> None:
+def _validate_publishable_jobs(jobs: list[dict[str, Any]]) -> None:
+    for job in jobs:
+        identifier = str(job.get("id", "unknown"))
+        status = str(job.get("link_status", ""))
+        if status not in _LINK_STATUSES:
+            raise ValueError(f"{identifier} has an invalid link status")
+        source_ids = {
+            str(source.get("id", ""))
+            for source in job.get("sources", [])
+            if isinstance(source, dict)
+        }
+        if status == "ats-verified" and not any(
+            source_id.startswith("ats:") for source_id in source_ids
+        ):
+            raise ValueError(f"{identifier} lacks direct ATS provenance")
+        if status == "cross-source" and (
+            len(source_ids) < 2 or any(source_id.startswith("ats:") for source_id in source_ids)
+        ):
+            raise ValueError(f"{identifier} lacks cross-source provenance")
+        raw_url = job.get("url")
+        host = str(job.get("url_host") or "")
+        fingerprint = str(job.get("url_fingerprint") or "")
+        if raw_url is None:
+            host_decision = sanitize_job_url(f"https://{host}/")
+            if (
+                status != "unverified"
+                or len(source_ids) != 1
+                or any(source_id.startswith("ats:") for source_id in source_ids)
+                or not host_decision.url
+                or host_decision.host != host
+                or len(fingerprint) != 24
+            ):
+                raise ValueError(f"{identifier} has an invalid withheld-link record")
+            continue
+        if not isinstance(raw_url, str):
+            raise ValueError(f"{identifier} has a non-string application URL")
+        decision = sanitize_job_url(raw_url)
+        if not decision.url or decision.url != raw_url or decision.host != host:
+            raise ValueError(f"{identifier} application URL is not canonical and safe")
+        if hashlib.sha256(raw_url.encode("utf-8")).hexdigest()[:24] != fingerprint:
+            raise ValueError(f"{identifier} application URL fingerprint does not match")
+        if status == "unverified":
+            raise ValueError(f"{identifier} exposes an unverified application URL")
+        if status == "platform-structured" and not is_recruiting_platform_url(raw_url):
+            raise ValueError(f"{identifier} has an invalid recruiting-platform URL")
+        if status == "platform-structured" and len(source_ids) != 1:
+            raise ValueError(f"{identifier} has invalid recruiting-platform provenance")
+
+
+def render_repository(
+    root: Path,
+    payload: dict[str, Any],
+    boards: object,
+    quarantine: object | None = None,
+) -> None:
+    _validate_publishable_jobs(payload["jobs"])
     open_jobs = [job for job in payload["jobs"] if job.get("status") == "open"]
     counts: dict[tuple[str, str], int] = {}
     for program, cycle, relative_path, title in _DATABASES:
@@ -135,6 +217,15 @@ def render_repository(root: Path, payload: dict[str, Any], boards: object) -> No
     _write(
         root / "data/boards.json",
         json.dumps({"schema_version": 1, "boards": boards}, indent=2, sort_keys=True) + "\n",
+    )
+    _write(
+        root / "data/quarantine.json",
+        json.dumps(
+            quarantine or {"schema_version": 1, "quarantined": []},
+            indent=2,
+            sort_keys=True,
+        )
+        + "\n",
     )
 
     readme_path = root / "README.md"

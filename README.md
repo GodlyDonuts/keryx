@@ -10,13 +10,13 @@ feeds when possible, removes duplicates, and rebuilds the Markdown databases aut
 | Recruiting cycle | Open roles |
 |---|---:|
 | [Summer 2027 US Internships](internships/summer-2027.md) | 192 |
-| [Fall 2026 US Internships](internships/fall-2026.md) | 310 |
+| [Fall 2026 US Internships](internships/fall-2026.md) | 318 |
 | [Spring 2027 US Internships](internships/spring-2027.md) | 16 |
 | [Winter 2027 US Internships](internships/winter-2027.md) | 6 |
-| [US Internships — Cycle Not Stated](internships/unscheduled.md) | 315 |
-| [2027 US New-Graduate Roles](new-grad/2027.md) | 464 |
+| [US Internships — Cycle Not Stated](internships/unscheduled.md) | 310 |
+| [2027 US New-Graduate Roles](new-grad/2027.md) | 463 |
 | [2026 US New-Graduate Roles](new-grad/2026.md) | 39 |
-| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1614 |
+| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1597 |
 <!-- COUNTS:END -->
 
 The Markdown files are the product: open them directly on GitHub, search them, bookmark them, or
@@ -33,9 +33,30 @@ Keryx combines and cross-checks:
 - [zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships)
 - Direct public boards from Greenhouse, Ashby, Lever, and Workday
 
-Community repositories are discovery sources. Every row links to the employer's application page,
-and direct ATS observations take precedence when duplicate records disagree. Keryx only publishes
-roles located in the United States or explicitly marked remote within the United States.
+Community repositories are discovery sources. Eligible rows link to the employer's application
+page, and direct ATS observations take precedence when duplicate records disagree. Keryx only
+publishes roles located in the United States or explicitly marked remote within the United States.
+
+## Link safety
+
+Every published application URL passes Keryx's deterministic cleaner before it becomes clickable:
+
+- HTTPS is enforced; fragments, tracking parameters, and duplicate query keys are removed.
+- Credentials, IP-literal/private-style destinations, nonstandard ports, parser-confusing escapes,
+  executable downloads, URL shorteners, generic forms, and file-sharing links are rejected.
+- The updater can contact only the fixed GitHub feeds and recognized Greenhouse, Ashby, Lever, and
+  Workday API hosts; automatic redirects are disabled.
+- Each Apply link displays its destination host and whether it was checked through a direct ATS,
+  corroborated by multiple sources, or recognized as a structured recruiting-platform URL.
+- A custom-domain link reported by only one community source is withheld until another source or
+  a direct ATS observation corroborates it; the role remains searchable without a clickable URL.
+- Rejected URLs are omitted from the databases. A non-clickable fingerprint and rejection reason
+  are retained in [`data/quarantine.json`](data/quarantine.json) for auditing.
+
+These controls reduce phishing, tracking, parser-confusion, and SSRF risk, but no public index can
+guarantee an employer or posting is legitimate. Confirm the company and destination before sharing
+personal information. Never pay an application fee or provide passwords, banking credentials, or
+government identity documents solely because a listing appears here.
 
 ## Automation
 

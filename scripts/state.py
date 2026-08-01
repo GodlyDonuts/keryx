@@ -1,11 +1,20 @@
 from __future__ import annotations
 
+import hashlib
 from collections import defaultdict
 from copy import deepcopy
 from typing import Any
 
 from .models import Observation
-from .normalize import canonical_url, infer_cycle, is_technical, is_us_role, job_id
+from .normalize import (
+    canonical_url,
+    infer_cycle,
+    is_recruiting_platform_url,
+    is_technical,
+    is_us_role,
+    job_id,
+    sanitize_job_url,
+)
 
 _SOURCE_PRIORITY = {
     "ats": 0,
@@ -42,6 +51,26 @@ def _source(observation: Observation) -> dict[str, str]:
     }
 
 
+def _link_status(sources: list[dict[str, str]], url: str) -> str:
+    source_ids = {str(source.get("id", "")) for source in sources}
+    if any(source_id.startswith("ats:") for source_id in source_ids):
+        return "ats-verified"
+    if len(source_ids) >= 2:
+        return "cross-source"
+    if is_recruiting_platform_url(url):
+        return "platform-structured"
+    return "unverified"
+
+
+def _protect_link(job: dict[str, Any], sources: list[dict[str, str]], raw_url: str) -> None:
+    decision = sanitize_job_url(raw_url)
+    status = _link_status(sources, decision.url)
+    job["url_host"] = decision.host
+    job["url_fingerprint"] = hashlib.sha256(decision.url.encode("utf-8")).hexdigest()[:24]
+    job["link_status"] = status
+    job["url"] = decision.url if status != "unverified" else None
+
+
 def _current_jobs(observations: list[Observation], today: str) -> dict[str, dict[str, Any]]:
     grouped: dict[str, list[Observation]] = defaultdict(list)
     for observation in observations:
@@ -66,12 +95,12 @@ def _current_jobs(observations: list[Observation], today: str) -> dict[str, dict
             hint=next((item.cycle for item in ordered if item.cycle), None),
         )
         sources = {_source(item)["id"]: _source(item) for item in ordered}
+        source_list = [sources[key] for key in sorted(sources)]
         jobs[identifier] = {
             "id": identifier,
             "company": preferred.company,
             "title": preferred.title,
             "location": locations[0] if locations else "United States",
-            "url": canonical_url(preferred.url),
             "program": preferred.program,
             "cycle": cycle,
             "posted_at": posted_dates[0] if posted_dates else None,
@@ -81,8 +110,10 @@ def _current_jobs(observations: list[Observation], today: str) -> dict[str, dict
             "last_changed": today,
             "closed_at": None,
             "missed_runs": 0,
-            "sources": [sources[key] for key in sorted(sources)],
+            "sources": source_list,
+            "_candidate_url": preferred.url,
         }
+        _protect_link(jobs[identifier], source_list, preferred.url)
     return jobs
 
 
@@ -92,6 +123,7 @@ def _material(job: dict[str, Any]) -> tuple[Any, ...]:
         job.get("title"),
         job.get("location"),
         job.get("url"),
+        job.get("link_status"),
         job.get("program"),
         job.get("cycle"),
         job.get("posted_at"),
@@ -129,6 +161,8 @@ def merge_state(
         for source in job["sources"]:
             known_sources[source["id"]] = source
         job["sources"] = [known_sources[key] for key in sorted(known_sources)]
+        raw_url = str(job.get("_candidate_url") or job.get("url") or previous.get("url") or "")
+        _protect_link(job, job["sources"], raw_url)
         job["first_seen"] = previous.get("first_seen") or today
         job["last_changed"] = (
             today
@@ -146,6 +180,19 @@ def merge_state(
             if isinstance(source, dict) and source.get("id")
         }
         job = deepcopy(previous)
+        # Link-safety failures are not ordinary source misses: unsafe links must disappear
+        # immediately rather than remain clickable through the two-run closure grace period.
+        previous_url = job.get("url")
+        previous_source_list = [
+            source for source in job.get("sources", []) if isinstance(source, dict)
+        ]
+        if isinstance(previous_url, str) and previous_url:
+            sanitized_previous = sanitize_job_url(previous_url)
+            if not sanitized_previous.url:
+                continue
+            _protect_link(job, previous_source_list, sanitized_previous.url)
+        elif job.get("link_status") != "unverified":
+            continue
         if previous_sources and previous_sources.issubset(complete_sources):
             job["missed_runs"] = int(job.get("missed_runs", 0)) + 1
             if job["missed_runs"] >= close_after_misses and job.get("status") == "open":
@@ -153,6 +200,9 @@ def merge_state(
                 job["closed_at"] = today
                 job["last_changed"] = today
         merged[identifier] = job
+
+    for job in merged.values():
+        job.pop("_candidate_url", None)
 
     return {
         "schema_version": 1,

@@ -1,16 +1,68 @@
 from __future__ import annotations
 
 import json
+import re
 import time
 from typing import Any, cast
 from urllib.error import HTTPError, URLError
-from urllib.request import Request, urlopen
+from urllib.parse import urlsplit
+from urllib.request import HTTPRedirectHandler, Request, build_opener
 
 _MAX_BYTES = 50 * 1024 * 1024
 _HEADERS = {
     "Accept": "application/json,text/plain,text/markdown;q=0.9,*/*;q=0.8",
     "User-Agent": "Keryx/1.0 (+https://github.com/GodlyDonuts/keryx)",
 }
+_EXACT_NETWORK_HOSTS = frozenset(
+    {
+        "api.ashbyhq.com",
+        "api.lever.co",
+        "boards-api.greenhouse.io",
+        "raw.githubusercontent.com",
+    }
+)
+_NETWORK_HOST_SUFFIXES = (".myworkdayjobs.com", ".myworkdaysite.com")
+_HOST_LABEL = re.compile(r"^[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?$")
+
+
+class _NoRedirects(HTTPRedirectHandler):
+    def redirect_request(
+        self,
+        request: Request,
+        file_pointer: object,
+        code: int,
+        message: str,
+        headers: object,
+        new_url: str,
+    ) -> None:
+        return None
+
+
+_OPENER = build_opener(_NoRedirects)
+
+
+def _validated_network_url(url: str) -> str:
+    try:
+        parsed = urlsplit(url)
+        host_value = parsed.hostname
+        port = parsed.port
+    except ValueError as error:
+        raise ValueError("outbound URL has an invalid authority") from error
+    if parsed.scheme != "https" or not host_value:
+        raise ValueError("outbound requests require HTTPS and a hostname")
+    if parsed.username is not None or parsed.password is not None or port not in {None, 443}:
+        raise ValueError("outbound URL credentials and nonstandard ports are forbidden")
+    try:
+        host = host_value.encode("ascii", "strict").decode("ascii").casefold()
+    except UnicodeError as error:
+        raise ValueError("outbound hostname must be ASCII") from error
+    if any(not _HOST_LABEL.fullmatch(label) for label in host.split(".")):
+        raise ValueError("outbound hostname is invalid")
+    if host not in _EXACT_NETWORK_HOSTS and not any(
+        host.endswith(suffix) for suffix in _NETWORK_HOST_SUFFIXES
+    ):
+        raise ValueError(f"outbound host is not allowlisted: {host}")
+    return url
 
 
 def _request(
@@ -20,6 +72,7 @@ def _request(
     timeout: float = 25.0,
     extra_headers: dict[str, str] | None = None,
 ) -> bytes:
+    _validated_network_url(url)
     headers = dict(_HEADERS)
     headers.update(extra_headers or {})
     if body is not None:
@@ -28,7 +81,7 @@ def _request(
     last_error: Exception | None = None
     for attempt in range(3):
         try:
-            with urlopen(request, timeout=timeout) as response:  # noqa: S310 - fixed public feeds
+            with _OPENER.open(request, timeout=timeout) as response:  # noqa: S310
                 payload = cast(bytes, response.read(_MAX_BYTES + 1))
             if len(payload) > _MAX_BYTES:
                 raise ValueError(f"response exceeded {_MAX_BYTES} bytes")
