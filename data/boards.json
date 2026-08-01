@@ -1574,6 +1574,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "HPR (Hyannis Port Research)",
+      "key": "greenhouse:hyannisportresearch",
+      "slug": "hyannisportresearch"
+    },
+    {
+      "ats": "greenhouse",
       "company": "iCapital Network",
       "key": "greenhouse:icapitalnetwork",
       "slug": "icapitalnetwork"
@@ -3590,6 +3596,15 @@
     },
     {
       "ats": "workday",
+      "company": "Ensign-Bickford Industries",
+      "host": "ebi.wd5.myworkdayjobs.com",
+      "key": "workday:ebi.wd5.myworkdayjobs.com:ebi:ebicareers",
+      "site": "ebicareers",
+      "slug": "ebi",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Edwards Lifesciences",
       "host": "edwards.wd5.myworkdayjobs.com",
       "key": "workday:edwards.wd5.myworkdayjobs.com:edwards:edwardscareers",
@@ -4037,6 +4052,15 @@
       "site": "Graco_Careers",
       "slug": "graco",
       "wd": "wd501"
+    },
+    {
+      "ats": "workday",
+      "company": "Greenheck Group",
+      "host": "greenheckgroup.wd5.myworkdayjobs.com",
+      "key": "workday:greenheckgroup.wd5.myworkdayjobs.com:greenheckgroup:external",
+      "site": "external",
+      "slug": "greenheckgroup",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
@@ -4967,6 +4991,15 @@
     },
     {
       "ats": "workday",
+      "company": "OneDigital",
+      "host": "onedigital.wd5.myworkdayjobs.com",
+      "key": "workday:onedigital.wd5.myworkdayjobs.com:onedigital:onedigital",
+      "site": "onedigital",
+      "slug": "onedigital",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Varian",
       "host": "onehealthineers.wd3.myworkdayjobs.com",
       "key": "workday:onehealthineers.wd3.myworkdayjobs.com:onehealthineers:shsjb",
@@ -5053,6 +5086,15 @@
       "key": "workday:owensminor.wd1.myworkdayjobs.com:owensminor:omcareers",
       "site": "OMCareers",
       "slug": "owensminor",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Pacific Life",
+      "host": "pacificlife.wd1.myworkdayjobs.com",
+      "key": "workday:pacificlife.wd1.myworkdayjobs.com:pacificlife:pacificlifecareers",
+      "site": "PacificLifeCareers",
+      "slug": "pacificlife",
       "wd": "wd1"
     },
     {

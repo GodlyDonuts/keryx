@@ -2,11 +2,12 @@
 
 > Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
 
-**15 open roles**
+**16 open roles**
 
 | Company | Role | Location | Posted | Seen in | Apply |
 |---|---|---|---|---|---|
 | LA-Tech.org | Technical Intern, Software / Cyber / AI (Spring 2027, remote) | Los Angeles, CA / Remote (US) | 2026-07-09 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==) |
+| Hendrick Motorsports | Project and Race Support Engineer Intern | Charlotte, NC | 2026-06-29 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply](https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Project-and-Race-Support-Engineer-Spring-2027---Internship_R-81647) |
 | GE Appliances | Software Engineering Co-op (Spring 2027) | Louisville, KY | 2026-06-28 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-26147) |
 | Delta Air Lines | Reservations Co-op (Spring 2027, data analytics / process improvement) | Atlanta, GA | 2026-06-23 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://delta.avature.net/en_US/careers/JobDetail?jobid=32928) |
 | GE Aerospace | Engines Engineering Co-op, Computer/Software Engineering (Spring 2027, Returning Students) 🛂 🇺🇸 | Cincinnati, OH / Lynn, MA | 2026-06-14 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030073EXTERNALENGLOBAL/Engines-Engineering-Co-op-Computer-or-Software-Engineering-US-Spring-2027-Returning-Students) |
