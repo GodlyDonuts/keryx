@@ -15,7 +15,7 @@ def fetch_json(url: str, *, timeout: float = 30.0) -> Any:
         raise ValueError("feed URL must be an absolute HTTPS URL")
     request = Request(
         url,
-        headers={"Accept": "application/json", "User-Agent": "RoleBeacon/0.1"},
+        headers={"Accept": "application/json", "User-Agent": "Keryx/0.1"},
     )
     try:
         with urlopen(request, timeout=timeout) as response:  # noqa: S310 - explicit HTTPS above

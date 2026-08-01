@@ -7,14 +7,14 @@ issue.
 
 ## Trust boundary
 
-RoleBeacon treats every remote feed and every field inside it as untrusted data. Feed values are
+Keryx treats every remote feed and every field inside it as untrusted data. Feed values are
 serialized as data and are never shell commands, templates, permissions, or model instructions.
 
 The first release accepts only absolute HTTPS feed URLs, limits each response to 20 MiB, uses a
 bounded network timeout, and verifies that the final redirect remains HTTPS. Operators should only
 configure sources they trust to publish public job data.
 
-RoleBeacon stores no applicant profile, résumé, authentication token, Discord credential, or job
+Keryx stores no applicant profile, résumé, authentication token, Discord credential, or job
 application. Downstream consumers must keep those values outside public feeds and logs.
 
 ## Known boundary

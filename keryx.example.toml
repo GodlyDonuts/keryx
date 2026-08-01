@@ -1,6 +1,6 @@
 [state]
-path = ".rolebeacon/state.json"
-events = ".rolebeacon/events.jsonl"
+path = ".keryx/state.json"
+events = ".keryx/events.jsonl"
 
 [output]
 directory = "public"

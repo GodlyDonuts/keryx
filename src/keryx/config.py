@@ -61,9 +61,9 @@ def load_config(path: Path) -> Config:
         raise ValueError("close_after_complete_misses must be at least 1")
     return Config(
         path=resolved,
-        state_path=_resolve(base, state.get("path", ".rolebeacon/state.json"), field="state.path"),
+        state_path=_resolve(base, state.get("path", ".keryx/state.json"), field="state.path"),
         events_path=_resolve(
-            base, state.get("events", ".rolebeacon/events.jsonl"), field="state.events"
+            base, state.get("events", ".keryx/events.jsonl"), field="state.events"
         ),
         output_dir=_resolve(base, output.get("directory", "public"), field="output.directory"),
         close_after_misses=close_after_misses,
@@ -72,10 +72,10 @@ def load_config(path: Path) -> Config:
 
 
 def default_config_text() -> str:
-    return """# RoleBeacon only reads configured public feeds. Add or disable providers here.
+    return """# Keryx only reads configured public feeds. Add or disable providers here.
 [state]
-path = ".rolebeacon/state.json"
-events = ".rolebeacon/events.jsonl"
+path = ".keryx/state.json"
+events = ".keryx/events.jsonl"
 
 [output]
 directory = "public"

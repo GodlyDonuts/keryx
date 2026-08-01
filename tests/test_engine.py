@@ -2,9 +2,9 @@ from __future__ import annotations
 
 import unittest
 
-from rolebeacon.engine import synchronize
-from rolebeacon.models import Observation, SourceSnapshot
-from rolebeacon.store import empty_state
+from keryx.engine import synchronize
+from keryx.models import Observation, SourceSnapshot
+from keryx.store import empty_state
 
 
 def observation(identifier: str, *, active: bool = True, source: str = "feed") -> Observation:

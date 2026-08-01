@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import unittest
 
-from rolebeacon.canonical import canonical_url, job_identity
+from keryx.canonical import canonical_url, job_identity
 
 
 class CanonicalTests(unittest.TestCase):

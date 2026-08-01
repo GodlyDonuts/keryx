@@ -5,19 +5,19 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from rolebeacon.config import default_config_text, load_config
-from rolebeacon.models import SyncEvent, SyncResult
-from rolebeacon.publish import publish
+from keryx.config import default_config_text, load_config
+from keryx.models import SyncEvent, SyncResult
+from keryx.publish import publish
 
 
 class ConfigPublishTests(unittest.TestCase):
     def test_default_config_loads_relative_paths(self) -> None:
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
-            path = root / "rolebeacon.toml"
+            path = root / "keryx.toml"
             path.write_text(default_config_text(), encoding="utf-8")
             config = load_config(path)
-            self.assertEqual(config.state_path, root.resolve() / ".rolebeacon/state.json")
+            self.assertEqual(config.state_path, root.resolve() / ".keryx/state.json")
             self.assertEqual(config.output_dir, root.resolve() / "public")
             self.assertEqual(config.sources[0].kind, "intern-engine")
 

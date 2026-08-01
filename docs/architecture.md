@@ -1,6 +1,6 @@
 # Architecture
 
-RoleBeacon separates public discovery from private delivery.
+Keryx separates public discovery from private delivery.
 
 ```text
 public sources -> provider adapters -> normalized observations
@@ -28,9 +28,9 @@ what another product should display.
 
 ## Identity and deduplication
 
-RoleBeacon canonicalizes official URLs by removing fragments, ordinary tracking parameters, and a
+Keryx canonicalizes official URLs by removing fragments, ordinary tracking parameters, and a
 terminal `/apply`. Job-identifying query parameters are retained. The canonical URL is hashed into
-a stable opaque RoleBeacon ID. When no usable URL exists, source name and source-native ID form the
+a stable opaque Keryx ID. When no usable URL exists, source name and source-native ID form the
 identity.
 
 This is intentionally conservative. Similar company/title/location text is not enough to merge two

@@ -1,6 +1,6 @@
 # Contributing
 
-RoleBeacon accepts provider adapters, lifecycle fixes, schema improvements, documentation, and
+Keryx accepts provider adapters, lifecycle fixes, schema improvements, documentation, and
 tests. Open an issue before making a breaking feed-schema change.
 
 ## Provider requirements

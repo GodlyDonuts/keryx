@@ -1,6 +1,6 @@
 # Feed schema v1
 
-RoleBeacon publishes four files. Additive fields may appear within schema version 1; consumers must
+Keryx publishes four files. Additive fields may appear within schema version 1; consumers must
 ignore fields they do not recognize. Renaming, removing, or changing the meaning of a field requires
 a new schema version.
 

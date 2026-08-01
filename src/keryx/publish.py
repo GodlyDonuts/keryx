@@ -14,7 +14,7 @@ def _atom(result: SyncResult, *, generated_at: str) -> str:
         title = f"{event.event_type.title()}: {job['company']} — {job['title']}"
         entries.append(
             "  <entry>\n"
-            f"    <id>urn:rolebeacon:{escape(event.event_id)}</id>\n"
+            f"    <id>urn:keryx:{escape(event.event_id)}</id>\n"
             f"    <title>{escape(title)}</title>\n"
             f"    <updated>{escape(event.occurred_at)}</updated>\n"
             f'    <link href="{escape(str(job["url"]), quote=True)}"/>\n'
@@ -25,8 +25,8 @@ def _atom(result: SyncResult, *, generated_at: str) -> str:
     return (
         '<?xml version="1.0" encoding="utf-8"?>\n'
         '<feed xmlns="http://www.w3.org/2005/Atom">\n'
-        "  <id>urn:rolebeacon:events</id>\n"
-        "  <title>RoleBeacon job changes</title>\n"
+        "  <id>urn:keryx:events</id>\n"
+        "  <title>Keryx job changes</title>\n"
         f"  <updated>{escape(generated_at)}</updated>\n"
         f"{body}\n"
         "</feed>\n"

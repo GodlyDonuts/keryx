@@ -25,12 +25,12 @@ def load_state(path: Path) -> dict[str, Any]:
     except (OSError, UnicodeDecodeError, json.JSONDecodeError) as error:
         raise ValueError(f"could not read state file {path}: {error}") from error
     if not isinstance(value, dict) or value.get("schema_version") != 1:
-        raise ValueError("unsupported RoleBeacon state schema")
+        raise ValueError("unsupported Keryx state schema")
     if not isinstance(value.get("jobs"), dict):
-        raise ValueError("RoleBeacon state jobs must be an object")
+        raise ValueError("Keryx state jobs must be an object")
     value.setdefault("recent_events", [])
     if not isinstance(value["recent_events"], list):
-        raise ValueError("RoleBeacon state recent_events must be an array")
+        raise ValueError("Keryx state recent_events must be an array")
     return value
 
 

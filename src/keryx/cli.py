@@ -46,7 +46,7 @@ def _sync(config: Config) -> int:
     publish(config.output_dir, result, generated_at=now)
     open_count = sum(job["status"] == "open" for job in result.jobs)
     mode = "baseline" if result.baseline else f"{len(result.events)} change(s)"
-    print(f"RoleBeacon synchronized {open_count} open roles ({mode}).")
+    print(f"Keryx synchronized {open_count} open roles ({mode}).")
     for name, message in errors.items():
         print(f"warning: {name}: {message}", file=sys.stderr)
     print(f"Published feeds to {config.output_dir}")
@@ -70,14 +70,14 @@ def _init(path: Path, *, force: bool) -> int:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(default_config_text(), encoding="utf-8")
     print(f"Created {path}")
-    print("Run `rolebeacon sync` to establish the initial no-alert baseline.")
+    print("Run `keryx sync` to establish the initial no-alert baseline.")
     return 0
 
 
 def build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(prog="rolebeacon", description="Open job-change feeds")
+    parser = argparse.ArgumentParser(prog="keryx", description="Open job-change feeds")
     parser.add_argument("--version", action="version", version=f"%(prog)s {__version__}")
-    parser.add_argument("--config", type=Path, default=Path("rolebeacon.toml"))
+    parser.add_argument("--config", type=Path, default=Path("keryx.toml"))
     commands = parser.add_subparsers(dest="command", required=True)
     initialize = commands.add_parser("init", help="create a starter configuration")
     initialize.add_argument("--force", action="store_true")

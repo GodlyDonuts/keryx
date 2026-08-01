@@ -1,12 +1,12 @@
-# RoleBeacon
+# Keryx
 
 **Know when a role opens—not after everyone else does.**
 
-RoleBeacon is an open-source, source-neutral job discovery engine. It reads public job feeds,
+Keryx is an open-source, source-neutral job discovery engine. It reads public job feeds,
 normalizes their incompatible schemas, merges duplicate listings, tracks role lifecycles, and
 publishes stable JSON and Atom feeds for people, bots, and other career tools.
 
-RoleBeacon is deterministic and local-first. It does not require an AI model, an account, a hosted
+Keryx is deterministic and local-first. It does not require an AI model, an account, a hosted
 database, or a model API key.
 
 ## What it does
@@ -26,14 +26,17 @@ black-box model, or treat source content as instructions.
 
 Requires Python 3.11+ and [uv](https://docs.astral.sh/uv/).
 
+The product, command, and Python module are all named `keryx`. The optional PyPI distribution will
+be published as `keryx-jobs` because the unrelated bare `keryx` distribution name is already taken.
+
 ```console
-git clone https://github.com/GodlyDonuts/rolebeacon.git
-cd rolebeacon
+git clone https://github.com/GodlyDonuts/keryx.git
+cd keryx
 uv sync
-uv run rolebeacon init
-uv run rolebeacon doctor
-uv run rolebeacon sync
-uv run rolebeacon list --limit 10
+uv run keryx init
+uv run keryx doctor
+uv run keryx sync
+uv run keryx list --limit 10
 ```
 
 The first sync creates a baseline and intentionally emits no opening events. Later syncs emit only
@@ -41,9 +44,9 @@ changes discovered after that baseline.
 
 ## Configure sources
 
-`rolebeacon init` creates `rolebeacon.toml`. The starter source uses the public JSON feed from the
+`keryx init` creates `keryx.toml`. The starter source uses the public JSON feed from the
 MIT-licensed [Summer 2027 Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships).
-RoleBeacon is not affiliated with that project, and its adapter keeps the upstream source visible
+Keryx is not affiliated with that project, and its adapter keeps the upstream source visible
 in every record.
 
 Supported source kinds in the first release:
@@ -53,7 +56,7 @@ Supported source kinds in the first release:
 | `intern-engine` | The versioned JSON object published by the Summer 2027 Internship Engine |
 | `simplify` | A Simplify/Pitt CSC `listings.json` array |
 
-Add a source without changing RoleBeacon's state or output contract:
+Add a source without changing Keryx's state or output contract:
 
 ```toml
 [[sources]]
@@ -63,7 +66,7 @@ url = "https://example.invalid/listings.json"
 enabled = true
 ```
 
-Only use feeds whose terms and licenses permit your intended use. RoleBeacon contains adapters,
+Only use feeds whose terms and licenses permit your intended use. Keryx contains adapters,
 not copied upstream datasets.
 
 ## Outputs
@@ -78,7 +81,7 @@ public/
 └── status.json        source counts, failures, and feed health
 ```
 
-Private operational state lives under `.rolebeacon/` by default. Public event outputs retain the
+Private operational state lives under `.keryx/` by default. Public event outputs retain the
 most recent 1,000 transitions, and every event has a stable ID so consumers can safely maintain a
 delivery cursor even when they skip a synchronization.
 See [the schema documentation](docs/schema.md) for the compatibility contract.
@@ -89,7 +92,7 @@ See [the schema documentation](docs/schema.md) for the compatibility contract.
    authoritative job descriptions.
 2. **Absence is not closure unless the snapshot was complete.** Temporary source failures never
    close roles.
-3. **Public data and private subscriptions stay separate.** RoleBeacon's feed contains jobs;
+3. **Public data and private subscriptions stay separate.** Keryx's feed contains jobs;
    downstream products own personal filters, seen state, and credentials.
 4. **No initial alert storm.** Existing jobs become a baseline; only later changes become alerts.
 5. **Consumers are independent.** A Discord bot, desktop tool, RSS reader, or career application
@@ -108,4 +111,4 @@ uv run python -m unittest discover -s tests -v
 uv build
 ```
 
-RoleBeacon is available under the [MIT License](LICENSE).
+Keryx is available under the [MIT License](LICENSE).

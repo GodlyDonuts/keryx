@@ -2,8 +2,8 @@ from __future__ import annotations
 
 import unittest
 
-from rolebeacon.config import SourceConfig
-from rolebeacon.providers import fetch_source
+from keryx.config import SourceConfig
+from keryx.providers import fetch_source
 
 
 class ProviderTests(unittest.TestCase):

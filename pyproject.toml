@@ -3,7 +3,7 @@ requires = ["hatchling>=1.27"]
 build-backend = "hatchling.build"
 
 [project]
-name = "rolebeacon"
+name = "keryx-jobs"
 version = "0.1.0"
 description = "A source-neutral, local-first job discovery and change feed."
 readme = "README.md"
@@ -25,7 +25,7 @@ classifiers = [
 dependencies = []
 
 [project.scripts]
-rolebeacon = "rolebeacon.cli:main"
+keryx = "keryx.cli:main"
 
 [dependency-groups]
 dev = [
@@ -34,7 +34,7 @@ dev = [
 ]
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/rolebeacon"]
+packages = ["src/keryx"]
 
 [tool.ruff]
 line-length = 100
@@ -46,5 +46,4 @@ select = ["E", "F", "I", "UP", "B", "SIM"]
 [tool.mypy]
 python_version = "3.11"
 strict = true
-packages = ["rolebeacon"]
-
+packages = ["keryx"]

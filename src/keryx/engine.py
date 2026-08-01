@@ -69,7 +69,7 @@ def synchronize(
             seen.add(identity)
             existed = identity in jobs
             if not existed and not observation.active:
-                # Historical closed records are not useful until RoleBeacon has observed them open.
+                # Historical closed records are not useful until Keryx has observed them open.
                 continue
             job = jobs.setdefault(identity, _new_job(observation, identity, now))
             previous_status = job["status"]
