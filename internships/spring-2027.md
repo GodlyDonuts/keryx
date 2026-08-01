@@ -2,7 +2,7 @@
 
 > Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
 
-**12 open roles**
+**13 open roles**
 
 | Company | Role | Location | Posted | Seen in | Apply |
 |---|---|---|---|---|---|
@@ -18,3 +18,4 @@
 | Midmark | Firmware Engineering Intern/Co-op | Vandalia, OH | 2026-02-05 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships), [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4333) |
 | GE Appliances | Software Engineering Co-op Spring 2027 | Louisville, KY | 2026-01-23 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832) |
 | GE Aerospace | Embedded Systems Engineer Co-op - Bohemia - NY - Spring 2027 | Bohemia, NY | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Bohemia/Embedded-Systems-Engineer-Co-op--Bohemia--NY----Spring-2027_R5035583-1) |
+| GE Vernova | GE Vernova Nuclear Engineering Co-Op/Intern - Spring 2027 | Wilmington NC USA | — | [Workday direct](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting) | [apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Engineering-Co-Op-Intern---Spring-2027_R5048552-1) |

@@ -3671,6 +3671,29 @@
     },
     {
       "closed_at": null,
+      "company": "SWBC",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_0bd073405fd61e8eef436c84",
+      "last_changed": "2026-08-01",
+      "location": "San Antonio, TX",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "internship",
+      "sources": [
+        {
+          "id": "ats:workday:swbc.wd1.myworkdayjobs.com:swbc:swbccareers",
+          "label": "Workday direct",
+          "url": "https://swbc.wd1.myworkdayjobs.com/swbccareers"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Security Intern",
+      "url": "https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Security-Intern_R0015253"
+    },
+    {
+      "closed_at": null,
       "company": "Cerebras",
       "cycle": "unscheduled",
       "first_seen": "2026-08-01",
@@ -3774,7 +3797,7 @@
       "id": "job_0c839acd2e73b4d773314ba1",
       "last_changed": "2026-08-01",
       "location": "Irvine, CA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-03-27",
       "program": "new-grad",
       "sources": [
@@ -10873,6 +10896,29 @@
     },
     {
       "closed_at": null,
+      "company": "Ercot",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_25c60bfd9de5c5117b0f17ee",
+      "last_changed": "2026-08-01",
+      "location": "Austin, TX",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "ats:workday:ercot.wd1.myworkdayjobs.com:ercot:ercot_careers",
+          "label": "Workday direct",
+          "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Engineer Development Program - Entry Level Power Engineer",
+      "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Engineer-Development-Program---Entry-Level-Power-Engineer_R2167-1"
+    },
+    {
+      "closed_at": null,
       "company": "Applied Systems",
       "cycle": "2027",
       "first_seen": "2026-08-01",
@@ -12385,16 +12431,21 @@
     },
     {
       "closed_at": null,
-      "company": "Solar Turbines (Caterpillar)",
+      "company": "Solar Turbines",
       "cycle": "summer-2027",
       "first_seen": "2026-08-01",
       "id": "job_2b102159527a4be0c6e04c48",
       "last_changed": "2026-08-01",
-      "location": "San Diego, CA",
+      "location": "San Diego, California",
       "missed_runs": 0,
       "posted_at": "2026-07-16",
       "program": "internship",
       "sources": [
+        {
+          "id": "ats:workday:cat.wd5.myworkdayjobs.com:cat:solarturbines",
+          "label": "Workday direct",
+          "url": "https://cat.wd5.myworkdayjobs.com/solarturbines"
+        },
         {
           "id": "sndsh-internships",
           "label": "Summer 2027 list",
@@ -12403,8 +12454,8 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "Business Analyst Intern (2027)",
-      "url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Business-Analyst-Intern_R0000381902"
+      "title": "2027 Business Analyst Intern",
+      "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Business-Analyst-Intern_R0000381902"
     },
     {
       "closed_at": null,
@@ -18308,11 +18359,16 @@
       "first_seen": "2026-08-01",
       "id": "job_3e9e52082faf841363e85efe",
       "last_changed": "2026-08-01",
-      "location": "Houston, TX",
+      "location": "Houston, Texas, United States of America",
       "missed_runs": 0,
       "posted_at": "2026-07-16",
       "program": "internship",
       "sources": [
+        {
+          "id": "ats:workday:chevron.wd5.myworkdayjobs.com:chevron:university",
+          "label": "Workday direct",
+          "url": "https://chevron.wd5.myworkdayjobs.com/University"
+        },
         {
           "id": "intern-engine",
           "label": "Internship Engine",
@@ -18331,7 +18387,7 @@
       ],
       "sponsorship": "no-sponsorship",
       "status": "open",
-      "title": "Software Engineer Intern - Information Technology - Software Engineer",
+      "title": "2026-2027 Information Technology - Software Engineer - Intern",
       "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1"
     },
     {
@@ -19648,6 +19704,29 @@
       "status": "open",
       "title": "Machine Learning Engineer Graduate - Data-Search-Recommendation",
       "url": "https://lifeattiktok.com/search/7533377193083177234"
+    },
+    {
+      "closed_at": null,
+      "company": "Solar Turbines",
+      "cycle": "2027",
+      "first_seen": "2026-08-01",
+      "id": "job_4399b788976e74c729344c7b",
+      "last_changed": "2026-08-01",
+      "location": "San Diego, California",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "ats:workday:cat.wd5.myworkdayjobs.com:cat:solarturbines",
+          "label": "Workday direct",
+          "url": "https://cat.wd5.myworkdayjobs.com/solarturbines"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "2027 Entry Level Project Applications Engineer",
+      "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Project-Applications-Engineer_R0000381656"
     },
     {
       "closed_at": null,
@@ -21094,6 +21173,29 @@
     },
     {
       "closed_at": null,
+      "company": "Tencent",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_47a5f4f3775c0b010690fcfc",
+      "last_changed": "2026-08-01",
+      "location": "US-California-Los Angeles",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "internship",
+      "sources": [
+        {
+          "id": "ats:workday:tencent.wd1.myworkdayjobs.com:tencent:tencent_careers",
+          "label": "Workday direct",
+          "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Game Research & Development Intern, Engine Research",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R107344-1"
+    },
+    {
+      "closed_at": null,
       "company": "TikTok",
       "cycle": "fall-2026",
       "first_seen": "2026-08-01",
@@ -21311,6 +21413,29 @@
     },
     {
       "closed_at": null,
+      "company": "Manhattan Associates",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_48b3c831a0f6d72b204bc892",
+      "last_changed": "2026-08-01",
+      "location": "Atlanta, GA",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "ats:workday:manh.wd5.myworkdayjobs.com:manh:campus",
+          "label": "Workday direct",
+          "url": "https://manh.wd5.myworkdayjobs.com/campus"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Software Engineer - Early Career",
+      "url": "https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/Software-Engineer---Early-Career_16977"
+    },
+    {
+      "closed_at": null,
       "company": "Micron Technology",
       "cycle": "unscheduled",
       "first_seen": "2026-08-01",
@@ -21408,11 +21533,16 @@
       "first_seen": "2026-08-01",
       "id": "job_48f89415c4f30689d9295e0b",
       "last_changed": "2026-08-01",
-      "location": "Bellevue, WA",
+      "location": "US-Washington-Bellevue",
       "missed_runs": 0,
       "posted_at": null,
       "program": "internship",
       "sources": [
+        {
+          "id": "ats:workday:tencent.wd1.myworkdayjobs.com:tencent:tencent_careers",
+          "label": "Workday direct",
+          "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers"
+        },
         {
           "id": "speedy-internships",
           "label": "SpeedyApply",
@@ -21422,7 +21552,7 @@
       "sponsorship": null,
       "status": "open",
       "title": "Cloud Media Services Intern",
-      "url": "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-Washington-Bellevue/Cloud-Media-Services-Intern_R107794"
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Cloud-Media-Services-Intern_R107794"
     },
     {
       "closed_at": null,
@@ -21492,6 +21622,29 @@
       "status": "open",
       "title": "Critical and Emerging Technology Research Professional",
       "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Critical-and-Emerging-Technology-Research-Professional_JR104086"
+    },
+    {
+      "closed_at": null,
+      "company": "Chevron Corporation",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_4935f9c6823fd7575253f20d",
+      "last_changed": "2026-08-01",
+      "location": "Houston, Texas, United States of America",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "internship",
+      "sources": [
+        {
+          "id": "ats:workday:chevron.wd5.myworkdayjobs.com:chevron:university",
+          "label": "Workday direct",
+          "url": "https://chevron.wd5.myworkdayjobs.com/University"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "2026-2027: Information Technology \u2013 Information and Analytics \u2013 Full Time (Previous Intern)",
+      "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027--Information-Technology---Information-and-Analytics---Full-Time--Previous-Intern-_R000072348"
     },
     {
       "closed_at": null,
@@ -22926,16 +23079,21 @@
     },
     {
       "closed_at": null,
-      "company": "Solar Turbines (Caterpillar)",
+      "company": "Solar Turbines",
       "cycle": "summer-2027",
       "first_seen": "2026-08-01",
       "id": "job_4e7f4baeaa205d9c50ba702e",
       "last_changed": "2026-08-01",
-      "location": "San Diego, CA",
+      "location": "San Diego, California",
       "missed_runs": 0,
       "posted_at": "2026-06-12",
       "program": "internship",
       "sources": [
+        {
+          "id": "ats:workday:cat.wd5.myworkdayjobs.com:cat:solarturbines",
+          "label": "Workday direct",
+          "url": "https://cat.wd5.myworkdayjobs.com/solarturbines"
+        },
         {
           "id": "sndsh-internships",
           "label": "Summer 2027 list",
@@ -22944,8 +23102,8 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "Gas Compressor Data Analyst Intern \ud83d\udec2",
-      "url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786"
+      "title": "2027 Internship: Gas Compressor Data Analyst",
+      "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786"
     },
     {
       "closed_at": null,
@@ -23309,6 +23467,29 @@
     },
     {
       "closed_at": null,
+      "company": "GlobalFoundries",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_4f7f1088281d89538cb220c5",
+      "last_changed": "2026-08-01",
+      "location": "USA - New York - Malta",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "internship",
+      "sources": [
+        {
+          "id": "ats:workday:globalfoundries.wd1.myworkdayjobs.com:globalfoundries:external",
+          "label": "Workday direct",
+          "url": "https://globalfoundries.wd1.myworkdayjobs.com/External"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Device Engineering Intern, ULP CMOS (Summer 2026)",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Product-Business-Unit-Finance-Intern--Summer-2026-_JR-2502830"
+    },
+    {
+      "closed_at": null,
       "company": "Travelers",
       "cycle": "unscheduled",
       "first_seen": "2026-08-01",
@@ -23559,6 +23740,29 @@
       "status": "open",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site-_01860803"
+    },
+    {
+      "closed_at": null,
+      "company": "GlobalFoundries",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_501e248c7a22f931a8e65aa5",
+      "last_changed": "2026-08-01",
+      "location": "USA - Texas - Austin",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "internship",
+      "sources": [
+        {
+          "id": "ats:workday:globalfoundries.wd1.myworkdayjobs.com:globalfoundries:external",
+          "label": "Workday direct",
+          "url": "https://globalfoundries.wd1.myworkdayjobs.com/External"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Human Resources Intern, Digital & AI (Summer 2026)",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Human-Resources-Intern--HR-Shared-Services--Summer-2026-_JR-2503145"
     },
     {
       "closed_at": null,
@@ -24410,6 +24614,29 @@
     },
     {
       "closed_at": null,
+      "company": "The Boeing Company",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_5394f8168d9a934c8f4414a9",
+      "last_changed": "2026-08-01",
+      "location": "USA - El Segundo, CA",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "ats:workday:boeing.wd1.myworkdayjobs.com:boeing:external_subsidiary",
+          "label": "Workday direct",
+          "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Entry-Level Systems Engineer (Digital Comm & Networks Sys Engrg)",
+      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-Level-Systems-Engineer--Digital-Comm---Networks-Sys-Engrg-_JR2026510769"
+    },
+    {
+      "closed_at": null,
       "company": "Vanderbilt University Medical Center",
       "cycle": "2027",
       "first_seen": "2026-08-01",
@@ -24716,6 +24943,29 @@
       "status": "open",
       "title": "Entry Level Software Engineer",
       "url": "https://careers-i3-corps.icims.com/jobs/5175/job"
+    },
+    {
+      "closed_at": null,
+      "company": "Chevron Corporation",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_546b2e3ee3c38abbddacb6c1",
+      "last_changed": "2026-08-01",
+      "location": "Houston, Texas, United States of America",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "internship",
+      "sources": [
+        {
+          "id": "ats:workday:chevron.wd5.myworkdayjobs.com:chevron:university",
+          "label": "Workday direct",
+          "url": "https://chevron.wd5.myworkdayjobs.com/University"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "2026-2027 Information Technology \u2013 Information Technology Intern (Previous Intern)",
+      "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Information-Technology-Intern--Previous-Intern-_R000072343"
     },
     {
       "closed_at": null,
@@ -27779,11 +28029,16 @@
       "first_seen": "2026-08-01",
       "id": "job_60cafa770d0e6f2ad1f9c2a5",
       "last_changed": "2026-08-01",
-      "location": "Phoenix, AZ",
+      "location": "US, Arizona, Phoenix",
       "missed_runs": 0,
       "posted_at": "2026-07-17",
       "program": "internship",
       "sources": [
+        {
+          "id": "ats:workday:intel.wd1.myworkdayjobs.com:intel:external",
+          "label": "Workday direct",
+          "url": "https://intel.wd1.myworkdayjobs.com/external"
+        },
         {
           "id": "intern-engine",
           "label": "Internship Engine",
@@ -27798,7 +28053,7 @@
       "sponsorship": null,
       "status": "open",
       "title": "AI Software Engineering Intern",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641"
+      "url": "https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641"
     },
     {
       "closed_at": null,
@@ -28542,6 +28797,29 @@
       "status": "open",
       "title": "Software Engineer, New Grad - Defense",
       "url": "https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79"
+    },
+    {
+      "closed_at": null,
+      "company": "Solar Turbines",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_630bc49726732266bf387dc4",
+      "last_changed": "2026-08-01",
+      "location": "San Diego, California",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "internship",
+      "sources": [
+        {
+          "id": "ats:workday:cat.wd5.myworkdayjobs.com:cat:solarturbines",
+          "label": "Workday direct",
+          "url": "https://cat.wd5.myworkdayjobs.com/solarturbines"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "2027 Gas Turbine Product Engineering Internship",
+      "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027--Gas-Turbine-Product-Engineering-Internship_R0000382293"
     },
     {
       "closed_at": null,
@@ -30732,15 +31010,20 @@
     {
       "closed_at": null,
       "company": "GlobalFoundries",
-      "cycle": "unscheduled",
+      "cycle": "2026",
       "first_seen": "2026-08-01",
       "id": "job_6a893e21b77482fba41f08ca",
       "last_changed": "2026-08-01",
-      "location": "Malta, NY",
+      "location": "USA - New York - Malta",
       "missed_runs": 0,
       "posted_at": "2026-05-23",
       "program": "new-grad",
       "sources": [
+        {
+          "id": "ats:workday:globalfoundries.wd1.myworkdayjobs.com:globalfoundries:external",
+          "label": "Workday direct",
+          "url": "https://globalfoundries.wd1.myworkdayjobs.com/External"
+        },
         {
           "id": "simplify-new-grad",
           "label": "Simplify",
@@ -30749,7 +31032,7 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "3D Heterogeneous Integration Design Enablement Engineer",
+      "title": "3D Heterogeneous Integration Design Enablement Engineer (2026 New College Graduate)",
       "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/XMLNAME-3D-Heterogeneous-Integration-Design-Enablement-Engineer--2025-New-College-Graduate-_JR-2501678"
     },
     {
@@ -31004,6 +31287,29 @@
       "status": "open",
       "title": "Software Engineer",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-DevOps-Engineer---Level-2-3_R10236589"
+    },
+    {
+      "closed_at": null,
+      "company": "The Boeing Company",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_6b5f372c2850c47f57e4a794",
+      "last_changed": "2026-08-01",
+      "location": "USA - El Segundo, CA",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "ats:workday:boeing.wd1.myworkdayjobs.com:boeing:external_subsidiary",
+          "label": "Workday direct",
+          "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "DSP Algorithms Engineer (Entry-Level)",
+      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239"
     },
     {
       "closed_at": null,
@@ -31888,6 +32194,29 @@
       "status": "open",
       "title": "Engineer or Principal Engineer - Fluid Subsystems Design",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-or-Principal-Engineer---Fluid-Subsystems-Design_R10243103"
+    },
+    {
+      "closed_at": null,
+      "company": "Solar Turbines",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_6ed9dcb42c41cec1319028dc",
+      "last_changed": "2026-08-01",
+      "location": "Tijuana, Baja California",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "internship",
+      "sources": [
+        {
+          "id": "ats:workday:cat.wd5.myworkdayjobs.com:cat:solarturbines",
+          "label": "Workday direct",
+          "url": "https://cat.wd5.myworkdayjobs.com/solarturbines"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "INTERN- Service Parts Engineering (Tijuana, MX)",
+      "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Tijuana-Baja-California/INTERN--Service-Parts-Engineering--Tijuana--MX-_R0000380390"
     },
     {
       "closed_at": null,
@@ -33049,6 +33378,11 @@
       "program": "internship",
       "sources": [
         {
+          "id": "ats:workday:cadence.wd1.myworkdayjobs.com:cadence:university_talent",
+          "label": "Workday direct",
+          "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent"
+        },
+        {
           "id": "simplify-internships",
           "label": "Simplify",
           "url": "https://github.com/SimplifyJobs/Summer2027-Internships"
@@ -33056,7 +33390,7 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "Product Engineering Intern - Simulation and Verification",
+      "title": "Product Engineering Internship, Simulation and Verification (Fall 2026)",
       "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Fall-2026-_R53475"
     },
     {
@@ -33127,6 +33461,29 @@
       "status": "open",
       "title": "Software Engineer I/II",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7813360003"
+    },
+    {
+      "closed_at": null,
+      "company": "Tencent",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_73187e3defcdd99bd6cd5f74",
+      "last_changed": "2026-08-01",
+      "location": "US-California-Palo Alto",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "internship",
+      "sources": [
+        {
+          "id": "ats:workday:tencent.wd1.myworkdayjobs.com:tencent:tencent_careers",
+          "label": "Workday direct",
+          "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "IT Operations Intern",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/IT-Operations-Intern_R107720"
     },
     {
       "closed_at": null,
@@ -34146,6 +34503,29 @@
       "status": "open",
       "title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search",
       "url": "https://lifeattiktok.com/search/7550436740058581255"
+    },
+    {
+      "closed_at": null,
+      "company": "Solar Turbines",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_7696efd8e886fb09ad9aaf91",
+      "last_changed": "2026-08-01",
+      "location": "San Diego, California",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "ats:workday:cat.wd5.myworkdayjobs.com:cat:solarturbines",
+          "label": "Workday direct",
+          "url": "https://cat.wd5.myworkdayjobs.com/solarturbines"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Entry Level Mechanical Design Engineer",
+      "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/Entry-Level-Mechanical-Design-Engineer_R0000384014"
     },
     {
       "closed_at": null,
@@ -36752,6 +37132,29 @@
     },
     {
       "closed_at": null,
+      "company": "Tencent",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_7f1d3722a93001ac1a14fd14",
+      "last_changed": "2026-08-01",
+      "location": "US-Washington-Bellevue",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "internship",
+      "sources": [
+        {
+          "id": "ats:workday:tencent.wd1.myworkdayjobs.com:tencent:tencent_careers",
+          "label": "Workday direct",
+          "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Game Research & Development Intern, Engine Research",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363-1"
+    },
+    {
+      "closed_at": null,
       "company": "Global Channel Management",
       "cycle": "unscheduled",
       "first_seen": "2026-08-01",
@@ -36832,6 +37235,11 @@
       "program": "internship",
       "sources": [
         {
+          "id": "ats:workday:leidos.wd5.myworkdayjobs.com:leidos:external",
+          "label": "Workday direct",
+          "url": "https://leidos.wd5.myworkdayjobs.com/External"
+        },
+        {
           "id": "intern-engine",
           "label": "Internship Engine",
           "url": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"
@@ -36845,7 +37253,7 @@
       "sponsorship": "citizens-only",
       "status": "open",
       "title": "Application Developer Intern",
-      "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1"
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1"
     },
     {
       "closed_at": null,
@@ -37705,16 +38113,21 @@
     },
     {
       "closed_at": null,
-      "company": "Solar Turbines (Caterpillar)",
+      "company": "Solar Turbines",
       "cycle": "summer-2027",
       "first_seen": "2026-08-01",
       "id": "job_8287b8d094bcb578cbf2e737",
       "last_changed": "2026-08-01",
-      "location": "San Diego, CA",
+      "location": "San Diego, California",
       "missed_runs": 0,
       "posted_at": "2026-07-16",
       "program": "internship",
       "sources": [
+        {
+          "id": "ats:workday:cat.wd5.myworkdayjobs.com:cat:solarturbines",
+          "label": "Workday direct",
+          "url": "https://cat.wd5.myworkdayjobs.com/solarturbines"
+        },
         {
           "id": "sndsh-internships",
           "label": "Summer 2027 list",
@@ -37723,8 +38136,31 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "IT Intern (2027)",
-      "url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898"
+      "title": "2027 IT Intern",
+      "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-IT-Intern_R0000381898"
+    },
+    {
+      "closed_at": null,
+      "company": "Solar Turbines",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_8296a0678a05ca99a194cbb2",
+      "last_changed": "2026-08-01",
+      "location": "San Diego, California",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "internship",
+      "sources": [
+        {
+          "id": "ats:workday:cat.wd5.myworkdayjobs.com:cat:solarturbines",
+          "label": "Workday direct",
+          "url": "https://cat.wd5.myworkdayjobs.com/solarturbines"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "2027 Internship -Supplier Technical Engineer",
+      "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Internship--Supplier-Technical-Engineer-_R0000383125"
     },
     {
       "closed_at": null,
@@ -38152,6 +38588,29 @@
     },
     {
       "closed_at": null,
+      "company": "GlobalFoundries",
+      "cycle": "2026",
+      "first_seen": "2026-08-01",
+      "id": "job_8420a92a3a4da155df4b6081",
+      "last_changed": "2026-08-01",
+      "location": "USA - Vermont - Essex Junction",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "ats:workday:globalfoundries.wd1.myworkdayjobs.com:globalfoundries:external",
+          "label": "Workday direct",
+          "url": "https://globalfoundries.wd1.myworkdayjobs.com/External"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Photonics Packaging Characterization Engineer (2026 New College Graduate)",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Photonics-Packaging-Physical-Inspection-Characterization-Engineer_JR-2502052"
+    },
+    {
+      "closed_at": null,
       "company": "Palantir",
       "cycle": "unscheduled",
       "first_seen": "2026-08-01",
@@ -38576,6 +39035,29 @@
     },
     {
       "closed_at": null,
+      "company": "University of Rochester",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_858345848680badc9f4cf91c",
+      "last_changed": "2026-08-01",
+      "location": "Rochester - NY",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "internship",
+      "sources": [
+        {
+          "id": "ats:workday:rochester.wd5.myworkdayjobs.com:rochester:ur_staff",
+          "label": "Workday direct",
+          "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Co-op Research Student I (Electronics Shop)",
+      "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Rochester---NY/Co-op-Research-Student-I--Electronics-Shop-_R273409"
+    },
+    {
+      "closed_at": null,
       "company": "Palantir",
       "cycle": "unscheduled",
       "first_seen": "2026-08-01",
@@ -38883,6 +39365,11 @@
       "program": "internship",
       "sources": [
         {
+          "id": "ats:workday:waystar.wd1.myworkdayjobs.com:waystar:waystar",
+          "label": "Workday direct",
+          "url": "https://waystar.wd1.myworkdayjobs.com/Waystar"
+        },
+        {
           "id": "simplify-internships",
           "label": "Simplify",
           "url": "https://github.com/SimplifyJobs/Summer2027-Internships"
@@ -39089,6 +39576,11 @@
       "posted_at": "2026-07-29",
       "program": "internship",
       "sources": [
+        {
+          "id": "ats:workday:leidos.wd5.myworkdayjobs.com:leidos:external",
+          "label": "Workday direct",
+          "url": "https://leidos.wd5.myworkdayjobs.com/External"
+        },
         {
           "id": "intern-engine",
           "label": "Internship Engine",
@@ -40836,11 +41328,16 @@
       "first_seen": "2026-08-01",
       "id": "job_8e4cff59a109a26d045068e2",
       "last_changed": "2026-08-01",
-      "location": "Stamford, CT",
+      "location": "Stamford, Connecticut",
       "missed_runs": 0,
       "posted_at": "2026-07-23",
       "program": "internship",
       "sources": [
+        {
+          "id": "ats:workday:group1001wd.wd5.myworkdayjobs.com:group1001wd:careers",
+          "label": "Workday direct",
+          "url": "https://group1001wd.wd5.myworkdayjobs.com/careers"
+        },
         {
           "id": "simplify-internships",
           "label": "Simplify",
@@ -40934,6 +41431,11 @@
       "program": "internship",
       "sources": [
         {
+          "id": "ats:workday:waystar.wd1.myworkdayjobs.com:waystar:waystar",
+          "label": "Workday direct",
+          "url": "https://waystar.wd1.myworkdayjobs.com/Waystar"
+        },
+        {
           "id": "simplify-internships",
           "label": "Simplify",
           "url": "https://github.com/SimplifyJobs/Summer2027-Internships"
@@ -40941,7 +41443,7 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "Application Engineer Co-op",
+      "title": "Application Engineer Co Op",
       "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Application-Engineer-Co-Op_R3313-1"
     },
     {
@@ -42230,6 +42732,29 @@
       "status": "open",
       "title": "Developer Technology Engineer \u2013 New College Grad - AI",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Grad-2026_JR2014130-1"
+    },
+    {
+      "closed_at": null,
+      "company": "The Boeing Company",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_93363a0a87a5a54fac3eab40",
+      "last_changed": "2026-08-01",
+      "location": "USA - North Charleston, SC",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "ats:workday:boeing.wd1.myworkdayjobs.com:boeing:external_subsidiary",
+          "label": "Workday direct",
+          "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Entry-Level Product Review Engineer (Liaison Engineer)",
+      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---North-Charleston-SC/Entry-Level-Product-Review-Engineer--Liaison-Engineer-_JR2026518890"
     },
     {
       "closed_at": null,
@@ -46142,6 +46667,29 @@
     },
     {
       "closed_at": null,
+      "company": "Solar Turbines",
+      "cycle": "2027",
+      "first_seen": "2026-08-01",
+      "id": "job_a1795649b801a255360a34b9",
+      "last_changed": "2026-08-01",
+      "location": "San Diego, California",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "ats:workday:cat.wd5.myworkdayjobs.com:cat:solarturbines",
+          "label": "Workday direct",
+          "url": "https://cat.wd5.myworkdayjobs.com/solarturbines"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "2027 Entry Level Suppler Technical Engineer",
+      "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Suppler-Technical-Engineer-_R0000383122"
+    },
+    {
+      "closed_at": null,
       "company": "Link",
       "cycle": "unscheduled",
       "first_seen": "2026-08-01",
@@ -48443,6 +48991,29 @@
       "status": "open",
       "title": "Data Analyst",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Riverside-CA-US/Data-Analyst_324138-1"
+    },
+    {
+      "closed_at": null,
+      "company": "Solar Turbines",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_ab2749aa03de8841572fd22f",
+      "last_changed": "2026-08-01",
+      "location": "Tijuana, Baja California",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "internship",
+      "sources": [
+        {
+          "id": "ats:workday:cat.wd5.myworkdayjobs.com:cat:solarturbines",
+          "label": "Workday direct",
+          "url": "https://cat.wd5.myworkdayjobs.com/solarturbines"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "internship Service Parts Engineering (Student Tijuana MX)",
+      "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Tijuana-Baja-California/internship-Service-Parts-Engineering--Student-Tijuana-MX-_R0000380392"
     },
     {
       "closed_at": null,
@@ -54249,6 +54820,29 @@
       "status": "open",
       "title": "Field Service Engineer - HPLC/GC",
       "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/US-OH-Cleveland/Field-Service-Engineer---HPLC-GC_4038818-1"
+    },
+    {
+      "closed_at": null,
+      "company": "GE Vernova",
+      "cycle": "summer-2027",
+      "first_seen": "2026-08-01",
+      "id": "job_bfcb1e88c9fe6a88938e56a9",
+      "last_changed": "2026-08-01",
+      "location": "Wilmington NC USA",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "internship",
+      "sources": [
+        {
+          "id": "ats:workday:gevernova.wd5.myworkdayjobs.com:gevernova:only_confidential_executive_recruiting",
+          "label": "Workday direct",
+          "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "GE Vernova Nuclear Engineering Intern - Summer 2027",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Engineering-Intern---Summer-2027_R5048563-1"
     },
     {
       "closed_at": null,
@@ -60159,7 +60753,7 @@
     {
       "closed_at": null,
       "company": "Cadence Design Systems",
-      "cycle": "unscheduled",
+      "cycle": "2026",
       "first_seen": "2026-08-01",
       "id": "job_d3dddedce677560a8951606c",
       "last_changed": "2026-08-01",
@@ -60169,6 +60763,11 @@
       "program": "new-grad",
       "sources": [
         {
+          "id": "ats:workday:cadence.wd1.myworkdayjobs.com:cadence:university_talent",
+          "label": "Workday direct",
+          "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent"
+        },
+        {
           "id": "simplify-new-grad",
           "label": "Simplify",
           "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
@@ -60176,7 +60775,7 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "Software Engineer New Grad - Undergrads",
+      "title": "Software Engineer, New College Grad 2026 (Undergrads)",
       "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894"
     },
     {
@@ -61593,6 +62192,29 @@
       "status": "open",
       "title": "Data Science Intern - Data Science",
       "url": "https://jobs.smartrecruiters.com/RedBull/744000139168339"
+    },
+    {
+      "closed_at": null,
+      "company": "GE Vernova",
+      "cycle": "spring-2027",
+      "first_seen": "2026-08-01",
+      "id": "job_d8d1c19b0029e7a20bf0733d",
+      "last_changed": "2026-08-01",
+      "location": "Wilmington NC USA",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "internship",
+      "sources": [
+        {
+          "id": "ats:workday:gevernova.wd5.myworkdayjobs.com:gevernova:only_confidential_executive_recruiting",
+          "label": "Workday direct",
+          "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "GE Vernova Nuclear Engineering Co-Op/Intern - Spring 2027",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Engineering-Co-Op-Intern---Spring-2027_R5048552-1"
     },
     {
       "closed_at": null,
@@ -64076,6 +64698,29 @@
     },
     {
       "closed_at": null,
+      "company": "RTX",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_e15ceb1a48c298b9d1dadee8",
+      "last_changed": "2026-08-01",
+      "location": "DE-BW-HEIDELBERG-036-751 ~ Grenzhofer Weg 36 ~ BLDG 751",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "internship",
+      "sources": [
+        {
+          "id": "ats:workday:globalhr.wd5.myworkdayjobs.com:globalhr:rec_rtx_ext_gateway",
+          "label": "Workday direct",
+          "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Internship Engineering (m/f/d)",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/DE-BW-HEIDELBERG-036-751--Grenzhofer-Weg-36--BLDG-751/Internship-Engineering--m-f-d-_01863601"
+    },
+    {
+      "closed_at": null,
       "company": "Acuity",
       "cycle": "unscheduled",
       "first_seen": "2026-08-01",
@@ -64266,15 +64911,20 @@
     {
       "closed_at": null,
       "company": "GlobalFoundries",
-      "cycle": "unscheduled",
+      "cycle": "2026",
       "first_seen": "2026-08-01",
       "id": "job_e2023791b2eca8f3314aff49",
       "last_changed": "2026-08-01",
-      "location": "Austin, TX",
+      "location": "USA - Texas - Austin",
       "missed_runs": 0,
       "posted_at": "2026-03-27",
       "program": "new-grad",
       "sources": [
+        {
+          "id": "ats:workday:globalfoundries.wd1.myworkdayjobs.com:globalfoundries:external",
+          "label": "Workday direct",
+          "url": "https://globalfoundries.wd1.myworkdayjobs.com/External"
+        },
         {
           "id": "simplify-new-grad",
           "label": "Simplify",
@@ -64283,7 +64933,7 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "Global Tapeout and Mask Operations New College Graduate - Biz App and Data Engineer",
+      "title": "Global Tapeout and Mask Operations, Biz App and Data Engineer (2026 New College Graduate)",
       "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1"
     },
     {
@@ -64750,11 +65400,16 @@
       "first_seen": "2026-08-01",
       "id": "job_e3d6a0d374d9b6cd4e43ae33",
       "last_changed": "2026-08-01",
-      "location": "Pflugerville, TX",
+      "location": "Austin, TX",
       "missed_runs": 0,
       "posted_at": "2026-05-20",
       "program": "new-grad",
       "sources": [
+        {
+          "id": "ats:workday:ercot.wd1.myworkdayjobs.com:ercot:ercot_careers",
+          "label": "Workday direct",
+          "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers"
+        },
         {
           "id": "simplify-new-grad",
           "label": "Simplify",
@@ -64763,7 +65418,7 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "Entry Level Power & Computer Engineer",
+      "title": "GMS Development Program \u2013 Entry Level Power & Computer Engineer",
       "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/GMS-Development-Program---Entry-Level-Power---Computer-Engineer_R2289-1"
     },
     {
@@ -65119,15 +65774,20 @@
     {
       "closed_at": null,
       "company": "GlobalFoundries",
-      "cycle": "unscheduled",
+      "cycle": "2026",
       "first_seen": "2026-08-01",
       "id": "job_e4eafcf06125891ae4e9ddd9",
       "last_changed": "2026-08-01",
-      "location": "Austin, TX",
+      "location": "USA - Texas - Austin",
       "missed_runs": 0,
       "posted_at": "2026-06-29",
       "program": "new-grad",
       "sources": [
+        {
+          "id": "ats:workday:globalfoundries.wd1.myworkdayjobs.com:globalfoundries:external",
+          "label": "Workday direct",
+          "url": "https://globalfoundries.wd1.myworkdayjobs.com/External"
+        },
         {
           "id": "simplify-new-grad",
           "label": "Simplify",
@@ -65136,7 +65796,7 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "Tapeout Engineer New Grad",
+      "title": "Tapeout Engineer, 2026 New College Graduate",
       "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Tapeout-Engineer--2026-New-College-Graduate_JR-2602561"
     },
     {
@@ -65409,11 +66069,16 @@
       "first_seen": "2026-08-01",
       "id": "job_e5c0361dc350c2020e4357b6",
       "last_changed": "2026-08-01",
-      "location": "Palo Alto, CA",
+      "location": "US-California-Palo Alto",
       "missed_runs": 0,
       "posted_at": "2026-07-15",
       "program": "internship",
       "sources": [
+        {
+          "id": "ats:workday:tencent.wd1.myworkdayjobs.com:tencent:tencent_careers",
+          "label": "Workday direct",
+          "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers"
+        },
         {
           "id": "intern-engine",
           "label": "Internship Engine",
@@ -65427,7 +66092,7 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "Research Intern - Video World Models - Research & ML Systems",
+      "title": "Research Intern \u2013 Video World Models (Research & ML Systems)",
       "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Research-Intern---Video-World-Models--Research---ML-Systems-_R107752-1"
     },
     {
@@ -65567,6 +66232,29 @@
       "status": "open",
       "title": "Software Development Engineer - Agentic WorkSpaces",
       "url": "https://www.amazon.jobs/jobs/10483968"
+    },
+    {
+      "closed_at": null,
+      "company": "Solar Turbines",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_e703391a1f54eb199c6a9dc0",
+      "last_changed": "2026-08-01",
+      "location": "Desoto, Texas",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "internship",
+      "sources": [
+        {
+          "id": "ats:workday:cat.wd5.myworkdayjobs.com:cat:solarturbines",
+          "label": "Workday direct",
+          "url": "https://cat.wd5.myworkdayjobs.com/solarturbines"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "2027 Internship- Overhaul Engineer",
+      "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/Desoto-Texas/XMLNAME-2027-Internship--Overhaul-Engineer_R0000381647"
     },
     {
       "closed_at": null,
@@ -68840,11 +69528,16 @@
       "first_seen": "2026-08-01",
       "id": "job_f39374ca6c9d785296e97d5c",
       "last_changed": "2026-08-01",
-      "location": "Seal Beach, CA, El Segundo, CA",
+      "location": "USA - El Segundo, CA",
       "missed_runs": 0,
       "posted_at": "2026-07-28",
       "program": "new-grad",
       "sources": [
+        {
+          "id": "ats:workday:boeing.wd1.myworkdayjobs.com:boeing:external_subsidiary",
+          "label": "Workday direct",
+          "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary"
+        },
         {
           "id": "simplify-new-grad",
           "label": "Simplify",
@@ -68858,7 +69551,7 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "Entry-Level Software Engineer-Developers",
+      "title": "Entry-level Software Engineer\u2013Developers",
       "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-level-Software-Engineer-Developers_JR2026518452"
     },
     {
@@ -69891,15 +70584,20 @@
     {
       "closed_at": null,
       "company": "Solar Turbines",
-      "cycle": "unscheduled",
+      "cycle": "2027",
       "first_seen": "2026-08-01",
       "id": "job_f84ed30621e3de9a8d3d7df2",
       "last_changed": "2026-08-01",
-      "location": "San Diego, CA",
+      "location": "San Diego, California",
       "missed_runs": 0,
       "posted_at": "2026-07-16",
       "program": "new-grad",
       "sources": [
+        {
+          "id": "ats:workday:cat.wd5.myworkdayjobs.com:cat:solarturbines",
+          "label": "Workday direct",
+          "url": "https://cat.wd5.myworkdayjobs.com/solarturbines"
+        },
         {
           "id": "simplify-new-grad",
           "label": "Simplify",
@@ -69908,8 +70606,8 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "Entry Level Gas Turbine Product Engineer - Gtpe",
-      "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291"
+      "title": "2027 Entry Level Gas Turbine Product Engineer (GTPE)",
+      "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291"
     },
     {
       "closed_at": null,
@@ -70747,7 +71445,7 @@
       "id": "job_fbc5eb83e0d692c3df576c52",
       "last_changed": "2026-08-01",
       "location": "Plano, TX",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-01",
       "program": "new-grad",
       "sources": [
@@ -71290,6 +71988,11 @@
       "posted_at": "2026-07-29",
       "program": "internship",
       "sources": [
+        {
+          "id": "ats:workday:leidos.wd5.myworkdayjobs.com:leidos:external",
+          "label": "Workday direct",
+          "url": "https://leidos.wd5.myworkdayjobs.com/External"
+        },
         {
           "id": "intern-engine",
           "label": "Internship Engine",
@@ -72125,6 +72828,29 @@
       "status": "open",
       "title": "Graduate Design Verification Engineer - Video Silicon IP",
       "url": "https://jobs.bytedance.com/en/position/7551554573577750802/detail"
+    },
+    {
+      "closed_at": null,
+      "company": "Solar Turbines",
+      "cycle": "2027",
+      "first_seen": "2026-08-01",
+      "id": "job_ffddb7585c9215dd0cdf4671",
+      "last_changed": "2026-08-01",
+      "location": "San Diego, California",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "ats:workday:cat.wd5.myworkdayjobs.com:cat:solarturbines",
+          "label": "Workday direct",
+          "url": "https://cat.wd5.myworkdayjobs.com/solarturbines"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "2027 Entry Level Engineer Rotation Turbomachinery Operations",
+      "url": "https://cat.wd5.myworkdayjobs.com/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Engineer-Rotation-Turbomachinery-Operations_R0000382939"
     },
     {
       "closed_at": null,
