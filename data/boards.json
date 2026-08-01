@@ -392,7 +392,13 @@
     },
     {
       "ats": "ashby",
-      "company": "Gritt Robotics Inc",
+      "company": "Glide",
+      "key": "ashby:glide",
+      "slug": "glide"
+    },
+    {
+      "ats": "ashby",
+      "company": "Gritt Robotics",
       "key": "ashby:gritt",
       "slug": "gritt"
     },
@@ -584,6 +590,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Mariana Minerals",
+      "key": "ashby:marianaminerals",
+      "slug": "marianaminerals"
+    },
+    {
+      "ats": "ashby",
       "company": "Melius",
       "key": "ashby:melius",
       "slug": "melius"
@@ -737,6 +749,12 @@
       "company": "Preference Model",
       "key": "ashby:preference-model",
       "slug": "Preference-Model"
+    },
+    {
+      "ats": "ashby",
+      "company": "Prelim",
+      "key": "ashby:prelim",
+      "slug": "prelim"
     },
     {
       "ats": "ashby",
@@ -899,6 +917,12 @@
       "company": "Terranova",
       "key": "ashby:terranova",
       "slug": "terranova"
+    },
+    {
+      "ats": "ashby",
+      "company": "Tessera Labs",
+      "key": "ashby:tessera-labs",
+      "slug": "tessera-labs"
     },
     {
       "ats": "ashby",
@@ -1589,6 +1613,12 @@
       "company": "Lila Sciences",
       "key": "greenhouse:lilasciences",
       "slug": "lilasciences"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "MatX",
+      "key": "greenhouse:matx",
+      "slug": "matx"
     },
     {
       "ats": "greenhouse",
@@ -2591,6 +2621,15 @@
       "site": "Agilent_Careers",
       "slug": "agilent",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Air Liquide",
+      "host": "airliquidehr.wd3.myworkdayjobs.com",
+      "key": "workday:airliquidehr.wd3.myworkdayjobs.com:airliquidehr:airliquideexternalcareer",
+      "site": "AirLiquideExternalCareer",
+      "slug": "airliquidehr",
+      "wd": "wd3"
     },
     {
       "ats": "workday",
@@ -4970,6 +5009,15 @@
     },
     {
       "ats": "workday",
+      "company": "Power Design, Inc",
+      "host": "powerdesigninc.wd5.myworkdayjobs.com",
+      "key": "workday:powerdesigninc.wd5.myworkdayjobs.com:powerdesigninc:pdi",
+      "site": "PDI",
+      "slug": "powerdesigninc",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Procore Technologies",
       "host": "procore.wd12.myworkdayjobs.com",
       "key": "workday:procore.wd12.myworkdayjobs.com:procore:procore_external_careers",
@@ -5672,10 +5720,10 @@
     },
     {
       "ats": "workday",
-      "company": "Uhaul",
+      "company": "U-Haul",
       "host": "uhaul.wd1.myworkdayjobs.com",
       "key": "workday:uhaul.wd1.myworkdayjobs.com:uhaul:uhauljobs",
-      "site": "UhaulJobs",
+      "site": "uhauljobs",
       "slug": "uhaul",
       "wd": "wd1"
     },

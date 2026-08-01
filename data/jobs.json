@@ -583,6 +583,29 @@
     },
     {
       "closed_at": null,
+      "company": "Air Liquide",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_01d970c96961e9dc330fa65a",
+      "last_changed": "2026-08-01",
+      "location": "Al Khobar Head Office - Support functions - AL Gulf RHQ",
+      "missed_runs": 0,
+      "posted_at": null,
+      "program": "internship",
+      "sources": [
+        {
+          "id": "ats:workday:airliquidehr.wd3.myworkdayjobs.com:airliquidehr:airliquideexternalcareer",
+          "label": "Workday direct",
+          "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Commercial Analyst Intern",
+      "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Al-Khobar-Head-Office---Support-functions---AL-Gulf-RHQ/Commercial-Analyst-Intern_R10095014"
+    },
+    {
+      "closed_at": null,
       "company": "Apple",
       "cycle": "unscheduled",
       "first_seen": "2026-08-01",
@@ -1281,7 +1304,7 @@
       "id": "job_040b5ebbcbc2b2fe71f1c230",
       "last_changed": "2026-08-01",
       "location": "Charlotte, NC, NYC",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-04-18",
       "program": "new-grad",
       "sources": [
@@ -2152,7 +2175,7 @@
       "id": "job_06801fada3f6b7e2a84b4798",
       "last_changed": "2026-08-01",
       "location": "Charlotte, NC",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-07",
       "program": "new-grad",
       "sources": [
@@ -2359,7 +2382,7 @@
       "id": "job_07d1147ed2998851a22ceb86",
       "last_changed": "2026-08-01",
       "location": "Phoenix, AZ",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-06-17",
       "program": "new-grad",
       "sources": [
@@ -2675,6 +2698,29 @@
     },
     {
       "closed_at": null,
+      "company": "Air Liquide",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_0869c246651a0ee333a9042b",
+      "last_changed": "2026-08-01",
+      "location": "Houston, TX",
+      "missed_runs": 0,
+      "posted_at": "2026-07-02",
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "simplify-new-grad",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Modelling & Simulation Engineer",
+      "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Houston-TX-HO/VIE---Modelling---Simulation-Engineer-M-F-D-_R10080193"
+    },
+    {
+      "closed_at": null,
       "company": "Lila Sciences",
       "cycle": "unscheduled",
       "first_seen": "2026-08-01",
@@ -2704,7 +2750,7 @@
       "id": "job_0889e49bf06db74b76c1c8ec",
       "last_changed": "2026-08-01",
       "location": "Arlington, VA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-03",
       "program": "new-grad",
       "sources": [
@@ -3048,6 +3094,29 @@
     },
     {
       "closed_at": null,
+      "company": "University of Maryland - College Park",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_09eb3eaedc23c04aeaffce9e",
+      "last_changed": "2026-08-01",
+      "location": "Hyattsville, MD",
+      "missed_runs": 0,
+      "posted_at": "2026-06-13",
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "simplify-new-grad",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Junior Data Engineer - Faculty Specialist",
+      "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Junior-Data-Engineer--Faculty-Specialist-_JR104102"
+    },
+    {
+      "closed_at": null,
       "company": "Apple",
       "cycle": "unscheduled",
       "first_seen": "2026-08-01",
@@ -3146,7 +3215,7 @@
       "id": "job_0a470d0f041eab602ffeb659",
       "last_changed": "2026-08-01",
       "location": "Atlanta, GA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-02",
       "program": "new-grad",
       "sources": [
@@ -3797,7 +3866,7 @@
       "id": "job_0c839acd2e73b4d773314ba1",
       "last_changed": "2026-08-01",
       "location": "Irvine, CA",
-      "missed_runs": 1,
+      "missed_runs": 0,
       "posted_at": "2026-03-27",
       "program": "new-grad",
       "sources": [
@@ -3981,7 +4050,7 @@
       "id": "job_0d2d9ee5254d9a6ff68f340c",
       "last_changed": "2026-08-01",
       "location": "East Lansing, MI",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2025-12-17",
       "program": "new-grad",
       "sources": [
@@ -5238,7 +5307,7 @@
       "id": "job_10863b0efe437c196b0b2eba",
       "last_changed": "2026-08-01",
       "location": "Pittsburgh, PA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-06-13",
       "program": "new-grad",
       "sources": [
@@ -5363,7 +5432,7 @@
       "id": "job_10e83c7111f23a1b7d1f0a04",
       "last_changed": "2026-08-01",
       "location": "Palo Alto, CA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-15",
       "program": "internship",
       "sources": [
@@ -5432,7 +5501,7 @@
       "id": "job_1133a57cf2ac2f4b21f7ae1e",
       "last_changed": "2026-08-01",
       "location": "Boston, MA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-06",
       "program": "new-grad",
       "sources": [
@@ -6405,7 +6474,7 @@
       "id": "job_14bef7217c7d8012be5943a9",
       "last_changed": "2026-08-01",
       "location": "Philadelphia, PA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-06",
       "program": "internship",
       "sources": [
@@ -6589,7 +6658,7 @@
       "id": "job_1549dce5c393a2b3b7af7f6f",
       "last_changed": "2026-08-01",
       "location": "Pittsburgh, PA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-22",
       "program": "new-grad",
       "sources": [
@@ -6727,7 +6796,7 @@
       "id": "job_15edf7952b7d15ddac10a4b6",
       "last_changed": "2026-08-01",
       "location": "Glendale, CA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-31",
       "program": "internship",
       "sources": [
@@ -7698,7 +7767,7 @@
       "id": "job_191365cb6ae8c808523deb52",
       "last_changed": "2026-08-01",
       "location": "Irvine, CA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-06-30",
       "program": "new-grad",
       "sources": [
@@ -7758,6 +7827,29 @@
       "status": "open",
       "title": "Information Technology Intern (2027 Summer) \ud83d\udec2",
       "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214158"
+    },
+    {
+      "closed_at": null,
+      "company": "MatX",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_1964c38985f452ecb00424c0",
+      "last_changed": "2026-08-01",
+      "location": "Mountain View, CA",
+      "missed_runs": 0,
+      "posted_at": "2026-04-14",
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "simplify-new-grad",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Rust Software-Silicon Co-verification Engineer",
+      "url": "https://job-boards.greenhouse.io/matx/jobs/5187495008"
     },
     {
       "closed_at": null,
@@ -8135,7 +8227,7 @@
       "id": "job_1a5e905ae22fe3285285b6fe",
       "last_changed": "2026-08-01",
       "location": "Pittsburgh, PA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-05-15",
       "program": "new-grad",
       "sources": [
@@ -8218,6 +8310,29 @@
       "status": "open",
       "title": "Engineer \u2013 Product Structuring Configuration Specialist",
       "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/Engineer---Product-Structuring-Configuration-Specialist_R5047411-1"
+    },
+    {
+      "closed_at": null,
+      "company": "Centerfield",
+      "cycle": "fall-2026",
+      "first_seen": "2026-08-01",
+      "id": "job_1a86f12d946c53186def23dd",
+      "last_changed": "2026-08-01",
+      "location": "LA",
+      "missed_runs": 0,
+      "posted_at": "2026-06-12",
+      "program": "internship",
+      "sources": [
+        {
+          "id": "simplify-internships",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/Summer2027-Internships"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Product Manager Intern",
+      "url": "https://jobs.ashbyhq.com/centerfield/92a124aa-9efd-4dbd-90f1-6319be7706b2/application"
     },
     {
       "closed_at": null,
@@ -8319,7 +8434,7 @@
       "id": "job_1adc1c58a3cbd25f8673844a",
       "last_changed": "2026-08-01",
       "location": "Santa Clara, CA, Calabasas, CA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-27",
       "program": "internship",
       "sources": [
@@ -8641,7 +8756,7 @@
       "id": "job_1c159c917de1cf90b85ba6d8",
       "last_changed": "2026-08-01",
       "location": "San Diego, CA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-06-17",
       "program": "new-grad",
       "sources": [
@@ -8864,7 +8979,7 @@
       "last_changed": "2026-08-01",
       "location": "Oakland, CA",
       "missed_runs": 0,
-      "posted_at": "2026-05-26",
+      "posted_at": null,
       "program": "new-grad",
       "sources": [
         {
@@ -8880,7 +8995,7 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "Front-End Engineer - Shopify - Vue.js",
+      "title": "Front-End Engineer",
       "url": "https://jobs.lever.co/dutch/bbbd283b-2632-4ad1-8d43-87b072e247c5"
     },
     {
@@ -8937,7 +9052,7 @@
       "id": "job_1d50316e315b584bc3738fb4",
       "last_changed": "2026-08-01",
       "location": "Remote in USA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-21",
       "program": "internship",
       "sources": [
@@ -9913,7 +10028,7 @@
       "id": "job_21bc82fb5f5792e07db47c6f",
       "last_changed": "2026-08-01",
       "location": "LA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-21",
       "program": "internship",
       "sources": [
@@ -10051,7 +10166,7 @@
       "id": "job_21f29c7b49b196df0b884426",
       "last_changed": "2026-08-01",
       "location": "San Bruno, CA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-05-01",
       "program": "new-grad",
       "sources": [
@@ -10097,7 +10212,7 @@
       "id": "job_220e482a5c6438b85de51ef3",
       "last_changed": "2026-08-01",
       "location": "Shirley, NY",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-06-13",
       "program": "new-grad",
       "sources": [
@@ -11768,7 +11883,7 @@
       "id": "job_293c3052c9c4579f1d0caf17",
       "last_changed": "2026-08-01",
       "location": "Austin, TX",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-05-06",
       "program": "new-grad",
       "sources": [
@@ -11814,7 +11929,7 @@
       "id": "job_29718cf5d62b9b603a0e9f92",
       "last_changed": "2026-08-01",
       "location": "NYC, Baltimore, MD",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-22",
       "program": "new-grad",
       "sources": [
@@ -12219,9 +12334,9 @@
       "first_seen": "2026-08-01",
       "id": "job_2a7e40b76d63aa765457b9c7",
       "last_changed": "2026-08-01",
-      "location": "Carson, CA",
+      "location": "Los Angeles, CA",
       "missed_runs": 0,
-      "posted_at": "2026-07-09",
+      "posted_at": null,
       "program": "internship",
       "sources": [
         {
@@ -12237,8 +12352,8 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "Software Engineer Intern",
-      "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af/application"
+      "title": "Software Engineering Internship - Fall 2026",
+      "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af"
     },
     {
       "closed_at": null,
@@ -12271,7 +12386,7 @@
       "id": "job_2aa5b92807d84c65dcb171ee",
       "last_changed": "2026-08-01",
       "location": "Austin, TX",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-02-04",
       "program": "new-grad",
       "sources": [
@@ -13695,6 +13810,29 @@
       "status": "open",
       "title": "RL Engineer Intern - RL Engineer - Tesla AI",
       "url": "https://www.tesla.com/careers/search/job/275494"
+    },
+    {
+      "closed_at": null,
+      "company": "Mariana Minerals",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_2e6e8738d138a8722047cb8a",
+      "last_changed": "2026-08-01",
+      "location": "Houston, TX, SF, Ann Arbor, MI",
+      "missed_runs": 0,
+      "posted_at": "2026-06-11",
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "simplify-new-grad",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Machine Learning Engineer",
+      "url": "https://jobs.ashbyhq.com/marianaminerals/44c92dd6-55f2-4e44-9360-bf4676466dac/application"
     },
     {
       "closed_at": null,
@@ -16321,6 +16459,29 @@
     },
     {
       "closed_at": null,
+      "company": "Susquehanna International Group (SIG)",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_37ec1d2db73246ef6c3f2a76",
+      "last_changed": "2026-08-01",
+      "location": "Bala Cynwyd, PA",
+      "missed_runs": 0,
+      "posted_at": "2026-01-21",
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "simplify-new-grad",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Quantitative Sports Researcher",
+      "url": "https://careers-sig.icims.com/jobs/4454/job"
+    },
+    {
+      "closed_at": null,
       "company": "Per Scholas",
       "cycle": "2027",
       "first_seen": "2026-08-01",
@@ -16438,6 +16599,29 @@
       "status": "open",
       "title": "Software Engineer, Internship - Production Infrastructure",
       "url": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86"
+    },
+    {
+      "closed_at": null,
+      "company": "Marmon Holdings",
+      "cycle": "summer-2027",
+      "first_seen": "2026-08-01",
+      "id": "job_39283822f0337d43fc08c0fc",
+      "last_changed": "2026-08-01",
+      "location": "Milwaukee, WI",
+      "missed_runs": 0,
+      "posted_at": "2026-03-04",
+      "program": "internship",
+      "sources": [
+        {
+          "id": "simplify-internships",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/Summer2027-Internships"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Digital Production Engineering Intern OR Student Co-Op",
+      "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451"
     },
     {
       "closed_at": null,
@@ -19154,13 +19338,13 @@
     {
       "closed_at": null,
       "company": "WindBorne Systems",
-      "cycle": "fall-2026",
+      "cycle": "unscheduled",
       "first_seen": "2026-08-01",
       "id": "job_4163aacfb4bebcc382d010fe",
       "last_changed": "2026-08-01",
-      "location": "San Carlos, CA",
+      "location": "Palo Alto, CA",
       "missed_runs": 0,
-      "posted_at": "2026-07-06",
+      "posted_at": null,
       "program": "internship",
       "sources": [
         {
@@ -19177,7 +19361,7 @@
       "sponsorship": null,
       "status": "open",
       "title": "Firmware Intern",
-      "url": "https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b/application"
+      "url": "https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b"
     },
     {
       "closed_at": null,
@@ -20446,7 +20630,7 @@
       "id": "job_45e7fe751b0a8daec1fc9f0f",
       "last_changed": "2026-08-01",
       "location": "Santa Cruz, CA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-06-23",
       "program": "internship",
       "sources": [
@@ -21058,16 +21242,21 @@
     },
     {
       "closed_at": null,
-      "company": "Rivian",
+      "company": "Rivian and Volkswagen Group Technologies",
       "cycle": "fall-2026",
       "first_seen": "2026-08-01",
       "id": "job_4763d79f1f4c2d6351ad6c5d",
       "last_changed": "2026-08-01",
-      "location": "Irvine, CA +1",
+      "location": "Palo Alto, CA, Irvine, CA",
       "missed_runs": 0,
-      "posted_at": null,
+      "posted_at": "2026-06-11",
       "program": "internship",
       "sources": [
+        {
+          "id": "simplify-internships",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/Summer2027-Internships"
+        },
         {
           "id": "speedy-internships",
           "label": "SpeedyApply",
@@ -21076,8 +21265,8 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "Software Engineering Intern - Connected Systems - Fall 2026",
-      "url": "https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92"
+      "title": "Software Engineer Intern - Connected Systems",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/50e43cbe-01ea-4b8b-be4c-bb5f48a2be92/application"
     },
     {
       "closed_at": null,
@@ -21930,7 +22119,7 @@
       "id": "job_49f9f9fd7079001ec29de3b8",
       "last_changed": "2026-08-01",
       "location": "Jackson, MS",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-02",
       "program": "new-grad",
       "sources": [
@@ -22390,7 +22579,7 @@
       "id": "job_4c3a923a6bcc1db2ba16d729",
       "last_changed": "2026-08-01",
       "location": "Annapolis Junction, MD",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-05-29",
       "program": "new-grad",
       "sources": [
@@ -23394,7 +23583,7 @@
     {
       "closed_at": null,
       "company": "Nelnet",
-      "cycle": "fall-2026",
+      "cycle": "unscheduled",
       "first_seen": "2026-08-01",
       "id": "job_4f73f02cd270bf418d228da0",
       "last_changed": "2026-08-01",
@@ -23416,7 +23605,7 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "Program Intern - Agentic AI",
+      "title": "Intern Program - Agentic AI",
       "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904"
     },
     {
@@ -25994,7 +26183,7 @@
       "id": "job_5842f7fee564d8af155ffedf",
       "last_changed": "2026-08-01",
       "location": "Houston, TX, Stamford, CT",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-21",
       "program": "internship",
       "sources": [
@@ -26040,7 +26229,7 @@
       "id": "job_585e7d25c323367431ecbfa1",
       "last_changed": "2026-08-01",
       "location": "Louisiana",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-04-22",
       "program": "new-grad",
       "sources": [
@@ -27371,7 +27560,7 @@
     {
       "closed_at": null,
       "company": "Copart",
-      "cycle": "fall-2026",
+      "cycle": "unscheduled",
       "first_seen": "2026-08-01",
       "id": "job_5db35bffda9481dc9995b401",
       "last_changed": "2026-08-01",
@@ -27398,8 +27587,8 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "Software Engineer Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079"
+      "title": "Software Engineering Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079"
     },
     {
       "closed_at": null,
@@ -28178,7 +28367,7 @@
       "id": "job_615ce2993e11a26f1e477c01",
       "last_changed": "2026-08-01",
       "location": "Brooklyn, NY",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-21",
       "program": "internship",
       "sources": [
@@ -28533,11 +28722,11 @@
     {
       "closed_at": null,
       "company": "Copart",
-      "cycle": "fall-2026",
+      "cycle": "unscheduled",
       "first_seen": "2026-08-01",
       "id": "job_62466d4135a3cb4e6798c732",
       "last_changed": "2026-08-01",
-      "location": "Dallas, TX",
+      "location": "Dallas, TX - Headquarters",
       "missed_runs": 0,
       "posted_at": "2026-07-15",
       "program": "internship",
@@ -28555,7 +28744,7 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "Software Engineer Intern",
+      "title": "Software Engineering Intern",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689"
     },
     {
@@ -30826,7 +31015,7 @@
       "id": "job_6a46d3c5f29e38ca6b502cb5",
       "last_changed": "2026-08-01",
       "location": "Ardmore, PA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-04-21",
       "program": "internship",
       "sources": [
@@ -30964,7 +31153,7 @@
       "id": "job_6a7316ee928c1996fcd7d65a",
       "last_changed": "2026-08-01",
       "location": "Austin, TX",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-05-06",
       "program": "new-grad",
       "sources": [
@@ -31158,7 +31347,7 @@
       "id": "job_6b0db6b56f7e2bf6f335c9c9",
       "last_changed": "2026-08-01",
       "location": "Richardson, TX",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-22",
       "program": "internship",
       "sources": [
@@ -31319,7 +31508,7 @@
       "id": "job_6b61d417994b1fa721f29311",
       "last_changed": "2026-08-01",
       "location": "Columbus, OH",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-10",
       "program": "internship",
       "sources": [
@@ -33327,7 +33516,7 @@
       "id": "job_72df316ee7ae9fc4e0ddc02b",
       "last_changed": "2026-08-01",
       "location": "Jacksonville, FL",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-06-26",
       "program": "new-grad",
       "sources": [
@@ -34129,7 +34318,7 @@
       "id": "job_754f18d385d320f5b2dad4aa",
       "last_changed": "2026-08-01",
       "location": "McKinney, TX",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-30",
       "program": "internship",
       "sources": [
@@ -34678,7 +34867,7 @@
       "id": "job_774870e015431354ac69d82f",
       "last_changed": "2026-08-01",
       "location": "Austin, TX",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-02-21",
       "program": "new-grad",
       "sources": [
@@ -35208,6 +35397,29 @@
       "status": "open",
       "title": "Engineering Technician",
       "url": "https://careers-scires.icims.com/jobs/11295/job"
+    },
+    {
+      "closed_at": null,
+      "company": "Amazon",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_7952577a510a8930c65e5682",
+      "last_changed": "2026-08-01",
+      "location": "Seattle, WA, Sunnyvale, CA",
+      "missed_runs": 0,
+      "posted_at": "2026-04-09",
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "simplify-new-grad",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Software Development Engineer - Prime Video Personalization & Discovery",
+      "url": "https://amazon.jobs/en/jobs/10374689/software-dev-engineer-prime-video-personalization-discovery"
     },
     {
       "closed_at": null,
@@ -36083,7 +36295,7 @@
       "id": "job_7be18c88613dc3228ee826b8",
       "last_changed": "2026-08-01",
       "location": "Minneapolis, MN",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-02",
       "program": "internship",
       "sources": [
@@ -38280,7 +38492,7 @@
     {
       "closed_at": null,
       "company": "Copart",
-      "cycle": "fall-2026",
+      "cycle": "unscheduled",
       "first_seen": "2026-08-01",
       "id": "job_833127a72c0b0f939a6aaeb3",
       "last_changed": "2026-08-01",
@@ -38307,8 +38519,8 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "Software Engineer Intern",
-      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109965"
+      "title": "Software Engineering Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109965"
     },
     {
       "closed_at": null,
@@ -39817,11 +40029,11 @@
     {
       "closed_at": null,
       "company": "Brunswick",
-      "cycle": "fall-2026",
+      "cycle": "unscheduled",
       "first_seen": "2026-08-01",
       "id": "job_8872a0c27c5f9acbcac0a147",
       "last_changed": "2026-08-01",
-      "location": "Urbana, IL",
+      "location": "Champaign, IL",
       "missed_runs": 0,
       "posted_at": "2026-07-28",
       "program": "internship",
@@ -41380,7 +41592,7 @@
       "id": "job_8e57c5ef9e4dbdf8e7f1ba2b",
       "last_changed": "2026-08-01",
       "location": "El Segundo, CA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-06-05",
       "program": "new-grad",
       "sources": [
@@ -41421,13 +41633,13 @@
     {
       "closed_at": null,
       "company": "Waystar",
-      "cycle": "fall-2026",
+      "cycle": "unscheduled",
       "first_seen": "2026-08-01",
       "id": "job_8e777da540b3da3be59fc199",
       "last_changed": "2026-08-01",
       "location": "Atlanta, GA",
       "missed_runs": 0,
-      "posted_at": "2026-07-27",
+      "posted_at": null,
       "program": "internship",
       "sources": [
         {
@@ -42159,7 +42371,7 @@
       "id": "job_90ee7a9452d08427636676f3",
       "last_changed": "2026-08-01",
       "location": "Little Rock, AR",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-08",
       "program": "internship",
       "sources": [
@@ -43400,7 +43612,7 @@
       "id": "job_952158245cd184bc0c0d0f29",
       "last_changed": "2026-08-01",
       "location": "Albuquerque, NM",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-06-04",
       "program": "new-grad",
       "sources": [
@@ -43946,6 +44158,29 @@
     },
     {
       "closed_at": null,
+      "company": "Prelim",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_96f436008a1843b78222eba2",
+      "last_changed": "2026-08-01",
+      "location": "Boston, MA, Seattle, WA, SF, Austin, TX, Chicago, IL, NYC, Atlanta, GA",
+      "missed_runs": 0,
+      "posted_at": "2026-03-27",
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "simplify-new-grad",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/prelim/62449307-e366-4c92-8d22-9a9f8ec11afa/application"
+    },
+    {
+      "closed_at": null,
       "company": "xAI",
       "cycle": "2027",
       "first_seen": "2026-08-01",
@@ -44178,6 +44413,29 @@
       "status": "open",
       "title": "Quantitative Analyst 1",
       "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26076"
+    },
+    {
+      "closed_at": null,
+      "company": "Peraton",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_97ce8d8f2fb50c2e6268cd1f",
+      "last_changed": "2026-08-01",
+      "location": "Remote in USA",
+      "missed_runs": 0,
+      "posted_at": "2026-06-19",
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "simplify-new-grad",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Java Software Engineer",
+      "url": "https://careers-peraton.icims.com/jobs/167686/job"
     },
     {
       "closed_at": null,
@@ -44784,6 +45042,29 @@
     },
     {
       "closed_at": null,
+      "company": "Rambus",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_9a219db5ca4c79d11cb73c0a",
+      "last_changed": "2026-08-01",
+      "location": "San Jose, CA",
+      "missed_runs": 0,
+      "posted_at": "2026-04-22",
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "simplify-new-grad",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Digital Design Engineer New Grad - Memory Interface Chip",
+      "url": "https://careers-rambus.icims.com/jobs/22434/job"
+    },
+    {
+      "closed_at": null,
       "company": "Goldman Sachs",
       "cycle": "unscheduled",
       "first_seen": "2026-08-01",
@@ -45300,9 +45581,9 @@
       "first_seen": "2026-08-01",
       "id": "job_9cb26740857ea1df42c11dbb",
       "last_changed": "2026-08-01",
-      "location": "Seattle, WA, SF, NYC",
+      "location": "San Francisco, CA / New York, NY / Seattle, WA",
       "missed_runs": 0,
-      "posted_at": "2026-06-05",
+      "posted_at": "2026-06-27",
       "program": "internship",
       "sources": [
         {
@@ -45318,7 +45599,7 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "Software Engineer Intern - Backend Focused",
+      "title": "Software Engineer Intern, Backend / Full Stack / ML (Winter 2027)",
       "url": "https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484"
     },
     {
@@ -46987,7 +47268,7 @@
       "id": "job_a32d37b4ee3a9c619ff38f9b",
       "last_changed": "2026-08-01",
       "location": "Remote in USA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-03-09",
       "program": "new-grad",
       "sources": [
@@ -48259,7 +48540,7 @@
       "id": "job_a79bf469739adddc253a7e8e",
       "last_changed": "2026-08-01",
       "location": "Plainfield, IN",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-06-23",
       "program": "new-grad",
       "sources": [
@@ -48644,6 +48925,29 @@
     },
     {
       "closed_at": null,
+      "company": "Mariana Minerals",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_aa11cf711248b2f02915c3b1",
+      "last_changed": "2026-08-01",
+      "location": "Moab, UT",
+      "missed_runs": 0,
+      "posted_at": "2026-05-28",
+      "program": "internship",
+      "sources": [
+        {
+          "id": "ats:ashby:marianaminerals",
+          "label": "Ashby direct",
+          "url": "https://jobs.ashbyhq.com/marianaminerals"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Chemical Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/marianaminerals/1f8dc663-ae78-44ad-8232-ebf5dcf2385a"
+    },
+    {
+      "closed_at": null,
       "company": "Airtable",
       "cycle": "unscheduled",
       "first_seen": "2026-08-01",
@@ -48945,6 +49249,29 @@
       "status": "open",
       "title": "Software Engineer - Perception",
       "url": "https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804"
+    },
+    {
+      "closed_at": null,
+      "company": "Apple",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_ab185fb4d7e0c580dd7d22d4",
+      "last_changed": "2026-08-01",
+      "location": "Lafayette, KS",
+      "missed_runs": 0,
+      "posted_at": "2026-05-06",
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "simplify-new-grad",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "GPU Top Level Physical Design Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200645609"
     },
     {
       "closed_at": null,
@@ -49281,7 +49608,7 @@
       "id": "job_abfaefb82cada15367a65176",
       "last_changed": "2026-08-01",
       "location": "San Bruno, CA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-21",
       "program": "internship",
       "sources": [
@@ -49406,13 +49733,13 @@
     {
       "closed_at": null,
       "company": "Altom Transport",
-      "cycle": "fall-2026",
+      "cycle": "unscheduled",
       "first_seen": "2026-08-01",
       "id": "job_ac72cb34d80f7d720b26f220",
       "last_changed": "2026-08-01",
-      "location": "Markham, IL",
+      "location": "Hammond, IN",
       "missed_runs": 0,
-      "posted_at": "2026-05-28",
+      "posted_at": null,
       "program": "internship",
       "sources": [
         {
@@ -49428,7 +49755,7 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "Software Development Intern",
+      "title": "Fall Software Development Intern",
       "url": "https://apply.workable.com/altom-transport/j/1E3C4A9408"
     },
     {
@@ -49642,6 +49969,29 @@
       "status": "open",
       "title": "Entry Level Infrastructure Hardware Systems Engineer",
       "url": "https://careers-gdms.icims.com/jobs/72936/job"
+    },
+    {
+      "closed_at": null,
+      "company": "Synchrony Financial",
+      "cycle": "fall-2026",
+      "first_seen": "2026-08-01",
+      "id": "job_ad2232e941bc357487a1f324",
+      "last_changed": "2026-08-01",
+      "location": "Urbana, IL",
+      "missed_runs": 0,
+      "posted_at": "2026-06-12",
+      "program": "internship",
+      "sources": [
+        {
+          "id": "simplify-internships",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/Summer2027-Internships"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Emerging Technology Intern",
+      "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/University-of-Illinois-Hub/Emerging-Technology-Intern---Fall-2026_2601747-1"
     },
     {
       "closed_at": null,
@@ -49927,7 +50277,7 @@
       "id": "job_ae4035deed9f1d507feb61db",
       "last_changed": "2026-08-01",
       "location": "San Diego, CA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-06-29",
       "program": "new-grad",
       "sources": [
@@ -50879,9 +51229,9 @@
       "first_seen": "2026-08-01",
       "id": "job_b1d98b55323afc91e27f19fa",
       "last_changed": "2026-08-01",
-      "location": "Phoenix, AZ",
+      "location": "AZ Blue Phoenix, AZ",
       "missed_runs": 0,
-      "posted_at": "2026-06-13",
+      "posted_at": null,
       "program": "new-grad",
       "sources": [
         {
@@ -50897,7 +51247,7 @@
       ],
       "sponsorship": null,
       "status": "open",
-      "title": "Business Intelligence Developer Medicaid - Level I",
+      "title": "Business Intelligence Developer-Medicaid - Level I - Remote AZ",
       "url": "https://bcbsaz.wd1.myworkdayjobs.com/en-US/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/Business-Intelligence-Developer-Medicaid---Level-I--Remote-AZ-_R6047"
     },
     {
@@ -50908,7 +51258,7 @@
       "id": "job_b20050cde8ab94855958a7e6",
       "last_changed": "2026-08-01",
       "location": "Houston, TX",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-15",
       "program": "internship",
       "sources": [
@@ -51972,6 +52322,29 @@
     },
     {
       "closed_at": null,
+      "company": "Susquehanna International Group (SIG)",
+      "cycle": "summer-2027",
+      "first_seen": "2026-08-01",
+      "id": "job_b533f53515d40f5877b1e2e6",
+      "last_changed": "2026-08-01",
+      "location": "United States",
+      "missed_runs": 0,
+      "posted_at": "2026-07-06",
+      "program": "internship",
+      "sources": [
+        {
+          "id": "simplify-internships",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/Summer2027-Internships"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Trading System Engineer Intern",
+      "url": "https://careers-sig.icims.com/jobs/11169/job"
+    },
+    {
+      "closed_at": null,
       "company": "Leidos",
       "cycle": "unscheduled",
       "first_seen": "2026-08-01",
@@ -52144,7 +52517,7 @@
       "id": "job_b60976711a2d51b8978be51b",
       "last_changed": "2026-08-01",
       "location": "Worcester, MA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-06-18",
       "program": "new-grad",
       "sources": [
@@ -52190,7 +52563,7 @@
       "id": "job_b621faea9d13ae66d270d68f",
       "last_changed": "2026-08-01",
       "location": "SF, Remote in USA, NYC",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-04-29",
       "program": "new-grad",
       "sources": [
@@ -52213,7 +52586,7 @@
       "id": "job_b62a60526c12e48d80e4d3bf",
       "last_changed": "2026-08-01",
       "location": "Duluth, GA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-20",
       "program": "new-grad",
       "sources": [
@@ -53222,7 +53595,7 @@
       "id": "job_b9b707766881755e317b7200",
       "last_changed": "2026-08-01",
       "location": "Chattanooga, TN",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-08",
       "program": "internship",
       "sources": [
@@ -55133,7 +55506,7 @@
       "id": "job_c08278a7e3d0f1762f100c5e",
       "last_changed": "2026-08-01",
       "location": "Princeton, NJ",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-27",
       "program": "internship",
       "sources": [
@@ -55858,7 +56231,7 @@
       "id": "job_c2d74a17c829bffc7672d9b7",
       "last_changed": "2026-08-01",
       "location": "West Athens, CA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-21",
       "program": "internship",
       "sources": [
@@ -55872,6 +56245,29 @@
       "status": "open",
       "title": "ML/AI/CS Intern",
       "url": "https://jobs.ashbyhq.com/oligo/107f5148-84bd-43ba-a49d-ac8928898ca6/application"
+    },
+    {
+      "closed_at": null,
+      "company": "Glide",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_c2e41deb12bb8cce921c8827",
+      "last_changed": "2026-08-01",
+      "location": "New York City",
+      "missed_runs": 0,
+      "posted_at": "2026-02-02",
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "ats:ashby:glide",
+          "label": "Ashby direct",
+          "url": "https://jobs.ashbyhq.com/glide"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Full Stack Engineer - Early Career",
+      "url": "https://jobs.ashbyhq.com/glide/5ece3064-6884-43c2-923c-066d6187b25d"
     },
     {
       "closed_at": null,
@@ -56553,7 +56949,7 @@
       "id": "job_c4d1f1e270d3ccb700354db8",
       "last_changed": "2026-08-01",
       "location": "Boston, MA, Bristol, UK, Remote in USA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-05-06",
       "program": "new-grad",
       "sources": [
@@ -56747,7 +57143,7 @@
       "id": "job_c64180eebd12daa35746f615",
       "last_changed": "2026-08-01",
       "location": "Middleton, WI",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-06-09",
       "program": "new-grad",
       "sources": [
@@ -57470,7 +57866,7 @@
       "id": "job_c8d5c56cec18ef050c78cf13",
       "last_changed": "2026-08-01",
       "location": "Tarentum, PA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-06-13",
       "program": "internship",
       "sources": [
@@ -58165,7 +58561,7 @@
       "id": "job_cae093bf119c6e36cdd4a13b",
       "last_changed": "2026-08-01",
       "location": "Palo Alto, CA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-21",
       "program": "internship",
       "sources": [
@@ -58630,7 +59026,7 @@
       "id": "job_cc48800923736861299d57e1",
       "last_changed": "2026-08-01",
       "location": "Boston, MA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-29",
       "program": "internship",
       "sources": [
@@ -59712,6 +60108,29 @@
     },
     {
       "closed_at": null,
+      "company": "Power Design, Inc",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_cfa8f63ba438d2a1566104cf",
+      "last_changed": "2026-08-01",
+      "location": "St. Petersburg, FL",
+      "missed_runs": 0,
+      "posted_at": "2026-07-30",
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "simplify-new-grad",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "AI Innovation Engineer",
+      "url": "https://powerdesigninc.wd5.myworkdayjobs.com/PDI/job/FL-St-Petersburg/AI-Innovation-Engineer_R12316-2"
+    },
+    {
+      "closed_at": null,
       "company": "OmegaHires",
       "cycle": "2027",
       "first_seen": "2026-08-01",
@@ -59925,7 +60344,7 @@
       "id": "job_d07d9128f3c598caaca2b965",
       "last_changed": "2026-08-01",
       "location": "El Segundo, CA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-17",
       "program": "new-grad",
       "sources": [
@@ -61468,7 +61887,7 @@
       "id": "job_d655efbc6823c76ca8057f84",
       "last_changed": "2026-08-01",
       "location": "Rochester, NY",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-03-13",
       "program": "new-grad",
       "sources": [
@@ -62029,6 +62448,29 @@
     },
     {
       "closed_at": null,
+      "company": "Apple",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_d853d6a7f2c77577f4f9642f",
+      "last_changed": "2026-08-01",
+      "location": "Austin, TX",
+      "missed_runs": 0,
+      "posted_at": "2026-05-06",
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "simplify-new-grad",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "SoC DFT DV Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200657230"
+    },
+    {
+      "closed_at": null,
       "company": "CACI",
       "cycle": "2027",
       "first_seen": "2026-08-01",
@@ -62454,7 +62896,7 @@
       "id": "job_d996d2009257b407038892c8",
       "last_changed": "2026-08-01",
       "location": "Remote in USA",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-06-04",
       "program": "internship",
       "sources": [
@@ -63091,6 +63533,29 @@
       "status": "open",
       "title": "Software Engineer Intern - C++ - Summer 2027",
       "url": "https://www.akunacapital.com/careers/job/8018847?gh_jid=8018847"
+    },
+    {
+      "closed_at": null,
+      "company": "Tessera Labs",
+      "cycle": "fall-2026",
+      "first_seen": "2026-08-01",
+      "id": "job_dbc39d0a99a91cd0a1518580",
+      "last_changed": "2026-08-01",
+      "location": "San Jose, CA, Remote in USA, NYC",
+      "missed_runs": 0,
+      "posted_at": "2026-06-08",
+      "program": "internship",
+      "sources": [
+        {
+          "id": "simplify-internships",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/Summer2027-Internships"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Product Manager Intern",
+      "url": "https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544/application"
     },
     {
       "closed_at": null,
@@ -64234,7 +64699,7 @@
       "id": "job_dfa92c797958353b27bc22cd",
       "last_changed": "2026-08-01",
       "location": "Houston, TX",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-05-14",
       "program": "new-grad",
       "sources": [
@@ -65022,6 +65487,29 @@
     },
     {
       "closed_at": null,
+      "company": "Glide",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_e2714eb2a804340111e5046b",
+      "last_changed": "2026-08-01",
+      "location": "NYC, United States",
+      "missed_runs": 0,
+      "posted_at": "2026-02-02",
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "simplify-new-grad",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Full Stack Engineer Mid Level",
+      "url": "https://jobs.ashbyhq.com/glide/7954a0ba-27ef-4e8b-90c7-337001f1ce98/application"
+    },
+    {
+      "closed_at": null,
       "company": "iSoftStone",
       "cycle": "unscheduled",
       "first_seen": "2026-08-01",
@@ -65535,6 +66023,29 @@
       "status": "open",
       "title": "Photonics Engineer 1",
       "url": "https://apply.workable.com/thorlabs/j/0C1C3F52D8"
+    },
+    {
+      "closed_at": null,
+      "company": "Apple",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_e441c3a72fdff4d50e331269",
+      "last_changed": "2026-08-01",
+      "location": "Austin, TX, San Jose, CA",
+      "missed_runs": 0,
+      "posted_at": "2026-05-06",
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "simplify-new-grad",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "CAD Engineer - Signoff Infrastructure",
+      "url": "https://jobs.apple.com/en-us/details/200660225"
     },
     {
       "closed_at": null,
@@ -66596,7 +67107,7 @@
       "id": "job_e7fecd98aafa1eb2c85007c3",
       "last_changed": "2026-08-01",
       "location": "Philadelphia, PA, NYC",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-06-29",
       "program": "internship",
       "sources": [
@@ -66665,7 +67176,7 @@
       "id": "job_e8226a16a0d98290d8d2ee9f",
       "last_changed": "2026-08-01",
       "location": "Mountain View, CA, Warren, MI",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-06-12",
       "program": "internship",
       "sources": [
@@ -67779,7 +68290,7 @@
       "id": "job_ec9eeade4329694bc1a68569",
       "last_changed": "2026-08-01",
       "location": "Baltimore, MD",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-06-13",
       "program": "new-grad",
       "sources": [
@@ -69408,6 +69919,29 @@
     },
     {
       "closed_at": null,
+      "company": "Applied Materials",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_f2fc8770dcb23dde0e0ea46a",
+      "last_changed": "2026-08-01",
+      "location": "Santa Clara, CA",
+      "missed_runs": 0,
+      "posted_at": "2026-07-02",
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "simplify-new-grad",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Computer Vision/Machine Learning/Deep Learning Algorithm Developer",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/CV-ML-DL-Algorithm-Developer_R2612906"
+    },
+    {
+      "closed_at": null,
       "company": "Gen Digital",
       "cycle": "unscheduled",
       "first_seen": "2026-08-01",
@@ -70018,6 +70552,29 @@
       "status": "open",
       "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Body Controls Firmware",
       "url": "https://www.tesla.com/careers/search/job/270618"
+    },
+    {
+      "closed_at": null,
+      "company": "Canon",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_f5ff3c451b802cd3d8eef87e",
+      "last_changed": "2026-08-01",
+      "location": "San Jose, CA",
+      "missed_runs": 0,
+      "posted_at": "2026-04-16",
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "simplify-new-grad",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Field Service Engineer 1 - Semiconductor",
+      "url": "https://external-canoncareers.icims.com/jobs/34301/job"
     },
     {
       "closed_at": null,
@@ -71438,14 +71995,14 @@
       "url": "https://confluence.pinpointhq.com/en/postings/49d5aa65-dc1b-4254-ae94-f645e7488aa1"
     },
     {
-      "closed_at": null,
+      "closed_at": "2026-08-01",
       "company": "Toyota",
       "cycle": "unscheduled",
       "first_seen": "2026-08-01",
       "id": "job_fbc5eb83e0d692c3df576c52",
       "last_changed": "2026-08-01",
       "location": "Plano, TX",
-      "missed_runs": 1,
+      "missed_runs": 2,
       "posted_at": "2026-07-01",
       "program": "new-grad",
       "sources": [
@@ -71456,7 +72013,7 @@
         }
       ],
       "sponsorship": null,
-      "status": "open",
+      "status": "closed",
       "title": "Software Engineer",
       "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10319691-2"
     },
@@ -72630,7 +73187,7 @@
       "id": "job_ff18e484968f07444ec539b0",
       "last_changed": "2026-08-01",
       "location": "Austin, TX",
-      "missed_runs": 0,
+      "missed_runs": 1,
       "posted_at": "2026-07-20",
       "program": "internship",
       "sources": [
@@ -72828,6 +73385,29 @@
       "status": "open",
       "title": "Graduate Design Verification Engineer - Video Silicon IP",
       "url": "https://jobs.bytedance.com/en/position/7551554573577750802/detail"
+    },
+    {
+      "closed_at": null,
+      "company": "Northwestern Mutual",
+      "cycle": "unscheduled",
+      "first_seen": "2026-08-01",
+      "id": "job_ffbff612020f474f975e3b2e",
+      "last_changed": "2026-08-01",
+      "location": "Milwaukee, WI",
+      "missed_runs": 0,
+      "posted_at": "2026-05-16",
+      "program": "new-grad",
+      "sources": [
+        {
+          "id": "simplify-new-grad",
+          "label": "Simplify",
+          "url": "https://github.com/SimplifyJobs/New-Grad-Positions"
+        }
+      ],
+      "sponsorship": null,
+      "status": "open",
+      "title": "Investment Analyst - Private Debt & Equity",
+      "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Investment-Analyst---Private-Debt---Equity_JR-40524"
     },
     {
       "closed_at": null,

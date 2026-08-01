@@ -2,7 +2,7 @@
 
 > Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
 
-**190 open roles**
+**192 open roles**
 
 | Company | Role | Location | Posted | Seen in | Apply |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | JPMorganChase | Corporate Analyst Development Program Summer Analyst 🛂 | New York, NY (multiple US) | 2026-07-08 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765749) |
 | Two Sigma | AI Research Scientist Intern (MS / PhD) | New York, NY | 2026-07-08 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Internship-2027-Summer/14022) |
 | Susquehanna International Group (SIG) | Quantitative Strategy Developer Intern | Philadelphia, PA | 2026-07-06 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply](https://careers-sig.icims.com/jobs/11170/job) |
+| Susquehanna International Group (SIG) | Trading System Engineer Intern | United States | 2026-07-06 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply](https://careers-sig.icims.com/jobs/11169/job) |
 | Tower Research Capital | Quantitative Trader Intern | New York, NY / Chicago, IL | 2026-07-06 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024128) |
 | Tower Research Capital | Quantitative Developer Intern | Chicago, IL, NYC | 2026-07-05 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships), [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply](https://www.tower-research.com/open-positions?gh_jid=8044334) |
 | Optiver | Quantitative Research Intern (PhD, Austin) | Austin, TX | 2026-07-02 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/austin/quantitative-research-intern-phd-summer-2027) |
@@ -158,6 +159,7 @@
 | Aquatic Capital Management | Software Engineer Intern | London, UK, Chicago, IL | 2026-04-01 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships), [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) |
 | Ellipsis Labs | Software Engineer Intern | New York, NY | 2026-03-26 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships), [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849) |
 | Marmon Holdings | Data Engineering Intern/Co-op | Milwaukee, WI | 2026-03-04 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453) |
+| Marmon Holdings | Digital Production Engineering Intern OR Student Co-Op | Milwaukee, WI | 2026-03-04 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451) |
 | Grant Thornton | Tax Technology Intern - Summer 2027 | Dallas, TX | 2026-02-11 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114404) |
 | JPMorganChase | Asset & Wealth Management Risk Summer Analyst 🛂 | Columbus, OH (multiple US) | 2026-01-08 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210691905) |
 | Palantir | Forward Deployed Software Engineer, Internship - US Government | Honolulu, HI | 2025-12-11 | [Lever direct](https://jobs.lever.co/palantir), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e) |
