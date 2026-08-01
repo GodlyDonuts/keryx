@@ -2,14 +2,11 @@
 
 > Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
 
-**297 open roles**
+**294 open roles**
 
 | Company | Role | Location | Posted | Seen in | Apply |
 |---|---|---|---|---|---|
-| Postman | AI Engineer, Intern | Berkeley, California, United States | 2026-08-01 | [Greenhouse direct](https://job-boards.greenhouse.io/postman), [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/postman/jobs/7823417003)<br><sub>ATS checked</sub> |
 | Palantir | Product Designer, Internship - US Government | Palo Alto, CA | 2026-07-31 | [Lever direct](https://jobs.lever.co/palantir) | [apply · jobs.lever.co](https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a)<br><sub>ATS checked</sub> |
-| PSECU | Data Analyst Intern | Harrisburg, PA | 2026-07-31 | [Workday direct](https://psecu.wd12.myworkdayjobs.com/PSECU), [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · psecu.wd12.myworkdayjobs.com](https://psecu.wd12.myworkdayjobs.com/PSECU/job/Harrisburg-PA/Data-Analyst-Intern_JR100964)<br><sub>ATS checked</sub> |
-| Zello | Analytics Intern | Austin, Texas | 2026-07-31 | [Ashby direct](https://jobs.ashbyhq.com/Zello), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/Zello/3453d476-7b75-4938-8cff-502d1575859b)<br><sub>ATS checked</sub> |
 | CALSTART | Brand Implementation & Graphic Design Intern | Remote, US | 2026-07-30 | [Lever direct](https://jobs.lever.co/calstart) | [apply · jobs.lever.co](https://jobs.lever.co/calstart/1cd80511-1855-49fd-8cee-b1fe6c0e5424)<br><sub>ATS checked</sub> |
 | CALSTART | Policy Development & Support Intern | Remote, US | 2026-07-30 | [Lever direct](https://jobs.lever.co/calstart) | [apply · jobs.lever.co](https://jobs.lever.co/calstart/664e9612-07c6-4352-a8af-2719b7fcac6b)<br><sub>ATS checked</sub> |
 | CALSTART | Web Development Intern | Remote, US | 2026-07-30 | [Lever direct](https://jobs.lever.co/calstart) | [apply · jobs.lever.co](https://jobs.lever.co/calstart/cbd0d758-18b0-481d-9e67-a065682f30ea)<br><sub>ATS checked</sub> |
