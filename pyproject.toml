@@ -1,40 +1,17 @@
-[build-system]
-requires = ["hatchling>=1.27"]
-build-backend = "hatchling.build"
-
 [project]
-name = "keryx-jobs"
-version = "0.1.0"
-description = "A source-neutral, local-first job discovery and change feed."
-readme = "README.md"
+name = "keryx-maintenance"
+version = "0.0.0"
 requires-python = ">=3.11"
-license = { text = "MIT" }
-authors = [
-  { name = "Saicharan Ramineni" },
-]
-keywords = ["internships", "jobs", "alerts", "rss", "atom"]
-classifiers = [
-  "Development Status :: 3 - Alpha",
-  "License :: OSI Approved :: MIT License",
-  "Programming Language :: Python :: 3",
-  "Programming Language :: Python :: 3.11",
-  "Programming Language :: Python :: 3.12",
-  "Programming Language :: Python :: 3.13",
-  "Typing :: Typed",
-]
 dependencies = []
 
-[project.scripts]
-keryx = "keryx.cli:main"
+[tool.uv]
+package = false
 
 [dependency-groups]
 dev = [
   "mypy>=1.15",
   "ruff>=0.11",
 ]
-
-[tool.hatch.build.targets.wheel]
-packages = ["src/keryx"]
 
 [tool.ruff]
 line-length = 100
@@ -46,4 +23,4 @@ select = ["E", "F", "I", "UP", "B", "SIM"]
 [tool.mypy]
 python_version = "3.11"
 strict = true
-packages = ["keryx"]
+files = ["scripts", "tests"]

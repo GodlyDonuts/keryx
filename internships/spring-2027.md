@@ -1,0 +1,20 @@
+# Spring 2027 US Internships
+
+> Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
+
+**12 open roles**
+
+| Company | Role | Location | Posted | Seen in | Apply |
+|---|---|---|---|---|---|
+| LA-Tech.org | Technical Intern, Software / Cyber / AI (Spring 2027, remote) | Los Angeles, CA / Remote (US) | 2026-07-09 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==) |
+| GE Appliances | Software Engineering Co-op (Spring 2027) | Louisville, KY | 2026-06-28 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-26147) |
+| Delta Air Lines | Reservations Co-op (Spring 2027, data analytics / process improvement) | Atlanta, GA | 2026-06-23 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://delta.avature.net/en_US/careers/JobDetail?jobid=32928) |
+| GE Aerospace | Engines Engineering Co-op, Computer/Software Engineering (Spring 2027, Returning Students) 🛂 🇺🇸 | Cincinnati, OH / Lynn, MA | 2026-06-14 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030073EXTERNALENGLOBAL/Engines-Engineering-Co-op-Computer-or-Software-Engineering-US-Spring-2027-Returning-Students) |
+| Blue Origin | Avionics Software Intern (Spring 2027) 🇺🇸 | Seattle, WA (multiple US) | 2026-06-10 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Avionics-Software-Internship---Undergraduate_R66213) |
+| Blue Origin | Software Developer Intern (Spring 2027) 🇺🇸 | Seattle, WA (multiple US) | 2026-06-10 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Undergraduate_R66216) |
+| GE Appliances | Digital Technology Intern (Spring 2027) | Louisville, KY | 2026-06-01 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Digital-Technology-Spring-2027-Intern_REQ-25831) |
+| Stoke Space | Software Intern - Software | Kent, WA | 2026-05-04 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships), [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply](https://stokespace.com/careers/current-openings?gh_jid=5987663004) |
+| ASM International | Software Engineering Intern | Phoenix, AZ | 2026-04-22 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships), [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply](https://www.asm.com/open-vacancies?gh_jid=4830113101) |
+| Midmark | Firmware Engineering Intern/Co-op | Vandalia, OH | 2026-02-05 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships), [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4333) |
+| GE Appliances | Software Engineering Co-op Spring 2027 | Louisville, KY | 2026-01-23 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832) |
+| GE Aerospace | Embedded Systems Engineer Co-op - Bohemia - NY - Spring 2027 | Bohemia, NY | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Bohemia/Embedded-Systems-Engineer-Co-op--Bohemia--NY----Spring-2027_R5035583-1) |

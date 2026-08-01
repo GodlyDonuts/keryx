@@ -1,7 +1,6 @@
 .DS_Store
 .idea/
 .venv/
-.keryx/
 __pycache__/
 *.egg-info/
 *.py[cod]
@@ -10,5 +9,4 @@ __pycache__/
 .ruff_cache/
 build/
 dist/
-public/
-
+.cache/
