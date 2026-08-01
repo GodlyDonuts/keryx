@@ -1,0 +1,24 @@
+[state]
+path = ".rolebeacon/state.json"
+events = ".rolebeacon/events.jsonl"
+
+[output]
+directory = "public"
+
+[policy]
+close_after_complete_misses = 2
+
+[[sources]]
+name = "summer-2027-engine"
+kind = "intern-engine"
+url = "https://raw.githubusercontent.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/main/docs/api/jobs.json"
+enabled = true
+
+# Optional adapter for a compatible Simplify/Pitt CSC listings export.
+# Confirm the upstream terms before enabling redistribution.
+[[sources]]
+name = "community-list"
+kind = "simplify"
+url = "https://example.invalid/listings.json"
+enabled = false
+
