@@ -2,10 +2,11 @@
 
 > Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
 
-**14 open roles**
+**15 open roles**
 
 | Company | Role | Location | Posted | Seen in | Apply |
 |---|---|---|---|---|---|
+| Heliux | Software Engineer (Internship, Spring 2027) | HQ (San Francisco, CA) | 2026-07-31 | [Ashby direct](https://jobs.ashbyhq.com/heliux), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply](https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c) |
 | LA-Tech.org | Technical Intern, Software / Cyber / AI (Spring 2027, remote) | Los Angeles, CA / Remote (US) | 2026-07-09 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://pod4.app.loxo.co/job/Mzk2ODktbmxudnJmeGRuOXM0OHE3ZA==) |
 | GE Appliances | Software Engineering Co-op (Spring 2027) | Louisville, KY | 2026-06-28 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-26147) |
 | Delta Air Lines | Reservations Co-op (Spring 2027, data analytics / process improvement) | Atlanta, GA | 2026-06-23 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://delta.avature.net/en_US/careers/JobDetail?jobid=32928) |
