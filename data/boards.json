@@ -2,6 +2,12 @@
   "boards": [
     {
       "ats": "ashby",
+      "company": "1X",
+      "key": "ashby:1x",
+      "slug": "1x"
+    },
+    {
+      "ats": "ashby",
       "company": "Abridge",
       "key": "ashby:abridge",
       "slug": "abridge"
@@ -4568,7 +4574,7 @@
       "company": "Maritz",
       "host": "maritz.wd1.myworkdayjobs.com",
       "key": "workday:maritz.wd1.myworkdayjobs.com:maritz:maritz",
-      "site": "Maritz",
+      "site": "maritz",
       "slug": "maritz",
       "wd": "wd1"
     },
@@ -5909,7 +5915,7 @@
       "company": "Milwaukee Tool",
       "host": "tti.wd1.myworkdayjobs.com",
       "key": "workday:tti.wd1.myworkdayjobs.com:tti:milwaukee",
-      "site": "Milwaukee",
+      "site": "milwaukee",
       "slug": "tti",
       "wd": "wd1"
     },

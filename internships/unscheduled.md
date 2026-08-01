@@ -2,7 +2,7 @@
 
 > Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
 
-**316 open roles**
+**315 open roles**
 
 | Company | Role | Location | Posted | Seen in | Apply |
 |---|---|---|---|---|---|
@@ -264,7 +264,6 @@
 | Motorola | R&D Intern - Wireless Systems Engineer - 2026 | Los Angeles, CA | — | [Workday direct](https://motorolasolutions.wd5.myworkdayjobs.com/Careers) | [apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376) |
 | National Laboratory of the Rockies | Graduate (Year-Round) Intern - Transportation Systems Analysis | Golden, CO | — | [Workday direct](https://nrel.wd5.myworkdayjobs.com/NLR), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern---Transportation-Systems-Analysis_R14153) |
 | National Laboratory of the Rockies | Graduate Intern – Advanced Building Equipment Research Group | Golden, CO | — | [Workday direct](https://nrel.wd5.myworkdayjobs.com/NLR) | [apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Advanced-Building-Equipment-Research-Group_R14429) |
-| National Laboratory of the Rockies | Undergraduate/graduate intern - software and data infrastructure for autonomous thin film experimentation (Year-Round) | Golden, CO | — | [Workday direct](https://nrel.wd5.myworkdayjobs.com/NLR), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394) |
 | Nationwide Children's Hospital | Anesthesiology Research Intern | Main Campus, Columbus, OH | — | [Workday direct](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers) | [apply](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Anesthesiology-Research-Intern_R-26817-2) |
 | Nationwide Children's Hospital | Research Intern - RI CHEOR Davenport | 431 S 18th St, Columbus, OH | — | [Workday direct](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers) | [apply](https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/431-S-18th-St-Columbus-OH/Research-Intern---RI-CHEOR-Davenport_R-24930-2) |
 | Netic | Full-Stack Software Engineer - Product - Intern - 2026-2027 | San Francisco, CA | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply](https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef) |

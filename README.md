@@ -10,13 +10,13 @@ feeds when possible, removes duplicates, and rebuilds the Markdown databases aut
 | Recruiting cycle | Open roles |
 |---|---:|
 | [Summer 2027 US Internships](internships/summer-2027.md) | 192 |
-| [Fall 2026 US Internships](internships/fall-2026.md) | 302 |
+| [Fall 2026 US Internships](internships/fall-2026.md) | 310 |
 | [Spring 2027 US Internships](internships/spring-2027.md) | 16 |
 | [Winter 2027 US Internships](internships/winter-2027.md) | 6 |
-| [US Internships — Cycle Not Stated](internships/unscheduled.md) | 316 |
+| [US Internships — Cycle Not Stated](internships/unscheduled.md) | 315 |
 | [2027 US New-Graduate Roles](new-grad/2027.md) | 464 |
 | [2026 US New-Graduate Roles](new-grad/2026.md) | 39 |
-| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1647 |
+| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1614 |
 <!-- COUNTS:END -->
 
 The Markdown files are the product: open them directly on GitHub, search them, bookmark them, or
