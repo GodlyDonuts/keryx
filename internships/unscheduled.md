@@ -2,7 +2,7 @@
 
 > Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
 
-**319 open roles**
+**316 open roles**
 
 | Company | Role | Location | Posted | Seen in | Apply |
 |---|---|---|---|---|---|
@@ -55,7 +55,6 @@
 | Jump Trading | Campus AI Research Engineer – Research Automation (Intern) | Chicago; New York | 2026-07-08 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052351) |
 | Tower Research Capital | Quantitative Trader Intern, PhD | New York | 2026-07-05 | [Greenhouse direct](https://job-boards.greenhouse.io/towerresearchcapital) | [apply](https://www.tower-research.com/open-positions?gh_jid=8024138) |
 | Eulerity | Website Developer & Content Marketing Intern - AI & Automation | New York, NY | 2026-07-03 | [Greenhouse direct](https://job-boards.greenhouse.io/eulerity), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply](https://job-boards.greenhouse.io/eulerity/jobs/4694300006) |
-| ConnectPrep | Data Analyst Internship | Washington, District of Columbia, United States (Remote) | 2026-07-02 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply](https://apply.workable.com/connectprep/j/C0CA13664F) |
 | ACDS | Social Influencer & Marketing Intern - Served AI | Bentonville, AR | 2026-06-29 | [Lever direct](https://jobs.lever.co/acds) | [apply](https://jobs.lever.co/acds/fc0a6fad-f85e-4c9c-b5f2-1a7a2c23204d) |
 | Base Power Company | Growth Intern | Austin, TX | 2026-06-29 | [Ashby direct](https://jobs.ashbyhq.com/base-power) | [apply](https://jobs.ashbyhq.com/base-power/fe71e011-a23a-4651-8f8a-9c0fcb5f1f22) |
 | Lila Sciences | Co-Op, ML Scientist for Protein Engineering | San Francisco, CA USA | 2026-06-29 | [Greenhouse direct](https://job-boards.greenhouse.io/lilasciences), [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply](https://job-boards.greenhouse.io/lilasciences/jobs/4289387009) |
@@ -213,7 +212,6 @@
 | GE Vernova | Grid Automation & Software Intern | Remote | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply](https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709) |
 | GE Vernova | Grid Automation & Software Intern | Remote | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply](https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041706-3) |
 | Generac | Mechanical Design Engineering Intern | North Billerica, MA - USA | — | [Workday direct](https://generac.wd5.myworkdayjobs.com/external) | [apply](https://generac.wd5.myworkdayjobs.com/external/job/North-Billerica-MA---USA/Mechanical-Design-Engineering-Intern_JR14679) |
-| Global Infrastructure | Alternative Delivery Project Analytics Intern | US / IL / Chicago - 200 South Wacker Drive | — | [Workday direct](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--IL--Chicago---200-South-Wacker-Drive/Alternative-Delivery-Project-Analytics-Intern_5963-1) |
 | Global Infrastructure | Electrical Engineering Intern/Co-Op | CA / ON / Toronto - 380 Wellington Street West | — | [Workday direct](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure) | [apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/CA--ON--Toronto---380-Wellington-Street-West/Electrical-Engineering-Intern-Co-Op_6085) |
 | Global Infrastructure | Intern Engineering Designer, Land Development | CA / ON / Whitby - 209 Dundas Street East | — | [Workday direct](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure) | [apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/CA--ON--Whitby---209-Dundas-Street-East/Intern-Engineering-Designer--Land-Development_5878) |
 | Global Infrastructure | Intern Engineering Designer, Rail + Transit | US / NY / New York - 32 Old Slip | — | [Workday direct](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure) | [apply](https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--NY--New-York---32-Old-Slip/Intern-Engineering-Designer--Rail---Transit_5970) |
@@ -324,4 +322,3 @@
 | University of Virginia | Federal Work-Study (FWS) Internship Program: Student Research Assistant (Student Wage) | Charlottesville, VA | — | [Workday direct](https://uva.wd1.myworkdayjobs.com/uvastudentjobs) | [apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Federal-Work-Study--FWS--Internship-Program--Student-Research-Assistant--Student-Wage-_R0085069) |
 | University of Virginia | Websites and Marketing Technology Intern (Student Wage) | Charlottesville, VA | — | [Workday direct](https://uva.wd1.myworkdayjobs.com/uvastudentjobs) | [apply](https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Websites-and-Marketing-Technology-Intern--Student-Wage-_R0082090) |
 | Waystar | Application Engineer Co Op | Atlanta, GA | — | [Workday direct](https://waystar.wd1.myworkdayjobs.com/Waystar), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Application-Engineer-Co-Op_R3313-1) |
-| WindBorne Systems | Firmware Intern | Palo Alto, CA | — | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply](https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b) |

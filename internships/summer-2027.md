@@ -2,7 +2,7 @@
 
 > Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
 
-**191 open roles**
+**192 open roles**
 
 | Company | Role | Location | Posted | Seen in | Apply |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | DTCC | Information Technology Intern (2027 Summer) 🛂 | Jersey City, NJ (multiple US) | 2026-07-08 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214158) |
 | JPMorganChase | Corporate Analyst Development Program Summer Analyst 🛂 | New York, NY (multiple US) | 2026-07-08 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765749) |
 | Two Sigma | AI Research Scientist Intern (MS / PhD) | New York, NY | 2026-07-08 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Internship-2027-Summer/14022) |
+| Susquehanna International Group (SIG) | Quantitative Strategy Developer Intern | Philadelphia, PA | 2026-07-06 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply](https://careers-sig.icims.com/jobs/11170/job) |
 | Susquehanna International Group (SIG) | Trading System Engineer Intern | United States | 2026-07-06 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply](https://careers-sig.icims.com/jobs/11169/job) |
 | Tower Research Capital | Quantitative Trader Intern | New York, NY / Chicago, IL | 2026-07-06 | [Greenhouse direct](https://job-boards.greenhouse.io/towerresearchcapital), [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://job-boards.greenhouse.io/towerresearchcapital/jobs/8024128) |
 | Tower Research Capital | Quantitative Developer Intern | Chicago, IL, NYC | 2026-07-05 | [Greenhouse direct](https://job-boards.greenhouse.io/towerresearchcapital), [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships), [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply](https://www.tower-research.com/open-positions?gh_jid=8044334) |
