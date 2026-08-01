@@ -286,7 +286,7 @@
       "ats": "ashby",
       "company": "Crusoe",
       "key": "ashby:crusoe",
-      "slug": "Crusoe"
+      "slug": "crusoe"
     },
     {
       "ats": "ashby",
@@ -329,6 +329,12 @@
       "company": "Dyna Robotics",
       "key": "ashby:dyna-robotics",
       "slug": "dyna-robotics"
+    },
+    {
+      "ats": "ashby",
+      "company": "E Source Companies",
+      "key": "ashby:e-source",
+      "slug": "e-source"
     },
     {
       "ats": "ashby",
@@ -3515,7 +3521,7 @@
       "company": "CVS Health",
       "host": "cvshealth.wd1.myworkdayjobs.com",
       "key": "workday:cvshealth.wd1.myworkdayjobs.com:cvshealth:cvs_health_careers",
-      "site": "CVS_Health_Careers",
+      "site": "cvs_health_careers",
       "slug": "cvshealth",
       "wd": "wd1"
     },
@@ -3923,6 +3929,15 @@
       "site": "GAIG_External",
       "slug": "gaig",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Gartner",
+      "host": "gartner.wd5.myworkdayjobs.com",
+      "key": "workday:gartner.wd5.myworkdayjobs.com:gartner:ext",
+      "site": "EXT",
+      "slug": "gartner",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
