@@ -758,6 +758,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Probook",
+      "key": "ashby:probook",
+      "slug": "probook"
+    },
+    {
+      "ats": "ashby",
       "company": "Pylon",
       "key": "ashby:pylon-labs",
       "slug": "pylon-labs"
@@ -3085,6 +3091,15 @@
       "ats": "workday",
       "company": "Cadence Design Systems",
       "host": "cadence.wd1.myworkdayjobs.com",
+      "key": "workday:cadence.wd1.myworkdayjobs.com:cadence:university_cst",
+      "site": "University_CST",
+      "slug": "cadence",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Cadence Design Systems",
+      "host": "cadence.wd1.myworkdayjobs.com",
       "key": "workday:cadence.wd1.myworkdayjobs.com:cadence:university_talent",
       "site": "University_Talent",
       "slug": "cadence",
@@ -4739,7 +4754,7 @@
     },
     {
       "ats": "workday",
-      "company": "Northeastern University",
+      "company": "Northeastern",
       "host": "northeastern.wd1.myworkdayjobs.com",
       "key": "workday:northeastern.wd1.myworkdayjobs.com:northeastern:careers",
       "site": "careers",

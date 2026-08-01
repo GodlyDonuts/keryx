@@ -2,7 +2,7 @@
 
 > Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
 
-**186 open roles**
+**189 open roles**
 
 | Company | Role | Location | Posted | Seen in | Apply |
 |---|---|---|---|---|---|
@@ -37,8 +37,10 @@
 | Jump Trading | Campus AI Research Engineer (Intern) | Chicago; New York | 2026-07-08 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052281) |
 | Jump Trading | Campus AI Research Engineer - Deep Learning (Intern) | Chicago; New York | 2026-07-08 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052338) |
 | Jump Trading | Campus AI Research Engineer – Research Automation (Intern) | Chicago; New York | 2026-07-08 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052351) |
+| ConnectPrep | Data Analyst Internship | Washington, District of Columbia, United States (Remote) | 2026-07-02 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply](https://apply.workable.com/connectprep/j/C0CA13664F) |
 | ACDS | Social Influencer & Marketing Intern - Served AI | Bentonville, AR | 2026-06-29 | [Lever direct](https://jobs.lever.co/acds) | [apply](https://jobs.lever.co/acds/fc0a6fad-f85e-4c9c-b5f2-1a7a2c23204d) |
 | Lila Sciences | Co-Op, ML Scientist for Protein Engineering | San Francisco, CA USA | 2026-06-29 | [Greenhouse direct](https://job-boards.greenhouse.io/lilasciences), [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply](https://job-boards.greenhouse.io/lilasciences/jobs/4289387009) |
+| Veeda AI | Internship - Veeda AI Scientist | California | 2026-06-29 | [Ashby direct](https://jobs.ashbyhq.com/veeda-labs), [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply](https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4) |
 | Lila Sciences | Co-Op, ML Scientist for Biology | San Francisco, CA USA | 2026-06-25 | [Greenhouse direct](https://job-boards.greenhouse.io/lilasciences) | [apply](https://job-boards.greenhouse.io/lilasciences/jobs/4294212009) |
 | Lila Sciences | Co-Op, Next Gen Engineering | Cambridge, MA USA | 2026-06-25 | [Greenhouse direct](https://job-boards.greenhouse.io/lilasciences) | [apply](https://job-boards.greenhouse.io/lilasciences/jobs/4289960009) |
 | Centerfield | Data Science Intern | Los Angeles, California | 2026-06-22 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply](https://jobs.ashbyhq.com/centerfield/916dcf42-d69a-4f00-875a-f8fe630e0f33) |
@@ -104,6 +106,7 @@
 | Palantir | Privacy and Civil Liberties Software Engineer, Internship | New York, NY | 2016-10-06 | [Lever direct](https://jobs.lever.co/palantir) | [apply](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b) |
 | Palantir | Forward Deployed Software Engineer, Internship - Commercial | New York, NY | 2016-02-24 | [Lever direct](https://jobs.lever.co/palantir) | [apply](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) |
 | Air Liquide | Commercial Analyst Intern | Al Khobar Head Office - Support functions - AL Gulf RHQ | — | [Workday direct](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer) | [apply](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Al-Khobar-Head-Office---Support-functions---AL-Gulf-RHQ/Commercial-Analyst-Intern_R10095014) |
+| Altom Transport | Fall Software Development Intern | Hammond, IN | — | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply](https://apply.workable.com/altom-transport/j/8536165C7B) |
 | Altom Transport | Fall Software Development Intern | Hammond, IN | — | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply](https://apply.workable.com/altom-transport/j/1E3C4A9408) |
 | Apple | Software Engineering Masters Internships | USA | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply](https://jobs.apple.com/en-us/details/200664320-3810) |
 | Apple | Software PhD Internships | USA | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply](https://jobs.apple.com/en-us/details/200664323-3810) |
