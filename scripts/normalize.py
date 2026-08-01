@@ -2,9 +2,11 @@ from __future__ import annotations
 
 import hashlib
 import html
+import ipaddress
 import re
+from dataclasses import dataclass
 from datetime import UTC, datetime
-from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
+from urllib.parse import parse_qsl, quote, urlencode, urlsplit, urlunsplit
 
 from .models import Observation, Program
 
@@ -52,6 +54,77 @@ _NEW_GRAD = re.compile(
     re.IGNORECASE,
 )
 _IDENTITY_QUERY = frozenset({"gh_jid", "job", "job_id", "jobid", "posting_id", "position"})
+_HOST_LABEL = re.compile(r"^[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?$")
+_QUERY_VALUE = re.compile(r"^[A-Za-z0-9._~-]{1,160}$")
+_PERCENT_ESCAPE = re.compile(r"%[0-9A-Fa-f]{2}")
+_DANGEROUS_ESCAPE = re.compile(r"%(?:0[0-9A-Fa-f]|1[0-9A-Fa-f]|2[35fF]|3[fF]|40|5[cC]|7[fF])")
+_BLOCKED_SUFFIXES = (
+    ".example",
+    ".internal",
+    ".invalid",
+    ".lan",
+    ".local",
+    ".localhost",
+    ".onion",
+    ".test",
+)
+_BLOCKED_HOSTS = frozenset(
+    {
+        "0.0.0.0",
+        "bit.ly",
+        "docs.google.com",
+        "drive.google.com",
+        "dropbox.com",
+        "forms.gle",
+        "localhost",
+        "lnkd.in",
+        "linktr.ee",
+        "metadata.google.internal",
+        "t.co",
+        "tinyurl.com",
+        "typeform.com",
+        "www.jotform.com",
+    }
+)
+_DOWNLOAD_SUFFIXES = (
+    ".app",
+    ".dmg",
+    ".docm",
+    ".exe",
+    ".iso",
+    ".jar",
+    ".msi",
+    ".pkg",
+    ".scr",
+    ".xlsm",
+    ".zip",
+)
+_RECRUITING_PLATFORM_SUFFIXES = (
+    "applytojob.com",
+    "ashbyhq.com",
+    "avature.net",
+    "bamboohr.com",
+    "greenhouse.io",
+    "icims.com",
+    "jobvite.com",
+    "lever.co",
+    "myworkdayjobs.com",
+    "myworkdaysite.com",
+    "oraclecloud.com",
+    "recruitee.com",
+    "rippling.com",
+    "smartrecruiters.com",
+    "taleo.net",
+    "workable.com",
+    "workatastartup.com",
+)
+
+
+@dataclass(frozen=True)
+class URLDecision:
+    url: str
+    host: str
+    reason: str | None = None
 
 
 def clean_text(value: object) -> str:
@@ -62,20 +135,95 @@ def clean_text(value: object) -> str:
     return " ".join(text.replace("|", "/").split()).strip()
 
 
-def canonical_url(value: str) -> str:
-    parsed = urlsplit(value.strip())
-    if parsed.scheme not in {"http", "https"} or not parsed.hostname:
-        return ""
-    host = parsed.hostname.casefold()
-    path = re.sub(r"/{2,}", "/", parsed.path).rstrip("/")
+def sanitize_job_url(value: str) -> URLDecision:
+    raw = value.strip()
+    if not raw or len(raw) > 4_096:
+        return URLDecision("", "", "empty-or-oversized")
+    if any(ord(character) < 32 or ord(character) == 127 for character in raw):
+        return URLDecision("", "", "control-character")
+    if "\\" in raw:
+        return URLDecision("", "", "backslash")
+    try:
+        parsed = urlsplit(raw)
+        host_value = parsed.hostname
+        port = parsed.port
+    except ValueError:
+        return URLDecision("", "", "invalid-authority")
+    if parsed.scheme.casefold() not in {"http", "https"} or not host_value:
+        return URLDecision("", "", "invalid-scheme-or-host")
+    if parsed.username is not None or parsed.password is not None:
+        return URLDecision("", "", "embedded-credentials")
+    if port not in {None, 443}:
+        return URLDecision("", "", "nonstandard-port")
+    try:
+        host = host_value.encode("ascii", "strict").decode("ascii").casefold()
+    except UnicodeError:
+        return URLDecision("", "", "non-ascii-host")
+    if len(host) > 253 or host.endswith(".") or "." not in host:
+        return URLDecision("", host, "invalid-hostname")
+    if any(
+        not _HOST_LABEL.fullmatch(label) or label.startswith("xn--") for label in host.split(".")
+    ):
+        return URLDecision("", host, "invalid-hostname")
+    try:
+        ipaddress.ip_address(host)
+    except ValueError:
+        pass
+    else:
+        return URLDecision("", host, "ip-literal")
+    if host in _BLOCKED_HOSTS or any(host.endswith(suffix) for suffix in _BLOCKED_SUFFIXES):
+        return URLDecision("", host, "blocked-host")
+
+    path = re.sub(r"/{2,}", "/", parsed.path or "/")
+    escapes = "".join(_PERCENT_ESCAPE.findall(path))
+    if path.count("%") != len(escapes) // 3:
+        return URLDecision("", host, "invalid-percent-escape")
+    if _DANGEROUS_ESCAPE.search(path):
+        return URLDecision("", host, "encoded-delimiter-or-control")
+    path_segments = [segment.casefold() for segment in path.split("/")]
+    if any(segment in {".", "..", "%2e", "%2e%2e", ".%2e", "%2e."} for segment in path_segments):
+        return URLDecision("", host, "dot-segment")
+    path = quote(path, safe="/%!$&*+,-._~;=:@").rstrip("/")
     if path.casefold().endswith("/apply"):
         path = path[:-6]
-    query_items = [
-        (key.casefold(), item)
-        for key, item in parse_qsl(parsed.query)
-        if key.casefold() in _IDENTITY_QUERY
-    ]
-    return urlunsplit(("https", host, path or "/", urlencode(sorted(query_items)), ""))
+    if path.casefold().endswith(_DOWNLOAD_SUFFIXES):
+        return URLDecision("", host, "download-link")
+    try:
+        parsed_query = parse_qsl(parsed.query, max_num_fields=64)
+    except ValueError:
+        return URLDecision("", host, "oversized-query")
+    identity: dict[str, str] = {}
+    for key, item in parsed_query:
+        normalized_key = key.casefold()
+        if normalized_key in _IDENTITY_QUERY and _QUERY_VALUE.fullmatch(item):
+            identity.setdefault(normalized_key, item)
+    query = urlencode(sorted(identity.items()))
+    sanitized = urlunsplit(("https", host, path or "/", query, ""))
+    return URLDecision(sanitized, host)
+
+
+def canonical_url(value: str) -> str:
+    return sanitize_job_url(value).url
+
+
+def is_recruiting_platform_url(value: str) -> bool:
+    decision = sanitize_job_url(value)
+    if not decision.url:
+        return False
+    host = decision.host
+    if not any(
+        host == suffix or host.endswith(f".{suffix}") for suffix in _RECRUITING_PLATFORM_SUFFIXES
+    ):
+        return False
+    parsed = urlsplit(decision.url)
+    parts = [part for part in parsed.path.split("/") if part]
+    if "greenhouse.io" in host:
+        return "jobs" in parts and any(part.isdigit() for part in parts)
+    if host in {"jobs.ashbyhq.com", "jobs.lever.co", "jobs.eu.lever.co"}:
+        return len(parts) >= 2
+    if "myworkdayjobs.com" in host or "myworkdaysite.com" in host:
+        return any(part.casefold() == "job" for part in parts) and len(parts) >= 3
+    return len(parts) >= 2 or bool(parsed.query)
 
 
 def external_identity(url: str, fallback: str) -> str:

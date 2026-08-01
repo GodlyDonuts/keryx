@@ -11,6 +11,8 @@ if __package__ in {None, ""}:
     sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from scripts.boards import discover_boards, fetch_direct_boards  # noqa: E402
+from scripts.models import Observation  # noqa: E402
+from scripts.normalize import sanitize_job_url  # noqa: E402
 from scripts.render import render_repository  # noqa: E402
 from scripts.sources import fetch_upstreams  # noqa: E402
 from scripts.state import eligible, merge_state  # noqa: E402
@@ -29,6 +31,25 @@ def _load_json(path: Path, fallback: dict[str, Any]) -> dict[str, Any]:
 
 def _poll_slot(key: str) -> int:
     return int(hashlib.sha256(key.encode("utf-8")).hexdigest()[:8], 16) % 4
+
+
+def _quarantine_report(observations: list[Observation]) -> dict[str, Any]:
+    records: dict[str, dict[str, str]] = {}
+    for observation in observations:
+        decision = sanitize_job_url(observation.url)
+        if decision.url:
+            continue
+        fingerprint = hashlib.sha256(observation.url.encode("utf-8")).hexdigest()[:24]
+        records[fingerprint] = {
+            "fingerprint": fingerprint,
+            "reason": decision.reason or "rejected",
+            "reported_host": decision.host,
+            "source_id": observation.source_id,
+        }
+    return {
+        "schema_version": 1,
+        "quarantined": [records[key] for key in sorted(records)],
+    }
 
 
 def main() -> int:
@@ -74,7 +95,7 @@ def main() -> int:
         complete_sources=complete_sources,
         today=today,
     )
-    render_repository(ROOT, payload, boards)
+    render_repository(ROOT, payload, boards, _quarantine_report(observations))
 
     open_jobs = sum(job.get("status") == "open" for job in payload["jobs"])
     print(
