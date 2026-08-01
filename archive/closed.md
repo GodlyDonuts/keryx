@@ -2,7 +2,7 @@
 
 > Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
 
-**514 closed roles**
+**517 closed roles**
 
 | Company | Role | Location | Posted | Seen in | Apply |
 |---|---|---|---|---|---|
@@ -219,6 +219,9 @@
 | Vertex | AI Product Engineer | Remote in USA | 2026-06-04 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · vertexinc.wd1.myworkdayjobs.com](https://vertexinc.wd1.myworkdayjobs.com/en-US/VertexInc/job/Remote-USA/AI-Product-Engineer_JR102443-1)<br><sub>recognized recruiting platform</sub> |
 | Avnet | Software Developer | Tempe, AZ, Phoenix, AZ | 2026-06-01 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · wd1.myworkdaysite.com](https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614)<br><sub>recognized recruiting platform</sub> |
 | candidate fyi | Full Stack / Backend Software Engineer | Remote in USA | 2026-06-01 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/candidate.fyi/0448a10e-863f-437f-80bb-d65ee09f8b6e/application)<br><sub>recognized recruiting platform</sub> |
+| Walleye Capital | Central Equity Quant Research (CEQR) Intern (Summer 2027) | New York, New York | 2026-06-01 | [Greenhouse direct](https://job-boards.greenhouse.io/walleyecapital-external-students) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676069006)<br><sub>ATS checked</sub> |
+| Walleye Capital | Risk Technology Analyst Intern (Summer 2027) | New York, New York | 2026-06-01 | [Greenhouse direct](https://job-boards.greenhouse.io/walleyecapital-external-students) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006)<br><sub>ATS checked</sub> |
+| Walleye Capital | Technology Intern (Summer 2027) | New York, New York | 2026-06-01 | [Greenhouse direct](https://job-boards.greenhouse.io/walleyecapital-external-students) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006)<br><sub>ATS checked</sub> |
 | DuCharme, McMillen & Associates | Data Engineer | Indianapolis, IN, Fort Wayne, IN | 2026-05-30 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · dmainc.wd5.myworkdayjobs.com](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Data-Engineer_REQ228)<br><sub>recognized recruiting platform</sub> |
 | Iowa State University | Assistant Professor in Applied Linguistics and Artificial Intelligence - Artificial Intelligence | Ames, IA | 2026-05-30 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · isu.wd1.myworkdayjobs.com](https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Assistant-Professor-in-Applied-Linguistics-and-Artificial-Intelligence--AI-_R19304-1)<br><sub>recognized recruiting platform</sub> |
 | Peraton | Junior Software Engineer | Annapolis Junction, MD | 2026-05-29 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · careers-peraton.icims.com](https://careers-peraton.icims.com/jobs/147065/job)<br><sub>recognized recruiting platform</sub> |
