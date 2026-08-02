@@ -2,7 +2,7 @@
 
 > Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
 
-**368 open roles**
+**367 open roles**
 
 | Company | Role | Location | Posted | Seen in | Apply |
 |---|---|---|---|---|---|
@@ -367,7 +367,6 @@
 | TRIMEDX | Biomedical Engineering Intern | Pittsburgh, PA | — | [Workday direct](https://trimedx.wd1.myworkdayjobs.com/TMX) | [apply · trimedx.wd1.myworkdayjobs.com](https://trimedx.wd1.myworkdayjobs.com/TMX/job/Pittsburgh-PA/Biomedical-Engineering-Intern_R14535)<br><sub>ATS checked</sub> |
 | TRIMEDX | Biomedical Engineering Intern | Stamford, CT | — | [Workday direct](https://trimedx.wd1.myworkdayjobs.com/TMX) | [apply · trimedx.wd1.myworkdayjobs.com](https://trimedx.wd1.myworkdayjobs.com/TMX/job/Stamford-CT/Biomedical-Engineering-Intern_R14296)<br><sub>ATS checked</sub> |
 | TSC | Aerospace/Mechanical Engineering Intern | Washington, DC - Naval Research Laboratory | — | [Workday direct](https://tsc.wd12.myworkdayjobs.com/TSC-Careers) | [apply · tsc.wd12.myworkdayjobs.com](https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Washington-DC---Naval-Research-Laboratory/Aerospace-Mechanical-Engineering-Intern_JR2683)<br><sub>ATS checked</sub> |
-| United Parcel Service (UPS) | Building and Systems Engineering Intern | CA - TORONTO HUB (ONTOR) | — | [Workday direct](https://hcmportal.wd5.myworkdayjobs.com/Search) | [apply · hcmportal.wd5.myworkdayjobs.com](https://hcmportal.wd5.myworkdayjobs.com/Search/job/CA---TORONTO-HUB-ONTOR/Building-and-Systems-Engineering-Intern_R26025717)<br><sub>ATS checked</sub> |
 | University of Maryland - College Park | Intern, Office of Career Services - Technology Team | University of Maryland College Park | — | [Workday direct](https://umd.wd1.myworkdayjobs.com/UMCP) | [apply · umd.wd1.myworkdayjobs.com](https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Intern--Office-of-Career-Services---Technology-Team_JR104246-1)<br><sub>ATS checked</sub> |
 | University of Texas at Austin | Research Assistant Internship (Open to Current UT Students Only) | UT MAIN CAMPUS | — | [Workday direct](https://utaustin.wd1.myworkdayjobs.com/utstudent) | [apply · utaustin.wd1.myworkdayjobs.com](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Research-Assistant-Internship--Open-to-Current-UT-Students-Only-_R_00040596)<br><sub>ATS checked</sub> |
 | University of Texas at Austin | Research Assistant, Language and Development Internship (Open to Current UT Students Only) | UT MAIN CAMPUS | — | [Workday direct](https://utaustin.wd1.myworkdayjobs.com/utstudent) | [apply · utaustin.wd1.myworkdayjobs.com](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Research-Assistant-Internship--Open-to-Current-UT-Students-Only-_R_00041046)<br><sub>ATS checked</sub> |
