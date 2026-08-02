@@ -2,7 +2,7 @@
 
 > Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
 
-**368 open roles**
+**366 open roles**
 
 | Company | Role | Location | Posted | Seen in | Apply |
 |---|---|---|---|---|---|
@@ -237,9 +237,7 @@
 | GlobalFoundries | Human Resources Intern, Digital & AI (Summer 2026) | USA - Texas - Austin | — | [Workday direct](https://globalfoundries.wd1.myworkdayjobs.com/External) | [apply · globalfoundries.wd1.myworkdayjobs.com](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Human-Resources-Intern--HR-Shared-Services--Summer-2026-_JR-2503145)<br><sub>ATS checked</sub> |
 | Graco | Manufacturing Engineering Intern | North Canton, Ohio, USA | — | [Workday direct](https://graco.wd501.myworkdayjobs.com/Graco_Careers) | [apply · graco.wd501.myworkdayjobs.com](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/North-Canton-Ohio-USA/Manufacturing-Engineering-Intern_R0022722-1)<br><sub>ATS checked</sub> |
 | Gritt Robotics | ML & Cloud Infrastructure Engineer Intern | South San Francisco, CA | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523)<br><sub>recognized recruiting platform</sub> |
-| Halo Industries | Software Engineer Intern - Machine Learning Workflow | Santa Clara, CA | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · apply.workable.com](https://apply.workable.com/halo-industries/j/29728B1DAF)<br><sub>recognized recruiting platform</sub> |
 | Howden | 2026 Investment Banking Analyst Intern | New York – 1350 Avenue Of The Americas | — | [Workday direct](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External) | [apply · hyperiongrp.wd3.myworkdayjobs.com](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/New-York--1350-Avenue-Of-The-Americas/XMLNAME-2026-Investment-Banking-Analyst-Intern_R0011309)<br><sub>ATS checked</sub> |
-| Human Computer Lab | Intern - Software/ML Engineering | San Francisco, CA +1 | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705)<br><sub>recognized recruiting platform</sub> |
 | IDEX | Innovations Engineer Intern | Portage, Michigan | — | [Workday direct](https://idexcorp.wd5.myworkdayjobs.com/idex_careers) | [apply · idexcorp.wd5.myworkdayjobs.com](https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Portage-Michigan/Innovations-Engineer-Intern_R-09482)<br><sub>ATS checked</sub> |
 | IDEX | Manufacturing Engineer Intern | Linthicum, Maryland | — | [Workday direct](https://idexcorp.wd5.myworkdayjobs.com/idex_careers) | [apply · idexcorp.wd5.myworkdayjobs.com](https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Linthicum-Maryland/Manufacturing-Engineer-Intern_R-09266)<br><sub>ATS checked</sub> |
 | IDEXX | Security Operations (Cybersecurity) internship | Westbrook, ME | — | [Workday direct](https://idexx.wd1.myworkdayjobs.com/idexx) | [apply · idexx.wd1.myworkdayjobs.com](https://idexx.wd1.myworkdayjobs.com/idexx/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268)<br><sub>ATS checked</sub> |
