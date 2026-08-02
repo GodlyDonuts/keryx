@@ -16,7 +16,7 @@ feeds when possible, removes duplicates, and rebuilds the Markdown databases aut
 | [US Internships — Cycle Not Stated](internships/unscheduled.md) | 366 |
 | [2027 US New-Graduate Roles](new-grad/2027.md) | 492 |
 | [2026 US New-Graduate Roles](new-grad/2026.md) | 49 |
-| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1632 |
+| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1631 |
 <!-- COUNTS:END -->
 
 The Markdown files are the product: open them directly on GitHub, search them, bookmark them, or
