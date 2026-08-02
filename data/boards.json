@@ -1934,6 +1934,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "RoboForce",
+      "key": "greenhouse:roboforce",
+      "slug": "roboforce"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Rocket Lab",
       "key": "greenhouse:rocketlab",
       "slug": "rocketlab"
@@ -2537,6 +2543,12 @@
       "company": "AHEAD",
       "key": "lever:thinkahead",
       "slug": "thinkahead"
+    },
+    {
+      "ats": "lever",
+      "company": "Toyota Research Institute",
+      "key": "lever:tri",
+      "slug": "tri"
     },
     {
       "ats": "lever",
@@ -4850,7 +4862,7 @@
       "company": "Marsh & McLennan",
       "host": "mmc.wd1.myworkdayjobs.com",
       "key": "workday:mmc.wd1.myworkdayjobs.com:mmc:mmc",
-      "site": "mmc",
+      "site": "MMC",
       "slug": "mmc",
       "wd": "wd1"
     },
@@ -5306,10 +5318,10 @@
     },
     {
       "ats": "workday",
-      "company": "Poet",
+      "company": "POET",
       "host": "poet.wd1.myworkdayjobs.com",
       "key": "workday:poet.wd1.myworkdayjobs.com:poet:poet",
-      "site": "poet",
+      "site": "POET",
       "slug": "poet",
       "wd": "wd1"
     },
