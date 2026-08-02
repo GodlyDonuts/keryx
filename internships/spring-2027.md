@@ -2,7 +2,7 @@
 
 > Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
 
-**27 open roles**
+**26 open roles**
 
 | Company | Role | Location | Posted | Seen in | Apply |
 |---|---|---|---|---|---|
@@ -19,7 +19,6 @@
 | Blue Origin | Avionics Software Intern (Spring 2027) 🇺🇸 | Seattle, WA (multiple US) | 2026-06-10 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply · blueorigin.wd5.myworkdayjobs.com](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Avionics-Software-Internship---Undergraduate_R66213)<br><sub>recognized recruiting platform</sub> |
 | Blue Origin | Software Developer Intern (Spring 2027) 🇺🇸 | Seattle, WA (multiple US) | 2026-06-10 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply · blueorigin.wd5.myworkdayjobs.com](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Undergraduate_R66216)<br><sub>recognized recruiting platform</sub> |
 | GE Appliances | Digital Technology Intern (Spring 2027) | Louisville, KY | 2026-06-01 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply · haier.wd3.myworkdayjobs.com](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Digital-Technology-Spring-2027-Intern_REQ-25831)<br><sub>recognized recruiting platform</sub> |
-| Stoke Space | Spring 2027 Internship - Software | Kent, WA | 2026-05-05 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships), [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · stokespace.com](https://stokespace.com/careers/current-openings?gh_jid=5987663004)<br><sub>cross-checked</sub> |
 | ASM International | Software Engineering Intern | Phoenix, AZ | 2026-04-22 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships), [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · www.asm.com](https://www.asm.com/open-vacancies?gh_jid=4830113101)<br><sub>cross-checked</sub> |
 | GE Appliances | Engineering Intern/Co-op | Calhoun, GA | 2026-04-04 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · haier.wd3.myworkdayjobs.com](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Spring-2027_REQ-24836)<br><sub>recognized recruiting platform</sub> |
 | Midmark | Firmware Engineering Intern/Co-op | Vandalia, OH | 2026-02-05 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships), [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply · hcor.fa.us2.oraclecloud.com](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4333)<br><sub>cross-checked</sub> |

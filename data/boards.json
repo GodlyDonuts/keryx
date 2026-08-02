@@ -272,6 +272,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Confido",
+      "key": "ashby:confido",
+      "slug": "confido"
+    },
+    {
+      "ats": "ashby",
       "company": "Constellation Space",
       "key": "ashby:constellationspace",
       "slug": "constellationspace"
@@ -785,6 +791,12 @@
       "company": "Plaid",
       "key": "ashby:plaid",
       "slug": "plaid"
+    },
+    {
+      "ats": "ashby",
+      "company": "Polymarket",
+      "key": "ashby:polymarket",
+      "slug": "polymarket"
     },
     {
       "ats": "ashby",
@@ -1760,6 +1772,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "New Era Technology",
+      "key": "greenhouse:neweratech",
+      "slug": "neweratech"
+    },
+    {
+      "ats": "greenhouse",
       "company": "NewsBreak",
       "key": "greenhouse:newsbreak",
       "slug": "newsbreak"
@@ -2003,6 +2021,12 @@
       "company": "Sleep Doctor",
       "key": "greenhouse:sleepdoctor",
       "slug": "sleepdoctor"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Smartsheet",
+      "key": "greenhouse:smartsheet",
+      "slug": "smartsheet"
     },
     {
       "ats": "greenhouse",
@@ -2681,6 +2705,15 @@
     },
     {
       "ats": "workday",
+      "company": "Automobile Club of Southern California",
+      "host": "ace.wd5.myworkdayjobs.com",
+      "key": "workday:ace.wd5.myworkdayjobs.com:ace:careers",
+      "site": "careers",
+      "slug": "ace",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Acrisure",
       "host": "acrisure.wd1.myworkdayjobs.com",
       "key": "workday:acrisure.wd1.myworkdayjobs.com:acrisure:acrisure",
@@ -3089,8 +3122,17 @@
       "company": "BlackRock",
       "host": "blackrock.wd1.myworkdayjobs.com",
       "key": "workday:blackrock.wd1.myworkdayjobs.com:blackrock:blackrock_professional",
-      "site": "BlackRock_Professional",
+      "site": "blackrock_professional",
       "slug": "blackrock",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Blackstone",
+      "host": "blackstone.wd1.myworkdayjobs.com",
+      "key": "workday:blackstone.wd1.myworkdayjobs.com:blackstone:blackstone_careers",
+      "site": "blackstone_careers",
+      "slug": "blackstone",
       "wd": "wd1"
     },
     {
@@ -3451,6 +3493,15 @@
       "key": "workday:cisco.wd5.myworkdayjobs.com:cisco:cisco_careers",
       "site": "cisco_careers",
       "slug": "cisco",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "City Utilities",
+      "host": "cityutilities.wd5.myworkdayjobs.com",
+      "key": "workday:cityutilities.wd5.myworkdayjobs.com:cityutilities:careers",
+      "site": "careers",
+      "slug": "cityutilities",
       "wd": "wd5"
     },
     {
@@ -3914,6 +3965,15 @@
     },
     {
       "ats": "workday",
+      "company": "Fidelity Investments",
+      "host": "fmr.wd1.myworkdayjobs.com",
+      "key": "workday:fmr.wd1.myworkdayjobs.com:fmr:targeted",
+      "site": "targeted",
+      "slug": "fmr",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "First National Bank",
       "host": "fnbcorp.wd501.myworkdayjobs.com",
       "key": "workday:fnbcorp.wd501.myworkdayjobs.com:fnbcorp:fnbcorp",
@@ -4325,6 +4385,15 @@
       "site": "idex_careers",
       "slug": "idexcorp",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "IDEXX",
+      "host": "idexx.wd1.myworkdayjobs.com",
+      "key": "workday:idexx.wd1.myworkdayjobs.com:idexx:idexx",
+      "site": "idexx",
+      "slug": "idexx",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -5264,6 +5333,15 @@
     },
     {
       "ats": "workday",
+      "company": "PayPal",
+      "host": "paypal.wd1.myworkdayjobs.com",
+      "key": "workday:paypal.wd1.myworkdayjobs.com:paypal:jobs",
+      "site": "jobs",
+      "slug": "paypal",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Pfizer",
       "host": "pfizer.wd1.myworkdayjobs.com",
       "key": "workday:pfizer.wd1.myworkdayjobs.com:pfizer:pfizercareers",
@@ -5980,6 +6058,15 @@
       "key": "workday:tmobile.wd1.myworkdayjobs.com:tmobile:external",
       "site": "External",
       "slug": "tmobile",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Topcon",
+      "host": "topcon.wd1.myworkdayjobs.com",
+      "key": "workday:topcon.wd1.myworkdayjobs.com:topcon:topconpositioningcareers",
+      "site": "topconpositioningcareers",
+      "slug": "topcon",
       "wd": "wd1"
     },
     {

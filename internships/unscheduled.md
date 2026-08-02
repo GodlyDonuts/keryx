@@ -2,7 +2,7 @@
 
 > Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
 
-**367 open roles**
+**368 open roles**
 
 | Company | Role | Location | Posted | Seen in | Apply |
 |---|---|---|---|---|---|
@@ -242,8 +242,9 @@
 | Human Computer Lab | Intern - Software/ML Engineering | San Francisco, CA +1 | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705)<br><sub>recognized recruiting platform</sub> |
 | IDEX | Innovations Engineer Intern | Portage, Michigan | — | [Workday direct](https://idexcorp.wd5.myworkdayjobs.com/idex_careers) | [apply · idexcorp.wd5.myworkdayjobs.com](https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Portage-Michigan/Innovations-Engineer-Intern_R-09482)<br><sub>ATS checked</sub> |
 | IDEX | Manufacturing Engineer Intern | Linthicum, Maryland | — | [Workday direct](https://idexcorp.wd5.myworkdayjobs.com/idex_careers) | [apply · idexcorp.wd5.myworkdayjobs.com](https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Linthicum-Maryland/Manufacturing-Engineer-Intern_R-09266)<br><sub>ATS checked</sub> |
+| IDEXX | Security Operations (Cybersecurity) internship | Westbrook, ME | — | [Workday direct](https://idexx.wd1.myworkdayjobs.com/idexx) | [apply · idexx.wd1.myworkdayjobs.com](https://idexx.wd1.myworkdayjobs.com/idexx/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268)<br><sub>ATS checked</sub> |
 | iHerb | Software Development Intern | Remote - USA | — | [Greenhouse direct](https://job-boards.greenhouse.io/iherb), [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/iherb/jobs/7776154003)<br><sub>ATS checked</sub> |
-| ING | Graduate Internship - NFR AI Agent Developer | Waco, TX +1 | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · ing.wd3.myworkdayjobs.com](https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/ACT-Amsterdam---Acanthus/Graduate-Internship---NFR-AI-Agent-Developer-1_REQ-10117758)<br><sub>recognized recruiting platform</sub> |
+| ING | Internship - Non-Financial Risk AI Agent Developer | Waco, TX +1 | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · ing.wd3.myworkdayjobs.com](https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/ACT-Amsterdam---Acanthus/Graduate-Internship---NFR-AI-Agent-Developer-1_REQ-10117758)<br><sub>recognized recruiting platform</sub> |
 | Integrity | Research Intern | Minneapolis, MN | — | [Workday direct](https://integritymarketing.wd1.myworkdayjobs.com/Integrity), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · integritymarketing.wd1.myworkdayjobs.com](https://integritymarketing.wd1.myworkdayjobs.com/Integrity/job/Minneapolis-MN/Research-Intern_JR4284)<br><sub>ATS checked</sub> |
 | Intel | AI Software Engineering Intern | Hillsboro, OR +1 | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · intel.wd1.myworkdayjobs.com](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639)<br><sub>recognized recruiting platform</sub> |
 | International Rescue Committee (IRC) | Adult Education Data Intern (Unpaid) | Elizabeth, NJ USA | — | [Workday direct](https://theirc.wd1.myworkdayjobs.com/External_Careers) | [apply · theirc.wd1.myworkdayjobs.com](https://theirc.wd1.myworkdayjobs.com/External_Careers/job/Elizabeth-NJ-USA/Adult-Education-Data-Intern--Unpaid-_JR00004165-1)<br><sub>ATS checked</sub> |
