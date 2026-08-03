@@ -2933,6 +2933,15 @@
     },
     {
       "ats": "workday",
+      "company": "Assurant",
+      "host": "assurant.wd1.myworkdayjobs.com",
+      "key": "workday:assurant.wd1.myworkdayjobs.com:assurant:external_limited_posting",
+      "site": "External_Limited_Posting",
+      "slug": "assurant",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Astemo",
       "host": "astemo.wd102.myworkdayjobs.com",
       "key": "workday:astemo.wd102.myworkdayjobs.com:astemo:global_career_site",
@@ -5926,6 +5935,15 @@
       "key": "workday:stewart.wd1.myworkdayjobs.com:stewart:external",
       "site": "External",
       "slug": "stewart",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "St. Jude Children's Research Hospital",
+      "host": "stjude.wd1.myworkdayjobs.com",
+      "key": "workday:stjude.wd1.myworkdayjobs.com:stjude:stjude",
+      "site": "stjude",
+      "slug": "stjude",
       "wd": "wd1"
     },
     {
