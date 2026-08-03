@@ -2234,6 +2234,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Voyager Technologies",
+      "key": "greenhouse:voyagertechnologiesinc",
+      "slug": "voyagertechnologiesinc"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Walleye Capital",
       "key": "greenhouse:walleyecapital-external-students",
       "slug": "walleyecapital-external-students"
@@ -2996,6 +3002,15 @@
     },
     {
       "ats": "workday",
+      "company": "Autostore",
+      "host": "autostore.wd3.myworkdayjobs.com",
+      "key": "workday:autostore.wd3.myworkdayjobs.com:autostore:autostore",
+      "site": "autostore",
+      "slug": "autostore",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
       "company": "AeroVironment",
       "host": "avav.wd1.myworkdayjobs.com",
       "key": "workday:avav.wd1.myworkdayjobs.com:avav:avav",
@@ -3605,6 +3620,15 @@
       "site": "Cox_External_Career_Site_1",
       "slug": "cox",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "CoxHealth",
+      "host": "coxhealth.wd5.myworkdayjobs.com",
+      "key": "workday:coxhealth.wd5.myworkdayjobs.com:coxhealth:coxhealth_external",
+      "site": "CoxHealth_External",
+      "slug": "coxhealth",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
@@ -4913,7 +4937,7 @@
     },
     {
       "ats": "workday",
-      "company": "Microchip",
+      "company": "Microchip Technology",
       "host": "microchiphr.wd5.myworkdayjobs.com",
       "key": "workday:microchiphr.wd5.myworkdayjobs.com:microchiphr:external",
       "site": "external",
