@@ -2,7 +2,7 @@
 
 > Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
 
-**267 open roles**
+**266 open roles**
 
 | Company | Role | Location | Posted | Seen in | Apply |
 |---|---|---|---|---|---|
@@ -22,7 +22,6 @@
 | JP Morgan Chase | Software Engineer Intern - Software Engineer Program | Palo Alto, CA, Houston, TX, Tampa, FL, Plano, TX, Chicago, IL, Jersey City, NJ, Columbus, OH, NYC, Wilmington, DE | 2026-08-03 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · jpmc.fa.oraclecloud.com](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759)<br><sub>recognized recruiting platform</sub> |
 | JPMorganChase | 2027 Code for Good Hackathon - Software Engineer Program - Summer Internship – United States | Chicago, IL, United States | 2026-08-03 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply · jpmc.fa.oraclecloud.com](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773759)<br><sub>recognized recruiting platform</sub> |
 | JPMorganChase | 2027 Data & AI Program - Summer Internship - Analyst - United States | Chicago, IL, United States | 2026-08-03 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply · jpmc.fa.oraclecloud.com](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869)<br><sub>recognized recruiting platform</sub> |
-| JPMorganChase | 2027 Data for Good Hackathon - Data & AI Program - Summer Internship | Chicago, IL, United States | 2026-08-03 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply · jpmc.fa.oraclecloud.com](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210775223)<br><sub>recognized recruiting platform</sub> |
 | Microsoft | Product Manager Intern | Redmond, WA | 2026-08-03 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | destination withheld<br><sub>single source · apply.careers.microsoft.com</sub> |
 | Microsoft | Software Engineer Intern - CoreAI | Redmond, WA | 2026-08-03 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | destination withheld<br><sub>single source · apply.careers.microsoft.com</sub> |
 | Netsmart | Software Engineer Intern (Summer 2027 Internship) | Overland Park, KS | 2026-08-03 | [Workday direct](https://ntst.wd1.myworkdayjobs.com/careers), [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply · ntst.wd1.myworkdayjobs.com](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667)<br><sub>ATS checked</sub> |

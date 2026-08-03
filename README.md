@@ -9,7 +9,7 @@ feeds when possible, removes duplicates, and rebuilds the Markdown databases aut
 <!-- COUNTS:START -->
 | Recruiting cycle | Open roles |
 |---|---:|
-| [Summer 2027 US Internships](internships/summer-2027.md) | 267 |
+| [Summer 2027 US Internships](internships/summer-2027.md) | 266 |
 | [Fall 2026 US Internships](internships/fall-2026.md) | 412 |
 | [Spring 2027 US Internships](internships/spring-2027.md) | 24 |
 | [Winter 2027 US Internships](internships/winter-2027.md) | 8 |

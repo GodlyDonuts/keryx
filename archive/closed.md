@@ -2,11 +2,12 @@
 
 > Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
 
-**709 closed roles**
+**710 closed roles**
 
 | Company | Role | Location | Posted | Seen in | Apply |
 |---|---|---|---|---|---|
 | Aramark | Data Analyst Intern | Newark, DE | 2026-08-03 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | destination withheld<br><sub>single source · aramarkcareers.com</sub> |
+| JPMorganChase | 2027 Data for Good Hackathon - Data & AI Program - Summer Internship | Chicago, IL, United States | 2026-08-03 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply · jpmc.fa.oraclecloud.com](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210775223)<br><sub>recognized recruiting platform</sub> |
 | Wolverine Trading | Entry-Level C++ Software Engineer | Chicago, IL | 2026-08-01 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · wolve.pinpointhq.com</sub> |
 | DaVita | Marketing and Communications Senior Analyst | Illinois | 2026-07-31 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · davita.wd1.myworkdayjobs.com](https://davita.wd1.myworkdayjobs.com/DKC_External/job/01550---Illinois-Remote/Marketing-and-Communications-Sr-Analyst_R0470966)<br><sub>recognized recruiting platform</sub> |
 | Exclusive Networks | Data Quality & Business Data Analyst Intern | Hermiston, OR | 2026-07-31 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · exclusivenetworks.wd103.myworkdayjobs.com](https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/Son/Data-Quality---Business-Data-Analyst-Intern_JR2326-1)<br><sub>recognized recruiting platform</sub> |
