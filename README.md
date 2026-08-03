@@ -9,12 +9,12 @@ feeds when possible, removes duplicates, and rebuilds the Markdown databases aut
 <!-- COUNTS:START -->
 | Recruiting cycle | Open roles |
 |---|---:|
-| [Summer 2027 US Internships](internships/summer-2027.md) | 261 |
-| [Fall 2026 US Internships](internships/fall-2026.md) | 415 |
-| [Spring 2027 US Internships](internships/spring-2027.md) | 24 |
+| [Summer 2027 US Internships](internships/summer-2027.md) | 267 |
+| [Fall 2026 US Internships](internships/fall-2026.md) | 413 |
+| [Spring 2027 US Internships](internships/spring-2027.md) | 25 |
 | [Winter 2027 US Internships](internships/winter-2027.md) | 8 |
-| [US Internships — Cycle Not Stated](internships/unscheduled.md) | 370 |
-| [2027 US New-Graduate Roles](new-grad/2027.md) | 495 |
+| [US Internships — Cycle Not Stated](internships/unscheduled.md) | 373 |
+| [2027 US New-Graduate Roles](new-grad/2027.md) | 492 |
 | [2026 US New-Graduate Roles](new-grad/2026.md) | 37 |
 | [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1719 |
 <!-- COUNTS:END -->
