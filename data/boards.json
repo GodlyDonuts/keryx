@@ -2384,6 +2384,12 @@
     },
     {
       "ats": "lever",
+      "company": "Diversified Automation",
+      "key": "lever:diversified-automation",
+      "slug": "diversified-automation"
+    },
+    {
+      "ats": "lever",
       "company": "HRL Laboratories",
       "key": "lever:dodmg",
       "slug": "dodmg"
@@ -5975,7 +5981,7 @@
       "company": "Salesforce",
       "host": "salesforce.wd12.myworkdayjobs.com",
       "key": "workday:salesforce.wd12.myworkdayjobs.com:salesforce:futureforce_newgradroles",
-      "site": "Futureforce_NewGradRoles",
+      "site": "futureforce_newgradroles",
       "slug": "salesforce",
       "wd": "wd12"
     },
