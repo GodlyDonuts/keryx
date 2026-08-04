@@ -2,7 +2,7 @@
 
 > Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
 
-**792 closed roles**
+**790 closed roles**
 
 | Company | Role | Location | Posted | Seen in | Apply |
 |---|---|---|---|---|---|
@@ -428,7 +428,6 @@
 | ByteDance | Machine Learning Graduate - E-Commerce Governance - BS/MS | Seattle, WA | 2026-06-03 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · jobs.bytedance.com</sub> |
 | ByteDance | Software Engineer Graduate - Cloud Native Infrastructure | San Jose, CA | 2026-06-02 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · jobs.bytedance.com</sub> |
 | ByteDance | Software Engineer Graduate - Cloud Native Infrastructure - BS/MS | Seattle, WA | 2026-06-02 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · jobs.bytedance.com</sub> |
-| Avnet | Software Developer | Tempe, AZ, Phoenix, AZ | 2026-06-01 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · wd1.myworkdaysite.com](https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614)<br><sub>recognized recruiting platform</sub> |
 | candidate fyi | Full Stack / Backend Software Engineer | Remote in USA | 2026-06-01 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/candidate.fyi/0448a10e-863f-437f-80bb-d65ee09f8b6e/application)<br><sub>recognized recruiting platform</sub> |
 | Walleye Capital | Central Equity Quant Research (CEQR) Intern (Summer 2027) | New York, New York | 2026-06-01 | [Greenhouse direct](https://job-boards.greenhouse.io/walleyecapital-external-students) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676069006)<br><sub>ATS checked</sub> |
 | Walleye Capital | Investment Data Science Intern (Summer 2027) | New York, New York | 2026-06-01 | [Greenhouse direct](https://job-boards.greenhouse.io/walleyecapital-external-students), [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006)<br><sub>ATS checked</sub> |
@@ -507,7 +506,6 @@
 | Colonist | Product Developer Intern | Remote in USA | 2026-03-27 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/colonist/b9285b46-6972-4443-b34f-8d74631a0dbd/application)<br><sub>recognized recruiting platform</sub> |
 | University of Rochester | Data Analyst 1 - Drug Diversion Analyst | Rochester, NY | 2026-03-25 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · rochester.wd5.myworkdayjobs.com](https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Strong-Memorial-Hospital/Data-Analyst-I---Pharmacy_R269792-1)<br><sub>recognized recruiting platform</sub> |
 | University of Wisconsin-Madison | Assistant Professor of Music Technology and Artificial Intelligence - Rise-AI | Madison, WI | 2026-03-20 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · wisconsin.wd1.myworkdayjobs.com](https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Assistant-Professor-of-Music-Technology-and-Artificial-Intelligence_JR10004513)<br><sub>recognized recruiting platform</sub> |
-| Avnet | Associate Field Application Engineer | Hopkins, MN | 2026-03-19 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · wd1.myworkdaysite.com](https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071)<br><sub>recognized recruiting platform</sub> |
 | PingWind | BI Dashboard Software Engineer 1 | Alexandria, VA | 2026-03-18 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.lever.co](https://jobs.lever.co/pingwind/c75277f4-3030-4c48-a155-fc45726a52ee)<br><sub>recognized recruiting platform</sub> |
 | University of Arkansas | Cosmos Graduate Research Assistant | Little Rock, AR | 2026-03-18 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · uasys.wd5.myworkdayjobs.com](https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2)<br><sub>recognized recruiting platform</sub> |
 | University of Arkansas | Graduate Research Assistant - Developer | Little Rock, AR | 2026-03-18 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · uasys.wd5.myworkdayjobs.com](https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891)<br><sub>recognized recruiting platform</sub> |
