@@ -2,7 +2,7 @@
 
 > Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
 
-**725 closed roles**
+**726 closed roles**
 
 | Company | Role | Location | Posted | Seen in | Apply |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | Uhaul | ETL Developer | Phoenix, AZ | 2026-06-17 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · uhaul.wd1.myworkdayjobs.com](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/ETL-Developer_R247910)<br><sub>recognized recruiting platform</sub> |
 | Cisco | Software Engineer Backend/Platform Systems 1 | Boston, MA, Knoxville, TN, Milpitas, CA, Austin, TX, San Jose, CA, Fulton, MD, Dallas, TX, Durham, NC, Hillsboro, OR, Alpharetta, GA, NYC, Acton, MA, Atlanta, GA | 2026-06-16 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · cisco.wd5.myworkdayjobs.com](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Backend-Platform-Systems-I--Full-Time----United-States_2000046)<br><sub>recognized recruiting platform</sub> |
 | Criteo | Client Focused Data Analyst - Performance Marketing | Boston, MA, NYC | 2026-06-16 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · criteo.wd3.myworkdayjobs.com](https://criteo.wd3.myworkdayjobs.com/Criteo_Career_Site/job/Boston/Client-Focused-Data-Analyst--Performance-Marketing_r20736)<br><sub>recognized recruiting platform</sub> |
+| GE Healthcare | Firmware Engineer | Waukesha, WI | 2026-06-16 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · gehc.wd5.myworkdayjobs.com](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Firmware-Engineer_R4042432-1)<br><sub>recognized recruiting platform</sub> |
 | Leidos | Linux Systems Administrator | Annapolis Junction, MD | 2026-06-16 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · leidos.wd5.myworkdayjobs.com](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Linux-Systems-Administrators---All-Levels_R-00185476)<br><sub>recognized recruiting platform</sub> |
 | SewerAI | NASSCO Data Technician | Remote in USA | 2026-06-16 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/sewer-ai/f9401e64-1cc5-41b8-9653-ea85c550bd94/application)<br><sub>recognized recruiting platform</sub> |
 | SWBC | Data Analyst | San Antonio, TX | 2026-06-16 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · swbc.wd1.myworkdayjobs.com](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Data-Analyst_R0015059-1)<br><sub>recognized recruiting platform</sub> |
