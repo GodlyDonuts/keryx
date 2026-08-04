@@ -1136,6 +1136,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Abacus Insights",
+      "key": "greenhouse:abacusinsights",
+      "slug": "abacusinsights"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Accenture Federal Services",
       "key": "greenhouse:accenturefederalservices",
       "slug": "accenturefederalservices"
@@ -1694,6 +1700,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "ITS Logistics",
+      "key": "greenhouse:itslogisticsllc",
+      "slug": "itslogisticsllc"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Jumio",
       "key": "greenhouse:jumio",
       "slug": "jumio"
@@ -2039,6 +2051,12 @@
       "company": "Sigma Computing",
       "key": "greenhouse:sigmacomputing",
       "slug": "sigmacomputing"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Simple Technology Solutions",
+      "key": "greenhouse:simpletechnologysolutions",
+      "slug": "simpletechnologysolutions"
     },
     {
       "ats": "greenhouse",
@@ -4295,6 +4313,15 @@
     },
     {
       "ats": "workday",
+      "company": "Gentex Corporation",
+      "host": "gentex.wd5.myworkdayjobs.com",
+      "key": "workday:gentex.wd5.myworkdayjobs.com:gentex:gentex",
+      "site": "Gentex",
+      "slug": "gentex",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Georgetown University",
       "host": "georgetown.wd1.myworkdayjobs.com",
       "key": "workday:georgetown.wd1.myworkdayjobs.com:georgetown:georgetown_admin_careers",
@@ -4562,6 +4589,15 @@
       "site": "icfexternal_career_site",
       "slug": "icf",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Icon",
+      "host": "icon.wd3.myworkdayjobs.com",
+      "key": "workday:icon.wd3.myworkdayjobs.com:icon:broadbean_external",
+      "site": "broadbean_external",
+      "slug": "icon",
+      "wd": "wd3"
     },
     {
       "ats": "workday",
@@ -5753,6 +5789,15 @@
     },
     {
       "ats": "workday",
+      "company": "R1 RCM",
+      "host": "r1rcm.wd1.myworkdayjobs.com",
+      "key": "workday:r1rcm.wd1.myworkdayjobs.com:r1rcm:r1rcm",
+      "site": "R1RCM",
+      "slug": "r1rcm",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "RaceTrac",
       "host": "racetrac.wd5.myworkdayjobs.com",
       "key": "workday:racetrac.wd5.myworkdayjobs.com:racetrac:ssc",
@@ -6128,6 +6173,15 @@
       "site": "SpinMaster_Careers",
       "slug": "spinmaster",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Shirley Ryan AbilityLab",
+      "host": "sralab.wd1.myworkdayjobs.com",
+      "key": "workday:sralab.wd1.myworkdayjobs.com:sralab:sralabcareers",
+      "site": "SRAlabCareers",
+      "slug": "sralab",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -6514,6 +6568,15 @@
       "key": "workday:usaa.wd1.myworkdayjobs.com:usaa:usaajobswd",
       "site": "USAAJOBSWD",
       "slug": "usaa",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "U.S. Bank",
+      "host": "usbank.wd1.myworkdayjobs.com",
+      "key": "workday:usbank.wd1.myworkdayjobs.com:usbank:us_bank_careers",
+      "site": "US_Bank_Careers",
+      "slug": "usbank",
       "wd": "wd1"
     },
     {
