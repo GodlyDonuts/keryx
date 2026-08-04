@@ -2,10 +2,12 @@
 
 > Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
 
-**27 open roles**
+**28 open roles**
 
 | Company | Role | Location | Posted | Seen in | Apply |
 |---|---|---|---|---|---|
+| Tesla | Cell Engineering Intern - Cell Qualification | Palo Alto, CA, San Diego, CA | 2026-08-04 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | destination withheld<br><sub>single source · www.tesla.com</sub> |
+| Tesla | Data Engineer Intern - Cell Engineering | Palo Alto, CA | 2026-08-04 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | destination withheld<br><sub>single source · www.tesla.com</sub> |
 | SpaceX | Silicon Engineer Intern/Co-op | Palo Alto, CA, Irvine, CA, Redmond, WA | 2026-08-03 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · boards.greenhouse.io](https://boards.greenhouse.io/spacex/jobs/8636134002)<br><sub>recognized recruiting platform</sub> |
 | SpaceX | Software Engineer Intern/Co-op | Palo Alto, CA, Bastrop, TX, Irvine, CA, Cape Canaveral, FL, Brownsville, TX, Redmond, WA, McGregor, TX, Hawthorne, CA | 2026-08-03 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · boards.greenhouse.io](https://boards.greenhouse.io/spacex/jobs/8621756002)<br><sub>recognized recruiting platform</sub> |
 | Rendezvous Robotics | Manufacturing and Test Engineering Intern (Spring 2027) | Golden, CO | 2026-07-27 | [Greenhouse direct](https://job-boards.greenhouse.io/rendezvousrobotics) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4332082009)<br><sub>ATS checked</sub> |
@@ -17,7 +19,6 @@
 | GE Appliances | Software Engineering Co-op (Spring 2027) | Louisville, KY | 2026-06-28 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply · haier.wd3.myworkdayjobs.com](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-26147)<br><sub>recognized recruiting platform</sub> |
 | Delta Air Lines | Reservations Co-op (Spring 2027, data analytics / process improvement) | Atlanta, GA | 2026-06-23 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply · delta.avature.net](https://delta.avature.net/en_US/careers/JobDetail?jobid=32928)<br><sub>recognized recruiting platform</sub> |
 | GE Aerospace | Engines Engineering Co-op, Computer/Software Engineering (Spring 2027, Returning Students) 🛂 🇺🇸 | Cincinnati, OH / Lynn, MA | 2026-06-14 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | destination withheld<br><sub>single source · careers.geaerospace.com</sub> |
-| Centerfield | Product Manager Intern | Los Angeles, California | 2026-06-11 | [Ashby direct](https://jobs.ashbyhq.com/centerfield), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/centerfield/92a124aa-9efd-4dbd-90f1-6319be7706b2)<br><sub>ATS checked</sub> |
 | Blue Origin | Avionics Software Intern (Spring 2027) 🇺🇸 | Seattle, WA (multiple US) | 2026-06-10 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply · blueorigin.wd5.myworkdayjobs.com](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Avionics-Software-Internship---Undergraduate_R66213)<br><sub>recognized recruiting platform</sub> |
 | Blue Origin | Software Developer Intern (Spring 2027) 🇺🇸 | Seattle, WA (multiple US) | 2026-06-10 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply · blueorigin.wd5.myworkdayjobs.com](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Undergraduate_R66216)<br><sub>recognized recruiting platform</sub> |
 | GE Appliances | Digital Technology Intern (Spring 2027) | Louisville, KY | 2026-06-01 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply · haier.wd3.myworkdayjobs.com](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Digital-Technology-Spring-2027-Intern_REQ-25831)<br><sub>recognized recruiting platform</sub> |
