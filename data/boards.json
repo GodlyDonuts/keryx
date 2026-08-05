@@ -1058,6 +1058,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Valstad",
+      "key": "ashby:valstad",
+      "slug": "valstad"
+    },
+    {
+      "ats": "ashby",
       "company": "Veeda AI",
       "key": "ashby:veeda-labs",
       "slug": "veeda-labs"
@@ -3179,6 +3185,15 @@
     },
     {
       "ats": "workday",
+      "company": "Louisiana Blue",
+      "host": "bcbsla.wd1.myworkdayjobs.com",
+      "key": "workday:bcbsla.wd1.myworkdayjobs.com:bcbsla:generation_blue",
+      "site": "Generation_Blue",
+      "slug": "bcbsla",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "BlueCross BlueShield of Tennessee",
       "host": "bcbst.wd1.myworkdayjobs.com",
       "key": "workday:bcbst.wd1.myworkdayjobs.com:bcbst:external",
@@ -3917,6 +3932,15 @@
     },
     {
       "ats": "workday",
+      "company": "Eastern Shipbuilding Group",
+      "host": "easternshipbuilding.wd12.myworkdayjobs.com",
+      "key": "workday:easternshipbuilding.wd12.myworkdayjobs.com:easternshipbuilding:easternshipbuildinggroupsystem",
+      "site": "EasternShipbuildingGroupsystem",
+      "slug": "easternshipbuilding",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
       "company": "Ensign-Bickford Industries",
       "host": "ebi.wd5.myworkdayjobs.com",
       "key": "workday:ebi.wd5.myworkdayjobs.com:ebi:ebicareers",
@@ -4553,6 +4577,15 @@
       "site": "centerwell_external_career_site",
       "slug": "humana",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Hunt Electric",
+      "host": "huntelec.wd501.myworkdayjobs.com",
+      "key": "workday:huntelec.wd501.myworkdayjobs.com:huntelec:huntelectric_careers",
+      "site": "HuntElectric_Careers",
+      "slug": "huntelec",
+      "wd": "wd501"
     },
     {
       "ats": "workday",
