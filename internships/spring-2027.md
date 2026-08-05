@@ -2,10 +2,11 @@
 
 > Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
 
-**28 open roles**
+**29 open roles**
 
 | Company | Role | Location | Posted | Seen in | Apply |
 |---|---|---|---|---|---|
+| Ameren | Data Analytics Co-op | St. Louis, MO | 2026-08-05 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · ameren.wd1.myworkdayjobs.com](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Data-Analytics-Coop_033877-1)<br><sub>recognized recruiting platform</sub> |
 | Tesla | Cell Engineering Intern - Cell Qualification | Palo Alto, CA, San Diego, CA | 2026-08-04 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | destination withheld<br><sub>single source · www.tesla.com</sub> |
 | Tesla | Data Engineer Intern - Cell Engineering | Palo Alto, CA | 2026-08-04 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | destination withheld<br><sub>single source · www.tesla.com</sub> |
 | SpaceX | Silicon Engineer Intern/Co-op | Palo Alto, CA, Irvine, CA, Redmond, WA | 2026-08-03 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · boards.greenhouse.io](https://boards.greenhouse.io/spacex/jobs/8636134002)<br><sub>recognized recruiting platform</sub> |

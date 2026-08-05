@@ -1268,6 +1268,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "A-TEK",
+      "key": "greenhouse:atek",
+      "slug": "atek"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Atlas Energy Solutions",
       "key": "greenhouse:atlassand",
       "slug": "atlassand"
@@ -4055,6 +4061,15 @@
     },
     {
       "ats": "workday",
+      "company": "Elanco",
+      "host": "elanco.wd5.myworkdayjobs.com",
+      "key": "workday:elanco.wd5.myworkdayjobs.com:elanco:external_career",
+      "site": "External_Career",
+      "slug": "elanco",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Elekta",
       "host": "elekta.wd3.myworkdayjobs.com",
       "key": "workday:elekta.wd3.myworkdayjobs.com:elekta:elekta_careers",
@@ -6053,6 +6068,15 @@
     },
     {
       "ats": "workday",
+      "company": "RBI",
+      "host": "rbi.wd3.myworkdayjobs.com",
+      "key": "workday:rbi.wd3.myworkdayjobs.com:rbi:rbi_external_career_site",
+      "site": "RBI_External_Career_Site",
+      "slug": "rbi",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
       "company": "Red Hat",
       "host": "redhat.wd5.myworkdayjobs.com",
       "key": "workday:redhat.wd5.myworkdayjobs.com:redhat:jobs",
@@ -6701,6 +6725,15 @@
     },
     {
       "ats": "workday",
+      "company": "T. Rowe Price",
+      "host": "troweprice.wd5.myworkdayjobs.com",
+      "key": "workday:troweprice.wd5.myworkdayjobs.com:troweprice:troweprice",
+      "site": "TRowePrice",
+      "slug": "troweprice",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Truist Bank",
       "host": "truist.wd1.myworkdayjobs.com",
       "key": "workday:truist.wd1.myworkdayjobs.com:truist:careers",
@@ -7117,10 +7150,10 @@
     },
     {
       "ats": "workday",
-      "company": "WGU - Western Governors University",
+      "company": "WGU",
       "host": "wgu.wd5.myworkdayjobs.com",
       "key": "workday:wgu.wd5.myworkdayjobs.com:wgu:external",
-      "site": "external",
+      "site": "External",
       "slug": "wgu",
       "wd": "wd5"
     },
@@ -7150,6 +7183,15 @@
       "site": "External",
       "slug": "williams",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Winland Foods",
+      "host": "winlandfoods.wd1.myworkdayjobs.com",
+      "key": "workday:winlandfoods.wd1.myworkdayjobs.com:winlandfoods:external",
+      "site": "external",
+      "slug": "winlandfoods",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
