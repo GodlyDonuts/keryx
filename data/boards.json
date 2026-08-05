@@ -938,6 +938,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Serve Robotics",
+      "key": "ashby:serverobotics",
+      "slug": "serverobotics"
+    },
+    {
+      "ats": "ashby",
       "company": "SewerAI",
       "key": "ashby:sewer-ai",
       "slug": "sewer-ai"
@@ -3866,6 +3872,15 @@
       "site": "DAN_GLOBAL",
       "slug": "dentsuaegis",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Dexcom",
+      "host": "dexcom.wd1.myworkdayjobs.com",
+      "key": "workday:dexcom.wd1.myworkdayjobs.com:dexcom:dexcom",
+      "site": "Dexcom",
+      "slug": "dexcom",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
