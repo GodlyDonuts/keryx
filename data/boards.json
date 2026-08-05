@@ -110,6 +110,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Atominvest",
+      "key": "ashby:atominvest",
+      "slug": "atominvest"
+    },
+    {
+      "ats": "ashby",
       "company": "Auctor",
       "key": "ashby:auctor",
       "slug": "auctor"
@@ -1445,6 +1451,12 @@
       "company": "DataDome",
       "key": "greenhouse:ddome",
       "slug": "ddome"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "DensityAI",
+      "key": "greenhouse:densityai",
+      "slug": "densityai"
     },
     {
       "ats": "greenhouse",
@@ -3004,6 +3016,15 @@
       "ats": "workday",
       "company": "Arrowstreet Capital",
       "host": "arrowstreetcapital.wd5.myworkdayjobs.com",
+      "key": "workday:arrowstreetcapital.wd5.myworkdayjobs.com:arrowstreetcapital:arrowstreet",
+      "site": "arrowstreet",
+      "slug": "arrowstreetcapital",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Arrowstreet Capital",
+      "host": "arrowstreetcapital.wd5.myworkdayjobs.com",
       "key": "workday:arrowstreetcapital.wd5.myworkdayjobs.com:arrowstreetcapital:campus_careers",
       "site": "Campus_Careers",
       "slug": "arrowstreetcapital",
@@ -3377,6 +3398,15 @@
       "site": "search",
       "slug": "brunswick",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "BTI Solutions",
+      "host": "btisolutions.wd12.myworkdayjobs.com",
+      "key": "workday:btisolutions.wd12.myworkdayjobs.com:btisolutions:external",
+      "site": "external",
+      "slug": "btisolutions",
+      "wd": "wd12"
     },
     {
       "ats": "workday",
@@ -3869,7 +3899,7 @@
       "company": "Deluxe",
       "host": "deluxe.wd5.myworkdayjobs.com",
       "key": "workday:deluxe.wd5.myworkdayjobs.com:deluxe:usa_can",
-      "site": "usa_can",
+      "site": "USA_CAN",
       "slug": "deluxe",
       "wd": "wd5"
     },
@@ -3947,6 +3977,24 @@
     },
     {
       "ats": "workday",
+      "company": "Daimler Truck",
+      "host": "dtna.wd5.myworkdayjobs.com",
+      "key": "workday:dtna.wd5.myworkdayjobs.com:dtna:dtna_affiliate",
+      "site": "dtna_affiliate",
+      "slug": "dtna",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Daimler Truck",
+      "host": "dtna.wd5.myworkdayjobs.com",
+      "key": "workday:dtna.wd5.myworkdayjobs.com:dtna:dtna_external",
+      "site": "dtna_external",
+      "slug": "dtna",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Duke Energy",
       "host": "dukeenergy.wd1.myworkdayjobs.com",
       "key": "workday:dukeenergy.wd1.myworkdayjobs.com:dukeenergy:search",
@@ -3965,12 +4013,30 @@
     },
     {
       "ats": "workday",
+      "company": "eBay",
+      "host": "ebay.wd5.myworkdayjobs.com",
+      "key": "workday:ebay.wd5.myworkdayjobs.com:ebay:apply",
+      "site": "apply",
+      "slug": "ebay",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Ensign-Bickford Industries",
       "host": "ebi.wd5.myworkdayjobs.com",
       "key": "workday:ebi.wd5.myworkdayjobs.com:ebi:ebicareers",
       "site": "ebicareers",
       "slug": "ebi",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Echo Global Logistics",
+      "host": "echo.wd1.myworkdayjobs.com",
+      "key": "workday:echo.wd1.myworkdayjobs.com:echo:echo_logistics",
+      "site": "echo_logistics",
+      "slug": "echo",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -4838,6 +4904,15 @@
     },
     {
       "ats": "workday",
+      "company": "Relativity",
+      "host": "kcura.wd1.myworkdayjobs.com",
+      "key": "workday:kcura.wd1.myworkdayjobs.com:kcura:external_career_site",
+      "site": "external_career_site",
+      "slug": "kcura",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Kemper",
       "host": "kemper.wd5.myworkdayjobs.com",
       "key": "workday:kemper.wd5.myworkdayjobs.com:kemper:kemper_careers",
@@ -5086,6 +5161,15 @@
       "key": "workday:massgeneralbrigham.wd1.myworkdayjobs.com:massgeneralbrigham:mgbexternal",
       "site": "mgbexternal",
       "slug": "massgeneralbrigham",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "MassMutual",
+      "host": "massmutual.wd1.myworkdayjobs.com",
+      "key": "workday:massmutual.wd1.myworkdayjobs.com:massmutual:mmcareers",
+      "site": "mmcareers",
+      "slug": "massmutual",
       "wd": "wd1"
     },
     {
@@ -5387,6 +5471,15 @@
     },
     {
       "ats": "workday",
+      "company": "Nike",
+      "host": "nike.wd1.myworkdayjobs.com",
+      "key": "workday:nike.wd1.myworkdayjobs.com:nike:nke",
+      "site": "nke",
+      "slug": "nike",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "NJM Insurance Group",
       "host": "njm.wd1.myworkdayjobs.com",
       "key": "workday:njm.wd1.myworkdayjobs.com:njm:njm",
@@ -5456,6 +5549,15 @@
       "site": "NLR",
       "slug": "nrel",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "University of Nevada, Las Vegas",
+      "host": "nshe.wd1.myworkdayjobs.com",
+      "key": "workday:nshe.wd1.myworkdayjobs.com:nshe:unlv-external",
+      "site": "unlv-external",
+      "slug": "nshe",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -5615,7 +5717,7 @@
       "company": "BlueCross BlueShield of South Carolina",
       "host": "ourhrconnect.wd501.myworkdayjobs.com",
       "key": "workday:ourhrconnect.wd501.myworkdayjobs.com:ourhrconnect:scblues",
-      "site": "SCBlues",
+      "site": "scblues",
       "slug": "ourhrconnect",
       "wd": "wd501"
     },
@@ -5747,6 +5849,15 @@
     },
     {
       "ats": "workday",
+      "company": "Polaris",
+      "host": "polaris.wd5.myworkdayjobs.com",
+      "key": "workday:polaris.wd5.myworkdayjobs.com:polaris:polarisjobs",
+      "site": "polarisjobs",
+      "slug": "polaris",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Polar Semiconductor",
       "host": "polarsemi.wd501.myworkdayjobs.com",
       "key": "workday:polarsemi.wd501.myworkdayjobs.com:polarsemi:polar",
@@ -5761,6 +5872,15 @@
       "key": "workday:powerdesigninc.wd5.myworkdayjobs.com:powerdesigninc:pdi",
       "site": "PDI",
       "slug": "powerdesigninc",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Premera",
+      "host": "premera.wd5.myworkdayjobs.com",
+      "key": "workday:premera.wd5.myworkdayjobs.com:premera:premera",
+      "site": "premera",
+      "slug": "premera",
       "wd": "wd5"
     },
     {
@@ -5936,10 +6056,19 @@
     },
     {
       "ats": "workday",
-      "company": "LexisNexis Legal & Professional",
+      "company": "LexisNexis",
       "host": "relx.wd3.myworkdayjobs.com",
       "key": "workday:relx.wd3.myworkdayjobs.com:relx:lexisnexislegal",
-      "site": "LexisNexisLegal",
+      "site": "lexisnexislegal",
+      "slug": "relx",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "LexisNexis Reed Tech",
+      "host": "relx.wd3.myworkdayjobs.com",
+      "key": "workday:relx.wd3.myworkdayjobs.com:relx:reedtech",
+      "site": "reedtech",
       "slug": "relx",
       "wd": "wd3"
     },
@@ -6035,6 +6164,15 @@
     },
     {
       "ats": "workday",
+      "company": "Robert Half",
+      "host": "roberthalf.wd1.myworkdayjobs.com",
+      "key": "workday:roberthalf.wd1.myworkdayjobs.com:roberthalf:roberthalfcareers",
+      "site": "roberthalfcareers",
+      "slug": "roberthalf",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Genentech",
       "host": "roche.wd3.myworkdayjobs.com",
       "key": "workday:roche.wd3.myworkdayjobs.com:roche:rog-a2o-gene",
@@ -6093,6 +6231,15 @@
       "host": "salesforce.wd12.myworkdayjobs.com",
       "key": "workday:salesforce.wd12.myworkdayjobs.com:salesforce:futureforce_newgradroles",
       "site": "futureforce_newgradroles",
+      "slug": "salesforce",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
+      "company": "Slack",
+      "host": "salesforce.wd12.myworkdayjobs.com",
+      "key": "workday:salesforce.wd12.myworkdayjobs.com:salesforce:slack",
+      "site": "slack",
       "slug": "salesforce",
       "wd": "wd12"
     },
@@ -6184,6 +6331,15 @@
       "key": "workday:sluhn.wd1.myworkdayjobs.com:sluhn:sluhn",
       "site": "SLUHN",
       "slug": "sluhn",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Snap",
+      "host": "snapchat.wd1.myworkdayjobs.com",
+      "key": "workday:snapchat.wd1.myworkdayjobs.com:snapchat:snap",
+      "site": "snap",
+      "slug": "snapchat",
       "wd": "wd1"
     },
     {
@@ -6311,6 +6467,15 @@
       "site": "swbccareers",
       "slug": "swbc",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Swift",
+      "host": "swift.wd3.myworkdayjobs.com",
+      "key": "workday:swift.wd3.myworkdayjobs.com:swift:join-swift",
+      "site": "join-swift",
+      "slug": "swift",
+      "wd": "wd3"
     },
     {
       "ats": "workday",
@@ -6452,7 +6617,7 @@
       "company": "T-Mobile",
       "host": "tmobile.wd1.myworkdayjobs.com",
       "key": "workday:tmobile.wd1.myworkdayjobs.com:tmobile:external",
-      "site": "External",
+      "site": "external",
       "slug": "tmobile",
       "wd": "wd1"
     },
@@ -6638,6 +6803,15 @@
     },
     {
       "ats": "workday",
+      "company": "US Acute Care Solutions",
+      "host": "usacs.wd1.myworkdayjobs.com",
+      "key": "workday:usacs.wd1.myworkdayjobs.com:usacs:usacscareers",
+      "site": "usacscareers",
+      "slug": "usacs",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "U.S. Bank",
       "host": "usbank.wd1.myworkdayjobs.com",
       "key": "workday:usbank.wd1.myworkdayjobs.com:usbank:us_bank_careers",
@@ -6653,6 +6827,15 @@
       "site": "ExternalUSCCareers",
       "slug": "usc",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "US Foods",
+      "host": "usfoods.wd1.myworkdayjobs.com",
+      "key": "workday:usfoods.wd1.myworkdayjobs.com:usfoods:usfoodscareersexternal",
+      "site": "usfoodscareersexternal",
+      "slug": "usfoods",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -6787,6 +6970,15 @@
       "key": "workday:vumc.wd1.myworkdayjobs.com:vumc:vumccareers",
       "site": "vumccareers",
       "slug": "vumc",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Walker & Dunlop",
+      "host": "walkerdunlop.wd1.myworkdayjobs.com",
+      "key": "workday:walkerdunlop.wd1.myworkdayjobs.com:walkerdunlop:wd",
+      "site": "wd",
+      "slug": "walkerdunlop",
       "wd": "wd1"
     },
     {
