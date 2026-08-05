@@ -1820,6 +1820,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Muon Space",
+      "key": "greenhouse:muonspace",
+      "slug": "muonspace"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Natera",
       "key": "greenhouse:natera",
       "slug": "natera"
@@ -4303,6 +4309,15 @@
       "ats": "workday",
       "company": "Franklin Templeton",
       "host": "franklintempleton.wd5.myworkdayjobs.com",
+      "key": "workday:franklintempleton.wd5.myworkdayjobs.com:franklintempleton:invitation-only",
+      "site": "invitation-only",
+      "slug": "franklintempleton",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Franklin Templeton",
+      "host": "franklintempleton.wd5.myworkdayjobs.com",
       "key": "workday:franklintempleton.wd5.myworkdayjobs.com:franklintempleton:primary-external-1",
       "site": "Primary-External-1",
       "slug": "franklintempleton",
@@ -5288,6 +5303,15 @@
       "site": "mimecast-careers",
       "slug": "mimecast",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Mizuho Securities USA",
+      "host": "mizuho.wd1.myworkdayjobs.com",
+      "key": "workday:mizuho.wd1.myworkdayjobs.com:mizuho:mizuhoamericas",
+      "site": "mizuhoamericas",
+      "slug": "mizuho",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
