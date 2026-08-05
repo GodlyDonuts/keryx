@@ -2,7 +2,7 @@
 
 > Generated automatically by Keryx. US roles only. Use the employer link to confirm current details.
 
-**28 open roles**
+**29 open roles**
 
 | Company | Role | Location | Posted | Seen in | Apply |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | GE Appliances | Software Engineering Co-op (Spring 2027) | Louisville, KY | 2026-06-28 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply · haier.wd3.myworkdayjobs.com](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-26147)<br><sub>recognized recruiting platform</sub> |
 | Delta Air Lines | Reservations Co-op (Spring 2027, data analytics / process improvement) | Atlanta, GA | 2026-06-23 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply · delta.avature.net](https://delta.avature.net/en_US/careers/JobDetail?jobid=32928)<br><sub>recognized recruiting platform</sub> |
 | GE Aerospace | Engines Engineering Co-op, Computer/Software Engineering (Spring 2027, Returning Students) 🛂 🇺🇸 | Cincinnati, OH / Lynn, MA | 2026-06-14 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | destination withheld<br><sub>single source · careers.geaerospace.com</sub> |
+| Centerfield | Product Manager Intern | Los Angeles, California | 2026-06-11 | [Ashby direct](https://jobs.ashbyhq.com/centerfield), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/centerfield/92a124aa-9efd-4dbd-90f1-6319be7706b2)<br><sub>ATS checked</sub> |
 | Blue Origin | Avionics Software Intern (Spring 2027) 🇺🇸 | Seattle, WA (multiple US) | 2026-06-10 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply · blueorigin.wd5.myworkdayjobs.com](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Avionics-Software-Internship---Undergraduate_R66213)<br><sub>recognized recruiting platform</sub> |
 | Blue Origin | Software Developer Intern (Spring 2027) 🇺🇸 | Seattle, WA (multiple US) | 2026-06-10 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply · blueorigin.wd5.myworkdayjobs.com](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Undergraduate_R66216)<br><sub>recognized recruiting platform</sub> |
 | GE Appliances | Digital Technology Intern (Spring 2027) | Louisville, KY | 2026-06-01 | [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply · haier.wd3.myworkdayjobs.com](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Digital-Technology-Spring-2027-Intern_REQ-25831)<br><sub>recognized recruiting platform</sub> |
