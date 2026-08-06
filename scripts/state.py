@@ -15,6 +15,7 @@ from .normalize import (
     job_id,
     sanitize_job_url,
 )
+from .qualifications import ACADEMIC_EXTRACTOR_VERSION, classify_academic_eligibility
 
 _SOURCE_PRIORITY = {
     "ats": 0,
@@ -23,6 +24,32 @@ _SOURCE_PRIORITY = {
     "speedy": 3,
     "sndsh": 4,
 }
+_REQUIREMENT_LEVELS = {"required", "preferred", "stated"}
+
+
+def _has_current_eligibility_schema(value: object) -> bool:
+    if not isinstance(value, dict):
+        return False
+    if value.get("extractor_version") != ACADEMIC_EXTRACTOR_VERSION:
+        return False
+    status = str(value.get("status") or "")
+    if status != "unavailable" and not isinstance(value.get("checked_at"), str):
+        return False
+    if status.startswith("explicit-") and value.get("requirement_level") not in _REQUIREMENT_LEVELS:
+        return False
+    if (
+        value.get("currently_enrolled")
+        and value.get("currently_enrolled_level") not in _REQUIREMENT_LEVELS
+    ):
+        return False
+    if (
+        value.get("return_to_school")
+        and value.get("return_to_school_level") not in _REQUIREMENT_LEVELS
+    ):
+        return False
+    return status in {"not-found", "unavailable", "student-status"} or status.startswith(
+        "explicit-"
+    )
 
 
 def eligible(observation: Observation) -> bool:
@@ -96,6 +123,9 @@ def _current_jobs(observations: list[Observation], today: str) -> dict[str, dict
         )
         sources = {_source(item)["id"]: _source(item) for item in ordered}
         source_list = [sources[key] for key in sorted(sources)]
+        academic_eligibility = classify_academic_eligibility(ordered)
+        if academic_eligibility.get("status") != "unavailable":
+            academic_eligibility["checked_at"] = today
         jobs[identifier] = {
             "id": identifier,
             "company": preferred.company,
@@ -105,6 +135,7 @@ def _current_jobs(observations: list[Observation], today: str) -> dict[str, dict
             "cycle": cycle,
             "posted_at": posted_dates[0] if posted_dates else None,
             "sponsorship": sponsorships[0] if sponsorships else None,
+            "academic_eligibility": academic_eligibility,
             "status": "open",
             "first_seen": today,
             "last_changed": today,
@@ -128,6 +159,7 @@ def _material(job: dict[str, Any]) -> tuple[Any, ...]:
         job.get("cycle"),
         job.get("posted_at"),
         job.get("sponsorship"),
+        job.get("academic_eligibility"),
         job.get("status"),
     )
 
@@ -163,6 +195,15 @@ def merge_state(
         job["sources"] = [known_sources[key] for key in sorted(known_sources)]
         raw_url = str(job.get("_candidate_url") or job.get("url") or previous.get("url") or "")
         _protect_link(job, job["sources"], raw_url)
+        current_eligibility = job.get("academic_eligibility")
+        if (
+            isinstance(current_eligibility, dict)
+            and current_eligibility.get("status") == "unavailable"
+            and _has_current_eligibility_schema(previous.get("academic_eligibility"))
+        ):
+            # Direct boards are intentionally polled in rotating slots. Do not erase previously
+            # verified requirements merely because this run saw only metadata-only sources.
+            job["academic_eligibility"] = deepcopy(previous["academic_eligibility"])
         job["first_seen"] = previous.get("first_seen") or today
         job["last_changed"] = (
             today
@@ -203,9 +244,16 @@ def merge_state(
 
     for job in merged.values():
         job.pop("_candidate_url", None)
+        if not _has_current_eligibility_schema(job.get("academic_eligibility")):
+            job["academic_eligibility"] = {
+                "extractor_version": ACADEMIC_EXTRACTOR_VERSION,
+                "status": "unavailable",
+                "summary": "Posting text unavailable",
+                "confidence": "metadata-only",
+            }
 
     return {
-        "schema_version": 1,
+        "schema_version": 2,
         "country": "United States",
         "jobs": [merged[key] for key in sorted(merged)],
     }

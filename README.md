@@ -22,6 +22,56 @@ feeds when possible, removes duplicates, and rebuilds the Markdown databases aut
 The Markdown files are the product: open them directly on GitHub, search them, bookmark them, or
 consume the canonical [`data/jobs.json`](data/jobs.json) file from another program.
 
+## Academic eligibility
+
+Keryx shows graduation timing and related student-status conditions when they are explicitly
+stated in posting text. The deterministic extractor can identify:
+
+- graduation months, years, windows, and one-sided bounds such as “May 2027 or later”;
+- current-enrollment conditions; and
+- conditions about returning to school after an internship.
+
+Every detected condition is classified independently as **required**, **preferred**, or simply
+**stated** when the posting gives no clear modality. Preferred qualifications remain preferences:
+Keryx never promotes them into eligibility gates. This distinction is also preserved in
+`data/jobs.json` for downstream consumers.
+
+### Current coverage
+
+<!-- ACADEMIC-COVERAGE:START -->
+| Current posting-text coverage | Open roles |
+|---|---:|
+| Academic condition detected | 0 |
+| Text checked; no condition detected | 0 |
+| Complete posting text unavailable | 0 |
+
+| Detected-condition modality | Criteria |
+|---|---:|
+| Required | 0 |
+| Preferred | 0 |
+| Stated without clear modality | 0 |
+<!-- ACADEMIC-COVERAGE:END -->
+
+These counts describe the current index, not applicants. A role can contribute multiple criteria
+when it states more than one academic condition.
+
+Each extracted result retains the source that supplied the text. Direct ATS text takes precedence
+over community-source text. Each detected condition has its own short supporting excerpt; Keryx
+does not persist the complete job description. Stored classifications include an extractor version,
+so a future parser improvement invalidates stale results until the source is checked again. Every
+text-backed result also records its most recent check date; metadata-only results do not claim one.
+
+The distinction between **not stated** and **not available** is intentional. “Not stated” means
+Keryx checked available posting text but did not detect academic timing language. “Not available”
+means the source did not provide the complete posting text. Neither label means that every student
+qualifies; applicants must confirm all requirements on the employer page.
+
+Public Greenhouse, Lever, and Ashby descriptions currently provide most qualification coverage.
+Workday search cards and community-list rows often do not include complete descriptions, so those
+roles remain visibly marked “not available” rather than being guessed. The structured dates in
+`data/jobs.json` are designed for future consumers such as Erga to compare against a user-approved
+graduation date; Keryx itself does not know or score individual applicants.
+
 ## Sources
 
 Keryx combines and cross-checks:
