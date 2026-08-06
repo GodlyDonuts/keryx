@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="referrer" content="no-referrer">
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; connect-src 'self'; img-src 'self'; style-src 'self'; script-src 'self'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'"
+    >
+    <meta
+      name="description"
+      content="Search verified United States internships and new-graduate opportunities indexed by Keryx."
+    >
+    <title>Keryx — US internships and new-grad roles</title>
+    <link rel="stylesheet" href="assets/app.css">
+    <script src="assets/app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#results">Skip to opportunities</a>
+    <header class="masthead">
+      <nav class="nav" aria-label="Primary navigation">
+        <a class="wordmark" href="./" aria-label="Keryx home">Keryx<span>.</span></a>
+        <div class="nav-links">
+          <a href="opportunities.csv" download>CSV</a>
+          <a href="feed.xml">RSS</a>
+          <a href="api/jobs.json">JSON</a>
+          <a href="https://github.com/GodlyDonuts/keryx">GitHub</a>
+        </div>
+      </nav>
+      <div class="hero">
+        <p class="eyebrow">The US early-career index</p>
+        <h1>Find the opening.<br><em>Know the evidence.</em></h1>
+        <p class="lede">
+          A continuously updated, deterministic index of internships and new-graduate roles.
+          No account, no tracking, and no application data collected.
+        </p>
+        <div class="metrics" aria-label="Dataset summary">
+          <div><strong id="metric-roles">—</strong><span>open roles</span></div>
+          <div><strong id="metric-companies">—</strong><span>companies</span></div>
+          <div><strong id="metric-sources">—</strong><span>complete sources</span></div>
+          <div><strong id="metric-updated">—</strong><span>last source run</span></div>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="explorer" aria-labelledby="explorer-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Opportunity explorer</p>
+            <h2 id="explorer-title">Search the current index</h2>
+          </div>
+          <button id="reset-filters" class="text-button" type="button">Reset filters</button>
+        </div>
+
+        <div class="search-row">
+          <label class="search-field" for="search">
+            <span class="visually-hidden">Search roles</span>
+            <svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20">
+              <path d="m21 21-4.4-4.4m2.4-5.1a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0Z"/>
+            </svg>
+            <input id="search" type="search" placeholder="Company, role, location, or skill" autocomplete="off">
+            <kbd>/</kbd>
+          </label>
+          <label class="sort-field" for="sort">
+            <span>Sort</span>
+            <select id="sort">
+              <option value="newest">Newest first</option>
+              <option value="company">Company A–Z</option>
+              <option value="role">Role A–Z</option>
+            </select>
+          </label>
+        </div>
+
+        <details class="filters" open>
+          <summary>Filters <span id="active-filter-count" aria-live="polite"></span></summary>
+          <div class="filter-grid">
+            <label>Program
+              <select id="program">
+                <option value="">All programs</option>
+                <option value="internship">Internships</option>
+                <option value="new-grad">New graduate</option>
+              </select>
+            </label>
+            <label>Recruiting cycle
+              <select id="cycle"><option value="">All cycles</option></select>
+            </label>
+            <label>Role family
+              <select id="category"><option value="">All role families</option></select>
+            </label>
+            <label>Skill
+              <select id="skill"><option value="">All skills</option></select>
+            </label>
+            <label>Work arrangement
+              <select id="workplace"><option value="">Any arrangement</option></select>
+            </label>
+            <label>Visa / citizenship language
+              <select id="visa"><option value="">Any status</option></select>
+            </label>
+            <label>Graduation year
+              <select id="graduation"><option value="">Any stated year</option></select>
+            </label>
+            <label>Academic evidence
+              <select id="academic">
+                <option value="">Any evidence status</option>
+                <option value="detected">Condition detected</option>
+                <option value="not-found">Text checked; none found</option>
+                <option value="unavailable">Posting text unavailable</option>
+              </select>
+            </label>
+          </div>
+          <div class="toggle-row">
+            <label><input id="compensation" type="checkbox"> Explicit compensation only</label>
+            <label><input id="clickable" type="checkbox"> Clickable applications only</label>
+            <label><input id="saved-only" type="checkbox"> Saved roles only</label>
+          </div>
+        </details>
+
+        <div class="results-bar">
+          <p id="result-count" role="status" aria-live="polite">Loading opportunities…</p>
+          <p id="saved-count">0 saved locally</p>
+        </div>
+        <div id="load-error" class="notice error" hidden>
+          The opportunity index could not be loaded. Try the Markdown databases on GitHub.
+        </div>
+        <div id="results" class="results" tabindex="-1" aria-busy="true"></div>
+        <button id="show-more" class="show-more" type="button" hidden>Show more roles</button>
+      </section>
+
+      <section class="method" aria-labelledby="method-title">
+        <div>
+          <p class="eyebrow">Read the labels precisely</p>
+          <h2 id="method-title">Evidence, not eligibility decisions</h2>
+        </div>
+        <div class="method-grid">
+          <article>
+            <span class="number">01</span>
+            <h3>Required ≠ preferred</h3>
+            <p>Keryx preserves the exact modality of academic conditions. A preference is never promoted into a gate.</p>
+          </article>
+          <article>
+            <span class="number">02</span>
+            <h3>Unknown stays unknown</h3>
+            <p>Missing text does not become a guess. Pay, work arrangement, and sponsorship appear only with public evidence.</p>
+          </article>
+          <article>
+            <span class="number">03</span>
+            <h3>Current ≠ historical</h3>
+            <p>A current verification requires fresh source evidence. Prior ATS observations remain history, not a trust badge.</p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p><strong>Keryx</strong> indexes public postings. It never accepts applications or stores applicant data.</p>
+      <p>Saved roles remain only in this browser. Confirm every requirement and destination with the employer.</p>
+    </footer>
+
+    <template id="job-template">
+      <article class="job-card">
+        <div class="job-heading">
+          <div>
+            <p class="company"></p>
+            <h3 class="title"></h3>
+          </div>
+          <button class="save" type="button" aria-label="Save role" title="Save locally">
+            <svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20">
+              <path d="M6 3.75h12a.75.75 0 0 1 .75.75v16L12 16.25 5.25 20.5v-16A.75.75 0 0 1 6 3.75Z"/>
+            </svg>
+          </button>
+        </div>
+        <p class="location"></p>
+        <div class="tags"></div>
+        <dl class="facts"></dl>
+        <div class="academic-detail" hidden></div>
+        <div class="job-footer">
+          <div class="dates"></div>
+          <a class="apply" target="_blank" rel="noopener noreferrer">Apply <span aria-hidden="true">↗</span></a>
+          <span class="withheld" hidden>Destination withheld</span>
+        </div>
+      </article>
+    </template>
+  </body>
+</html>

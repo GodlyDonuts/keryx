@@ -4,6 +4,12 @@ Keryx is a continuously updated database of **United States internships and new-
 GitHub Actions collects public listings, verifies them against direct applicant-tracking-system
 feeds when possible, removes duplicates, and rebuilds the Markdown databases automatically.
 
+**[Search the dashboard](https://godlydonuts.github.io/keryx/)** ·
+**[Download CSV](https://godlydonuts.github.io/keryx/opportunities.csv)** ·
+**[Subscribe by RSS](https://godlydonuts.github.io/keryx/feed.xml)** ·
+**[Use the JSON API](https://godlydonuts.github.io/keryx/api/jobs.json)** ·
+**[Inspect source health](https://godlydonuts.github.io/keryx/api/source-health.json)**
+
 ## Opportunity databases
 
 <!-- COUNTS:START -->
@@ -37,6 +43,12 @@ first-seen and last-changed timestamps, active and historical source views, and 
 for core fields. When sources disagree, bounded alternatives are retained instead of silently erased.
 These additions are published as job schema version 3. Legacy day-level fields remain temporarily
 available for downstream compatibility.
+
+The optional dashboard provides local search, structured filters, and saved roles without an
+account. Searches never leave the browser, and saved role IDs remain in browser storage. The JSON,
+CSV, RSS, and source-health products are rebuilt from the same canonical state; they are interfaces
+to the database, not separate sources of truth. See the full [methodology](METHODOLOGY.md) and
+[privacy design](PRIVACY.md).
 
 ## Academic eligibility
 
@@ -158,6 +170,10 @@ government identity documents solely because a listing appears here.
 The update workflow runs every 15 minutes and commits only when the database actually changes.
 Temporary source failures do not remove jobs. A listing must disappear from every successfully
 checked source for two consecutive runs before Keryx closes it.
+
+After a successful refresh, a separate workflow builds and deploys the static dashboard, JSON API,
+CSV export, RSS feed, and source-health view. Generated web artifacts are assembled at deploy time
+rather than committed, which avoids duplicating the canonical job database throughout Git history.
 
 Keryx does not accept applications, store applicant information, or use an AI model. It is a public,
 deterministic index of public job postings.
