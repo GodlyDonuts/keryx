@@ -298,9 +298,7 @@ def _workday(board: Board) -> Snapshot:
     tenant, site, host = board["slug"], board["site"], board["host"]
     api_url = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
     observations: dict[str, Observation] = {}
-    complete = True
     for term in ("intern", "co-op", "new grad"):
-        exhausted = False
         for offset in range(0, 100, 20):
             payload = post_json(
                 api_url,
@@ -334,11 +332,10 @@ def _workday(board: Board) -> Snapshot:
                     observations[observation.external_id] = observation
             total = payload.get("total")
             if len(postings) < 20 or (isinstance(total, int) and offset + len(postings) >= total):
-                exhausted = True
                 break
-        if not exhausted:
-            complete = False
-    return Snapshot(source_id, tuple(observations.values()), complete=complete)
+    # Exhausting these keyword searches does not make them a complete Workday board snapshot.
+    # Returned roles are directly observed, but omissions cannot prove that a role closed.
+    return Snapshot(source_id, tuple(observations.values()), complete=False)
 
 
 def fetch_board(board: Board) -> Snapshot:

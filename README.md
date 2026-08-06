@@ -22,6 +22,22 @@ feeds when possible, removes duplicates, and rebuilds the Markdown databases aut
 The Markdown files are the product: open them directly on GitHub, search them, bookmark them, or
 consume the canonical [`data/jobs.json`](data/jobs.json) file from another program.
 
+## Current evidence versus history
+
+Keryx never treats “observed once” as “verified forever.” Each role separates source IDs that are
+currently trustworthy from sources that are historical, stale, degraded, or known to have removed
+the posting. A direct ATS label requires either an observation in the current run or a recent healthy
+source snapshot within that adapter's polling window. If a complete ATS snapshot stops returning a
+role that remains on a community list, the role stays indexed but loses its current ATS-verification
+label.
+
+[`data/source-health.json`](data/source-health.json) records the latest exact UTC attempt, success,
+complete snapshot, outcome, and record count for each source. `data/jobs.json` retains exact
+first-seen and last-changed timestamps, active and historical source views, and the selected source
+for core fields. When sources disagree, bounded alternatives are retained instead of silently erased.
+These additions are published as job schema version 3. Legacy day-level fields remain temporarily
+available for downstream compatibility.
+
 ## Academic eligibility
 
 Keryx shows graduation timing and related student-status conditions when they are explicitly

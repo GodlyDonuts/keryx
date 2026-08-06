@@ -10,6 +10,7 @@ from typing import Any
 from urllib.parse import urlsplit
 
 from .normalize import canonical_url, is_recruiting_platform_url, sanitize_job_url
+from .provenance import parse_utc_timestamp
 from .qualifications import ACADEMIC_EXTRACTOR_VERSION
 
 _DATABASES = (
@@ -75,8 +76,15 @@ def _cell(value: object) -> str:
 
 def _source_links(job: dict[str, Any]) -> str:
     links = []
+    current_ids = {str(value) for value in job.get("current_source_ids", [])}
+    historical_ids = {str(value) for value in job.get("historical_source_ids", [])}
     for source in job.get("sources", [])[:4]:
         label = _cell(source.get("label"))
+        source_id = str(source.get("id") or "")
+        if source_id in current_ids:
+            label = f"{label} · current"
+        elif source_id in historical_ids:
+            label = f"{label} · historical"
         url = canonical_url(str(source.get("url") or ""))
         links.append(f"[{label}]({url})" if url else label)
     return ", ".join(links) or "—"
@@ -103,7 +111,7 @@ def _academic_eligibility(job: dict[str, Any]) -> str:
     status = str(eligibility.get("status") or "")
     source = _cell(eligibility.get("source_label") or "source text")
     provenance = "direct ATS text" if eligibility.get("confidence") == "direct-ats" else source
-    checked_at = _cell(eligibility.get("checked_at"))
+    checked_at = _cell(str(eligibility.get("checked_at") or "")[:16].replace("T", " "))
     if status == "not-found":
         return f"not stated<br><sub>{provenance} · checked {checked_at}</sub>"
     details = []
@@ -240,6 +248,41 @@ def _validate_publishable_jobs(jobs: list[dict[str, Any]]) -> None:
             for source in job.get("sources", [])
             if isinstance(source, dict)
         }
+        current_source_ids = {
+            str(source_id) for source_id in job.get("current_source_ids", source_ids)
+        }
+        historical_source_ids = {
+            str(source_id) for source_id in job.get("historical_source_ids", [])
+        }
+        if not current_source_ids.issubset(source_ids) or not historical_source_ids.issubset(
+            source_ids
+        ):
+            raise ValueError(f"{identifier} has invalid source-state views")
+        if current_source_ids & historical_source_ids:
+            raise ValueError(f"{identifier} has overlapping current and historical sources")
+        for source in job.get("sources", []):
+            if not isinstance(source, dict):
+                continue
+            state = source.get("state")
+            if state is not None and state not in {"active", "historical"}:
+                raise ValueError(f"{identifier} has an invalid source state")
+            for field in ("first_seen_at", "state_changed_at", "last_observed_at"):
+                timestamp = source.get(field)
+                if timestamp is not None and parse_utc_timestamp(timestamp) is None:
+                    raise ValueError(f"{identifier} has an invalid source timestamp")
+        for field in ("first_seen_at", "last_changed_at", "closed_at_timestamp"):
+            timestamp = job.get(field)
+            if timestamp is not None and parse_utc_timestamp(timestamp) is None:
+                raise ValueError(f"{identifier} has an invalid {field}")
+        field_sources = job.get("field_sources")
+        if field_sources is not None and (
+            not isinstance(field_sources, dict)
+            or any(source_id not in source_ids for source_id in field_sources.values())
+        ):
+            raise ValueError(f"{identifier} has invalid field provenance")
+        field_conflicts = job.get("field_conflicts")
+        if field_conflicts is not None and not isinstance(field_conflicts, dict):
+            raise ValueError(f"{identifier} has invalid field conflicts")
         eligibility = job.get("academic_eligibility")
         if eligibility is not None:
             if not isinstance(eligibility, dict):
@@ -253,8 +296,9 @@ def _validate_publishable_jobs(jobs: list[dict[str, Any]]) -> None:
             if academic_status == "unavailable":
                 if checked_at is not None:
                     raise ValueError(f"{identifier} has an invalid unavailable check date")
-            elif not isinstance(checked_at, str) or not re.fullmatch(
-                r"20\d{2}-\d{2}-\d{2}", checked_at
+            elif not isinstance(checked_at, str) or (
+                re.fullmatch(r"20\d{2}-\d{2}-\d{2}", checked_at) is None
+                and parse_utc_timestamp(checked_at) is None
             ):
                 raise ValueError(f"{identifier} lacks a valid academic check date")
             summary = str(eligibility.get("summary") or "")
@@ -314,11 +358,12 @@ def _validate_publishable_jobs(jobs: list[dict[str, Any]]) -> None:
                 if value is not None and not re.fullmatch(r"20\d{2}(?:-\d{2})?", str(value)):
                     raise ValueError(f"{identifier} has invalid {key}")
         if status == "ats-verified" and not any(
-            source_id.startswith("ats:") for source_id in source_ids
+            source_id.startswith("ats:") for source_id in current_source_ids
         ):
             raise ValueError(f"{identifier} lacks direct ATS provenance")
         if status == "cross-source" and (
-            len(source_ids) < 2 or any(source_id.startswith("ats:") for source_id in source_ids)
+            len(current_source_ids) < 2
+            or any(source_id.startswith("ats:") for source_id in current_source_ids)
         ):
             raise ValueError(f"{identifier} lacks cross-source provenance")
         raw_url = job.get("url")
@@ -328,8 +373,8 @@ def _validate_publishable_jobs(jobs: list[dict[str, Any]]) -> None:
             host_decision = sanitize_job_url(f"https://{host}/")
             if (
                 status != "unverified"
-                or len(source_ids) != 1
-                or any(source_id.startswith("ats:") for source_id in source_ids)
+                or len(current_source_ids) > 1
+                or any(source_id.startswith("ats:") for source_id in current_source_ids)
                 or not host_decision.url
                 or host_decision.host != host
                 or len(fingerprint) != 24
@@ -347,7 +392,7 @@ def _validate_publishable_jobs(jobs: list[dict[str, Any]]) -> None:
             raise ValueError(f"{identifier} exposes an unverified application URL")
         if status == "platform-structured" and not is_recruiting_platform_url(raw_url):
             raise ValueError(f"{identifier} has an invalid recruiting-platform URL")
-        if status == "platform-structured" and len(source_ids) != 1:
+        if status == "platform-structured" and len(current_source_ids) > 1:
             raise ValueError(f"{identifier} has invalid recruiting-platform provenance")
 
 
@@ -356,6 +401,7 @@ def render_repository(
     payload: dict[str, Any],
     boards: object,
     quarantine: object | None = None,
+    source_health: object | None = None,
 ) -> None:
     _validate_publishable_jobs(payload["jobs"])
     open_jobs = [job for job in payload["jobs"] if job.get("status") == "open"]
@@ -386,6 +432,11 @@ def render_repository(
         )
         + "\n",
     )
+    if source_health is not None:
+        _write(
+            root / "data/source-health.json",
+            json.dumps(source_health, indent=2, sort_keys=True) + "\n",
+        )
 
     readme_path = root / "README.md"
     readme = readme_path.read_text(encoding="utf-8")

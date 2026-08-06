@@ -13,6 +13,7 @@ if __package__ in {None, ""}:
 from scripts.boards import discover_boards, fetch_direct_boards  # noqa: E402
 from scripts.models import Observation  # noqa: E402
 from scripts.normalize import sanitize_job_url  # noqa: E402
+from scripts.provenance import update_source_health, utc_timestamp  # noqa: E402
 from scripts.render import render_repository  # noqa: E402
 from scripts.sources import fetch_upstreams  # noqa: E402
 from scripts.state import eligible, merge_state  # noqa: E402
@@ -53,6 +54,7 @@ def _quarantine_report(observations: list[Observation]) -> dict[str, Any]:
 
 
 def main() -> int:
+    checked_at = utc_timestamp(datetime.now(UTC))
     upstreams, upstream_errors = fetch_upstreams()
     if not upstreams:
         details = "; ".join(f"{name}: {error}" for name, error in upstream_errors.items())
@@ -84,25 +86,41 @@ def main() -> int:
     snapshots = (*upstreams, *direct)
     observations = [item for snapshot in snapshots for item in snapshot.observations]
     complete_sources = {snapshot.source_id for snapshot in snapshots if snapshot.complete}
+    errors = {**upstream_errors, **direct_errors}
+    previous_source_health = _load_json(
+        ROOT / "data/source-health.json",
+        {"schema_version": 1, "sources": {}},
+    )
+    source_health = update_source_health(
+        previous_source_health,
+        snapshots,
+        errors,
+        checked_at=checked_at,
+    )
 
     previous = _load_json(
-        ROOT / "data/jobs.json", {"schema_version": 2, "country": "United States", "jobs": []}
+        ROOT / "data/jobs.json", {"schema_version": 3, "country": "United States", "jobs": []}
     )
-    today = datetime.now(UTC).date().isoformat()
     payload = merge_state(
         previous,
         observations,
         complete_sources=complete_sources,
-        today=today,
+        observed_at=checked_at,
+        source_health=source_health,
     )
-    render_repository(ROOT, payload, boards, _quarantine_report(observations))
+    render_repository(
+        ROOT,
+        payload,
+        boards,
+        _quarantine_report(observations),
+        source_health,
+    )
 
     open_jobs = sum(job.get("status") == "open" for job in payload["jobs"])
     print(
         f"Keryx indexed {open_jobs} open US roles from {len(upstreams)} upstreams and "
         f"{len(direct)} direct ATS boards."
     )
-    errors = {**upstream_errors, **direct_errors}
     if errors:
         by_kind: dict[str, int] = {}
         for name in errors:
