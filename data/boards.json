@@ -1706,6 +1706,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "impact.com",
+      "key": "greenhouse:impact",
+      "slug": "impact"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Impiricus",
       "key": "greenhouse:impiricus",
       "slug": "impiricus"
@@ -3869,6 +3875,15 @@
     },
     {
       "ats": "workday",
+      "company": "Curtiss-Wright",
+      "host": "curtisswright.wd1.myworkdayjobs.com",
+      "key": "workday:curtisswright.wd1.myworkdayjobs.com:curtisswright:cw_external_career_site",
+      "site": "cw_external_career_site",
+      "slug": "curtisswright",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "CVS Health",
       "host": "cvshealth.wd1.myworkdayjobs.com",
       "key": "workday:cvshealth.wd1.myworkdayjobs.com:cvshealth:cvs_health_careers",
@@ -4952,7 +4967,7 @@
       "company": "KBR",
       "host": "kbr.wd5.myworkdayjobs.com",
       "key": "workday:kbr.wd5.myworkdayjobs.com:kbr:kbr_careers",
-      "site": "kbr_careers",
+      "site": "KBR_Careers",
       "slug": "kbr",
       "wd": "wd5"
     },
