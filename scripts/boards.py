@@ -9,7 +9,9 @@ from urllib.parse import urlsplit
 
 from .models import Observation, Snapshot
 from .net import get_json, post_json
-from .normalize import clean_text, infer_program, is_technical, iso_date
+from .normalize import clean_text, infer_program, is_technical, iso_date, sanitize_job_url
+
+_BOARD_COMPONENT = re.compile(r"(?:[A-Za-z0-9._-]|%[0-9A-Fa-f]{2}){1,128}")
 
 
 class Board(TypedDict, total=False):
@@ -22,8 +24,30 @@ class Board(TypedDict, total=False):
     wd: str
 
 
+def _safe_component(value: object) -> bool:
+    text = str(value or "")
+    return text not in {".", ".."} and _BOARD_COMPONENT.fullmatch(text) is not None
+
+
+def _safe_board(board: Board) -> bool:
+    ats = board.get("ats")
+    if ats not in {"greenhouse", "lever", "ashby", "workday"}:
+        return False
+    if not _safe_component(board.get("slug")):
+        return False
+    if ats != "workday":
+        return True
+    host = str(board.get("host") or "").casefold()
+    if not host.endswith((".myworkdayjobs.com", ".myworkdaysite.com")):
+        return False
+    return bool(sanitize_job_url(f"https://{host}/").url) and _safe_component(board.get("site"))
+
+
 def board_from_observation(observation: Observation) -> Board | None:
-    parsed = urlsplit(observation.url)
+    safe_url = sanitize_job_url(observation.url).url
+    if not safe_url:
+        return None
+    parsed = urlsplit(safe_url)
     host = (parsed.hostname or "").casefold()
     parts = [part for part in parsed.path.split("/") if part]
     external = observation.external_id.split(":")
@@ -108,7 +132,7 @@ def discover_boards(observations: list[Observation], existing: list[Board]) -> l
     # Existing entries are only fallbacks. Rediscovery from a live upstream wins so
     # case-sensitive Workday site names stay current while identities remain normalized.
     for old_board in existing:
-        if not old_board.get("key"):
+        if not old_board.get("key") or not _safe_board(old_board):
             continue
         board = old_board.copy()
         if board.get("ats") == "workday":
@@ -177,7 +201,9 @@ def _observation(
 
 def _greenhouse(board: Board) -> Snapshot:
     source_id, _, _ = _source(board)
-    payload = get_json(f"https://boards-api.greenhouse.io/v1/boards/{board['slug']}/jobs")
+    payload = get_json(
+        f"https://boards-api.greenhouse.io/v1/boards/{board['slug']}/jobs?content=true"
+    )
     if not isinstance(payload, Mapping) or not isinstance(payload.get("jobs"), list):
         raise ValueError("Greenhouse response did not contain jobs")
     observations = []
@@ -193,6 +219,7 @@ def _greenhouse(board: Board) -> Snapshot:
             location=location_text,
             url=item.get("absolute_url"),
             posted_at=item.get("first_published"),
+            description=item.get("content"),
         )
         if observation:
             observations.append(observation)
@@ -210,9 +237,17 @@ def _lever(board: Board) -> Snapshot:
             continue
         categories = item.get("categories")
         location = categories.get("location") if isinstance(categories, Mapping) else ""
-        description = " ".join(
+        description_parts = [
             str(item.get(key) or "") for key in ("descriptionPlain", "additionalPlain")
-        )
+        ]
+        lists = item.get("lists")
+        if isinstance(lists, list):
+            for section in lists:
+                if isinstance(section, Mapping):
+                    description_parts.extend(
+                        (str(section.get("text") or ""), str(section.get("content") or ""))
+                    )
+        description = " ".join(description_parts)
         created = item.get("createdAt")
         posted = None
         if isinstance(created, int | float):
@@ -307,6 +342,8 @@ def _workday(board: Board) -> Snapshot:
 
 
 def fetch_board(board: Board) -> Snapshot:
+    if not _safe_board(board):
+        raise ValueError("board metadata is invalid or unsafe")
     return {
         "greenhouse": _greenhouse,
         "lever": _lever,

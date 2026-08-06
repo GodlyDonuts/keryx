@@ -3,12 +3,14 @@ from __future__ import annotations
 import hashlib
 import json
 import os
+import re
 import tempfile
 from pathlib import Path
 from typing import Any
 from urllib.parse import urlsplit
 
 from .normalize import canonical_url, is_recruiting_platform_url, sanitize_job_url
+from .qualifications import ACADEMIC_EXTRACTOR_VERSION
 
 _DATABASES = (
     ("internship", "summer-2027", Path("internships/summer-2027.md"), "Summer 2027 US Internships"),
@@ -31,6 +33,18 @@ _DATABASES = (
     ),
 )
 _LINK_STATUSES = frozenset({"ats-verified", "cross-source", "platform-structured", "unverified"})
+_ACADEMIC_STATUSES = frozenset(
+    {
+        "explicit-date",
+        "explicit-window",
+        "explicit-lower-bound",
+        "explicit-upper-bound",
+        "student-status",
+        "not-found",
+        "unavailable",
+    }
+)
+_REQUIREMENT_LEVELS = frozenset({"required", "preferred", "stated"})
 
 
 def _write(path: Path, text: str) -> None:
@@ -82,12 +96,39 @@ def _apply_link(job: dict[str, Any]) -> str:
     return f"[apply · {_cell(host)}]({url})<br><sub>{status}</sub>"
 
 
+def _academic_eligibility(job: dict[str, Any]) -> str:
+    eligibility = job.get("academic_eligibility")
+    if not isinstance(eligibility, dict) or eligibility.get("status") == "unavailable":
+        return "not available<br><sub>posting text not indexed</sub>"
+    status = str(eligibility.get("status") or "")
+    source = _cell(eligibility.get("source_label") or "source text")
+    provenance = "direct ATS text" if eligibility.get("confidence") == "direct-ats" else source
+    checked_at = _cell(eligibility.get("checked_at"))
+    if status == "not-found":
+        return f"not stated<br><sub>{provenance} · checked {checked_at}</sub>"
+    details = []
+    if status.startswith("explicit-"):
+        details.append(f"graduation: {_cell(eligibility.get('requirement_level'))}")
+    if eligibility.get("currently_enrolled"):
+        details.append(f"enrollment: {_cell(eligibility.get('currently_enrolled_level'))}")
+    if eligibility.get("return_to_school"):
+        details.append(f"return to school: {_cell(eligibility.get('return_to_school_level'))}")
+    details.append(provenance)
+    details.append(f"checked {checked_at}")
+    return f"{_cell(eligibility.get('summary'))}<br><sub>{' · '.join(details)}</sub>"
+
+
 def _markdown(title: str, jobs: list[dict[str, Any]], *, count_label: str = "open roles") -> str:
     lines = [
         f"# {title}",
         "",
         "> Generated automatically by Keryx. US roles only. "
+        "Academic requirements are deterministic hints, not eligibility decisions. "
         "Use the employer link to confirm current details.",
+        "> **Required**, **preferred**, and merely **stated** conditions remain distinct; "
+        "preferred qualifications are never treated as eligibility gates.",
+        "> **Not stated** means no requirement was detected in available posting text; "
+        "**not available** means Keryx did not receive the full posting text.",
         "",
         f"**{len(jobs)} {count_label}**",
         "",
@@ -97,8 +138,8 @@ def _markdown(title: str, jobs: list[dict[str, Any]], *, count_label: str = "ope
         return "\n".join(lines)
     lines.extend(
         [
-            "| Company | Role | Location | Posted | Seen in | Apply |",
-            "|---|---|---|---|---|---|",
+            "| Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |",
+            "|---|---|---|---|---|---|---|",
         ]
     )
     for job in jobs:
@@ -109,6 +150,7 @@ def _markdown(title: str, jobs: list[dict[str, Any]], *, count_label: str = "ope
                     _cell(job.get("company")),
                     _cell(job.get("title")),
                     _cell(job.get("location")),
+                    _academic_eligibility(job),
                     _cell(job.get("posted_at")),
                     _source_links(job),
                     _apply_link(job),
@@ -143,6 +185,50 @@ def _count_table(counts: dict[tuple[str, str], int]) -> str:
     return "\n".join(rows)
 
 
+def _academic_coverage_table(jobs: list[dict[str, Any]]) -> str:
+    status_counts = {"detected": 0, "not-found": 0, "unavailable": 0}
+    level_counts = {level: 0 for level in sorted(_REQUIREMENT_LEVELS)}
+    for job in jobs:
+        eligibility = job.get("academic_eligibility")
+        if not isinstance(eligibility, dict) or eligibility.get("status") == "unavailable":
+            status_counts["unavailable"] += 1
+            continue
+        if eligibility.get("status") == "not-found":
+            status_counts["not-found"] += 1
+            continue
+        status_counts["detected"] += 1
+        for key in (
+            "requirement_level",
+            "currently_enrolled_level",
+            "return_to_school_level",
+        ):
+            level = eligibility.get(key)
+            if level in level_counts:
+                level_counts[str(level)] += 1
+
+    return "\n".join(
+        (
+            "| Current posting-text coverage | Open roles |",
+            "|---|---:|",
+            f"| Academic condition detected | {status_counts['detected']} |",
+            f"| Text checked; no condition detected | {status_counts['not-found']} |",
+            f"| Complete posting text unavailable | {status_counts['unavailable']} |",
+            "",
+            "| Detected-condition modality | Criteria |",
+            "|---|---:|",
+            f"| Required | {level_counts['required']} |",
+            f"| Preferred | {level_counts['preferred']} |",
+            f"| Stated without clear modality | {level_counts['stated']} |",
+        )
+    )
+
+
+def _replace_generated_block(text: str, start: str, end: str, body: str) -> str:
+    before, remainder = text.split(start, 1)
+    _, after = remainder.split(end, 1)
+    return f"{before}{start}\n{body}\n{end}{after}"
+
+
 def _validate_publishable_jobs(jobs: list[dict[str, Any]]) -> None:
     for job in jobs:
         identifier = str(job.get("id", "unknown"))
@@ -154,6 +240,79 @@ def _validate_publishable_jobs(jobs: list[dict[str, Any]]) -> None:
             for source in job.get("sources", [])
             if isinstance(source, dict)
         }
+        eligibility = job.get("academic_eligibility")
+        if eligibility is not None:
+            if not isinstance(eligibility, dict):
+                raise ValueError(f"{identifier} has invalid academic eligibility")
+            academic_status = str(eligibility.get("status") or "")
+            if eligibility.get("extractor_version") != ACADEMIC_EXTRACTOR_VERSION:
+                raise ValueError(f"{identifier} has a stale academic eligibility extractor")
+            if academic_status not in _ACADEMIC_STATUSES:
+                raise ValueError(f"{identifier} has invalid academic eligibility status")
+            checked_at = eligibility.get("checked_at")
+            if academic_status == "unavailable":
+                if checked_at is not None:
+                    raise ValueError(f"{identifier} has an invalid unavailable check date")
+            elif not isinstance(checked_at, str) or not re.fullmatch(
+                r"20\d{2}-\d{2}-\d{2}", checked_at
+            ):
+                raise ValueError(f"{identifier} lacks a valid academic check date")
+            summary = str(eligibility.get("summary") or "")
+            evidence_fields = {
+                key: str(eligibility.get(key) or "")
+                for key in (
+                    "evidence",
+                    "graduation_evidence",
+                    "currently_enrolled_evidence",
+                    "return_to_school_evidence",
+                )
+            }
+            if (
+                not summary
+                or len(summary) > 160
+                or any(len(value) > 280 for value in evidence_fields.values())
+            ):
+                raise ValueError(f"{identifier} has oversized academic eligibility text")
+            if (
+                academic_status.startswith("explicit-")
+                and eligibility.get("requirement_level") not in _REQUIREMENT_LEVELS
+            ):
+                raise ValueError(f"{identifier} has invalid graduation requirement level")
+            if (
+                academic_status.startswith("explicit-")
+                and not evidence_fields["graduation_evidence"]
+            ):
+                raise ValueError(f"{identifier} lacks graduation evidence")
+            if (
+                eligibility.get("currently_enrolled")
+                and eligibility.get("currently_enrolled_level") not in _REQUIREMENT_LEVELS
+            ):
+                raise ValueError(f"{identifier} has invalid enrollment requirement level")
+            if (
+                eligibility.get("currently_enrolled")
+                and not evidence_fields["currently_enrolled_evidence"]
+            ):
+                raise ValueError(f"{identifier} lacks enrollment evidence")
+            if (
+                eligibility.get("return_to_school")
+                and eligibility.get("return_to_school_level") not in _REQUIREMENT_LEVELS
+            ):
+                raise ValueError(f"{identifier} has invalid return-to-school requirement level")
+            if (
+                eligibility.get("return_to_school")
+                and not evidence_fields["return_to_school_evidence"]
+            ):
+                raise ValueError(f"{identifier} lacks return-to-school evidence")
+            academic_source = eligibility.get("source_id")
+            if academic_status == "unavailable":
+                if academic_source is not None:
+                    raise ValueError(f"{identifier} has invalid unavailable eligibility provenance")
+            elif not isinstance(academic_source, str) or academic_source not in source_ids:
+                raise ValueError(f"{identifier} lacks academic eligibility provenance")
+            for key in ("graduation_start", "graduation_end"):
+                value = eligibility.get(key)
+                if value is not None and not re.fullmatch(r"20\d{2}(?:-\d{2})?", str(value)):
+                    raise ValueError(f"{identifier} has invalid {key}")
         if status == "ats-verified" and not any(
             source_id.startswith("ats:") for source_id in source_ids
         ):
@@ -230,7 +389,16 @@ def render_repository(
 
     readme_path = root / "README.md"
     readme = readme_path.read_text(encoding="utf-8")
-    start, end = "<!-- COUNTS:START -->", "<!-- COUNTS:END -->"
-    before, remainder = readme.split(start, 1)
-    _, after = remainder.split(end, 1)
-    _write(readme_path, f"{before}{start}\n{_count_table(counts)}\n{end}{after}")
+    readme = _replace_generated_block(
+        readme,
+        "<!-- COUNTS:START -->",
+        "<!-- COUNTS:END -->",
+        _count_table(counts),
+    )
+    readme = _replace_generated_block(
+        readme,
+        "<!-- ACADEMIC-COVERAGE:START -->",
+        "<!-- ACADEMIC-COVERAGE:END -->",
+        _academic_coverage_table(open_jobs),
+    )
+    _write(readme_path, readme)

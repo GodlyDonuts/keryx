@@ -6,7 +6,11 @@ from scripts.models import Observation
 from scripts.state import merge_state
 
 
-def role(source: str = "feed", url: str = "https://jobs.example.com/123") -> Observation:
+def role(
+    source: str = "feed",
+    url: str = "https://jobs.example.com/123",
+    description: str = "",
+) -> Observation:
     return Observation(
         source_id=source,
         source_label=source,
@@ -19,6 +23,7 @@ def role(source: str = "feed", url: str = "https://jobs.example.com/123") -> Obs
         program="internship",
         cycle="summer-2027",
         trusted_us=False,
+        description=description,
     )
 
 
@@ -85,6 +90,64 @@ class StateTests(unittest.TestCase):
         }
         state = merge_state(previous, [], complete_sources=set(), today="2026-08-01")
         self.assertEqual(state["jobs"], [])
+
+    def test_academic_requirement_survives_metadata_only_polling_run(self) -> None:
+        direct = role(
+            "ats:greenhouse:example",
+            "https://job-boards.greenhouse.io/example/jobs/123",
+            "Expected graduation date between December 2026 and June 2027.",
+        )
+        state = merge_state(
+            {"jobs": []},
+            [direct],
+            complete_sources={direct.source_id},
+            today="2026-08-01",
+        )
+        self.assertEqual(
+            state["jobs"][0]["academic_eligibility"]["summary"],
+            "Dec 2026–Jun 2027",
+        )
+
+        community = role("community", "https://job-boards.greenhouse.io/example/jobs/123")
+        state = merge_state(
+            state,
+            [community],
+            complete_sources={community.source_id},
+            today="2026-08-02",
+        )
+
+        self.assertEqual(
+            state["jobs"][0]["academic_eligibility"]["summary"],
+            "Dec 2026–Jun 2027",
+        )
+        self.assertEqual(state["jobs"][0]["academic_eligibility"]["checked_at"], "2026-08-01")
+        self.assertEqual(state["schema_version"], 2)
+
+    def test_stale_academic_extractor_result_is_not_preserved(self) -> None:
+        direct = role(
+            "ats:greenhouse:example",
+            "https://job-boards.greenhouse.io/example/jobs/123",
+            "Expected graduation is May 2028.",
+        )
+        state = merge_state(
+            {"jobs": []},
+            [direct],
+            complete_sources={direct.source_id},
+            today="2026-08-01",
+        )
+        state["jobs"][0]["academic_eligibility"].pop("extractor_version")
+
+        community = role("community", "https://job-boards.greenhouse.io/example/jobs/123")
+        state = merge_state(
+            state,
+            [community],
+            complete_sources={community.source_id},
+            today="2026-08-02",
+        )
+
+        eligibility = state["jobs"][0]["academic_eligibility"]
+        self.assertEqual(eligibility["status"], "unavailable")
+        self.assertEqual(eligibility["extractor_version"], 1)
 
 
 if __name__ == "__main__":

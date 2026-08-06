@@ -1,8 +1,9 @@
 from __future__ import annotations
 
 import unittest
+from unittest.mock import patch
 
-from scripts.boards import board_from_observation, discover_boards
+from scripts.boards import board_from_observation, discover_boards, fetch_board
 from scripts.models import Observation
 
 
@@ -51,6 +52,78 @@ class BoardDiscoveryTests(unittest.TestCase):
         boards = discover_boards(observations, [])
         self.assertEqual(len(boards), 1)
         self.assertEqual(boards[0]["key"], "workday:example.wd5.myworkdayjobs.com:example:careers")
+
+    def test_invalid_existing_board_is_pruned_instead_of_retried(self) -> None:
+        invalid = {
+            "key": "workday:bad_host.wd5.myworkdayjobs.com:bad_host:careers",
+            "ats": "workday",
+            "company": "Invalid",
+            "slug": "bad_host",
+            "site": "careers",
+            "host": "bad_host.wd5.myworkdayjobs.com",
+        }
+
+        self.assertEqual(discover_boards([], [invalid]), [])  # type: ignore[list-item]
+
+    def test_invalid_observation_url_cannot_seed_board_registry(self) -> None:
+        observation = role(
+            url="https://bad_host.wd5.myworkdayjobs.com/en-US/Careers/job/Example/123"
+        )
+
+        self.assertIsNone(board_from_observation(observation))
+
+    def test_greenhouse_requests_and_retains_public_posting_content(self) -> None:
+        board = {
+            "key": "greenhouse:example",
+            "ats": "greenhouse",
+            "company": "Example",
+            "slug": "example",
+        }
+        payload = {
+            "jobs": [
+                {
+                    "id": 123,
+                    "title": "Software Engineer Intern",
+                    "location": {"name": "Austin, TX"},
+                    "absolute_url": "https://job-boards.greenhouse.io/example/jobs/123",
+                    "content": "<p>Expected graduation between December 2026 and June 2027.</p>",
+                }
+            ]
+        }
+
+        with patch("scripts.boards.get_json", return_value=payload) as get_json:
+            snapshot = fetch_board(board)  # type: ignore[arg-type]
+
+        self.assertTrue(get_json.call_args.args[0].endswith("/jobs?content=true"))
+        self.assertIn("Expected graduation", snapshot.observations[0].description)
+
+    def test_lever_includes_requirement_lists_in_description_text(self) -> None:
+        board = {
+            "key": "lever:example",
+            "ats": "lever",
+            "company": "Example",
+            "slug": "example",
+        }
+        payload = [
+            {
+                "id": "abc",
+                "text": "Software Engineer Intern",
+                "categories": {"location": "Austin, TX"},
+                "hostedUrl": "https://jobs.lever.co/example/abc",
+                "descriptionPlain": "Build reliable systems.",
+                "lists": [
+                    {
+                        "text": "Requirements",
+                        "content": "<li>Must return to school after the internship.</li>",
+                    }
+                ],
+            }
+        ]
+
+        with patch("scripts.boards.get_json", return_value=payload):
+            snapshot = fetch_board(board)  # type: ignore[arg-type]
+
+        self.assertIn("return to school", snapshot.observations[0].description)
 
 
 if __name__ == "__main__":

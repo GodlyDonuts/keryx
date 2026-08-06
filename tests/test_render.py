@@ -30,6 +30,26 @@ class RenderTests(unittest.TestCase):
                     "program": "internship",
                     "cycle": "summer-2027",
                     "posted_at": "2026-08-01",
+                    "academic_eligibility": {
+                        "extractor_version": 1,
+                        "checked_at": "2026-08-01",
+                        "status": "explicit-window",
+                        "summary": "Dec 2026–Jun 2027",
+                        "requirement_level": "required",
+                        "graduation_start": "2026-12",
+                        "graduation_end": "2027-06",
+                        "graduation_years": [2026, 2027],
+                        "currently_enrolled": True,
+                        "currently_enrolled_level": "preferred",
+                        "source_id": "source-a",
+                        "source_label": "Source A",
+                        "confidence": "source-text",
+                        "evidence": "Expected graduation between December 2026 and June 2027.",
+                        "graduation_evidence": (
+                            "Expected graduation between December 2026 and June 2027."
+                        ),
+                        "currently_enrolled_evidence": "Currently enrolled is preferred.",
+                    },
                     "status": "open",
                     "sources": [
                         {"id": "source-a", "label": "Source A", "url": "https://example.com"},
@@ -41,7 +61,8 @@ class RenderTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
             (root / "README.md").write_text(
-                "# Keryx\n\n<!-- COUNTS:START -->\nold\n<!-- COUNTS:END -->\n",
+                "# Keryx\n\n<!-- COUNTS:START -->\nold\n<!-- COUNTS:END -->\n"
+                "<!-- ACADEMIC-COVERAGE:START -->\nold\n<!-- ACADEMIC-COVERAGE:END -->\n",
                 encoding="utf-8",
             )
             render_repository(root, payload, [])
@@ -50,10 +71,19 @@ class RenderTests(unittest.TestCase):
             self.assertIn("Example", summer)
             self.assertIn("apply · jobs.example.com", summer)
             self.assertIn("cross-checked", summer)
+            self.assertIn("Academic eligibility", summer)
+            self.assertIn("Dec 2026–Jun 2027", summer)
+            self.assertIn("graduation: required", summer)
+            self.assertIn("enrollment: preferred", summer)
+            self.assertIn("checked 2026-08-01", summer)
+            self.assertIn("Source A", summer)
             archive = (root / "archive/closed.md").read_text(encoding="utf-8")
             self.assertIn("**0 closed roles**", archive)
             readme = (root / "README.md").read_text(encoding="utf-8")
             self.assertIn("Summer 2027 US Internships](internships/summer-2027.md) | 1", readme)
+            self.assertIn("Academic condition detected | 1", readme)
+            self.assertIn("Required | 1", readme)
+            self.assertIn("Preferred | 1", readme)
             stored = json.loads((root / "data/jobs.json").read_text(encoding="utf-8"))
             self.assertEqual(stored["country"], "United States")
 
@@ -86,7 +116,9 @@ class RenderTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
             (root / "README.md").write_text(
-                "<!-- COUNTS:START -->\nold\n<!-- COUNTS:END -->\n", encoding="utf-8"
+                "<!-- COUNTS:START -->\nold\n<!-- COUNTS:END -->\n"
+                "<!-- ACADEMIC-COVERAGE:START -->\nold\n<!-- ACADEMIC-COVERAGE:END -->\n",
+                encoding="utf-8",
             )
             render_repository(root, payload, [])
             summer = (root / "internships/summer-2027.md").read_text(encoding="utf-8")
@@ -112,7 +144,9 @@ class RenderTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
             (root / "README.md").write_text(
-                "<!-- COUNTS:START -->\nold\n<!-- COUNTS:END -->\n", encoding="utf-8"
+                "<!-- COUNTS:START -->\nold\n<!-- COUNTS:END -->\n"
+                "<!-- ACADEMIC-COVERAGE:START -->\nold\n<!-- ACADEMIC-COVERAGE:END -->\n",
+                encoding="utf-8",
             )
             with self.assertRaises(ValueError):
                 render_repository(root, payload, [])

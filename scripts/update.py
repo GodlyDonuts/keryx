@@ -86,7 +86,7 @@ def main() -> int:
     complete_sources = {snapshot.source_id for snapshot in snapshots if snapshot.complete}
 
     previous = _load_json(
-        ROOT / "data/jobs.json", {"schema_version": 1, "country": "United States", "jobs": []}
+        ROOT / "data/jobs.json", {"schema_version": 2, "country": "United States", "jobs": []}
     )
     today = datetime.now(UTC).date().isoformat()
     payload = merge_state(

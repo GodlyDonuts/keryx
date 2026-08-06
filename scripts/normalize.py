@@ -131,8 +131,15 @@ def clean_text(value: object) -> str:
     text = html.unescape(str(value or ""))
     text = re.sub(r"!\[[^]]*]\([^)]*\)", "", text)
     text = re.sub(r"\[([^]]+)]\([^)]*\)", r"\1", text)
-    text = re.sub(r"<[^>]+>", "", text)
-    return " ".join(text.replace("|", "/").split()).strip()
+    text = re.sub(
+        r"</?(?:blockquote|br|div|h[1-6]|li|ol|p|section|table|td|th|tr|ul)\b[^>]*>",
+        ". ",
+        text,
+        flags=re.IGNORECASE,
+    )
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = re.sub(r"(?:\.\s*){2,}", ". ", text)
+    return " ".join(text.replace("|", "/").split()).strip(" .")
 
 
 def sanitize_job_url(value: str) -> URLDecision:
