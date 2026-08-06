@@ -10,6 +10,7 @@ def role(
     source: str = "feed",
     url: str = "https://jobs.example.com/123",
     description: str = "",
+    posted_at: str | None = None,
 ) -> Observation:
     return Observation(
         source_id=source,
@@ -24,7 +25,23 @@ def role(
         cycle="summer-2027",
         trusted_us=False,
         description=description,
+        posted_at=posted_at,
     )
+
+
+def source_health(at: str, *source_ids: str) -> dict[str, object]:
+    return {
+        "schema_version": 1,
+        "sources": {
+            source_id: {
+                "source_id": source_id,
+                "outcome": "complete",
+                "last_success_at": at,
+                "last_complete_at": at,
+            }
+            for source_id in source_ids
+        },
+    }
 
 
 class StateTests(unittest.TestCase):
@@ -77,6 +94,98 @@ class StateTests(unittest.TestCase):
         self.assertEqual(len(state["jobs"][0]["sources"]), 2)
         self.assertEqual(state["jobs"][0]["link_status"], "ats-verified")
 
+    def test_authoritative_field_selection_retains_conflicting_dates(self) -> None:
+        community = role(
+            "community",
+            "https://company.com/job?gh_jid=123",
+            posted_at="2026-08-01",
+        )
+        direct = role(
+            "ats:greenhouse:example",
+            "https://job-boards.greenhouse.io/example/jobs/123",
+            posted_at="2026-08-03",
+        )
+        state = merge_state(
+            {"jobs": []},
+            [community, direct],
+            complete_sources={community.source_id, direct.source_id},
+            observed_at="2026-08-06T12:00:00Z",
+        )
+
+        job = state["jobs"][0]
+        self.assertEqual(job["posted_at"], "2026-08-03")
+        self.assertEqual(job["field_sources"]["posted_at"], direct.source_id)
+        self.assertEqual(
+            job["field_conflicts"]["posted_at"],
+            [{"value": "2026-08-01", "source_id": community.source_id}],
+        )
+
+    def test_completed_ats_disappearance_downgrades_current_verification(self) -> None:
+        community = role("community", "https://company.com/job?gh_jid=123")
+        direct = role(
+            "ats:greenhouse:example",
+            "https://job-boards.greenhouse.io/example/jobs/123",
+        )
+        first_at = "2026-08-06T12:00:00Z"
+        state = merge_state(
+            {"jobs": []},
+            [community, direct],
+            complete_sources={community.source_id, direct.source_id},
+            observed_at=first_at,
+            source_health=source_health(first_at, community.source_id, direct.source_id),
+        )
+        second_at = "2026-08-06T12:15:00Z"
+        state = merge_state(
+            state,
+            [community],
+            complete_sources={community.source_id, direct.source_id},
+            observed_at=second_at,
+            source_health=source_health(second_at, community.source_id, direct.source_id),
+        )
+
+        job = state["jobs"][0]
+        self.assertEqual(job["link_status"], "unverified")
+        self.assertIsNone(job["url"])
+        self.assertEqual(job["current_source_ids"], ["community"])
+        self.assertEqual(job["historical_source_ids"], [direct.source_id])
+        self.assertTrue(job["previously_ats_observed"])
+        direct_record = next(item for item in job["sources"] if item["id"] == direct.source_id)
+        self.assertEqual(direct_record["state"], "historical")
+
+    def test_unpolled_direct_source_remains_current_only_while_fresh(self) -> None:
+        community = role("community", "https://company.com/job?gh_jid=123")
+        direct = role(
+            "ats:greenhouse:example",
+            "https://job-boards.greenhouse.io/example/jobs/123",
+        )
+        first_at = "2026-08-06T12:00:00Z"
+        health = source_health(first_at, community.source_id, direct.source_id)
+        state = merge_state(
+            {"jobs": []},
+            [community, direct],
+            complete_sources={community.source_id, direct.source_id},
+            observed_at=first_at,
+            source_health=health,
+        )
+        state = merge_state(
+            state,
+            [community],
+            complete_sources={community.source_id},
+            observed_at="2026-08-06T12:30:00Z",
+            source_health=health,
+        )
+        self.assertEqual(state["jobs"][0]["link_status"], "ats-verified")
+
+        state = merge_state(
+            state,
+            [community],
+            complete_sources={community.source_id},
+            observed_at="2026-08-06T14:01:00Z",
+            source_health=health,
+        )
+        self.assertEqual(state["jobs"][0]["link_status"], "unverified")
+        self.assertIn(direct.source_id, state["jobs"][0]["historical_source_ids"])
+
     def test_unsafe_previous_link_is_removed_without_a_grace_period(self) -> None:
         previous = {
             "jobs": [
@@ -101,7 +210,8 @@ class StateTests(unittest.TestCase):
             {"jobs": []},
             [direct],
             complete_sources={direct.source_id},
-            today="2026-08-01",
+            observed_at="2026-08-01T12:00:00Z",
+            source_health=source_health("2026-08-01T12:00:00Z", direct.source_id),
         )
         self.assertEqual(
             state["jobs"][0]["academic_eligibility"]["summary"],
@@ -113,15 +223,21 @@ class StateTests(unittest.TestCase):
             state,
             [community],
             complete_sources={community.source_id},
-            today="2026-08-02",
+            observed_at="2026-08-01T12:30:00Z",
+            source_health=source_health(
+                "2026-08-01T12:00:00Z", direct.source_id, community.source_id
+            ),
         )
 
         self.assertEqual(
             state["jobs"][0]["academic_eligibility"]["summary"],
             "Dec 2026–Jun 2027",
         )
-        self.assertEqual(state["jobs"][0]["academic_eligibility"]["checked_at"], "2026-08-01")
-        self.assertEqual(state["schema_version"], 2)
+        self.assertEqual(
+            state["jobs"][0]["academic_eligibility"]["checked_at"],
+            "2026-08-01T12:00:00Z",
+        )
+        self.assertEqual(state["schema_version"], 3)
 
     def test_stale_academic_extractor_result_is_not_preserved(self) -> None:
         direct = role(
@@ -148,6 +264,92 @@ class StateTests(unittest.TestCase):
         eligibility = state["jobs"][0]["academic_eligibility"]
         self.assertEqual(eligibility["status"], "unavailable")
         self.assertEqual(eligibility["extractor_version"], 1)
+
+    def test_intelligence_is_derived_from_direct_text_with_public_provenance(self) -> None:
+        direct = role(
+            "ats:greenhouse:example",
+            "https://job-boards.greenhouse.io/example/jobs/123",
+            "Build Python and CUDA systems. Pay is $45-$60/hr. We cannot sponsor visas.",
+        )
+
+        state = merge_state(
+            {"jobs": []},
+            [direct],
+            complete_sources={direct.source_id},
+            observed_at="2026-08-03T12:00:00Z",
+        )
+
+        intelligence = state["jobs"][0]["intelligence"]
+        self.assertEqual(intelligence["text_status"], "checked")
+        self.assertEqual(intelligence["checked_at"], "2026-08-03T12:00:00Z")
+        self.assertEqual(intelligence["visa"]["status"], "no-sponsorship")
+        self.assertEqual(intelligence["compensation"]["summary"], "$45–$60/hr")
+        self.assertIn("CUDA", intelligence["skills"])
+        self.assertEqual(state["jobs"][0]["sponsorship"], "no-sponsorship")
+
+    def test_direct_intelligence_survives_metadata_only_rotating_board_run(self) -> None:
+        direct = role(
+            "ats:greenhouse:example",
+            "https://job-boards.greenhouse.io/example/jobs/123",
+            "Build Rust systems. This is a hybrid role.",
+        )
+        direct_checked_at = "2026-08-03T12:00:00Z"
+        health = source_health(direct_checked_at, direct.source_id)
+        state = merge_state(
+            {"jobs": []},
+            [direct],
+            complete_sources={direct.source_id},
+            observed_at=direct_checked_at,
+            source_health=health,
+        )
+        community = role(
+            "intern-engine",
+            "https://job-boards.greenhouse.io/example/jobs/123",
+        )
+        state = merge_state(
+            state,
+            [community],
+            complete_sources={community.source_id},
+            observed_at="2026-08-03T12:30:00Z",
+            source_health=health,
+        )
+
+        intelligence = state["jobs"][0]["intelligence"]
+        self.assertEqual(intelligence["text_status"], "checked")
+        self.assertEqual(intelligence["checked_at"], direct_checked_at)
+        self.assertIn("Rust", intelligence["skills"])
+        self.assertEqual(intelligence["workplace"]["value"], "hybrid")
+
+    def test_intelligence_is_not_preserved_from_historical_evidence(self) -> None:
+        direct = role(
+            "ats:greenhouse:example",
+            "https://job-boards.greenhouse.io/example/jobs/123",
+            "Build Rust systems. This is a hybrid role.",
+        )
+        direct_checked_at = "2026-08-03T12:00:00Z"
+        state = merge_state(
+            {"jobs": []},
+            [direct],
+            complete_sources={direct.source_id},
+            observed_at=direct_checked_at,
+            source_health=source_health(direct_checked_at, direct.source_id),
+        )
+        community = role(
+            "intern-engine",
+            "https://job-boards.greenhouse.io/example/jobs/123",
+        )
+        state = merge_state(
+            state,
+            [community],
+            complete_sources={community.source_id, direct.source_id},
+            observed_at="2026-08-03T12:30:00Z",
+            source_health=source_health("2026-08-03T12:30:00Z", community.source_id),
+        )
+
+        intelligence = state["jobs"][0]["intelligence"]
+        self.assertEqual(intelligence["text_status"], "metadata-only")
+        self.assertNotIn("checked_at", intelligence)
+        self.assertNotIn("Rust", intelligence["skills"])
 
 
 if __name__ == "__main__":

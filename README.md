@@ -22,6 +22,22 @@ feeds when possible, removes duplicates, and rebuilds the Markdown databases aut
 The Markdown files are the product: open them directly on GitHub, search them, bookmark them, or
 consume the canonical [`data/jobs.json`](data/jobs.json) file from another program.
 
+## Current evidence versus history
+
+Keryx never treats “observed once” as “verified forever.” Each role separates source IDs that are
+currently trustworthy from sources that are historical, stale, degraded, or known to have removed
+the posting. A direct ATS label requires either an observation in the current run or a recent healthy
+source snapshot within that adapter's polling window. If a complete ATS snapshot stops returning a
+role that remains on a community list, the role stays indexed but loses its current ATS-verification
+label.
+
+[`data/source-health.json`](data/source-health.json) records the latest exact UTC attempt, success,
+complete snapshot, outcome, and record count for each source. `data/jobs.json` retains exact
+first-seen and last-changed timestamps, active and historical source views, and the selected source
+for core fields. When sources disagree, bounded alternatives are retained instead of silently erased.
+These additions are published as job schema version 3. Legacy day-level fields remain temporarily
+available for downstream compatibility.
+
 ## Academic eligibility
 
 Keryx shows graduation timing and related student-status conditions when they are explicitly
@@ -71,6 +87,35 @@ Workday search cards and community-list rows often do not include complete descr
 roles remain visibly marked “not available” rather than being guessed. The structured dates in
 `data/jobs.json` are designed for future consumers such as Erga to compare against a user-approved
 graduation date; Keryx itself does not know or score individual applicants.
+
+## Role intelligence
+
+Keryx also derives bounded, searchable context from public posting data:
+
+- role family and high-signal technical skills;
+- compensation only when the posting states an explicit USD hourly or annual range;
+- remote, hybrid, or on-site language;
+- citizenship, clearance, and visa-sponsorship statements; and
+- historical employer H-1B approvals when a public source supplies them.
+
+Direct ATS text takes priority over source metadata. Every compensation, workplace, visa, and H-1B
+record retains public provenance, and short evidence is kept for text-derived claims. Unknown stays
+unknown: Keryx does not infer pay, sponsorship, or work arrangement from company reputation. An
+employer's historical H-1B approvals are context only and never imply that a particular role or
+candidate will receive sponsorship.
+
+<!-- INTELLIGENCE-COVERAGE:START -->
+| Deterministic intelligence coverage | Open roles |
+|---|---:|
+| Complete posting text checked | 0 |
+| One or more skill tags | 0 |
+| Explicit compensation found | 0 |
+| Work arrangement stated | 0 |
+| Citizenship / clearance restriction | 0 |
+| Sponsorship unavailable | 0 |
+| Sponsorship available | 0 |
+| Visa language inconclusive | 0 |
+<!-- INTELLIGENCE-COVERAGE:END -->
 
 ## Sources
 

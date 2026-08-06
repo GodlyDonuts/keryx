@@ -125,6 +125,32 @@ class BoardDiscoveryTests(unittest.TestCase):
 
         self.assertIn("return to school", snapshot.observations[0].description)
 
+    def test_workday_keyword_search_is_never_a_complete_board_snapshot(self) -> None:
+        board = {
+            "key": "workday:example.wd5.myworkdayjobs.com:example:careers",
+            "ats": "workday",
+            "company": "Example",
+            "slug": "example",
+            "site": "careers",
+            "host": "example.wd5.myworkdayjobs.com",
+        }
+        payload = {
+            "total": 1,
+            "jobPostings": [
+                {
+                    "title": "Software Engineer Intern",
+                    "locationsText": "Austin, TX",
+                    "externalPath": "/job/Austin/Software-Engineer-Intern_REQ1",
+                }
+            ],
+        }
+
+        with patch("scripts.boards.post_json", return_value=payload):
+            snapshot = fetch_board(board)  # type: ignore[arg-type]
+
+        self.assertFalse(snapshot.complete)
+        self.assertEqual(len(snapshot.observations), 1)
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -50,6 +50,43 @@ class RenderTests(unittest.TestCase):
                         ),
                         "currently_enrolled_evidence": "Currently enrolled is preferred.",
                     },
+                    "intelligence": {
+                        "extractor_version": 1,
+                        "checked_at": "2026-08-01",
+                        "text_status": "checked",
+                        "category": "software",
+                        "category_source_id": "source-a",
+                        "skills": ["Python", "CUDA"],
+                        "skills_source_id": "source-a",
+                        "compensation": {
+                            "currency": "USD",
+                            "period": "hour",
+                            "minimum": 45.0,
+                            "maximum": 60.0,
+                            "summary": "$45–$60/hr",
+                            "evidence": "The pay range is $45-$60/hr.",
+                            "source_id": "source-a",
+                            "source_label": "Source A",
+                            "confidence": "source-text",
+                        },
+                        "workplace": {
+                            "value": "hybrid",
+                            "summary": "Hybrid work stated",
+                            "evidence": "This is a hybrid role.",
+                            "source_id": "source-a",
+                            "source_label": "Source A",
+                            "confidence": "source-text",
+                        },
+                        "visa": {
+                            "status": "no-sponsorship",
+                            "summary": "Posting states sponsorship is unavailable",
+                            "evidence": "We cannot sponsor visas.",
+                            "source_id": "source-a",
+                            "source_label": "Source A",
+                            "confidence": "source-text",
+                        },
+                        "h1b_history": None,
+                    },
                     "status": "open",
                     "sources": [
                         {"id": "source-a", "label": "Source A", "url": "https://example.com"},
@@ -62,7 +99,9 @@ class RenderTests(unittest.TestCase):
             root = Path(directory)
             (root / "README.md").write_text(
                 "# Keryx\n\n<!-- COUNTS:START -->\nold\n<!-- COUNTS:END -->\n"
-                "<!-- ACADEMIC-COVERAGE:START -->\nold\n<!-- ACADEMIC-COVERAGE:END -->\n",
+                "<!-- ACADEMIC-COVERAGE:START -->\nold\n<!-- ACADEMIC-COVERAGE:END -->\n"
+                "<!-- INTELLIGENCE-COVERAGE:START -->\nold\n"
+                "<!-- INTELLIGENCE-COVERAGE:END -->\n",
                 encoding="utf-8",
             )
             render_repository(root, payload, [])
@@ -77,6 +116,10 @@ class RenderTests(unittest.TestCase):
             self.assertIn("enrollment: preferred", summer)
             self.assertIn("checked 2026-08-01", summer)
             self.assertIn("Source A", summer)
+            self.assertIn("Role intelligence", summer)
+            self.assertIn("Python, CUDA", summer)
+            self.assertIn("$45–$60/hr", summer)
+            self.assertIn("no sponsorship", summer)
             archive = (root / "archive/closed.md").read_text(encoding="utf-8")
             self.assertIn("**0 closed roles**", archive)
             readme = (root / "README.md").read_text(encoding="utf-8")
@@ -84,6 +127,8 @@ class RenderTests(unittest.TestCase):
             self.assertIn("Academic condition detected | 1", readme)
             self.assertIn("Required | 1", readme)
             self.assertIn("Preferred | 1", readme)
+            self.assertIn("One or more skill tags | 1", readme)
+            self.assertIn("Sponsorship unavailable | 1", readme)
             stored = json.loads((root / "data/jobs.json").read_text(encoding="utf-8"))
             self.assertEqual(stored["country"], "United States")
 
@@ -117,7 +162,9 @@ class RenderTests(unittest.TestCase):
             root = Path(directory)
             (root / "README.md").write_text(
                 "<!-- COUNTS:START -->\nold\n<!-- COUNTS:END -->\n"
-                "<!-- ACADEMIC-COVERAGE:START -->\nold\n<!-- ACADEMIC-COVERAGE:END -->\n",
+                "<!-- ACADEMIC-COVERAGE:START -->\nold\n<!-- ACADEMIC-COVERAGE:END -->\n"
+                "<!-- INTELLIGENCE-COVERAGE:START -->\nold\n"
+                "<!-- INTELLIGENCE-COVERAGE:END -->\n",
                 encoding="utf-8",
             )
             render_repository(root, payload, [])
@@ -145,7 +192,9 @@ class RenderTests(unittest.TestCase):
             root = Path(directory)
             (root / "README.md").write_text(
                 "<!-- COUNTS:START -->\nold\n<!-- COUNTS:END -->\n"
-                "<!-- ACADEMIC-COVERAGE:START -->\nold\n<!-- ACADEMIC-COVERAGE:END -->\n",
+                "<!-- ACADEMIC-COVERAGE:START -->\nold\n<!-- ACADEMIC-COVERAGE:END -->\n"
+                "<!-- INTELLIGENCE-COVERAGE:START -->\nold\n"
+                "<!-- INTELLIGENCE-COVERAGE:END -->\n",
                 encoding="utf-8",
             )
             with self.assertRaises(ValueError):
