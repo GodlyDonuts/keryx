@@ -88,6 +88,35 @@ roles remain visibly marked “not available” rather than being guessed. The s
 `data/jobs.json` are designed for future consumers such as Erga to compare against a user-approved
 graduation date; Keryx itself does not know or score individual applicants.
 
+## Role intelligence
+
+Keryx also derives bounded, searchable context from public posting data:
+
+- role family and high-signal technical skills;
+- compensation only when the posting states an explicit USD hourly or annual range;
+- remote, hybrid, or on-site language;
+- citizenship, clearance, and visa-sponsorship statements; and
+- historical employer H-1B approvals when a public source supplies them.
+
+Direct ATS text takes priority over source metadata. Every compensation, workplace, visa, and H-1B
+record retains public provenance, and short evidence is kept for text-derived claims. Unknown stays
+unknown: Keryx does not infer pay, sponsorship, or work arrangement from company reputation. An
+employer's historical H-1B approvals are context only and never imply that a particular role or
+candidate will receive sponsorship.
+
+<!-- INTELLIGENCE-COVERAGE:START -->
+| Deterministic intelligence coverage | Open roles |
+|---|---:|
+| Complete posting text checked | 0 |
+| One or more skill tags | 0 |
+| Explicit compensation found | 0 |
+| Work arrangement stated | 0 |
+| Citizenship / clearance restriction | 0 |
+| Sponsorship unavailable | 0 |
+| Sponsorship available | 0 |
+| Visa language inconclusive | 0 |
+<!-- INTELLIGENCE-COVERAGE:END -->
+
 ## Sources
 
 Keryx combines and cross-checks:

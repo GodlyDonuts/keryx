@@ -5,6 +5,11 @@ from collections import defaultdict
 from copy import deepcopy
 from typing import Any
 
+from .intelligence import (
+    INTELLIGENCE_EXTRACTOR_VERSION,
+    build_job_intelligence,
+    visa_compatibility_value,
+)
 from .models import Observation
 from .normalize import (
     canonical_url,
@@ -31,6 +36,7 @@ _SOURCE_PRIORITY = {
     "sndsh": 4,
 }
 _REQUIREMENT_LEVELS = {"required", "preferred", "stated"}
+_INTELLIGENCE_TEXT_STATUSES = {"checked", "metadata-only", "unavailable"}
 
 
 def _has_current_eligibility_schema(value: object) -> bool:
@@ -56,6 +62,69 @@ def _has_current_eligibility_schema(value: object) -> bool:
     return status in {"not-found", "unavailable", "student-status"} or status.startswith(
         "explicit-"
     )
+
+
+def _has_current_intelligence_schema(value: object) -> bool:
+    if not isinstance(value, dict):
+        return False
+    if value.get("extractor_version") != INTELLIGENCE_EXTRACTOR_VERSION:
+        return False
+    if value.get("text_status") not in _INTELLIGENCE_TEXT_STATUSES:
+        return False
+    return (
+        isinstance(value.get("category"), str)
+        and isinstance(value.get("skills"), list)
+        and (value.get("workplace") is None or isinstance(value.get("workplace"), dict))
+        and (value.get("visa") is None or isinstance(value.get("visa"), dict))
+    )
+
+
+def _unavailable_intelligence() -> dict[str, Any]:
+    return {
+        "extractor_version": INTELLIGENCE_EXTRACTOR_VERSION,
+        "text_status": "unavailable",
+        "category": "other-tech",
+        "skills": [],
+    }
+
+
+def _intelligence_source_ids(value: dict[str, Any]) -> set[str]:
+    source_ids = {
+        str(value[field])
+        for field in ("category_source_id", "skills_source_id")
+        if value.get(field)
+    }
+    for field in ("compensation", "workplace", "visa", "h1b_history"):
+        record = value.get(field)
+        if isinstance(record, dict) and record.get("source_id"):
+            source_ids.add(str(record["source_id"]))
+    return source_ids
+
+
+def _preserve_verified_intelligence(
+    current: object,
+    previous: object,
+    *,
+    current_source_ids: set[str],
+) -> object:
+    if not _has_current_intelligence_schema(current):
+        return previous if _has_current_intelligence_schema(previous) else current
+    if not _has_current_intelligence_schema(previous):
+        return current
+    assert isinstance(current, dict)
+    assert isinstance(previous, dict)
+    if current.get("text_status") == "checked" or previous.get("text_status") != "checked":
+        return current
+    previous_source_ids = _intelligence_source_ids(previous)
+    if not previous_source_ids or not previous_source_ids.issubset(current_source_ids):
+        return current
+    # Direct boards are polled in rotating slots. A metadata-only run must not erase a prior
+    # source-text classification while all of its evidence sources remain current. Historical
+    # evidence is never carried into the active intelligence view.
+    preserved = deepcopy(previous)
+    if current.get("h1b_history") is not None:
+        preserved["h1b_history"] = deepcopy(current["h1b_history"])
+    return preserved
 
 
 def eligible(observation: Observation) -> bool:
@@ -262,6 +331,8 @@ def _current_jobs(
         academic_eligibility = classify_academic_eligibility(ordered)
         if academic_eligibility.get("status") != "unavailable":
             academic_eligibility["checked_at"] = observed_at
+        intelligence = build_job_intelligence(ordered, checked_at=observed_at)
+        compatible_sponsorship = visa_compatibility_value(intelligence)
         jobs[identifier] = {
             "id": identifier,
             "company": preferred.company,
@@ -270,8 +341,9 @@ def _current_jobs(
             "program": preferred.program,
             "cycle": cycle,
             "posted_at": posted_source.posted_at if posted_source is not None else None,
-            "sponsorship": sponsorships[0] if sponsorships else None,
+            "sponsorship": compatible_sponsorship or (sponsorships[0] if sponsorships else None),
             "academic_eligibility": academic_eligibility,
+            "intelligence": intelligence,
             "status": "open",
             "lifecycle_state": "new",
             "first_seen": observed_at[:10],
@@ -314,6 +386,7 @@ def _material(job: dict[str, Any]) -> tuple[Any, ...]:
         job.get("field_sources"),
         job.get("field_conflicts"),
         job.get("lifecycle_state"),
+        job.get("intelligence"),
         job.get("status"),
     )
 
@@ -387,6 +460,14 @@ def merge_state(
             # Direct boards are intentionally polled in rotating slots. Do not erase previously
             # verified requirements merely because this run saw only metadata-only sources.
             job["academic_eligibility"] = deepcopy(previous["academic_eligibility"])
+        job["intelligence"] = _preserve_verified_intelligence(
+            job.get("intelligence"),
+            previous.get("intelligence"),
+            current_source_ids=set(job["current_source_ids"]),
+        )
+        compatible_sponsorship = visa_compatibility_value(job["intelligence"])
+        if compatible_sponsorship:
+            job["sponsorship"] = compatible_sponsorship
         job["first_seen"] = previous.get("first_seen") or day
         job["first_seen_at"] = previous.get("first_seen_at") or (
             f"{previous['first_seen']}T00:00:00Z" if previous.get("first_seen") else checked_at
@@ -502,6 +583,8 @@ def merge_state(
                 "summary": "Posting text unavailable",
                 "confidence": "metadata-only",
             }
+        if not _has_current_intelligence_schema(job.get("intelligence")):
+            job["intelligence"] = _unavailable_intelligence()
 
     return {
         "schema_version": 3,

@@ -1,11 +1,45 @@
 from __future__ import annotations
 
 import unittest
+from unittest.mock import patch
 
-from scripts.sources import parse_markdown_jobs
+from scripts.sources import _intern_engine, parse_markdown_jobs
 
 
 class SourceParserTests(unittest.TestCase):
+    def test_intern_engine_preserves_public_intelligence_metadata(self) -> None:
+        payload = {
+            "h1b_window": "FY2022–2023",
+            "jobs": [
+                {
+                    "id": "source-job",
+                    "company": "Example",
+                    "title": "Software Engineer Intern - Summer 2027",
+                    "location": "Remote, US",
+                    "url": "https://jobs.ashbyhq.com/example/123",
+                    "season": "Summer 2027",
+                    "posted_at": "2026-08-03T12:00:00Z",
+                    "sponsorship": "offers",
+                    "source": "ashby",
+                    "category": "Software",
+                    "skills": ["Python", "React"],
+                    "salary": "$45–$60/hr",
+                    "remote": True,
+                    "h1b_approvals": 31,
+                }
+            ],
+        }
+
+        with patch("scripts.sources.get_json", return_value=payload):
+            snapshot = _intern_engine()
+
+        metadata = snapshot.observations[0].metadata
+        self.assertEqual(metadata["skills"], ["Python", "React"])
+        self.assertEqual(metadata["salary"], "$45–$60/hr")
+        self.assertTrue(metadata["remote"])
+        self.assertEqual(metadata["h1b_approvals"], 31)
+        self.assertEqual(metadata["h1b_window"], "FY2022–2023")
+
     def test_speedyapply_html_table_row(self) -> None:
         text = (
             "| Company | Position | Location | Posting | Age |\n"

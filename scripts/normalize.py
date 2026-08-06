@@ -30,13 +30,17 @@ _EXPLICIT_US_MARKER = re.compile(
 _US_STATE_CODE = re.compile(rf"(?:,\s*|\b)(?:{_US_STATE_CODES})\b")
 _FOREIGN_MARKER = re.compile(
     r"\b(?:Canada|Canadian|Toronto|Vancouver|Montreal|Calgary|Ottawa|Edmonton|Kitchener|"
-    r"United Kingdom|UK|London|India|Germany|France|Ireland|Poland|Singapore|Australia|"
-    r"Netherlands|Spain|Sweden|Mexico|Brazil|China|Japan|Taiwan|Israel)\b",
+    r"United Kingdom|UK|London|India|Bengaluru|Bangalore|Hyderabad|Pune|Germany|Berlin|"
+    r"Munich|France|Paris|Ireland|Dublin|Poland|Warsaw|Singapore|Australia|Sydney|Melbourne|"
+    r"Netherlands|Amsterdam|Spain|Madrid|Sweden|Stockholm|Mexico|Brazil|China|Japan|Tokyo|"
+    r"Taiwan|Israel|Tel Aviv|Saudi Arabia|Riyadh|Al Khobar|United Arab Emirates|UAE|Dubai|"
+    r"Abu Dhabi|Qatar|Doha|Hong Kong|South Korea|Seoul|New Zealand|Gulf RHQ)\b",
     re.IGNORECASE,
 )
 _CANADIAN_PROVINCE = re.compile(r"(?:,\s*|\b)(?:AB|BC|MB|NB|NL|NS|NT|NU|ON|PE|QC|SK|YT)\b")
 _FOREIGN_URL = re.compile(
-    r"(?:[-_/](?:canada|india|united-kingdom|uk|germany|france|singapore|australia)(?:[-_/]|$)|"
+    r"(?:[-_/](?:canada|india|united-kingdom|uk|germany|france|singapore|australia|"
+    r"saudi-arabia|al-khobar|united-arab-emirates|uae|qatar|hong-kong)(?:[-_/]|$)|"
     r"(?:CAD|CAN)[-_]Remote)",
     re.IGNORECASE,
 )
