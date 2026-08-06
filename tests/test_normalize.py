@@ -22,6 +22,8 @@ class NormalizeTests(unittest.TestCase):
         self.assertFalse(is_us_role("Toronto, Canada", trusted_us=False))
         self.assertFalse(is_us_role("Remote in Canada", trusted_us=True))
         self.assertFalse(is_us_role("Toronto, ON", trusted_us=True))
+        self.assertFalse(is_us_role("Al Khobar Head Office - Gulf RHQ", trusted_us=True))
+        self.assertFalse(is_us_role("Dubai, United Arab Emirates", trusted_us=True))
         self.assertFalse(is_us_role("Remote", trusted_us=False))
         self.assertTrue(is_us_role("Remote", trusted_us=True))
         self.assertTrue(is_us_role("London, UK, Chicago, IL", trusted_us=False))

@@ -265,6 +265,92 @@ class StateTests(unittest.TestCase):
         self.assertEqual(eligibility["status"], "unavailable")
         self.assertEqual(eligibility["extractor_version"], 1)
 
+    def test_intelligence_is_derived_from_direct_text_with_public_provenance(self) -> None:
+        direct = role(
+            "ats:greenhouse:example",
+            "https://job-boards.greenhouse.io/example/jobs/123",
+            "Build Python and CUDA systems. Pay is $45-$60/hr. We cannot sponsor visas.",
+        )
+
+        state = merge_state(
+            {"jobs": []},
+            [direct],
+            complete_sources={direct.source_id},
+            observed_at="2026-08-03T12:00:00Z",
+        )
+
+        intelligence = state["jobs"][0]["intelligence"]
+        self.assertEqual(intelligence["text_status"], "checked")
+        self.assertEqual(intelligence["checked_at"], "2026-08-03T12:00:00Z")
+        self.assertEqual(intelligence["visa"]["status"], "no-sponsorship")
+        self.assertEqual(intelligence["compensation"]["summary"], "$45–$60/hr")
+        self.assertIn("CUDA", intelligence["skills"])
+        self.assertEqual(state["jobs"][0]["sponsorship"], "no-sponsorship")
+
+    def test_direct_intelligence_survives_metadata_only_rotating_board_run(self) -> None:
+        direct = role(
+            "ats:greenhouse:example",
+            "https://job-boards.greenhouse.io/example/jobs/123",
+            "Build Rust systems. This is a hybrid role.",
+        )
+        direct_checked_at = "2026-08-03T12:00:00Z"
+        health = source_health(direct_checked_at, direct.source_id)
+        state = merge_state(
+            {"jobs": []},
+            [direct],
+            complete_sources={direct.source_id},
+            observed_at=direct_checked_at,
+            source_health=health,
+        )
+        community = role(
+            "intern-engine",
+            "https://job-boards.greenhouse.io/example/jobs/123",
+        )
+        state = merge_state(
+            state,
+            [community],
+            complete_sources={community.source_id},
+            observed_at="2026-08-03T12:30:00Z",
+            source_health=health,
+        )
+
+        intelligence = state["jobs"][0]["intelligence"]
+        self.assertEqual(intelligence["text_status"], "checked")
+        self.assertEqual(intelligence["checked_at"], direct_checked_at)
+        self.assertIn("Rust", intelligence["skills"])
+        self.assertEqual(intelligence["workplace"]["value"], "hybrid")
+
+    def test_intelligence_is_not_preserved_from_historical_evidence(self) -> None:
+        direct = role(
+            "ats:greenhouse:example",
+            "https://job-boards.greenhouse.io/example/jobs/123",
+            "Build Rust systems. This is a hybrid role.",
+        )
+        direct_checked_at = "2026-08-03T12:00:00Z"
+        state = merge_state(
+            {"jobs": []},
+            [direct],
+            complete_sources={direct.source_id},
+            observed_at=direct_checked_at,
+            source_health=source_health(direct_checked_at, direct.source_id),
+        )
+        community = role(
+            "intern-engine",
+            "https://job-boards.greenhouse.io/example/jobs/123",
+        )
+        state = merge_state(
+            state,
+            [community],
+            complete_sources={community.source_id, direct.source_id},
+            observed_at="2026-08-03T12:30:00Z",
+            source_health=source_health("2026-08-03T12:30:00Z", community.source_id),
+        )
+
+        intelligence = state["jobs"][0]["intelligence"]
+        self.assertEqual(intelligence["text_status"], "metadata-only")
+        self.assertNotIn("checked_at", intelligence)
+        self.assertNotIn("Rust", intelligence["skills"])
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -178,6 +178,7 @@ def _intern_engine() -> Snapshot:
     payload = get_json(INTERN_ENGINE)
     if not isinstance(payload, Mapping) or not isinstance(payload.get("jobs"), list):
         raise ValueError("intern-engine did not return a jobs array")
+    h1b_window = clean_text(payload.get("h1b_window"))
     observations: list[Observation] = []
     for item in payload["jobs"]:
         if not isinstance(item, Mapping):
@@ -209,7 +210,23 @@ def _intern_engine() -> Snapshot:
                 posted_at=iso_date(item.get("posted_at")),
                 sponsorship=clean_text(item.get("sponsorship")) or None,
                 trusted_us=True,
-                metadata={"ats": clean_text(item.get("source"))},
+                metadata={
+                    "ats": clean_text(item.get("source")),
+                    "category": clean_text(item.get("category")),
+                    "skills": [
+                        clean_text(skill)
+                        for skill in _sequence(item.get("skills"))
+                        if clean_text(skill)
+                    ],
+                    "salary": clean_text(item.get("salary")) or None,
+                    "remote": item.get("remote") is True,
+                    "h1b_approvals": (
+                        item.get("h1b_approvals")
+                        if isinstance(item.get("h1b_approvals"), int)
+                        else None
+                    ),
+                    "h1b_window": h1b_window or None,
+                },
             )
         )
     return Snapshot("intern-engine", tuple(observations), complete=True)
