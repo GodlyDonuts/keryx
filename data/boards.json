@@ -122,7 +122,7 @@
     },
     {
       "ats": "ashby",
-      "company": "Base Power Company",
+      "company": "Base Power",
       "key": "ashby:base-power",
       "slug": "base-power"
     },
@@ -2904,6 +2904,15 @@
       "host": "agilent.wd5.myworkdayjobs.com",
       "key": "workday:agilent.wd5.myworkdayjobs.com:agilent:agilent_careers",
       "site": "Agilent_Careers",
+      "slug": "agilent",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Agilent Technologies",
+      "host": "agilent.wd5.myworkdayjobs.com",
+      "key": "workday:agilent.wd5.myworkdayjobs.com:agilent:agilent_student_careers",
+      "site": "Agilent_Student_Careers",
       "slug": "agilent",
       "wd": "wd5"
     },
