@@ -4232,6 +4232,15 @@
     },
     {
       "ats": "workday",
+      "company": "Equinor",
+      "host": "equinor.wd3.myworkdayjobs.com",
+      "key": "workday:equinor.wd3.myworkdayjobs.com:equinor:eqnr",
+      "site": "EQNR",
+      "slug": "equinor",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
       "company": "Ercot",
       "host": "ercot.wd1.myworkdayjobs.com",
       "key": "workday:ercot.wd1.myworkdayjobs.com:ercot:ercot_careers",
