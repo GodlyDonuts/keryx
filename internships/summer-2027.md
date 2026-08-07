@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**385 open roles**
+**384 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -17,7 +17,6 @@
 | The Nuclear Company | Summer 2027 Software Engineering Intern | Washington, DC | not available<br><sub>posting text not indexed</sub> | 2026-08-07 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008)<br><sub>recognized recruiting platform</sub> |
 | TikTok | Fullstack Software Engineer Intern - Global E-Commerce | Seattle, WA | not available<br><sub>posting text not indexed</sub> | 2026-08-07 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · lifeattiktok.com](https://lifeattiktok.com/search/7670700387322300677)<br><sub>cross-checked</sub> |
 | TikTok | Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer | San Jose, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-07 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · lifeattiktok.com](https://lifeattiktok.com/search/7670738362521520437)<br><sub>cross-checked</sub> |
-| Atoms | Software Engineer Intern - Summer 2027 | Los Angeles, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-06 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002)<br><sub>recognized recruiting platform</sub> |
 | ByteDance | AI Network Automation Engineer Intern - Global Physical Network Infrastructure | San Jose, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-06 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | destination withheld<br><sub>single source · jobs.bytedance.com</sub> |
 | ByteDance | Applied Machine Learning Production Engineer Intern - AML Production Engineer | San Jose, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-06 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | destination withheld<br><sub>single source · jobs.bytedance.com</sub> |
 | ByteDance | ASIC Design Engineer Intern - Video Silicon IP | San Jose, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-06 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | destination withheld<br><sub>single source · jobs.bytedance.com</sub> |
