@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**1197 closed roles**
+**1198 closed roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -659,6 +659,7 @@
 | Celigo | Data Analyst | Remote in USA | not available<br><sub>posting text not indexed</sub> | 2026-04-24 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/celigo/jobs/7590180)<br><sub>recognized recruiting platform</sub> |
 | Heron Power | Engineering Technician | Santa Cruz, CA | not available<br><sub>posting text not indexed</sub> | 2026-04-24 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/heron-power/9f03d489-7fb1-48f8-9f41-70a9e64aed62/application)<br><sub>recognized recruiting platform</sub> |
 | Elekta | Associate Field Service Engineer | Louisiana | not available<br><sub>posting text not indexed</sub> | 2026-04-22 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · elekta.wd3.myworkdayjobs.com](https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Louisiana--Home-Based/Associate-Field-Service-Engineer_R2026-0169)<br><sub>recognized recruiting platform</sub> |
+| X Development | PhD Residency Intern - Operations Research and Optimization | Mountain View, CA | not available<br><sub>posting text not indexed</sub> | 2026-04-20 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | destination withheld<br><sub>single source · x.company</sub> |
 | Bank of America | Data Scientist | Charlotte, NC, NYC | not available<br><sub>posting text not indexed</sub> | 2026-04-18 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · ghr.wd1.myworkdayjobs.com](https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/New-York/Data-Scientist_23022413)<br><sub>recognized recruiting platform</sub> |
 | BlueScope | Operational Technology Analyst 2 | Kansas City, MO | not available<br><sub>posting text not indexed</sub> | 2026-04-18 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · bluescopenac.wd5.myworkdayjobs.com](https://bluescopenac.wd5.myworkdayjobs.com/en-US/BNACareers/job/MO-Kansas-City/Operational-Technology-Analyst-II_REQ-2153)<br><sub>recognized recruiting platform</sub> |
 | Intel | Image Processing Engineer - C++/Linux | Santa Clara, CA | not available<br><sub>posting text not indexed</sub> | 2026-04-18 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · intel.wd1.myworkdayjobs.com](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Image-Processing-Engineer--C---Linux-_JR0282835)<br><sub>recognized recruiting platform</sub> |
