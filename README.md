@@ -9,14 +9,14 @@ feeds when possible, removes duplicates, and rebuilds the Markdown databases aut
 <!-- COUNTS:START -->
 | Recruiting cycle | Open roles |
 |---|---:|
-| [Summer 2027 US Internships](internships/summer-2027.md) | 378 |
-| [Fall 2026 US Internships](internships/fall-2026.md) | 443 |
-| [Spring 2027 US Internships](internships/spring-2027.md) | 29 |
-| [Winter 2027 US Internships](internships/winter-2027.md) | 9 |
-| [US Internships — Cycle Not Stated](internships/unscheduled.md) | 409 |
-| [2027 US New-Graduate Roles](new-grad/2027.md) | 603 |
-| [2026 US New-Graduate Roles](new-grad/2026.md) | 34 |
-| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1766 |
+| [Summer 2027 US Internships](internships/summer-2027.md) | 380 |
+| [Fall 2026 US Internships](internships/fall-2026.md) | 445 |
+| [Spring 2027 US Internships](internships/spring-2027.md) | 30 |
+| [Winter 2027 US Internships](internships/winter-2027.md) | 10 |
+| [US Internships — Cycle Not Stated](internships/unscheduled.md) | 415 |
+| [2027 US New-Graduate Roles](new-grad/2027.md) | 608 |
+| [2026 US New-Graduate Roles](new-grad/2026.md) | 37 |
+| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1759 |
 <!-- COUNTS:END -->
 
 The Markdown files are the product: open them directly on GitHub, search them, bookmark them, or
@@ -41,15 +41,15 @@ Keryx never promotes them into eligibility gates. This distinction is also prese
 <!-- ACADEMIC-COVERAGE:START -->
 | Current posting-text coverage | Open roles |
 |---|---:|
-| Academic condition detected | 44 |
-| Text checked; no condition detected | 38 |
-| Complete posting text unavailable | 3589 |
+| Academic condition detected | 112 |
+| Text checked; no condition detected | 114 |
+| Complete posting text unavailable | 3458 |
 
 | Detected-condition modality | Criteria |
 |---|---:|
-| Required | 16 |
-| Preferred | 1 |
-| Stated without clear modality | 37 |
+| Required | 57 |
+| Preferred | 7 |
+| Stated without clear modality | 70 |
 <!-- ACADEMIC-COVERAGE:END -->
 
 These counts describe the current index, not applicants. A role can contribute multiple criteria
