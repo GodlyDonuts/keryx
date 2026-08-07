@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**429 open roles**
+**430 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | Applied Materials | 2026 Summer Intern - Physics & AI modeling Engineering | Santa Clara,CA | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://amat.wd1.myworkdayjobs.com/External) | [apply · amat.wd1.myworkdayjobs.com](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095)<br><sub>ATS checked</sub> |
 | Applied Materials | 2026 Summer Mechanical Engineer Intern - Masters (Santa Clara, CA) | Santa Clara,CA | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://amat.wd1.myworkdayjobs.com/External) | [apply · amat.wd1.myworkdayjobs.com](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Mechanical-Engineer-Intern---Masters--Santa-Clara--CA-_R2519236)<br><sub>ATS checked</sub> |
 | Apptronik | Robotics Software Intern - Real-Time Controls | Austin, TX | Current student status<br><sub>enrollment: stated · direct ATS text · checked 2026-08-07</sub> | — | [Greenhouse direct](https://job-boards.greenhouse.io/apptronik), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · boards.greenhouse.io](https://boards.greenhouse.io/apptronik/jobs/5985132004?gh_jid=5985132004)<br><sub>ATS checked</sub> |
+| Assurant | IT Intern | Florida Virtual | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting) | [apply · assurant.wd1.myworkdayjobs.com](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Florida-Virtual/IT-Intern_R-114117)<br><sub>ATS checked</sub> |
 | Astemo | Engineering Intern- Inverter | Greenfield, Indiana, United States of America | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://astemo.wd102.myworkdayjobs.com/Global_Career_Site) | [apply · astemo.wd102.myworkdayjobs.com](https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Greenfield-Indiana-United-States-of-America/Engineering-Intern--Inverter_J0049470)<br><sub>ATS checked</sub> |
 | Astera Institute | Software Engineering Intern - Distributed Simulation Systems | Emeryville, CA | not available<br><sub>posting text not indexed</sub> | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066)<br><sub>recognized recruiting platform</sub> |
 | Axos Bank | Automation Analyst Intern | HQ - San Diego, CA | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://axos.wd5.myworkdayjobs.com/Axos) | [apply · axos.wd5.myworkdayjobs.com](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Automation-Analyst-Intern_JR4507)<br><sub>ATS checked</sub> |
