@@ -9,14 +9,14 @@ feeds when possible, removes duplicates, and rebuilds the Markdown databases aut
 <!-- COUNTS:START -->
 | Recruiting cycle | Open roles |
 |---|---:|
-| [Summer 2027 US Internships](internships/summer-2027.md) | 378 |
-| [Fall 2026 US Internships](internships/fall-2026.md) | 457 |
-| [Spring 2027 US Internships](internships/spring-2027.md) | 30 |
+| [Summer 2027 US Internships](internships/summer-2027.md) | 380 |
+| [Fall 2026 US Internships](internships/fall-2026.md) | 469 |
+| [Spring 2027 US Internships](internships/spring-2027.md) | 32 |
 | [Winter 2027 US Internships](internships/winter-2027.md) | 10 |
-| [US Internships — Cycle Not Stated](internships/unscheduled.md) | 419 |
-| [2027 US New-Graduate Roles](new-grad/2027.md) | 615 |
-| [2026 US New-Graduate Roles](new-grad/2026.md) | 36 |
-| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1766 |
+| [US Internships — Cycle Not Stated](internships/unscheduled.md) | 430 |
+| [2027 US New-Graduate Roles](new-grad/2027.md) | 607 |
+| [2026 US New-Graduate Roles](new-grad/2026.md) | 49 |
+| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1759 |
 <!-- COUNTS:END -->
 
 The Markdown files are the product: open them directly on GitHub, search them, bookmark them, or
@@ -41,15 +41,15 @@ Keryx never promotes them into eligibility gates. This distinction is also prese
 <!-- ACADEMIC-COVERAGE:START -->
 | Current posting-text coverage | Open roles |
 |---|---:|
-| Academic condition detected | 200 |
-| Text checked; no condition detected | 203 |
-| Complete posting text unavailable | 3308 |
+| Academic condition detected | 245 |
+| Text checked; no condition detected | 252 |
+| Complete posting text unavailable | 3239 |
 
 | Detected-condition modality | Criteria |
 |---|---:|
-| Required | 103 |
-| Preferred | 8 |
-| Stated without clear modality | 119 |
+| Required | 114 |
+| Preferred | 10 |
+| Stated without clear modality | 163 |
 <!-- ACADEMIC-COVERAGE:END -->
 
 These counts describe the current index, not applicants. A role can contribute multiple criteria
