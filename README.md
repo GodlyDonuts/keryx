@@ -9,14 +9,14 @@ feeds when possible, removes duplicates, and rebuilds the Markdown databases aut
 <!-- COUNTS:START -->
 | Recruiting cycle | Open roles |
 |---|---:|
-| [Summer 2027 US Internships](internships/summer-2027.md) | 401 |
-| [Fall 2026 US Internships](internships/fall-2026.md) | 455 |
+| [Summer 2027 US Internships](internships/summer-2027.md) | 400 |
+| [Fall 2026 US Internships](internships/fall-2026.md) | 451 |
 | [Spring 2027 US Internships](internships/spring-2027.md) | 49 |
 | [Winter 2027 US Internships](internships/winter-2027.md) | 11 |
-| [US Internships — Cycle Not Stated](internships/unscheduled.md) | 443 |
+| [US Internships — Cycle Not Stated](internships/unscheduled.md) | 440 |
 | [2027 US New-Graduate Roles](new-grad/2027.md) | 616 |
-| [2026 US New-Graduate Roles](new-grad/2026.md) | 56 |
-| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1775 |
+| [2026 US New-Graduate Roles](new-grad/2026.md) | 55 |
+| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1770 |
 <!-- COUNTS:END -->
 
 The Markdown files are the product: open them directly on GitHub, search them, bookmark them, or
@@ -41,15 +41,15 @@ Keryx never promotes them into eligibility gates. This distinction is also prese
 <!-- ACADEMIC-COVERAGE:START -->
 | Current posting-text coverage | Open roles |
 |---|---:|
-| Academic condition detected | 277 |
+| Academic condition detected | 274 |
 | Text checked; no condition detected | 265 |
-| Complete posting text unavailable | 3264 |
+| Complete posting text unavailable | 3253 |
 
 | Detected-condition modality | Criteria |
 |---|---:|
 | Required | 133 |
 | Preferred | 10 |
-| Stated without clear modality | 185 |
+| Stated without clear modality | 182 |
 <!-- ACADEMIC-COVERAGE:END -->
 
 These counts describe the current index, not applicants. A role can contribute multiple criteria
