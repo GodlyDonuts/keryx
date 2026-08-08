@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**1250 closed roles**
+**1251 closed roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | Xcellent Technology Solutions | Operational GEOINT Analyst - Imagery - OPIR | Aurora, CO | not available<br><sub>posting text not indexed</sub> | 2026-08-03 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · xtscareers.applytojob.com](https://xtscareers.applytojob.com/apply/u1yXswwTvu/Operational-GEOINT-Analyst-Imagery-OPIR-TSSCI-With-CI-Poly)<br><sub>recognized recruiting platform</sub> |
 | ZGF Architects | Technology Intern | Portland, OR | not available<br><sub>posting text not indexed</sub> | 2026-08-03 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · zgfarchitects.applytojob.com](https://zgfarchitects.applytojob.com/apply/uqHC8SCmq2/Technology-Intern)<br><sub>recognized recruiting platform</sub> |
 | Garmin | Embedded Software Engineer 1 | Boulder, CO | not available<br><sub>posting text not indexed</sub> | 2026-08-02 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · careers.garmin.com</sub> |
+| L3Harris Technologies | Associate Software Engineering | Melbourne, FL | not available<br><sub>posting text not indexed</sub> | 2026-08-02 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · jobs.l3harris.com</sub> |
 | ManTech | Launch Vehicle Software Developer - 5th Space Launch Squadron | Cape Canaveral, FL | not available<br><sub>posting text not indexed</sub> | 2026-08-02 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · mantech.avature.net](https://mantech.avature.net/en_US/careers/JobDetail/65190)<br><sub>recognized recruiting platform</sub> |
 | Asure | Associate Software Engineer | Atlanta, GA | not available<br><sub>posting text not indexed</sub> | 2026-08-01 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · asuresoftware.bamboohr.com](https://asuresoftware.bamboohr.com/careers/1020)<br><sub>recognized recruiting platform</sub> |
 | Garmin | Software Engineer 1 | Chandler, AZ | not available<br><sub>posting text not indexed</sub> | 2026-08-01 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · careers.garmin.com</sub> |
