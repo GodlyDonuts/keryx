@@ -10,7 +10,7 @@ feeds when possible, removes duplicates, and rebuilds the Markdown databases aut
 | Recruiting cycle | Open roles |
 |---|---:|
 | [Summer 2027 US Internships](internships/summer-2027.md) | 401 |
-| [Fall 2026 US Internships](internships/fall-2026.md) | 453 |
+| [Fall 2026 US Internships](internships/fall-2026.md) | 452 |
 | [Spring 2027 US Internships](internships/spring-2027.md) | 49 |
 | [Winter 2027 US Internships](internships/winter-2027.md) | 11 |
 | [US Internships — Cycle Not Stated](internships/unscheduled.md) | 440 |
@@ -43,7 +43,7 @@ Keryx never promotes them into eligibility gates. This distinction is also prese
 |---|---:|
 | Academic condition detected | 274 |
 | Text checked; no condition detected | 265 |
-| Complete posting text unavailable | 3258 |
+| Complete posting text unavailable | 3257 |
 
 | Detected-condition modality | Criteria |
 |---|---:|

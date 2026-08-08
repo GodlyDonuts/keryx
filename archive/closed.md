@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**1242 closed roles**
+**1243 closed roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -589,6 +589,7 @@
 | Tesla | AI Safety Operator | Orlando, FL | not available<br><sub>posting text not indexed</sub> | 2026-06-07 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · www.tesla.com</sub> |
 | Tesla | Applied AI Engineer Intern - AI Hardware | Palo Alto, CA | not available<br><sub>posting text not indexed</sub> | 2026-06-07 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | destination withheld<br><sub>single source · www.tesla.com</sub> |
 | Tesla | Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure | Palo Alto, CA | not available<br><sub>posting text not indexed</sub> | 2026-06-07 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | destination withheld<br><sub>single source · www.tesla.com</sub> |
+| Tesla | Operational Automation Software Engineer Intern - Operational Automation Engineer - Residential Energy | Draper, UT | not available<br><sub>posting text not indexed</sub> | 2026-06-07 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | destination withheld<br><sub>single source · www.tesla.com</sub> |
 | Tesla | Software Engineer Intern - AI Data Infrastructure | Palo Alto, CA | not available<br><sub>posting text not indexed</sub> | 2026-06-07 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | destination withheld<br><sub>single source · www.tesla.com</sub> |
 | GXO Logistics | Business Intelligence Engineer | Union City, GA | not available<br><sub>posting text not indexed</sub> | 2026-06-05 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · jobs.gxo.com</sub> |
 | Impulse Space | Embedded Software Engineer - Camera Systems | El Segundo, CA | not available<br><sub>posting text not indexed</sub> | 2026-06-05 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · impulsespace.pinpointhq.com</sub> |
