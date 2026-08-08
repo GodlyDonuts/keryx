@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**1252 closed roles**
+**1253 closed roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -969,6 +969,7 @@
 | Astranis Space Technologies | Hardware Design Intern - Software Defined Radio Team - Fall 2026 | San Francisco, CA | not available<br><sub>posting text not indexed</sub> | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/astranis/jobs/4691163006)<br><sub>recognized recruiting platform</sub> |
 | Aurora | Software Engineer I - Data Eng infra | Mountain View, CA | not available<br><sub>posting text not indexed</sub> | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | destination withheld<br><sub>single source · aurora.tech</sub> |
 | Automobile Club of Southern California | Entry Level Cloud Services Analyst | Costa Mesa, CA | not available<br><sub>posting text not indexed</sub> | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · ace.wd5.myworkdayjobs.com](https://ace.wd5.myworkdayjobs.com/en-US/careers/job/Costa-Mesa-CA/Entry-Level-Cloud-Services-Analyst_JR202638192)<br><sub>recognized recruiting platform</sub> |
+| Bank of Montreal | Software Developer ( Early Career )-15 | Irving, TX, USA | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://bmo.wd3.myworkdayjobs.com/Campus), [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · bmo.wd3.myworkdayjobs.com](https://bmo.wd3.myworkdayjobs.com/Campus/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1)<br><sub>ATS checked</sub> |
 | Belay Technologies | Front End Software Engineer | Fort Meade, MD | not available<br><sub>posting text not indexed</sub> | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · belaytechnologies.applytojob.com](https://belaytechnologies.applytojob.com/apply/AwvRH1d4o2/Front-End-Software-Engineer)<br><sub>recognized recruiting platform</sub> |
 | Belay Technologies | Junior Software Engineer | Columbia, MD | not available<br><sub>posting text not indexed</sub> | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · belaytechnologies.applytojob.com](https://belaytechnologies.applytojob.com/apply/ZnqLFgGzSo/Junior-Software-Engineer)<br><sub>recognized recruiting platform</sub> |
 | Belay Technologies | Junior Software Engineer | Annapolis Junction, MD | not available<br><sub>posting text not indexed</sub> | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · belaytechnologies.applytojob.com](https://belaytechnologies.applytojob.com/apply/6XkgXjwrHB/Junior-Software-Engineer)<br><sub>recognized recruiting platform</sub> |
