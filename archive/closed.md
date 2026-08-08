@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**1263 closed roles**
+**1264 closed roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -625,6 +625,7 @@
 | ByteDance | Machine Learning Graduate - E-Commerce Governance - BS/MS | Seattle, WA | not available<br><sub>posting text not indexed</sub> | 2026-06-03 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · jobs.bytedance.com</sub> |
 | ByteDance | Software Engineer Graduate - Cloud Native Infrastructure | San Jose, CA | not available<br><sub>posting text not indexed</sub> | 2026-06-02 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · jobs.bytedance.com</sub> |
 | ByteDance | Software Engineer Graduate - Cloud Native Infrastructure - BS/MS | Seattle, WA | not available<br><sub>posting text not indexed</sub> | 2026-06-02 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · jobs.bytedance.com</sub> |
+| Clarium | AI Engineer - Data Intelligence | Remote in USA | not available<br><sub>posting text not indexed</sub> | 2026-06-02 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/clarium/83332693-7e11-41db-8b62-8225cb818abf/application)<br><sub>recognized recruiting platform</sub> |
 | Avnet | Software Developer | Tempe, AZ, Phoenix, AZ | not available<br><sub>posting text not indexed</sub> | 2026-06-01 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · wd1.myworkdaysite.com](https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614)<br><sub>recognized recruiting platform</sub> |
 | Avnet | Software Developer | Tempe, AZ, Phoenix, AZ | not available<br><sub>posting text not indexed</sub> | 2026-06-01 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · avnet.wd1.myworkdayjobs.com](https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614)<br><sub>recognized recruiting platform</sub> |
 | candidate fyi | Full Stack / Backend Software Engineer | Remote in USA | not available<br><sub>posting text not indexed</sub> | 2026-06-01 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/candidate.fyi/0448a10e-863f-437f-80bb-d65ee09f8b6e/application)<br><sub>recognized recruiting platform</sub> |
