@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**1275 closed roles**
+**1276 closed roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -844,6 +844,7 @@
 | Prairie View A&M University | Postdoctoral Researcher - Pier - Trustworthy Artificial Intelligence | Prairie View, TX | not available<br><sub>posting text not indexed</sub> | 2025-12-19 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · tamus.wd1.myworkdayjobs.com](https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Trustworthy-Artificial-Intelligence--2_R-089885-1)<br><sub>recognized recruiting platform</sub> |
 | Auto-Owners Insurance | Math Major Software Developer | East Lansing, MI | not available<br><sub>posting text not indexed</sub> | 2025-12-17 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · aoins.wd5.myworkdayjobs.com](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Math-Major-Software-Developer_R_1008)<br><sub>recognized recruiting platform</sub> |
 | ERM | Consulting Associate - EHS Management Information Systems | Houston, TX, Atlanta, GA | not available<br><sub>posting text not indexed</sub> | 2025-12-13 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · erm.wd3.myworkdayjobs.com](https://erm.wd3.myworkdayjobs.com/ERM_Careers/job/Atlanta-Georgia/Consulting-Associate--EHS-Management-Information-Systems--Entry-Level-_R00025970)<br><sub>recognized recruiting platform</sub> |
+| Meta | Research Scientist Intern, LLM Evaluation | New York, NY | not available<br><sub>posting text not indexed</sub> | 2025-12-11 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | destination withheld<br><sub>single source · www.metacareers.com</sub> |
 | SciTec | Associate / Staff Mission Data Analyst | Aurora, CO | not available<br><sub>posting text not indexed</sub> | 2025-12-11 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · apply.workable.com](https://apply.workable.com/scitec/j/301788B4BF)<br><sub>recognized recruiting platform</sub> |
 | Boom Supersonic | Embedded Software Engineer | Centennial, CO | not available<br><sub>posting text not indexed</sub> | 2025-12-10 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · ats.rippling.com](https://ats.rippling.com/boom-supersonic/jobs/9a05cb9a-ff1c-4d34-916e-bdf752658276)<br><sub>recognized recruiting platform</sub> |
 | Bosch | LLM & Agentic AI R&D Intern | Sunnyvale, CA | not available<br><sub>posting text not indexed</sub> | 2025-12-10 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | destination withheld<br><sub>single source · jobs.bosch.com</sub> |
