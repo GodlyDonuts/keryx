@@ -14,9 +14,9 @@ feeds when possible, removes duplicates, and rebuilds the Markdown databases aut
 | [Spring 2027 US Internships](internships/spring-2027.md) | 48 |
 | [Winter 2027 US Internships](internships/winter-2027.md) | 11 |
 | [US Internships — Cycle Not Stated](internships/unscheduled.md) | 441 |
-| [2027 US New-Graduate Roles](new-grad/2027.md) | 619 |
-| [2026 US New-Graduate Roles](new-grad/2026.md) | 42 |
-| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1765 |
+| [2027 US New-Graduate Roles](new-grad/2027.md) | 625 |
+| [2026 US New-Graduate Roles](new-grad/2026.md) | 43 |
+| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1758 |
 <!-- COUNTS:END -->
 
 The Markdown files are the product: open them directly on GitHub, search them, bookmark them, or
