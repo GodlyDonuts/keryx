@@ -4,10 +4,11 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**400 open roles**
+**401 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
+| ByteDance | Software Development Engineer Intern - Network Automation - 2027 Summer | San Jose, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-08 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | destination withheld<br><sub>single source · jobs.bytedance.com</sub> |
 | Atoms | Software Engineer Intern - Summer 2027 | Seattle, WA, SF, LA, NYC, Mountain View, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-07 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/cssmerge/jobs/8687896002)<br><sub>cross-checked</sub> |
 | ByteDance | Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI | Seattle, WA | not available<br><sub>posting text not indexed</sub> | 2026-08-07 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | destination withheld<br><sub>single source · jobs.bytedance.com</sub> |
 | ByteDance | Network Software Engineer Intern - Network Observation | San Jose, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-07 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | destination withheld<br><sub>single source · jobs.bytedance.com</sub> |
