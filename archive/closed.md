@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**1285 closed roles**
+**1286 closed roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -769,6 +769,7 @@
 | University System of New Hampshire | Research Assistant | Dover, NH | not available<br><sub>posting text not indexed</sub> | 2026-03-17 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · usnh.wd5.myworkdayjobs.com](https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Assistant_JR5245)<br><sub>recognized recruiting platform</sub> |
 | SpaceX | Software Engineering Intern/Co-op | Bastrop, TX, Irvine, CA, Cape Canaveral, FL, Brownsville, TX, Redmond, WA, McGregor, TX, West Athens, CA, Sunnyvale, CA | not available<br><sub>posting text not indexed</sub> | 2026-03-16 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · boards.greenhouse.io](https://boards.greenhouse.io/spacex/jobs/8403219002)<br><sub>recognized recruiting platform</sub> |
 | ByteDance | Graduate Research Scientist | San Jose, CA | not available<br><sub>posting text not indexed</sub> | 2026-03-13 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · jobs.bytedance.com</sub> |
+| SentiLink | Data Scientist – New Grad | Remote in USA | not stated<br><sub>direct ATS text · checked 2026-08-08</sub> | 2026-03-13 | [Ashby direct](https://jobs.ashbyhq.com/sentilink), [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408/application)<br><sub>ATS checked</sub> |
 | University of Rochester | Research Data Engineer 1 | Rochester, NY | not available<br><sub>posting text not indexed</sub> | 2026-03-13 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · rochester.wd5.myworkdayjobs.com](https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Rochester---NY/Research-Data-Engineer-I_R269057)<br><sub>recognized recruiting platform</sub> |
 | Handshake | Hardware Engineer - AI Trainer | Remote in USA | not available<br><sub>posting text not indexed</sub> | 2026-03-09 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/handshake/a2005298-96da-46f6-8809-231008720bd9/application)<br><sub>recognized recruiting platform</sub> |
 | University of Texas - Austin | Linux Network Engineering Scientist Associate | Austin, TX | not available<br><sub>posting text not indexed</sub> | 2026-03-09 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · utaustin.wd1.myworkdayjobs.com](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Linux-Network-Engineering-Scientist-Associate_R_00044918)<br><sub>recognized recruiting platform</sub> |
