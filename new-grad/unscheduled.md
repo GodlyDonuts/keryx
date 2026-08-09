@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**1759 open roles**
+**1758 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -15,7 +15,6 @@
 | L3Harris Technologies | Associate Software Engineer | Waco, TX | not available<br><sub>posting text not indexed</sub> | 2026-08-08 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · jobs.l3harris.com</sub> |
 | L3Harris Technologies | Associate Software Engineering | Fort Wayne, IN | not available<br><sub>posting text not indexed</sub> | 2026-08-08 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · jobs.l3harris.com</sub> |
 | PlusAI | Senior Machine Learning Engineer - Perception | Santa Clara, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-08 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.lever.co](https://jobs.lever.co/plus-2/d1b8ecc2-dfc2-4613-81ca-02d90776c618)<br><sub>recognized recruiting platform</sub> |
-| Polaris | Digital & IT Leadership Development Program Associate - Digital Product Development | Medina, MN, Plymouth, MN | not available<br><sub>posting text not indexed</sub> | 2026-08-08 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · polaris.wd5.myworkdayjobs.com](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Digital-Product-Development_R30565)<br><sub>recognized recruiting platform</sub> |
 | Starbucks | Software Engineer - Software Engineering | Nashville, TN | not available<br><sub>posting text not indexed</sub> | 2026-08-08 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · starbucks.eightfold.ai</sub> |
 | Teguar | Computer Assembly Technician | Charlotte, NC | not available<br><sub>posting text not indexed</sub> | 2026-08-08 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · apply.workable.com](https://apply.workable.com/teguar-corporation/j/6B5F9ADBF1)<br><sub>recognized recruiting platform</sub> |
 | University of Chicago | Research Professional - Booth Faculty Research | Chicago, IL | not available<br><sub>posting text not indexed</sub> | 2026-08-08 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · uchicago.wd5.myworkdayjobs.com](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Professional_JR34816)<br><sub>recognized recruiting platform</sub> |

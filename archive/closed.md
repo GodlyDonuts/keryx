@@ -4,10 +4,11 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**1286 closed roles**
+**1287 closed roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
+| Polaris | Digital & IT Leadership Development Program Associate - Digital Product Development | Medina, MN, Plymouth, MN | not available<br><sub>posting text not indexed</sub> | 2026-08-08 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · polaris.wd5.myworkdayjobs.com](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Digital-Product-Development_R30565)<br><sub>recognized recruiting platform</sub> |
 | Polaris | Digital & IT Leadership Development Program Associate - Predictive Data Science | Medina, MN, Plymouth, MN | not available<br><sub>posting text not indexed</sub> | 2026-08-08 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · polaris.wd5.myworkdayjobs.com](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Predictive-Data-Science_R30564)<br><sub>recognized recruiting platform</sub> |
 | Alphataraxia | Investment Analyst New Grad | Washington, DC | not available<br><sub>posting text not indexed</sub> | 2026-08-07 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/alphataraxia/jobs/4829019007)<br><sub>recognized recruiting platform</sub> |
 | Duke Energy | Asc Cybersecurity Gov&Risk Analyst - Intern/Co-op Conversion 2027 (Souza) | Charlotte, NC | not available<br><sub>posting text not indexed</sub> | 2026-08-07 | [Workday direct](https://dukeenergy.wd1.myworkdayjobs.com/search), [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply · dukeenergy.wd1.myworkdayjobs.com](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Asc-Cybersecurity-Gov-Risk-Analyst---Intern-Co-op-Conversion-2027--Souza-_R40863)<br><sub>ATS checked</sub> |

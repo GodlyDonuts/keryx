@@ -16,7 +16,7 @@ feeds when possible, removes duplicates, and rebuilds the Markdown databases aut
 | [US Internships — Cycle Not Stated](internships/unscheduled.md) | 440 |
 | [2027 US New-Graduate Roles](new-grad/2027.md) | 620 |
 | [2026 US New-Graduate Roles](new-grad/2026.md) | 44 |
-| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1759 |
+| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1758 |
 <!-- COUNTS:END -->
 
 The Markdown files are the product: open them directly on GitHub, search them, bookmark them, or
@@ -43,7 +43,7 @@ Keryx never promotes them into eligibility gates. This distinction is also prese
 |---|---:|
 | Academic condition detected | 276 |
 | Text checked; no condition detected | 267 |
-| Complete posting text unavailable | 3229 |
+| Complete posting text unavailable | 3228 |
 
 | Detected-condition modality | Criteria |
 |---|---:|
