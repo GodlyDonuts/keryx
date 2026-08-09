@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**1769 open roles**
+**1768 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -1706,7 +1706,6 @@
 | BAE Systems | Entry Level Software Engineer | Greenlawn, NY | not available<br><sub>posting text not indexed</sub> | 2025-12-16 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · jobs.baesystems.com</sub> |
 | CaseGuard | Data Annotation Specialist | Arlington, VA | not available<br><sub>posting text not indexed</sub> | 2025-12-15 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/caseguard/jobs/5037116008)<br><sub>recognized recruiting platform</sub> |
 | Sentra | Software Engineer - New Grad | San Francisco, CA | not available<br><sub>posting text not indexed</sub> | 2025-12-15 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/sentra/3c9729ca-67b3-4f9f-9c64-5e1e10be1719)<br><sub>recognized recruiting platform</sub> |
-| Anthropic | Anthropic Fellows Program - AI Security | London, UK, SF, Canada, Remote in USA | not available<br><sub>posting text not indexed</sub> | 2025-12-12 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/anthropic/jobs/5030244008)<br><sub>recognized recruiting platform</sub> |
 | Susquehanna International Group (SIG) | Power Analyst - Power | Ardmore, PA | not available<br><sub>posting text not indexed</sub> | 2025-12-12 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · careers-sig.icims.com](https://careers-sig.icims.com/jobs/10365/job)<br><sub>recognized recruiting platform</sub> |
 | N1 | New Grad Software Engineer (Full Stack) | New York City | not stated<br><sub>direct ATS text · checked 2026-08-08</sub> | 2025-12-11 | [Ashby direct](https://jobs.ashbyhq.com/n1) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a)<br><sub>ATS checked</sub> |
 | Traba | Software Engineer (New Grad) | New York City, NY | not stated<br><sub>direct ATS text · checked 2026-08-08</sub> | 2025-11-17 | [Ashby direct](https://jobs.ashbyhq.com/traba) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/traba/90d6307c-1bb1-4abf-8e73-7afa6a7e0a70)<br><sub>ATS checked</sub> |
