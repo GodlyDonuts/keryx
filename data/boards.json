@@ -4871,6 +4871,24 @@
     },
     {
       "ats": "workday",
+      "company": "HNTB",
+      "host": "hntb.wd5.myworkdayjobs.com",
+      "key": "workday:hntb.wd5.myworkdayjobs.com:hntb:hntb_careers",
+      "site": "hntb_careers",
+      "slug": "hntb",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "HNTB",
+      "host": "hntb.wd5.myworkdayjobs.com",
+      "key": "workday:hntb.wd5.myworkdayjobs.com:hntb:hntb_university_careers",
+      "site": "hntb_university_careers",
+      "slug": "hntb",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "The Home Depot",
       "host": "homedepot.wd5.myworkdayjobs.com",
       "key": "workday:homedepot.wd5.myworkdayjobs.com:homedepot:careerdepot",
