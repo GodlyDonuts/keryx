@@ -98,8 +98,8 @@ Every published application URL passes Keryx's deterministic cleaner before it b
   Workday API hosts; automatic redirects are disabled.
 - Each Apply link displays its destination host and whether it was checked through a direct ATS,
   corroborated by multiple sources, or recognized as a structured recruiting-platform URL.
-- A custom-domain link reported by only one community source is withheld until another source or
-  a direct ATS observation corroborates it; the role remains searchable without a clickable URL.
+- Clean HTTPS application links from configured feeds are published immediately and labeled
+  `source reported`; direct ATS and cross-source observations receive stronger labels when present.
 - Rejected URLs are omitted from the databases. A non-clickable fingerprint and rejection reason
   are retained in [`data/quarantine.json`](data/quarantine.json) for auditing.
 
