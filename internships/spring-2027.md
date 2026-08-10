@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**48 open roles**
+**49 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -55,4 +55,5 @@
 | Mosaic | Capital Project Engineering Co-op/Intern - Spring 2027 | US - Tampa, FL (Lithia area) | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://mosaic.wd5.myworkdayjobs.com/mosaic) | [apply · mosaic.wd5.myworkdayjobs.com](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Capital-Project-Engineering-Co-op-Intern---Spring-2027_64392)<br><sub>ATS checked</sub> |
 | Mosaic | Informational Technology Co-Op/Intern - Spring 2027 | US - Tampa, FL (Lithia area) | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://mosaic.wd5.myworkdayjobs.com/mosaic) | [apply · mosaic.wd5.myworkdayjobs.com](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Informational-Technology-Co-Op-Intern---Spring-2027_64413)<br><sub>ATS checked</sub> |
 | Mosaic | Operations & Automation Engineering Co-op/Intern - Spring 2027 | US - Bartow, FL | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://mosaic.wd5.myworkdayjobs.com/mosaic) | [apply · mosaic.wd5.myworkdayjobs.com](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Bartow-FL/Operations---Automation-Engineering-Co-op-Intern---Spring-2027_64675-1)<br><sub>ATS checked</sub> |
+| Mosaic | Operations Engineering Co-op/Intern – Spring 2027 | US - Riverview, FL | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://mosaic.wd5.myworkdayjobs.com/mosaic) | [apply · mosaic.wd5.myworkdayjobs.com](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Riverview-FL/Operations-Engineering-Co-op-Intern---Spring-2027_64656)<br><sub>ATS checked</sub> |
 | Mosaic | Water Balance Engineer Co-Op/Intern - Spring 2027 | US - Mulberry, FL | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://mosaic.wd5.myworkdayjobs.com/mosaic) | [apply · mosaic.wd5.myworkdayjobs.com](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Mulberry-FL/Water-Balance-Engineer-Co-Op-Intern---Spring-2027_64508-1)<br><sub>ATS checked</sub> |
