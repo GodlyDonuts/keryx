@@ -4,11 +4,12 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**12 open roles**
+**13 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
 | Figma | Software Engineer Intern (Winter 2027) | San Francisco, CA • New York, NY | not stated<br><sub>direct ATS text · checked 2026-08-10</sub> | 2026-08-10 | [Greenhouse direct](https://job-boards.greenhouse.io/figma) | [apply · boards.greenhouse.io](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004)<br><sub>ATS checked</sub> |
+| Mujin | Software Integration Intern | Suwanee, GA | not available<br><sub>posting text not indexed</sub> | 2026-08-10 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · mujin.bamboohr.com](https://mujin.bamboohr.com/careers/166)<br><sub>recognized recruiting platform</sub> |
 | Belvedere Trading | Quantitative Trading Intern - Winter Quarter 2027 | Chicago, IL | Expected Dec 2027 graduation<br><sub>graduation: stated · direct ATS text · checked 2026-08-10</sub> | 2026-08-07 | [Lever direct](https://jobs.lever.co/belvederetrading), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · jobs.lever.co](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0)<br><sub>ATS checked</sub> |
 | Atoms | Software Engineer Intern - Winter 2027 | Seattle, WA, SF, LA, NYC, Mountain View, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-06 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/cssmerge/jobs/8687915002)<br><sub>recognized recruiting platform</sub> |
 | Western Digital | Software Engineering Co-op | Rochester, MN | not available<br><sub>posting text not indexed</sub> | 2026-07-16 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships), [Summer 2027 list](https://github.com/sndsh404/summer-2027-internships) | [apply · jobs.smartrecruiters.com](https://jobs.smartrecruiters.com/WesternDigital/744000138184309)<br><sub>cross-checked</sub> |
