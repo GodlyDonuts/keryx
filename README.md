@@ -9,14 +9,14 @@ feeds when possible, removes duplicates, and rebuilds the Markdown databases aut
 <!-- COUNTS:START -->
 | Recruiting cycle | Open roles |
 |---|---:|
-| [Summer 2027 US Internships](internships/summer-2027.md) | 428 |
+| [Summer 2027 US Internships](internships/summer-2027.md) | 436 |
 | [Fall 2026 US Internships](internships/fall-2026.md) | 446 |
-| [Spring 2027 US Internships](internships/spring-2027.md) | 55 |
+| [Spring 2027 US Internships](internships/spring-2027.md) | 57 |
 | [Winter 2027 US Internships](internships/winter-2027.md) | 13 |
-| [US Internships — Cycle Not Stated](internships/unscheduled.md) | 448 |
-| [2027 US New-Graduate Roles](new-grad/2027.md) | 618 |
-| [2026 US New-Graduate Roles](new-grad/2026.md) | 41 |
-| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1783 |
+| [US Internships — Cycle Not Stated](internships/unscheduled.md) | 449 |
+| [2027 US New-Graduate Roles](new-grad/2027.md) | 615 |
+| [2026 US New-Graduate Roles](new-grad/2026.md) | 53 |
+| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1784 |
 <!-- COUNTS:END -->
 
 The Markdown files are the product: open them directly on GitHub, search them, bookmark them, or
@@ -42,8 +42,8 @@ Keryx never promotes them into eligibility gates. This distinction is also prese
 | Current posting-text coverage | Open roles |
 |---|---:|
 | Academic condition detected | 277 |
-| Text checked; no condition detected | 269 |
-| Complete posting text unavailable | 3286 |
+| Text checked; no condition detected | 270 |
+| Complete posting text unavailable | 3306 |
 
 | Detected-condition modality | Criteria |
 |---|---:|
