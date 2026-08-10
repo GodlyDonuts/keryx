@@ -1322,6 +1322,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Atomic Machines",
+      "key": "greenhouse:atomicmachines",
+      "slug": "atomicmachines"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Axon",
       "key": "greenhouse:axontalentcommunity",
       "slug": "axontalentcommunity"
@@ -4748,6 +4754,15 @@
     },
     {
       "ats": "workday",
+      "company": "Global Partners",
+      "host": "global.wd1.myworkdayjobs.com",
+      "key": "workday:global.wd1.myworkdayjobs.com:global:globalpartnerscareers",
+      "site": "globalpartnerscareers",
+      "slug": "global",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "GlobalFoundries",
       "host": "globalfoundries.wd1.myworkdayjobs.com",
       "key": "workday:globalfoundries.wd1.myworkdayjobs.com:globalfoundries:external",
@@ -5357,6 +5372,15 @@
       "site": "LiveRampCareers",
       "slug": "liveramp",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "LPL Financial Holdings",
+      "host": "lplfinancial.wd1.myworkdayjobs.com",
+      "key": "workday:lplfinancial.wd1.myworkdayjobs.com:lplfinancial:university",
+      "site": "university",
+      "slug": "lplfinancial",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -6401,6 +6425,15 @@
       "site": "careers",
       "slug": "regalrexnord",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Regions Bank",
+      "host": "regions.wd5.myworkdayjobs.com",
+      "key": "workday:regions.wd5.myworkdayjobs.com:regions:regions_careers",
+      "site": "regions_careers",
+      "slug": "regions",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
