@@ -4,10 +4,11 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**448 open roles**
+**449 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
+| Booz Allen | AI RAN Telecommunications Engineer Intern | McLean, VA | not available<br><sub>posting text not indexed</sub> | 2026-08-10 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply · bah.wd1.myworkdayjobs.com](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415)<br><sub>recognized recruiting platform</sub> |
 | Canadian Solar | Intern, IT Infrastructure Support | Walnut Creek, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-10 | [Workday direct](https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar), [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply · canadiansolar.wd5.myworkdayjobs.com](https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Walnut-Creek-CA/Intern--IT-Infrastructure-Support_10001383)<br><sub>ATS checked</sub> |
 | Field AI | Mechanical Engineer, Robotics Hardware - Part-Time Internship | Irvine, CA | not stated<br><sub>direct ATS text · checked 2026-08-10</sub> | 2026-08-10 | [Lever direct](https://jobs.lever.co/field-ai) | [apply · jobs.lever.co](https://jobs.lever.co/field-ai/88f05d6e-ee93-4fc5-80cd-efe6854e22bc)<br><sub>ATS checked</sub> |
 | ACDS | AI Operations Engineer Intern | Lowell, AR | not stated<br><sub>direct ATS text · checked 2026-08-10</sub> | 2026-08-07 | [Lever direct](https://jobs.lever.co/acds), [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply · jobs.lever.co](https://jobs.lever.co/acds/e468d15b-69c3-4534-8072-7ff3f85fbf83)<br><sub>ATS checked</sub> |
