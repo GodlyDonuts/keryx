@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**452 open roles**
+**451 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -307,7 +307,6 @@
 | KLA Corporation | Software Engineering Intern | Ann Arbor, MI | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://kla.wd1.myworkdayjobs.com/AnnArbor) | [apply · kla.wd1.myworkdayjobs.com](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Software-Engineering-Intern_2531653)<br><sub>ATS checked</sub> |
 | kos.ai | Software Engineer Intern | San Francisco, CA | not available<br><sub>posting text not indexed</sub> | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3)<br><sub>recognized recruiting platform</sub> |
 | Latent Defense | Software Engineer Intern | New York City, NY | not stated<br><sub>direct ATS text · checked 2026-08-10</sub> | — | [Ashby direct](https://jobs.ashbyhq.com/latent%20defense), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/latent%20defense/54841e7d-d80a-4c2f-8c44-d492fe8eb487)<br><sub>ATS checked</sub> |
-| Leidos | Engineering Intern | Huntsville, AL | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://leidos.wd5.myworkdayjobs.com/External) | [apply · leidos.wd5.myworkdayjobs.com](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00187036)<br><sub>ATS checked</sub> |
 | Louisiana Blue | CW IT Audit Intern | Remote-LA | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue) | [apply · bcbsla.wd1.myworkdayjobs.com](https://bcbsla.wd1.myworkdayjobs.com/Generation_Blue/job/Remote-LA/CW-IT-Audit-Intern_R11951)<br><sub>ATS checked</sub> |
 | Magna | AI Solutions Developer Co-op (4 months) - Starting September | Milton, Ontario, CA | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://wd3.myworkdaysite.com/Magna) | [apply · wd3.myworkdaysite.com](https://wd3.myworkdaysite.com/Magna/job/Milton-Ontario-CA/AI-Engineering-Co-Op-Student--4-months-_R00252238)<br><sub>ATS checked</sub> |
 | Magna | Engineering Co-Op Student | Woodbridge, Ontario, CA | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://wd3.myworkdaysite.com/Magna) | [apply · wd3.myworkdaysite.com](https://wd3.myworkdaysite.com/Magna/job/Woodbridge-Ontario-CA/Engineering-Co-Op-Student_R00252065)<br><sub>ATS checked</sub> |
