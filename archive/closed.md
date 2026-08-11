@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**1433 closed roles**
+**1432 closed roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -851,7 +851,6 @@
 | Cirrus Logic | Co-op - Design Verification Engineer | Austin, TX | not available<br><sub>posting text not indexed</sub> | 2026-03-25 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · jobs.eu.lever.co](https://jobs.eu.lever.co/cirrus/645ceaf8-5734-4c69-9047-04bb0a400fe4)<br><sub>recognized recruiting platform</sub> |
 | University of Rochester | Data Analyst 1 - Drug Diversion Analyst | Rochester, NY | not available<br><sub>posting text not indexed</sub> | 2026-03-25 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · rochester.wd5.myworkdayjobs.com](https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Strong-Memorial-Hospital/Data-Analyst-I---Pharmacy_R269792-1)<br><sub>recognized recruiting platform</sub> |
 | University of Wisconsin-Madison | Assistant Professor of Music Technology and Artificial Intelligence - Rise-AI | Madison, WI | not available<br><sub>posting text not indexed</sub> | 2026-03-20 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · wisconsin.wd1.myworkdayjobs.com](https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Assistant-Professor-of-Music-Technology-and-Artificial-Intelligence_JR10004513)<br><sub>recognized recruiting platform</sub> |
-| Avnet | Associate Field Application Engineer | Hopkins, MN | not available<br><sub>posting text not indexed</sub> | 2026-03-19 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · avnet.wd1.myworkdayjobs.com](https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071)<br><sub>recognized recruiting platform</sub> |
 | Cresta | Conversational AI Designer Associate | Remote in USA | not available<br><sub>posting text not indexed</sub> | 2026-03-18 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/cresta/jobs/4970396008)<br><sub>recognized recruiting platform</sub> |
 | PingWind | BI Dashboard Software Engineer 1 | Alexandria, VA | not available<br><sub>posting text not indexed</sub> | 2026-03-18 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.lever.co](https://jobs.lever.co/pingwind/c75277f4-3030-4c48-a155-fc45726a52ee)<br><sub>recognized recruiting platform</sub> |
 | University of Arkansas | Cosmos Graduate Research Assistant | Little Rock, AR | not available<br><sub>posting text not indexed</sub> | 2026-03-18 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · uasys.wd5.myworkdayjobs.com](https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2)<br><sub>recognized recruiting platform</sub> |
