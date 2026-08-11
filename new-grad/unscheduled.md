@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**1786 open roles**
+**1785 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -1184,7 +1184,6 @@
 | University of Texas at Austin | Research Engineering/Scientist Associate 1 | Austin, TX | not available<br><sub>posting text not indexed</sub> | 2026-06-13 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · utaustin.wd1.myworkdayjobs.com](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Research-Engineering-Scientist-Associate-I--II--or-III_R_00040412)<br><sub>recognized recruiting platform</sub> |
 | Varsity Brands | Software Engineer | Farmers Branch, TX | not available<br><sub>posting text not indexed</sub> | 2026-06-13 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · careers.varsitybrands.com</sub> |
 | Atlas Energy Solutions | AI Developer | Austin, TX | not available<br><sub>posting text not indexed</sub> | 2026-06-12 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/atlassand/jobs/8589983002)<br><sub>recognized recruiting platform</sub> |
-| Meta | Data Engineer – University Grad - Product Analytics | Menlo Park, CA, NYC, Bellevue, WA | not available<br><sub>posting text not indexed</sub> | 2026-06-12 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · www.metacareers.com</sub> |
 | NVIDIA | Research Scientist New Grad - Efficient Deep Learning | Santa Clara, CA | not available<br><sub>posting text not indexed</sub> | 2026-06-12 | [Workday direct](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite), [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · nvidia.wd5.myworkdayjobs.com](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1)<br><sub>ATS checked</sub> |
 | Subaru | Principal Applied Scientist - Advanced Driver-Assistance Systems Engineering Department | Michigan | not available<br><sub>posting text not indexed</sub> | 2026-06-12 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · hcal.fa.us2.oraclecloud.com](https://hcal.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2204)<br><sub>recognized recruiting platform</sub> |
 | Applied Materials | Data Scientist - Agentic AI / ML | Santa Clara, CA | not available<br><sub>posting text not indexed</sub> | 2026-06-11 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · amat.wd1.myworkdayjobs.com](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist---Agentic-AI---ML_R2621700)<br><sub>recognized recruiting platform</sub> |
