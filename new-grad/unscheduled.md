@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**1785 open roles**
+**1784 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -159,7 +159,6 @@
 | RTX | Systems Engineer 1 - Conversion - Military Flight Management Systems | Cedar Rapids, IA | not available<br><sub>posting text not indexed</sub> | 2026-08-07 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · globalhr.wd5.myworkdayjobs.com](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-I---Conversion---Mil-FMS_01863445)<br><sub>recognized recruiting platform</sub> |
 | Tesla | Data Labeler - Tesla AI | Tempe, AZ | not available<br><sub>posting text not indexed</sub> | 2026-08-07 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · www.tesla.com</sub> |
 | TikTok | Multimodal Generative AI Research Scientist - Intelligent Creation | Seattle, WA | not available<br><sub>posting text not indexed</sub> | 2026-08-07 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · lifeattiktok.com</sub> |
-| Torch Technologies | Software Engineer 1 | Huntsville, AL | not available<br><sub>posting text not indexed</sub> | 2026-08-07 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · starfish.wd501.myworkdayjobs.com](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-I_R1480)<br><sub>recognized recruiting platform</sub> |
 | TP-Link Systems | System Hardware Design Engineer - Early Career | Irvine, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-07 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · apply.workable.com](https://apply.workable.com/tp-link-usa-corp/j/428D85D8DC)<br><sub>recognized recruiting platform</sub> |
 | Verifone | People Analytics Analyst | Atlanta, GA | not available<br><sub>posting text not indexed</sub> | 2026-08-07 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/verifone/jobs/7812087003)<br><sub>recognized recruiting platform</sub> |
 | We Are Social | Analyst | Miami, FL | not available<br><sub>posting text not indexed</sub> | 2026-08-07 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · apply.workable.com](https://apply.workable.com/we-are-social-1/j/C5F997C3E9)<br><sub>recognized recruiting platform</sub> |

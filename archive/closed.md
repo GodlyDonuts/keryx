@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**1438 closed roles**
+**1439 closed roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | Fifth Third Bank | Sales and Trading Analyst 1 - FRM | Cincinnati, OH | not available<br><sub>posting text not indexed</sub> | 2026-08-07 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · fifththird.wd5.myworkdayjobs.com](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Sales-and-Trading-Analyst-I_R71405)<br><sub>recognized recruiting platform</sub> |
 | Riverside Research | Software Developer - Sensor and Systems | Fairfax, VA | not available<br><sub>posting text not indexed</sub> | 2026-08-07 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · careers-riversideresearch.icims.com](https://careers-riversideresearch.icims.com/jobs/4331/job)<br><sub>recognized recruiting platform</sub> |
 | Solace Health | Junior Clinical Operations Associate (College Grad 2027) | Boston, MA | not stated<br><sub>direct ATS text · checked 2026-08-10</sub> | 2026-08-07 | [Ashby direct](https://jobs.ashbyhq.com/solace) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/solace/52947110-9763-4382-a1ed-9b87564cc30d)<br><sub>ATS checked</sub> |
+| Torch Technologies | Software Engineer 1 | Huntsville, AL | not available<br><sub>posting text not indexed</sub> | 2026-08-07 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · starfish.wd501.myworkdayjobs.com](https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-I_R1480)<br><sub>recognized recruiting platform</sub> |
 | Tyson Foods | Data Engineer 1 - Inventory Optimization | Springdale, AR | not available<br><sub>posting text not indexed</sub> | 2026-08-07 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · tysonfoods.wd5.myworkdayjobs.com](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-on-Thompson---Springdale-Arkansas/Data-Engineer-I_R0475407-1)<br><sub>recognized recruiting platform</sub> |
 | WelbeHealth | AI Engineer 1 | California | not available<br><sub>posting text not indexed</sub> | 2026-08-07 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/welbehealth/jobs/8599687002)<br><sub>recognized recruiting platform</sub> |
 | Capgemini | Frontend Developer - Mobile | Dallas, TX | not available<br><sub>posting text not indexed</sub> | 2026-08-06 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · careers.capgemini.com</sub> |
