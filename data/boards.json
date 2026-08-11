@@ -3200,6 +3200,15 @@
     },
     {
       "ats": "workday",
+      "company": "Aptiv",
+      "host": "aptiv.wd5.myworkdayjobs.com",
+      "key": "workday:aptiv.wd5.myworkdayjobs.com:aptiv:aptiv_careers",
+      "site": "aptiv_careers",
+      "slug": "aptiv",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Moder",
       "host": "archwellessentials.wd1.myworkdayjobs.com",
       "key": "workday:archwellessentials.wd1.myworkdayjobs.com:archwellessentials:modercareers",
@@ -4055,10 +4064,10 @@
     },
     {
       "ats": "workday",
-      "company": "Xfinity",
+      "company": "Comcast",
       "host": "comcast.wd5.myworkdayjobs.com",
       "key": "workday:comcast.wd5.myworkdayjobs.com:comcast:comcast_careers",
-      "site": "comcast_careers",
+      "site": "Comcast_Careers",
       "slug": "comcast",
       "wd": "wd5"
     },
@@ -5045,10 +5054,10 @@
     },
     {
       "ats": "workday",
-      "company": "HP",
+      "company": "Hewlett Packard (HP)",
       "host": "hp.wd5.myworkdayjobs.com",
       "key": "workday:hp.wd5.myworkdayjobs.com:hp:externalcareersite",
-      "site": "externalcareersite",
+      "site": "ExternalCareerSite",
       "slug": "hp",
       "wd": "wd5"
     },
@@ -7199,7 +7208,7 @@
       "company": "T-Mobile",
       "host": "tmobile.wd1.myworkdayjobs.com",
       "key": "workday:tmobile.wd1.myworkdayjobs.com:tmobile:external",
-      "site": "external",
+      "site": "External",
       "slug": "tmobile",
       "wd": "wd1"
     },
@@ -7337,6 +7346,15 @@
       "site": "uhauljobs",
       "slug": "uhaul",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "UHY",
+      "host": "uhyus.wd12.myworkdayjobs.com",
+      "key": "workday:uhyus.wd12.myworkdayjobs.com:uhyus:uhy",
+      "site": "uhy",
+      "slug": "uhyus",
+      "wd": "wd12"
     },
     {
       "ats": "workday",
