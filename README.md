@@ -9,13 +9,13 @@ feeds when possible, removes duplicates, and rebuilds the Markdown databases aut
 <!-- COUNTS:START -->
 | Recruiting cycle | Open roles |
 |---|---:|
-| [Summer 2027 US Internships](internships/summer-2027.md) | 436 |
-| [Fall 2026 US Internships](internships/fall-2026.md) | 440 |
-| [Spring 2027 US Internships](internships/spring-2027.md) | 56 |
+| [Summer 2027 US Internships](internships/summer-2027.md) | 437 |
+| [Fall 2026 US Internships](internships/fall-2026.md) | 439 |
+| [Spring 2027 US Internships](internships/spring-2027.md) | 55 |
 | [Winter 2027 US Internships](internships/winter-2027.md) | 13 |
-| [US Internships — Cycle Not Stated](internships/unscheduled.md) | 444 |
-| [2027 US New-Graduate Roles](new-grad/2027.md) | 620 |
-| [2026 US New-Graduate Roles](new-grad/2026.md) | 43 |
+| [US Internships — Cycle Not Stated](internships/unscheduled.md) | 450 |
+| [2027 US New-Graduate Roles](new-grad/2027.md) | 619 |
+| [2026 US New-Graduate Roles](new-grad/2026.md) | 41 |
 | [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1794 |
 <!-- COUNTS:END -->
 
@@ -43,7 +43,7 @@ Keryx never promotes them into eligibility gates. This distinction is also prese
 |---|---:|
 | Academic condition detected | 273 |
 | Text checked; no condition detected | 267 |
-| Complete posting text unavailable | 3306 |
+| Complete posting text unavailable | 3308 |
 
 | Detected-condition modality | Criteria |
 |---|---:|
