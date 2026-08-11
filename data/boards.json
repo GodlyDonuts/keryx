@@ -3299,6 +3299,15 @@
     },
     {
       "ats": "workday",
+      "company": "Astreya",
+      "host": "astreya.wd5.myworkdayjobs.com",
+      "key": "workday:astreya.wd5.myworkdayjobs.com:astreya:life-at-astreya-opportunities",
+      "site": "life-at-astreya-opportunities",
+      "slug": "astreya",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Arizona State University",
       "host": "asu.wd1.myworkdayjobs.com",
       "key": "workday:asu.wd1.myworkdayjobs.com:asu:asustaffcareers",
@@ -4079,6 +4088,15 @@
       "site": "conningcareers",
       "slug": "conning",
       "wd": "wd503"
+    },
+    {
+      "ats": "workday",
+      "company": "ConocoPhillips",
+      "host": "conocophillips.wd1.myworkdayjobs.com",
+      "key": "workday:conocophillips.wd1.myworkdayjobs.com:conocophillips:external",
+      "site": "External",
+      "slug": "conocophillips",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -6859,6 +6877,15 @@
       "key": "workday:silabs.wd1.myworkdayjobs.com:silabs:siliconlabscareers",
       "site": "SiliconlabsCareers",
       "slug": "silabs",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "SitusAMC",
+      "host": "situsamc.wd1.myworkdayjobs.com",
+      "key": "workday:situsamc.wd1.myworkdayjobs.com:situsamc:situsamc",
+      "site": "SitusAMC",
+      "slug": "situsamc",
       "wd": "wd1"
     },
     {
