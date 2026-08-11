@@ -2522,6 +2522,12 @@
     },
     {
       "ats": "lever",
+      "company": "Analytic Partners",
+      "key": "lever:analyticpartners",
+      "slug": "analyticpartners"
+    },
+    {
+      "ats": "lever",
       "company": "ARSIEM",
       "key": "lever:arsiem",
       "slug": "arsiem"
@@ -5177,6 +5183,15 @@
     },
     {
       "ats": "workday",
+      "company": "Insitu",
+      "host": "insitu.wd1.myworkdayjobs.com",
+      "key": "workday:insitu.wd1.myworkdayjobs.com:insitu:careers",
+      "site": "careers",
+      "slug": "insitu",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Insulet Corporation",
       "host": "insulet.wd5.myworkdayjobs.com",
       "key": "workday:insulet.wd5.myworkdayjobs.com:insulet:insuletcareers",
@@ -6890,7 +6905,7 @@
       "company": "Sony",
       "host": "sonyglobal.wd1.myworkdayjobs.com",
       "key": "workday:sonyglobal.wd1.myworkdayjobs.com:sonyglobal:sonyglobalcareers",
-      "site": "sonyglobalcareers",
+      "site": "SonyGlobalCareers",
       "slug": "sonyglobal",
       "wd": "wd1"
     },
@@ -7017,6 +7032,15 @@
       "host": "tamus.wd1.myworkdayjobs.com",
       "key": "workday:tamus.wd1.myworkdayjobs.com:tamus:system-wide_external",
       "site": "System-wide_External",
+      "slug": "tamus",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Texas A&M International University",
+      "host": "tamus.wd1.myworkdayjobs.com",
+      "key": "workday:tamus.wd1.myworkdayjobs.com:tamus:tamiu_student_employment",
+      "site": "TAMIU_Student_Employment",
       "slug": "tamus",
       "wd": "wd1"
     },
