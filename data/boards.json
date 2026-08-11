@@ -2984,6 +2984,15 @@
     },
     {
       "ats": "workday",
+      "company": "Avanade",
+      "host": "accenture.wd103.myworkdayjobs.com",
+      "key": "workday:accenture.wd103.myworkdayjobs.com:accenture:avanadecareers",
+      "site": "avanadecareers",
+      "slug": "accenture",
+      "wd": "wd103"
+    },
+    {
+      "ats": "workday",
       "company": "AAA Club Alliance",
       "host": "ace.wd5.myworkdayjobs.com",
       "key": "workday:ace.wd5.myworkdayjobs.com:ace:careers",
@@ -3317,7 +3326,7 @@
     },
     {
       "ats": "workday",
-      "company": "Autostore",
+      "company": "AutoStore",
       "host": "autostore.wd3.myworkdayjobs.com",
       "key": "workday:autostore.wd3.myworkdayjobs.com:autostore:autostore",
       "site": "autostore",
@@ -5266,6 +5275,15 @@
       "key": "workday:jci.wd5.myworkdayjobs.com:jci:jci",
       "site": "JCI",
       "slug": "jci",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Blue Yonder",
+      "host": "jda.wd5.myworkdayjobs.com",
+      "key": "workday:jda.wd5.myworkdayjobs.com:jda:jda_careers",
+      "site": "jda_careers",
+      "slug": "jda",
       "wd": "wd5"
     },
     {
