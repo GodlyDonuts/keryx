@@ -974,6 +974,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Sentry",
+      "key": "ashby:sentry",
+      "slug": "sentry"
+    },
+    {
+      "ats": "ashby",
       "company": "Serval",
       "key": "ashby:serval",
       "slug": "serval"
@@ -3820,6 +3826,15 @@
       "key": "workday:cboe.wd1.myworkdayjobs.com:cboe:external_career_cboe",
       "site": "External_Career_CBOE",
       "slug": "cboe",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "CCC Intelligent Solutions",
+      "host": "cccis.wd1.myworkdayjobs.com",
+      "key": "workday:cccis.wd1.myworkdayjobs.com:cccis:broadbean_external",
+      "site": "broadbean_external",
+      "slug": "cccis",
       "wd": "wd1"
     },
     {
