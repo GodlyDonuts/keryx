@@ -1706,6 +1706,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "General Matter",
+      "key": "greenhouse:generalmatter",
+      "slug": "generalmatter"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Geneva Trading",
       "key": "greenhouse:genevatrading",
       "slug": "genevatrading"
@@ -2162,7 +2168,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "Rocket Lab",
+      "company": "Rocket Lab USA",
       "key": "greenhouse:rocketlab",
       "slug": "rocketlab"
     },
@@ -7631,6 +7637,15 @@
       "site": "veleracareers",
       "slug": "velera",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Verizon Communications",
+      "host": "verizon.wd12.myworkdayjobs.com",
+      "key": "workday:verizon.wd12.myworkdayjobs.com:verizon:verizon-careers",
+      "site": "verizon-careers",
+      "slug": "verizon",
+      "wd": "wd12"
     },
     {
       "ats": "workday",
