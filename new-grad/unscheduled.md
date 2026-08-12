@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**1839 open roles**
+**1837 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -273,8 +273,6 @@
 | Greenwood Village South | Investment Analyst | Des Moines, IA | not available<br><sub>posting text not indexed</sub> | 2026-08-06 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · eexs.fa.us2.oraclecloud.com](https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/job/38774)<br><sub>recognized recruiting platform</sub> |
 | Halliburton | Electrical Technician 1 - Sperry Drilling | Houston, TX | not available<br><sub>posting text not indexed</sub> | 2026-08-06 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · jobs.halliburton.com</sub> |
 | IXL Learning | Associate Product Manager New Grad | San Mateo, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-06 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · www.ixl.com</sub> |
-| L3Harris Technologies | Associate Software Engineer | Sunrise, FL | not available<br><sub>posting text not indexed</sub> | 2026-08-06 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · jobs.l3harris.com</sub> |
-| L3Harris Technologies | Associate Software Engineer | Salt Lake City, UT | not available<br><sub>posting text not indexed</sub> | 2026-08-06 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | destination withheld<br><sub>single source · jobs.l3harris.com</sub> |
 | Merck | Software Engineer - AI Development | North Wales, PA, West Point, PA, Rahway, NJ | not available<br><sub>posting text not indexed</sub> | 2026-08-06 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · msd.wd5.myworkdayjobs.com](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Software-Engineer---AI-Development_R408724-1)<br><sub>recognized recruiting platform</sub> |
 | Nexstar | Engineer | Mt Pleasant, SC | not available<br><sub>posting text not indexed</sub> | 2026-08-06 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · nexstar.wd5.myworkdayjobs.com](https://nexstar.wd5.myworkdayjobs.com/nexstar/job/SC-Mount-Pleasant/Engineer_REQ-42586-1)<br><sub>recognized recruiting platform</sub> |
 | NVIDIA | Technical Product Marketing Engineer | Santa Clara, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-06 | [Workday direct](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite), [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · nvidia.wd5.myworkdayjobs.com](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-Engineer--Metropolis---New-College-Grad-2026_JR2022906-1)<br><sub>ATS checked</sub> |
