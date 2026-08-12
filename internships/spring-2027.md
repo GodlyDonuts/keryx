@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**55 open roles**
+**56 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -63,3 +63,4 @@
 | Mosaic | Operations & Automation Engineering Co-op/Intern - Spring 2027 | US - Bartow, FL | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://mosaic.wd5.myworkdayjobs.com/mosaic) | [apply · mosaic.wd5.myworkdayjobs.com](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Bartow-FL/Operations---Automation-Engineering-Co-op-Intern---Spring-2027_64675-1)<br><sub>ATS checked</sub> |
 | Mosaic | Operations Engineering Co-op/Intern – Spring 2027 | US - Riverview, FL | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://mosaic.wd5.myworkdayjobs.com/mosaic) | [apply · mosaic.wd5.myworkdayjobs.com](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Riverview-FL/Operations-Engineering-Co-op-Intern---Spring-2027_64656)<br><sub>ATS checked</sub> |
 | Mosaic | Water Balance Engineer Co-Op/Intern - Spring 2027 | US - Mulberry, FL | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://mosaic.wd5.myworkdayjobs.com/mosaic) | [apply · mosaic.wd5.myworkdayjobs.com](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Mulberry-FL/Water-Balance-Engineer-Co-Op-Intern---Spring-2027_64508-1)<br><sub>ATS checked</sub> |
+| Rockwell Automation | Spring 2027 Co-op - Embedded Software Engineer - January 2027 - August 2027 | Mayfield Heights, OH | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · rockwellautomation.wd1.myworkdayjobs.com](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Mayfield-Heights-Ohio-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473-1)<br><sub>ATS checked</sub> |
