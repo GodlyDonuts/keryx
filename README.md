@@ -9,14 +9,14 @@ feeds when possible, removes duplicates, and rebuilds the Markdown databases aut
 <!-- COUNTS:START -->
 | Recruiting cycle | Open roles |
 |---|---:|
-| [Summer 2027 US Internships](internships/summer-2027.md) | 458 |
-| [Fall 2026 US Internships](internships/fall-2026.md) | 446 |
-| [Spring 2027 US Internships](internships/spring-2027.md) | 55 |
+| [Summer 2027 US Internships](internships/summer-2027.md) | 463 |
+| [Fall 2026 US Internships](internships/fall-2026.md) | 445 |
+| [Spring 2027 US Internships](internships/spring-2027.md) | 57 |
 | [Winter 2027 US Internships](internships/winter-2027.md) | 19 |
-| [US Internships — Cycle Not Stated](internships/unscheduled.md) | 469 |
-| [2027 US New-Graduate Roles](new-grad/2027.md) | 628 |
-| [2026 US New-Graduate Roles](new-grad/2026.md) | 40 |
-| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1824 |
+| [US Internships — Cycle Not Stated](internships/unscheduled.md) | 478 |
+| [2027 US New-Graduate Roles](new-grad/2027.md) | 622 |
+| [2026 US New-Graduate Roles](new-grad/2026.md) | 54 |
+| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1811 |
 <!-- COUNTS:END -->
 
 The Markdown files are the product: open them directly on GitHub, search them, bookmark them, or
@@ -42,8 +42,8 @@ Keryx never promotes them into eligibility gates. This distinction is also prese
 | Current posting-text coverage | Open roles |
 |---|---:|
 | Academic condition detected | 276 |
-| Text checked; no condition detected | 264 |
-| Complete posting text unavailable | 3399 |
+| Text checked; no condition detected | 265 |
+| Complete posting text unavailable | 3408 |
 
 | Detected-condition modality | Criteria |
 |---|---:|
