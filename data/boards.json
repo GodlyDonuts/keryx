@@ -1376,6 +1376,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Blend",
+      "key": "greenhouse:blend",
+      "slug": "blend"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Blue Sky Innovators",
       "key": "greenhouse:blueskyinnovators",
       "slug": "blueskyinnovators"
@@ -3362,7 +3368,7 @@
       "company": "Autodesk",
       "host": "autodesk.wd1.myworkdayjobs.com",
       "key": "workday:autodesk.wd1.myworkdayjobs.com:autodesk:ext",
-      "site": "Ext",
+      "site": "ext",
       "slug": "autodesk",
       "wd": "wd1"
     },
