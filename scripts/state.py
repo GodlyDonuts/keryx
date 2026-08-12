@@ -79,6 +79,8 @@ def _source(observation: Observation) -> dict[str, str]:
 
 
 def _link_status(sources: list[dict[str, str]], url: str) -> str:
+    if not url:
+        return "unverified"
     source_ids = {str(source.get("id", "")) for source in sources}
     if any(source_id.startswith("ats:") for source_id in source_ids):
         return "ats-verified"
@@ -86,7 +88,7 @@ def _link_status(sources: list[dict[str, str]], url: str) -> str:
         return "cross-source"
     if is_recruiting_platform_url(url):
         return "platform-structured"
-    return "unverified"
+    return "source-reported"
 
 
 def _protect_link(job: dict[str, Any], sources: list[dict[str, str]], raw_url: str) -> None:

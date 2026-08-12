@@ -28,7 +28,7 @@ def role(
 
 
 class StateTests(unittest.TestCase):
-    def test_single_source_custom_domain_is_not_published(self) -> None:
+    def test_single_source_custom_domain_is_published(self) -> None:
         state = merge_state(
             {"jobs": []},
             [role(url="https://careers.example.com/jobs/123")],
@@ -36,9 +36,9 @@ class StateTests(unittest.TestCase):
             today="2026-08-01",
         )
         job = state["jobs"][0]
-        self.assertIsNone(job["url"])
+        self.assertEqual(job["url"], "https://careers.example.com/jobs/123")
         self.assertEqual(job["url_host"], "careers.example.com")
-        self.assertEqual(job["link_status"], "unverified")
+        self.assertEqual(job["link_status"], "source-reported")
         self.assertNotIn("_candidate_url", job)
 
     def test_structured_recruiting_platform_link_is_published(self) -> None:

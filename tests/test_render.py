@@ -128,6 +128,46 @@ class RenderTests(unittest.TestCase):
         self.assertNotIn("](https://evil.example)", summer)
         self.assertNotIn("password", summer)
 
+    def test_source_reported_destination_is_rendered_as_a_link(self) -> None:
+        url = "https://jobs.bytedance.com/en/position/123/detail"
+        payload: dict[str, Any] = {
+            "jobs": [
+                {
+                    "id": "job_reported",
+                    "company": "ByteDance",
+                    "title": "Software Engineer Intern",
+                    "location": "San Jose, CA",
+                    "url": url,
+                    "url_host": "jobs.bytedance.com",
+                    "url_fingerprint": hashlib.sha256(url.encode()).hexdigest()[:24],
+                    "link_status": "source-reported",
+                    "program": "internship",
+                    "cycle": "summer-2027",
+                    "posted_at": "2026-08-01",
+                    "status": "open",
+                    "sources": [
+                        {
+                            "id": "simplify-internships",
+                            "label": "Simplify",
+                            "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+                        }
+                    ],
+                }
+            ]
+        }
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / "README.md").write_text(
+                "<!-- COUNTS:START -->\nold\n<!-- COUNTS:END -->\n"
+                "<!-- ACADEMIC-COVERAGE:START -->\nold\n<!-- ACADEMIC-COVERAGE:END -->\n",
+                encoding="utf-8",
+            )
+            render_repository(root, payload, [])
+            summer = (root / "internships/summer-2027.md").read_text(encoding="utf-8")
+
+        self.assertIn(f"]({url})", summer)
+        self.assertIn("source reported", summer)
+
     def test_render_refuses_an_unverified_clickable_url(self) -> None:
         payload: dict[str, Any] = {
             "jobs": [

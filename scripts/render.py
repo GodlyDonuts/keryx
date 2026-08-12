@@ -32,7 +32,9 @@ _DATABASES = (
         "US New-Graduate Roles — Cycle Not Stated",
     ),
 )
-_LINK_STATUSES = frozenset({"ats-verified", "cross-source", "platform-structured", "unverified"})
+_LINK_STATUSES = frozenset(
+    {"ats-verified", "cross-source", "platform-structured", "source-reported", "unverified"}
+)
 _ACADEMIC_STATUSES = frozenset(
     {
         "explicit-date",
@@ -349,6 +351,12 @@ def _validate_publishable_jobs(jobs: list[dict[str, Any]]) -> None:
             raise ValueError(f"{identifier} has an invalid recruiting-platform URL")
         if status == "platform-structured" and len(source_ids) != 1:
             raise ValueError(f"{identifier} has invalid recruiting-platform provenance")
+        if status == "source-reported" and (
+            len(source_ids) != 1
+            or any(source_id.startswith("ats:") for source_id in source_ids)
+            or is_recruiting_platform_url(raw_url)
+        ):
+            raise ValueError(f"{identifier} has invalid source-reported provenance")
 
 
 def render_repository(
