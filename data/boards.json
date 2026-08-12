@@ -1316,6 +1316,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Assured Guaranty",
+      "key": "greenhouse:assuredguaranty",
+      "slug": "assuredguaranty"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Assyst",
       "key": "greenhouse:assystinc",
       "slug": "assystinc"
@@ -5309,7 +5315,7 @@
     },
     {
       "ats": "workday",
-      "company": "Intuitive Research and Technology Corporation",
+      "company": "Intuitive Research and Technology",
       "host": "intuitive.wd1.myworkdayjobs.com",
       "key": "workday:intuitive.wd1.myworkdayjobs.com:intuitive:irtc_careers",
       "site": "irtc_careers",
@@ -5989,6 +5995,15 @@
       "key": "workday:nelnet.wd1.myworkdayjobs.com:nelnet:mynelnet",
       "site": "MyNelnet",
       "slug": "nelnet",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "New Balance",
+      "host": "newbalance.wd1.myworkdayjobs.com",
+      "key": "workday:newbalance.wd1.myworkdayjobs.com:newbalance:careers",
+      "site": "careers",
+      "slug": "newbalance",
       "wd": "wd1"
     },
     {
