@@ -2504,6 +2504,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "XPENG Motors",
+      "key": "greenhouse:xpengmotors",
+      "slug": "xpengmotors"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Zone 5 Technologies",
       "key": "greenhouse:zone5technologies",
       "slug": "zone5technologies"
@@ -4010,6 +4016,15 @@
     },
     {
       "ats": "workday",
+      "company": "Cigna Group",
+      "host": "cigna.wd5.myworkdayjobs.com",
+      "key": "workday:cigna.wd5.myworkdayjobs.com:cigna:cignacareers",
+      "site": "cignacareers",
+      "slug": "cigna",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Cincinnati Children\u2019s",
       "host": "cincinnatichildrens.wd5.myworkdayjobs.com",
       "key": "workday:cincinnatichildrens.wd5.myworkdayjobs.com:cincinnatichildrens:careersatcincinnatichildrens",
@@ -4187,6 +4202,15 @@
       "site": "CoxHealth_External",
       "slug": "coxhealth",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Creation Technologies",
+      "host": "creationtech.wd1.myworkdayjobs.com",
+      "key": "workday:creationtech.wd1.myworkdayjobs.com:creationtech:creation",
+      "site": "Creation",
+      "slug": "creationtech",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -5042,6 +5066,15 @@
       "site": "search",
       "slug": "healthcare",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Heidelberg Materials",
+      "host": "heidelbergmaterials.wd3.myworkdayjobs.com",
+      "key": "workday:heidelbergmaterials.wd3.myworkdayjobs.com:heidelbergmaterials:global_hm_career_site",
+      "site": "global_hm_career_site",
+      "slug": "heidelbergmaterials",
+      "wd": "wd3"
     },
     {
       "ats": "workday",

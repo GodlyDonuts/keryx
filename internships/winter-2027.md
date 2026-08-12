@@ -4,10 +4,11 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**14 open roles**
+**15 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
+| American Fidelity | Software Dev Internship | Oklahoma City, Oklahoma | not available<br><sub>posting text not indexed</sub> | 2026-08-12 | [Workday direct](https://americanfidelity.wd5.myworkdayjobs.com/External), [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · americanfidelity.wd5.myworkdayjobs.com](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005)<br><sub>ATS checked</sub> |
 | UHY | Data Operations Intern | Kansas City, MO | not available<br><sub>posting text not indexed</sub> | 2026-08-11 | [Workday direct](https://uhyus.wd12.myworkdayjobs.com/uhy), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · uhyus.wd12.myworkdayjobs.com](https://uhyus.wd12.myworkdayjobs.com/uhy/job/Kansas-City-MO/XMLNAME-2027-Data-Operations-Winter-Internship---Kansas-City_JR102226)<br><sub>ATS checked</sub> |
 | Figma | Software Engineer Intern (Winter 2027) | San Francisco, CA • New York, NY | not stated<br><sub>direct ATS text · checked 2026-08-12</sub> | 2026-08-10 | [Greenhouse direct](https://job-boards.greenhouse.io/figma), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · boards.greenhouse.io](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004)<br><sub>ATS checked</sub> |
 | Mujin | Software Integration Intern | Suwanee, GA | not available<br><sub>posting text not indexed</sub> | 2026-08-10 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · mujin.bamboohr.com](https://mujin.bamboohr.com/careers/166)<br><sub>recognized recruiting platform</sub> |
