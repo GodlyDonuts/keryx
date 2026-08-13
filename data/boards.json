@@ -1100,6 +1100,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Uniswap Labs",
+      "key": "ashby:uniswap",
+      "slug": "uniswap"
+    },
+    {
+      "ats": "ashby",
       "company": "Unlimited",
       "key": "ashby:unlimitedindustries",
       "slug": "unlimitedindustries"
@@ -1979,6 +1985,12 @@
       "company": "New Era Technology",
       "key": "greenhouse:neweratech",
       "slug": "neweratech"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "New Relic",
+      "key": "greenhouse:newrelic",
+      "slug": "newrelic"
     },
     {
       "ats": "greenhouse",
@@ -4190,6 +4202,15 @@
     },
     {
       "ats": "workday",
+      "company": "Copeland",
+      "host": "copeland.wd5.myworkdayjobs.com",
+      "key": "workday:copeland.wd5.myworkdayjobs.com:copeland:copeland_external_careers_page",
+      "site": "copeland_external_careers_page",
+      "slug": "copeland",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Core & Main",
       "host": "coreandmain.wd1.myworkdayjobs.com",
       "key": "workday:coreandmain.wd1.myworkdayjobs.com:coreandmain:coreandmain",
@@ -5042,6 +5063,15 @@
       "site": "external",
       "slug": "guidehouse",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Guidewire",
+      "host": "guidewire.wd5.myworkdayjobs.com",
+      "key": "workday:guidewire.wd5.myworkdayjobs.com:guidewire:external",
+      "site": "external",
+      "slug": "guidewire",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
@@ -7586,7 +7616,7 @@
       "company": "U.S. Bank",
       "host": "usbank.wd1.myworkdayjobs.com",
       "key": "workday:usbank.wd1.myworkdayjobs.com:usbank:us_bank_careers",
-      "site": "US_Bank_Careers",
+      "site": "us_bank_careers",
       "slug": "usbank",
       "wd": "wd1"
     },
