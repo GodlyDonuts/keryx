@@ -1820,7 +1820,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "impact.com",
+      "company": "Impact",
       "key": "greenhouse:impact",
       "slug": "impact"
     },
@@ -2201,6 +2201,12 @@
       "company": "Samsung Research America",
       "key": "greenhouse:samsungresearchamericainternship",
       "slug": "samsungresearchamericainternship"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "SchoolMint",
+      "key": "greenhouse:schoolmint",
+      "slug": "schoolmint"
     },
     {
       "ats": "greenhouse",
@@ -3617,7 +3623,7 @@
       "company": "BlackRock",
       "host": "blackrock.wd1.myworkdayjobs.com",
       "key": "workday:blackrock.wd1.myworkdayjobs.com:blackrock:blackrock_professional",
-      "site": "blackrock_professional",
+      "site": "BlackRock_Professional",
       "slug": "blackrock",
       "wd": "wd1"
     },
