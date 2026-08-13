@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**492 open roles**
+**491 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -209,7 +209,6 @@
 | Palantir | Product Designer, Internship | New York, NY | Expected 2028 graduation<br><sub>graduation: required · direct ATS text · checked 2026-08-13</sub> | 2019-10-10 | [Lever direct](https://jobs.lever.co/palantir) | [apply · jobs.lever.co](https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6)<br><sub>ATS checked</sub> |
 | Palantir | Privacy and Civil Liberties Software Engineer, Internship | New York, NY | Expected 2027 graduation<br><sub>graduation: required · direct ATS text · checked 2026-08-13</sub> | 2016-10-06 | [Lever direct](https://jobs.lever.co/palantir) | [apply · jobs.lever.co](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b)<br><sub>ATS checked</sub> |
 | Palantir | Forward Deployed Software Engineer, Internship - Commercial | New York, NY | Dec 2027–Spring 2028<br><sub>graduation: required · direct ATS text · checked 2026-08-13</sub> | 2016-02-24 | [Lever direct](https://jobs.lever.co/palantir) | [apply · jobs.lever.co](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6)<br><sub>ATS checked</sub> |
-| Abbott | Research Park Intern - Student Researcher | United States &gt; Champaign : Atkins Building | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://abbott.wd5.myworkdayjobs.com/abbottcareers) | [apply · abbott.wd5.myworkdayjobs.com](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Champaign--Atkins-Building/Research-Park-Intern---Student-Researcher_31142332)<br><sub>ATS checked</sub> |
 | Agilent Technologies | Electrical Engineering Intern | US-DE-Wilmington | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers) | [apply · agilent.wd5.myworkdayjobs.com](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Electrical-Engineering-Intern_4038526)<br><sub>ATS checked</sub> |
 | Allstate Insurance Company | Pricing Actuarial Analyst Intern | USA - IL (Remote) | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://allstate.wd5.myworkdayjobs.com/allstate_careers) | [apply · allstate.wd5.myworkdayjobs.com](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433)<br><sub>ATS checked</sub> |
 | Amentum | Intern - Digital and Logic Design Engineer Fall Intern | US-AL-Huntsville | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://pae.wd1.myworkdayjobs.com/amentum_careers) | [apply · pae.wd1.myworkdayjobs.com](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Intern---Digital-and-Logic-Design-Engineer-Fall-Intern_R0167259)<br><sub>ATS checked</sub> |
