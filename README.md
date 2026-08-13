@@ -9,14 +9,14 @@ feeds when possible, removes duplicates, and rebuilds the Markdown databases aut
 <!-- COUNTS:START -->
 | Recruiting cycle | Open roles |
 |---|---:|
-| [Summer 2027 US Internships](internships/summer-2027.md) | 481 |
-| [Fall 2026 US Internships](internships/fall-2026.md) | 444 |
+| [Summer 2027 US Internships](internships/summer-2027.md) | 483 |
+| [Fall 2026 US Internships](internships/fall-2026.md) | 445 |
 | [Spring 2027 US Internships](internships/spring-2027.md) | 57 |
 | [Winter 2027 US Internships](internships/winter-2027.md) | 15 |
 | [US Internships — Cycle Not Stated](internships/unscheduled.md) | 483 |
 | [2027 US New-Graduate Roles](new-grad/2027.md) | 609 |
 | [2026 US New-Graduate Roles](new-grad/2026.md) | 41 |
-| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1897 |
+| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1908 |
 <!-- COUNTS:END -->
 
 The Markdown files are the product: open them directly on GitHub, search them, bookmark them, or
@@ -43,7 +43,7 @@ Keryx never promotes them into eligibility gates. This distinction is also prese
 |---|---:|
 | Academic condition detected | 270 |
 | Text checked; no condition detected | 268 |
-| Complete posting text unavailable | 3489 |
+| Complete posting text unavailable | 3503 |
 
 | Detected-condition modality | Criteria |
 |---|---:|

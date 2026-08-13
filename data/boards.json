@@ -4598,6 +4598,15 @@
     },
     {
       "ats": "workday",
+      "company": "Exelixis",
+      "host": "exelixis.wd1.myworkdayjobs.com",
+      "key": "workday:exelixis.wd1.myworkdayjobs.com:exelixis:exel",
+      "site": "exel",
+      "slug": "exelixis",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Expedia Group",
       "host": "expedia.wd108.myworkdayjobs.com",
       "key": "workday:expedia.wd108.myworkdayjobs.com:expedia:private",
@@ -5549,6 +5558,15 @@
       "site": "External",
       "slug": "leidos",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Lennar Corporation",
+      "host": "lennar.wd1.myworkdayjobs.com",
+      "key": "workday:lennar.wd1.myworkdayjobs.com:lennar:lennar_jobs",
+      "site": "Lennar_Jobs",
+      "slug": "lennar",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -6767,10 +6785,10 @@
     },
     {
       "ats": "workday",
-      "company": "ResMed",
+      "company": "Resmed",
       "host": "resmed.wd3.myworkdayjobs.com",
       "key": "workday:resmed.wd3.myworkdayjobs.com:resmed:resmed_external_careers",
-      "site": "resmed_external_careers",
+      "site": "ResMed_External_Careers",
       "slug": "resmed",
       "wd": "wd3"
     },

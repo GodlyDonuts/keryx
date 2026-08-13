@@ -4,10 +4,12 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**481 open roles**
+**483 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
+| ByteDance | Self-Built Engineer Intern - CDN Platform | San Jose, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · jobs.bytedance.com](https://jobs.bytedance.com/en/position/7670364362450733317/detail)<br><sub>source reported</sub> |
+| TikTok | Product Operations Intern - TikTok Shop Apps and API | Seattle, WA | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · lifeattiktok.com](https://lifeattiktok.com/search/7669705525866383621)<br><sub>source reported</sub> |
 | GE Vernova | Engineering Intern | Niskayuna, NY | not available<br><sub>posting text not indexed</sub> | 2026-08-12 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · gevernova.wd5.myworkdayjobs.com](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2)<br><sub>recognized recruiting platform</sub> |
 | GE Vernova | Engineering Intern | Niskayuna, NY | not available<br><sub>posting text not indexed</sub> | 2026-08-12 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · gevernova.wd5.myworkdayjobs.com](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-1)<br><sub>recognized recruiting platform</sub> |
 | Northrop Grumman | Software Engineer Intern - Aeronautics Systems | Melbourne, FL | not available<br><sub>posting text not indexed</sub> | 2026-08-12 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · ngc.wd1.myworkdayjobs.com](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255)<br><sub>cross-checked</sub> |
