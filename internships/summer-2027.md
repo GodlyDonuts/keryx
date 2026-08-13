@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**495 open roles**
+**496 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | New York, New York, United States (Remote) | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply · jobs.smartrecruiters.com](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594)<br><sub>recognized recruiting platform</sub> |
 | InfiniteQuant | Quantitative Researcher - Internship - Summer 2027 | New York, NY, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply · jobs.smartrecruiters.com](https://jobs.smartrecruiters.com/InfiniteQuant/744000143292044)<br><sub>recognized recruiting platform</sub> |
 | InfiniteQuant | Quantitative Researcher - Internship - Summer 2027 | New York, NY, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply · jobs.smartrecruiters.com](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421)<br><sub>recognized recruiting platform</sub> |
+| RTX | Methods Intern - Hot Section Engineering | East Hartford, CT | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · globalhr.wd5.myworkdayjobs.com](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Intern---Hot-Section-Engineering--Summer-2027---Onsite-_01864520)<br><sub>recognized recruiting platform</sub> |
 | Specter Aerospace | Full Stack Developer Co-op | Boston, MA, Peabody, MA | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · specteraerospace.bamboohr.com](https://specteraerospace.bamboohr.com/careers/122)<br><sub>recognized recruiting platform</sub> |
 | TikTok | Data Science Intern - Advertisement Team | San Jose, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · lifeattiktok.com](https://lifeattiktok.com/search/7673226686054107445)<br><sub>source reported</sub> |
 | TikTok | Product Operations Intern - TikTok Shop Apps and API | Seattle, WA | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · lifeattiktok.com](https://lifeattiktok.com/search/7669705525866383621)<br><sub>source reported</sub> |
