@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**491 open roles**
+**493 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -202,6 +202,8 @@
 | Neuralink | Software Engineer Intern, Infrastructure | South San Francisco, California, United States | not stated<br><sub>direct ATS text · checked 2026-08-13</sub> | 2024-06-13 | [Greenhouse direct](https://job-boards.greenhouse.io/neuralink) | [apply · boards.greenhouse.io](https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003)<br><sub>ATS checked</sub> |
 | N1 | Growth Intern | New York City | not stated<br><sub>direct ATS text · checked 2026-08-13</sub> | 2024-05-20 | [Ashby direct](https://jobs.ashbyhq.com/n1) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/n1/7511c4e9-ac1e-476f-8d84-6055cd3d6eba)<br><sub>ATS checked</sub> |
 | Databricks | PhD GenAI Research Scientist Intern | San Francisco, California | Current student status<br><sub>enrollment: stated · direct ATS text · checked 2026-08-13</sub> | 2023-11-07 | [Greenhouse direct](https://job-boards.greenhouse.io/databricks) | [apply · databricks.com](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002)<br><sub>ATS checked</sub> |
+| WorldQuant | Data Science Intern | Beijing OR Shanghai | Current student status<br><sub>enrollment: stated · direct ATS text · checked 2026-08-13</sub> | 2023-08-22 | [Greenhouse direct](https://job-boards.greenhouse.io/worldquant) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/worldquant/jobs/4069460006)<br><sub>ATS checked</sub> |
+| WorldQuant | Quantitative Research Intern | Beijing OR Shanghai | 2027–2028<br><sub>graduation: stated · direct ATS text · checked 2026-08-13</sub> | 2023-08-22 | [Greenhouse direct](https://job-boards.greenhouse.io/worldquant) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/worldquant/jobs/4084570006)<br><sub>ATS checked</sub> |
 | Palantir | Forward Deployed Software Engineer, Internship - US Government | New York, NY | Expected 2028 graduation<br><sub>graduation: required · direct ATS text · checked 2026-08-13</sub> | 2022-06-30 | [Lever direct](https://jobs.lever.co/palantir) | [apply · jobs.lever.co](https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f)<br><sub>ATS checked</sub> |
 | Palantir | Software Engineer, Internship | New York, NY | Expected 2028 graduation<br><sub>graduation: required · direct ATS text · checked 2026-08-13</sub> | 2022-06-30 | [Lever direct](https://jobs.lever.co/palantir) | [apply · jobs.lever.co](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d)<br><sub>ATS checked</sub> |
 | Palantir | Forward Deployed Software Engineer, Internship - US Government | Washington, D.C | Expected 2028 graduation<br><sub>graduation: required · direct ATS text · checked 2026-08-13</sub> | 2021-07-01 | [Lever direct](https://jobs.lever.co/palantir) | [apply · jobs.lever.co](https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2)<br><sub>ATS checked</sub> |
