@@ -14,9 +14,9 @@ feeds when possible, removes duplicates, and rebuilds the Markdown databases aut
 | [Spring 2027 US Internships](internships/spring-2027.md) | 59 |
 | [Winter 2027 US Internships](internships/winter-2027.md) | 15 |
 | [US Internships — Cycle Not Stated](internships/unscheduled.md) | 483 |
-| [2027 US New-Graduate Roles](new-grad/2027.md) | 610 |
-| [2026 US New-Graduate Roles](new-grad/2026.md) | 41 |
-| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1925 |
+| [2027 US New-Graduate Roles](new-grad/2027.md) | 611 |
+| [2026 US New-Graduate Roles](new-grad/2026.md) | 43 |
+| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1918 |
 <!-- COUNTS:END -->
 
 The Markdown files are the product: open them directly on GitHub, search them, bookmark them, or
@@ -41,15 +41,15 @@ Keryx never promotes them into eligibility gates. This distinction is also prese
 <!-- ACADEMIC-COVERAGE:START -->
 | Current posting-text coverage | Open roles |
 |---|---:|
-| Academic condition detected | 269 |
+| Academic condition detected | 270 |
 | Text checked; no condition detected | 268 |
-| Complete posting text unavailable | 3536 |
+| Complete posting text unavailable | 3531 |
 
 | Detected-condition modality | Criteria |
 |---|---:|
 | Required | 129 |
 | Preferred | 10 |
-| Stated without clear modality | 183 |
+| Stated without clear modality | 184 |
 <!-- ACADEMIC-COVERAGE:END -->
 
 These counts describe the current index, not applicants. A role can contribute multiple criteria
