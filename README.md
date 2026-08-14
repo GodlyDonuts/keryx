@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,516 internships · 2,641 new-grad roles · 4,157 total openings**
+**1,523 internships · 2,638 new-grad roles · 4,161 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 513 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 444 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 61 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 15 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 483 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 514 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 443 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 62 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 16 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 488 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 632 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 43 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,966 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 628 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 54 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,956 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Just posted: internships
@@ -44,7 +44,7 @@ The newest internship and co-op listings across every recruiting term.
 | Crowe | AI Project Coordinator Intern | Chicago IL USA | Not listed | not available | 2026-08-14 | **[Apply →](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Project-Coordinator-Intern_R-71007)**<br><sub>crowe.wd12.myworkdayjobs.com</sub> |
 | Generac | Intern Firmware Engineering | Reno, NV - USA | Not listed | not available | 2026-08-14 | **[Apply →](https://generac.wd5.myworkdayjobs.com/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149)**<br><sub>generac.wd5.myworkdayjobs.com</sub> |
 | GSK | AI Commercial Strategy & Activation Co-op - AI Strike Team | Durham, NC | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://gsk-us-earlytalent.icims.com/jobs/10444/job?mobile=true&needsRedirect=false)**<br><sub>gsk-us-earlytalent.icims.com</sub> |
-| KeyBank | 2027 Summer Analytics and Quantitative Modeling Internship- Cleveland | Cleveland, OH | Summer 2027 | not available | 2026-08-14 | **[Apply →](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380)**<br><sub>keybank.wd5.myworkdayjobs.com</sub> |
+| KeyBank | Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling | Cleveland, OH | Summer 2027 | not available | 2026-08-14 | **[Apply →](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380)**<br><sub>keybank.wd5.myworkdayjobs.com</sub> |
 | Magnera | Data Analyst Intern - Information Technology | Evansville, IN | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://careers-magnera.icims.com/jobs/27241/job?mobile=true&needsRedirect=false)**<br><sub>careers-magnera.icims.com</sub> |
 | MaxLinear | AI Intern | Carlsbad, CA | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://careersus-maxlinear.icims.com/jobs/3049/job?mobile=true&needsRedirect=false)**<br><sub>careersus-maxlinear.icims.com</sub> |
 | Motorola | Android Platform Software Engineering Intern - Summer 2027 | Plantation, FL, More | Summer 2027 | not available | 2026-08-14 | **[Apply →](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1)**<br><sub>motorolasolutions.wd5.myworkdayjobs.com</sub> |
