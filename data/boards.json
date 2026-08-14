@@ -2972,6 +2972,12 @@
     },
     {
       "ats": "lever",
+      "company": "WeRide",
+      "key": "lever:weride",
+      "slug": "weride"
+    },
+    {
+      "ats": "lever",
       "company": "WISEcode",
       "key": "lever:wisecode",
       "slug": "wisecode"
@@ -3281,6 +3287,15 @@
       "site": "aptiv_careers",
       "slug": "aptiv",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Arkansas Children's",
+      "host": "archildrens.wd1.myworkdayjobs.com",
+      "key": "workday:archildrens.wd1.myworkdayjobs.com:archildrens:external_career_site",
+      "site": "external_career_site",
+      "slug": "archildrens",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -4481,6 +4496,15 @@
     },
     {
       "ats": "workday",
+      "company": "Dutch Bros",
+      "host": "dutchbros.wd1.myworkdayjobs.com",
+      "key": "workday:dutchbros.wd1.myworkdayjobs.com:dutchbros:dbshops",
+      "site": "DBShops",
+      "slug": "dutchbros",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Eastern Shipbuilding Group",
       "host": "easternshipbuilding.wd12.myworkdayjobs.com",
       "key": "workday:easternshipbuilding.wd12.myworkdayjobs.com:easternshipbuilding:easternshipbuildinggroupsystem",
@@ -5423,6 +5447,15 @@
       "site": "careers",
       "slug": "insitu",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Insperity",
+      "host": "insperity.wd12.myworkdayjobs.com",
+      "key": "workday:insperity.wd12.myworkdayjobs.com:insperity:nsp",
+      "site": "NSP",
+      "slug": "insperity",
+      "wd": "wd12"
     },
     {
       "ats": "workday",
@@ -7100,6 +7133,15 @@
     },
     {
       "ats": "workday",
+      "company": "Sentry Insurance",
+      "host": "sentryinsurance.wd1.myworkdayjobs.com",
+      "key": "workday:sentryinsurance.wd1.myworkdayjobs.com:sentryinsurance:sentrycareers",
+      "site": "SentryCareers",
+      "slug": "sentryinsurance",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "SHI",
       "host": "shi.wd12.myworkdayjobs.com",
       "key": "workday:shi.wd12.myworkdayjobs.com:shi:shicareers",
@@ -7142,6 +7184,15 @@
       "site": "SLUHN",
       "slug": "sluhn",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Smith+Nephew",
+      "host": "smithnephew.wd5.myworkdayjobs.com",
+      "key": "workday:smithnephew.wd5.myworkdayjobs.com:smithnephew:external",
+      "site": "External",
+      "slug": "smithnephew",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
@@ -7577,6 +7628,15 @@
     },
     {
       "ats": "workday",
+      "company": "University Corporation for Atmospheric Research",
+      "host": "ucar.wd5.myworkdayjobs.com",
+      "key": "workday:ucar.wd5.myworkdayjobs.com:ucar:ucar_careers",
+      "site": "UCAR_Careers",
+      "slug": "ucar",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "University of Chicago",
       "host": "uchicago.wd5.myworkdayjobs.com",
       "key": "workday:uchicago.wd5.myworkdayjobs.com:uchicago:external",
@@ -7989,6 +8049,15 @@
       "site": "wellsfargojobs",
       "slug": "wf",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "World Kinect",
+      "host": "wfscorp.wd5.myworkdayjobs.com",
+      "key": "workday:wfscorp.wd5.myworkdayjobs.com:wfscorp:wfscareers",
+      "site": "wfscareers",
+      "slug": "wfscorp",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
