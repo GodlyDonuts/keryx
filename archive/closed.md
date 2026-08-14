@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**1864 closed roles**
+**1865 closed roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -1570,6 +1570,7 @@
 | Joby Aviation | Software Verification Engineer - Operations | Santa Cruz, CA | not available<br><sub>posting text not indexed</sub> | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · careers-jobyaviation.icims.com](https://careers-jobyaviation.icims.com/jobs/5252/software-verification-engineer%2c-operations/job)<br><sub>recognized recruiting platform</sub> |
 | KBR | Full Stack Software Engineer - DevOps Focus | Beavercreek, OH | not available<br><sub>posting text not indexed</sub> | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · kbr.wd5.myworkdayjobs.com](https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Beavercreek-Ohio/Full-Stack-Software-Engineer--DevOps-Focus-_R2127488-1)<br><sub>recognized recruiting platform</sub> |
 | KBR | Junior Software Integration Engineer | Beavercreek, OH | not available<br><sub>posting text not indexed</sub> | — | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · kbr.wd5.myworkdayjobs.com](https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Beavercreek-Ohio/Junior-Software-Integration-Engineer_R2127834)<br><sub>cross-checked</sub> |
+| KBR | Mechanical Engineering Intern | Las Cruces, New Mexico | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://kbr.wd5.myworkdayjobs.com/KBR_Careers) | [apply · kbr.wd5.myworkdayjobs.com](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Las-Cruces-New-Mexico/Mechanical-Engineering-Intern_R2127930)<br><sub>ATS checked</sub> |
 | Ketch | Backend Software Engineer | San Francisco, CA | not available<br><sub>posting text not indexed</sub> | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · jobs.lever.co](https://jobs.lever.co/Ketch/043266ee-ec94-4ae0-be8a-bc4e01bb901e)<br><sub>recognized recruiting platform</sub> |
 | Kimley-Horn | Software Analyst | Peachtree Corners, GA | not available<br><sub>posting text not indexed</sub> | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · careers-kimley-horn.icims.com](https://careers-kimley-horn.icims.com/jobs/25695/software-analyst/job)<br><sub>recognized recruiting platform</sub> |
 | Kimley-Horn | Software Analyst | Phoenix, AZ | not available<br><sub>posting text not indexed</sub> | — | [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · careers-kimley-horn.icims.com](https://careers-kimley-horn.icims.com/jobs/25698/software-analyst/job)<br><sub>recognized recruiting platform</sub> |
