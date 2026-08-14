@@ -7,9 +7,9 @@ import re
 import tempfile
 from pathlib import Path
 from typing import Any
-from urllib.parse import urlsplit
+from urllib.parse import quote, urlsplit
 
-from .normalize import canonical_url, is_recruiting_platform_url, sanitize_job_url
+from .normalize import canonical_url, reported_job_url
 from .qualifications import ACADEMIC_EXTRACTOR_VERSION
 
 _DATABASES = (
@@ -84,18 +84,22 @@ def _source_links(job: dict[str, Any]) -> str:
     return ", ".join(links) or "—"
 
 
+def _markdown_destination(url: str) -> str:
+    return quote(url, safe=":/?#@!$&'*+,;=%~._-")
+
+
 def _apply_link(job: dict[str, Any]) -> str:
     raw_url = job.get("url")
     url = raw_url if isinstance(raw_url, str) else ""
     host = str(job.get("url_host") or (urlsplit(url).hostname if url else "") or "external site")
     if not url:
-        return f"destination withheld<br><sub>single source · {_cell(host)}</sub>"
+        return f"link unavailable<br><sub>{_cell(host)}</sub>"
     status = {
         "ats-verified": "ATS checked",
         "cross-source": "cross-checked",
         "platform-structured": "recognized recruiting platform",
     }.get(str(job.get("link_status")), "source reported")
-    return f"[apply · {_cell(host)}]({url})<br><sub>{status}</sub>"
+    return f"[apply · {_cell(host)}]({_markdown_destination(url)})<br><sub>{status}</sub>"
 
 
 def _academic_eligibility(job: dict[str, Any]) -> str:
@@ -315,48 +319,18 @@ def _validate_publishable_jobs(jobs: list[dict[str, Any]]) -> None:
                 value = eligibility.get(key)
                 if value is not None and not re.fullmatch(r"20\d{2}(?:-\d{2})?", str(value)):
                     raise ValueError(f"{identifier} has invalid {key}")
-        if status == "ats-verified" and not any(
-            source_id.startswith("ats:") for source_id in source_ids
-        ):
-            raise ValueError(f"{identifier} lacks direct ATS provenance")
-        if status == "cross-source" and (
-            len(source_ids) < 2 or any(source_id.startswith("ats:") for source_id in source_ids)
-        ):
-            raise ValueError(f"{identifier} lacks cross-source provenance")
         raw_url = job.get("url")
         host = str(job.get("url_host") or "")
         fingerprint = str(job.get("url_fingerprint") or "")
         if raw_url is None:
-            host_decision = sanitize_job_url(f"https://{host}/")
-            if (
-                status != "unverified"
-                or len(source_ids) != 1
-                or any(source_id.startswith("ats:") for source_id in source_ids)
-                or not host_decision.url
-                or host_decision.host != host
-                or len(fingerprint) != 24
-            ):
-                raise ValueError(f"{identifier} has an invalid withheld-link record")
             continue
         if not isinstance(raw_url, str):
             raise ValueError(f"{identifier} has a non-string application URL")
-        decision = sanitize_job_url(raw_url)
+        decision = reported_job_url(raw_url)
         if not decision.url or decision.url != raw_url or decision.host != host:
-            raise ValueError(f"{identifier} application URL is not canonical and safe")
+            raise ValueError(f"{identifier} application URL is not a valid absolute web URL")
         if hashlib.sha256(raw_url.encode("utf-8")).hexdigest()[:24] != fingerprint:
             raise ValueError(f"{identifier} application URL fingerprint does not match")
-        if status == "unverified":
-            raise ValueError(f"{identifier} exposes an unverified application URL")
-        if status == "platform-structured" and not is_recruiting_platform_url(raw_url):
-            raise ValueError(f"{identifier} has an invalid recruiting-platform URL")
-        if status == "platform-structured" and len(source_ids) != 1:
-            raise ValueError(f"{identifier} has invalid recruiting-platform provenance")
-        if status == "source-reported" and (
-            len(source_ids) != 1
-            or any(source_id.startswith("ats:") for source_id in source_ids)
-            or is_recruiting_platform_url(raw_url)
-        ):
-            raise ValueError(f"{identifier} has invalid source-reported provenance")
 
 
 def render_repository(

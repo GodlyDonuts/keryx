@@ -209,6 +209,21 @@ def sanitize_job_url(value: str) -> URLDecision:
     return URLDecision(sanitized, host)
 
 
+def reported_job_url(value: str) -> URLDecision:
+    """Return the application URL exactly as supplied by a configured source feed."""
+    raw = html.unescape(str(value or "")).strip()
+    if not raw:
+        return URLDecision("", "", "empty")
+    try:
+        parsed = urlsplit(raw)
+        host = (parsed.hostname or "").casefold()
+    except ValueError:
+        return URLDecision("", "", "invalid-web-url")
+    if parsed.scheme.casefold() not in {"http", "https"} or not parsed.netloc:
+        return URLDecision("", host, "invalid-web-url")
+    return URLDecision(raw, host)
+
+
 def canonical_url(value: str) -> str:
     return sanitize_job_url(value).url
 

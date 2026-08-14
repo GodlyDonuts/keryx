@@ -16,7 +16,7 @@ class QuarantineTests(unittest.TestCase):
             company="Example",
             title="Software Engineer Intern",
             location="Austin, TX",
-            url="https://user:secret@127.0.0.1/collect?token=private",
+            url="mailto:secret@example.com?token=private",
             program="internship",
         )
         report = _quarantine_report([observation])

@@ -11,6 +11,7 @@ from scripts.normalize import (
     is_technical,
     is_us_role,
     job_id,
+    reported_job_url,
     sanitize_job_url,
 )
 
@@ -127,6 +128,22 @@ class NormalizeTests(unittest.TestCase):
                 decision = sanitize_job_url(value)
                 self.assertEqual(decision.url, "")
                 self.assertIsNotNone(decision.reason)
+
+    def test_reported_application_url_is_preserved_exactly(self) -> None:
+        value = (
+            "http://careers.example.com/apply/(role)?mobile=true&needsRedirect=false"
+            "&source=trusted-feed#application"
+        )
+        decision = reported_job_url(value)
+        self.assertEqual(decision.url, value)
+        self.assertEqual(decision.host, "careers.example.com")
+
+    def test_reported_application_url_accepts_source_hostname_verbatim(self) -> None:
+        value = (
+            "https://osv_amerisure.wd5.myworkdayjobs.com/en-US/amerisure/job/"
+            "Farmington-Hills-MI/Software-Engineer-I_JR-002063"
+        )
+        self.assertEqual(reported_job_url(value).url, value)
 
     def test_recruiting_platform_requires_a_structured_job_path(self) -> None:
         self.assertTrue(

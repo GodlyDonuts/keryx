@@ -9,14 +9,14 @@ feeds when possible, removes duplicates, and rebuilds the Markdown databases aut
 <!-- COUNTS:START -->
 | Recruiting cycle | Open roles |
 |---|---:|
-| [Summer 2027 US Internships](internships/summer-2027.md) | 502 |
-| [Fall 2026 US Internships](internships/fall-2026.md) | 439 |
-| [Spring 2027 US Internships](internships/spring-2027.md) | 61 |
+| [Summer 2027 US Internships](internships/summer-2027.md) | 505 |
+| [Fall 2026 US Internships](internships/fall-2026.md) | 441 |
+| [Spring 2027 US Internships](internships/spring-2027.md) | 62 |
 | [Winter 2027 US Internships](internships/winter-2027.md) | 15 |
-| [US Internships — Cycle Not Stated](internships/unscheduled.md) | 491 |
-| [2027 US New-Graduate Roles](new-grad/2027.md) | 628 |
-| [2026 US New-Graduate Roles](new-grad/2026.md) | 43 |
-| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1915 |
+| [US Internships — Cycle Not Stated](internships/unscheduled.md) | 488 |
+| [2027 US New-Graduate Roles](new-grad/2027.md) | 624 |
+| [2026 US New-Graduate Roles](new-grad/2026.md) | 53 |
+| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1908 |
 <!-- COUNTS:END -->
 
 The Markdown files are the product: open them directly on GitHub, search them, bookmark them, or
@@ -41,15 +41,15 @@ Keryx never promotes them into eligibility gates. This distinction is also prese
 <!-- ACADEMIC-COVERAGE:START -->
 | Current posting-text coverage | Open roles |
 |---|---:|
-| Academic condition detected | 271 |
-| Text checked; no condition detected | 266 |
-| Complete posting text unavailable | 3557 |
+| Academic condition detected | 273 |
+| Text checked; no condition detected | 265 |
+| Complete posting text unavailable | 3558 |
 
 | Detected-condition modality | Criteria |
 |---|---:|
-| Required | 129 |
+| Required | 130 |
 | Preferred | 10 |
-| Stated without clear modality | 185 |
+| Stated without clear modality | 186 |
 <!-- ACADEMIC-COVERAGE:END -->
 
 These counts describe the current index, not applicants. A role can contribute multiple criteria
@@ -87,26 +87,16 @@ Community repositories are discovery sources. Eligible rows link to the employer
 page, and direct ATS observations take precedence when duplicate records disagree. Keryx only
 publishes roles located in the United States or explicitly marked remote within the United States.
 
-## Link safety
+## Application links
 
-Every published application URL passes Keryx's deterministic cleaner before it becomes clickable:
+Keryx publishes the application URL exactly as supplied by its configured source feeds. It does not
+require corroboration, restrict employer domains, remove query parameters, rewrite paths, or suppress
+a link because its recruiting platform is unfamiliar. Provenance labels such as `source reported`,
+`cross-checked`, and `ATS checked` describe where a listing was observed; they do not control whether
+the application link is shown.
 
-- HTTPS is enforced; fragments, tracking parameters, and duplicate query keys are removed.
-- Credentials, IP-literal/private-style destinations, nonstandard ports, parser-confusing escapes,
-  executable downloads, URL shorteners, generic forms, and file-sharing links are rejected.
-- The updater can contact only the fixed GitHub feeds and recognized Greenhouse, Ashby, Lever, and
-  Workday API hosts; automatic redirects are disabled.
-- Each Apply link displays its destination host and whether it was checked through a direct ATS,
-  corroborated by multiple sources, or recognized as a structured recruiting-platform URL.
-- Clean HTTPS application links from configured feeds are published immediately and labeled
-  `source reported`; direct ATS and cross-source observations receive stronger labels when present.
-- Rejected URLs are omitted from the databases. A non-clickable fingerprint and rejection reason
-  are retained in [`data/quarantine.json`](data/quarantine.json) for auditing.
-
-These controls reduce phishing, tracking, parser-confusion, and SSRF risk, but no public index can
-guarantee an employer or posting is legitimate. Confirm the company and destination before sharing
-personal information. Never pay an application fee or provide passwords, banking credentials, or
-government identity documents solely because a listing appears here.
+Only empty values and non-web URLs that cannot function as browser links are omitted. Restrictions on
+the network endpoints contacted by Keryx's own updater are separate from application-link publishing.
 
 ## Automation
 

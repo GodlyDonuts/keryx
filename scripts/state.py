@@ -7,13 +7,12 @@ from typing import Any
 
 from .models import Observation
 from .normalize import (
-    canonical_url,
     infer_cycle,
     is_recruiting_platform_url,
     is_technical,
     is_us_role,
     job_id,
-    sanitize_job_url,
+    reported_job_url,
 )
 from .qualifications import ACADEMIC_EXTRACTOR_VERSION, classify_academic_eligibility
 
@@ -55,7 +54,7 @@ def _has_current_eligibility_schema(value: object) -> bool:
 def eligible(observation: Observation) -> bool:
     return (
         observation.active
-        and bool(canonical_url(observation.url))
+        and bool(reported_job_url(observation.url).url)
         and is_us_role(
             observation.location,
             trusted_us=observation.trusted_us,
@@ -92,12 +91,12 @@ def _link_status(sources: list[dict[str, str]], url: str) -> str:
 
 
 def _protect_link(job: dict[str, Any], sources: list[dict[str, str]], raw_url: str) -> None:
-    decision = sanitize_job_url(raw_url)
+    decision = reported_job_url(raw_url)
     status = _link_status(sources, decision.url)
     job["url_host"] = decision.host
     job["url_fingerprint"] = hashlib.sha256(decision.url.encode("utf-8")).hexdigest()[:24]
     job["link_status"] = status
-    job["url"] = decision.url if status != "unverified" else None
+    job["url"] = decision.url or None
 
 
 def _current_jobs(observations: list[Observation], today: str) -> dict[str, dict[str, Any]]:
@@ -230,10 +229,10 @@ def merge_state(
             source for source in job.get("sources", []) if isinstance(source, dict)
         ]
         if isinstance(previous_url, str) and previous_url:
-            sanitized_previous = sanitize_job_url(previous_url)
-            if not sanitized_previous.url:
+            reported_previous = reported_job_url(previous_url)
+            if not reported_previous.url:
                 continue
-            _protect_link(job, previous_source_list, sanitized_previous.url)
+            _protect_link(job, previous_source_list, reported_previous.url)
         elif job.get("link_status") != "unverified":
             continue
         if previous_sources and previous_sources.issubset(complete_sources):

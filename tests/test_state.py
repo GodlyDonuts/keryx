@@ -29,14 +29,18 @@ def role(
 
 class StateTests(unittest.TestCase):
     def test_single_source_custom_domain_is_published(self) -> None:
+        url = (
+            "https://careers.example.com/jobs/123?mobile=true&needsRedirect=false"
+            "&source=trusted-feed#apply"
+        )
         state = merge_state(
             {"jobs": []},
-            [role(url="https://careers.example.com/jobs/123")],
+            [role(url=url)],
             complete_sources={"feed"},
             today="2026-08-01",
         )
         job = state["jobs"][0]
-        self.assertEqual(job["url"], "https://careers.example.com/jobs/123")
+        self.assertEqual(job["url"], url)
         self.assertEqual(job["url_host"], "careers.example.com")
         self.assertEqual(job["link_status"], "source-reported")
         self.assertNotIn("_candidate_url", job)
@@ -77,7 +81,7 @@ class StateTests(unittest.TestCase):
         self.assertEqual(len(state["jobs"][0]["sources"]), 2)
         self.assertEqual(state["jobs"][0]["link_status"], "ats-verified")
 
-    def test_unsafe_previous_link_is_removed_without_a_grace_period(self) -> None:
+    def test_previous_source_reported_link_is_retained(self) -> None:
         previous = {
             "jobs": [
                 {
@@ -89,7 +93,8 @@ class StateTests(unittest.TestCase):
             ]
         }
         state = merge_state(previous, [], complete_sources=set(), today="2026-08-01")
-        self.assertEqual(state["jobs"], [])
+        self.assertEqual(state["jobs"][0]["url"], "https://127.0.0.1/collect")
+        self.assertEqual(state["jobs"][0]["link_status"], "source-reported")
 
     def test_academic_requirement_survives_metadata_only_polling_run(self) -> None:
         direct = role(

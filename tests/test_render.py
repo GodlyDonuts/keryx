@@ -87,7 +87,7 @@ class RenderTests(unittest.TestCase):
             stored = json.loads((root / "data/jobs.json").read_text(encoding="utf-8"))
             self.assertEqual(stored["country"], "United States")
 
-    def test_unverified_destination_is_not_rendered_as_a_link(self) -> None:
+    def test_missing_destination_is_rendered_as_unavailable(self) -> None:
         payload: dict[str, Any] = {
             "jobs": [
                 {
@@ -122,14 +122,17 @@ class RenderTests(unittest.TestCase):
             )
             render_repository(root, payload, [])
             summer = (root / "internships/summer-2027.md").read_text(encoding="utf-8")
-        self.assertIn("destination withheld", summer)
+        self.assertIn("link unavailable", summer)
         self.assertIn("careers.example.com", summer)
         self.assertNotIn("careers.example.com](", summer)
         self.assertNotIn("](https://evil.example)", summer)
         self.assertNotIn("password", summer)
 
     def test_source_reported_destination_is_rendered_as_a_link(self) -> None:
-        url = "https://jobs.bytedance.com/en/position/123/detail"
+        url = (
+            "https://jobs.bytedance.com/en/position/(123)/detail?source=trusted-feed"
+            "&campaign=fall|2026#apply"
+        )
         payload: dict[str, Any] = {
             "jobs": [
                 {
@@ -165,19 +168,37 @@ class RenderTests(unittest.TestCase):
             render_repository(root, payload, [])
             summer = (root / "internships/summer-2027.md").read_text(encoding="utf-8")
 
-        self.assertIn(f"]({url})", summer)
+        self.assertIn(
+            "](https://jobs.bytedance.com/en/position/%28123%29/detail?"
+            "source=trusted-feed&campaign=fall%7C2026#apply)",
+            summer,
+        )
         self.assertIn("source reported", summer)
 
-    def test_render_refuses_an_unverified_clickable_url(self) -> None:
+    def test_render_does_not_hide_a_clickable_url_based_on_status(self) -> None:
+        url = "https://careers.example.com/jobs/123?source=trusted-feed"
         payload: dict[str, Any] = {
             "jobs": [
                 {
                     "id": "job_bad",
-                    "url": "https://evil.example/jobs/123",
-                    "url_host": "evil.example",
-                    "url_fingerprint": "c" * 24,
+                    "company": "Example",
+                    "title": "Software Engineer Intern",
+                    "location": "Austin, TX",
+                    "url": url,
+                    "url_host": "careers.example.com",
+                    "url_fingerprint": hashlib.sha256(url.encode()).hexdigest()[:24],
                     "link_status": "unverified",
+                    "program": "internship",
+                    "cycle": "summer-2027",
+                    "posted_at": "2026-08-01",
                     "status": "open",
+                    "sources": [
+                        {
+                            "id": "configured-feed",
+                            "label": "Configured feed",
+                            "url": "https://example.com/feed",
+                        }
+                    ],
                 }
             ]
         }
@@ -188,8 +209,10 @@ class RenderTests(unittest.TestCase):
                 "<!-- ACADEMIC-COVERAGE:START -->\nold\n<!-- ACADEMIC-COVERAGE:END -->\n",
                 encoding="utf-8",
             )
-            with self.assertRaises(ValueError):
-                render_repository(root, payload, [])
+            render_repository(root, payload, [])
+            summer = (root / "internships/summer-2027.md").read_text(encoding="utf-8")
+
+        self.assertIn(f"]({url})", summer)
 
 
 if __name__ == "__main__":
