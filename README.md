@@ -9,14 +9,14 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,518 internships · 2,655 new-grad roles · 4,173 total openings**
+**1,517 internships · 2,652 new-grad roles · 4,169 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
 | ☀️ Summer 2027 | 506 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 447 | **[View openings →](internships/fall-2026.md)** |
+| 🍂 Fall 2026 | 446 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 62 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 15 | **[View openings →](internships/winter-2027.md)** |
 | 📅 Season not listed | 488 | **[View openings →](internships/unscheduled.md)** |
@@ -25,9 +25,9 @@
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 631 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 43 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,981 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 630 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 42 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,980 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Just posted: internships
@@ -47,7 +47,7 @@ The newest internship and co-op listings across every recruiting term.
 | Reyes Beverage Group | Commercial Analytics Intern - Beverage Alliance Support | Irvine, CA | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://jobportal.reyesbeveragegroup.com/jobs/34578?icims=1)**<br><sub>jobportal.reyesbeveragegroup.com</sub> |
 | True Anomaly | GSE Engineering Intern | Long Beach, CA, Denver, CO | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-08-14 | **[Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5210059007)**<br><sub>job-boards.greenhouse.io</sub> |
 | Urban Science | Data Driven Analysis Intern - Fall 2026 | Long Beach, CA | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://careers-urbanscience.icims.com/jobs/5219/job?mobile=true&needsRedirect=false)**<br><sub>careers-urbanscience.icims.com</sub> |
-| Analytical Mechanics Associates | Research Scientist Intern | New Jersey | Fall 2026 | not available | 2026-08-13 | **[Apply →](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1)**<br><sub>amainc.wd12.myworkdayjobs.com</sub> |
+| Analytical Mechanics Associates | Graduate Research Scientist intern | Remote - New Jersey | Fall 2026 | not available | 2026-08-13 | **[Apply →](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1)**<br><sub>amainc.wd12.myworkdayjobs.com</sub> |
 | ByteDance | Self-Built Engineer Intern - CDN Platform | San Jose, CA | Summer 2027 | not available | 2026-08-13 | **[Apply →](https://jobs.bytedance.com/en/position/7670364362450733317/detail)**<br><sub>jobs.bytedance.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
@@ -63,13 +63,13 @@ The newest full-time opportunities for students and recent graduates.
 | Arcfield | Data Analyst / Applied Mathematician | Chesterbrook, PA | Not listed | not available | 2026-08-14 | **[Apply →](https://careers.arcfield.com/jobs/8469?icims=1)**<br><sub>careers.arcfield.com</sub> |
 | Arcfield | Software Engineer / Electrical Engineer | Chesterbrook, PA | Not listed | not available | 2026-08-14 | **[Apply →](https://careers.arcfield.com/jobs/8467?icims=1)**<br><sub>careers.arcfield.com</sub> |
 | Ascension | Master Data Management Specialist - MDM Team | Remote in USA | Not listed | not available | 2026-08-14 | **[Apply →](https://jobs.ascension.org/us/en/job/456522)**<br><sub>jobs.ascension.org</sub> |
+| Berkshire Hathaway GUARD Insurance Companies | Full Stack Developer | Alpharetta, GA, Scottsdale, AZ, Parsippany-Troy Hills, NJ, Conshohocken, PA, Wilkes-Barre, PA | Not listed | not available | 2026-08-14 | **[Apply →](https://careers-guard.icims.com/jobs/5913/job?mobile=true&needsRedirect=false)**<br><sub>careers-guard.icims.com</sub> |
 | Chenega Corporation | Data Analyst | Alexandria, VA | Not listed | not available | 2026-08-14 | **[Apply →](https://careers.chenega.com/jobs/41163?icims=1)**<br><sub>careers.chenega.com</sub> |
 | Chenega Corporation | Data Analyst | Alexandria, VA | Not listed | not available | 2026-08-14 | **[Apply →](https://careers.chenega.com/jobs/41371?icims=1)**<br><sub>careers.chenega.com</sub> |
 | CTG | AI Vibe Coding Engineer | Remote in USA | Not listed | not available | 2026-08-14 | **[Apply →](https://careers.ctg.com/jobs/17347?icims=1)**<br><sub>careers.ctg.com</sub> |
 | DecisionPoint Corporation | Entry-level Software Developer | Remote in USA | Not listed | not available | 2026-08-14 | **[Apply →](https://careers-decisionpointcorp.icims.com/jobs/3685/job?mobile=true&needsRedirect=false)**<br><sub>careers-decisionpointcorp.icims.com</sub> |
 | DNV | Energy Policy Statistical Analyst | Madison, WI, Oakland, CA, Medford, MA, North Andover, MA, NYC, Portland, OR, Portland, ME | Not listed | not available | 2026-08-14 | **[Apply →](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7279)**<br><sub>ecyq.fa.em2.oraclecloud.com</sub> |
 | EagleView | Flight Systems Technician - Capture Systems R&D | Rochester, NY | Not listed | not available | 2026-08-14 | **[Apply →](https://careers.eagleview.com/jobs/2872?icims=1)**<br><sub>careers.eagleview.com</sub> |
-| EMCOR Group | Business Data Analyst - Construction | Baltimore, MD | Not listed | not available | 2026-08-14 | **[Apply →](https://careers-emcorgroup.icims.com/jobs/1763/job?mobile=true&needsRedirect=false)**<br><sub>careers-emcorgroup.icims.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
