@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,544 internships · 2,700 new-grad roles · 4,244 total openings**
+**1,545 internships · 2,696 new-grad roles · 4,241 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
 | ☀️ Summer 2027 | 531 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 448 | **[View openings →](internships/fall-2026.md)** |
+| 🍂 Fall 2026 | 447 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 62 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 16 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 487 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 489 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 645 | **[View openings →](new-grad/2027.md)** |
+| 2027 | 647 | **[View openings →](new-grad/2027.md)** |
 | 2026 | 43 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,012 | **[View openings →](new-grad/unscheduled.md)** |
+| Year not listed | 2,006 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Just posted: internships
@@ -39,7 +39,7 @@ The newest internship and co-op listings across every recruiting term.
 |---|---|---|---|---|---:|---|
 | AARP | Data Science and Advanced Analytics Intern | Washington, DC | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://careers.aarp.org/jobs/7437?icims=1)**<br><sub>careers.aarp.org</sub> |
 | Analytical Mechanics Associates | Computer Science/Engineering Intern - Computer Vision Applications | New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Hampton, VA, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Computer-Science-Engineering-Intern---Computer-Vision-Applications_R-100731)**<br><sub>amainc.wd12.myworkdayjobs.com</sub> |
-| Arevon | Data Science Intern, Interconnection & Transmission | Scottsdale, AZ | Fall 2026 | Current student status<br><sub>required</sub> | 2026-08-14 | **[Apply →](https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5211455007)**<br><sub>job-boards.greenhouse.io</sub> |
+| Arevon | Data Science Intern - Interconnection & Transmission | Scottsdale, AZ | Fall 2026 | Current student status<br><sub>required</sub> | 2026-08-14 | **[Apply →](https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5211455007)**<br><sub>job-boards.greenhouse.io</sub> |
 | BerryDunn | Consulting Intern - Healthcare Data Management and Strategy | Portland, ME | Summer 2027 | not available | 2026-08-14 | **[Apply →](https://careers-berrydunn.icims.com/jobs/3973/job?mobile=true&needsRedirect=false)**<br><sub>careers-berrydunn.icims.com</sub> |
 | ByteDance | ASIC Design Engineer Intern - Video Silicon IP | San Jose, CA | Summer 2027 | not available | 2026-08-14 | **[Apply →](https://jobs.bytedance.com/en/position/7673638856678279429/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Self-Built Engineer Intern - CDN Platform | San Jose, CA | Summer 2027 | not available | 2026-08-14 | **[Apply →](https://jobs.bytedance.com/en/position/7673617571165620533/detail)**<br><sub>jobs.bytedance.com</sub> |
@@ -47,8 +47,8 @@ The newest internship and co-op listings across every recruiting term.
 | CCC Intelligent Solutions | AI Enablement Intern | Chicago (Green St), IL | Not listed | not available | 2026-08-14 | **[Apply →](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/AI-Enablement-Intern_0014851)**<br><sub>cccis.wd1.myworkdayjobs.com</sub> |
 | Crowe | AI Project Coordinator Intern | Chicago IL USA | Not listed | not available | 2026-08-14 | **[Apply →](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Project-Coordinator-Intern_R-71007)**<br><sub>crowe.wd12.myworkdayjobs.com</sub> |
 | Crowe | Data Analytics Developer Intern | Chicago IL USA | Not listed | not available | 2026-08-14 | **[Apply →](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041)**<br><sub>crowe.wd12.myworkdayjobs.com</sub> |
+| First American | Software Engineering Intern | USA, California, Remote | Not listed | not available | 2026-08-14 | **[Apply →](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058260)**<br><sub>firstam.wd1.myworkdayjobs.com</sub> |
 | First American | Software Engineering Intern | USA, California, Remote | Not listed | not available | 2026-08-14 | **[Apply →](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058261)**<br><sub>firstam.wd1.myworkdayjobs.com</sub> |
-| Generac | Intern Firmware Engineering | Reno, NV - USA | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://generac.wd5.myworkdayjobs.com/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149)**<br><sub>generac.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Just posted: new-graduate roles
