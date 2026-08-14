@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**1877 closed roles**
+**1876 closed roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -156,7 +156,6 @@
 | The Boeing Company | Entry-Level Software Engineer | Maryland Heights, MO, Hazelwood, MO | not available<br><sub>posting text not indexed</sub> | 2026-08-05 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · boeing.wd1.myworkdayjobs.com](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026516694)<br><sub>cross-checked</sub> |
 | US Acute Care Solutions | People Analytics Intern | Remote in USA, Ohio | not available<br><sub>posting text not indexed</sub> | 2026-08-05 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · usacs.wd1.myworkdayjobs.com](https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/People-Analytics-Intern_R0002363)<br><sub>recognized recruiting platform</sub> |
 | Waste Management | Data Specialist 1 | Duluth, MN, Burnsville, MN, Germantown, WI, Cambridge, MN | not available<br><sub>posting text not indexed</sub> | 2026-08-05 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · emcm.fa.us2.oraclecloud.com](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2351633)<br><sub>recognized recruiting platform</sub> |
-| Abacus Insights | Associate Data Engineer | Remote in USA | not available<br><sub>posting text not indexed</sub> | 2026-08-04 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · boards.greenhouse.io](https://boards.greenhouse.io/abacusinsights/jobs/8674746002)<br><sub>recognized recruiting platform</sub> |
 | Allstate Insurance Company | Insurance Product Management Consultant 1 | Remote in USA | not available<br><sub>posting text not indexed</sub> | 2026-08-04 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · allstate.wd5.myworkdayjobs.com](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Remote---Remote/Insurance-Product-Management-Consultant-I_R33266)<br><sub>recognized recruiting platform</sub> |
 | Ancestry | Associate Technical Product Manager | Draper, UT | not available<br><sub>posting text not indexed</sub> | 2026-08-04 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · ancestry.wd501.myworkdayjobs.com](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Associate-Technical-Product-Manager_R003418)<br><sub>recognized recruiting platform</sub> |
 | Apple | Software Engineer - Front-end | Austin, TX | not available<br><sub>posting text not indexed</sub> | 2026-08-04 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | link unavailable<br><sub>jobs.apple.com</sub> |
