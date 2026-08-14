@@ -4,10 +4,11 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**61 open roles**
+**62 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
+| MSA Safety | Software Engineer Co-op - Product Development | Cranberry Township, PA | not available<br><sub>posting text not indexed</sub> | 2026-08-14 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · careers.msasafety.com](https://careers.msasafety.com/jobs/9992?icims=1)<br><sub>source reported</sub> |
 | Specter Aerospace | Embedded Software Co-op | Boston, MA | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · specteraerospace.bamboohr.com](https://specteraerospace.bamboohr.com/careers/119/)<br><sub>recognized recruiting platform</sub> |
 | Specter Aerospace | Front-End Software Developer Co-op | Boston, MA, Peabody, MA | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · specteraerospace.bamboohr.com](https://specteraerospace.bamboohr.com/careers/120/)<br><sub>recognized recruiting platform</sub> |
 | Tesla | Firmware Engineer Intern - New Programs Engineering | Fremont, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · www.tesla.com](https://www.tesla.com/careers/search/job/279991)<br><sub>source reported</sub> |

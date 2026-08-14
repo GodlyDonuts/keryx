@@ -1286,6 +1286,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "AppLovin",
+      "key": "greenhouse:applovin",
+      "slug": "applovin"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Apptronik",
       "key": "greenhouse:apptronik",
       "slug": "apptronik"
@@ -3365,6 +3371,15 @@
       "site": "AssetMark_Careers",
       "slug": "assetmark",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Associated Bank",
+      "host": "associatedbank.wd1.myworkdayjobs.com",
+      "key": "workday:associatedbank.wd1.myworkdayjobs.com:associatedbank:external_careers",
+      "site": "external_careers",
+      "slug": "associatedbank",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -5609,6 +5624,24 @@
     },
     {
       "ats": "workday",
+      "company": "Kyndryl",
+      "host": "kyndryl.wd5.myworkdayjobs.com",
+      "key": "workday:kyndryl.wd5.myworkdayjobs.com:kyndryl:kyndrylearlycareers",
+      "site": "KyndrylEarlyCareers",
+      "slug": "kyndryl",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Kyndryl",
+      "host": "kyndryl.wd5.myworkdayjobs.com",
+      "key": "workday:kyndryl.wd5.myworkdayjobs.com:kyndryl:kyndrylprofessionalcareers",
+      "site": "KyndrylProfessionalCareers",
+      "slug": "kyndryl",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "LEGO",
       "host": "lego.wd103.myworkdayjobs.com",
       "key": "workday:lego.wd103.myworkdayjobs.com:lego:lego_executive",
@@ -5984,6 +6017,15 @@
       "site": "mmc",
       "slug": "mmc",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Moffitt Cancer Center",
+      "host": "moffitt.wd108.myworkdayjobs.com",
+      "key": "workday:moffitt.wd108.myworkdayjobs.com:moffitt:moffitt",
+      "site": "Moffitt",
+      "slug": "moffitt",
+      "wd": "wd108"
     },
     {
       "ats": "workday",
