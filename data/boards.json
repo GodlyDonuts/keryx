@@ -4987,6 +4987,15 @@
       "ats": "workday",
       "company": "Bank of America",
       "host": "ghr.wd1.myworkdayjobs.com",
+      "key": "workday:ghr.wd1.myworkdayjobs.com:ghr:lateral-us",
+      "site": "lateral-us",
+      "slug": "ghr",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Bank of America",
+      "host": "ghr.wd1.myworkdayjobs.com",
       "key": "workday:ghr.wd1.myworkdayjobs.com:ghr:us-emplsv",
       "site": "us-emplsv",
       "slug": "ghr",
@@ -7184,7 +7193,7 @@
       "company": "Sony",
       "host": "sonyglobal.wd1.myworkdayjobs.com",
       "key": "workday:sonyglobal.wd1.myworkdayjobs.com:sonyglobal:sonyglobalcareers",
-      "site": "SonyGlobalCareers",
+      "site": "sonyglobalcareers",
       "slug": "sonyglobal",
       "wd": "wd1"
     },

@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,518 internships · 2,646 new-grad roles · 4,164 total openings**
+**1,517 internships · 2,668 new-grad roles · 4,185 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
 | ☀️ Summer 2027 | 511 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 443 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 62 | **[View openings →](internships/spring-2027.md)** |
+| 🍂 Fall 2026 | 445 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 61 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 15 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 487 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 485 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 634 | **[View openings →](new-grad/2027.md)** |
+| 2027 | 657 | **[View openings →](new-grad/2027.md)** |
 | 2026 | 43 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,969 | **[View openings →](new-grad/unscheduled.md)** |
+| Year not listed | 1,968 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Just posted: internships
@@ -42,7 +42,7 @@ The newest internship and co-op listings across every recruiting term.
 | ByteDance | Self-Built Engineer Intern - CDN Platform | San Jose, CA | Summer 2027 | not available | 2026-08-14 | **[Apply →](https://jobs.bytedance.com/en/position/7673617571165620533/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Self-Built Engineer Intern - CDN Platform | Seattle, WA | Summer 2027 | not available | 2026-08-14 | **[Apply →](https://jobs.bytedance.com/en/position/7673608499872827701/detail)**<br><sub>jobs.bytedance.com</sub> |
 | GSK | AI Commercial Strategy & Activation Co-op - AI Strike Team | Durham, NC | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://gsk-us-earlytalent.icims.com/jobs/10444/job?mobile=true&needsRedirect=false)**<br><sub>gsk-us-earlytalent.icims.com</sub> |
-| KeyBank | Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling | Cleveland, OH | Summer 2027 | not available | 2026-08-14 | **[Apply →](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380)**<br><sub>keybank.wd5.myworkdayjobs.com</sub> |
+| KeyBank | 2027 Summer Analytics and Quantitative Modeling Internship- Cleveland | Cleveland, OH | Summer 2027 | not available | 2026-08-14 | **[Apply →](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380)**<br><sub>keybank.wd5.myworkdayjobs.com</sub> |
 | Magnera | Data Analyst Intern - Information Technology | Evansville, IN | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://careers-magnera.icims.com/jobs/27241/job?mobile=true&needsRedirect=false)**<br><sub>careers-magnera.icims.com</sub> |
 | MaxLinear | AI Intern | Carlsbad, CA | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://careersus-maxlinear.icims.com/jobs/3049/job?mobile=true&needsRedirect=false)**<br><sub>careersus-maxlinear.icims.com</sub> |
 | MPR Associates | Engineer Co-op - Multiple Teams | Salt Lake City, UT, Alexandria, VA, Burlington, MA, East Lyme, CT | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://careers-mpr.icims.com/jobs/1524/job?mobile=true&needsRedirect=false)**<br><sub>careers-mpr.icims.com</sub> |
