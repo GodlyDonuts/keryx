@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**1863 closed roles**
+**1864 closed roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -620,6 +620,7 @@
 | GE Healthcare | Field Engineer 1 | Madison, WI | not available<br><sub>posting text not indexed</sub> | 2026-07-09 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · gehc.wd5.myworkdayjobs.com](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1_R4042917-1)<br><sub>recognized recruiting platform</sub> |
 | Gen Digital | AI & Machine Learning Engineer 1 | Mountain View, CA | not available<br><sub>posting text not indexed</sub> | 2026-07-09 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/gen-digital/b3ab78c4-af7c-4a95-9bbb-f6264e0c3adf/application)<br><sub>recognized recruiting platform</sub> |
 | Generate Biomedicines | Data Scientist 1 | Cambridge, MA | not available<br><sub>posting text not indexed</sub> | 2026-07-09 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | link unavailable<br><sub>generatebiomedicines.com</sub> |
+| Molina Healthcare | Associate Analyst - Provider Configuration | United States | not available<br><sub>posting text not indexed</sub> | 2026-07-09 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · hckd.fa.us2.oraclecloud.com](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2038303)<br><sub>recognized recruiting platform</sub> |
 | Quora | Machine Learning Engineer New Grad | Remote in USA, Remote in Canada | not available<br><sub>posting text not indexed</sub> | 2026-07-09 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4/application)<br><sub>recognized recruiting platform</sub> |
 | RTX | Field Service Engineer | Phoenix, AZ | not available<br><sub>posting text not indexed</sub> | 2026-07-09 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · globalhr.wd5.myworkdayjobs.com](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-PHOENIX-3405--3405-S-5th-St--BLDG-3405/Field-Service-Engineer--Onsite-_01858612)<br><sub>recognized recruiting platform</sub> |
 | ABB | Application Engineering Intern | Lombard, IL, Alpharetta, GA | not available<br><sub>posting text not indexed</sub> | 2026-07-08 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · abb.wd3.myworkdayjobs.com](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Fall-2026_JR00038999)<br><sub>recognized recruiting platform</sub> |
