@@ -1,108 +1,88 @@
 # Keryx
 
-Keryx is a continuously updated database of **United States internships and new-graduate roles**.
-GitHub Actions collects public listings, verifies them against direct applicant-tracking-system
-feeds when possible, removes duplicates, and rebuilds the Markdown databases automatically.
+### Your shortcut to US internships and new-graduate jobs.
 
-## Opportunity databases
+**Fresh listings. Direct application links. No account required.**
+
+> Listings refresh every 15 minutes. Newest roles appear first.
+
+## Find your next role
 
 <!-- COUNTS:START -->
-| Recruiting cycle | Open roles |
-|---|---:|
-| [Summer 2027 US Internships](internships/summer-2027.md) | 505 |
-| [Fall 2026 US Internships](internships/fall-2026.md) | 441 |
-| [Spring 2027 US Internships](internships/spring-2027.md) | 62 |
-| [Winter 2027 US Internships](internships/winter-2027.md) | 15 |
-| [US Internships — Cycle Not Stated](internships/unscheduled.md) | 488 |
-| [2027 US New-Graduate Roles](new-grad/2027.md) | 624 |
-| [2026 US New-Graduate Roles](new-grad/2026.md) | 53 |
-| [US New-Graduate Roles — Cycle Not Stated](new-grad/unscheduled.md) | 1908 |
+**1,511 internships · 2,585 new-grad roles · 4,096 total openings**
+
+### 🎓 Internships
+
+| Recruiting term | Open roles | Browse |
+|---|---:|---|
+| ☀️ Summer 2027 | 505 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 441 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 62 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 15 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 488 | **[View openings →](internships/unscheduled.md)** |
+
+### 🚀 New-graduate roles
+
+| Start year | Open roles | Browse |
+|---|---:|---|
+| 2027 | 624 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 53 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,908 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
-The Markdown files are the product: open them directly on GitHub, search them, bookmark them, or
-consume the canonical [`data/jobs.json`](data/jobs.json) file from another program.
+## Just posted: internships
 
-## Academic eligibility
+The newest internship and co-op listings across every recruiting term.
 
-Keryx shows graduation timing and related student-status conditions when they are explicitly
-stated in posting text. The deterministic extractor can identify:
+<!-- LATEST-INTERNSHIPS:START -->
+| Company | Role | Location | Term | Eligibility | Posted | Apply |
+|---|---|---|---|---|---:|---|
+| Analytical Mechanics Associates | Research Scientist Intern | New Jersey | Fall 2026 | not available | 2026-08-13 | **[Apply →](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1)**<br><sub>amainc.wd12.myworkdayjobs.com</sub> |
+| ByteDance | Self-Built Engineer Intern - CDN Platform | San Jose, CA | Summer 2027 | not available | 2026-08-13 | **[Apply →](https://jobs.bytedance.com/en/position/7670364362450733317/detail)**<br><sub>jobs.bytedance.com</sub> |
+| ConnectPrep | Data Analyst Intern | Washington, DC, Remote in USA | Fall 2026 | not available | 2026-08-13 | **[Apply →](https://apply.workable.com/connectprep/j/D1C67258C0/apply)**<br><sub>apply.workable.com</sub> |
+| Crowe | AI Engineering Intern | Chicago IL USA | Fall 2026 | not available | 2026-08-13 | **[Apply →](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782)**<br><sub>crowe.wd12.myworkdayjobs.com</sub> |
+| Crowe | AI Functional Intern | Chicago IL USA | Fall 2026 | not available | 2026-08-13 | **[Apply →](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Functional-Intern_R-71008)**<br><sub>crowe.wd12.myworkdayjobs.com</sub> |
+| Diversified Automation | Controls Engineering Co-op | Louisville, KY | Not listed | not available | 2026-08-13 | **[Apply →](https://jobs.lever.co/diversified-automation/02ac2964-5362-4ff2-934c-b122ba26c365)**<br><sub>jobs.lever.co</sub> |
+| Exa Labs | Software Engineer, Intern | San Francisco, California | Not listed | Current student status<br><sub>stated</sub> | 2026-08-13 | **[Apply →](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16)**<br><sub>jobs.ashbyhq.com</sub> |
+| Gartner | Data Analyst Intern | Irving, TX | Fall 2026 | not available | 2026-08-13 | **[Apply →](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst-Internship--2028-Graduates-_113297)**<br><sub>gartner.wd5.myworkdayjobs.com</sub> |
+| Inbulks | Junior Front End Developer Intern | Long Island City, Queens, NY | Fall 2026 | not available | 2026-08-13 | **[Apply →](https://jobs.smartrecruiters.com/InbulksCorp/743999750129753)**<br><sub>jobs.smartrecruiters.com</sub> |
+| InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | New York, New York, United States (Remote) | Summer 2027 | not available | 2026-08-13 | **[Apply →](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594)**<br><sub>jobs.smartrecruiters.com</sub> |
+| InfiniteQuant | Quantitative Researcher - Internship - Summer 2027 | New York, NY, United States | Summer 2027 | not available | 2026-08-13 | **[Apply →](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Interco | Software Development Intern - React | St. Louis, MO | Fall 2026 | not available | 2026-08-13 | **[Apply →](https://jobs.smartrecruiters.com/Interco/744000143346169)**<br><sub>jobs.smartrecruiters.com</sub> |
+<!-- LATEST-INTERNSHIPS:END -->
 
-- graduation months, years, windows, and one-sided bounds such as “May 2027 or later”;
-- current-enrollment conditions; and
-- conditions about returning to school after an internship.
+## Just posted: new-graduate roles
 
-Every detected condition is classified independently as **required**, **preferred**, or simply
-**stated** when the posting gives no clear modality. Preferred qualifications remain preferences:
-Keryx never promotes them into eligibility gates. This distinction is also preserved in
-`data/jobs.json` for downstream consumers.
+The newest full-time opportunities for students and recent graduates.
 
-### Current coverage
+<!-- LATEST-NEW-GRAD:START -->
+| Company | Role | Location | Term | Eligibility | Posted | Apply |
+|---|---|---|---|---|---:|---|
+| Accenture | Entry Level Java Developer Associate | San Antonio, TX | Not listed | not available | 2026-08-13 | **[Apply →](https://jobs.smartrecruiters.com/AccentureFederalServices/78366121)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Accenture | Software Engineering Associate | Arlington County, Arlington, VA | Not listed | not available | 2026-08-13 | **[Apply →](https://jobs.smartrecruiters.com/AccentureFederalServices/78253961)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Adidev Technologies Inc | Android Developer | Dallas, TX | Not listed | not available | 2026-08-13 | **[Apply →](https://adidev.bamboohr.com/careers/27/)**<br><sub>adidev.bamboohr.com</sub> |
+| Adidev Technologies Inc | iOS Developer | Charlotte, NC | Not listed | not available | 2026-08-13 | **[Apply →](https://adidev.bamboohr.com/careers/34/)**<br><sub>adidev.bamboohr.com</sub> |
+| Adidev Technologies Inc | Mobile Developer - iOS/Android | Atlanta, GA | Not listed | not available | 2026-08-13 | **[Apply →](https://adidev.bamboohr.com/careers/44/)**<br><sub>adidev.bamboohr.com</sub> |
+| AIR Control Concepts | Application Engineer | Elkridge, MD | Not listed | not available | 2026-08-13 | **[Apply →](https://aircontrolconcepts.applytojob.com/apply/0mgWNmp2sM/Application-Engineer)**<br><sub>aircontrolconcepts.applytojob.com</sub> |
+| Andrew Morgan | OneStream Developer | Remote in USA | Not listed | not available | 2026-08-13 | **[Apply →](https://andrew-morgan.com/current-openings/?gh_jid=5389586008)**<br><sub>andrew-morgan.com</sub> |
+| Apollo Mission Critical Engineering | Business & Data Analyst | Atlanta, GA | Not listed | not available | 2026-08-13 | **[Apply →](https://apollomce.bamboohr.com/careers/121/)**<br><sub>apollomce.bamboohr.com</sub> |
+| Apollo Mission Critical Engineering | Software Engineering Associate - Software Development Associate | Atlanta, GA | Not listed | not available | 2026-08-13 | **[Apply →](https://apollomce.bamboohr.com/careers/96/)**<br><sub>apollomce.bamboohr.com</sub> |
+| Applied Materials | Software Engineer New Grad - DevOps | Gloucester, MA | Not listed | not available | 2026-08-13 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
+| Bertelsmann | Data Center Installer | Cumming, IA | Not listed | not available | 2026-08-13 | **[Apply →](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000142896247)**<br><sub>jobs.smartrecruiters.com</sub> |
+| BlackRock | Application Engineer - Service Management Operations Group | Wilmington, DE | Not listed | not available | 2026-08-13 | **[Apply →](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Wilmington-DE/Analyst--Application-Engineer_R266106)**<br><sub>blackrock.wd1.myworkdayjobs.com</sub> |
+<!-- LATEST-NEW-GRAD:END -->
 
-<!-- ACADEMIC-COVERAGE:START -->
-| Current posting-text coverage | Open roles |
-|---|---:|
-| Academic condition detected | 273 |
-| Text checked; no condition detected | 265 |
-| Complete posting text unavailable | 3558 |
+## Read the eligibility column
 
-| Detected-condition modality | Criteria |
-|---|---:|
-| Required | 130 |
-| Preferred | 10 |
-| Stated without clear modality | 186 |
-<!-- ACADEMIC-COVERAGE:END -->
+- **Required** means the posting presents the condition as a requirement.
+- **Preferred** means it is a preference, not an eligibility gate.
+- **Stated** means the posting mentions the condition without clearly calling it required or preferred.
+- **Not stated** means the available posting text was checked and no academic condition was found.
+- **Not available** means the full posting text was not available to Keryx. Check the employer page.
 
-These counts describe the current index, not applicants. A role can contribute multiple criteria
-when it states more than one academic condition.
+Every Apply button opens the application URL reported by the source. Always confirm current details
+and requirements on the employer's page.
 
-Each extracted result retains the source that supplied the text. Direct ATS text takes precedence
-over community-source text. Each detected condition has its own short supporting excerpt; Keryx
-does not persist the complete job description. Stored classifications include an extractor version,
-so a future parser improvement invalidates stale results until the source is checked again. Every
-text-backed result also records its most recent check date; metadata-only results do not claim one.
+---
 
-The distinction between **not stated** and **not available** is intentional. “Not stated” means
-Keryx checked available posting text but did not detect academic timing language. “Not available”
-means the source did not provide the complete posting text. Neither label means that every student
-qualifies; applicants must confirm all requirements on the employer page.
-
-Public Greenhouse, Lever, and Ashby descriptions currently provide most qualification coverage.
-Workday search cards and community-list rows often do not include complete descriptions, so those
-roles remain visibly marked “not available” rather than being guessed. The structured dates in
-`data/jobs.json` are designed for future consumers such as Erga to compare against a user-approved
-graduation date; Keryx itself does not know or score individual applicants.
-
-## Sources
-
-Keryx combines and cross-checks:
-
-- [SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships)
-- [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions)
-- [speedyapply/2027-SWE-College-Jobs](https://github.com/speedyapply/2027-SWE-College-Jobs)
-- [sndsh404/summer-2027-internships](https://github.com/sndsh404/summer-2027-internships)
-- [zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships)
-- Direct public boards from Greenhouse, Ashby, Lever, and Workday
-
-Community repositories are discovery sources. Eligible rows link to the employer's application
-page, and direct ATS observations take precedence when duplicate records disagree. Keryx only
-publishes roles located in the United States or explicitly marked remote within the United States.
-
-## Application links
-
-Keryx publishes the application URL exactly as supplied by its configured source feeds. It does not
-require corroboration, restrict employer domains, remove query parameters, rewrite paths, or suppress
-a link because its recruiting platform is unfamiliar. Provenance labels such as `source reported`,
-`cross-checked`, and `ATS checked` describe where a listing was observed; they do not control whether
-the application link is shown.
-
-Only empty values and non-web URLs that cannot function as browser links are omitted. Restrictions on
-the network endpoints contacted by Keryx's own updater are separate from application-link publishing.
-
-## Automation
-
-The update workflow runs every 15 minutes and commits only when the database actually changes.
-Temporary source failures do not remove jobs. A listing must disappear from every successfully
-checked source for two consecutive runs before Keryx closes it.
-
-Keryx does not accept applications, store applicant information, or use an AI model. It is a public,
-deterministic index of public job postings.
+**Bookmark this repository and check back often—new openings are added throughout the day.**

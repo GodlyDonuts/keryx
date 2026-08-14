@@ -47,6 +47,15 @@ _ACADEMIC_STATUSES = frozenset(
     }
 )
 _REQUIREMENT_LEVELS = frozenset({"required", "preferred", "stated"})
+_CYCLE_LABELS = {
+    "summer-2027": "Summer 2027",
+    "fall-2026": "Fall 2026",
+    "spring-2027": "Spring 2027",
+    "winter-2027": "Winter 2027",
+    "2027": "2027",
+    "2026": "2026",
+    "unscheduled": "Not listed",
+}
 
 
 def _write(path: Path, text: str) -> None:
@@ -100,6 +109,15 @@ def _apply_link(job: dict[str, Any]) -> str:
         "platform-structured": "recognized recruiting platform",
     }.get(str(job.get("link_status")), "source reported")
     return f"[apply · {_cell(host)}]({_markdown_destination(url)})<br><sub>{status}</sub>"
+
+
+def _front_page_apply_link(job: dict[str, Any]) -> str:
+    raw_url = job.get("url")
+    url = raw_url if isinstance(raw_url, str) else ""
+    if not url:
+        return "link unavailable"
+    host = str(job.get("url_host") or urlsplit(url).hostname or "employer site")
+    return f"**[Apply →]({_markdown_destination(url)})**<br><sub>{_cell(host)}</sub>"
 
 
 def _academic_eligibility(job: dict[str, Any]) -> str:
@@ -185,48 +203,84 @@ def _sort_jobs(jobs: list[dict[str, Any]]) -> list[dict[str, Any]]:
 
 
 def _count_table(counts: dict[tuple[str, str], int]) -> str:
-    rows = ["| Recruiting cycle | Open roles |", "|---|---:|"]
-    for program, cycle, path, title in _DATABASES:
-        rows.append(f"| [{title}]({path.as_posix()}) | {counts.get((program, cycle), 0)} |")
-    return "\n".join(rows)
-
-
-def _academic_coverage_table(jobs: list[dict[str, Any]]) -> str:
-    status_counts = {"detected": 0, "not-found": 0, "unavailable": 0}
-    level_counts = {level: 0 for level in sorted(_REQUIREMENT_LEVELS)}
-    for job in jobs:
-        eligibility = job.get("academic_eligibility")
-        if not isinstance(eligibility, dict) or eligibility.get("status") == "unavailable":
-            status_counts["unavailable"] += 1
-            continue
-        if eligibility.get("status") == "not-found":
-            status_counts["not-found"] += 1
-            continue
-        status_counts["detected"] += 1
-        for key in (
-            "requirement_level",
-            "currently_enrolled_level",
-            "return_to_school_level",
-        ):
-            level = eligibility.get(key)
-            if level in level_counts:
-                level_counts[str(level)] += 1
-
+    internships = sum(count for (program, _), count in counts.items() if program == "internship")
+    new_grad = sum(count for (program, _), count in counts.items() if program == "new-grad")
     return "\n".join(
         (
-            "| Current posting-text coverage | Open roles |",
-            "|---|---:|",
-            f"| Academic condition detected | {status_counts['detected']} |",
-            f"| Text checked; no condition detected | {status_counts['not-found']} |",
-            f"| Complete posting text unavailable | {status_counts['unavailable']} |",
+            f"**{internships:,} internships · {new_grad:,} new-grad roles · "
+            f"{internships + new_grad:,} total openings**",
             "",
-            "| Detected-condition modality | Criteria |",
-            "|---|---:|",
-            f"| Required | {level_counts['required']} |",
-            f"| Preferred | {level_counts['preferred']} |",
-            f"| Stated without clear modality | {level_counts['stated']} |",
+            "### 🎓 Internships",
+            "",
+            "| Recruiting term | Open roles | Browse |",
+            "|---|---:|---|",
+            f"| ☀️ Summer 2027 | {counts.get(('internship', 'summer-2027'), 0):,} | "
+            "**[View openings →](internships/summer-2027.md)** |",
+            f"| 🍂 Fall 2026 | {counts.get(('internship', 'fall-2026'), 0):,} | "
+            "**[View openings →](internships/fall-2026.md)** |",
+            f"| 🌱 Spring 2027 | {counts.get(('internship', 'spring-2027'), 0):,} | "
+            "**[View openings →](internships/spring-2027.md)** |",
+            f"| ❄️ Winter 2027 | {counts.get(('internship', 'winter-2027'), 0):,} | "
+            "**[View openings →](internships/winter-2027.md)** |",
+            f"| 📅 Season not listed | {counts.get(('internship', 'unscheduled'), 0):,} | "
+            "**[View openings →](internships/unscheduled.md)** |",
+            "",
+            "### 🚀 New-graduate roles",
+            "",
+            "| Start year | Open roles | Browse |",
+            "|---|---:|---|",
+            f"| 2027 | {counts.get(('new-grad', '2027'), 0):,} | "
+            "**[View openings →](new-grad/2027.md)** |",
+            f"| 2026 | {counts.get(('new-grad', '2026'), 0):,} | "
+            "**[View openings →](new-grad/2026.md)** |",
+            f"| Year not listed | {counts.get(('new-grad', 'unscheduled'), 0):,} | "
+            "**[View openings →](new-grad/unscheduled.md)** |",
         )
     )
+
+
+def _front_page_eligibility(job: dict[str, Any]) -> str:
+    eligibility = job.get("academic_eligibility")
+    if not isinstance(eligibility, dict) or eligibility.get("status") == "unavailable":
+        return "not available"
+    if eligibility.get("status") == "not-found":
+        return "not stated"
+
+    levels = []
+    for key in ("requirement_level", "currently_enrolled_level", "return_to_school_level"):
+        level = eligibility.get(key)
+        if level in _REQUIREMENT_LEVELS and level not in levels:
+            levels.append(str(level))
+    detail = f"<br><sub>{' / '.join(levels)}</sub>" if levels else ""
+    return f"{_cell(eligibility.get('summary'))}{detail}"
+
+
+def _latest_table(jobs: list[dict[str, Any]], program: str, *, limit: int = 12) -> str:
+    latest = _sort_jobs([job for job in jobs if job.get("program") == program])[:limit]
+    if not latest:
+        return "_No open roles currently indexed._"
+
+    rows = [
+        "| Company | Role | Location | Term | Eligibility | Posted | Apply |",
+        "|---|---|---|---|---|---:|---|",
+    ]
+    for job in latest:
+        rows.append(
+            "| "
+            + " | ".join(
+                (
+                    _cell(job.get("company")),
+                    _cell(job.get("title")),
+                    _cell(job.get("location")),
+                    _cell(_CYCLE_LABELS.get(str(job.get("cycle")), job.get("cycle"))),
+                    _front_page_eligibility(job),
+                    _cell(job.get("posted_at")),
+                    _front_page_apply_link(job),
+                )
+            )
+            + " |"
+        )
+    return "\n".join(rows)
 
 
 def _replace_generated_block(text: str, start: str, end: str, body: str) -> str:
@@ -379,8 +433,14 @@ def render_repository(
     )
     readme = _replace_generated_block(
         readme,
-        "<!-- ACADEMIC-COVERAGE:START -->",
-        "<!-- ACADEMIC-COVERAGE:END -->",
-        _academic_coverage_table(open_jobs),
+        "<!-- LATEST-INTERNSHIPS:START -->",
+        "<!-- LATEST-INTERNSHIPS:END -->",
+        _latest_table(open_jobs, "internship"),
+    )
+    readme = _replace_generated_block(
+        readme,
+        "<!-- LATEST-NEW-GRAD:START -->",
+        "<!-- LATEST-NEW-GRAD:END -->",
+        _latest_table(open_jobs, "new-grad"),
     )
     _write(readme_path, readme)

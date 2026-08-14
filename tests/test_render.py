@@ -62,7 +62,8 @@ class RenderTests(unittest.TestCase):
             root = Path(directory)
             (root / "README.md").write_text(
                 "# Keryx\n\n<!-- COUNTS:START -->\nold\n<!-- COUNTS:END -->\n"
-                "<!-- ACADEMIC-COVERAGE:START -->\nold\n<!-- ACADEMIC-COVERAGE:END -->\n",
+                "<!-- LATEST-INTERNSHIPS:START -->\nold\n<!-- LATEST-INTERNSHIPS:END -->\n"
+                "<!-- LATEST-NEW-GRAD:START -->\nold\n<!-- LATEST-NEW-GRAD:END -->\n",
                 encoding="utf-8",
             )
             render_repository(root, payload, [])
@@ -80,10 +81,12 @@ class RenderTests(unittest.TestCase):
             archive = (root / "archive/closed.md").read_text(encoding="utf-8")
             self.assertIn("**0 closed roles**", archive)
             readme = (root / "README.md").read_text(encoding="utf-8")
-            self.assertIn("Summer 2027 US Internships](internships/summer-2027.md) | 1", readme)
-            self.assertIn("Academic condition detected | 1", readme)
-            self.assertIn("Required | 1", readme)
-            self.assertIn("Preferred | 1", readme)
+            self.assertIn("**1 internships · 0 new-grad roles · 1 total openings**", readme)
+            self.assertIn("☀️ Summer 2027 | 1", readme)
+            self.assertIn("Software Engineer Intern", readme)
+            self.assertIn("Dec 2026–Jun 2027<br><sub>required / preferred</sub>", readme)
+            self.assertIn("**[Apply →](https://jobs.example.com/1)**", readme)
+            self.assertNotIn("old", readme)
             stored = json.loads((root / "data/jobs.json").read_text(encoding="utf-8"))
             self.assertEqual(stored["country"], "United States")
 
@@ -117,7 +120,8 @@ class RenderTests(unittest.TestCase):
             root = Path(directory)
             (root / "README.md").write_text(
                 "<!-- COUNTS:START -->\nold\n<!-- COUNTS:END -->\n"
-                "<!-- ACADEMIC-COVERAGE:START -->\nold\n<!-- ACADEMIC-COVERAGE:END -->\n",
+                "<!-- LATEST-INTERNSHIPS:START -->\nold\n<!-- LATEST-INTERNSHIPS:END -->\n"
+                "<!-- LATEST-NEW-GRAD:START -->\nold\n<!-- LATEST-NEW-GRAD:END -->\n",
                 encoding="utf-8",
             )
             render_repository(root, payload, [])
@@ -162,7 +166,8 @@ class RenderTests(unittest.TestCase):
             root = Path(directory)
             (root / "README.md").write_text(
                 "<!-- COUNTS:START -->\nold\n<!-- COUNTS:END -->\n"
-                "<!-- ACADEMIC-COVERAGE:START -->\nold\n<!-- ACADEMIC-COVERAGE:END -->\n",
+                "<!-- LATEST-INTERNSHIPS:START -->\nold\n<!-- LATEST-INTERNSHIPS:END -->\n"
+                "<!-- LATEST-NEW-GRAD:START -->\nold\n<!-- LATEST-NEW-GRAD:END -->\n",
                 encoding="utf-8",
             )
             render_repository(root, payload, [])
@@ -206,7 +211,8 @@ class RenderTests(unittest.TestCase):
             root = Path(directory)
             (root / "README.md").write_text(
                 "<!-- COUNTS:START -->\nold\n<!-- COUNTS:END -->\n"
-                "<!-- ACADEMIC-COVERAGE:START -->\nold\n<!-- ACADEMIC-COVERAGE:END -->\n",
+                "<!-- LATEST-INTERNSHIPS:START -->\nold\n<!-- LATEST-INTERNSHIPS:END -->\n"
+                "<!-- LATEST-NEW-GRAD:START -->\nold\n<!-- LATEST-NEW-GRAD:END -->\n",
                 encoding="utf-8",
             )
             render_repository(root, payload, [])
