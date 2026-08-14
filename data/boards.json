@@ -7977,6 +7977,14 @@
     },
     {
       "ats": "workday",
+      "company": "Snap",
+      "host": "wd1.myworkdaysite.com",
+      "key": "workday:wd1.myworkdaysite.com:snapchat:snap",
+      "site": "snap",
+      "slug": "snapchat"
+    },
+    {
+      "ats": "workday",
       "company": "Wells Fargo",
       "host": "wd1.myworkdaysite.com",
       "key": "workday:wd1.myworkdaysite.com:wf:wellsfargojobs",
