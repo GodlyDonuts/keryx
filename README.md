@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,510 internships · 2,631 new-grad roles · 4,141 total openings**
+**1,515 internships · 2,630 new-grad roles · 4,145 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 510 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 512 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 443 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 61 | **[View openings →](internships/spring-2027.md)** |
+| 🌱 Spring 2027 | 62 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 15 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 481 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 483 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 632 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 43 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,956 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 627 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 54 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,949 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Just posted: internships
@@ -42,13 +42,13 @@ The newest internship and co-op listings across every recruiting term.
 | ByteDance | Self-Built Engineer Intern - CDN Platform | San Jose, CA | Summer 2027 | not available | 2026-08-14 | **[Apply →](https://jobs.bytedance.com/en/position/7673617571165620533/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Self-Built Engineer Intern - CDN Platform | Seattle, WA | Summer 2027 | not available | 2026-08-14 | **[Apply →](https://jobs.bytedance.com/en/position/7673608499872827701/detail)**<br><sub>jobs.bytedance.com</sub> |
 | Crowe | AI Project Coordinator Intern | Chicago IL USA | Not listed | not available | 2026-08-14 | **[Apply →](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Project-Coordinator-Intern_R-71007)**<br><sub>crowe.wd12.myworkdayjobs.com</sub> |
+| Generac | Intern Firmware Engineering | Reno, NV - USA | Not listed | not available | 2026-08-14 | **[Apply →](https://generac.wd5.myworkdayjobs.com/external/job/Reno-NV---USA/Intern-Firmware-Engineering_JR16149)**<br><sub>generac.wd5.myworkdayjobs.com</sub> |
 | GSK | AI Commercial Strategy & Activation Co-op - AI Strike Team | Durham, NC | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://gsk-us-earlytalent.icims.com/jobs/10444/job?mobile=true&needsRedirect=false)**<br><sub>gsk-us-earlytalent.icims.com</sub> |
-| KeyBank | 2027 Summer Analytics and Quantitative Modeling Internship- Cleveland | Cleveland, OH | Summer 2027 | not available | 2026-08-14 | **[Apply →](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380)**<br><sub>keybank.wd5.myworkdayjobs.com</sub> |
+| KeyBank | Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling | Cleveland, OH | Summer 2027 | not available | 2026-08-14 | **[Apply →](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Summer-Analytics-and-Quantitative-Modeling-Internship--Cleveland_R-41380)**<br><sub>keybank.wd5.myworkdayjobs.com</sub> |
 | Magnera | Data Analyst Intern - Information Technology | Evansville, IN | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://careers-magnera.icims.com/jobs/27241/job?mobile=true&needsRedirect=false)**<br><sub>careers-magnera.icims.com</sub> |
 | MaxLinear | AI Intern | Carlsbad, CA | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://careersus-maxlinear.icims.com/jobs/3049/job?mobile=true&needsRedirect=false)**<br><sub>careersus-maxlinear.icims.com</sub> |
 | Motorola | Android Platform Software Engineering Intern - Summer 2027 | Plantation, FL, More | Summer 2027 | not available | 2026-08-14 | **[Apply →](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1)**<br><sub>motorolasolutions.wd5.myworkdayjobs.com</sub> |
 | MPR Associates | Engineer Co-op - Multiple Teams | Salt Lake City, UT, Alexandria, VA, Burlington, MA, East Lyme, CT | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://careers-mpr.icims.com/jobs/1524/job?mobile=true&needsRedirect=false)**<br><sub>careers-mpr.icims.com</sub> |
-| MSA Safety | Software Engineer Co-op - Product Development | Cranberry Township, PA | Spring 2027 | not available | 2026-08-14 | **[Apply →](https://careers.msasafety.com/jobs/9992?icims=1)**<br><sub>careers.msasafety.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Just posted: new-graduate roles
