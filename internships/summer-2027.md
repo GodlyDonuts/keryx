@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**511 open roles**
+**510 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -52,7 +52,6 @@
 | Vertiv | Product Management Intern | Delaware, OH | not available<br><sub>posting text not indexed</sub> | 2026-08-12 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · egup.fa.us2.oraclecloud.com](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958)<br><sub>recognized recruiting platform</sub> |
 | Vertiv | Product Management Intern - MBA - Power Solutions & Distribution | Delaware, OH | not available<br><sub>posting text not indexed</sub> | 2026-08-12 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · egup.fa.us2.oraclecloud.com](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278959)<br><sub>recognized recruiting platform</sub> |
 | Western Digital | Summer 2027 Intern - Software Engineering | San Jose, CA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-12 | [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships) | [apply · jobs.smartrecruiters.com](https://jobs.smartrecruiters.com/WesternDigital/744000143171017)<br><sub>recognized recruiting platform</sub> |
-| Booz Allen | AI RAN Telecommunications Engineer Intern | McLean, VA | not available<br><sub>posting text not indexed</sub> | 2026-08-11 | [Workday direct](https://bah.wd1.myworkdayjobs.com/bah_jobs), [Internship Engine](https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · bah.wd1.myworkdayjobs.com](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869)<br><sub>ATS checked</sub> |
 | ByteDance | Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark | Seattle, WA | not available<br><sub>posting text not indexed</sub> | 2026-08-11 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · jobs.bytedance.com](https://jobs.bytedance.com/en/position/7672391300141877557/detail)<br><sub>source reported</sub> |
 | ByteDance | Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark | Seattle, WA | not available<br><sub>posting text not indexed</sub> | 2026-08-11 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · jobs.bytedance.com](https://jobs.bytedance.com/en/position/7672394389001816325/detail)<br><sub>source reported</sub> |
 | ByteDance | Machine Learning Engineer Intern - AML-Engine-Orchestration | Seattle, WA | not available<br><sub>posting text not indexed</sub> | 2026-08-11 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · jobs.bytedance.com](https://jobs.bytedance.com/en/position/7672382828525832501/detail)<br><sub>source reported</sub> |
