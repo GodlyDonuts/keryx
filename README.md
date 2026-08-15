@@ -9,15 +9,15 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,864 internships · 3,789 new-grad roles · 5,653 total openings**
+**1,864 internships · 3,791 new-grad roles · 5,655 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 627 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 629 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 478 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 84 | **[View openings →](internships/spring-2027.md)** |
+| 🌱 Spring 2027 | 82 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 19 | **[View openings →](internships/winter-2027.md)** |
 | 📅 Season not listed | 656 | **[View openings →](internships/unscheduled.md)** |
 
@@ -25,9 +25,9 @@
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 728 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,064 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,997 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 736 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,074 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,981 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -64,12 +64,12 @@ Recent full-time opportunities that open the employer's application page directl
 | Applied Intuition | Scenario Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Software Engineer New Grad - December 2026 | Ann Arbor, MI, Sunnyvale, CA | 2026 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Software Integration Engineer New Grad | Sunnyvale, CA | 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| BJC HealthCare | EHR Application Analyst 1 - Epic Security | St. Louis, MO | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.bjc.org/jobs/114939?icims=1)**<br><sub>jobs.bjc.org</sub> |
 | CHAOS Industries | Field Software Engineer | Los Angeles, CA +1 | 2027 | not available | 2026-08-15 | **[Apply →](https://job-boards.greenhouse.io/chaosindustries/jobs/5162754007)**<br><sub>job-boards.greenhouse.io</sub> |
 | Goldman Sachs | Engineering New Analyst | Dallas, TX | Not listed | not available | 2026-08-15 | **[Apply →](https://higher.gs.com/roles/171568?type=students)**<br><sub>higher.gs.com</sub> |
 | Goldman Sachs | Engineering New Analyst - Engineering | Salt Lake City, UT | Not listed | not available | 2026-08-15 | **[Apply →](https://higher.gs.com/roles/171570?type=students)**<br><sub>higher.gs.com</sub> |
 | Goldman Sachs | Engineering New Analyst - Engineering | Seattle, WA | Not listed | not available | 2026-08-15 | **[Apply →](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807)**<br><sub>hdpc.fa.us2.oraclecloud.com</sub> |
 | LiteLLM | Forward Deployed Engineer New Grad | India, United States | Not listed | not stated | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Revolutional | Associate Full Stack Engineer | McLean, VA | 2027 | not available | 2026-08-15 | **[Apply →](https://revolutional.com/job-openings/?gh_jid=7801406003)**<br><sub>revolutional.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
