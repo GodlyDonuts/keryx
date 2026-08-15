@@ -428,6 +428,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Flagright",
+      "key": "ashby:flagright.com",
+      "slug": "flagright.com"
+    },
+    {
+      "ats": "ashby",
       "company": "Flock Safety",
       "key": "ashby:flock%20safety",
       "slug": "Flock%20Safety"
@@ -4529,6 +4535,15 @@
     },
     {
       "ats": "workday",
+      "company": "American Cancer Society Cancer Action Network (ACS CAN)",
+      "host": "acs.wd5.myworkdayjobs.com",
+      "key": "workday:acs.wd5.myworkdayjobs.com:acs:acscan",
+      "site": "ACSCAN",
+      "slug": "acs",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Adobe",
       "host": "adobe.wd5.myworkdayjobs.com",
       "key": "workday:adobe.wd5.myworkdayjobs.com:adobe:external_experienced",
@@ -8021,6 +8036,15 @@
     },
     {
       "ats": "workday",
+      "company": "Amentum",
+      "host": "pae.wd1.myworkdayjobs.com",
+      "key": "workday:pae.wd1.myworkdayjobs.com:pae:pae_antarcticsupportcontract",
+      "site": "PAE_AntarcticSupportContract",
+      "slug": "pae",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Palo Alto Networks",
       "host": "paloaltonetworks.wd5.myworkdayjobs.com",
       "key": "workday:paloaltonetworks.wd5.myworkdayjobs.com:paloaltonetworks:panwexternalcareers",
@@ -8795,6 +8819,15 @@
     },
     {
       "ats": "workday",
+      "company": "S&T Bank",
+      "host": "stbancorp.wd5.myworkdayjobs.com",
+      "key": "workday:stbancorp.wd5.myworkdayjobs.com:stbancorp:st_bank_careers",
+      "site": "ST_Bank_Careers",
+      "slug": "stbancorp",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Stewart",
       "host": "stewart.wd1.myworkdayjobs.com",
       "key": "workday:stewart.wd1.myworkdayjobs.com:stewart:external",
@@ -8998,6 +9031,15 @@
       "key": "workday:thermofisher.wd5.myworkdayjobs.com:thermofisher:thermofishercareers",
       "site": "ThermoFisherCareers",
       "slug": "thermofisher",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "BRG",
+      "host": "thinkbrg.wd5.myworkdayjobs.com",
+      "key": "workday:thinkbrg.wd5.myworkdayjobs.com:thinkbrg:brg_external_career_site",
+      "site": "BRG_External_Career_Site",
+      "slug": "thinkbrg",
       "wd": "wd5"
     },
     {
