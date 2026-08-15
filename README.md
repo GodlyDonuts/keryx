@@ -9,15 +9,15 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,881 internships · 3,773 new-grad roles · 5,654 total openings**
+**1,882 internships · 3,782 new-grad roles · 5,664 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 631 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 633 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 479 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 83 | **[View openings →](internships/spring-2027.md)** |
+| 🌱 Spring 2027 | 82 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 18 | **[View openings →](internships/winter-2027.md)** |
 | 📅 Season not listed | 670 | **[View openings →](internships/unscheduled.md)** |
 
@@ -25,9 +25,9 @@
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 727 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,049 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,997 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 725 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,062 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,995 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -44,11 +44,11 @@ Recent internship and co-op listings that open the employer's application page d
 | Epia Neuro | Hardware Engineer Intern | Alameda, CA | Fall 2026 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Goldman Sachs | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://higher.gs.com/roles/181628?type=students)**<br><sub>higher.gs.com</sub> |
 | Onto Innovation | Mechanical Systems Engineer Intern | Bloomington-MN | Not listed | not available | 2026-08-15 | **[Apply →](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Bloomington-MN/Mechanical-Systems-Engineer-Intern_R-5723)**<br><sub>onto.wd1.myworkdayjobs.com</sub> |
+| Replit | Software Engineering Intern (Summer 2027) | Foster City, CA | Summer 2027 | Current student status<br><sub>required</sub> | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1)**<br><sub>jobs.ashbyhq.com</sub> |
 | AARP | Data Science and Advanced Analytics Intern | Washington, DC | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://careers.aarp.org/jobs/7437?icims=1)**<br><sub>careers.aarp.org</sub> |
 | Abridge | Software Engineer - Intern | San Francisco, CA +1 | Not listed | not available | 2026-08-14 | **[Apply →](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883)**<br><sub>jobs.ashbyhq.com</sub> |
 | Analytical Mechanics Associates | Computer Science/Engineering Intern - Computer Vision Applications | New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Hampton, VA, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Computer-Science-Engineering-Intern---Computer-Vision-Applications_R-100731)**<br><sub>amainc.wd12.myworkdayjobs.com</sub> |
 | Arevon | Data Science Intern - Interconnection & Transmission | Scottsdale, AZ | Fall 2026 | Current student status<br><sub>required</sub> | 2026-08-14 | **[Apply →](https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5211455007)**<br><sub>job-boards.greenhouse.io</sub> |
-| BerryDunn | Consulting Intern - Healthcare Data Management and Strategy | Portland, ME | Summer 2027 | not available | 2026-08-14 | **[Apply →](https://careers-berrydunn.icims.com/jobs/3973/job?mobile=true&needsRedirect=false)**<br><sub>careers-berrydunn.icims.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -64,12 +64,12 @@ Recent full-time opportunities that open the employer's application page directl
 | Applied Intuition | Scenario Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Software Engineer New Grad - December 2026 | Ann Arbor, MI, Sunnyvale, CA | 2026 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Software Integration Engineer New Grad | Sunnyvale, CA | 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| CHAOS Industries | Field Software Engineer | Los Angeles, CA +1 | 2027 | not available | 2026-08-15 | **[Apply →](https://job-boards.greenhouse.io/chaosindustries/jobs/5162754007)**<br><sub>job-boards.greenhouse.io</sub> |
 | Goldman Sachs | Engineering New Analyst | Dallas, TX | Not listed | not available | 2026-08-15 | **[Apply →](https://higher.gs.com/roles/171568?type=students)**<br><sub>higher.gs.com</sub> |
 | Goldman Sachs | Engineering New Analyst - Engineering | Salt Lake City, UT | Not listed | not available | 2026-08-15 | **[Apply →](https://higher.gs.com/roles/171570?type=students)**<br><sub>higher.gs.com</sub> |
 | Goldman Sachs | Engineering New Analyst - Engineering | Seattle, WA | Not listed | not available | 2026-08-15 | **[Apply →](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807)**<br><sub>hdpc.fa.us2.oraclecloud.com</sub> |
 | LiteLLM | Forward Deployed Engineer New Grad | India, United States | Not listed | not stated | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Revolutional | Associate Full Stack Engineer | McLean, VA | 2027 | not available | 2026-08-15 | **[Apply →](https://revolutional.com/job-openings/?gh_jid=7801406003)**<br><sub>revolutional.com</sub> |
-| TikTok | Data Scientist Graduate - Multimedia | San Jose, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://lifeattiktok.com/search/7673672141010815237)**<br><sub>lifeattiktok.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
