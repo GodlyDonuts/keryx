@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,848 internships · 3,781 new-grad roles · 5,629 total openings**
+**1,843 internships · 3,781 new-grad roles · 5,624 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 618 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 617 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 465 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 69 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 21 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 675 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 671 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 707 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,093 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,981 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 710 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,096 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,975 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Just posted: internships
@@ -64,12 +64,12 @@ The newest full-time opportunities for students and recent graduates.
 | Applied Intuition | Scenario Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Software Engineer New Grad - December 2026 | Ann Arbor, MI, Sunnyvale, CA | 2026 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Software Integration Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Booz Allen Hamilton | Data Scientist | Fort Meade, MD, US | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a2376936624e500cad0bbfc?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
+| Booz Allen Hamilton | Data Scientist | Fort Meade, MD, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a64289e979290281c7058c7?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
+| Fanatics | Data Scientist I | Denver, CO, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a63b3768d53603449603c4d?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
 | Goldman Sachs | Engineering New Analyst | Dallas, TX | Not listed | not available | 2026-08-15 | **[Apply →](https://higher.gs.com/roles/171568?type=students)**<br><sub>higher.gs.com</sub> |
 | Goldman Sachs | Engineering New Analyst - Engineering | Seattle, WA | Not listed | not available | 2026-08-15 | **[Apply →](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807)**<br><sub>hdpc.fa.us2.oraclecloud.com</sub> |
 | LiteLLM | Forward Deployed Engineer New Grad | India, United States | Not listed | not stated | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| TikTok | Data Scientist Graduate - Multimedia | San Jose, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://lifeattiktok.com/search/7673672141010815237)**<br><sub>lifeattiktok.com</sub> |
-| Vanasse Hangen Brustlin | Software Evaluation & Enablement Analyst | Augusta, ME, Watertown, MA, NYC | Not listed | not available | 2026-08-15 | **[Apply →](https://careers-vhb.icims.com/jobs/6233/job?mobile=true&needsRedirect=false)**<br><sub>careers-vhb.icims.com</sub> |
-| Wolverine Trading | Entry Level C++ Software Engineer | Chicago, IL | Not listed | not available | 2026-08-15 | **[Apply →](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq)**<br><sub>wolve.pinpointhq.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
