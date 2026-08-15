@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**1970 open roles**
+**1969 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -271,7 +271,6 @@
 | RTX | FPGA Engineer 1 - Airborne RF Electronics Design | McKinney, TX | not available<br><sub>posting text not indexed</sub> | 2026-08-12 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · globalhr.wd5.myworkdayjobs.com](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/FPGA-Engineer-I_01866334-1)<br><sub>recognized recruiting platform</sub> |
 | RTX | Software Engineer 1 | Fort Wayne, IN | not available<br><sub>posting text not indexed</sub> | 2026-08-12 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · globalhr.wd5.myworkdayjobs.com](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--Onsite-_01863042)<br><sub>recognized recruiting platform</sub> |
 | RTX | Software Engineer 1 | Anaheim, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-12 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · globalhr.wd5.myworkdayjobs.com](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Software-Engineer-I--Onsite-_01861811)<br><sub>recognized recruiting platform</sub> |
-| RTX | Software Engineer 1 | West Valley City, UT | not available<br><sub>posting text not indexed</sub> | 2026-08-12 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · globalhr.wd5.myworkdayjobs.com](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01865956)<br><sub>recognized recruiting platform</sub> |
 | RTX | Software Engineer 1 | Cedar Rapids, IA | not available<br><sub>posting text not indexed</sub> | 2026-08-12 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · globalhr.wd5.myworkdayjobs.com](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineer-I--Onsite-_01864603)<br><sub>recognized recruiting platform</sub> |
 | Seagate Technology | Firmware Engineer | Longmont, CO | not available<br><sub>posting text not indexed</sub> | 2026-08-12 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · seagatecareers.com](https://seagatecareers.com/job/Longmont-Firmware-Engineer-Early-Career-CO-80501/1418862200/?ats=successfactors)<br><sub>source reported</sub> |
 | SOSi | PeopleSoft Software Developer | Charleston, SC | not available<br><sub>posting text not indexed</sub> | 2026-08-12 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.smartrecruiters.com](https://jobs.smartrecruiters.com/SOSi1/3743990012453536)<br><sub>recognized recruiting platform</sub> |
