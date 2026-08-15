@@ -9,7 +9,7 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,840 internships · 3,772 new-grad roles · 5,612 total openings**
+**1,841 internships · 3,774 new-grad roles · 5,615 total openings**
 
 ### 🎓 Internships
 
@@ -19,15 +19,15 @@
 | 🍂 Fall 2026 | 465 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 68 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 21 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 667 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 668 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 710 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,095 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,967 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 1,094 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,970 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Just posted: internships
@@ -64,12 +64,12 @@ The newest full-time opportunities for students and recent graduates.
 | Applied Intuition | Scenario Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Software Engineer New Grad - December 2026 | Ann Arbor, MI, Sunnyvale, CA | 2026 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Software Integration Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Booz Allen Hamilton | Data Scientist | Fort Meade, MD, US | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a2376936624e500cad0bbfc?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
-| Booz Allen Hamilton | Data Scientist | Fort Meade, MD, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a64289e979290281c7058c7?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
+| Booz Allen Hamilton | Data Scientist | Fort Meade, MD, US | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a195cc417492d3a389bdb25?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
+| Booz Allen Hamilton | Data Scientist | Fort Meade, MD, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a66b1920c8e2b4f36dd5a8b?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
+| Booz Allen Hamilton | Power Platform Developer, Mid | Arlington, VA, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a63c57c87cef057612ca811?utm_campaign=Software%20Engineering&utm_source=1103)**<br><sub>Jobright</sub> |
+| Booz Allen Hamilton | Software Engineer | Rome, NY, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a7f56fc19ce4e6e9d937036?utm_campaign=Software%20Engineering&utm_source=1103)**<br><sub>Jobright</sub> |
 | Fanatics | Data Scientist I | Denver, CO, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a63b3768d53603449603c4d?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
 | Goldman Sachs | Engineering New Analyst | Dallas, TX | Not listed | not available | 2026-08-15 | **[Apply →](https://higher.gs.com/roles/171568?type=students)**<br><sub>higher.gs.com</sub> |
-| Goldman Sachs | Engineering New Analyst - Engineering | Seattle, WA | Not listed | not available | 2026-08-15 | **[Apply →](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807)**<br><sub>hdpc.fa.us2.oraclecloud.com</sub> |
-| LiteLLM | Forward Deployed Engineer (New Grad) | United States | Not listed | not stated | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
