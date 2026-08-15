@@ -1,0 +1,809 @@
+{
+  "schema_version": 1,
+  "sites": [
+    {
+      "company": "ByteDance",
+      "error": "public request failed for https://bytedance.com/: <urlopen error _ssl.c:983: The handshake operation timed out>",
+      "key": "048c7462a687a2ece2eeec36",
+      "last_scanned": "2026-08-15",
+      "url": "https://bytedance.com/"
+    },
+    {
+      "boards": [],
+      "company": "Techtronic Industries - TTI",
+      "key": "065cb409d6243bdedc68cc2d",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://ttigroup.com/"
+    },
+    {
+      "boards": [
+        "ashby:lambda"
+      ],
+      "company": "Lambda",
+      "key": "0ce535c0c383be94a56f7bd2",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://lambda.ai/"
+    },
+    {
+      "boards": [
+        "ashby:dedalus-labs"
+      ],
+      "company": "Dedalus Labs",
+      "key": "0eb76564addc865d9d5f0b5e",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.dedaluslabs.ai/"
+    },
+    {
+      "boards": [],
+      "company": "Novocure",
+      "key": "0fe072ad179daa9f7b8e739a",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.novocure.com/"
+    },
+    {
+      "boards": [],
+      "company": "Flip",
+      "key": "13fe95a9f063db7ae0ed3539",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://flip.id/"
+    },
+    {
+      "company": "WHOOP",
+      "error": "public request failed for https://www.whoop.com/: HTTP Error 403: Forbidden",
+      "key": "208af606069f130189efa0d5",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.whoop.com/"
+    },
+    {
+      "boards": [],
+      "company": "Kiss Beauty Group",
+      "key": "255e2df6c6cdfd053d8b0b40",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.kissusa.com/"
+    },
+    {
+      "boards": [],
+      "company": "CF Industries",
+      "key": "2b35433ccd5982135a7ea571",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.cfindustries.com/"
+    },
+    {
+      "boards": [],
+      "company": "Gotion Inc.",
+      "key": "2ff602938ef1435c5a35ab8a",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.gotion.com/"
+    },
+    {
+      "boards": [],
+      "company": "Boom Supersonic",
+      "key": "3459c40a4012227b799fe1ae",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://boomsupersonic.com/"
+    },
+    {
+      "boards": [
+        "greenhouse:fanaticscollectibles",
+        "greenhouse:fanaticscommerce",
+        "greenhouse:fanaticsfbg",
+        "greenhouse:fanaticsinc",
+        "oracle:fa-exki-saasfaprod1.fa.ocs.oraclecloud.com:cx_1"
+      ],
+      "company": "Fanatics",
+      "key": "3904afc2f48515855cfdf709",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.fanaticsinc.com/"
+    },
+    {
+      "company": "Oracle",
+      "error": "public request failed for https://www.oracle.com/: HTTP Error 403: Forbidden",
+      "key": "3bdd3eb53277825b1e794d32",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.oracle.com/"
+    },
+    {
+      "boards": [],
+      "company": "Anduril Industries",
+      "key": "42081efaa3b9533925134181",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.anduril.com/"
+    },
+    {
+      "boards": [],
+      "company": "Core & Main",
+      "key": "4806f77edfb4e2b5f23ac365",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://coreandmain.com/"
+    },
+    {
+      "boards": [],
+      "company": "Verkada",
+      "key": "4b94d009d8ed4cbbb6fe9e3c",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.verkada.com/"
+    },
+    {
+      "boards": [],
+      "company": "Coherent Corp.",
+      "key": "4c1ff8aa3d1e10ef7a454f4e",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.coherent.com/"
+    },
+    {
+      "boards": [],
+      "company": "Medpace",
+      "key": "4fe8e76d35f2d2e05a72e79b",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.medpace.com/"
+    },
+    {
+      "boards": [],
+      "company": "1KOMMA5\u00b0",
+      "key": "5522b921845a2ea6745f62a7",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://1komma5.com/"
+    },
+    {
+      "boards": [],
+      "company": "Susquehanna International Group",
+      "key": "608a19b8d71c79fe5d62d8a3",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.sig.com/"
+    },
+    {
+      "boards": [],
+      "company": "GE HealthCare",
+      "key": "62b78720697f25d5e14525f3",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.gehealthcare.com/"
+    },
+    {
+      "company": "lululemon",
+      "error": "public request failed for https://shop.lululemon.com/: The read operation timed out",
+      "key": "724a849cab816744a470e140",
+      "last_scanned": "2026-08-15",
+      "url": "https://shop.lululemon.com/"
+    },
+    {
+      "company": "Los Alamos National Laboratory",
+      "error": "public request failed for https://www.lanl.gov/: HTTP Error 404: Not Found",
+      "key": "732857a52fb2c0b5ef783e9c",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.lanl.gov/"
+    },
+    {
+      "boards": [],
+      "company": "MANTECH",
+      "key": "7666c9860ed38704f4b88c35",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.mantech.com/"
+    },
+    {
+      "boards": [],
+      "company": "Stratevi",
+      "key": "7acf12c5c706f6e8bbb715d1",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.stratevi.com/"
+    },
+    {
+      "boards": [],
+      "company": "Bank of America",
+      "key": "7b775fa206d076318c830a2c",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.bankofamerica.com/"
+    },
+    {
+      "boards": [
+        "greenhouse:accenturefederalservices",
+        "workday:accenture.wd103.myworkdayjobs.com:accenture:accenturecareers"
+      ],
+      "company": "Accenture Federal Services",
+      "key": "7f0ee292d99f35a19a18c396",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.afs.com/"
+    },
+    {
+      "boards": [],
+      "company": "Wolverine Trading",
+      "key": "84f82ccce2ba6775c77ae149",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.wolve.com/"
+    },
+    {
+      "boards": [
+        "workday:workday.wd5.myworkdayjobs.com:workday:workday",
+        "workday:workday.wd5.myworkdayjobs.com:workday:workday_early_career"
+      ],
+      "company": "Workday",
+      "key": "880482f1e4b82e482a1959a8",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.workday.com/"
+    },
+    {
+      "boards": [],
+      "company": "Infineon Technologies",
+      "key": "886663a480c269e2dcbfe0ce",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.infineon.com/"
+    },
+    {
+      "boards": [
+        "greenhouse:astranis"
+      ],
+      "company": "Astranis Space Technologies",
+      "key": "8a16d0585ddcb7505313b5f9",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.astranis.com/"
+    },
+    {
+      "company": "Keysight Technologies",
+      "error": "public request failed for https://www.keysight.com/us/en/home.html: HTTP Error 403: Forbidden",
+      "key": "8a4c83a51cc7aa0939ee1126",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.keysight.com/"
+    },
+    {
+      "company": "Marathon Petroleum Corporation",
+      "error": "public request failed for https://www.marathonpetroleum.com/: HTTP Error 403: Forbidden",
+      "key": "8b96c5fecf4a8c25a350411f",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.marathonpetroleum.com/"
+    },
+    {
+      "boards": [
+        "workday:bah.wd1.myworkdayjobs.com:bah:bah_jobs"
+      ],
+      "company": "Booz Allen Hamilton",
+      "key": "8fa648d82a04c306f68fd67f",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.boozallen.com/"
+    },
+    {
+      "boards": [],
+      "company": "L3Harris Technologies",
+      "key": "945af577348550b22cf03f71",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.l3harris.com/"
+    },
+    {
+      "boards": [],
+      "company": "Garver",
+      "key": "9c3b964d670bab2d2a7764f6",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://garverusa.com/"
+    },
+    {
+      "boards": [],
+      "company": "Microsoft",
+      "key": "abb5ddea57c82ce1a6637499",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.microsoft.com/"
+    },
+    {
+      "boards": [],
+      "company": "Capgemini",
+      "key": "ad2878ed4242c65b754e13c3",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.capgemini.com/"
+    },
+    {
+      "boards": [],
+      "company": "Leaf Home",
+      "key": "ae98db360a3b725a5091370b",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.leafhome.com/"
+    },
+    {
+      "boards": [],
+      "company": "TRG",
+      "key": "af213eec38c65e76d311f7de",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://trg.agency/"
+    },
+    {
+      "boards": [
+        "ashby:notion"
+      ],
+      "company": "Notion",
+      "key": "b04d19f21678295e26b2d736",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.notion.com/"
+    },
+    {
+      "boards": [
+        "workday:seagate.wd1.myworkdayjobs.com:seagate:ext"
+      ],
+      "company": "Seagate Technology",
+      "key": "b10467111703afedb98f2c1e",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.seagate.com/"
+    },
+    {
+      "boards": [],
+      "company": "Dolby Laboratories",
+      "key": "b17286069b4b18ad94f99172",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.dolby.com/"
+    },
+    {
+      "boards": [],
+      "company": "Langan Engineering & Environmental Services",
+      "key": "b3469241d323e0b34c8d7392",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.langan.com/"
+    },
+    {
+      "boards": [],
+      "company": "IMC Trading",
+      "key": "b52aa49767105ee73f626d00",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.imc.com/us/imc-investments/"
+    },
+    {
+      "boards": [],
+      "company": "Hatch",
+      "key": "b628200fbf547ddfafcdf17f",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.usehatchapp.com/"
+    },
+    {
+      "boards": [
+        "workday:nc.wd108.myworkdayjobs.com:nc:nc_careers"
+      ],
+      "company": "North Carolina Department of Agriculture and Consumer Services",
+      "key": "b6e5c8389652b9a30c0d8678",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://ncagr.gov/"
+    },
+    {
+      "boards": [
+        "workday:gdit.wd5.myworkdayjobs.com:gdit:gdit_earlytalent"
+      ],
+      "company": "General Dynamics Information Technology",
+      "key": "b8c3baa01e39f83c98fa3edc",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.gdit.com/"
+    },
+    {
+      "boards": [],
+      "company": "Monroe Plan for Medical Care",
+      "key": "b8f7f2524535a618198ad300",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.monroeplan.com/"
+    },
+    {
+      "boards": [],
+      "company": "State Farm",
+      "key": "b9bdc6027bc2885c51b44707",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.statefarm.com/"
+    },
+    {
+      "boards": [],
+      "company": "Hakk\u014dda, an IBM Company",
+      "key": "bbd79d61333f2631227d8205",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://hakkoda.io/"
+    },
+    {
+      "boards": [],
+      "company": "KKR",
+      "key": "bfc9394bad9d378a790ae3a9",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.kkr.com/"
+    },
+    {
+      "boards": [],
+      "company": "Onto Innovation",
+      "key": "c336b7be79f125a8d2c3d216",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.ontoinnovation.com/"
+    },
+    {
+      "boards": [
+        "ashby:gigaml"
+      ],
+      "company": "Giga",
+      "key": "c3937850f71b32334961872a",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://giga.ai/"
+    },
+    {
+      "boards": [],
+      "company": "Daily Management Resorts",
+      "key": "c3deded3ed1d2261513330ab",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.dailymanagementresorts.com/"
+    },
+    {
+      "boards": [],
+      "company": "Roku",
+      "key": "c46b839668acadb7216a906d",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.roku.com/"
+    },
+    {
+      "boards": [
+        "oracle:jpmc.fa.oraclecloud.com:cx_1001"
+      ],
+      "company": "JPMorganChase",
+      "key": "c49810a886dcff1671a1c95b",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.jpmorganchase.com/"
+    },
+    {
+      "boards": [],
+      "company": "Texas Instruments",
+      "key": "c6d4cb77fac08ee830d58d69",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.ti.com/"
+    },
+    {
+      "boards": [],
+      "company": "Louisiana Economic Development",
+      "key": "c8290783cc24d5052449e391",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.opportunitylouisiana.com/"
+    },
+    {
+      "boards": [
+        "ashby:applied"
+      ],
+      "company": "Applied Intuition",
+      "key": "c8466ddcde40134870651fff",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://appliedintuition.com/"
+    },
+    {
+      "boards": [],
+      "company": "Presidio",
+      "key": "ca39cf795af144b75bdc5ac7",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.presidio.com/"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "error": "public request failed for https://www.tcs.com/: HTTP Error 403: Forbidden",
+      "key": "cb1b4f4fb4ca317c8023b438",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.tcs.com/"
+    },
+    {
+      "boards": [],
+      "company": "Rivian",
+      "key": "cb5fccd694c211ec722179f6",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.rivian.com/"
+    },
+    {
+      "boards": [],
+      "company": "Point72",
+      "key": "cc9595ce03a3f502ed02b0ce",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.point72.com/"
+    },
+    {
+      "boards": [],
+      "company": "Publicis Groupe",
+      "key": "cf3d5b8db043cf96941a7b33",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.publicisgroupe.com/"
+    },
+    {
+      "company": "Butler Aerospace & Defense",
+      "error": "public request failed for https://www.hcltech.com/: The read operation timed out",
+      "key": "cfd3794065df83e2f2751eed",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.hcltech.com/"
+    },
+    {
+      "boards": [],
+      "company": "Publicis Canada",
+      "key": "cfe857afd8560a95b43c915b",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.publicis.ca/"
+    },
+    {
+      "boards": [],
+      "company": "DHL Supply Chain",
+      "key": "d025f2a0f81a4b439e1e9eda",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.dhl.com/gb-en/home/supply-chain.html"
+    },
+    {
+      "boards": [
+        "ashby:abridge"
+      ],
+      "company": "Abridge",
+      "key": "d124187506ec8bfdb03b1de7",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.abridge.com/"
+    },
+    {
+      "boards": [],
+      "company": "LG Electronics",
+      "key": "d1969c88a763a49135dc78b7",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.lg.com/"
+    },
+    {
+      "boards": [],
+      "company": "Twitch",
+      "key": "d4f11952021144cafef8472b",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.twitch.tv/"
+    },
+    {
+      "boards": [],
+      "company": "Northrop Grumman",
+      "key": "d6004b105866f06b40eb1425",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.northropgrumman.com/"
+    },
+    {
+      "boards": [],
+      "company": "BTI360",
+      "key": "d8699d6ccb13be066bb63316",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.bti360.com/"
+    },
+    {
+      "boards": [],
+      "company": "Centric Brands",
+      "key": "d9c02b82427047d7a26e369e",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://centricbrands.com/"
+    },
+    {
+      "boards": [],
+      "company": "Gesture",
+      "key": "db57a8542435a34e5fe3f170",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://gesture.vip/"
+    },
+    {
+      "boards": [],
+      "company": "CodeVertex System",
+      "key": "db866db6ed313c90d71fcd9b",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 1,
+      "url": "https://codevertexinnovations.com/"
+    },
+    {
+      "boards": [
+        "workday:abbott.wd5.myworkdayjobs.com:abbott:abbottcareers"
+      ],
+      "company": "Abbott",
+      "key": "e19124db1710348206048bd9",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.abbott.com/"
+    },
+    {
+      "boards": [],
+      "company": "University of Nebraska-Lincoln",
+      "key": "e2969ff6aa8d17c309c24f34",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.unl.edu/"
+    },
+    {
+      "boards": [],
+      "company": "Optiver",
+      "key": "e2c613dc715432d84648d717",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 2,
+      "url": "https://www.optiver.com/"
+    },
+    {
+      "boards": [],
+      "company": "Balfour Beatty US",
+      "key": "e3ea2823fea025604f45ff33",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.balfourbeattyus.com/"
+    },
+    {
+      "boards": [
+        "workday:vst.wd5.myworkdayjobs.com:vst:vistra_careers"
+      ],
+      "company": "Vistra Corp.",
+      "key": "e430af73527d257e4bf3f402",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://vistracorp.com/"
+    },
+    {
+      "boards": [
+        "workday:cornerstone.wd501.myworkdayjobs.com:cornerstone:cornerstoneresearch_careers"
+      ],
+      "company": "Cornerstone Research",
+      "key": "e6a4695df787cfa569d13439",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 1,
+      "url": "https://www.cornerstone.com/"
+    },
+    {
+      "boards": [],
+      "company": "RTI International",
+      "key": "e6fb53c5d39bc2f2b1f49f36",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.rti.org/"
+    },
+    {
+      "boards": [],
+      "company": "Neuralink",
+      "key": "e8f98e28144666353a0946fb",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.neuralink.com/"
+    },
+    {
+      "boards": [
+        "oracle:fa-etum-saasfaprod1.fa.ocs.oraclecloud.com:cx_1"
+      ],
+      "company": "GuideWell",
+      "key": "ea38a1266fe3536a6ed7305b",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.guidewell.com/"
+    },
+    {
+      "boards": [
+        "workday:firstam.wd1.myworkdayjobs.com:firstam:firstamericancareers"
+      ],
+      "company": "First American",
+      "key": "edbba829bbc8474f3e4102c1",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.firstam.com/"
+    },
+    {
+      "boards": [],
+      "company": "Berkeley Industrial Engineering & Operations Research",
+      "key": "f10b22802ddf6de95d455fd9",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 2,
+      "url": "https://ieor.berkeley.edu/"
+    },
+    {
+      "boards": [],
+      "company": "Mizuho OSI",
+      "key": "f19518d93304bd6771915e93",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://mizuhosi.com/"
+    },
+    {
+      "boards": [],
+      "company": "EBI Consulting",
+      "key": "f439715cccd6e63f318d10da",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.ebiconsulting.com/"
+    },
+    {
+      "company": "Ericsson",
+      "error": "public request failed for https://www.ericsson.com/en: HTTP Error 403: Forbidden",
+      "key": "f53ce3ad208b14b94c9e584f",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.ericsson.com/"
+    },
+    {
+      "boards": [],
+      "company": "Achieve",
+      "key": "f6f0bb27e4f709327bae7ef6",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 3,
+      "url": "https://www.achieve.com/"
+    },
+    {
+      "boards": [],
+      "company": "Generac",
+      "key": "fcebde907a4d413b2365783e",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.generac.com/"
+    },
+    {
+      "boards": [],
+      "company": "Gilbane Building",
+      "key": "fd94282070bc26d6c006b62a",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.gilbaneco.com/"
+    },
+    {
+      "boards": [],
+      "company": "Washington College",
+      "key": "fdbd902b1db991be7bdbd991",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.washcoll.edu/"
+    },
+    {
+      "boards": [],
+      "company": "Audible",
+      "key": "fec5c970c431a3bf12b0e22d",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.audible.com/"
+    },
+    {
+      "boards": [],
+      "company": "WebTPA",
+      "key": "ffd7810335599c00dfd1d3da",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://webtpa.com/"
+    }
+  ]
+}
