@@ -3,6 +3,9 @@ from __future__ import annotations
 import re
 from collections.abc import Callable, Mapping, Sequence
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import UTC, date, datetime, timedelta
+from functools import partial
+from urllib.parse import urlsplit
 
 from .models import Observation, Program, Snapshot
 from .net import get_json, get_text
@@ -30,6 +33,71 @@ INTERN_ENGINE = (
     "Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/"
     "main/docs/api/jobs.json"
 )
+_JOBRIGHT_FEEDS: tuple[tuple[str, str, str, Program, str | None], ...] = (
+    (
+        "jobright-swe-internships",
+        "2026-Software-Engineer-Internship",
+        "Software Engineering",
+        "internship",
+        None,
+    ),
+    (
+        "jobright-data-internships",
+        "2026-Data-Analysis-Internship",
+        "Data Analysis",
+        "internship",
+        None,
+    ),
+    (
+        "jobright-business-analyst-internships",
+        "2026-Business-Analyst-Internship",
+        "Business Analysis",
+        "internship",
+        None,
+    ),
+    (
+        "jobright-product-internships",
+        "2026-Product-Management-Internship",
+        "Product Management",
+        "internship",
+        None,
+    ),
+    (
+        "jobright-engineering-internships",
+        "2026-Engineer-Internship",
+        "Engineering",
+        "internship",
+        None,
+    ),
+    (
+        "jobright-swe-new-grad",
+        "2026-Software-Engineer-New-Grad",
+        "Software Engineering",
+        "new-grad",
+        "2026",
+    ),
+    (
+        "jobright-data-new-grad",
+        "2026-Data-Analysis-New-Grad",
+        "Data Analysis",
+        "new-grad",
+        "2026",
+    ),
+    (
+        "jobright-business-analyst-new-grad",
+        "2026-Business-Analyst-New-Grad",
+        "Business Analysis",
+        "new-grad",
+        "2026",
+    ),
+    (
+        "jobright-product-new-grad",
+        "2026-Product-Management-New-Grad",
+        "Product Management",
+        "new-grad",
+        "2026",
+    ),
+)
 
 _REPOSITORIES = {
     "simplify-internships": "https://github.com/SimplifyJobs/Summer2027-Internships",
@@ -40,6 +108,10 @@ _REPOSITORIES = {
     "intern-engine": (
         "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"
     ),
+    **{
+        source_id: f"https://github.com/jobright-ai/{repository}"
+        for source_id, repository, _, _, _ in _JOBRIGHT_FEEDS
+    },
 }
 
 
@@ -103,6 +175,21 @@ def _simplify(source_id: str, url: str, program: Program) -> Snapshot:
 
 _HTML_LINK = re.compile(r'href=["\'](https?://[^"\']+)', re.IGNORECASE)
 _MD_LINK = re.compile(r"\[[^]]*]\((https?://[^)]+)\)", re.IGNORECASE)
+_JOBRIGHT_PATH = re.compile(r"^/jobs/info/([A-Za-z0-9_-]+)$")
+_MONTHS = {
+    "jan": 1,
+    "feb": 2,
+    "mar": 3,
+    "apr": 4,
+    "may": 5,
+    "jun": 6,
+    "jul": 7,
+    "aug": 8,
+    "sep": 9,
+    "oct": 10,
+    "nov": 11,
+    "dec": 12,
+}
 
 
 def parse_markdown_jobs(
@@ -174,6 +261,95 @@ def _markdown(
     return Snapshot(source_id, observations, complete=True)
 
 
+def _jobright_posted_at(value: str, *, today: date) -> str | None:
+    match = re.fullmatch(r"([A-Za-z]{3})\s+(\d{1,2})", clean_text(value))
+    if not match or match.group(1).casefold() not in _MONTHS:
+        return None
+    try:
+        posted = date(today.year, _MONTHS[match.group(1).casefold()], int(match.group(2)))
+    except ValueError:
+        return None
+    if posted > today + timedelta(days=1):
+        posted = posted.replace(year=posted.year - 1)
+    return posted.isoformat()
+
+
+def parse_jobright_jobs(
+    text: str,
+    *,
+    source_id: str,
+    source_label: str,
+    program: Program,
+    cycle_hint: str | None,
+    today: date | None = None,
+) -> tuple[Observation, ...]:
+    observations: list[Observation] = []
+    previous_company = ""
+    current_date = today or datetime.now(UTC).date()
+    for line in text.splitlines():
+        if not line.startswith("|"):
+            continue
+        cells = [cell.strip() for cell in line.strip().strip("|").split("|")]
+        if len(cells) < 5 or set(cells[0]) <= {"-", ":", " "}:
+            continue
+
+        title_links = _MD_LINK.findall(cells[1])
+        if not title_links:
+            continue
+        job_url = title_links[-1]
+        parsed = urlsplit(job_url)
+        identifier = _JOBRIGHT_PATH.fullmatch(parsed.path.rstrip("/"))
+        if parsed.hostname != "jobright.ai" or not identifier:
+            continue
+
+        company = clean_text(cells[0]).strip("*_` ")
+        if company == "↳":
+            company = previous_company
+        elif company:
+            previous_company = company
+        title = clean_text(cells[1]).strip("*_` ")
+        location = clean_text(cells[2])
+        if not company or not title or not location:
+            continue
+
+        observations.append(
+            Observation(
+                source_id=source_id,
+                source_label=f"Jobright · {source_label}",
+                source_url=_REPOSITORIES[source_id],
+                external_id=identifier.group(1),
+                company=company,
+                title=title,
+                location=location,
+                url=job_url,
+                program=program,
+                cycle=cycle_hint,
+                posted_at=_jobright_posted_at(cells[4], today=current_date),
+                trusted_us=False,
+                metadata={"work_model": clean_text(cells[3]) or None},
+            )
+        )
+    return tuple(observations)
+
+
+def _jobright(
+    source_id: str,
+    repository: str,
+    label: str,
+    program: Program,
+    cycle_hint: str | None,
+) -> Snapshot:
+    url = f"https://raw.githubusercontent.com/jobright-ai/{repository}/master/README.md"
+    observations = parse_jobright_jobs(
+        get_text(url),
+        source_id=source_id,
+        source_label=label,
+        program=program,
+        cycle_hint=cycle_hint,
+    )
+    return Snapshot(source_id, observations, complete=True)
+
+
 def _intern_engine() -> Snapshot:
     payload = get_json(INTERN_ENGINE)
     if not isinstance(payload, Mapping) or not isinstance(payload.get("jobs"), list):
@@ -236,6 +412,12 @@ def fetch_upstreams() -> tuple[tuple[Snapshot, ...], dict[str, str]]:
         ),
         "intern-engine": _intern_engine,
     }
+    loaders.update(
+        {
+            source_id: partial(_jobright, source_id, repository, label, program, cycle_hint)
+            for source_id, repository, label, program, cycle_hint in _JOBRIGHT_FEEDS
+        }
+    )
     snapshots: list[Snapshot] = []
     errors: dict[str, str] = {}
     with ThreadPoolExecutor(max_workers=len(loaders)) as executor:

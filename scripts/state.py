@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import hashlib
+import re
 from collections import defaultdict
 from copy import deepcopy
 from typing import Any
@@ -22,6 +23,7 @@ _SOURCE_PRIORITY = {
     "simplify": 2,
     "speedy": 3,
     "sndsh": 4,
+    "jobright": 5,
 }
 _REQUIREMENT_LEVELS = {"required", "preferred", "stated"}
 
@@ -69,6 +71,21 @@ def _priority(observation: Observation) -> int:
     return _SOURCE_PRIORITY.get(prefix, 10)
 
 
+def _content_key_values(company: object, title: object, location: object) -> tuple[str, str, str]:
+    def normalize(value: str) -> str:
+        return " ".join(re.sub(r"[^a-z0-9]+", " ", value.casefold()).split())
+
+    return (
+        normalize(str(company or "")),
+        normalize(str(title or "")),
+        normalize(str(location or "")),
+    )
+
+
+def _content_key(observation: Observation) -> tuple[str, str, str]:
+    return _content_key_values(observation.company, observation.title, observation.location)
+
+
 def _source(observation: Observation) -> dict[str, str]:
     return {
         "id": observation.source_id,
@@ -100,10 +117,23 @@ def _protect_link(job: dict[str, Any], sources: list[dict[str, str]], raw_url: s
 
 
 def _current_jobs(observations: list[Observation], today: str) -> dict[str, dict[str, Any]]:
+    eligible_observations = [observation for observation in observations if eligible(observation)]
+    direct_by_content: dict[tuple[str, str, str], Observation] = {}
+    for observation in sorted(eligible_observations, key=_priority):
+        if not observation.source_id.startswith("jobright-"):
+            direct_by_content.setdefault(_content_key(observation), observation)
+
     grouped: dict[str, list[Observation]] = defaultdict(list)
-    for observation in observations:
-        if eligible(observation):
-            grouped[job_id(observation)].append(observation)
+    for observation in eligible_observations:
+        identifier = job_id(observation)
+        if observation.source_id.startswith("jobright-"):
+            direct = direct_by_content.get(_content_key(observation))
+            if direct is not None:
+                identifier = job_id(direct)
+            else:
+                identity = "\x1f".join(_content_key(observation))
+                identifier = f"job_{hashlib.sha256(identity.encode()).hexdigest()[:24]}"
+        grouped[identifier].append(observation)
 
     jobs: dict[str, dict[str, Any]] = {}
     for identifier, group in grouped.items():
@@ -178,11 +208,27 @@ def merge_state(
         for job in previous_payload.get("jobs", [])
         if isinstance(job, dict) and job.get("id")
     }
+    previous_jobright_by_content: dict[tuple[str, str, str], tuple[str, dict[str, Any]]] = {}
+    for identifier, job in previous_jobs.items():
+        if any(
+            isinstance(source, dict) and str(source.get("id", "")).startswith("jobright-")
+            for source in job.get("sources", [])
+        ):
+            key = _content_key_values(job.get("company"), job.get("title"), job.get("location"))
+            previous_jobright_by_content.setdefault(key, (identifier, job))
     current = _current_jobs(observations, today)
     merged: dict[str, dict[str, Any]] = {}
+    migrated_previous_ids: set[str] = set()
 
     for identifier, job in current.items():
         previous = previous_jobs.get(identifier)
+        if previous is None:
+            alias = previous_jobright_by_content.get(
+                _content_key_values(job.get("company"), job.get("title"), job.get("location"))
+            )
+            if alias is not None:
+                previous_identifier, previous = alias
+                migrated_previous_ids.add(previous_identifier)
         if previous is None:
             merged[identifier] = job
             continue
@@ -214,7 +260,7 @@ def merge_state(
         merged[identifier] = job
 
     for identifier, previous in previous_jobs.items():
-        if identifier in merged:
+        if identifier in merged or identifier in migrated_previous_ids:
             continue
         previous_sources = {
             str(source.get("id"))

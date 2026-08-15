@@ -386,6 +386,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Epia Neuro",
+      "key": "ashby:epianeuro",
+      "slug": "epianeuro"
+    },
+    {
+      "ats": "ashby",
       "company": "Etched",
       "key": "ashby:etched",
       "slug": "etched"
@@ -3920,6 +3926,15 @@
     },
     {
       "ats": "workday",
+      "company": "Capital Health",
+      "host": "capitalhealth.wd1.myworkdayjobs.com",
+      "key": "workday:capitalhealth.wd1.myworkdayjobs.com:capitalhealth:capitalhealthcareers",
+      "site": "CapitalHealthCareers",
+      "slug": "capitalhealth",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Capital One",
       "host": "capitalone.wd12.myworkdayjobs.com",
       "key": "workday:capitalone.wd12.myworkdayjobs.com:capitalone:capital_one",
@@ -5495,6 +5510,24 @@
     },
     {
       "ats": "workday",
+      "company": "Interdigital",
+      "host": "interdigital.wd5.myworkdayjobs.com",
+      "key": "workday:interdigital.wd5.myworkdayjobs.com:interdigital:interdigital_career",
+      "site": "InterDigital_Career",
+      "slug": "interdigital",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Interdigital",
+      "host": "interdigital.wd5.myworkdayjobs.com",
+      "key": "workday:interdigital.wd5.myworkdayjobs.com:interdigital:interdigital_intern",
+      "site": "InterDigital_Intern",
+      "slug": "interdigital",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Omnicom Group",
       "host": "interpublic.wd5.myworkdayjobs.com",
       "key": "workday:interpublic.wd5.myworkdayjobs.com:interpublic:omc",
@@ -6221,6 +6254,15 @@
       "site": "MyNelnet",
       "slug": "nelnet",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Neogen",
+      "host": "neogen.wd5.myworkdayjobs.com",
+      "key": "workday:neogen.wd5.myworkdayjobs.com:neogen:neogencareers",
+      "site": "neogencareers",
+      "slug": "neogen",
+      "wd": "wd5"
     },
     {
       "ats": "workday",

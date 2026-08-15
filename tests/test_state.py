@@ -81,6 +81,65 @@ class StateTests(unittest.TestCase):
         self.assertEqual(len(state["jobs"][0]["sources"]), 2)
         self.assertEqual(state["jobs"][0]["link_status"], "ats-verified")
 
+    def test_jobright_duplicate_uses_existing_employer_link(self) -> None:
+        direct = role("simplify-internships", "https://jobs.example.com/123")
+        jobright = role(
+            "jobright-swe-internships",
+            "https://jobright.ai/jobs/info/abc123?utm_source=git",
+        )
+        state = merge_state(
+            {"jobs": []},
+            [jobright, direct],
+            complete_sources={jobright.source_id, direct.source_id},
+            today="2026-08-01",
+        )
+
+        self.assertEqual(len(state["jobs"]), 1)
+        self.assertEqual(state["jobs"][0]["url"], direct.url)
+        self.assertEqual(len(state["jobs"][0]["sources"]), 2)
+
+    def test_jobright_listing_upgrades_to_employer_link_without_duplication(self) -> None:
+        jobright = role(
+            "jobright-swe-internships",
+            "https://jobright.ai/jobs/info/abc123?utm_source=git",
+        )
+        state = merge_state(
+            {"jobs": []},
+            [jobright],
+            complete_sources={jobright.source_id},
+            today="2026-08-01",
+        )
+        direct = role("simplify-internships", "https://jobs.example.com/123")
+        state = merge_state(
+            state,
+            [jobright, direct],
+            complete_sources={jobright.source_id, direct.source_id},
+            today="2026-08-02",
+        )
+
+        self.assertEqual(len(state["jobs"]), 1)
+        self.assertEqual(state["jobs"][0]["url"], direct.url)
+        self.assertEqual(state["jobs"][0]["first_seen"], "2026-08-01")
+
+    def test_jobright_feeds_deduplicate_matching_roles(self) -> None:
+        first = role(
+            "jobright-swe-internships",
+            "https://jobright.ai/jobs/info/abc123?utm_source=git",
+        )
+        second = role(
+            "jobright-engineering-internships",
+            "https://jobright.ai/jobs/info/def456?utm_source=git",
+        )
+        state = merge_state(
+            {"jobs": []},
+            [first, second],
+            complete_sources={first.source_id, second.source_id},
+            today="2026-08-01",
+        )
+
+        self.assertEqual(len(state["jobs"]), 1)
+        self.assertEqual(len(state["jobs"][0]["sources"]), 2)
+
     def test_previous_source_reported_link_is_retained(self) -> None:
         previous = {
             "jobs": [

@@ -180,6 +180,50 @@ class RenderTests(unittest.TestCase):
         )
         self.assertIn("source reported", summer)
 
+    def test_jobright_discovery_is_not_labeled_as_direct_apply(self) -> None:
+        url = "https://jobright.ai/jobs/info/abc123?utm_source=git"
+        payload: dict[str, Any] = {
+            "jobs": [
+                {
+                    "id": "job_jobright",
+                    "company": "Example",
+                    "title": "Software Engineer Intern",
+                    "location": "Austin, TX",
+                    "url": url,
+                    "url_host": "jobright.ai",
+                    "url_fingerprint": hashlib.sha256(url.encode()).hexdigest()[:24],
+                    "link_status": "source-reported",
+                    "program": "internship",
+                    "cycle": "summer-2027",
+                    "posted_at": "2026-08-14",
+                    "status": "open",
+                    "sources": [
+                        {
+                            "id": "jobright-swe-internships",
+                            "label": "Jobright · Software Engineering",
+                            "url": "https://github.com/jobright-ai/2026-Software-Engineer-Internship",
+                        }
+                    ],
+                }
+            ]
+        }
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / "README.md").write_text(
+                "<!-- COUNTS:START -->\nold\n<!-- COUNTS:END -->\n"
+                "<!-- LATEST-INTERNSHIPS:START -->\nold\n<!-- LATEST-INTERNSHIPS:END -->\n"
+                "<!-- LATEST-NEW-GRAD:START -->\nold\n<!-- LATEST-NEW-GRAD:END -->\n",
+                encoding="utf-8",
+            )
+            render_repository(root, payload, [])
+            readme = (root / "README.md").read_text(encoding="utf-8")
+            summer = (root / "internships/summer-2027.md").read_text(encoding="utf-8")
+
+        self.assertIn("**[View job →]", readme)
+        self.assertNotIn("**[Apply →]", readme)
+        self.assertIn("[view job · Jobright]", summer)
+        self.assertNotIn("[apply · jobright.ai]", summer)
+
     def test_render_does_not_hide_a_clickable_url_based_on_status(self) -> None:
         url = "https://careers.example.com/jobs/123?source=trusted-feed"
         payload: dict[str, Any] = {

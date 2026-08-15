@@ -103,6 +103,10 @@ def _apply_link(job: dict[str, Any]) -> str:
     host = str(job.get("url_host") or (urlsplit(url).hostname if url else "") or "external site")
     if not url:
         return f"link unavailable<br><sub>{_cell(host)}</sub>"
+    if host == "jobright.ai":
+        return (
+            f"[view job · Jobright]({_markdown_destination(url)})<br><sub>discovery listing</sub>"
+        )
     status = {
         "ats-verified": "ATS checked",
         "cross-source": "cross-checked",
@@ -117,6 +121,8 @@ def _front_page_apply_link(job: dict[str, Any]) -> str:
     if not url:
         return "link unavailable"
     host = str(job.get("url_host") or urlsplit(url).hostname or "employer site")
+    if host == "jobright.ai":
+        return f"**[View job →]({_markdown_destination(url)})**<br><sub>Jobright</sub>"
     return f"**[Apply →]({_markdown_destination(url)})**<br><sub>{_cell(host)}</sub>"
 
 
