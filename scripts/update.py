@@ -11,6 +11,7 @@ if __package__ in {None, ""}:
     sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from scripts.boards import discover_boards, fetch_direct_boards  # noqa: E402
+from scripts.discovery import prioritized_board_keys, split_jobright_discoveries  # noqa: E402
 from scripts.models import Observation  # noqa: E402
 from scripts.normalize import reported_job_url  # noqa: E402
 from scripts.render import render_repository  # noqa: E402
@@ -58,12 +59,15 @@ def main() -> int:
         details = "; ".join(f"{name}: {error}" for name, error in upstream_errors.items())
         raise RuntimeError(f"every upstream failed; refusing to alter the database ({details})")
 
-    upstream_observations = [
+    all_upstream_observations = [
         observation
         for snapshot in upstreams
         for observation in snapshot.observations
         if eligible(observation)
     ]
+    non_jobright_observations, jobright_discoveries = split_jobright_discoveries(
+        all_upstream_observations
+    )
     board_payload = _load_json(ROOT / "data/boards.json", {"boards": []})
     existing_boards = [
         board for board in board_payload.get("boards", []) if isinstance(board, dict)
@@ -72,17 +76,23 @@ def main() -> int:
         board["key"]
         for board in discover_boards([], existing_boards)  # type: ignore[arg-type]
     }
-    boards = discover_boards(upstream_observations, existing_boards)  # type: ignore[arg-type]
+    boards = discover_boards(non_jobright_observations, existing_boards)  # type: ignore[arg-type]
+    priority_keys = prioritized_board_keys(jobright_discoveries, boards)
 
     slot = datetime.now(UTC).minute // 15
     boards_to_poll = [
         board
         for board in boards
-        if board["key"] not in existing_keys or _poll_slot(board["key"]) == slot
+        if (
+            board["key"] not in existing_keys
+            or _poll_slot(board["key"]) == slot
+            or board["key"] in priority_keys
+        )
     ]
     direct, direct_errors = fetch_direct_boards(boards_to_poll)
     snapshots = (*upstreams, *direct)
-    observations = [item for snapshot in snapshots for item in snapshot.observations]
+    direct_observations = [item for snapshot in direct for item in snapshot.observations]
+    observations = [*all_upstream_observations, *direct_observations]
     complete_sources = {snapshot.source_id for snapshot in snapshots if snapshot.complete}
 
     previous = _load_json(
@@ -101,6 +111,10 @@ def main() -> int:
     print(
         f"Keryx indexed {open_jobs} open US roles from {len(upstreams)} upstreams and "
         f"{len(direct)} direct ATS boards."
+    )
+    print(
+        f"Jobright supplied {len(jobright_discoveries)} discovery signals; "
+        f"prioritized {len(priority_keys)} known employer boards."
     )
     errors = {**upstream_errors, **direct_errors}
     if errors:

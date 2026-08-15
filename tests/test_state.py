@@ -10,6 +10,7 @@ def role(
     source: str = "feed",
     url: str = "https://jobs.example.com/123",
     description: str = "",
+    location: str = "Austin, TX",
 ) -> Observation:
     return Observation(
         source_id=source,
@@ -18,7 +19,7 @@ def role(
         external_id="123",
         company="Example",
         title="Software Engineer Intern - Summer 2027",
-        location="Austin, TX",
+        location=location,
         url=url,
         program="internship",
         cycle="summer-2027",
@@ -97,6 +98,24 @@ class StateTests(unittest.TestCase):
         self.assertEqual(len(state["jobs"]), 1)
         self.assertEqual(state["jobs"][0]["url"], direct.url)
         self.assertEqual(len(state["jobs"][0]["sources"]), 2)
+
+    def test_jobright_location_suffix_does_not_block_direct_link_upgrade(self) -> None:
+        direct = role("simplify-internships", "https://amazon.jobs/jobs/123/apply")
+        jobright = role(
+            "jobright-swe-internships",
+            "https://jobright.ai/jobs/info/abc123?utm_source=git",
+            location="Austin, TX, United States",
+        )
+
+        state = merge_state(
+            {"jobs": []},
+            [jobright, direct],
+            complete_sources={jobright.source_id, direct.source_id},
+            today="2026-08-01",
+        )
+
+        self.assertEqual(len(state["jobs"]), 1)
+        self.assertEqual(state["jobs"][0]["url"], direct.url)
 
     def test_jobright_listing_upgrades_to_employer_link_without_duplication(self) -> None:
         jobright = role(

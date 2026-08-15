@@ -285,6 +285,7 @@ def parse_jobright_jobs(
 ) -> tuple[Observation, ...]:
     observations: list[Observation] = []
     previous_company = ""
+    previous_company_url: str | None = None
     current_date = today or datetime.now(UTC).date()
     for line in text.splitlines():
         if not line.startswith("|"):
@@ -302,11 +303,15 @@ def parse_jobright_jobs(
         if parsed.hostname != "jobright.ai" or not identifier:
             continue
 
+        company_links = _MD_LINK.findall(cells[0])
+        company_url = company_links[-1] if company_links else None
         company = clean_text(cells[0]).strip("*_` ")
         if company == "↳":
             company = previous_company
+            company_url = previous_company_url
         elif company:
             previous_company = company
+            previous_company_url = company_url
         title = clean_text(cells[1]).strip("*_` ")
         location = clean_text(cells[2])
         if not company or not title or not location:
@@ -326,7 +331,10 @@ def parse_jobright_jobs(
                 cycle=cycle_hint,
                 posted_at=_jobright_posted_at(cells[4], today=current_date),
                 trusted_us=False,
-                metadata={"work_model": clean_text(cells[3]) or None},
+                metadata={
+                    "work_model": clean_text(cells[3]) or None,
+                    "company_url": company_url,
+                },
             )
         )
     return tuple(observations)

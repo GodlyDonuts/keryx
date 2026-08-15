@@ -35,6 +35,8 @@ class SourceParserTests(unittest.TestCase):
         self.assertEqual(jobs[0].posted_at, "2026-08-14")
         self.assertEqual(jobs[1].posted_at, "2026-08-13")
         self.assertEqual(jobs[1].metadata["work_model"], "Hybrid")
+        self.assertEqual(jobs[0].metadata["company_url"], "https://notion.com")
+        self.assertEqual(jobs[1].metadata["company_url"], "https://notion.com")
         self.assertEqual(jobs[0].source_label, "Jobright · Software Engineering")
         self.assertEqual(
             jobs[0].url,

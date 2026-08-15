@@ -80,9 +80,10 @@ The newest full-time opportunities for students and recent graduates.
 - **Not stated** means the available posting text was checked and no academic condition was found.
 - **Not available** means the full posting text was not available to Keryx. Check the employer page.
 
-**Apply** opens an employer or applicant-tracking-system page. **View job** marks a Jobright-only
-discovery; Keryx automatically prefers an employer link whenever another feed supplies one. Always
-confirm current details and requirements on the employer's page.
+**Apply** opens an employer or applicant-tracking-system page. **View job** is the fallback for a
+role Keryx found through Jobright but could not yet resolve to a direct application page. Keryx
+keeps checking and automatically replaces that fallback when a direct link appears. Always confirm
+current details and requirements on the destination page.
 
 ---
 

@@ -6,6 +6,7 @@ from collections import defaultdict
 from copy import deepcopy
 from typing import Any
 
+from .discovery import company_key
 from .models import Observation
 from .normalize import (
     infer_cycle,
@@ -82,8 +83,29 @@ def _content_key_values(company: object, title: object, location: object) -> tup
     )
 
 
+def _match_key_values(company: object, title: object, location: object) -> tuple[str, str, str]:
+    def normalize(value: str) -> str:
+        return " ".join(re.sub(r"[^a-z0-9]+", " ", value.casefold()).split())
+
+    normalized_location = re.sub(
+        r"\b(?:united states(?: of america)?|u\.?s\.?a\.?)\b",
+        " ",
+        str(location or ""),
+        flags=re.IGNORECASE,
+    )
+    return (
+        company_key(company),
+        normalize(str(title or "")),
+        normalize(normalized_location),
+    )
+
+
 def _content_key(observation: Observation) -> tuple[str, str, str]:
     return _content_key_values(observation.company, observation.title, observation.location)
+
+
+def _match_key(observation: Observation) -> tuple[str, str, str]:
+    return _match_key_values(observation.company, observation.title, observation.location)
 
 
 def _source(observation: Observation) -> dict[str, str]:
@@ -121,13 +143,13 @@ def _current_jobs(observations: list[Observation], today: str) -> dict[str, dict
     direct_by_content: dict[tuple[str, str, str], Observation] = {}
     for observation in sorted(eligible_observations, key=_priority):
         if not observation.source_id.startswith("jobright-"):
-            direct_by_content.setdefault(_content_key(observation), observation)
+            direct_by_content.setdefault(_match_key(observation), observation)
 
     grouped: dict[str, list[Observation]] = defaultdict(list)
     for observation in eligible_observations:
         identifier = job_id(observation)
         if observation.source_id.startswith("jobright-"):
-            direct = direct_by_content.get(_content_key(observation))
+            direct = direct_by_content.get(_match_key(observation))
             if direct is not None:
                 identifier = job_id(direct)
             else:
@@ -214,7 +236,7 @@ def merge_state(
             isinstance(source, dict) and str(source.get("id", "")).startswith("jobright-")
             for source in job.get("sources", [])
         ):
-            key = _content_key_values(job.get("company"), job.get("title"), job.get("location"))
+            key = _match_key_values(job.get("company"), job.get("title"), job.get("location"))
             previous_jobright_by_content.setdefault(key, (identifier, job))
     current = _current_jobs(observations, today)
     merged: dict[str, dict[str, Any]] = {}
@@ -224,7 +246,7 @@ def merge_state(
         previous = previous_jobs.get(identifier)
         if previous is None:
             alias = previous_jobright_by_content.get(
-                _content_key_values(job.get("company"), job.get("title"), job.get("location"))
+                _match_key_values(job.get("company"), job.get("title"), job.get("location"))
             )
             if alias is not None:
                 previous_identifier, previous = alias
