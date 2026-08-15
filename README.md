@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,843 internships · 3,781 new-grad roles · 5,624 total openings**
+**1,849 internships · 3,772 new-grad roles · 5,621 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 617 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 465 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 69 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 619 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 466 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 68 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 21 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 671 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 675 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 710 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,096 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,975 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 716 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,092 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,964 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Just posted: internships
@@ -38,17 +38,17 @@ The newest internship and co-op listings across every recruiting term.
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | 1KOMMA5° | Internship Product Portfolio Management (m/f/d) | United States | Not listed | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a8026a6e51a1e18a2417fa9?utm_campaign=1047&utm_source=git)**<br><sub>Jobright</sub> |
+| Atlas Roofing Corporation | Co-Op Engineering - Fall 2026 | 675 Oxford Road, Franklin, OH,45005 | Fall 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a5da8c1c8e3a473cb8b5262?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
 | ByteDance | Self-Built Engineer Intern (CDN Platform) - 2027 Summer | Seattle, WA, United States | Summer 2027 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a80264be2030208f27736d4?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
 | ByteDance | Software Engineer Intern - Global Payment Infra and SRE | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7668315137242351925/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Software Engineer Intern - Global Traffic Architecture | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7672557061679483189/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Software Engineer Intern - Traffic Infrastructure | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7672626707586746629/detail)**<br><sub>jobs.bytedance.com</sub> |
 | Dedalus Labs | Design Engineer Intern | San Francisco, CA, United States | Not listed | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a7fc633b56bea5779c0f24c?utm_campaign=1079&utm_source=git)**<br><sub>Jobright</sub> |
 | Dedalus Labs | Infrastructure Engineer Intern | San Francisco, CA, United States | Not listed | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a7fc89dad9ff00c26bb05f2?utm_campaign=1079&utm_source=git)**<br><sub>Jobright</sub> |
+| Dedalus Labs | Product Manager Intern | San Francisco, CA, United States | Not listed | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a7fcc19e2030208f2771846?utm_campaign=1047&utm_source=git)**<br><sub>Jobright</sub> |
 | Epia Neuro | Hardware Engineer Intern | Alameda, CA | Fall 2026 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Flip | Data Analyst Intern | Idaho, United States | Not listed | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a8019ac19ce4e6e9d93d0a9?utm_campaign=1066&utm_source=git)**<br><sub>Jobright</sub> |
-| Keysight Technologies | Research Intern (PhD students) | Santa Rosa, CA, United States | Not listed | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a8020e1927c79391ad0f24b?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
-| One Impression | AI Generalist Intern | United States | Not listed | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a8028aa927c79391ad0f541?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
-| Point72 | Summer 2027 Quantitative Researcher Internship | New York, NY, United States | Summer 2027 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a5affc7c8e3a473cb8ae712?utm_campaign=1066&utm_source=git)**<br><sub>Jobright</sub> |
+| Generac | Intern- Electrical Engineering | Reno, NV - USA | Not listed | not available | 2026-08-15 | **[Apply →](https://generac.wd5.myworkdayjobs.com/external/job/Reno-NV---USA/Intern--Electrical-Engineering_JR16148)**<br><sub>generac.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Just posted: new-graduate roles
