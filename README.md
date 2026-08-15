@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,868 internships · 3,758 new-grad roles · 5,626 total openings**
+**1,839 internships · 3,771 new-grad roles · 5,610 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 625 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 468 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 69 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 621 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 467 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 68 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 21 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 685 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 662 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 728 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,080 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,950 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 729 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,099 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,943 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Just posted: internships
@@ -58,18 +58,18 @@ The newest full-time opportunities for students and recent graduates.
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Accenture Federal Services | Software System Tester/Business Analyst | Springfield, VA, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a41ef6d16b1493953284c5e?utm_campaign=Software%20Engineering&utm_source=1103)**<br><sub>Jobright</sub> |
 | Altamira Technologies | Intelligence Analyst - TS/SCI CI Poly | Aurora, CO | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.jobvite.com/altamiracorps/job/o2tEAfwt?nl=1&nl=1&fr=false)**<br><sub>jobs.jobvite.com</sub> |
 | Applied Intuition | Embedded Software Engineer New Grad | Sunnyvale, CA | 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Research Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Scenario Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Software Engineer New Grad - December 2026 | Ann Arbor, MI, Sunnyvale, CA | 2026 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Software Integration Engineer New Grad | Sunnyvale, CA | 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Boom Supersonic | Software Engineer, Embedded | Centennial, CO | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/69db7853b67cec4f9b0af15f?utm_campaign=Software%20Engineering&utm_source=1103)**<br><sub>Jobright</sub> |
+| Boom Supersonic | Software Engineer, Embedded | Centennial, CO, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a5896d172fe7a7b98dcf734?utm_campaign=Software%20Engineering&utm_source=1103)**<br><sub>Jobright</sub> |
 | Booz Allen Hamilton | Data Scientist | Fort Meade, MD, US | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a195cc417492d3a389bdb25?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
 | Booz Allen Hamilton | Data Scientist | Fort Meade, MD, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a66a3828d5360344960a027?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
 | Booz Allen Hamilton | Power Platform Developer, Mid | Arlington, VA, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a63c57c87cef057612ca811?utm_campaign=Software%20Engineering&utm_source=1103)**<br><sub>Jobright</sub> |
-| Booz Allen Hamilton | Software Engineer | Rome, NY, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a7f56fc19ce4e6e9d937036?utm_campaign=Software%20Engineering&utm_source=1103)**<br><sub>Jobright</sub> |
-| Fanatics | Data Scientist I | Denver, CO, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a63b3768d53603449603c4d?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
-| Goldman Sachs | Engineering New Analyst - Engineering | Seattle, WA | Not listed | not available | 2026-08-15 | **[Apply →](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807)**<br><sub>hdpc.fa.us2.oraclecloud.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
