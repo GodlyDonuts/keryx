@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,849 internships · 3,772 new-grad roles · 5,621 total openings**
+**1,840 internships · 3,772 new-grad roles · 5,612 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
 | ☀️ Summer 2027 | 619 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 466 | **[View openings →](internships/fall-2026.md)** |
+| 🍂 Fall 2026 | 465 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 68 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 21 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 675 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 667 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 716 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,092 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,964 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 710 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,095 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,967 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Just posted: internships
@@ -69,7 +69,7 @@ The newest full-time opportunities for students and recent graduates.
 | Fanatics | Data Scientist I | Denver, CO, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a63b3768d53603449603c4d?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
 | Goldman Sachs | Engineering New Analyst | Dallas, TX | Not listed | not available | 2026-08-15 | **[Apply →](https://higher.gs.com/roles/171568?type=students)**<br><sub>higher.gs.com</sub> |
 | Goldman Sachs | Engineering New Analyst - Engineering | Seattle, WA | Not listed | not available | 2026-08-15 | **[Apply →](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807)**<br><sub>hdpc.fa.us2.oraclecloud.com</sub> |
-| LiteLLM | Forward Deployed Engineer New Grad | India, United States | Not listed | not stated | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| LiteLLM | Forward Deployed Engineer (New Grad) | United States | Not listed | not stated | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
