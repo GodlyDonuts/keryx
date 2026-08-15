@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,844 internships · 3,785 new-grad roles · 5,629 total openings**
+**1,848 internships · 3,781 new-grad roles · 5,629 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 616 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 464 | **[View openings →](internships/fall-2026.md)** |
+| ☀️ Summer 2027 | 618 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 465 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 69 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 21 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 674 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 675 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 709 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,101 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,975 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 707 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,093 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,981 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Just posted: internships
@@ -37,6 +37,8 @@ The newest internship and co-op listings across every recruiting term.
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| 1KOMMA5° | Internship Product Portfolio Management (m/f/d) | United States | Not listed | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a8026a6e51a1e18a2417fa9?utm_campaign=1047&utm_source=git)**<br><sub>Jobright</sub> |
+| ByteDance | Self-Built Engineer Intern (CDN Platform) - 2027 Summer | Seattle, WA, United States | Summer 2027 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a80264be2030208f27736d4?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
 | ByteDance | Software Engineer Intern - Global Payment Infra and SRE | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7668315137242351925/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Software Engineer Intern - Global Traffic Architecture | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7672557061679483189/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Software Engineer Intern - Traffic Infrastructure | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7672626707586746629/detail)**<br><sub>jobs.bytedance.com</sub> |
@@ -44,11 +46,9 @@ The newest internship and co-op listings across every recruiting term.
 | Dedalus Labs | Infrastructure Engineer Intern | San Francisco, CA, United States | Not listed | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a7fc89dad9ff00c26bb05f2?utm_campaign=1079&utm_source=git)**<br><sub>Jobright</sub> |
 | Epia Neuro | Hardware Engineer Intern | Alameda, CA | Fall 2026 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Flip | Data Analyst Intern | Idaho, United States | Not listed | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a8019ac19ce4e6e9d93d0a9?utm_campaign=1066&utm_source=git)**<br><sub>Jobright</sub> |
-| Keysight Technologies | Research Intern (PhD students) | Santa Rosa, CA, United States | Not listed | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a801c15e2030208f27733c0?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
-| Pretzels, Inc | Future Opportunities Product Development Intern R&D (Summer 2027) | Hershey, PA, United States | Summer 2027 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a801802e51a1e18a2417bb7?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
-| Space Capital | Mechnical Engineering Intern (Fall Semester) | Los Angeles, CA, United States | Not listed | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a801307927c79391ad0edab?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
-| . | AI Intern- Recycling | Irving, TX, United States | Not listed | not available | 2026-08-14 | **[View job →](https://jobright.ai/jobs/info/6a7fdba0927c79391ad0d889?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
-| AARP | Data Science and Advanced Analytics Intern | Washington, DC | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://careers.aarp.org/jobs/7437?icims=1)**<br><sub>careers.aarp.org</sub> |
+| Keysight Technologies | Research Intern (PhD students) | Santa Rosa, CA, United States | Not listed | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a8020e1927c79391ad0f24b?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
+| One Impression | AI Generalist Intern | United States | Not listed | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a8028aa927c79391ad0f541?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
+| Point72 | Summer 2027 Quantitative Researcher Internship | New York, NY, United States | Summer 2027 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a5affc7c8e3a473cb8ae712?utm_campaign=1066&utm_source=git)**<br><sub>Jobright</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Just posted: new-graduate roles
@@ -64,12 +64,12 @@ The newest full-time opportunities for students and recent graduates.
 | Applied Intuition | Scenario Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Software Engineer New Grad - December 2026 | Ann Arbor, MI, Sunnyvale, CA | 2026 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Software Integration Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Goldman Sachs | Engineering New Analyst | Dallas, TX | Not listed | not available | 2026-08-15 | **[Apply →](https://higher.gs.com/roles/171568?type=students)**<br><sub>higher.gs.com</sub> |
 | Goldman Sachs | Engineering New Analyst - Engineering | Seattle, WA | Not listed | not available | 2026-08-15 | **[Apply →](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807)**<br><sub>hdpc.fa.us2.oraclecloud.com</sub> |
 | LiteLLM | Forward Deployed Engineer New Grad | India, United States | Not listed | not stated | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | TikTok | Data Scientist Graduate - Multimedia | San Jose, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://lifeattiktok.com/search/7673672141010815237)**<br><sub>lifeattiktok.com</sub> |
 | Vanasse Hangen Brustlin | Software Evaluation & Enablement Analyst | Augusta, ME, Watertown, MA, NYC | Not listed | not available | 2026-08-15 | **[Apply →](https://careers-vhb.icims.com/jobs/6233/job?mobile=true&needsRedirect=false)**<br><sub>careers-vhb.icims.com</sub> |
 | Wolverine Trading | Entry Level C++ Software Engineer | Chicago, IL | Not listed | not available | 2026-08-15 | **[Apply →](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq)**<br><sub>wolve.pinpointhq.com</sub> |
-| Wolverine Trading | Entry Level C++ Software Engineer | Chicago, IL | Not listed | not available | 2026-08-15 | **[Apply →](https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq)**<br><sub>wolve.pinpointhq.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
