@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,881 internships · 3,771 new-grad roles · 5,652 total openings**
+**1,885 internships · 3,770 new-grad roles · 5,655 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
 | ☀️ Summer 2027 | 637 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 480 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 79 | **[View openings →](internships/spring-2027.md)** |
+| 🍂 Fall 2026 | 481 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 81 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 18 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 667 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 668 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 732 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,041 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,998 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 727 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,036 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,007 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -41,14 +41,14 @@ Recent internship and co-op listings that open the employer's application page d
 | ByteDance | Software Engineer Intern - Global Traffic Architecture | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7672557061679483189/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Software Engineer Intern - Traffic Infrastructure | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7672626707586746629/detail)**<br><sub>jobs.bytedance.com</sub> |
 | Epia Neuro | Hardware Engineer Intern | Alameda, CA | Fall 2026 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Generac | Intern- Electrical Engineering | Reno, NV - USA | Not listed | not available | 2026-08-15 | **[Apply →](https://generac.wd5.myworkdayjobs.com/external/job/Reno-NV---USA/Intern--Electrical-Engineering_JR16148)**<br><sub>generac.wd5.myworkdayjobs.com</sub> |
 | Goldman Sachs | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://higher.gs.com/roles/181628?type=students)**<br><sub>higher.gs.com</sub> |
 | Onto Innovation | Mechanical Systems Engineer Intern | Bloomington-MN | Not listed | not available | 2026-08-15 | **[Apply →](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Bloomington-MN/Mechanical-Systems-Engineer-Intern_R-5723)**<br><sub>onto.wd1.myworkdayjobs.com</sub> |
-| Susquehanna International Group | Quantitative Strategy Developer Internship: Summer 2027 | Bala Cynwyd, PA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://careers-sig.icims.com/jobs/10838/quantitative-strategy-developer-internship%3a-summer-2027/job)**<br><sub>careers-sig.icims.com</sub> |
 | AARP | Data Science and Advanced Analytics Intern | Washington, DC | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://careers.aarp.org/jobs/7437?icims=1)**<br><sub>careers.aarp.org</sub> |
 | Abridge | Software Engineer - Intern | San Francisco, CA +1 | Not listed | not available | 2026-08-14 | **[Apply →](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883)**<br><sub>jobs.ashbyhq.com</sub> |
 | Analytical Mechanics Associates | Computer Science/Engineering Intern - Computer Vision Applications | New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Hampton, VA, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Computer-Science-Engineering-Intern---Computer-Vision-Applications_R-100731)**<br><sub>amainc.wd12.myworkdayjobs.com</sub> |
 | Arevon | Data Science Intern - Interconnection & Transmission | Scottsdale, AZ | Fall 2026 | Current student status<br><sub>required</sub> | 2026-08-14 | **[Apply →](https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5211455007)**<br><sub>job-boards.greenhouse.io</sub> |
+| BerryDunn | Consulting Intern - Healthcare Data Management and Strategy | Portland, ME | Summer 2027 | not available | 2026-08-14 | **[Apply →](https://careers-berrydunn.icims.com/jobs/3973/job?mobile=true&needsRedirect=false)**<br><sub>careers-berrydunn.icims.com</sub> |
+| Bosch | Manufacturing Engineering/Operations Co-op - Fall 2026 | Pineville, NC, us | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000143527019)**<br><sub>jobs.smartrecruiters.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links

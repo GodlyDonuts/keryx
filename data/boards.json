@@ -1304,6 +1304,13 @@
     },
     {
       "ats": "bamboohr",
+      "company": "Gupta Media",
+      "host": "gupta.bamboohr.com",
+      "key": "bamboohr:gupta",
+      "slug": "gupta"
+    },
+    {
+      "ats": "bamboohr",
       "company": "Lexical Intelligence",
       "host": "lexical.bamboohr.com",
       "key": "bamboohr:lexical",
@@ -2090,6 +2097,12 @@
       "company": "Katalyst Space Technologies",
       "key": "greenhouse:katalyst",
       "slug": "katalyst"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "KBRA",
+      "key": "greenhouse:krollbondratingagency",
+      "slug": "krollbondratingagency"
     },
     {
       "ats": "greenhouse",
@@ -3289,10 +3302,34 @@
     },
     {
       "ats": "oracle",
+      "company": "Sinclair Inc.",
+      "host": "edyy.fa.us2.oraclecloud.com",
+      "key": "oracle:edyy.fa.us2.oraclecloud.com:cx_13015",
+      "site": "CX_13015",
+      "slug": "edyy"
+    },
+    {
+      "ats": "oracle",
       "company": "Sinclair",
       "host": "edyy.fa.us2.oraclecloud.com",
       "key": "oracle:edyy.fa.us2.oraclecloud.com:cx_2002",
       "site": "CX_2002",
+      "slug": "edyy"
+    },
+    {
+      "ats": "oracle",
+      "company": "Sinclair Inc.",
+      "host": "edyy.fa.us2.oraclecloud.com",
+      "key": "oracle:edyy.fa.us2.oraclecloud.com:cx_5001",
+      "site": "CX_5001",
+      "slug": "edyy"
+    },
+    {
+      "ats": "oracle",
+      "company": "Sinclair Inc.",
+      "host": "edyy.fa.us2.oraclecloud.com",
+      "key": "oracle:edyy.fa.us2.oraclecloud.com:cx_6001",
+      "site": "CX_6001",
       "slug": "edyy"
     },
     {
@@ -3358,6 +3395,14 @@
       "key": "oracle:ehzq.fa.us2.oraclecloud.com:cx_1",
       "site": "CX_1",
       "slug": "ehzq"
+    },
+    {
+      "ats": "oracle",
+      "company": "Princess Cruises",
+      "host": "eicl.fa.em5.oraclecloud.com",
+      "key": "oracle:eicl.fa.em5.oraclecloud.com:hagroup",
+      "site": "HAGroup",
+      "slug": "eicl"
     },
     {
       "ats": "oracle",
@@ -4214,6 +4259,12 @@
       "company": "ConnectPrep",
       "key": "workable:connectprep",
       "slug": "connectprep"
+    },
+    {
+      "ats": "workable",
+      "company": "Control Risks",
+      "key": "workable:control-risks-6",
+      "slug": "control-risks-6"
     },
     {
       "ats": "workable",
@@ -8117,6 +8168,33 @@
     },
     {
       "ats": "workday",
+      "company": "PJT Partners",
+      "host": "pjtpartners.wd1.myworkdayjobs.com",
+      "key": "workday:pjtpartners.wd1.myworkdayjobs.com:pjtpartners:careers",
+      "site": "Careers",
+      "slug": "pjtpartners",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "PJT Partners",
+      "host": "pjtpartners.wd1.myworkdayjobs.com",
+      "key": "workday:pjtpartners.wd1.myworkdayjobs.com:pjtpartners:studentevents",
+      "site": "Studentevents",
+      "slug": "pjtpartners",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "PJT Partners",
+      "host": "pjtpartners.wd1.myworkdayjobs.com",
+      "key": "workday:pjtpartners.wd1.myworkdayjobs.com:pjtpartners:students",
+      "site": "Students",
+      "slug": "pjtpartners",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "PNC Financial Services",
       "host": "pnc.wd5.myworkdayjobs.com",
       "key": "workday:pnc.wd5.myworkdayjobs.com:pnc:external",
@@ -9305,10 +9383,28 @@
     },
     {
       "ats": "workday",
+      "company": "Keck Medicine of USC",
+      "host": "usc.wd5.myworkdayjobs.com",
+      "key": "workday:usc.wd5.myworkdayjobs.com:usc:externalkeckusccareers",
+      "site": "ExternalKeckUSCCareers",
+      "slug": "usc",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "University of Southern California",
       "host": "usc.wd5.myworkdayjobs.com",
       "key": "workday:usc.wd5.myworkdayjobs.com:usc:externalusccareers",
       "site": "ExternalUSCCareers",
+      "slug": "usc",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "University of Southern California",
+      "host": "usc.wd5.myworkdayjobs.com",
+      "key": "workday:usc.wd5.myworkdayjobs.com:usc:uscadvancementcareers",
+      "site": "USCAdvancementCareers",
       "slug": "usc",
       "wd": "wd5"
     },
