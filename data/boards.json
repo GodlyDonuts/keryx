@@ -32,6 +32,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Alchemy",
+      "key": "ashby:alchemy",
+      "slug": "alchemy"
+    },
+    {
+      "ats": "ashby",
       "company": "Allen Control Systems",
       "key": "ashby:allen-control-systems",
       "slug": "allen-control-systems"
@@ -1097,6 +1103,12 @@
       "company": "Tabs",
       "key": "ashby:tabs",
       "slug": "tabs"
+    },
+    {
+      "ats": "ashby",
+      "company": "Tacit",
+      "key": "ashby:tacit",
+      "slug": "tacit"
     },
     {
       "ats": "ashby",
@@ -2856,6 +2868,12 @@
     },
     {
       "ats": "lever",
+      "company": "Brighton Jones",
+      "key": "lever:brightonjones",
+      "slug": "brightonjones"
+    },
+    {
+      "ats": "lever",
       "company": "CALSTART",
       "key": "lever:calstart",
       "slug": "calstart"
@@ -3387,6 +3405,14 @@
       "key": "oracle:egup.fa.us2.oraclecloud.com:cx",
       "site": "CX",
       "slug": "egup"
+    },
+    {
+      "ats": "oracle",
+      "company": "Resideo",
+      "host": "ehtl.fa.us6.oraclecloud.com",
+      "key": "oracle:ehtl.fa.us6.oraclecloud.com:cx",
+      "site": "CX",
+      "slug": "ehtl"
     },
     {
       "ats": "oracle",
@@ -4610,6 +4636,15 @@
       "site": "adtran",
       "slug": "adtran",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "American Electric Power",
+      "host": "aep.wd1.myworkdayjobs.com",
+      "key": "workday:aep.wd1.myworkdayjobs.com:aep:aepcareersite",
+      "site": "AEPCareerSite",
+      "slug": "aep",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -6696,6 +6731,15 @@
       "host": "heidelbergmaterials.wd3.myworkdayjobs.com",
       "key": "workday:heidelbergmaterials.wd3.myworkdayjobs.com:heidelbergmaterials:global_hm_career_site",
       "site": "global_hm_career_site",
+      "slug": "heidelbergmaterials",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Heidelberg Materials UK",
+      "host": "heidelbergmaterials.wd3.myworkdayjobs.com",
+      "key": "workday:heidelbergmaterials.wd3.myworkdayjobs.com:heidelbergmaterials:heidelberg_materials_uk_career_site",
+      "site": "Heidelberg_Materials_UK_career_site",
       "slug": "heidelbergmaterials",
       "wd": "wd3"
     },
