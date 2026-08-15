@@ -30,9 +30,9 @@
 | Year not listed | 1,950 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
-## Just posted: internships
+## Recent internships with direct links
 
-The newest internship and co-op listings across every recruiting term.
+Recent internship and co-op listings that open the employer's application page directly.
 
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
@@ -51,9 +51,9 @@ The newest internship and co-op listings across every recruiting term.
 | ByteDance | ASIC Design Engineer Intern (Video Silicon IP) - 2027 Summer | San Jose, CA, United States | Summer 2027 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a8042bfe2030208f2773d4f?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
-## Just posted: new-graduate roles
+## Recent new-graduate roles with direct links
 
-The newest full-time opportunities for students and recent graduates.
+Recent full-time opportunities that open the employer's application page directly.
 
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
