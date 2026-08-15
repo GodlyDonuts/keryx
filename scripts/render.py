@@ -262,7 +262,10 @@ def _front_page_eligibility(job: dict[str, Any]) -> str:
 
 
 def _latest_table(jobs: list[dict[str, Any]], program: str, *, limit: int = 12) -> str:
-    latest = _sort_jobs([job for job in jobs if job.get("program") == program])[:limit]
+    candidates = _sort_jobs([job for job in jobs if job.get("program") == program])
+    direct = [job for job in candidates if job.get("url_host") != "jobright.ai"]
+    fallbacks = [job for job in candidates if job.get("url_host") == "jobright.ai"]
+    latest = [*direct, *fallbacks][:limit]
     if not latest:
         return "_No open roles currently indexed._"
 

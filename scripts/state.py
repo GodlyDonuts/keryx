@@ -108,6 +108,52 @@ def _match_key(observation: Observation) -> tuple[str, str, str]:
     return _match_key_values(observation.company, observation.title, observation.location)
 
 
+def _title_match_key(observation: Observation) -> tuple[str, str, str]:
+    company, title, _ = _match_key(observation)
+    return company, title, observation.program
+
+
+_COMPANY_DESCRIPTORS = frozenset(
+    {
+        "aerospace",
+        "com",
+        "financial",
+        "global",
+        "group",
+        "holdings",
+        "industries",
+        "labs",
+        "laboratories",
+        "platforms",
+        "services",
+        "solutions",
+        "systems",
+        "technologies",
+        "technology",
+        "web",
+    }
+)
+
+
+def _company_alias_match(left: str, right: str) -> bool:
+    if left == right:
+        return True
+    if left.replace(" ", "") == right.replace(" ", ""):
+        return True
+    left_tokens = set(left.split())
+    right_tokens = set(right.split())
+    if not left_tokens or not right_tokens:
+        return False
+    shared = left_tokens & right_tokens
+    if not any(len(token) >= 4 for token in shared):
+        return False
+    if left_tokens <= right_tokens:
+        return (right_tokens - left_tokens) <= _COMPANY_DESCRIPTORS
+    if right_tokens <= left_tokens:
+        return (left_tokens - right_tokens) <= _COMPANY_DESCRIPTORS
+    return False
+
+
 def _source(observation: Observation) -> dict[str, str]:
     return {
         "id": observation.source_id,
@@ -141,15 +187,37 @@ def _protect_link(job: dict[str, Any], sources: list[dict[str, str]], raw_url: s
 def _current_jobs(observations: list[Observation], today: str) -> dict[str, dict[str, Any]]:
     eligible_observations = [observation for observation in observations if eligible(observation)]
     direct_by_content: dict[tuple[str, str, str], Observation] = {}
+    direct_by_title: dict[tuple[str, str, str], dict[str, Observation]] = defaultdict(dict)
+    direct_by_role: dict[tuple[str, str], dict[str, Observation]] = defaultdict(dict)
     for observation in sorted(eligible_observations, key=_priority):
         if not observation.source_id.startswith("jobright-"):
             direct_by_content.setdefault(_match_key(observation), observation)
+            direct_by_title[_title_match_key(observation)].setdefault(
+                job_id(observation), observation
+            )
+            _, title, program = _title_match_key(observation)
+            direct_by_role[(title, program)].setdefault(job_id(observation), observation)
 
     grouped: dict[str, list[Observation]] = defaultdict(list)
     for observation in eligible_observations:
         identifier = job_id(observation)
         if observation.source_id.startswith("jobright-"):
             direct = direct_by_content.get(_match_key(observation))
+            if direct is None:
+                title_matches = list(
+                    direct_by_title.get(_title_match_key(observation), {}).values()
+                )
+                if len(title_matches) == 1:
+                    direct = title_matches[0]
+            if direct is None:
+                company, title, program = _title_match_key(observation)
+                alias_matches = {
+                    job_id(candidate): candidate
+                    for candidate in direct_by_role.get((title, program), {}).values()
+                    if _company_alias_match(company, company_key(candidate.company))
+                }
+                if len(alias_matches) == 1:
+                    direct = next(iter(alias_matches.values()))
             if direct is not None:
                 identifier = job_id(direct)
             else:

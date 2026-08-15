@@ -5,13 +5,28 @@ from collections.abc import Mapping
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import UTC, datetime
 from typing import TypedDict
-from urllib.parse import urlsplit
+from urllib.parse import urlencode, urlsplit
 
 from .models import Observation, Snapshot
-from .net import get_json, post_json
+from .net import get_json, get_text, post_json
 from .normalize import clean_text, infer_program, is_technical, iso_date, sanitize_job_url
 
 _BOARD_COMPONENT = re.compile(r"(?:[A-Za-z0-9._-]|%[0-9A-Fa-f]{2}){1,128}")
+_RESERVED_BOARD_COMPONENTS = (
+    "assets",
+    "embed",
+    "external_greenhouse_job_boards",
+    "introduceyourself",
+    "job_board_renderer",
+    "jobalerts",
+    "jobs",
+    "login",
+    "logo",
+    "my-applications",
+    "search",
+    "userhome",
+    "v1",
+)
 
 
 class Board(TypedDict, total=False):
@@ -29,92 +44,188 @@ def _safe_component(value: object) -> bool:
     return text not in {".", ".."} and _BOARD_COMPONENT.fullmatch(text) is not None
 
 
+def _reserved_component(value: object) -> bool:
+    lowered = str(value or "").casefold()
+    return any(
+        lowered == item or lowered.startswith(f"{item}%") for item in _RESERVED_BOARD_COMPONENTS
+    )
+
+
 def _safe_board(board: Board) -> bool:
     ats = board.get("ats")
-    if ats not in {"greenhouse", "lever", "ashby", "workday"}:
+    if ats not in {
+        "greenhouse",
+        "lever",
+        "ashby",
+        "bamboohr",
+        "oracle",
+        "smartrecruiters",
+        "workable",
+        "workday",
+    }:
         return False
     if not _safe_component(board.get("slug")):
         return False
-    if ats != "workday":
+    if _reserved_component(board.get("slug")):
+        return False
+    if ats in {"greenhouse", "lever", "ashby", "smartrecruiters", "workable"}:
         return True
     host = str(board.get("host") or "").casefold()
+    if ats == "bamboohr":
+        return host == f"{str(board.get('slug') or '').casefold()}.bamboohr.com"
+    if ats == "oracle":
+        return (
+            host.endswith(".oraclecloud.com")
+            and bool(sanitize_job_url(f"https://{host}/").url)
+            and _safe_component(board.get("site"))
+            and not _reserved_component(board.get("site"))
+        )
     if not host.endswith((".myworkdayjobs.com", ".myworkdaysite.com")):
         return False
-    return bool(sanitize_job_url(f"https://{host}/").url) and _safe_component(board.get("site"))
+    return (
+        bool(sanitize_job_url(f"https://{host}/").url)
+        and _safe_component(board.get("site"))
+        and not _reserved_component(board.get("site"))
+    )
 
 
-def board_from_observation(observation: Observation) -> Board | None:
-    safe_url = sanitize_job_url(observation.url).url
+def board_from_url(url: str, company: str) -> Board | None:
+    safe_url = sanitize_job_url(url).url
     if not safe_url:
         return None
     parsed = urlsplit(safe_url)
     host = (parsed.hostname or "").casefold()
     parts = [part for part in parsed.path.split("/") if part]
-    external = observation.external_id.split(":")
     if "greenhouse.io" in host:
         slug = ""
         if "jobs" in parts:
             index = parts.index("jobs")
             if index >= 1:
                 slug = parts[index - 1]
-        if not slug and len(external) >= 3 and external[0] == "greenhouse":
-            slug = external[1]
+        elif parts:
+            slug = parts[0]
         if slug:
+            board: Board = {
+                "key": f"greenhouse:{slug.casefold()}",
+                "ats": "greenhouse",
+                "company": company,
+                "slug": slug,
+            }
+            return board if _safe_board(board) else None
+    if host == "jobs.lever.co" and parts:
+        slug = parts[0]
+        board = {
+            "key": f"lever:{slug.casefold()}",
+            "ats": "lever",
+            "company": company,
+            "slug": slug,
+        }
+        return board if _safe_board(board) else None
+    if host == "jobs.ashbyhq.com" and parts:
+        slug = parts[0]
+        board = {
+            "key": f"ashby:{slug.casefold()}",
+            "ats": "ashby",
+            "company": company,
+            "slug": slug,
+        }
+        return board if _safe_board(board) else None
+    if host == "jobs.smartrecruiters.com" and parts:
+        slug = parts[0]
+        board = {
+            "key": f"smartrecruiters:{slug.casefold()}",
+            "ats": "smartrecruiters",
+            "company": company,
+            "slug": slug,
+        }
+        return board if _safe_board(board) else None
+    if host == "apply.workable.com" and parts:
+        slug = parts[0]
+        board = {
+            "key": f"workable:{slug.casefold()}",
+            "ats": "workable",
+            "company": company,
+            "slug": slug,
+        }
+        return board if _safe_board(board) else None
+    if host.endswith(".bamboohr.com") and "careers" in [part.casefold() for part in parts]:
+        slug = host.split(".")[0]
+        board = {
+            "key": f"bamboohr:{slug.casefold()}",
+            "ats": "bamboohr",
+            "company": company,
+            "slug": slug,
+            "host": host,
+        }
+        return board if _safe_board(board) else None
+    if host.endswith(".oraclecloud.com"):
+        lowered = [part.casefold() for part in parts]
+        if "sites" in lowered:
+            index = lowered.index("sites")
+            if index + 1 < len(parts):
+                site = parts[index + 1]
+                slug = host.split(".")[0]
+                board = {
+                    "key": f"oracle:{host}:{site.casefold()}",
+                    "ats": "oracle",
+                    "company": company,
+                    "slug": slug,
+                    "site": site,
+                    "host": host,
+                }
+                return board if _safe_board(board) else None
+    if "myworkdayjobs.com" in host:
+        labels = host.split(".")
+        tenant = labels[0]
+        wd = labels[1] if len(labels) > 1 else "wd1"
+        lowered = [part.casefold() for part in parts]
+        job_index = lowered.index("job") if "job" in lowered else len(parts)
+        site_parts = [
+            part
+            for part in parts[:job_index]
+            if not re.fullmatch(r"[a-z]{2}-[a-z]{2}", part, flags=re.IGNORECASE)
+        ]
+        if not site_parts:
+            return None
+        site = site_parts[0]
+        board = {
+            "key": f"workday:{host}:{tenant.casefold()}:{site.casefold()}",
+            "ats": "workday",
+            "company": company,
+            "slug": tenant,
+            "site": site,
+            "host": host,
+            "wd": wd,
+        }
+        return board if _safe_board(board) else None
+    if "myworkdaysite.com" in host and len(parts) >= 4 and parts[0] == "recruiting":
+        tenant, site = parts[1], parts[2]
+        board = {
+            "key": f"workday:{host}:{tenant.casefold()}:{site.casefold()}",
+            "ats": "workday",
+            "company": company,
+            "slug": tenant,
+            "site": site,
+            "host": host,
+        }
+        return board if _safe_board(board) else None
+    return None
+
+
+def board_from_observation(observation: Observation) -> Board | None:
+    board = board_from_url(observation.url, observation.company)
+    if board is not None:
+        return board
+    external = observation.external_id.split(":")
+    if len(external) >= 3 and external[0] == "greenhouse":
+        slug = external[1]
+        if _safe_component(slug):
             return {
                 "key": f"greenhouse:{slug.casefold()}",
                 "ats": "greenhouse",
                 "company": observation.company,
                 "slug": slug,
             }
-    if host == "jobs.lever.co" and parts:
-        slug = parts[0]
-        return {
-            "key": f"lever:{slug.casefold()}",
-            "ats": "lever",
-            "company": observation.company,
-            "slug": slug,
-        }
-    if host == "jobs.ashbyhq.com" and parts:
-        slug = parts[0]
-        return {
-            "key": f"ashby:{slug.casefold()}",
-            "ats": "ashby",
-            "company": observation.company,
-            "slug": slug,
-        }
-    if "myworkdayjobs.com" in host:
-        labels = host.split(".")
-        tenant = labels[0]
-        wd = labels[1] if len(labels) > 1 else "wd1"
-        lowered = [part.casefold() for part in parts]
-        if "job" not in lowered:
-            return None
-        job_index = lowered.index("job")
-        site_parts = [
-            part for part in parts[:job_index] if not re.fullmatch(r"[a-z]{2}-[A-Z]{2}", part)
-        ]
-        if not site_parts:
-            return None
-        site = site_parts[-1]
-        return {
-            "key": f"workday:{host}:{tenant.casefold()}:{site.casefold()}",
-            "ats": "workday",
-            "company": observation.company,
-            "slug": tenant,
-            "site": site,
-            "host": host,
-            "wd": wd,
-        }
-    if "myworkdaysite.com" in host and len(parts) >= 4 and parts[0] == "recruiting":
-        tenant, site = parts[1], parts[2]
-        return {
-            "key": f"workday:{host}:{tenant.casefold()}:{site.casefold()}",
-            "ats": "workday",
-            "company": observation.company,
-            "slug": tenant,
-            "site": site,
-            "host": host,
-        }
     return None
 
 
@@ -158,6 +269,14 @@ def _source(board: Board) -> tuple[str, str, str]:
         url = f"https://jobs.lever.co/{slug}"
     elif ats == "ashby":
         url = f"https://jobs.ashbyhq.com/{slug}"
+    elif ats == "smartrecruiters":
+        url = f"https://jobs.smartrecruiters.com/{slug}"
+    elif ats == "workable":
+        url = f"https://apply.workable.com/{slug}/"
+    elif ats == "bamboohr":
+        url = f"https://{board['host']}/careers/"
+    elif ats == "oracle":
+        url = f"https://{board['host']}/hcmUI/CandidateExperience/en/sites/{board['site']}"
     else:
         url = f"https://{board['host']}/{board['site']}"
     return source_id, label, url
@@ -293,6 +412,207 @@ def _ashby(board: Board) -> Snapshot:
     return Snapshot(source_id, tuple(observations), complete=True)
 
 
+def _smartrecruiters(board: Board) -> Snapshot:
+    source_id, _, _ = _source(board)
+    observations: list[Observation] = []
+    complete = True
+    for offset in range(0, 500, 100):
+        payload = get_json(
+            f"https://api.smartrecruiters.com/v1/companies/{board['slug']}/postings"
+            f"?limit=100&offset={offset}"
+        )
+        if not isinstance(payload, Mapping) or not isinstance(payload.get("content"), list):
+            raise ValueError("SmartRecruiters response did not contain postings")
+        postings = payload["content"]
+        for item in postings:
+            if not isinstance(item, Mapping):
+                continue
+            location = item.get("location")
+            if isinstance(location, Mapping):
+                location_text = ", ".join(
+                    str(location.get(key) or "")
+                    for key in ("city", "region", "country")
+                    if location.get(key)
+                )
+            else:
+                location_text = str(location or "")
+            identifier = str(item.get("id") or "")
+            job_url = (
+                f"https://jobs.smartrecruiters.com/{board['slug']}/{identifier}"
+                if identifier
+                else ""
+            )
+            observation = _observation(
+                board,
+                external_id=f"smartrecruiters:{board['slug']}:{identifier}",
+                title=item.get("name"),
+                location=location_text,
+                url=job_url,
+                posted_at=item.get("releasedDate"),
+            )
+            if observation:
+                observations.append(observation)
+        total = payload.get("totalFound")
+        if len(postings) < 100 or (isinstance(total, int) and offset + len(postings) >= total):
+            break
+    else:
+        complete = False
+    return Snapshot(source_id, tuple(observations), complete=complete)
+
+
+_WORKABLE_ROW = re.compile(
+    r"^\|\s*(?P<title>.*?)\s*\|\s*(?P<department>.*?)\s*\|\s*"
+    r"(?P<location>.*?)\s*\|\s*(?P<worktype>.*?)\s*\|\s*"
+    r"(?P<salary>.*?)\s*\|\s*(?P<posted>.*?)\s*\|\s*"
+    r"\[View\]\(https://apply\.workable\.com/[^/]+/jobs/view/"
+    r"(?P<identifier>[A-Za-z0-9_-]+)\.md\)\s*\|$"
+)
+
+
+def _workable(board: Board) -> Snapshot:
+    source_id, _, _ = _source(board)
+    rows: dict[str, tuple[str, str, str]] = {}
+    query = urlencode({"location[0][country]": "United States"})
+    document = get_text(f"https://apply.workable.com/{board['slug']}/jobs.md?{query}")
+    for line in document.splitlines():
+        match = _WORKABLE_ROW.match(line)
+        if not match:
+            continue
+        identifier = match.group("identifier")
+        rows.setdefault(
+            identifier,
+            (
+                clean_text(match.group("title")),
+                clean_text(match.group("location")),
+                iso_date(match.group("posted")) or "",
+            ),
+        )
+
+    observations: list[Observation] = []
+    for identifier, (title, location, posted_at) in rows.items():
+        observation = _observation(
+            board,
+            external_id=f"workable:{board['slug']}:{identifier}",
+            title=title,
+            location=location,
+            url=f"https://apply.workable.com/{board['slug']}/j/{identifier}/",
+            posted_at=posted_at,
+        )
+        if observation:
+            observations.append(observation)
+    return Snapshot(source_id, tuple(observations), complete=True)
+
+
+def _bamboohr(board: Board) -> Snapshot:
+    source_id, _, source_url = _source(board)
+    payload = get_json(f"https://{board['host']}/careers/list")
+    if not isinstance(payload, Mapping) or not isinstance(payload.get("result"), list):
+        raise ValueError("BambooHR response did not contain jobs")
+    observations: list[Observation] = []
+    for item in payload["result"]:
+        if not isinstance(item, Mapping):
+            continue
+        title = clean_text(item.get("jobOpeningName"))
+        if infer_program(title) is None or not is_technical(title):
+            continue
+        identifier = str(item.get("id") or "")
+        if not identifier:
+            continue
+        location = item.get("location")
+        if isinstance(location, Mapping):
+            location_text = ", ".join(
+                str(location.get(key) or "") for key in ("city", "state") if location.get(key)
+            )
+        else:
+            location_text = str(location or "")
+        job_url = f"{source_url}{identifier}/"
+        try:
+            description = get_text(job_url)
+        except OSError:
+            description = ""
+        observation = _observation(
+            board,
+            external_id=f"bamboohr:{board['slug']}:{identifier}",
+            title=title,
+            location=location_text,
+            url=job_url,
+            description=description,
+        )
+        if observation:
+            observations.append(observation)
+    return Snapshot(source_id, tuple(observations), complete=True)
+
+
+def _oracle(board: Board) -> Snapshot:
+    source_id, _, source_url = _source(board)
+    rows: dict[str, Mapping[str, object]] = {}
+    for term in ("intern", "co-op", "new grad"):
+        for offset in (0, 100):
+            finder = (
+                f"findReqs;siteNumber={board['site']},keyword={term},"
+                f"workLocationCountryCode=US,limit=100,offset={offset}"
+            )
+            query = urlencode({"onlyData": "true", "expand": "requisitionList", "finder": finder})
+            payload = get_json(
+                f"https://{board['host']}/hcmRestApi/resources/latest/"
+                f"recruitingCEJobRequisitions?{query}"
+            )
+            if not isinstance(payload, Mapping) or not isinstance(payload.get("items"), list):
+                raise ValueError("Oracle Recruiting response did not contain a search result")
+            items = payload["items"]
+            if not items or not isinstance(items[0], Mapping):
+                break
+            result = items[0]
+            requisitions = result.get("requisitionList")
+            if not isinstance(requisitions, list):
+                raise ValueError("Oracle Recruiting response did not contain requisitions")
+            for item in requisitions:
+                if not isinstance(item, Mapping):
+                    continue
+                title = clean_text(item.get("Title"))
+                identifier = str(item.get("Id") or "")
+                if identifier and infer_program(title) is not None and is_technical(title):
+                    rows.setdefault(identifier, item)
+            total = result.get("TotalJobsCount")
+            if len(requisitions) < 100 or (
+                isinstance(total, int) and offset + len(requisitions) >= total
+            ):
+                break
+
+    observations: list[Observation] = []
+    for identifier, row in rows.items():
+        try:
+            detail = get_json(
+                f"https://{board['host']}/hcmRestApi/resources/latest/"
+                f"recruitingCEJobRequisitionDetails/{identifier}?onlyData=true"
+            )
+        except OSError:
+            detail = {}
+        if not isinstance(detail, Mapping):
+            detail = {}
+        description = " ".join(
+            str(detail.get(key) or row.get(key) or "")
+            for key in (
+                "ExternalDescriptionStr",
+                "ExternalQualificationsStr",
+                "ExternalResponsibilitiesStr",
+                "ShortDescriptionStr",
+            )
+        )
+        observation = _observation(
+            board,
+            external_id=f"oracle:{board['host']}:{board['site']}:{identifier}",
+            title=row.get("Title"),
+            location=row.get("PrimaryLocation"),
+            url=f"{source_url}/job/{identifier}",
+            posted_at=row.get("PostedDate"),
+            description=description,
+        )
+        if observation:
+            observations.append(observation)
+    return Snapshot(source_id, tuple(observations), complete=True)
+
+
 def _workday(board: Board) -> Snapshot:
     source_id, _, source_url = _source(board)
     tenant, site, host = board["slug"], board["site"], board["host"]
@@ -348,6 +668,10 @@ def fetch_board(board: Board) -> Snapshot:
         "greenhouse": _greenhouse,
         "lever": _lever,
         "ashby": _ashby,
+        "bamboohr": _bamboohr,
+        "oracle": _oracle,
+        "smartrecruiters": _smartrecruiters,
+        "workable": _workable,
         "workday": _workday,
     }[board["ats"]](board)
 

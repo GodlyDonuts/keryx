@@ -7,10 +7,37 @@ import unittest
 from pathlib import Path
 from typing import Any
 
-from scripts.render import render_repository
+from scripts.render import _latest_table, render_repository
 
 
 class RenderTests(unittest.TestCase):
+    def test_front_page_prefers_direct_link_when_posting_dates_tie(self) -> None:
+        common = {
+            "program": "internship",
+            "cycle": "summer-2027",
+            "location": "Austin, TX",
+            "posted_at": "2026-08-15",
+        }
+        fallback = {
+            **common,
+            "company": "A Company",
+            "title": "Software Engineer Intern",
+            "url": "https://jobright.ai/jobs/info/123",
+            "url_host": "jobright.ai",
+        }
+        direct = {
+            **common,
+            "company": "Z Company",
+            "title": "Data Engineer Intern",
+            "url": "https://jobs.example.com/456",
+            "url_host": "jobs.example.com",
+        }
+
+        table = _latest_table([fallback, direct], "internship", limit=1)
+
+        self.assertIn("Z Company", table)
+        self.assertNotIn("A Company", table)
+
     def test_cycle_markdown_and_readme_counts_are_generated(self) -> None:
         payload: dict[str, Any] = {
             "schema_version": 1,

@@ -3,7 +3,7 @@ from __future__ import annotations
 import unittest
 from unittest.mock import patch
 
-from scripts.boards import board_from_observation, discover_boards, fetch_board
+from scripts.boards import board_from_observation, board_from_url, discover_boards, fetch_board
 from scripts.models import Observation
 
 
@@ -43,6 +43,42 @@ class BoardDiscoveryTests(unittest.TestCase):
         self.assertEqual(board["slug"], "example")  # type: ignore[index]
         self.assertEqual(board["site"], "careers")  # type: ignore[index]
         self.assertEqual(board["wd"], "wd5")  # type: ignore[index]
+
+    def test_workday_landing_page_can_seed_board(self) -> None:
+        board = board_from_url(
+            "https://example.wd5.myworkdayjobs.com/en-US/University_Careers",
+            "Example",
+        )
+        self.assertEqual(board["site"], "University_Careers")  # type: ignore[index]
+
+    def test_workday_navigation_links_do_not_seed_fake_boards(self) -> None:
+        self.assertIsNone(
+            board_from_url("https://example.wd5.myworkdayjobs.com/en-US/login", "Example")
+        )
+        self.assertIsNone(board_from_url("https://boards.greenhouse.io/embed", "Example"))
+
+    def test_smartrecruiters_landing_page_can_seed_board(self) -> None:
+        board = board_from_url("https://jobs.smartrecruiters.com/Example", "Example")
+        self.assertEqual(board["key"], "smartrecruiters:example")  # type: ignore[index]
+
+    def test_workable_landing_page_can_seed_board(self) -> None:
+        board = board_from_url("https://apply.workable.com/example/", "Example")
+        self.assertEqual(board["key"], "workable:example")  # type: ignore[index]
+
+    def test_bamboohr_job_page_can_seed_board(self) -> None:
+        board = board_from_url("https://example.bamboohr.com/careers/123/", "Example")
+        self.assertEqual(board["key"], "bamboohr:example")  # type: ignore[index]
+
+    def test_oracle_cloud_job_page_can_seed_board(self) -> None:
+        board = board_from_url(
+            "https://example.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/"
+            "en/sites/External/job/123",
+            "Example",
+        )
+        self.assertEqual(
+            board["key"],  # type: ignore[index]
+            "oracle:example.fa.us2.oraclecloud.com:external",
+        )
 
     def test_workday_site_case_does_not_create_duplicate_boards(self) -> None:
         observations = [
@@ -124,6 +160,133 @@ class BoardDiscoveryTests(unittest.TestCase):
             snapshot = fetch_board(board)  # type: ignore[arg-type]
 
         self.assertIn("return to school", snapshot.observations[0].description)
+
+    def test_smartrecruiters_fetches_public_postings(self) -> None:
+        board = {
+            "key": "smartrecruiters:example",
+            "ats": "smartrecruiters",
+            "company": "Example",
+            "slug": "Example",
+        }
+        payload = {
+            "totalFound": 1,
+            "content": [
+                {
+                    "id": "abc",
+                    "name": "Software Engineer Intern",
+                    "location": {"city": "Austin", "region": "TX", "country": "US"},
+                    "ref": "https://jobs.smartrecruiters.com/Example/abc",
+                    "releasedDate": "2026-08-15T00:00:00Z",
+                }
+            ],
+        }
+
+        with patch("scripts.boards.get_json", return_value=payload):
+            snapshot = fetch_board(board)  # type: ignore[arg-type]
+
+        self.assertEqual(snapshot.observations[0].title, "Software Engineer Intern")
+        self.assertEqual(snapshot.observations[0].location, "Austin, TX, US")
+        self.assertEqual(
+            snapshot.observations[0].url,
+            "https://jobs.smartrecruiters.com/Example/abc",
+        )
+
+    def test_workable_fetches_public_markdown_and_emits_application_page(self) -> None:
+        board = {
+            "key": "workable:example",
+            "ats": "workable",
+            "company": "Example",
+            "slug": "example",
+        }
+        index = (
+            "| Title | Department | Location | Type | Salary | Posted | Details |\n"
+            "|---|---|---|---|---|---|---|\n"
+            "| Software Engineer Intern | Engineering | Austin, United States | Internship | — | "
+            "2026-08-15 | [View](https://apply.workable.com/example/jobs/view/ABC123.md) |\n"
+        )
+
+        with patch("scripts.boards.get_text", return_value=index):
+            snapshot = fetch_board(board)  # type: ignore[arg-type]
+
+        self.assertEqual(len(snapshot.observations), 1)
+        self.assertEqual(
+            snapshot.observations[0].url,
+            "https://apply.workable.com/example/j/ABC123/",
+        )
+        self.assertEqual(snapshot.observations[0].description, "")
+
+    def test_bamboohr_fetches_public_board_and_job_description(self) -> None:
+        board = {
+            "key": "bamboohr:example",
+            "ats": "bamboohr",
+            "company": "Example",
+            "slug": "example",
+            "host": "example.bamboohr.com",
+        }
+        payload = {
+            "result": [
+                {
+                    "id": "123",
+                    "jobOpeningName": "Software Engineer Intern",
+                    "location": {"city": "Austin", "state": "Texas"},
+                }
+            ]
+        }
+
+        with (
+            patch("scripts.boards.get_json", return_value=payload),
+            patch("scripts.boards.get_text", return_value="Expected graduation in 2029."),
+        ):
+            snapshot = fetch_board(board)  # type: ignore[arg-type]
+
+        self.assertEqual(snapshot.observations[0].location, "Austin, Texas")
+        self.assertEqual(
+            snapshot.observations[0].url,
+            "https://example.bamboohr.com/careers/123/",
+        )
+
+    def test_oracle_fetches_public_requisitions_and_details(self) -> None:
+        board = {
+            "key": "oracle:example.fa.us2.oraclecloud.com:external",
+            "ats": "oracle",
+            "company": "Example",
+            "slug": "example",
+            "site": "External",
+            "host": "example.fa.us2.oraclecloud.com",
+        }
+        listing = {
+            "items": [
+                {
+                    "TotalJobsCount": 1,
+                    "requisitionList": [
+                        {
+                            "Id": "123",
+                            "Title": "Software Engineer Intern",
+                            "PrimaryLocation": "Austin, TX, United States",
+                            "PostedDate": "2026-08-15",
+                        }
+                    ],
+                }
+            ]
+        }
+
+        with patch(
+            "scripts.boards.get_json",
+            side_effect=lambda url: (
+                {"ExternalDescriptionStr": "Expected graduation in 2029."}
+                if "RequisitionDetails" in url
+                else listing
+            ),
+        ):
+            snapshot = fetch_board(board)  # type: ignore[arg-type]
+
+        self.assertEqual(len(snapshot.observations), 1)
+        self.assertEqual(
+            snapshot.observations[0].url,
+            "https://example.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/"
+            "en/sites/External/job/123",
+        )
+        self.assertIn("Expected graduation", snapshot.observations[0].description)
 
 
 if __name__ == "__main__":

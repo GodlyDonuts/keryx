@@ -117,6 +117,72 @@ class StateTests(unittest.TestCase):
         self.assertEqual(len(state["jobs"]), 1)
         self.assertEqual(state["jobs"][0]["url"], direct.url)
 
+    def test_unique_company_and_title_match_can_resolve_location_formatting(self) -> None:
+        direct = role(
+            "ats:greenhouse:example",
+            "https://job-boards.greenhouse.io/example/jobs/123",
+            location="San Francisco, CA +1",
+        )
+        jobright = role(
+            "jobright-swe-internships",
+            "https://jobright.ai/jobs/info/abc123",
+            location="Bellevue, WA, United States",
+        )
+
+        state = merge_state(
+            {"jobs": []},
+            [jobright, direct],
+            complete_sources={jobright.source_id, direct.source_id},
+            today="2026-08-01",
+        )
+
+        self.assertEqual(len(state["jobs"]), 1)
+        self.assertEqual(state["jobs"][0]["url"], direct.url)
+
+    def test_corporate_descriptor_alias_resolves_jobright_link(self) -> None:
+        direct = role(
+            "ats:greenhouse:example",
+            "https://job-boards.greenhouse.io/example/jobs/123",
+        )
+        direct = Observation(**{**direct.__dict__, "company": "Amazon Web Services"})
+        jobright = role(
+            "jobright-swe-internships",
+            "https://jobright.ai/jobs/info/abc123",
+        )
+        jobright = Observation(**{**jobright.__dict__, "company": "Amazon"})
+
+        state = merge_state(
+            {"jobs": []},
+            [jobright, direct],
+            complete_sources={jobright.source_id, direct.source_id},
+            today="2026-08-01",
+        )
+
+        self.assertEqual(len(state["jobs"]), 1)
+        self.assertEqual(state["jobs"][0]["url"], direct.url)
+
+    def test_company_alias_match_refuses_ambiguous_direct_roles(self) -> None:
+        first = role("feed-a", "https://amazon.jobs/jobs/123")
+        first = Observation(**{**first.__dict__, "company": "Amazon Web Services"})
+        second = role("feed-b", "https://amazon.jobs/jobs/456")
+        second = Observation(**{**second.__dict__, "company": "Amazon Technologies"})
+        jobright = role(
+            "jobright-swe-internships",
+            "https://jobright.ai/jobs/info/abc123",
+        )
+        jobright = Observation(**{**jobright.__dict__, "company": "Amazon"})
+
+        state = merge_state(
+            {"jobs": []},
+            [jobright, first, second],
+            complete_sources={jobright.source_id, first.source_id, second.source_id},
+            today="2026-08-01",
+        )
+
+        self.assertEqual(len(state["jobs"]), 3)
+        fallback = next(job for job in state["jobs"] if job["url_host"] == "jobright.ai")
+        self.assertEqual(fallback["url"], jobright.url)
+
     def test_jobright_listing_upgrades_to_employer_link_without_duplication(self) -> None:
         jobright = role(
             "jobright-swe-internships",
