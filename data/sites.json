@@ -3083,6 +3083,16 @@
       "url": "https://www.publicissapient.com/"
     },
     {
+      "boards": [
+        "workday:intel.wd1.myworkdayjobs.com:intel:external"
+      ],
+      "company": "Intel",
+      "key": "94bf1975c9fc7ec9ea3ad42e",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.intel.com/"
+    },
+    {
       "company": "Adventist Health",
       "error": "public request failed for https://www.adventisthealth.org/: HTTP Error 403: Forbidden",
       "key": "950590205c8869c495d2ca1d",
