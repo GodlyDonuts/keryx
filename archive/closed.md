@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**2482 closed roles**
+**2483 closed roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -606,6 +606,7 @@
 | Swift | Associate Test Engineer | Manassas, VA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-08 | [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-New-Grad) | [view job · Jobright](https://jobright.ai/jobs/info/6a5245a69fbdab22fe13ad76?utm_campaign=Software%20Engineering&utm_source=1103)<br><sub>discovery listing</sub> |
 | Swift | Associate Test Engineer | Manassas, United States, US | not available<br><sub>posting text not indexed</sub> | 2026-08-08 | [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-New-Grad) | [view job · Jobright](https://jobright.ai/jobs/info/69fcf45fb113035a9f8ed1a5?utm_campaign=Software%20Engineering&utm_source=1103)<br><sub>discovery listing</sub> |
 | Tactile Medical | Data Analyst | New Brighton, MN, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-08 | [Jobright · Data Analysis](https://github.com/jobright-ai/2026-Data-Analysis-New-Grad) | [view job · Jobright](https://jobright.ai/jobs/info/6a5a60f4c8e3a473cb8ab71c?utm_campaign=Data%20Analysis&utm_source=1103)<br><sub>discovery listing</sub> |
+| Transamerica | Product Strategist - Transamerica AM | Denver, CO | not available<br><sub>posting text not indexed</sub> | 2026-08-08 | [Jobright · Product Management](https://github.com/jobright-ai/2026-Product-Management-New-Grad) | [view job · Jobright](https://jobright.ai/jobs/info/6a0628576c07461fe171cfb7?utm_campaign=Product%20Management&utm_source=1103)<br><sub>discovery listing</sub> |
 | University of Oklahoma | Research Technician | Oklahoma City, OK, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-08 | [Jobright · Data Analysis](https://github.com/jobright-ai/2026-Data-Analysis-New-Grad) | [view job · Jobright](https://jobright.ai/jobs/info/6a73d3706a034212ea029adc?utm_campaign=Data%20Analysis&utm_source=1103)<br><sub>discovery listing</sub> |
 | WEX | Fraud / Credit Data Scientist, Risk Solutions | United States | not available<br><sub>posting text not indexed</sub> | 2026-08-08 | [Jobright · Data Analysis](https://github.com/jobright-ai/2026-Data-Analysis-New-Grad) | [view job · Jobright](https://jobright.ai/jobs/info/6a58e240686b4755d1e0cf1b?utm_campaign=Data%20Analysis&utm_source=1103)<br><sub>discovery listing</sub> |
 | Zachary Piper Solutions | Python Developer - Entry Level | Durham, NC, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-08 | [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-New-Grad) | [view job · Jobright](https://jobright.ai/jobs/info/6a7770c74817aa430704a74c?utm_campaign=Software%20Engineering&utm_source=1103)<br><sub>discovery listing</sub> |
