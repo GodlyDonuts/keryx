@@ -4,10 +4,11 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**18 open roles**
+**19 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
+| Rippling | Software Engineer Intern - Backend Focused - Winter 2027 | San Francisco, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a2d15adfc0644749054bc60?utm_campaign=1079&utm_source=git)<br><sub>discovery listing</sub> |
 | Notion | Software Engineer Intern - Winter 2027 | San Francisco, CA +1 | By Dec 2027<br><sub>graduation: required · enrollment: stated · direct ATS text · checked 2026-08-15</sub> | 2026-08-14 | [Ashby direct](https://jobs.ashbyhq.com/notion), [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-Internship), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8)<br><sub>ATS checked</sub> |
 | Rippling | Full Stack Software Engineer Intern - Winter 2027 | San Francisco, CA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-14 | [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a29a314495d985b99424dc5?utm_campaign=1079&utm_source=git)<br><sub>discovery listing</sub> |
 | Rippling | Software Engineer Intern - Backend Focused - Winter 2027 | Seattle, WA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-14 | [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a2991e20c4972328e7e4390?utm_campaign=1079&utm_source=git)<br><sub>discovery listing</sub> |
