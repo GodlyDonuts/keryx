@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,886 internships · 3,776 new-grad roles · 5,662 total openings**
+**1,895 internships · 3,773 new-grad roles · 5,668 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 636 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 479 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 80 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 637 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 480 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 81 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 18 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 673 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 679 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 738 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,043 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,995 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 727 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,037 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,009 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,7 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Applied Materials | 2026-2027 Process Engineer Co-op - Doctorate (Gloucester, MA) | Gloucester,MA | Not listed | not available | 2026-08-15 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-2027-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2626230)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
 | ByteDance | Software Engineer Intern - Global Payment Infra and SRE | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7668315137242351925/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Software Engineer Intern - Global Traffic Architecture | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7672557061679483189/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Software Engineer Intern - Traffic Infrastructure | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7672626707586746629/detail)**<br><sub>jobs.bytedance.com</sub> |
@@ -48,7 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | Analytical Mechanics Associates | Computer Science/Engineering Intern - Computer Vision Applications | New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Hampton, VA, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Computer-Science-Engineering-Intern---Computer-Vision-Applications_R-100731)**<br><sub>amainc.wd12.myworkdayjobs.com</sub> |
 | Arevon | Data Science Intern - Interconnection & Transmission | Scottsdale, AZ | Fall 2026 | Current student status<br><sub>required</sub> | 2026-08-14 | **[Apply →](https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5211455007)**<br><sub>job-boards.greenhouse.io</sub> |
 | BerryDunn | Consulting Intern - Healthcare Data Management and Strategy | Portland, ME | Summer 2027 | not available | 2026-08-14 | **[Apply →](https://careers-berrydunn.icims.com/jobs/3973/job?mobile=true&needsRedirect=false)**<br><sub>careers-berrydunn.icims.com</sub> |
-| Bosch | Manufacturing Engineering/Operations Co-op - Fall 2026 | Pineville, NC, us | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000143527019)**<br><sub>jobs.smartrecruiters.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
