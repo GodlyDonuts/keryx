@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,855 internships · 4,015 new-grad roles · 5,870 total openings**
+**1,842 internships · 4,016 new-grad roles · 5,858 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 621 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 618 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 464 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 69 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 21 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 680 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 670 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 714 | **[View openings →](new-grad/2027.md)** |
+| 2027 | 718 | **[View openings →](new-grad/2027.md)** |
 | 2026 | 1,326 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,975 | **[View openings →](new-grad/unscheduled.md)** |
+| Year not listed | 1,972 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Just posted: internships
@@ -63,13 +63,13 @@ The newest full-time opportunities for students and recent graduates.
 | Applied Intuition | Research Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Software Engineer New Grad - December 2026 | Ann Arbor, MI, Sunnyvale, CA | 2026 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Software Integration Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Goldman Sachs | Engineering New Analyst | Dallas, TX | Not listed | not available | 2026-08-15 | **[Apply →](https://higher.gs.com/roles/171568?type=students)**<br><sub>higher.gs.com</sub> |
+| Goldman Sachs | Engineering New Analyst - Engineering | Salt Lake City, UT | Not listed | not available | 2026-08-15 | **[Apply →](https://higher.gs.com/roles/171570?type=students)**<br><sub>higher.gs.com</sub> |
 | TikTok | Data Scientist Graduate - Multimedia | San Jose, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://lifeattiktok.com/search/7673672141010815237)**<br><sub>lifeattiktok.com</sub> |
 | Vanasse Hangen Brustlin | Software Evaluation & Enablement Analyst | Augusta, ME, Watertown, MA, NYC | Not listed | not available | 2026-08-15 | **[Apply →](https://careers-vhb.icims.com/jobs/6233/job?mobile=true&needsRedirect=false)**<br><sub>careers-vhb.icims.com</sub> |
 | Wolverine Trading | Entry Level C++ Software Engineer | Chicago, IL | Not listed | not available | 2026-08-15 | **[Apply →](https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq)**<br><sub>wolve.pinpointhq.com</sub> |
 | Wolverine Trading | Entry Level C++ Software Engineer | Chicago, IL | Not listed | not available | 2026-08-15 | **[Apply →](https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq)**<br><sub>wolve.pinpointhq.com</sub> |
 | AArete | Analyst, Claims Analytics | Chicago, IL, United States | 2026 | not available | 2026-08-14 | **[View job →](https://jobright.ai/jobs/info/6a7f2156b56bea5779c08c23?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
-| Achieve | Data Scientist (AHL) | San Mateo, CA, United States | 2026 | not available | 2026-08-14 | **[View job →](https://jobright.ai/jobs/info/6a67e069872eb74f9eadb880?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
-| Affirm | Analyst | United States | 2026 | not available | 2026-08-14 | **[View job →](https://jobright.ai/jobs/info/6a62817bc28982326de972f7?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
