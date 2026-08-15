@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,888 internships · 3,773 new-grad roles · 5,661 total openings**
+**1,886 internships · 3,776 new-grad roles · 5,662 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 637 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 481 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 81 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 17 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 672 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 636 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 479 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 80 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 18 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 673 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 725 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,041 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,007 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 738 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,043 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,995 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -46,7 +46,7 @@ Recent internship and co-op listings that open the employer's application page d
 | AARP | Data Science and Advanced Analytics Intern | Washington, DC | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://careers.aarp.org/jobs/7437?icims=1)**<br><sub>careers.aarp.org</sub> |
 | Abridge | Software Engineer - Intern | San Francisco, CA +1 | Not listed | not available | 2026-08-14 | **[Apply →](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883)**<br><sub>jobs.ashbyhq.com</sub> |
 | Analytical Mechanics Associates | Computer Science/Engineering Intern - Computer Vision Applications | New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Hampton, VA, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Computer-Science-Engineering-Intern---Computer-Vision-Applications_R-100731)**<br><sub>amainc.wd12.myworkdayjobs.com</sub> |
-| Arevon | Data Science Intern, Interconnection & Transmission | Scottsdale, AZ | Fall 2026 | Current student status<br><sub>required</sub> | 2026-08-14 | **[Apply →](https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5211455007)**<br><sub>job-boards.greenhouse.io</sub> |
+| Arevon | Data Science Intern - Interconnection & Transmission | Scottsdale, AZ | Fall 2026 | Current student status<br><sub>required</sub> | 2026-08-14 | **[Apply →](https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5211455007)**<br><sub>job-boards.greenhouse.io</sub> |
 | BerryDunn | Consulting Intern - Healthcare Data Management and Strategy | Portland, ME | Summer 2027 | not available | 2026-08-14 | **[Apply →](https://careers-berrydunn.icims.com/jobs/3973/job?mobile=true&needsRedirect=false)**<br><sub>careers-berrydunn.icims.com</sub> |
 | Bosch | Manufacturing Engineering/Operations Co-op - Fall 2026 | Pineville, NC, us | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000143527019)**<br><sub>jobs.smartrecruiters.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
@@ -67,9 +67,9 @@ Recent full-time opportunities that open the employer's application page directl
 | Goldman Sachs | Engineering New Analyst | Dallas, TX | Not listed | not available | 2026-08-15 | **[Apply →](https://higher.gs.com/roles/171568?type=students)**<br><sub>higher.gs.com</sub> |
 | Goldman Sachs | Engineering New Analyst - Engineering | Salt Lake City, UT | Not listed | not available | 2026-08-15 | **[Apply →](https://higher.gs.com/roles/171570?type=students)**<br><sub>higher.gs.com</sub> |
 | Goldman Sachs | Engineering New Analyst - Engineering | Seattle, WA | Not listed | not available | 2026-08-15 | **[Apply →](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807)**<br><sub>hdpc.fa.us2.oraclecloud.com</sub> |
-| LiteLLM | Forward Deployed Engineer (New Grad) | United States | Not listed | not stated | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3)**<br><sub>jobs.ashbyhq.com</sub> |
+| LiteLLM | Forward Deployed Engineer New Grad | India, United States | Not listed | not stated | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Revolutional | Associate Full Stack Engineer | McLean, VA | 2027 | not available | 2026-08-15 | **[Apply →](https://revolutional.com/job-openings/?gh_jid=7801406003)**<br><sub>revolutional.com</sub> |
 | TikTok | Data Scientist Graduate - Multimedia | San Jose, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://lifeattiktok.com/search/7673672141010815237)**<br><sub>lifeattiktok.com</sub> |
-| Vanasse Hangen Brustlin | Software Evaluation & Enablement Analyst | Augusta, ME, Watertown, MA, NYC | Not listed | not available | 2026-08-15 | **[Apply →](https://careers-vhb.icims.com/jobs/6233/job?mobile=true&needsRedirect=false)**<br><sub>careers-vhb.icims.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
