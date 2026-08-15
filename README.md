@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,852 internships · 4,021 new-grad roles · 5,873 total openings**
+**1,855 internships · 4,015 new-grad roles · 5,870 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
 | ☀️ Summer 2027 | 621 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 463 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 71 | **[View openings →](internships/spring-2027.md)** |
+| 🍂 Fall 2026 | 464 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 69 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 21 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 676 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 680 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 718 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,329 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,974 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 714 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,326 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,975 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Just posted: internships
@@ -48,7 +48,7 @@ The newest internship and co-op listings across every recruiting term.
 | Amazon Web Services (AWS) | Software Development Engineer Intern, AWS Data Services - Fall 2026 (US) | Seattle, WA, United States | Fall 2026 | not available | 2026-08-14 | **[View job →](https://jobright.ai/jobs/info/6a5eff6d470d4126fdeaca09?utm_campaign=1079&utm_source=git)**<br><sub>Jobright</sub> |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Commercial Services - New York, NY | New York, NY, United States | Summer 2027 | not available | 2026-08-14 | **[View job →](https://jobright.ai/jobs/info/6a7142569a0ca4480c7d3a14?utm_campaign=1047&utm_source=git)**<br><sub>Jobright</sub> |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - Phoenix, AZ | Phoenix, AZ, United States | Summer 2027 | not available | 2026-08-14 | **[View job →](https://jobright.ai/jobs/info/6a73b8b2e55c73319eb190b5?utm_campaign=1047&utm_source=git)**<br><sub>Jobright</sub> |
-| American Honda Motor Company, Inc. | Engineering Co-op/Intern - Spring 2027 | 1800 Honda Dr, Lincoln, Alabama, United States | Spring 2027 | not available | 2026-08-14 | **[View job →](https://jobright.ai/jobs/info/6a062bd6bc4184089f24c1c0?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
+| Amtrak | Fall 2026/Spring 2027 - Data Analytics Intern - 90413629 - Philadelphia Job Details / Amtrak | Philadelphia, PA, United States | Fall 2026 | not available | 2026-08-14 | **[View job →](https://jobright.ai/jobs/info/6a7f0f27ad9ff00c26bac7b9?utm_campaign=1066&utm_source=git)**<br><sub>Jobright</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Just posted: new-graduate roles
