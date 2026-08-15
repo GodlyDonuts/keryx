@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,867 internships · 4,087 new-grad roles · 5,954 total openings**
+**1,826 internships · 4,024 new-grad roles · 5,850 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 625 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 470 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 72 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 618 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 463 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 71 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 21 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 679 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 653 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 722 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,386 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,979 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 718 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,328 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,978 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Just posted: internships
@@ -43,12 +43,12 @@ The newest internship and co-op listings across every recruiting term.
 | Epia Neuro | Hardware Engineer Intern | Alameda, CA | Fall 2026 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | AARP | Data Science and Advanced Analytics Intern | Washington, DC | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://careers.aarp.org/jobs/7437?icims=1)**<br><sub>careers.aarp.org</sub> |
 | Abridge | Software Engineer, Intern | New York, NY, United States | Not listed | not available | 2026-08-14 | **[View job →](https://jobright.ai/jobs/info/6a7f957e927c79391ad0ac2e?utm_campaign=1079&utm_source=git)**<br><sub>Jobright</sub> |
-| AE2S (Advanced Engineering and Environmental Services, LLC) | Structural Engineering Internship - Summer 2026 | Rapid City, SD, United States | Not listed | not available | 2026-08-14 | **[View job →](https://jobright.ai/jobs/info/6a50e0272b161c524166298b?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
 | AInvest Fintech Inc. | Product Operation Intern (Finance & AI) | New York City metropolitan area, United States | Not listed | not available | 2026-08-14 | **[View job →](https://jobright.ai/jobs/info/6a7f7738b56bea5779c0b97e?utm_campaign=1047&utm_source=git)**<br><sub>Jobright</sub> |
 | Amazon | 2027 Amazon Leadership Accelerator (ALA) Product Manager Internship | Seattle, WA, United States | Not listed | not available | 2026-08-14 | **[View job →](https://jobright.ai/jobs/info/6a722b0b71acd469eeda6576?utm_campaign=1047&utm_source=git)**<br><sub>Jobright</sub> |
-| Amazon | Software Development Engineer Internship - Fall 2026 (US) | Seattle, WA, United States | Fall 2026 | not available | 2026-08-14 | **[View job →](https://jobright.ai/jobs/info/6a55b3922ce8bf79a139f963?utm_campaign=1079&utm_source=git)**<br><sub>Jobright</sub> |
 | Amazon Web Services (AWS) | Software Development Engineer Intern, AWS Data Services - Fall 2026 (US) | Seattle, WA, United States | Fall 2026 | not available | 2026-08-14 | **[View job →](https://jobright.ai/jobs/info/6a5eff6d470d4126fdeaca09?utm_campaign=1079&utm_source=git)**<br><sub>Jobright</sub> |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Commercial Services - New York, NY | New York, NY, United States | Summer 2027 | not available | 2026-08-14 | **[View job →](https://jobright.ai/jobs/info/6a7142569a0ca4480c7d3a14?utm_campaign=1047&utm_source=git)**<br><sub>Jobright</sub> |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Product Management, Global Merchant & Network Services - Phoenix, AZ | Phoenix, AZ, United States | Summer 2027 | not available | 2026-08-14 | **[View job →](https://jobright.ai/jobs/info/6a73b8b2e55c73319eb190b5?utm_campaign=1047&utm_source=git)**<br><sub>Jobright</sub> |
+| American Honda Motor Company, Inc. | Engineering Co-op/Intern - Spring 2027 | 1800 Honda Dr, Lincoln, Alabama, United States | Spring 2027 | not available | 2026-08-14 | **[View job →](https://jobright.ai/jobs/info/6a062bd6bc4184089f24c1c0?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Just posted: new-graduate roles

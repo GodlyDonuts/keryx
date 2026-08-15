@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**72 open roles**
+**71 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -17,7 +17,6 @@
 | Pegasystems | Software Engineer Intern, Platform Security - Spring 2027 | Waltham, MA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-14 | [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a7f806a927c79391ad09e57?utm_campaign=1079&utm_source=git)<br><sub>discovery listing</sub> |
 | The Mosaic Company | Process Engineer Co-Op/Intern - Spring 2027 | Bradley, FL, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-14 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a5fd26f6e0c3c7c7d3d932d?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
 | The Nuclear Company | Spring 2027 AI Applied Research Internship | Washington, DC | Student status conditions<br><sub>enrollment: stated · return to school: stated · direct ATS text · checked 2026-08-15</sub> | 2026-08-14 | [Greenhouse direct](https://job-boards.greenhouse.io/thenuclearcompany), [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008)<br><sub>ATS checked</sub> |
-| The Nuclear Company | Spring 2027 AI Applied Research Internship | Washington, DC, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-14 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a7f7b9d19ce4e6e9d93854b?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
 | Delta Air Lines | Graduate Intern, Data Scientist (Spring 2027) | Atlanta, GA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Jobright · Data Analysis](https://github.com/jobright-ai/2026-Data-Analysis-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a7d1219d77e8156a8e35be0?utm_campaign=1066&utm_source=git)<br><sub>discovery listing</sub> |
 | Specter Aerospace | Embedded Software Co-op | Boston, MA | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · specteraerospace.bamboohr.com](https://specteraerospace.bamboohr.com/careers/119/)<br><sub>recognized recruiting platform</sub> |
 | Specter Aerospace | Front-End Software Developer Co-op | Boston, MA, Peabody, MA | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · specteraerospace.bamboohr.com](https://specteraerospace.bamboohr.com/careers/120/)<br><sub>recognized recruiting platform</sub> |
