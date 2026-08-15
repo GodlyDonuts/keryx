@@ -1184,6 +1184,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Vendelux",
+      "key": "ashby:vendelux",
+      "slug": "vendelux"
+    },
+    {
+      "ats": "ashby",
       "company": "Verne Robotics",
       "key": "ashby:verne%20robotics",
       "slug": "Verne%20Robotics"
@@ -1310,6 +1316,13 @@
       "host": "phihong.bamboohr.com",
       "key": "bamboohr:phihong",
       "slug": "phihong"
+    },
+    {
+      "ats": "bamboohr",
+      "company": "Saalt",
+      "host": "saalt.bamboohr.com",
+      "key": "bamboohr:saalt",
+      "slug": "saalt"
     },
     {
       "ats": "bamboohr",
@@ -1519,6 +1532,12 @@
       "company": "Atomic Machines",
       "key": "greenhouse:atomicmachines",
       "slug": "atomicmachines"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Ecommerce Guide",
+      "key": "greenhouse:attentive",
+      "slug": "attentive"
     },
     {
       "ats": "greenhouse",
@@ -3344,6 +3363,14 @@
     },
     {
       "ats": "oracle",
+      "company": "PEMCO",
+      "host": "ejkz.fa.us2.oraclecloud.com",
+      "key": "oracle:ejkz.fa.us2.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "ejkz"
+    },
+    {
+      "ats": "oracle",
       "company": "GHD",
       "host": "ejov.fa.ca2.oraclecloud.com",
       "key": "oracle:ejov.fa.ca2.oraclecloud.com:cx",
@@ -3416,6 +3443,54 @@
     },
     {
       "ats": "oracle",
+      "company": "First Solar",
+      "host": "fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "fa-esbv-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
+      "company": "First Solar",
+      "host": "fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com:cx_10",
+      "site": "CX_10",
+      "slug": "fa-esbv-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
+      "company": "First Solar",
+      "host": "fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com:cx_1001",
+      "site": "CX_1001",
+      "slug": "fa-esbv-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
+      "company": "First Solar",
+      "host": "fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com:cx_2001",
+      "site": "CX_2001",
+      "slug": "fa-esbv-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
+      "company": "First Solar",
+      "host": "fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com:cx_4",
+      "site": "CX_4",
+      "slug": "fa-esbv-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
+      "company": "First Solar",
+      "host": "fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com:cx_7",
+      "site": "CX_7",
+      "slug": "fa-esbv-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
       "company": "Montenson",
       "host": "fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com",
       "key": "oracle:fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
@@ -3460,6 +3535,14 @@
       "host": "fa-etum-saasfaprod1.fa.ocs.oraclecloud.com",
       "key": "oracle:fa-etum-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
       "site": "CX_1",
+      "slug": "fa-etum-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
+      "company": "Florida Blue",
+      "host": "fa-etum-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-etum-saasfaprod1.fa.ocs.oraclecloud.com:floridablue",
+      "site": "floridablue",
       "slug": "fa-etum-saasfaprod1"
     },
     {
@@ -3613,6 +3696,14 @@
       "key": "oracle:hdpc.fa.us2.oraclecloud.com:lateralhiring",
       "site": "LateralHiring",
       "slug": "hdpc"
+    },
+    {
+      "ats": "oracle",
+      "company": "Uber",
+      "host": "iaziqy.fa.ocs.oraclecloud.com",
+      "key": "oracle:iaziqy.fa.ocs.oraclecloud.com:ubercareers",
+      "site": "UberCareers",
+      "slug": "iaziqy"
     },
     {
       "ats": "oracle",
@@ -5595,6 +5686,15 @@
       "key": "workday:coreandmain.wd1.myworkdayjobs.com:coreandmain:coreandmain",
       "site": "coreandmain",
       "slug": "coreandmain",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Core Specialty Insurance Holdings, Inc.",
+      "host": "corespecialtyinsurance.wd1.myworkdayjobs.com",
+      "key": "workday:corespecialtyinsurance.wd1.myworkdayjobs.com:corespecialtyinsurance:core_specialty",
+      "site": "Core_Specialty",
+      "slug": "corespecialtyinsurance",
       "wd": "wd1"
     },
     {
@@ -8179,6 +8279,15 @@
       "site": "RaymondJamesCareers",
       "slug": "raymondjames",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Ecommerce Guide",
+      "host": "razer.wd3.myworkdayjobs.com",
+      "key": "workday:razer.wd3.myworkdayjobs.com:razer:careers",
+      "site": "Careers",
+      "slug": "razer",
+      "wd": "wd3"
     },
     {
       "ats": "workday",
