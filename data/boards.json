@@ -374,6 +374,12 @@
     },
     {
       "ats": "ashby",
+      "company": "EliseAI",
+      "key": "ashby:eliseai",
+      "slug": "EliseAI"
+    },
+    {
+      "ats": "ashby",
       "company": "Eliza",
       "key": "ashby:eliza",
       "slug": "eliza"
@@ -431,6 +437,12 @@
       "company": "Faros AI",
       "key": "ashby:faros-ai",
       "slug": "faros-ai"
+    },
+    {
+      "ats": "ashby",
+      "company": "Fizz",
+      "key": "ashby:fizz",
+      "slug": "fizz"
     },
     {
       "ats": "ashby",
@@ -938,6 +950,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Qualified Health",
+      "key": "ashby:qualified-health-pbc",
+      "slug": "qualified-health-pbc"
+    },
+    {
+      "ats": "ashby",
       "company": "Quora",
       "key": "ashby:quora",
       "slug": "quora"
@@ -1019,6 +1037,12 @@
       "company": "Saronic",
       "key": "ashby:saronic",
       "slug": "saronic"
+    },
+    {
+      "ats": "ashby",
+      "company": "Sela",
+      "key": "ashby:sela%20ai",
+      "slug": "Sela%20AI"
     },
     {
       "ats": "ashby",
@@ -1220,6 +1244,12 @@
     },
     {
       "ats": "ashby",
+      "company": "The Voleon Group",
+      "key": "ashby:voleon",
+      "slug": "voleon"
+    },
+    {
+      "ats": "ashby",
       "company": "Voxel",
       "key": "ashby:voxel",
       "slug": "voxel"
@@ -1320,6 +1350,13 @@
       "host": "gupta.bamboohr.com",
       "key": "bamboohr:gupta",
       "slug": "gupta"
+    },
+    {
+      "ats": "bamboohr",
+      "company": "Investortools",
+      "host": "investortools.bamboohr.com",
+      "key": "bamboohr:investortools",
+      "slug": "investortools"
     },
     {
       "ats": "bamboohr",
@@ -1962,6 +1999,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Genius AI",
+      "key": "greenhouse:glossgenius",
+      "slug": "glossgenius"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Golden Pet Brands",
       "key": "greenhouse:goldenpetbrands",
       "slug": "goldenpetbrands"
@@ -2505,6 +2548,18 @@
       "company": "Smartsheet",
       "key": "greenhouse:smartsheet",
       "slug": "smartsheet"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Sol de Janeiro",
+      "key": "greenhouse:soldejaneiro",
+      "slug": "soldejaneiro"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Sol de Janeiro",
+      "key": "greenhouse:soldejaneirointernship",
+      "slug": "soldejaneirointernship"
     },
     {
       "ats": "greenhouse",
@@ -3180,6 +3235,12 @@
     },
     {
       "ats": "lever",
+      "company": "TTEC Digital",
+      "key": "lever:ttecdigital",
+      "slug": "ttecdigital"
+    },
+    {
+      "ats": "lever",
       "company": "UntilLabs",
       "key": "lever:until",
       "slug": "until"
@@ -3207,6 +3268,12 @@
       "company": "Voltus",
       "key": "lever:voltus",
       "slug": "voltus"
+    },
+    {
+      "ats": "lever",
+      "company": "WebFX",
+      "key": "lever:webfx",
+      "slug": "webfx"
     },
     {
       "ats": "lever",
@@ -4339,6 +4406,18 @@
       "company": "Lovingly",
       "key": "workable:lovingly",
       "slug": "lovingly"
+    },
+    {
+      "ats": "workable",
+      "company": "Metro Infusion Center",
+      "key": "workable:metro-infectious-disease-consultants",
+      "slug": "metro-infectious-disease-consultants"
+    },
+    {
+      "ats": "workable",
+      "company": "Multi Media, LLC",
+      "key": "workable:multimediallc",
+      "slug": "multimediallc"
     },
     {
       "ats": "workable",
@@ -5890,6 +5969,24 @@
     },
     {
       "ats": "workday",
+      "company": "Dana-Farber Cancer Institute",
+      "host": "danafarber.wd5.myworkdayjobs.com",
+      "key": "workday:danafarber.wd5.myworkdayjobs.com:danafarber:dana-farber",
+      "site": "dana-farber",
+      "slug": "danafarber",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Dana-Farber Cancer Institute",
+      "host": "danafarber.wd5.myworkdayjobs.com",
+      "key": "workday:danafarber.wd5.myworkdayjobs.com:danafarber:dana-farbernonrecruit",
+      "site": "dana-farbernonrecruit",
+      "slug": "danafarber",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Danaher Corporation",
       "host": "danaher.wd1.myworkdayjobs.com",
       "key": "workday:danaher.wd1.myworkdayjobs.com:danaher:danaherjobs",
@@ -6646,6 +6743,15 @@
     },
     {
       "ats": "workday",
+      "company": "Voya Investment Management",
+      "host": "godirect.wd5.myworkdayjobs.com",
+      "key": "workday:godirect.wd5.myworkdayjobs.com:godirect:voya_jobs",
+      "site": "voya_jobs",
+      "slug": "godirect",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Graco",
       "host": "graco.wd501.myworkdayjobs.com",
       "key": "workday:graco.wd501.myworkdayjobs.com:graco:graco_careers",
@@ -7132,6 +7238,24 @@
     },
     {
       "ats": "workday",
+      "company": "J.Crew Factory",
+      "host": "jcrew.wd1.myworkdayjobs.com",
+      "key": "workday:jcrew.wd1.myworkdayjobs.com:jcrew:jcrewcareers",
+      "site": "JCrewCareers",
+      "slug": "jcrew",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "J.Crew Factory",
+      "host": "jcrew.wd1.myworkdayjobs.com",
+      "key": "workday:jcrew.wd1.myworkdayjobs.com:jcrew:madewellcareers",
+      "site": "MadewellCareers",
+      "slug": "jcrew",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Blue Yonder",
       "host": "jda.wd5.myworkdayjobs.com",
       "key": "workday:jda.wd5.myworkdayjobs.com:jda:jda_careers",
@@ -7456,6 +7580,15 @@
     },
     {
       "ats": "workday",
+      "company": "Mass General Brigham",
+      "host": "massgeneralbrigham.wd1.myworkdayjobs.com",
+      "key": "workday:massgeneralbrigham.wd1.myworkdayjobs.com:massgeneralbrigham:mgbexternal%22%7d%7d",
+      "site": "MGBExternal%22%7D%7D",
+      "slug": "massgeneralbrigham",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "MassMutual",
       "host": "massmutual.wd1.myworkdayjobs.com",
       "key": "workday:massmutual.wd1.myworkdayjobs.com:massmutual:mmcareers",
@@ -7496,6 +7629,15 @@
       "host": "mckesson.wd3.myworkdayjobs.com",
       "key": "workday:mckesson.wd3.myworkdayjobs.com:mckesson:external_careers",
       "site": "External_Careers",
+      "slug": "mckesson",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Sarah Cannon Research Institute",
+      "host": "mckesson.wd3.myworkdayjobs.com",
+      "key": "workday:mckesson.wd3.myworkdayjobs.com:mckesson:scri_careers",
+      "site": "SCRI_Careers",
       "slug": "mckesson",
       "wd": "wd3"
     },
@@ -8149,6 +8291,15 @@
     },
     {
       "ats": "workday",
+      "company": "Public Consulting Group",
+      "host": "pcg.wd1.myworkdayjobs.com",
+      "key": "workday:pcg.wd1.myworkdayjobs.com:pcg:pcg_external_careers",
+      "site": "PCG_External_Careers",
+      "slug": "pcg",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "PEAK6",
       "host": "peak6group.wd1.myworkdayjobs.com",
       "key": "workday:peak6group.wd1.myworkdayjobs.com:peak6group:capman",
@@ -8775,6 +8926,15 @@
       "key": "workday:sentryinsurance.wd1.myworkdayjobs.com:sentryinsurance:sentrycareers",
       "site": "SentryCareers",
       "slug": "sentryinsurance",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "ServiceTitan",
+      "host": "servicetitan.wd1.myworkdayjobs.com",
+      "key": "workday:servicetitan.wd1.myworkdayjobs.com:servicetitan:servicetitan",
+      "site": "ServiceTitan",
+      "slug": "servicetitan",
       "wd": "wd1"
     },
     {

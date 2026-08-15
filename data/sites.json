@@ -27,6 +27,22 @@
     },
     {
       "boards": [],
+      "company": "Lila Sciences",
+      "key": "00f974ba0571af7df69b277e",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.lila.ai/"
+    },
+    {
+      "boards": [],
+      "company": "NYU Langone Health",
+      "key": "028599e0a1f34f432a63f74a",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://nyulangone.org/"
+    },
+    {
+      "boards": [],
       "company": "Berkshire Hathaway Specialty Insurance",
       "key": "02c0bff0df6049ac0acf8572",
       "last_scanned": "2026-08-15",
@@ -40,6 +56,42 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://cchcs.ca.gov/"
+    },
+    {
+      "boards": [
+        "ashby:northwoodspace"
+      ],
+      "company": "Northwood",
+      "key": "03053c2fc82ddd47560526ee",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.northwoodspace.io/"
+    },
+    {
+      "boards": [],
+      "company": "Auto-Chlor System",
+      "key": "035bcf4d1ce3f6b37793c8c2",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.autochlor.com/"
+    },
+    {
+      "boards": [
+        "workable:multimediallc"
+      ],
+      "company": "Multi Media, LLC",
+      "key": "036dca8ec73a41f84607473f",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://multimediallc.com/"
+    },
+    {
+      "boards": [],
+      "company": "Intact Insurance Specialty Solutions",
+      "key": "03844413256a6ef1134bf92c",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.intactspecialty.com/"
     },
     {
       "boards": [],
@@ -74,6 +126,14 @@
     },
     {
       "boards": [],
+      "company": "California Energy Commission",
+      "key": "05d0ca38339f7534655f138c",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.energy.ca.gov/"
+    },
+    {
+      "boards": [],
       "company": "Techtronic Industries - TTI",
       "key": "065cb409d6243bdedc68cc2d",
       "last_scanned": "2026-08-15",
@@ -86,6 +146,22 @@
       "key": "0670104eda403407a0da0752",
       "last_scanned": "2026-08-15",
       "url": "https://amatriot.com/"
+    },
+    {
+      "boards": [],
+      "company": "Hunter Douglas Architectural Belgium",
+      "key": "0698d09276887d2674d1d11d",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.hunterdouglasarchitectural.eu/"
+    },
+    {
+      "boards": [],
+      "company": "Amazon Lab126",
+      "key": "072d223f608dbcbb7046ccad",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://amazon.jobs/"
     },
     {
       "company": "Sparks Wiz Limited",
@@ -114,6 +190,14 @@
     },
     {
       "boards": [],
+      "company": "MaineHealth",
+      "key": "0b0a931d9b71f4c8c05a7565",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://mainehealth.org/"
+    },
+    {
+      "boards": [],
       "company": "Amazon",
       "key": "0ba3957e3d6d05ddd0a121de",
       "last_scanned": "2026-08-15",
@@ -121,11 +205,36 @@
       "url": "https://amazon.com/"
     },
     {
+      "boards": [
+        "ashby:qualified-health-pbc"
+      ],
+      "company": "Qualified Health",
+      "key": "0c079d115c5f9a603ee9b700",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.qualifiedhealthai.com/"
+    },
+    {
       "company": "SimpliSafe",
       "error": "Invalid IPv6 URL",
       "key": "0c27573de57eb4b59f518aa9",
       "last_scanned": "2026-08-15",
       "url": "https://simplisafe.com/"
+    },
+    {
+      "boards": [],
+      "company": "Carnival Corporation",
+      "key": "0c7ad486c09d3be1fed74edc",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://carnivalcorp.com/"
+    },
+    {
+      "company": "Swift",
+      "error": "public request failed for https://www.swift.com/: The read operation timed out",
+      "key": "0c7be45b999355e55510d422",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.swift.com/"
     },
     {
       "boards": [
@@ -172,6 +281,16 @@
       "url": "https://www.ssati.com/"
     },
     {
+      "boards": [
+        "workday:mckesson.wd3.myworkdayjobs.com:mckesson:scri_careers"
+      ],
+      "company": "Sarah Cannon Research Institute",
+      "key": "0fc64600632e00d129ba9912",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.scri.com/"
+    },
+    {
       "boards": [],
       "company": "Novocure",
       "key": "0fe072ad179daa9f7b8e739a",
@@ -186,6 +305,20 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.medscape.com/"
+    },
+    {
+      "company": "Sparrow",
+      "error": "Invalid IPv6 URL",
+      "key": "110cddf3734f336350a50838",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.sparrowup.com/"
+    },
+    {
+      "company": "General Dynamics Mission Systems\u2013Canada",
+      "error": "public request failed for https://gdmissionsystems.ca/: HTTP Error 403: Forbidden",
+      "key": "11407fc50afe8dfc70d31d53",
+      "last_scanned": "2026-08-15",
+      "url": "https://gdmissionsystems.ca/"
     },
     {
       "boards": [],
@@ -254,6 +387,16 @@
       "url": "https://www.mckinsey.com/"
     },
     {
+      "boards": [
+        "lever:ttecdigital"
+      ],
+      "company": "TTEC Digital",
+      "key": "14c8e1c51e29da13e2ba1ff1",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://ttecdigital.com/"
+    },
+    {
       "boards": [],
       "company": "Ramp",
       "key": "153985ac3643e203b9fcaa1d",
@@ -284,6 +427,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://amca.company/"
+    },
+    {
+      "boards": [
+        "workday:servicetitan.wd1.myworkdayjobs.com:servicetitan:servicetitan"
+      ],
+      "company": "ServiceTitan",
+      "key": "16a4e3754ee3bce5c5b0731e",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.servicetitan.com/"
     },
     {
       "company": "Isometric Micro Molding - Nissha Medical Technologies",
@@ -319,6 +472,31 @@
       "url": "https://generalmatter.com/"
     },
     {
+      "company": "Redfin",
+      "error": "public request failed for https://www.redfin.com/: HTTP Error 405: Not Allowed",
+      "key": "1aeca1473f17662ce653056c",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.redfin.com/"
+    },
+    {
+      "boards": [],
+      "company": "Ford Motor Company",
+      "key": "1c02a1dce3790f21ebc2090d",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.ford.com/"
+    },
+    {
+      "boards": [
+        "ashby:voleon"
+      ],
+      "company": "The Voleon Group",
+      "key": "1c0a6fdfc51787c94865f21d",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://voleon.com/"
+    },
+    {
       "boards": [],
       "company": "Boys & Girls Clubs of Utah County",
       "key": "1dccd1156c2de8d9671acbb5",
@@ -328,11 +506,27 @@
     },
     {
       "boards": [],
+      "company": "Supermicro",
+      "key": "1eaf49c55094500a76df860a",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.supermicro.com/"
+    },
+    {
+      "boards": [],
       "company": "Carta Healthcare",
       "key": "1f713b63ae05beb5dbcd3c15",
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.carta.healthcare/"
+    },
+    {
+      "boards": [],
+      "company": "Adobe",
+      "key": "200ae71ab6f9f1c8fd8cea2b",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.adobe.com/"
     },
     {
       "company": "Amtrak",
@@ -358,6 +552,14 @@
     },
     {
       "boards": [],
+      "company": "Quicken Loans",
+      "key": "21819ff87eb8291bd8ade5b4",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.quickenloans.com/"
+    },
+    {
+      "boards": [],
       "company": "P99SOFT",
       "key": "21b1bd90a3b675694c7ad289",
       "last_scanned": "2026-08-15",
@@ -371,6 +573,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.loreal.de/"
+    },
+    {
+      "boards": [],
+      "company": "D'Addario & Company, Inc.",
+      "key": "21e39460d96a4110b169653e",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://daddario.com/"
     },
     {
       "boards": [],
@@ -433,6 +643,16 @@
       "url": "https://www.pharmacyautomationsupplies.com/"
     },
     {
+      "boards": [
+        "workday:pcg.wd1.myworkdayjobs.com:pcg:pcg_external_careers"
+      ],
+      "company": "Public Consulting Group",
+      "key": "27b21c948a6b90fe713cd865",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.publicconsultinggroup.com/"
+    },
+    {
       "company": "Health Here",
       "error": "Invalid IPv6 URL",
       "key": "2813acedeabdfd55ad2b31f3",
@@ -456,6 +676,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.sharkninja.com/"
+    },
+    {
+      "company": "Wesco",
+      "error": "public request failed for https://www.wesco.com/us/en.html: HTTP Error 403: Forbidden",
+      "key": "29881ac2f6968f00950555ff",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.wesco.com/us/en.html"
     },
     {
       "boards": [
@@ -500,6 +727,25 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://x.ai/"
+    },
+    {
+      "boards": [
+        "workday:danafarber.wd5.myworkdayjobs.com:danafarber:dana-farber",
+        "workday:danafarber.wd5.myworkdayjobs.com:danafarber:dana-farbernonrecruit"
+      ],
+      "company": "Dana-Farber Cancer Institute",
+      "key": "2cc0bcb543fac2aaeef8b84c",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.dana-farber.org/"
+    },
+    {
+      "boards": [],
+      "company": "USC",
+      "key": "2cd5b2889894d5772e45531f",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.usc.co.uk/"
     },
     {
       "company": "Metropolitan Utilities District",
@@ -644,11 +890,27 @@
       "url": "https://group1001.com/"
     },
     {
+      "boards": [],
+      "company": "TopDog Law",
+      "key": "331eb56a45c59afe0a183563",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 1,
+      "url": "https://topdoglaw.com/"
+    },
+    {
       "company": "The University of Texas at Austin",
       "error": "public request failed for https://www.texasenterprise.utexas.edu/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.texasenterprise.utexas.edu'. (_ssl.c:1000)>",
       "key": "3385a715434fcbfe9162289a",
       "last_scanned": "2026-08-15",
       "url": "https://www.texasenterprise.utexas.edu/"
+    },
+    {
+      "boards": [],
+      "company": "Springs Window Fashions",
+      "key": "3455ec6ce50c1879af77614d",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.springswindowfashions.com/"
     },
     {
       "boards": [],
@@ -667,6 +929,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.relativity.com/"
+    },
+    {
+      "boards": [],
+      "company": "Weber State University Department of Automotive Technology",
+      "key": "35058a6306e557777b01db94",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.weber.edu/automotive"
     },
     {
       "boards": [],
@@ -792,6 +1062,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 1,
       "url": "https://www.MaverickPayments.com/"
+    },
+    {
+      "boards": [],
+      "company": "Boston Children's Hospital",
+      "key": "3b65786f03c75d590ba1b032",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.childrenshospital.org/"
     },
     {
       "company": "Oracle",
@@ -944,6 +1222,22 @@
     },
     {
       "boards": [],
+      "company": "State of Arkansas",
+      "key": "445bac0d2c696ae70dfe5405",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://portal.arkansas.gov/"
+    },
+    {
+      "boards": [],
+      "company": "DC Army National Guard",
+      "key": "446633faea3e617e9309d270",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.nationalguard.com/DC"
+    },
+    {
+      "boards": [],
       "company": "Cognizant",
       "key": "44c90218b366ea08d1e4ae36",
       "last_scanned": "2026-08-15",
@@ -968,6 +1262,14 @@
     },
     {
       "boards": [],
+      "company": "Education Service Center, Region 20",
+      "key": "47abaa7d449e263bd60b6f55",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.esc20.net/"
+    },
+    {
+      "boards": [],
       "company": "Core & Main",
       "key": "4806f77edfb4e2b5f23ac365",
       "last_scanned": "2026-08-15",
@@ -981,6 +1283,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.jetblue.com/"
+    },
+    {
+      "boards": [
+        "workable:metro-infectious-disease-consultants"
+      ],
+      "company": "Metro Infusion Center",
+      "key": "49dabe544c61fe61e2023386",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://metroinfusioncenter.com/"
     },
     {
       "boards": [],
@@ -1113,6 +1425,14 @@
     },
     {
       "boards": [],
+      "company": "Yale University",
+      "key": "4fbd27a32cf56b37dcc9de5a",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.yale.edu/"
+    },
+    {
+      "boards": [],
       "company": "Sky Transport Solution",
       "key": "4fe75caa25a44941451a74ca",
       "last_scanned": "2026-08-15",
@@ -1152,6 +1472,14 @@
       "url": "https://www.helenoftroy.com/"
     },
     {
+      "boards": [],
+      "company": "Quanta Manufacturing Fremont",
+      "key": "5175b5385ae1968ae3094119",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.linkedin.com/company/104439969"
+    },
+    {
       "company": "UtiliSave LLC",
       "error": "public request failed for https://www.utilisave.com/: HTTP Error 403: Forbidden",
       "key": "5186dd360709ce1923409885",
@@ -1167,6 +1495,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.princess.com/"
+    },
+    {
+      "boards": [
+        "greenhouse:voyagertechnologiesinc"
+      ],
+      "company": "Voyager Technologies",
+      "key": "523374423dd1f3fcf159a2a2",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://voyagertechnologies.com/"
     },
     {
       "boards": [
@@ -1291,6 +1629,16 @@
       "url": "https://www.criver.com/"
     },
     {
+      "boards": [
+        "ashby:fizz"
+      ],
+      "company": "Fizz",
+      "key": "57e558d2631d0bba23f724f3",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://fizz.social/"
+    },
+    {
       "company": "RJ Schinner Co., Inc.",
       "error": "public request failed for https://rjschinner.com/: <urlopen error [Errno 104] Connection reset by peer>",
       "key": "582212c055ab039a5c520c1a",
@@ -1403,6 +1751,32 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.pjtpartners.com/"
+    },
+    {
+      "company": "LPL Financial",
+      "error": "public request failed for https://www.lpl.com/: HTTP Error 403: Forbidden",
+      "key": "5f35392ead95a3c5fc83dcac",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.lpl.com/"
+    },
+    {
+      "boards": [],
+      "company": "VSolvit",
+      "key": "5f446a3a090a965105c33d2d",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.vsolvit.com/"
+    },
+    {
+      "boards": [
+        "workday:massgeneralbrigham.wd1.myworkdayjobs.com:massgeneralbrigham:mgbexternal",
+        "workday:massgeneralbrigham.wd1.myworkdayjobs.com:massgeneralbrigham:mgbexternal%22%7d%7d"
+      ],
+      "company": "Mass General Brigham",
+      "key": "606b087fbeb8fd1936360f6f",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.massgeneralbrigham.org/"
     },
     {
       "boards": [],
@@ -1518,6 +1892,21 @@
       "url": "https://www.waysideyouth.org/"
     },
     {
+      "company": "Savannah River Mission Completion",
+      "error": "Invalid IPv6 URL",
+      "key": "67fbd3d5e50a452605278458",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.savannahrivermissioncompletion.com/"
+    },
+    {
+      "boards": [],
+      "company": "FSH Technologies",
+      "key": "682e90250c00bbbf14bb6f05",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://fshtechnologies.org/"
+    },
+    {
       "boards": [],
       "company": "Cincinnati Children's",
       "key": "68b47b9f42f53280cef20a50",
@@ -1549,11 +1938,26 @@
       "url": "https://www.uscold.com/"
     },
     {
+      "boards": [],
+      "company": "Altman Solon",
+      "key": "69a3dcfdc584403f8e093dd2",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.altmansolon.com/"
+    },
+    {
       "company": "KAYAK",
       "error": "Invalid IPv6 URL",
       "key": "6aaf571413e3013f3f9e423a",
       "last_scanned": "2026-08-15",
       "url": "https://www.kayak.com/"
+    },
+    {
+      "company": "Rocket",
+      "error": "public request failed for https://www.rocketcompanies.com/: HTTP Error 403: Forbidden",
+      "key": "6aed8e42722b9d2fe08ab7a0",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.rocketcompanies.com/"
     },
     {
       "boards": [],
@@ -1705,11 +2109,27 @@
     },
     {
       "boards": [],
+      "company": "Trackman",
+      "key": "74285db55338f19ae558bc38",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://trackmangolf.com/"
+    },
+    {
+      "boards": [],
       "company": "Philips",
       "key": "743e9511cd30cd52986e2607",
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.usa.philips.com/"
+    },
+    {
+      "boards": [],
+      "company": "RLI Insurance Company",
+      "key": "7473f973b76005bcf3e3bdba",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.rlicorp.com/"
     },
     {
       "boards": [
@@ -1779,6 +2199,16 @@
     },
     {
       "boards": [
+        "ashby:eliseai"
+      ],
+      "company": "EliseAI",
+      "key": "76c859773354e420ad0cefe6",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.eliseai.com/"
+    },
+    {
+      "boards": [
         "oracle:egup.fa.us2.oraclecloud.com:cx"
       ],
       "company": "Vertiv",
@@ -1789,11 +2219,34 @@
     },
     {
       "boards": [],
+      "company": "University of Florida",
+      "key": "776d117047fcf25976f16cba",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.ufl.edu/"
+    },
+    {
+      "boards": [],
       "company": "Brown & Brown",
       "key": "7799251e29f625158d83c3b8",
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://brown-brown.nl/"
+    },
+    {
+      "company": "Mastercard",
+      "error": "public request failed for https://www.mastercard.com/: HTTP Error 403: Forbidden",
+      "key": "77e169e72cbf565b566b3dda",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.mastercard.com/"
+    },
+    {
+      "boards": [],
+      "company": "CNF Technologies",
+      "key": "79a8c58bd8b5f21c7f37279a",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://cnftech.com/"
     },
     {
       "boards": [],
@@ -1818,6 +2271,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://complete-care.com/"
+    },
+    {
+      "boards": [],
+      "company": "Kwik Trip, Inc.",
+      "key": "7a10f06559f00d2d4126a8aa",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.kwiktrip.com/"
     },
     {
       "company": "DoorDash",
@@ -1882,6 +2343,16 @@
       "url": "https://aws.amazon.com/"
     },
     {
+      "boards": [
+        "workday:chamberlain.wd1.myworkdayjobs.com:chamberlain:chamberlain_group"
+      ],
+      "company": "Chamberlain Group",
+      "key": "7caaadfc2819feb19c4058fe",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.chamberlaingroup.com/"
+    },
+    {
       "company": "State of Utah",
       "error": "public requests require HTTPS and a hostname",
       "key": "7ce2eb7383023e6593997b8e",
@@ -1903,6 +2374,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.sonalysts.com/"
+    },
+    {
+      "boards": [],
+      "company": "JCS Solutions LLC",
+      "key": "7eb70dfb6a221d76977f1fcd",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://jcssolutions.com/"
     },
     {
       "boards": [
@@ -2004,6 +2483,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 1,
       "url": "https://www.granulespharma.com/"
+    },
+    {
+      "company": "Covius",
+      "error": "public request failed for https://covius.com/: <urlopen error timed out>",
+      "key": "857e49da13991838a1e678f3",
+      "last_scanned": "2026-08-15",
+      "url": "https://covius.com/"
     },
     {
       "boards": [],
@@ -2144,6 +2630,20 @@
       "url": "https://intercotradingco.com/"
     },
     {
+      "company": "UVA Health",
+      "error": "Invalid IPv6 URL",
+      "key": "8e310fc0a5a9f3d5a9d6e08a",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.uvahealth.com/"
+    },
+    {
+      "company": "PTC",
+      "error": "public request failed for https://ptc.co/VLED30oHtEh: <urlopen error timed out>",
+      "key": "8ea886d0e3d1d3911d14e0f3",
+      "last_scanned": "2026-08-15",
+      "url": "https://ptc.co/VLED30oHtEh"
+    },
+    {
       "boards": [],
       "company": "NextGen Coding Company",
       "key": "8f6c0078ff2e9876acbf9a5b",
@@ -2176,6 +2676,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.appian.com/"
+    },
+    {
+      "boards": [],
+      "company": "Watchfire",
+      "key": "90d11a47f51c754532d40996",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.watchfiresigns.com/"
     },
     {
       "boards": [],
@@ -2215,6 +2723,22 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.tiktok.com/"
+    },
+    {
+      "boards": [],
+      "company": "Kiewit",
+      "key": "93b9a086877727ab9bc98d79",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.kiewit.com/"
+    },
+    {
+      "boards": [],
+      "company": "Analysis Group",
+      "key": "93dbc6d698e949295dcabd29",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.analysisgroup.com/"
     },
     {
       "boards": [],
@@ -2285,6 +2809,13 @@
       "url": "https://www.honda.com/"
     },
     {
+      "company": "Blue Origin",
+      "error": "public request failed for https://www.blueorigin.com/: HTTP Error 429: Too Many Requests",
+      "key": "98cd49c074ca5d759be4f500",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.blueorigin.com/"
+    },
+    {
       "boards": [
         "workday:iheartmedia.wd5.myworkdayjobs.com:iheartmedia:external_ihm"
       ],
@@ -2296,11 +2827,26 @@
     },
     {
       "boards": [],
+      "company": "MOXTEK",
+      "key": "9aac65bf8915e489ddaf74be",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://moxtek.com/"
+    },
+    {
+      "boards": [],
       "company": "Camping World",
       "key": "9ac54d2583ead48b336ef277",
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://investor.campingworld.com/"
+    },
+    {
+      "company": "Ciena",
+      "error": "public request failed for https://www.ciena.com/: HTTP Error 403: Forbidden",
+      "key": "9b6fd47fc36cc7b41207ace7",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.ciena.com/"
     },
     {
       "boards": [],
@@ -2381,6 +2927,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.enova.com/"
+    },
+    {
+      "boards": [],
+      "company": "CA Department of Corrections & Rehabilitation",
+      "key": "9fea418d019cb41f29f8a08f",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.cdcr.ca.gov/"
     },
     {
       "company": "RTX",
@@ -2478,6 +3032,14 @@
     },
     {
       "boards": [],
+      "company": "Liebherr Group",
+      "key": "a52de24fa1fc8eda785fde26",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.liebherr.com/"
+    },
+    {
+      "boards": [],
       "company": "MRO",
       "key": "a56845a86e111ac10a48b561",
       "last_scanned": "2026-08-15",
@@ -2550,6 +3112,14 @@
       "key": "a8106192bed87328c0610b3f",
       "last_scanned": "2026-08-15",
       "url": "https://www.t-mobile.com/"
+    },
+    {
+      "boards": [],
+      "company": "FanDuel",
+      "key": "a9ab9401b7de39bd3fa639ca",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.fanduel.com/"
     },
     {
       "boards": [
@@ -2730,6 +3300,16 @@
       "url": "https://www.langan.com/"
     },
     {
+      "boards": [
+        "ashby:sela%20ai"
+      ],
+      "company": "Sela",
+      "key": "b34e8f582b02e9d6c37c7131",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.trysela.com/"
+    },
+    {
       "boards": [],
       "company": "EDS Strategy",
       "key": "b38772e76a2833669c4e734a",
@@ -2752,6 +3332,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.newyorklife.com/"
+    },
+    {
+      "boards": [],
+      "company": "California Department of State Hospitals",
+      "key": "b5254b9a7090646506e734f1",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.dsh.ca.gov/"
     },
     {
       "boards": [],
@@ -2966,12 +3554,37 @@
       "url": "https://case.edu/"
     },
     {
+      "boards": [
+        "bamboohr:investortools"
+      ],
+      "company": "Investortools",
+      "key": "c03cd9b76d383d85f55ecc83",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.investortools.com/"
+    },
+    {
       "boards": [],
       "company": "NAVER U.Hub",
       "key": "c0fa7a69252bdc8883a2450b",
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.linkedin.com/company/79479513"
+    },
+    {
+      "boards": [],
+      "company": "Aegon Asset Management",
+      "key": "c1056c58014a937ecafe228d",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.aegonam.com/"
+    },
+    {
+      "company": "BNY",
+      "error": "public requests require HTTPS and a hostname",
+      "key": "c14ecfa883d97c446ce76f02",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.bny.com/"
     },
     {
       "boards": [],
@@ -2988,6 +3601,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.americansystems.com/"
+    },
+    {
+      "boards": [],
+      "company": "AmTrust Financial Services, Inc.",
+      "key": "c1e80c435287671128149d72",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://amtrustgroup.com/warranty-special-risk/extended-warranty-administration"
     },
     {
       "boards": [],
@@ -3056,6 +3677,14 @@
     },
     {
       "boards": [],
+      "company": "DRW",
+      "key": "c3f3680d60cfa09022bc2a76",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 1,
+      "url": "https://drw.com/"
+    },
+    {
+      "boards": [],
       "company": "The New York Times",
       "key": "c43c0be3b80c240ffef0f5f5",
       "last_scanned": "2026-08-15",
@@ -3087,6 +3716,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.linkedin.com/company/5001491"
+    },
+    {
+      "boards": [],
+      "company": "OPEN Healthcare",
+      "key": "c67ce5e1d542d59a2d5affde",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://us.ohc.global/"
     },
     {
       "boards": [],
@@ -3214,6 +3851,32 @@
     },
     {
       "boards": [],
+      "company": "Covista",
+      "key": "cd040406e27f14fef5d6e201",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://covista.com/"
+    },
+    {
+      "boards": [],
+      "company": "BlueLabs",
+      "key": "cd1c04676abeaa2843e9ea76",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://bluelabs.com/"
+    },
+    {
+      "boards": [
+        "workable:metro-infectious-disease-consultants"
+      ],
+      "company": "METRO INFECTIOUS DISEASE CONSULTANTS",
+      "key": "cd376093aa514c639798641e",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://midcusa.com/"
+    },
+    {
+      "boards": [],
       "company": "Lynker",
       "key": "cd46b98c1ec1943ef86f022d",
       "last_scanned": "2026-08-15",
@@ -3243,6 +3906,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.mthree.com/"
+    },
+    {
+      "boards": [],
+      "company": "Health Advances",
+      "key": "cf1c4313f04999630ccef081",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.healthadvances.com/"
     },
     {
       "boards": [],
@@ -3335,6 +4006,16 @@
     },
     {
       "boards": [
+        "greenhouse:glossgenius"
+      ],
+      "company": "Genius AI",
+      "key": "d45977d77f5ff46d8d2db83e",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://genius.ai/"
+    },
+    {
+      "boards": [
         "oracle:ecyq.fa.em2.oraclecloud.com:cx_1"
       ],
       "company": "DNV",
@@ -3365,6 +4046,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.northropgrumman.com/"
+    },
+    {
+      "boards": [],
+      "company": "Sprocket Sports",
+      "key": "d77e8c351f84661e94452b3d",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 1,
+      "url": "https://sprocketsports.com/"
     },
     {
       "boards": [
@@ -3450,6 +4139,16 @@
     },
     {
       "boards": [
+        "workday:godirect.wd5.myworkdayjobs.com:godirect:voya_jobs"
+      ],
+      "company": "Voya Investment Management",
+      "key": "dc5bbc2475fa2337bfced804",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://investments.voya.com/"
+    },
+    {
+      "boards": [
         "oracle:jpmc.fa.oraclecloud.com:cx_1001"
       ],
       "company": "Chase",
@@ -3457,6 +4156,33 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.chase.com/"
+    },
+    {
+      "boards": [],
+      "company": "R.O.B.O.",
+      "key": "dcc212735c4b84bf9f540b99",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.robovative.com/"
+    },
+    {
+      "boards": [
+        "workday:jcrew.wd1.myworkdayjobs.com:jcrew:jcrewcareers",
+        "workday:jcrew.wd1.myworkdayjobs.com:jcrew:madewellcareers"
+      ],
+      "company": "J.Crew Factory",
+      "key": "dd226d28df9ea2c612d0bb3b",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.jcrewfactory.com/"
+    },
+    {
+      "boards": [],
+      "company": "The Thoracic Surgery Foundation",
+      "key": "de1c6ab0a6f2f16371fce9e0",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://thoracicsurgeryfoundation.org/"
     },
     {
       "company": "New York University",
@@ -3491,6 +4217,14 @@
     },
     {
       "boards": [],
+      "company": "Bering Straits Native Corporation (BSNC)",
+      "key": "df7f55a6c19eeb3c68965aa4",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://beringstraits.com/"
+    },
+    {
+      "boards": [],
       "company": "Tyler Technologies",
       "key": "dfef6dacf8f9a2430506eb86",
       "last_scanned": "2026-08-15",
@@ -3504,6 +4238,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://mipscenter.com/"
+    },
+    {
+      "company": "Parker Hannifin",
+      "error": "public request failed for https://www.parker.com/: HTTP Error 403: Forbidden",
+      "key": "e119a7f6379a58ca0c779bf4",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.parker.com/"
     },
     {
       "boards": [
@@ -3524,6 +4265,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.machindustries.com/"
+    },
+    {
+      "boards": [],
+      "company": "PC Professional",
+      "key": "e2212c75b9a33e8929ddd1e5",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.pcprofessional.com/"
     },
     {
       "boards": [],
@@ -3736,6 +4485,17 @@
     },
     {
       "boards": [
+        "greenhouse:soldejaneiro",
+        "greenhouse:soldejaneirointernship"
+      ],
+      "company": "Sol de Janeiro",
+      "key": "ed62e4d60c8c282e1c346a8d",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://soldejaneiro.com/"
+    },
+    {
+      "boards": [
         "workday:firstam.wd1.myworkdayjobs.com:firstam:firstamericancareers"
       ],
       "company": "First American",
@@ -3827,6 +4587,22 @@
     },
     {
       "boards": [],
+      "company": "CACI International Inc",
+      "key": "f2b8bf40801b8b9c26eb45b6",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.caci.com/"
+    },
+    {
+      "boards": [],
+      "company": "Mission Technologies, a division of HII",
+      "key": "f2c8094ee598e98ded7c571e",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://tsd.huntingtoningalls.com/"
+    },
+    {
+      "boards": [],
       "company": "Janicki",
       "key": "f2cf71573250c9c1aa8eada0",
       "last_scanned": "2026-08-15",
@@ -3842,11 +4618,27 @@
       "url": "https://www.ebiconsulting.com/"
     },
     {
+      "boards": [],
+      "company": "Sleep Doctor",
+      "key": "f4632fe5fddb540a398607df",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://sleepdoctor.com/"
+    },
+    {
       "company": "Ericsson",
       "error": "public request failed for https://www.ericsson.com/en: HTTP Error 403: Forbidden",
       "key": "f53ce3ad208b14b94c9e584f",
       "last_scanned": "2026-08-15",
       "url": "https://www.ericsson.com/"
+    },
+    {
+      "boards": [],
+      "company": "Space Kinetic Corp.",
+      "key": "f58910a558fc33643244682b",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://spacekinetic.com/"
     },
     {
       "company": "Rubrik",
@@ -3862,6 +4654,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 3,
       "url": "https://www.achieve.com/"
+    },
+    {
+      "boards": [
+        "lever:webfx"
+      ],
+      "company": "WebFX",
+      "key": "f8edcf04de50fff39865032e",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.webfx.com/"
     },
     {
       "boards": [],
