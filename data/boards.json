@@ -3605,6 +3605,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Photon",
+      "host": "fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com:cx_2",
+      "site": "CX_2",
+      "slug": "fa-ertb-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
       "company": "First Solar",
       "host": "fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com",
       "key": "oracle:fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
