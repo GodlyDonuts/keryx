@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,879 internships · 3,768 new-grad roles · 5,647 total openings**
+**1,836 internships · 3,774 new-grad roles · 5,610 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 623 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 469 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 70 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 21 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 696 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 619 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 463 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 65 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 19 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 670 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 720 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,090 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,958 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 732 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,099 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,943 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Just posted: internships
@@ -41,7 +41,6 @@ The newest internship and co-op listings across every recruiting term.
 | Aalo Atomics | Spring 2027 Mechanical Engineering Internship/Co-op - Austin, TX | Austin, TX, United States | Spring 2027 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a7f33b3927c79391ad06f77?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
 | Anduril Industries | 2027 Software Engineer Intern | Atlanta, Georgia, United States | Not listed | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a52dc25e726ec56126a4c9b?utm_campaign=1079&utm_source=git)**<br><sub>Jobright</sub> |
 | Astranis Space Technologies | Avionics Engineer Intern (Fall 2026) | San Francisco, CA, United States | Fall 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a41b6f1d528ac2915f978f2?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
-| Atlas Roofing Corporation | Co-Op Engineering - Fall 2026 | 675 Oxford Road, Franklin, OH,45005 | Fall 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a5da8c1c8e3a473cb8b5262?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
 | Balfour Beatty US | Project Engineer Internship - Summer 2027 | Dallas, TX, United States | Summer 2027 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a6397370c8e2b4f36dcec13?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
 | Bank of America | Quantitative Data Analytics Summer Analyst Program - 2027 | Atlanta, GA, United States | Summer 2027 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a8055ff19ce4e6e9d93dfae?utm_campaign=1066&utm_source=git)**<br><sub>Jobright</sub> |
 | Berkeley Industrial Engineering & Operations Research | Data Engineering Internship (Summer 2027) at Castleton Commodities International LLC | Indiana, United States | Summer 2027 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a8046a7927c79391ad0fd8b?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
@@ -49,6 +48,7 @@ The newest internship and co-op listings across every recruiting term.
 | ByteDance | AI Vision Research Scientist Intern - Global Frontier Tech Recruitment Program - 2027 Start (PHD) | San Jose, CA, United States | Not listed | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a8042c1ad9ff00c26bb1ff5?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
 | ByteDance | ASIC Design Engineer Intern (Video Silicon IP) - 2027 Summer | San Jose, CA, United States | Summer 2027 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a8042bfe2030208f2773d4f?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
 | ByteDance | Data Lake Infrastructure & Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer | San Jose, CA, United States | Summer 2027 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a8042b1e51a1e18a241864e?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
+| ByteDance | Developer Advocacy Project Intern (PICO) - 2026 Start | San Jose, CA, United States | Not listed | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a8042cdb56bea5779c11f9a?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Just posted: new-graduate roles
@@ -67,7 +67,7 @@ The newest full-time opportunities for students and recent graduates.
 | Applied Intuition | Software Integration Engineer New Grad | Sunnyvale, CA | 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Boom Supersonic | Software Engineer, Embedded | Centennial, CO | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/69db7853b67cec4f9b0af15f?utm_campaign=Software%20Engineering&utm_source=1103)**<br><sub>Jobright</sub> |
 | Boom Supersonic | Software Engineer, Embedded | Centennial, CO, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a5896d172fe7a7b98dcf734?utm_campaign=Software%20Engineering&utm_source=1103)**<br><sub>Jobright</sub> |
-| Booz Allen Hamilton | Data Scientist | Fort Meade, MD, US | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a195cc417492d3a389bdb25?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
+| Booz Allen Hamilton | Data Scientist | Fort Meade, MD, US | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a2376936624e500cad0bbfc?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
 | Booz Allen Hamilton | Data Scientist | Fort Meade, MD, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a66a3828d5360344960a027?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
 | Booz Allen Hamilton | Power Platform Developer, Mid | Arlington, VA, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a63c57c87cef057612ca811?utm_campaign=Software%20Engineering&utm_source=1103)**<br><sub>Jobright</sub> |
 <!-- LATEST-NEW-GRAD:END -->
