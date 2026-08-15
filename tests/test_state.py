@@ -206,6 +206,79 @@ class StateTests(unittest.TestCase):
         self.assertEqual(state["jobs"][0]["url"], direct.url)
         self.assertEqual(state["jobs"][0]["first_seen"], "2026-08-01")
 
+    def test_current_jobright_role_reuses_previous_direct_link_between_board_polls(self) -> None:
+        direct = role("ats:greenhouse:example", "https://jobs.example.com/123")
+        state = merge_state(
+            {"jobs": []},
+            [direct],
+            complete_sources={direct.source_id},
+            today="2026-08-01",
+        )
+        jobright = role(
+            "jobright-swe-internships",
+            "https://jobright.ai/jobs/info/abc123",
+            location="Austin, TX, United States",
+        )
+
+        state = merge_state(
+            state,
+            [jobright],
+            complete_sources={jobright.source_id},
+            today="2026-08-02",
+        )
+
+        self.assertEqual(len(state["jobs"]), 1)
+        self.assertEqual(state["jobs"][0]["url"], direct.url)
+        self.assertEqual(len(state["jobs"][0]["sources"]), 2)
+
+    def test_reused_direct_link_removes_previous_jobright_duplicate(self) -> None:
+        direct = role("ats:greenhouse:example", "https://jobs.example.com/123")
+        direct_state = merge_state(
+            {"jobs": []},
+            [direct],
+            complete_sources={direct.source_id},
+            today="2026-08-01",
+        )
+        jobright = role(
+            "jobright-swe-internships",
+            "https://jobright.ai/jobs/info/abc123",
+            location="Austin, TX, United States",
+        )
+        fallback_state = merge_state(
+            {"jobs": []},
+            [jobright],
+            complete_sources={jobright.source_id},
+            today="2026-08-01",
+        )
+        previous = {"jobs": [*direct_state["jobs"], *fallback_state["jobs"]]}
+
+        state = merge_state(
+            previous,
+            [jobright],
+            complete_sources={jobright.source_id},
+            today="2026-08-02",
+        )
+
+        self.assertEqual(len(state["jobs"]), 1)
+        self.assertEqual(state["jobs"][0]["url"], direct.url)
+
+    def test_career_site_resolution_wins_over_jobright_fallback(self) -> None:
+        direct = role("career-site:example", "https://example.com/careers/jobs/123")
+        jobright = role(
+            "jobright-swe-internships",
+            "https://jobright.ai/jobs/info/abc123",
+        )
+
+        state = merge_state(
+            {"jobs": []},
+            [jobright, direct],
+            complete_sources={jobright.source_id, direct.source_id},
+            today="2026-08-01",
+        )
+
+        self.assertEqual(len(state["jobs"]), 1)
+        self.assertEqual(state["jobs"][0]["url"], direct.url)
+
     def test_jobright_feeds_deduplicate_matching_roles(self) -> None:
         first = role(
             "jobright-swe-internships",

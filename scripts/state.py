@@ -184,42 +184,117 @@ def _protect_link(job: dict[str, Any], sources: list[dict[str, str]], raw_url: s
     job["url"] = decision.url or None
 
 
-def _current_jobs(observations: list[Observation], today: str) -> dict[str, dict[str, Any]]:
+def _previous_direct_observation(job: dict[str, Any]) -> Observation | None:
+    raw_url = job.get("url")
+    decision = reported_job_url(raw_url if isinstance(raw_url, str) else "")
+    program = job.get("program")
+    if (
+        job.get("status") != "open"
+        or not decision.url
+        or decision.host == "jobright.ai"
+        or program not in {"internship", "new-grad"}
+    ):
+        return None
+    source = next(
+        (
+            item
+            for item in job.get("sources", [])
+            if isinstance(item, dict) and not str(item.get("id") or "").startswith("jobright-")
+        ),
+        None,
+    )
+    if source is None:
+        return None
+    cycle = job.get("cycle")
+    return Observation(
+        source_id=str(source.get("id") or "previous-direct"),
+        source_label=str(source.get("label") or "Previously resolved employer link"),
+        source_url=str(source.get("url") or decision.url),
+        external_id=str(job.get("id") or decision.url),
+        company=str(job.get("company") or ""),
+        title=str(job.get("title") or ""),
+        location=str(job.get("location") or "United States"),
+        url=decision.url,
+        program=program,
+        cycle=str(cycle) if cycle else None,
+        posted_at=str(job.get("posted_at")) if job.get("posted_at") else None,
+        sponsorship=str(job.get("sponsorship")) if job.get("sponsorship") else None,
+        trusted_us=True,
+        metadata={"carried_direct_link": True},
+    )
+
+
+def _index_direct_observations(
+    observations: list[Observation],
+) -> tuple[
+    dict[tuple[str, str, str], Observation],
+    dict[tuple[str, str, str], dict[str, Observation]],
+    dict[tuple[str, str], dict[str, Observation]],
+]:
+    by_content: dict[tuple[str, str, str], Observation] = {}
+    by_title: dict[tuple[str, str, str], dict[str, Observation]] = defaultdict(dict)
+    by_role: dict[tuple[str, str], dict[str, Observation]] = defaultdict(dict)
+    for observation in sorted(observations, key=_priority):
+        by_content.setdefault(_match_key(observation), observation)
+        by_title[_title_match_key(observation)].setdefault(job_id(observation), observation)
+        _, title, program = _title_match_key(observation)
+        by_role[(title, program)].setdefault(job_id(observation), observation)
+    return by_content, by_title, by_role
+
+
+def _find_direct_match(
+    observation: Observation,
+    by_content: dict[tuple[str, str, str], Observation],
+    by_title: dict[tuple[str, str, str], dict[str, Observation]],
+    by_role: dict[tuple[str, str], dict[str, Observation]],
+) -> Observation | None:
+    direct = by_content.get(_match_key(observation))
+    if direct is not None:
+        return direct
+    title_matches = list(by_title.get(_title_match_key(observation), {}).values())
+    if len(title_matches) == 1:
+        return title_matches[0]
+    company, title, program = _title_match_key(observation)
+    alias_matches = {
+        job_id(candidate): candidate
+        for candidate in by_role.get((title, program), {}).values()
+        if _company_alias_match(company, company_key(candidate.company))
+    }
+    return next(iter(alias_matches.values())) if len(alias_matches) == 1 else None
+
+
+def _current_jobs(
+    observations: list[Observation],
+    today: str,
+    previous_jobs: list[dict[str, Any]],
+) -> dict[str, dict[str, Any]]:
     eligible_observations = [observation for observation in observations if eligible(observation)]
-    direct_by_content: dict[tuple[str, str, str], Observation] = {}
-    direct_by_title: dict[tuple[str, str, str], dict[str, Observation]] = defaultdict(dict)
-    direct_by_role: dict[tuple[str, str], dict[str, Observation]] = defaultdict(dict)
-    for observation in sorted(eligible_observations, key=_priority):
-        if not observation.source_id.startswith("jobright-"):
-            direct_by_content.setdefault(_match_key(observation), observation)
-            direct_by_title[_title_match_key(observation)].setdefault(
-                job_id(observation), observation
-            )
-            _, title, program = _title_match_key(observation)
-            direct_by_role[(title, program)].setdefault(job_id(observation), observation)
+    current_direct = [
+        observation
+        for observation in eligible_observations
+        if not observation.source_id.startswith("jobright-")
+    ]
+    direct_indexes = _index_direct_observations(current_direct)
+    previous_direct = [
+        observation
+        for job in previous_jobs
+        if (observation := _previous_direct_observation(job)) is not None
+    ]
+    previous_indexes = _index_direct_observations(previous_direct)
 
     grouped: dict[str, list[Observation]] = defaultdict(list)
+    carried_identifiers: set[str] = set()
     for observation in eligible_observations:
         identifier = job_id(observation)
         if observation.source_id.startswith("jobright-"):
-            direct = direct_by_content.get(_match_key(observation))
+            direct = _find_direct_match(observation, *direct_indexes)
             if direct is None:
-                title_matches = list(
-                    direct_by_title.get(_title_match_key(observation), {}).values()
-                )
-                if len(title_matches) == 1:
-                    direct = title_matches[0]
-            if direct is None:
-                company, title, program = _title_match_key(observation)
-                alias_matches = {
-                    job_id(candidate): candidate
-                    for candidate in direct_by_role.get((title, program), {}).values()
-                    if _company_alias_match(company, company_key(candidate.company))
-                }
-                if len(alias_matches) == 1:
-                    direct = next(iter(alias_matches.values()))
+                direct = _find_direct_match(observation, *previous_indexes)
             if direct is not None:
                 identifier = job_id(direct)
+                if direct in previous_direct and identifier not in carried_identifiers:
+                    grouped[identifier].append(direct)
+                    carried_identifiers.add(identifier)
             else:
                 identity = "\x1f".join(_content_key(observation))
                 identifier = f"job_{hashlib.sha256(identity.encode()).hexdigest()[:24]}"
@@ -227,7 +302,10 @@ def _current_jobs(observations: list[Observation], today: str) -> dict[str, dict
 
     jobs: dict[str, dict[str, Any]] = {}
     for identifier, group in grouped.items():
-        ordered = sorted(group, key=_priority)
+        ordered = sorted(
+            group,
+            key=lambda item: (item.source_id.startswith("jobright-"), _priority(item)),
+        )
         preferred = ordered[0]
         locations = [item.location for item in ordered if item.location]
         posted_dates = sorted(item.posted_at for item in ordered if item.posted_at)
@@ -285,6 +363,51 @@ def _material(job: dict[str, Any]) -> tuple[Any, ...]:
     )
 
 
+def _resolved_jobright_aliases(
+    job: dict[str, Any],
+    previous_jobs: dict[str, dict[str, Any]],
+    *,
+    current_identifier: str,
+) -> list[tuple[str, dict[str, Any]]]:
+    sources = [source for source in job.get("sources", []) if isinstance(source, dict)]
+    if job.get("url_host") == "jobright.ai" or not any(
+        str(source.get("id") or "").startswith("jobright-") for source in sources
+    ):
+        return []
+    company, title, location = _match_key_values(
+        job.get("company"), job.get("title"), job.get("location")
+    )
+    candidates: list[tuple[str, dict[str, Any]]] = []
+    for identifier, previous in previous_jobs.items():
+        if identifier == current_identifier or previous.get("url_host") != "jobright.ai":
+            continue
+        previous_company, previous_title, _ = _match_key_values(
+            previous.get("company"), previous.get("title"), previous.get("location")
+        )
+        if (
+            previous.get("program") == job.get("program")
+            and previous_title == title
+            and _company_alias_match(company, previous_company)
+        ):
+            candidates.append((identifier, previous))
+    by_content: dict[tuple[str, str, str], list[tuple[str, dict[str, Any]]]] = defaultdict(list)
+    for candidate in candidates:
+        previous = candidate[1]
+        by_content[
+            _match_key_values(
+                previous.get("company"), previous.get("title"), previous.get("location")
+            )
+        ].append(candidate)
+    exact = [
+        values
+        for key, values in by_content.items()
+        if _company_alias_match(company, key[0]) and key[1:] == (title, location)
+    ]
+    if exact:
+        return [candidate for values in exact for candidate in values]
+    return next(iter(by_content.values())) if len(by_content) == 1 else []
+
+
 def merge_state(
     previous_payload: dict[str, Any],
     observations: list[Observation],
@@ -298,33 +421,30 @@ def merge_state(
         for job in previous_payload.get("jobs", [])
         if isinstance(job, dict) and job.get("id")
     }
-    previous_jobright_by_content: dict[tuple[str, str, str], tuple[str, dict[str, Any]]] = {}
-    for identifier, job in previous_jobs.items():
-        if any(
-            isinstance(source, dict) and str(source.get("id", "")).startswith("jobright-")
-            for source in job.get("sources", [])
-        ):
-            key = _match_key_values(job.get("company"), job.get("title"), job.get("location"))
-            previous_jobright_by_content.setdefault(key, (identifier, job))
-    current = _current_jobs(observations, today)
+    current = _current_jobs(observations, today, list(previous_jobs.values()))
     merged: dict[str, dict[str, Any]] = {}
     migrated_previous_ids: set[str] = set()
 
     for identifier, job in current.items():
         previous = previous_jobs.get(identifier)
-        if previous is None:
-            alias = previous_jobright_by_content.get(
-                _match_key_values(job.get("company"), job.get("title"), job.get("location"))
+        aliases = _resolved_jobright_aliases(
+            job,
+            previous_jobs,
+            current_identifier=identifier,
+        )
+        migrated_previous_ids.update(alias_identifier for alias_identifier, _ in aliases)
+        if previous is None and aliases:
+            previous = min(
+                (alias for _, alias in aliases),
+                key=lambda alias: str(alias.get("first_seen") or today),
             )
-            if alias is not None:
-                previous_identifier, previous = alias
-                migrated_previous_ids.add(previous_identifier)
         if previous is None:
             merged[identifier] = job
             continue
         known_sources = {
             source["id"]: source
-            for source in previous.get("sources", [])
+            for previous_job in [previous, *(alias for _, alias in aliases)]
+            for source in previous_job.get("sources", [])
             if isinstance(source, dict) and source.get("id")
         }
         for source in job["sources"]:
@@ -341,7 +461,10 @@ def merge_state(
             # Direct boards are intentionally polled in rotating slots. Do not erase previously
             # verified requirements merely because this run saw only metadata-only sources.
             job["academic_eligibility"] = deepcopy(previous["academic_eligibility"])
-        job["first_seen"] = previous.get("first_seen") or today
+        job["first_seen"] = min(
+            str(previous_job.get("first_seen") or today)
+            for previous_job in [previous, *(alias for _, alias in aliases)]
+        )
         job["last_changed"] = (
             today
             if _material(job) != _material(previous)
