@@ -188,6 +188,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Careerswift",
+      "key": "ashby:careerswift.ai",
+      "slug": "careerswift.ai"
+    },
+    {
+      "ats": "ashby",
       "company": "Castle",
       "key": "ashby:castle",
       "slug": "castle"
@@ -521,6 +527,12 @@
       "company": "Human Computer Lab",
       "key": "ashby:human-computer-lab",
       "slug": "human-computer-lab"
+    },
+    {
+      "ats": "ashby",
+      "company": "Hypercubic",
+      "key": "ashby:hypercubic",
+      "slug": "hypercubic"
     },
     {
       "ats": "ashby",
@@ -3095,7 +3107,7 @@
     },
     {
       "ats": "workday",
-      "company": "AAA Club Alliance",
+      "company": "Automobile Club of Southern California",
       "host": "ace.wd5.myworkdayjobs.com",
       "key": "workday:ace.wd5.myworkdayjobs.com:ace:careers",
       "site": "careers",
@@ -4211,10 +4223,10 @@
     },
     {
       "ats": "workday",
-      "company": "Comcast",
+      "company": "Xfinity",
       "host": "comcast.wd5.myworkdayjobs.com",
       "key": "workday:comcast.wd5.myworkdayjobs.com:comcast:comcast_careers",
-      "site": "Comcast_Careers",
+      "site": "comcast_careers",
       "slug": "comcast",
       "wd": "wd5"
     },
@@ -4719,6 +4731,15 @@
       "host": "expedia.wd108.myworkdayjobs.com",
       "key": "workday:expedia.wd108.myworkdayjobs.com:expedia:private",
       "site": "private",
+      "slug": "expedia",
+      "wd": "wd108"
+    },
+    {
+      "ats": "workday",
+      "company": "Expedia Group",
+      "host": "expedia.wd108.myworkdayjobs.com",
+      "key": "workday:expedia.wd108.myworkdayjobs.com:expedia:search",
+      "site": "search",
       "slug": "expedia",
       "wd": "wd108"
     },
@@ -6146,6 +6167,15 @@
     },
     {
       "ats": "workday",
+      "company": "MRI Software",
+      "host": "mrisoftware.wd501.myworkdayjobs.com",
+      "key": "workday:mrisoftware.wd501.myworkdayjobs.com:mrisoftware:external_careersite",
+      "site": "external_careersite",
+      "slug": "mrisoftware",
+      "wd": "wd501"
+    },
+    {
+      "ats": "workday",
       "company": "Morgan Stanley",
       "host": "ms.wd5.myworkdayjobs.com",
       "key": "workday:ms.wd5.myworkdayjobs.com:ms:external",
@@ -6821,6 +6851,15 @@
     },
     {
       "ats": "workday",
+      "company": "Q2",
+      "host": "q2ebanking.wd5.myworkdayjobs.com",
+      "key": "workday:q2ebanking.wd5.myworkdayjobs.com:q2ebanking:q2",
+      "site": "Q2",
+      "slug": "q2ebanking",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "QTS",
       "host": "qtsdatacenters.wd5.myworkdayjobs.com",
       "key": "workday:qtsdatacenters.wd5.myworkdayjobs.com:qtsdatacenters:qts",
@@ -7097,6 +7136,15 @@
       "site": "external_rockwell_automation",
       "slug": "rockwellautomation",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Rolls-Royce",
+      "host": "rollsroyce.wd3.myworkdayjobs.com",
+      "key": "workday:rollsroyce.wd3.myworkdayjobs.com:rollsroyce:professional",
+      "site": "professional",
+      "slug": "rollsroyce",
+      "wd": "wd3"
     },
     {
       "ats": "workday",
@@ -7394,6 +7442,24 @@
       "site": "External",
       "slug": "strongtie",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Sun Life",
+      "host": "sunlife.wd3.myworkdayjobs.com",
+      "key": "workday:sunlife.wd3.myworkdayjobs.com:sunlife:experienced",
+      "site": "experienced",
+      "slug": "sunlife",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Sun Life",
+      "host": "sunlife.wd3.myworkdayjobs.com",
+      "key": "workday:sunlife.wd3.myworkdayjobs.com:sunlife:experienced-jobs",
+      "site": "experienced-jobs",
+      "slug": "sunlife",
+      "wd": "wd3"
     },
     {
       "ats": "workday",

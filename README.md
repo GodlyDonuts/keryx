@@ -9,15 +9,15 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,842 internships · 3,767 new-grad roles · 5,609 total openings**
+**1,840 internships · 3,802 new-grad roles · 5,642 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 618 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 465 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 69 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 616 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 466 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 68 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 21 | **[View openings →](internships/winter-2027.md)** |
 | 📅 Season not listed | 669 | **[View openings →](internships/unscheduled.md)** |
 
@@ -25,9 +25,9 @@
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 710 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,088 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,969 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 761 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,094 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,947 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Just posted: internships
@@ -39,7 +39,6 @@ The newest internship and co-op listings across every recruiting term.
 |---|---|---|---|---|---:|---|
 | 1KOMMA5° | Internship Product Portfolio Management (m/f/d) | United States | Not listed | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a8026a6e51a1e18a2417fa9?utm_campaign=1047&utm_source=git)**<br><sub>Jobright</sub> |
 | Atlas Roofing Corporation | Co-Op Engineering - Fall 2026 | 675 Oxford Road, Franklin, OH,45005 | Fall 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a5da8c1c8e3a473cb8b5262?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
-| ByteDance | Self-Built Engineer Intern (CDN Platform) - 2027 Summer | Seattle, WA, United States | Summer 2027 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a80264be2030208f27736d4?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
 | ByteDance | Software Engineer Intern - Global Payment Infra and SRE | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7668315137242351925/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Software Engineer Intern - Global Traffic Architecture | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7672557061679483189/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Software Engineer Intern - Traffic Infrastructure | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7672626707586746629/detail)**<br><sub>jobs.bytedance.com</sub> |
@@ -49,6 +48,7 @@ The newest internship and co-op listings across every recruiting term.
 | Epia Neuro | Hardware Engineer Intern | Alameda, CA | Fall 2026 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Flip | Data Analyst Intern | Idaho, United States | Not listed | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a8019ac19ce4e6e9d93d0a9?utm_campaign=1066&utm_source=git)**<br><sub>Jobright</sub> |
 | Generac | Intern- Electrical Engineering | Reno, NV - USA | Not listed | not available | 2026-08-15 | **[Apply →](https://generac.wd5.myworkdayjobs.com/external/job/Reno-NV---USA/Intern--Electrical-Engineering_JR16148)**<br><sub>generac.wd5.myworkdayjobs.com</sub> |
+| GHD | Indigenous Engineer Intern/co-op | 120 Western Parkway, Bedford, Nova Scotia, B4B 0V2, CA | Not listed | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a5b52b9686b4755d1e1930f?utm_campaign=1048&utm_source=git)**<br><sub>Jobright</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Just posted: new-graduate roles
@@ -59,13 +59,13 @@ The newest full-time opportunities for students and recent graduates.
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Altamira Technologies | Intelligence Analyst - TS/SCI CI Poly | Aurora, CO | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.jobvite.com/altamiracorps/job/o2tEAfwt?nl=1&nl=1&fr=false)**<br><sub>jobs.jobvite.com</sub> |
-| Applied Intuition | Embedded Software Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Applied Intuition | Embedded Software Engineer New Grad | Sunnyvale, CA | 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Research Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Scenario Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Software Engineer New Grad - December 2026 | Ann Arbor, MI, Sunnyvale, CA | 2026 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Applied Intuition | Software Integration Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Applied Intuition | Software Integration Engineer New Grad | Sunnyvale, CA | 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Booz Allen Hamilton | Data Scientist | Fort Meade, MD, US | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a195cc417492d3a389bdb25?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
-| Booz Allen Hamilton | Data Scientist | Fort Meade, MD, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a66b1920c8e2b4f36dd5a8b?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
+| Booz Allen Hamilton | Data Scientist | Fort Meade, MD, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a66a3828d5360344960a027?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
 | Booz Allen Hamilton | Power Platform Developer, Mid | Arlington, VA, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a63c57c87cef057612ca811?utm_campaign=Software%20Engineering&utm_source=1103)**<br><sub>Jobright</sub> |
 | Booz Allen Hamilton | Software Engineer | Rome, NY, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a7f56fc19ce4e6e9d937036?utm_campaign=Software%20Engineering&utm_source=1103)**<br><sub>Jobright</sub> |
 | Fanatics | Data Scientist I | Denver, CO, United States | 2026 | not available | 2026-08-15 | **[View job →](https://jobright.ai/jobs/info/6a63b3768d53603449603c4d?utm_campaign=Data%20Analysis&utm_source=1103)**<br><sub>Jobright</sub> |
