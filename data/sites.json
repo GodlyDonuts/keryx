@@ -2974,6 +2974,13 @@
       "url": "https://www.appian.com/"
     },
     {
+      "company": "Nestl\u00e9",
+      "error": "public request failed for https://www.nestle.com/: HTTP Error 403: Forbidden",
+      "key": "90ba5624fbf751baf580cfba",
+      "last_scanned": "2026-08-15",
+      "url": "https://www.nestle.com/"
+    },
+    {
       "boards": [],
       "company": "Watchfire",
       "key": "90d11a47f51c754532d40996",
@@ -4174,6 +4181,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://appliedintuition.com/"
+    },
+    {
+      "boards": [
+        "workday:broadridge.wd5.myworkdayjobs.com:broadridge:careers"
+      ],
+      "company": "Broadridge",
+      "key": "c873506db16a9f74cfa9b3b5",
+      "last_scanned": "2026-08-15",
+      "resolved_roles": 0,
+      "url": "https://www.broadridge.com/"
     },
     {
       "boards": [
