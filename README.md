@@ -9,15 +9,15 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,863 internships · 3,769 new-grad roles · 5,632 total openings**
+**1,863 internships · 3,772 new-grad roles · 5,635 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 628 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 629 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 479 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 84 | **[View openings →](internships/spring-2027.md)** |
+| 🌱 Spring 2027 | 83 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 19 | **[View openings →](internships/winter-2027.md)** |
 | 📅 Season not listed | 653 | **[View openings →](internships/unscheduled.md)** |
 
@@ -25,9 +25,9 @@
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 727 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,045 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,997 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 732 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,052 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,988 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -45,7 +45,7 @@ Recent internship and co-op listings that open the employer's application page d
 | Goldman Sachs | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://higher.gs.com/roles/181628?type=students)**<br><sub>higher.gs.com</sub> |
 | Onto Innovation | Mechanical Systems Engineer Intern | Bloomington-MN | Not listed | not available | 2026-08-15 | **[Apply →](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Bloomington-MN/Mechanical-Systems-Engineer-Intern_R-5723)**<br><sub>onto.wd1.myworkdayjobs.com</sub> |
 | Photon | Software Engineering / AI Intern - US - Remote | United States | Fall 2026 | not stated | 2026-08-15 | **[Apply →](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738)**<br><sub>fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
-| Replit | Software Engineering Intern (Summer 2027) | Foster City, CA | Summer 2027 | Current student status<br><sub>required</sub> | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1)**<br><sub>jobs.ashbyhq.com</sub> |
+| Replit | Software Engineer Intern - Summer 2027 | Foster City, CA | Summer 2027 | Current student status<br><sub>required</sub> | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Samsara | Software Engineering Internship - San Francisco | San Francisco, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091)**<br><sub>www.samsara.com</sub> |
 | AARP | Data Science and Advanced Analytics Intern | Washington, DC | Fall 2026 | not available | 2026-08-14 | **[Apply →](https://careers.aarp.org/jobs/7437?icims=1)**<br><sub>careers.aarp.org</sub> |
 | Abridge | Software Engineer - Intern | San Francisco, CA +1 | Not listed | not available | 2026-08-14 | **[Apply →](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883)**<br><sub>jobs.ashbyhq.com</sub> |
