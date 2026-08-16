@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**2828 closed roles**
+**2825 closed roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -66,9 +66,6 @@
 | Garver | Water Engineering Intern | Birmingham, AL, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a63b33e8d53603449603c21?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
 | GHD | Indigenous Engineer Intern/co-op | 120 Western Parkway, Bedford, Nova Scotia, B4B 0V2, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/69f0cd82ecbc8c2f73201ebb?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
 | Goldman Sachs | Engineering New Analyst | Dallas, TX | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · higher.gs.com](https://higher.gs.com/roles/171568?type=students)<br><sub>source reported</sub> |
-| Goldman Sachs | Engineering New Analyst - Engineering | Salt Lake City, UT | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · higher.gs.com](https://higher.gs.com/roles/171570?type=students)<br><sub>source reported</sub> |
-| Goldman Sachs | Engineering New Analyst - Engineering | Seattle, WA | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · hdpc.fa.us2.oraclecloud.com](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807)<br><sub>recognized recruiting platform</sub> |
-| Goldman Sachs | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · higher.gs.com](https://higher.gs.com/roles/181628?type=students)<br><sub>source reported</sub> |
 | Gotion Inc. | Data Analyst | Manteno, IL, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Jobright · Data Analysis](https://github.com/jobright-ai/2026-Data-Analysis-New-Grad) | [view job · Jobright](https://jobright.ai/jobs/info/6a51b48357513b72e0c664ca?utm_campaign=Data%20Analysis&utm_source=1103)<br><sub>discovery listing</sub> |
 | Gotion Inc. | Data Analyst | Manteno, Illinois | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Jobright · Data Analysis](https://github.com/jobright-ai/2026-Data-Analysis-New-Grad) | [view job · Jobright](https://jobright.ai/jobs/info/6a273dc3ca77fd3096d2648d?utm_campaign=Data%20Analysis&utm_source=1103)<br><sub>discovery listing</sub> |
 | Infineon Technologies | Internship - Embedded Systems Engineer | San Jose, CA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a7fa9e5b56bea5779c0df69?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |

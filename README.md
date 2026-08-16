@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,860 internships · 3,499 new-grad roles · 5,359 total openings**
+**1,861 internships · 3,504 new-grad roles · 5,365 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 630 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 480 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 85 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 18 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 647 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 631 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 479 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 84 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 19 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 648 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 725 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 783 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,991 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 732 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 787 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,985 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -45,10 +45,10 @@ Recent internship and co-op listings that open the employer's application page d
 | ByteDance | Software Engineer Intern - Global Traffic Architecture | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7672557061679483189/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Software Engineer Intern - Traffic Infrastructure | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7672626707586746629/detail)**<br><sub>jobs.bytedance.com</sub> |
 | Epia Neuro | Hardware Engineer Intern | Alameda, CA | Fall 2026 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Goldman Sachs | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://higher.gs.com/roles/181628?type=students)**<br><sub>higher.gs.com</sub> |
 | Onto Innovation | Mechanical Systems Engineer Intern | Bloomington-MN | Not listed | not available | 2026-08-15 | **[Apply →](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Bloomington-MN/Mechanical-Systems-Engineer-Intern_R-5723)**<br><sub>onto.wd1.myworkdayjobs.com</sub> |
-| Photon | Software Engineering Intern - AI | Remote in USA | Fall 2026 | not stated | 2026-08-15 | **[Apply →](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738)**<br><sub>fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
+| Photon | Software Engineering / AI Intern - US - Remote | United States | Fall 2026 | not stated | 2026-08-15 | **[Apply →](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738)**<br><sub>fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 | Replit | Software Engineer Intern - Summer 2027 | Foster City, CA | Summer 2027 | Current student status<br><sub>required</sub> | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Samsara | Software Engineering Internship - San Francisco | San Francisco, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091)**<br><sub>www.samsara.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,6 +58,7 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| CLEAR | Software Engineer - Infrastructure | New York City, NY | 2027 | not available | 2026-08-16 | **[Apply →](https://job-boards.greenhouse.io/clear/jobs/7901600)**<br><sub>job-boards.greenhouse.io</sub> |
 | Altamira Technologies | Intelligence Analyst - TS/SCI CI Poly | Aurora, CO | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.jobvite.com/altamiracorps/job/o2tEAfwt?nl=1&nl=1&fr=false)**<br><sub>jobs.jobvite.com</sub> |
 | Applied Intuition | Embedded Software Engineer New Grad | Sunnyvale, CA | 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Research Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
@@ -67,9 +68,8 @@ Recent full-time opportunities that open the employer's application page directl
 | BJC HealthCare | EHR Application Analyst 1 - Epic Security | St. Louis, MO | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.bjc.org/jobs/114939?icims=1)**<br><sub>jobs.bjc.org</sub> |
 | CHAOS Industries | Field Software Engineer | Los Angeles, CA +1 | 2027 | not available | 2026-08-15 | **[Apply →](https://job-boards.greenhouse.io/chaosindustries/jobs/5162754007)**<br><sub>job-boards.greenhouse.io</sub> |
 | Four Seasons | Retail Attendant - Trading Company | Kailua-Kona, HI | Not listed | not available | 2026-08-15 | **[Apply →](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Hualalai/Trading-Company---Retail-Attendant---Casual_REQ10387442)**<br><sub>fourseasons.wd3.myworkdayjobs.com</sub> |
-| LiteLLM | Forward Deployed Engineer (New Grad) | United States | Not listed | not stated | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3)**<br><sub>jobs.ashbyhq.com</sub> |
-| Notion | Software Engineer - New Grad - Dec 2026 | San Francisco, CA | 2026 | Dec 2026–Feb 2027<br><sub>required / stated</sub> | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816)**<br><sub>jobs.ashbyhq.com</sub> |
-| Revolutional | Associate Full Stack Engineer | McLean, VA | 2027 | not available | 2026-08-15 | **[Apply →](https://revolutional.com/job-openings/?gh_jid=7801406003)**<br><sub>revolutional.com</sub> |
+| Goldman Sachs | Engineering New Analyst - Engineering | Salt Lake City, UT | Not listed | not available | 2026-08-15 | **[Apply →](https://higher.gs.com/roles/171570?type=students)**<br><sub>higher.gs.com</sub> |
+| Goldman Sachs | Engineering New Analyst - Engineering | Seattle, WA | Not listed | not available | 2026-08-15 | **[Apply →](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807)**<br><sub>hdpc.fa.us2.oraclecloud.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
