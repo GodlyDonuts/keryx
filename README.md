@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,881 internships · 3,500 new-grad roles · 5,381 total openings**
+**1,883 internships · 3,505 new-grad roles · 5,388 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 635 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 479 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 83 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 18 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 666 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 637 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 478 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 82 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 19 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 667 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 731 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 786 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,983 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 737 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 789 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,979 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,7 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Boom Supersonic | Engineering and Tech Intern | Centennial, CO | Summer 2027 | not available | 2026-08-16 | **[Apply →](https://ats.rippling.com/boom-supersonic/jobs/4053f749-3d30-4d71-a64c-5fa79e162bbf)**<br><sub>ats.rippling.com</sub> |
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-08-16 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Dry Etch | Boise, ID - Main Site | Not listed | not available | 2026-08-16 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
 | Micron Technology | Intern – Process Development Engineer, 3D DRAM Wet Etch | Boise, ID - Main Site | Not listed | not available | 2026-08-16 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Wet-Etch_JR106729)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
@@ -46,9 +47,8 @@ Recent internship and co-op listings that open the employer's application page d
 | ByteDance | Software Engineer Intern - Global Traffic Architecture | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7672557061679483189/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Software Engineer Intern - Traffic Infrastructure | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7672626707586746629/detail)**<br><sub>jobs.bytedance.com</sub> |
 | Epia Neuro | Hardware Engineer Intern | Alameda, CA | Fall 2026 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Goldman Sachs | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://higher.gs.com/roles/181628?type=students)**<br><sub>higher.gs.com</sub> |
 | Onto Innovation | Mechanical Systems Engineer Intern | Bloomington-MN | Not listed | not available | 2026-08-15 | **[Apply →](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Bloomington-MN/Mechanical-Systems-Engineer-Intern_R-5723)**<br><sub>onto.wd1.myworkdayjobs.com</sub> |
-| Photon | Software Engineering Intern - AI | Remote in USA | Fall 2026 | not stated | 2026-08-15 | **[Apply →](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738)**<br><sub>fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
-| Replit | Software Engineer Intern - Summer 2027 | Foster City, CA | Summer 2027 | Current student status<br><sub>required</sub> | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -59,8 +59,9 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Amazon | Software Development Engineer - Android | Cambridge, MA | 2027 | not available | 2026-08-16 | **[Apply →](https://www.amazon.jobs/jobs/10501178/apply)**<br><sub>www.amazon.jobs</sub> |
+| Boom Supersonic | Software Engineer - Exceptional Talent | Centennial, CO | Not listed | not available | 2026-08-16 | **[Apply →](https://ats.rippling.com/boom-supersonic/jobs/a6ea239b-70a4-4d72-b7d8-3ab1312568dc)**<br><sub>ats.rippling.com</sub> |
 | CLEAR | Software Engineer - Infrastructure | New York City, NY | 2027 | not available | 2026-08-16 | **[Apply →](https://job-boards.greenhouse.io/clear/jobs/7901600)**<br><sub>job-boards.greenhouse.io</sub> |
-| General Dynamics Mission Systems | Software Engineer - Entry Level | Scottsdale, AZ | Not listed | not available | 2026-08-16 | **[Apply →](https://careers-gdms.icims.com/jobs/74274/job?mobile=true&needsRedirect=false)**<br><sub>careers-gdms.icims.com</sub> |
+| General Dynamics Mission Systems | Software Engineer - Entry Level | Scottsdale, AZ | 2026 | not available | 2026-08-16 | **[Apply →](https://careers-gdms.icims.com/jobs/74274/job?mobile=true&needsRedirect=false)**<br><sub>careers-gdms.icims.com</sub> |
 | Roblox | Software Engineer - Account Authentication | San Mateo, CA | 2027 | not available | 2026-08-16 | **[Apply →](https://careers.roblox.com/jobs/8097701?gh_jid=8097701)**<br><sub>careers.roblox.com</sub> |
 | Roblox | Software Engineer - Creator Business | San Mateo, CA | 2027 | not available | 2026-08-16 | **[Apply →](https://careers.roblox.com/jobs/8113334?gh_jid=8113334)**<br><sub>careers.roblox.com</sub> |
 | Roblox | Software Engineer - User Frameworks | San Mateo, CA | 2027 | not available | 2026-08-16 | **[Apply →](https://careers.roblox.com/jobs/8080438?gh_jid=8080438)**<br><sub>careers.roblox.com</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Applied Intuition | Embedded Software Engineer New Grad | Sunnyvale, CA | 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Research Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Scenario Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Applied Intuition | Software Engineer New Grad - December 2026 | Ann Arbor, MI, Sunnyvale, CA | 2026 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

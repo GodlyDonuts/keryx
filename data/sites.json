@@ -110,6 +110,13 @@
       "url": "https://www.cgi.com/"
     },
     {
+      "company": "General Dynamics Mission Systems",
+      "error": "public request failed for https://gdmissionsystems.com/: HTTP Error 403: Forbidden",
+      "key": "046ab9f2f80f0b633ef67ccc",
+      "last_scanned": "2026-08-16",
+      "url": "https://gdmissionsystems.com/"
+    },
+    {
       "boards": [],
       "company": "Capital One",
       "key": "0483abeb10e6a9a014461cec",
@@ -236,6 +243,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://composio.dev/"
+    },
+    {
+      "boards": [],
+      "company": "Mavericks United",
+      "key": "0a0a940688363411b98a1c64",
+      "last_scanned": "2026-08-16",
+      "resolved_roles": 0,
+      "url": "https://maverickslabs.io/"
     },
     {
       "boards": [],
