@@ -312,6 +312,14 @@
       "url": "https://lambda.ai/"
     },
     {
+      "boards": [],
+      "company": "HHAeXchange",
+      "key": "0d3ba5f4e391cd471e370c28",
+      "last_scanned": "2026-08-16",
+      "resolved_roles": 0,
+      "url": "https://hhaexchange.com/"
+    },
+    {
       "company": "Nuance Labs",
       "error": "public request failed for https://www.nuancelabs.net/: <urlopen error [Errno 111] Connection refused>",
       "key": "0e37580b851144b1fea6e215",
@@ -3065,6 +3073,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://berrydunn.com/"
+    },
+    {
+      "company": "Nasdaq",
+      "error": "public request failed for https://www.nasdaq.com/: The read operation timed out",
+      "key": "8c7133e48cd55ddc50f329d7",
+      "last_scanned": "2026-08-16",
+      "url": "https://www.nasdaq.com/"
     },
     {
       "boards": [],
