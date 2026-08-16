@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,892 internships · 3,502 new-grad roles · 5,394 total openings**
+**1,882 internships · 3,502 new-grad roles · 5,384 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
 | ☀️ Summer 2027 | 633 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 480 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 84 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 19 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 676 | **[View openings →](internships/unscheduled.md)** |
+| 🍂 Fall 2026 | 479 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 85 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 18 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 667 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 737 | **[View openings →](new-grad/2027.md)** |
+| 2027 | 731 | **[View openings →](new-grad/2027.md)** |
 | 2026 | 790 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,975 | **[View openings →](new-grad/unscheduled.md)** |
+| Year not listed | 1,981 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -47,7 +47,7 @@ Recent internship and co-op listings that open the employer's application page d
 | ByteDance | Software Engineer Intern - Traffic Infrastructure | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7672626707586746629/detail)**<br><sub>jobs.bytedance.com</sub> |
 | Epia Neuro | Hardware Engineer Intern | Alameda, CA | Fall 2026 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Onto Innovation | Mechanical Systems Engineer Intern | Bloomington-MN | Not listed | not available | 2026-08-15 | **[Apply →](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Bloomington-MN/Mechanical-Systems-Engineer-Intern_R-5723)**<br><sub>onto.wd1.myworkdayjobs.com</sub> |
-| Photon | Software Engineering / AI Intern - US - Remote | United States | Fall 2026 | not stated | 2026-08-15 | **[Apply →](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738)**<br><sub>fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
+| Photon | Software Engineering Intern - AI | Remote in USA | Fall 2026 | not stated | 2026-08-15 | **[Apply →](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738)**<br><sub>fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 | Replit | Software Engineer Intern - Summer 2027 | Foster City, CA | Summer 2027 | Current student status<br><sub>required</sub> | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
