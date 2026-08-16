@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**2847 closed roles**
+**2846 closed roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -269,7 +269,6 @@
 | Bristol Myers Squibb EU Policy | Veeva CRM Admin/Developer – Field Enablement | Princeton, NJ, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-New-Grad) | [view job · Jobright](https://jobright.ai/jobs/info/6a7e16f0b56bea5779c03ae3?utm_campaign=Software%20Engineering&utm_source=1103)<br><sub>discovery listing</sub> |
 | Citadel | Research Assistant | Montréal, QC, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Jobright · Data Analysis](https://github.com/jobright-ai/2026-Data-Analysis-New-Grad) | [view job · Jobright](https://jobright.ai/jobs/info/6a4891aa971cd25b06f9467b?utm_campaign=Data%20Analysis&utm_source=1103)<br><sub>discovery listing</sub> |
 | Citizens Financial Group | AI Software Engineer 1 | United States | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · hcgn.fa.us2.oraclecloud.com](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/48633)<br><sub>recognized recruiting platform</sub> |
-| Cohere | Software Engineer Intern (Fall / Winter 2026) | United States | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a559a6c13cd7d29d5e32d4b?utm_campaign=1079&utm_source=git)<br><sub>discovery listing</sub> |
 | Consumer Direct Care Network | Software Engineer 1 | Missoula, MT | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · cdcn.avature.net](https://cdcn.avature.net/careers/JobDetail/8611)<br><sub>recognized recruiting platform</sub> |
 | Dexcom | SW Development Engineer 1 | San Diego, CA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-New-Grad) | [view job · Jobright](https://jobright.ai/jobs/info/6a7f778719ce4e6e9d93828a?utm_campaign=Software%20Engineering&utm_source=1103)<br><sub>discovery listing</sub> |
 | DNV | Energy Policy Statistical Analyst | North Andover, MA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Jobright · Data Analysis](https://github.com/jobright-ai/2026-Data-Analysis-New-Grad) | [view job · Jobright](https://jobright.ai/jobs/info/6a7e060ead9ff00c26ba9668?utm_campaign=Data%20Analysis&utm_source=1103)<br><sub>discovery listing</sub> |

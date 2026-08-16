@@ -3779,6 +3779,14 @@
       "url": "https://www.morganstanley.com/"
     },
     {
+      "boards": [],
+      "company": "Ultra Clean Technology",
+      "key": "ae45143837b64479acbab332",
+      "last_scanned": "2026-08-16",
+      "resolved_roles": 0,
+      "url": "https://www.uct.com/"
+    },
+    {
       "company": "PTAG",
       "error": "public response exceeded 3145728 bytes",
       "key": "ae47baa925f5cec344643e21",
@@ -5467,6 +5475,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 3,
       "url": "https://www.achieve.com/"
+    },
+    {
+      "boards": [
+        "ashby:cohere"
+      ],
+      "company": "Cohere",
+      "key": "f7a59c043f8227ec0e6a6939",
+      "last_scanned": "2026-08-16",
+      "resolved_roles": 0,
+      "url": "https://cohere.com/"
     },
     {
       "boards": [
