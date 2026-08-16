@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**2878 closed roles**
+**2879 closed roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -738,6 +738,7 @@
 | TikTok | Copyright Solution Product Manager Project Intern (TikTok-Music) - 2026 Start (BS/MS) | San Jose, CA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-09 | [Jobright · Product Management](https://github.com/jobright-ai/2026-Product-Management-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a47032d3dbab558e29a97f4?utm_campaign=1047&utm_source=git)<br><sub>discovery listing</sub> |
 | Twitch | Software Engineer, Memberships I | San Francisco, CA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-09 | [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-New-Grad) | [view job · Jobright](https://jobright.ai/jobs/info/6a3ebe9b4d047136e09376bc?utm_campaign=Software%20Engineering&utm_source=1103)<br><sub>discovery listing</sub> |
 | Twitch | Software Engineer, Memberships I | Seattle, WA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-09 | [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-New-Grad) | [view job · Jobright](https://jobright.ai/jobs/info/6a3ebe9d78237a036d5e51c6?utm_campaign=Software%20Engineering&utm_source=1103)<br><sub>discovery listing</sub> |
+| UC San Diego | Social Sciences Data Project Researcher | San Diego, CA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-09 | [Jobright · Data Analysis](https://github.com/jobright-ai/2026-Data-Analysis-New-Grad) | [view job · Jobright](https://jobright.ai/jobs/info/6a79691c4817aa430704cea9?utm_campaign=Data%20Analysis&utm_source=1103)<br><sub>discovery listing</sub> |
 | USC Verdugo Hills Hospital | Clinical Research Data Specialist I | Los Angeles, CA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-09 | [Jobright · Data Analysis](https://github.com/jobright-ai/2026-Data-Analysis-New-Grad) | [view job · Jobright](https://jobright.ai/jobs/info/6a7b09d5ecf5194164fbb6a3?utm_campaign=Data%20Analysis&utm_source=1103)<br><sub>discovery listing</sub> |
 | UVA Health | CASTL Data Operation Professional (Wage) | Charlottesville, VA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-09 | [Jobright · Data Analysis](https://github.com/jobright-ai/2026-Data-Analysis-New-Grad) | [view job · Jobright](https://jobright.ai/jobs/info/6a7a0370a26ccc369f83c0b7?utm_campaign=Data%20Analysis&utm_source=1103)<br><sub>discovery listing</sub> |
 | Vermont State University | Graduate Assistant Research | Castleton, VT, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-09 | [Jobright · Data Analysis](https://github.com/jobright-ai/2026-Data-Analysis-New-Grad) | [view job · Jobright](https://jobright.ai/jobs/info/6a7d669b77d5f033c4b92b6b?utm_campaign=Data%20Analysis&utm_source=1103)<br><sub>discovery listing</sub> |
