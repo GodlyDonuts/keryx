@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**2883 closed roles**
+**2884 closed roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | Peoples Gas | Intern- Gas Engineering | Chicago, IL, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-14 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a7fd2aee51a1e18a24163cc?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
 | Peoples Gas | Intern- Gas Storage Engineering | Fisher, IL, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-14 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a7fd29eb56bea5779c0f85f?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
 | RG&T Solutions | Manufacturing Engineering Intern | Huron, OH, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-14 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a7fb49ce51a1e18a241538a?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
+| Rippling | Full Stack Software Engineer Intern - Winter 2027 | San Francisco, CA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-14 | [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a29a314495d985b99424dc5?utm_campaign=1079&utm_source=git)<br><sub>discovery listing</sub> |
 | Rivian and Volkswagen Group Technologies | Electrical Design Engineering Intern | Irvine, CA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-14 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a7f410ee2030208f276cbbf?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
 | RoShay Services | Mining Engineer Intern | Davis, OK, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-14 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a800900927c79391ad0e985?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
 | Sandman Structural Engineers | Structural Engineering Intern | Moorhead, MN, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-14 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a60a2da2a30b85637874cd0?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
