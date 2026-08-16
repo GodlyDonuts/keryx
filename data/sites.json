@@ -1832,6 +1832,13 @@
       "url": "https://rjschinner.com/"
     },
     {
+      "company": "Assay Biotech Inc.",
+      "error": "public requests require HTTPS and a hostname",
+      "key": "5835237b32461e26027c07f9",
+      "last_scanned": "2026-08-16",
+      "url": "https://www.assaybiotechnology.com/"
+    },
+    {
       "boards": [],
       "company": "Symbotic",
       "key": "58778a94bb013935a63a06a2",
@@ -2409,6 +2416,17 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.trueanomaly.space/"
+    },
+    {
+      "boards": [
+        "workday:oxy.wd5.myworkdayjobs.com:oxy:corporate",
+        "workday:oxy.wd5.myworkdayjobs.com:oxy:universityrelations"
+      ],
+      "company": "Oxy",
+      "key": "7552b78058f1417017aad4bc",
+      "last_scanned": "2026-08-16",
+      "resolved_roles": 0,
+      "url": "https://www.oxy.com/"
     },
     {
       "boards": [],
@@ -3159,11 +3177,28 @@
       "url": "https://www.honda.com/"
     },
     {
+      "boards": [
+        "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com:cx_2"
+      ],
+      "company": "Photon",
+      "key": "985a5a04753264f01d6d04ca",
+      "last_scanned": "2026-08-16",
+      "resolved_roles": 0,
+      "url": "https://www.photon.in/"
+    },
+    {
       "company": "Blue Origin",
       "error": "public request failed for https://www.blueorigin.com/: HTTP Error 429: Too Many Requests",
       "key": "98cd49c074ca5d759be4f500",
       "last_scanned": "2026-08-16",
       "url": "https://www.blueorigin.com/"
+    },
+    {
+      "company": "Bombardier",
+      "error": "public request failed for https://bombardier.com/en/aerospace.html: HTTP Error 404: Not Found",
+      "key": "99f2ca2416ec5810416ff4c3",
+      "last_scanned": "2026-08-16",
+      "url": "https://www.bombardier.com/en/aerospace.html"
     },
     {
       "boards": [
