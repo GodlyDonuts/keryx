@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,877 internships · 3,511 new-grad roles · 5,388 total openings**
+**1,873 internships · 3,514 new-grad roles · 5,387 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
 | ☀️ Summer 2027 | 631 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 478 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 85 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 18 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 665 | **[View openings →](internships/unscheduled.md)** |
+| 🍂 Fall 2026 | 477 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 84 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 19 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 662 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 730 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 799 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,982 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 736 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 803 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,975 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -47,7 +47,7 @@ Recent internship and co-op listings that open the employer's application page d
 | Epia Neuro | Hardware Engineer Intern | Alameda, CA | Fall 2026 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Goldman Sachs | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://higher.gs.com/roles/181628?type=students)**<br><sub>higher.gs.com</sub> |
 | Onto Innovation | Mechanical Systems Engineer Intern | Bloomington-MN | Not listed | not available | 2026-08-15 | **[Apply →](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Bloomington-MN/Mechanical-Systems-Engineer-Intern_R-5723)**<br><sub>onto.wd1.myworkdayjobs.com</sub> |
-| Photon | Software Engineering Intern - AI | Remote in USA | Fall 2026 | not stated | 2026-08-15 | **[Apply →](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738)**<br><sub>fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
+| Photon | Software Engineering / AI Intern - US - Remote | United States | Fall 2026 | not stated | 2026-08-15 | **[Apply →](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738)**<br><sub>fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 | Replit | Software Engineer Intern - Summer 2027 | Foster City, CA | Summer 2027 | Current student status<br><sub>required</sub> | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
@@ -69,7 +69,7 @@ Recent full-time opportunities that open the employer's application page directl
 | CHAOS Industries | Field Software Engineer | Los Angeles, CA +1 | 2027 | not available | 2026-08-15 | **[Apply →](https://job-boards.greenhouse.io/chaosindustries/jobs/5162754007)**<br><sub>job-boards.greenhouse.io</sub> |
 | Four Seasons | Retail Attendant - Trading Company | Kailua-Kona, HI | Not listed | not available | 2026-08-15 | **[Apply →](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Hualalai/Trading-Company---Retail-Attendant---Casual_REQ10387442)**<br><sub>fourseasons.wd3.myworkdayjobs.com</sub> |
 | Goldman Sachs | Engineering New Analyst - Engineering | Salt Lake City, UT | Not listed | not available | 2026-08-15 | **[Apply →](https://higher.gs.com/roles/171570?type=students)**<br><sub>higher.gs.com</sub> |
-| LiteLLM | Forward Deployed Engineer (New Grad) | United States | Not listed | not stated | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3)**<br><sub>jobs.ashbyhq.com</sub> |
+| LiteLLM | Forward Deployed Engineer New Grad | India, United States | Not listed | not stated | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
