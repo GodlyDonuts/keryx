@@ -239,6 +239,14 @@
     },
     {
       "boards": [],
+      "company": "GFT",
+      "key": "0acd07d088b31d51b4df0ff5",
+      "last_scanned": "2026-08-16",
+      "resolved_roles": 0,
+      "url": "https://www.gftinc.com/"
+    },
+    {
+      "boards": [],
       "company": "TKC Holdings, Inc.",
       "key": "0ae8a13e1f28f350e815c431",
       "last_scanned": "2026-08-15",
@@ -3517,6 +3525,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://leaderbank.com/"
+    },
+    {
+      "company": "Connection",
+      "error": "public request failed for https://www.pcconnection.com/: HTTP Error 403: Forbidden",
+      "key": "a313e18534def53624bbd6cc",
+      "last_scanned": "2026-08-16",
+      "url": "https://www.pcconnection.com/"
     },
     {
       "boards": [
