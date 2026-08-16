@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,882 internships · 3,505 new-grad roles · 5,387 total openings**
+**1,892 internships · 3,502 new-grad roles · 5,394 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 631 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 633 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 480 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 84 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 18 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 669 | **[View openings →](internships/unscheduled.md)** |
+| ❄️ Winter 2027 | 19 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 676 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 737 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 792 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,976 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 790 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,975 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -40,6 +40,7 @@ Recent internship and co-op listings that open the employer's application page d
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-08-16 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Dry Etch | Boise, ID - Main Site | Not listed | not available | 2026-08-16 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
 | Micron Technology | Intern – Process Development Engineer, 3D DRAM Wet Etch | Boise, ID - Main Site | Not listed | not available | 2026-08-16 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Wet-Etch_JR106729)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
+| Notion | Software Engineer Intern - Winter 2027 | San Francisco, CA +1 | Winter 2027 | By Dec 2027<br><sub>required / stated</sub> | 2026-08-16 | **[Apply →](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8)**<br><sub>jobs.ashbyhq.com</sub> |
 | The Campbell's Company | Data Engineer – Agentic AI & ML Ops (Co-op) | USA - NJ - Camden | Not listed | not available | 2026-08-16 | **[Apply →](https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer---Agentic-AI---ML-Ops--Co-op-_Req-65843)**<br><sub>campbellsoup.wd5.myworkdayjobs.com</sub> |
 | ByteDance | Software Engineer Intern - Global Payment Infra and SRE | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7668315137242351925/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Software Engineer Intern - Global Traffic Architecture | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7672557061679483189/detail)**<br><sub>jobs.bytedance.com</sub> |
@@ -48,7 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | Onto Innovation | Mechanical Systems Engineer Intern | Bloomington-MN | Not listed | not available | 2026-08-15 | **[Apply →](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Bloomington-MN/Mechanical-Systems-Engineer-Intern_R-5723)**<br><sub>onto.wd1.myworkdayjobs.com</sub> |
 | Photon | Software Engineering / AI Intern - US - Remote | United States | Fall 2026 | not stated | 2026-08-15 | **[Apply →](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738)**<br><sub>fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 | Replit | Software Engineer Intern - Summer 2027 | Foster City, CA | Summer 2027 | Current student status<br><sub>required</sub> | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Samsara | Software Engineering Internship - San Francisco | San Francisco, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091)**<br><sub>www.samsara.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links

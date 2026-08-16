@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**1976 open roles**
+**1975 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -1729,7 +1729,6 @@
 | CACI | Software Engineer | Annapolis Junction, MD | not available<br><sub>posting text not indexed</sub> | 2026-03-23 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · caci.wd1.myworkdayjobs.com](https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Annapolis-Junction/Software-Engineer-Skill-Level-0_323580)<br><sub>recognized recruiting platform</sub> |
 | Geneva Trading | Junior Software Engineer | Chicago, IL | not available<br><sub>posting text not indexed</sub> | 2026-03-23 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/genevatrading/jobs/5085231007)<br><sub>recognized recruiting platform</sub> |
 | Internet Brands | Associate AI Research & Operations Analyst | El Segundo, CA | not available<br><sub>posting text not indexed</sub> | 2026-03-23 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.jobvite.com](https://jobs.jobvite.com/internetbrands/job/o25Rzfwh?nl=1&nl=1&fr=false)<br><sub>recognized recruiting platform</sub> |
-| Avnet | Associate Field Application Engineer | Hopkins, MN | not available<br><sub>posting text not indexed</sub> | 2026-03-19 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · avnet.wd1.myworkdayjobs.com](https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071)<br><sub>recognized recruiting platform</sub> |
 | Avnet | Associate Field Application Engineer | Hopkins, MN | not available<br><sub>posting text not indexed</sub> | 2026-03-19 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · wd1.myworkdaysite.com](https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071)<br><sub>recognized recruiting platform</sub> |
 | GM financial | Software Development Engineer 1 | Arlington, TX, Irving, TX | not available<br><sub>posting text not indexed</sub> | 2026-03-19 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1991)<br><sub>recognized recruiting platform</sub> |
 | Ivo | Software Engineer, Backend | San Francisco, CA | not available<br><sub>posting text not indexed</sub> | 2026-03-19 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.lever.co](https://jobs.lever.co/ivo/3ce9dc16-90fd-4b99-b4b9-dfd48ec1a50d)<br><sub>recognized recruiting platform</sub> |
