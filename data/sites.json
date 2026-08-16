@@ -1274,6 +1274,14 @@
     },
     {
       "boards": [],
+      "company": "SECUNETICS",
+      "key": "3c7f2d8a59f2fbb46667e715",
+      "last_scanned": "2026-08-16",
+      "resolved_roles": 0,
+      "url": "https://www.secunetics.com/"
+    },
+    {
+      "boards": [],
       "company": "West Fraser",
       "key": "3cbdc05a70e65a0234bbe5be",
       "last_scanned": "2026-08-15",
@@ -3903,6 +3911,13 @@
       "url": "https://www.dexcom.com/"
     },
     {
+      "company": "General Dynamics",
+      "error": "public request failed for https://www.gd.com/: HTTP Error 403: Forbidden",
+      "key": "b2129e0343a2524b8e32127f",
+      "last_scanned": "2026-08-16",
+      "url": "https://www.gd.com/"
+    },
+    {
       "boards": [
         "workday:transamerica.wd5.myworkdayjobs.com:transamerica:us"
       ],
@@ -4057,6 +4072,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://ncagr.gov/"
+    },
+    {
+      "company": "MidwayUSA",
+      "error": "public request failed for https://midwayusa.com/: HTTP Error 403: Forbidden",
+      "key": "b6f61e781abe106ee0f5e2c9",
+      "last_scanned": "2026-08-16",
+      "url": "https://midwayusa.com/"
     },
     {
       "company": "Collins Aerospace",
