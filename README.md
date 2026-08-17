@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,909 internships · 3,456 new-grad roles · 5,365 total openings**
+**1,923 internships · 3,450 new-grad roles · 5,373 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 664 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 667 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 475 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 82 | **[View openings →](internships/spring-2027.md)** |
+| 🌱 Spring 2027 | 81 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 16 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 672 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 684 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 718 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 760 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,978 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 721 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 745 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,984 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| ACDS | Align AI Software Development Intern | Bentonville, AR | Not listed | not available | 2026-08-17 | **[Apply →](https://jobs.lever.co/acds/5a872bb7-8d9f-46e3-9e72-f5c69445e787)**<br><sub>jobs.lever.co</sub> |
 | Datadog | Software Engineer Intern - Observability and Security Platform | Boston, MA, NYC | Winter 2027 | not available | 2026-08-17 | **[Apply →](https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095)**<br><sub>careers.datadoghq.com</sub> |
 | DiDi Global | Motion Planning Engineer (PhD, Intern) | San Jose, CA | Fall 2026 | not stated | 2026-08-17 | **[Apply →](https://job-boards.greenhouse.io/didi/jobs/8131863)**<br><sub>job-boards.greenhouse.io</sub> |
 | Ergo | Software Engineering Intern | San Francisco, CA, United States | Not listed | not available | 2026-08-17 | **[Apply →](https://www.ycombinator.com/companies/ergo/jobs/lJi1vsf-software-engineering-intern)**<br><sub>www.ycombinator.com</sub> |
+| IMEG | Structural Engineering Intern / Dallas, TX | Dallas, TX | Not listed | not available | 2026-08-17 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Dallas-TX/Structural-Engineering-Intern---Dallas--TX_R-16424)**<br><sub>wd1.myworkdaysite.com</sub> |
+| IMEG | Structural Engineering Intern / Fort Worth, TX | Fort Worth, TX | Not listed | not available | 2026-08-17 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Fort-Worth-TX/Structural-Engineering-Intern---Fort-Worth--TX_R-16423)**<br><sub>wd1.myworkdaysite.com</sub> |
+| IMEG | Structural Engineering Intern / Houston, TX | Houston, TX | Not listed | not available | 2026-08-17 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014)**<br><sub>wd1.myworkdaysite.com</sub> |
 | Micron Technology | Intern - DRAM Design Engineer | Boise, ID - Main Site | Fall 2026 | not available | 2026-08-17 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
 | Micron Technology | Intern - Process Development Engineer, Thin Films | Boise, ID - Main Site | Not listed | not available | 2026-08-17 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Thin-Films_JR107323)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
 | Micron Technology | Intern - Wet Etch Process Development Engineer | Boise, ID - Main Site | Not listed | not available | 2026-08-17 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Wet-Etch-Process-Development-Engineer_JR108050)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
 | PIMCO | 2027 Summer Intern - Product Strategy Analyst, US | Newport Beach, CA USA | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626)**<br><sub>pimco.wd1.myworkdayjobs.com</sub> |
 | Praytell | Analytics & Reporting Intern | Chicago, United States (Hybrid) | Not listed | not available | 2026-08-17 | **[Apply →](https://apply.workable.com/praytell/j/64893520AF/)**<br><sub>apply.workable.com</sub> |
-| RTX | Software Engineering Intern (Summer 2027) | US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166 | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01867487)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
-| SharkNinja | Fall 2026: Digital/Sharks, Performance Data Associate Co-op, Marketplace Intelligence (August to December) | Needham, MA, United States | Fall 2026 | not stated | 2026-08-17 | **[Apply →](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703756006)**<br><sub>job-boards.greenhouse.io</sub> |
-| TikTok | Data Engineer Intern - Data Platform Global Live | San Jose, CA | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://lifeattiktok.com/search/7674032146438162693)**<br><sub>lifeattiktok.com</sub> |
-| TikTok | Machine Learning Engineer Intern - E-Commerce Governance | Seattle, WA | Fall 2026 | not available | 2026-08-17 | **[Apply →](https://lifeattiktok.com/search/7674029136531015941)**<br><sub>lifeattiktok.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links

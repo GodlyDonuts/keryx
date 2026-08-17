@@ -871,6 +871,14 @@
     },
     {
       "boards": [],
+      "company": "Datadog",
+      "key": "2850f31e276b1d5ea84ab307",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.datadoghq.com/"
+    },
+    {
+      "boards": [],
       "company": "FlatironDragados",
       "key": "2871d631964ddca82ed3257f",
       "last_scanned": "2026-08-16",
@@ -1675,6 +1683,16 @@
       "url": "https://www.plymouthrock.com/"
     },
     {
+      "boards": [
+        "workday:wd1.myworkdaysite.com:imeg:imeg_careers"
+      ],
+      "company": "IMEG",
+      "key": "4affcd6d530a630f7d84eceb",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.imegcorp.com/"
+    },
+    {
       "boards": [],
       "company": "Lockton",
       "key": "4b437766b2f4672f2344cfe8",
@@ -2219,6 +2237,14 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 1,
       "url": "https://ae2s.com/"
+    },
+    {
+      "boards": [],
+      "company": "Ededge Groups",
+      "key": "5e3df26ae99033114a5007ef",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.ededgelearning.com/"
     },
     {
       "boards": [],
@@ -4401,6 +4427,14 @@
     },
     {
       "boards": [],
+      "company": "Connecticut Innovations",
+      "key": "b4af41bd6c68e4ff830e11f8",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.ctinnovations.com/"
+    },
+    {
+      "boards": [],
       "company": "California Department of State Hospitals",
       "key": "b5254b9a7090646506e734f1",
       "last_scanned": "2026-08-15",
@@ -4537,6 +4571,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.statefarm.com/"
+    },
+    {
+      "boards": [],
+      "company": "Framatome North America",
+      "key": "ba4a494bbebd125c6a5c952d",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.framatome.com/"
     },
     {
       "boards": [
@@ -5079,6 +5121,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://metriceng.com/"
+    },
+    {
+      "company": "WSP in the U.S.",
+      "error": "public request failed for https://www.wsp.com/en-us: HTTP Error 403: Forbidden",
+      "key": "ce26e2f6b0157eb94cc09fde",
+      "last_scanned": "2026-08-17",
+      "url": "https://www.wsp.com/en-us"
     },
     {
       "boards": [],
