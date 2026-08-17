@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,946 internships · 3,466 new-grad roles · 5,412 total openings**
+**1,965 internships · 3,482 new-grad roles · 5,447 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 665 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 470 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 85 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 667 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 469 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 86 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 20 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 706 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 723 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 723 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 777 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,966 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 720 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 767 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,995 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -60,16 +60,16 @@ Recent full-time opportunities that open the employer's application page directl
 |---|---|---|---|---|---:|---|
 | Allstate | Software Engineer - All Levels | Remote - USA | 2027 | not available | 2026-08-17 | **[Apply →](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Software-Engineer--All-Levels-_R32116-1)**<br><sub>allstate.wd5.myworkdayjobs.com</sub> |
 | ASSYST | Junior .NET Developer | Sterling, VA | Not listed | not available | 2026-08-17 | **[Apply →](https://job-boards.greenhouse.io/assystinc/jobs/4371586009)**<br><sub>job-boards.greenhouse.io</sub> |
+| Auto-Owners Insurance | Business Intelligence Developer | Lansing, MI | Not listed | not available | 2026-08-17 | **[Apply →](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_13426-1)**<br><sub>aoins.wd5.myworkdayjobs.com</sub> |
+| Bertelsmann | Data Center Installer | Cumming, IA | Not listed | not available | 2026-08-17 | **[Apply →](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000143882390)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Constellation Energy | Associate AI Solutions Specialist | Pottstown, PA, Oswego, NY, Kennett Square, PA, Warrenville, IL, Morris, IL | Not listed | not available | 2026-08-17 | **[Apply →](https://jobs.constellationenergy.com/jobs/138125?icims=1)**<br><sub>jobs.constellationenergy.com</sub> |
 | County of Kauai | Geographic Information Systems Analyst 1 - GIS | Hawaii | Not listed | not available | 2026-08-17 | **[Apply →](https://kauai.wd1.myworkdayjobs.com/Kauai_External_Career_Site/job/Department-of-Finance-Real-Property-Assessments/Geographic-Information-Systems--GIS--Analyst-I_R-8117-1)**<br><sub>kauai.wd1.myworkdayjobs.com</sub> |
 | CSI | Product Manager - Business Banking & Treasury Management | Paducah, KY, Remote in USA | Not listed | not available | 2026-08-17 | **[Apply →](https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Paducah-KY-Corporate/Product-Manager---Business-Banking---Treasury-Management_R-100612)**<br><sub>csiweb.wd1.myworkdayjobs.com</sub> |
+| Dallas County | GIS Analyst 1 - Public Works | Dallas, TX | Not listed | not available | 2026-08-17 | **[Apply →](https://fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26000288)**<br><sub>fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 | General Dynamics Information Technology | Data Quality Monitoring Engineer | Offutt AFB, NE | Not listed | not available | 2026-08-17 | **[Apply →](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NE-Offutt-AFB/Data-Quality-Monitoring-Engineer_RQ226071-2)**<br><sub>gdit.wd5.myworkdayjobs.com</sub> |
 | General Dynamics Mission Systems | ASIC FPGA Engineer | Pittsfield, MA | Not listed | not available | 2026-08-17 | **[Apply →](https://careers-gdms.icims.com/jobs/74353/job?mobile=true&needsRedirect=false)**<br><sub>careers-gdms.icims.com</sub> |
+| Honeywell | Software Engineer 1 | Richmond, VA | Not listed | not available | 2026-08-17 | **[Apply →](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155860)**<br><sub>ibqbjb.fa.ocs.oraclecloud.com</sub> |
 | insightsoftware | Product Owner, Batch Processing - Equity | United States | 2026 | not available | 2026-08-17 | **[Apply →](https://magnitudesoftware.wd1.myworkdayjobs.com/en-US/External/job/USA---Remote/Product-Owner--Batch-Processing---Equity_REQ000629)**<br><sub>magnitudesoftware.wd1.myworkdayjobs.com</sub> |
-| L3Harris Technologies | Associate Software Engineer | Herndon, VA | Not listed | not available | 2026-08-17 | **[Apply →](https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-%28Herndon,-VA%29-VA-20171/1419939200/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| Leidos | Cartographic Analyst Junior | Springfield, VA | Not listed | not available | 2026-08-17 | **[Apply →](https://leidos.wd5.myworkdayjobs.com/External/job/Springfield-VA/Cartographic-Analyst-Junior_R-00189665)**<br><sub>leidos.wd5.myworkdayjobs.com</sub> |
-| Mass General Brigham | Data Analyst 1 | Boston, MA | Not listed | not available | 2026-08-17 | **[Apply →](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Data-Analyst-I_RQ4076086)**<br><sub>massgeneralbrigham.wd1.myworkdayjobs.com</sub> |
-| Notion | Software Engineer - New Grad - Dec 2026 | San Francisco, CA | 2026 | Dec 2026–Feb 2027<br><sub>required / stated</sub> | 2026-08-17 | **[Apply →](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816)**<br><sub>jobs.ashbyhq.com</sub> |
-| NVIDIA | Verification Engineer | Austin, TX, Santa Clara, CA, Westford, MA | Not listed | not available | 2026-08-17 | **[Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Verification-Engineer---New-College-Grad-2026_JR2021016)**<br><sub>nvidia.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

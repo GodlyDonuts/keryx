@@ -3759,6 +3759,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Dallas County",
+      "host": "fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com:cx_1001",
+      "site": "CX_1001",
+      "slug": "fa-etvc-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
       "company": "UL Solutions",
       "host": "fa-eups-saasfaprod1.fa.ocs.oraclecloud.com",
       "key": "oracle:fa-eups-saasfaprod1.fa.ocs.oraclecloud.com:ulsolutionscareers",
