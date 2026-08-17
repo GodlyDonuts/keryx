@@ -2083,6 +2083,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Hasbro",
+      "key": "greenhouse:hasbro",
+      "slug": "hasbro"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Headlands Tech Holdings",
       "key": "greenhouse:headlandstechnologiesllc",
       "slug": "headlandstechnologiesllc"
@@ -6144,7 +6150,7 @@
     },
     {
       "ats": "workday",
-      "company": "Daikin Applied Americas",
+      "company": "Daikin Applied",
       "host": "daikinapplied.wd1.myworkdayjobs.com",
       "key": "workday:daikinapplied.wd1.myworkdayjobs.com:daikinapplied:daikin-careers",
       "site": "Daikin-Careers",
@@ -6213,6 +6219,15 @@
       "site": "DealerTireLLC-Careers",
       "slug": "dealertire",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Dee Zee",
+      "host": "deezee.wd108.myworkdayjobs.com",
+      "key": "workday:deezee.wd108.myworkdayjobs.com:deezee:deezee_careers",
+      "site": "DeeZee_Careers",
+      "slug": "deezee",
+      "wd": "wd108"
     },
     {
       "ats": "workday",
@@ -6454,6 +6469,15 @@
       "host": "equifax.wd5.myworkdayjobs.com",
       "key": "workday:equifax.wd5.myworkdayjobs.com:equifax:external",
       "site": "external",
+      "slug": "equifax",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Equifax",
+      "host": "equifax.wd5.myworkdayjobs.com",
+      "key": "workday:equifax.wd5.myworkdayjobs.com:equifax:ur_external",
+      "site": "UR_External",
       "slug": "equifax",
       "wd": "wd5"
     },
@@ -10127,6 +10151,15 @@
       "key": "workday:warnerbros.wd5.myworkdayjobs.com:warnerbros:global",
       "site": "global",
       "slug": "warnerbros",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Watts Water",
+      "host": "wattswater.wd5.myworkdayjobs.com",
+      "key": "workday:wattswater.wd5.myworkdayjobs.com:wattswater:external",
+      "site": "external",
+      "slug": "wattswater",
       "wd": "wd5"
     },
     {
