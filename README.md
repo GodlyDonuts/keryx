@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,930 internships · 3,462 new-grad roles · 5,392 total openings**
+**1,898 internships · 3,457 new-grad roles · 5,355 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 658 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 477 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 81 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 643 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 476 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 80 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 16 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 698 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 683 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 721 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 765 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,976 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 732 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 763 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,962 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,7 +37,7 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| ACDS | Align AI Software Development Intern | Bentonville, AR | Not listed | not available | 2026-08-17 | **[Apply →](https://jobs.lever.co/acds/5a872bb7-8d9f-46e3-9e72-f5c69445e787)**<br><sub>jobs.lever.co</sub> |
+| ACDS | Align AI Software Development Intern | Bentonville, AR | Not listed | not stated | 2026-08-17 | **[Apply →](https://jobs.lever.co/acds/5a872bb7-8d9f-46e3-9e72-f5c69445e787)**<br><sub>jobs.lever.co</sub> |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC | Charlotte, NC, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | Datadog | Software Engineer Intern - Observability and Security Platform | Boston, MA, NYC | Winter 2027 | not available | 2026-08-17 | **[Apply →](https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095)**<br><sub>careers.datadoghq.com</sub> |
 | DiDi Global | Motion Planning Engineer (PhD, Intern) | San Jose, CA | Fall 2026 | not stated | 2026-08-17 | **[Apply →](https://job-boards.greenhouse.io/didi/jobs/8131863)**<br><sub>job-boards.greenhouse.io</sub> |
