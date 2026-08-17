@@ -2326,6 +2326,13 @@
       "url": "https://www.liebherr.us/"
     },
     {
+      "company": "SAP",
+      "error": "public request failed for https://www.sap.com/index.html: HTTP Error 403: Forbidden",
+      "key": "66654736107967ac46480871",
+      "last_scanned": "2026-08-17",
+      "url": "https://www.sap.com/"
+    },
+    {
       "boards": [],
       "company": "MedSpeed",
       "key": "668d023c7b87995ac2cb35bd",
@@ -3858,6 +3865,16 @@
       "key": "a3e49c957b1002b4e1106faa",
       "last_scanned": "2026-08-16",
       "url": "https://www.eaton.com/br/pt-br.html"
+    },
+    {
+      "boards": [
+        "workday:novartis.wd3.myworkdayjobs.com:novartis:internal_careers_for_acquired_entities"
+      ],
+      "company": "Novartis",
+      "key": "a3f90fe87272e7b781bea076",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.novartis.com/"
     },
     {
       "boards": [],
