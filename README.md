@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,910 internships · 3,438 new-grad roles · 5,348 total openings**
+**1,923 internships · 3,445 new-grad roles · 5,368 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 652 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 471 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 83 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 15 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 689 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 667 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 470 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 81 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 14 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 691 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 725 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 747 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,966 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 736 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 752 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,957 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -59,6 +59,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Allstate | Software Engineer - All Levels | Remote - USA | 2027 | not available | 2026-08-17 | **[Apply →](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Software-Engineer--All-Levels-_R32116-1)**<br><sub>allstate.wd5.myworkdayjobs.com</sub> |
+| WellHive | Jr. Software Engineer, Customer Solutions Engineering | Melbourne, FL, United States | 2026 | not available | 2026-08-17 | **[Apply →](https://wellhive.applytojob.com/apply/KjqKdo7JNm/Jr-Software-Engineer-Customer-Solutions-Engineering)**<br><sub>wellhive.applytojob.com</sub> |
 | Amazon | Software Development Engineer - Android | Cambridge, MA | 2027 | not available | 2026-08-16 | **[Apply →](https://www.amazon.jobs/jobs/10501178/apply)**<br><sub>www.amazon.jobs</sub> |
 | Boom Supersonic | Software Engineer - Exceptional Talent | Centennial, CO | Not listed | not available | 2026-08-16 | **[Apply →](https://ats.rippling.com/boom-supersonic/jobs/a6ea239b-70a4-4d72-b7d8-3ab1312568dc)**<br><sub>ats.rippling.com</sub> |
 | CLEAR | Software Engineer - Infrastructure | New York City, NY | 2027 | not available | 2026-08-16 | **[Apply →](https://job-boards.greenhouse.io/clear/jobs/7901600)**<br><sub>job-boards.greenhouse.io</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | TikTok | Software Development Engineer in Test Graduate - Global E-commerce - 2027 Start | San Jose, CA | 2027 | not available | 2026-08-16 | **[Apply →](https://lifeattiktok.com/search/7668827381435517237)**<br><sub>lifeattiktok.com</sub> |
 | Altamira Technologies | Intelligence Analyst - TS/SCI CI Poly | Aurora, CO | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.jobvite.com/altamiracorps/job/o2tEAfwt?nl=1&nl=1&fr=false)**<br><sub>jobs.jobvite.com</sub> |
 | Amazon | Jr. Software Development Engineer - San Luis Obispo - CA - Jr. Developer Program | San Luis Obispo, CA | 2027 | not available | 2026-08-15 | **[Apply →](https://www.amazon.jobs/jobs/10420146/apply)**<br><sub>www.amazon.jobs</sub> |
-| Applied Intuition | Embedded Software Engineer New Grad | Sunnyvale, CA | 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
