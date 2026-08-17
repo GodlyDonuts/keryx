@@ -575,6 +575,13 @@
       "url": "https://www.rbc.com/"
     },
     {
+      "company": "The TJX Companies, Inc.",
+      "error": "public request failed for https://www.tjx.com/: HTTP Error 403: Forbidden",
+      "key": "15b53d3b2eae4ac6abe9b801",
+      "last_scanned": "2026-08-17",
+      "url": "https://www.tjx.com/"
+    },
+    {
       "boards": [
         "workday:gevernova.wd5.myworkdayjobs.com:gevernova:vernova_externalsite"
       ],
@@ -1004,6 +1011,16 @@
     },
     {
       "boards": [
+        "oracle:ejis.fa.us6.oraclecloud.com:cx"
+      ],
+      "company": "The Mount Sinai Hospital",
+      "key": "2c415e5a121baf37a4a1d1e0",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 1,
+      "url": "https://www.mountsinai.org/"
+    },
+    {
+      "boards": [
         "greenhouse:xai"
       ],
       "company": "SpaceXAI",
@@ -1011,6 +1028,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://x.ai/"
+    },
+    {
+      "boards": [],
+      "company": "CBRE",
+      "key": "2c962eb1a1a0223f1d3a05ef",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.cbre.com/"
     },
     {
       "boards": [
@@ -1094,6 +1119,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://paccoastsupply.com/"
+    },
+    {
+      "company": "Chapman University School of Pharmacy",
+      "error": "public requests require HTTPS and a hostname",
+      "key": "2ea1d31aff8ca2ae0156f4f0",
+      "last_scanned": "2026-08-17",
+      "url": "https://www.chapman.edu/pharmacy"
     },
     {
       "boards": [
@@ -1375,6 +1407,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://alchemy.com/"
+    },
+    {
+      "boards": [],
+      "company": "Veeva Systems",
+      "key": "37b7b29287c381b80194b894",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.veeva.com/"
     },
     {
       "boards": [],
@@ -2090,6 +2130,14 @@
       "url": "https://www.flexential.com/"
     },
     {
+      "boards": [],
+      "company": "Crew",
+      "key": "51a48e66c8837ac5d52ad713",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://turnberrysolutions.com/"
+    },
+    {
       "boards": [
         "oracle:eicl.fa.em5.oraclecloud.com:hagroup"
       ],
@@ -2123,6 +2171,14 @@
       "key": "529aedaf3c8dddded176c12f",
       "last_scanned": "2026-08-17",
       "url": "https://neuroleap.com/"
+    },
+    {
+      "boards": [],
+      "company": "Affiliated Engineers, Inc.",
+      "key": "52baf1119f80141325cac29d",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.aeieng.com/"
     },
     {
       "boards": [
@@ -3324,6 +3380,14 @@
     },
     {
       "boards": [],
+      "company": "John Deere",
+      "key": "7990655f8e392d021a5c8c54",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.deere.com/"
+    },
+    {
+      "boards": [],
       "company": "CNF Technologies",
       "key": "79a8c58bd8b5f21c7f37279a",
       "last_scanned": "2026-08-15",
@@ -3491,6 +3555,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.afs.com/"
+    },
+    {
+      "boards": [],
+      "company": "University of Missouri-Columbia",
+      "key": "7f116aebfecdaee7e539ff19",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://missouri.edu/"
     },
     {
       "boards": [],
@@ -3719,6 +3791,14 @@
       "last_scanned": "2026-08-16",
       "resolved_roles": 0,
       "url": "https://www.baxter.com/"
+    },
+    {
+      "boards": [],
+      "company": "Technical College System of Georgia",
+      "key": "88e9f83a093cd7c039327c46",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.tcsg.edu/"
     },
     {
       "boards": [
@@ -4477,6 +4557,16 @@
       "url": "https://www.novartis.com/"
     },
     {
+      "boards": [
+        "workday:thejacksonlaboratory.wd503.myworkdayjobs.com:thejacksonlaboratory:external_jax"
+      ],
+      "company": "The Jackson Laboratory",
+      "key": "a469fc99b369660b534c00ee",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.jax.org/"
+    },
+    {
       "boards": [],
       "company": "The Retail Odyssey Company",
       "key": "a47ab14def4eb7bc11bfa402",
@@ -4708,6 +4798,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.morganstanley.com/"
+    },
+    {
+      "company": "Farmers Insurance",
+      "error": "public request failed for https://www.farmers.com/: The read operation timed out",
+      "key": "ae12a53f4378115533c3ae9a",
+      "last_scanned": "2026-08-17",
+      "url": "https://www.farmers.com/"
     },
     {
       "boards": [],
@@ -5248,6 +5345,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.altamiracorp.com/"
+    },
+    {
+      "boards": [],
+      "company": "Minth North America, Inc.",
+      "key": "c1903d53c3b0a1bbfd52944a",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.minthgroup.com/en/"
     },
     {
       "boards": [],

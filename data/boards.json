@@ -3503,6 +3503,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Hilton Worldwide",
+      "host": "efet.fa.us2.oraclecloud.com",
+      "key": "oracle:efet.fa.us2.oraclecloud.com:cx_1009",
+      "site": "CX_1009",
+      "slug": "efet"
+    },
+    {
+      "ats": "oracle",
       "company": "NOV",
       "host": "egay.fa.us6.oraclecloud.com",
       "key": "oracle:egay.fa.us6.oraclecloud.com:cx_4001",
@@ -3556,6 +3564,14 @@
       "key": "oracle:eicl.fa.em5.oraclecloud.com:hagroup",
       "site": "HAGroup",
       "slug": "eicl"
+    },
+    {
+      "ats": "oracle",
+      "company": "The Mount Sinai Hospital",
+      "host": "ejis.fa.us6.oraclecloud.com",
+      "key": "oracle:ejis.fa.us6.oraclecloud.com:cx",
+      "site": "CX",
+      "slug": "ejis"
     },
     {
       "ats": "oracle",
@@ -4370,6 +4386,12 @@
       "company": "VWH Capital Management",
       "key": "smartrecruiters:vwhcapitalmanagementlp",
       "slug": "VWHCapitalManagementLP"
+    },
+    {
+      "ats": "smartrecruiters",
+      "company": "Wabtec",
+      "key": "smartrecruiters:wabtec",
+      "slug": "Wabtec"
     },
     {
       "ats": "smartrecruiters",
@@ -9566,6 +9588,15 @@
       "site": "External_Careers",
       "slug": "theirc",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "The Jackson Laboratory",
+      "host": "thejacksonlaboratory.wd503.myworkdayjobs.com",
+      "key": "workday:thejacksonlaboratory.wd503.myworkdayjobs.com:thejacksonlaboratory:external_jax",
+      "site": "External_JAX",
+      "slug": "thejacksonlaboratory",
+      "wd": "wd503"
     },
     {
       "ats": "workday",

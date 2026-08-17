@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,965 internships · 3,482 new-grad roles · 5,447 total openings**
+**1,964 internships · 3,494 new-grad roles · 5,458 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 667 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 678 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 469 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 86 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 20 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 723 | **[View openings →](internships/unscheduled.md)** |
+| 🌱 Spring 2027 | 85 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 21 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 711 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 720 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 767 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,995 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 723 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 787 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,984 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,17 +38,17 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | ACDS | Align AI Software Development Intern | Bentonville, AR | Not listed | not stated | 2026-08-17 | **[Apply →](https://jobs.lever.co/acds/5a872bb7-8d9f-46e3-9e72-f5c69445e787)**<br><sub>jobs.lever.co</sub> |
+| American Express | AI Engineer Intern - Enterprise Technology Services | Sunrise, FL | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | AI Engineer Intern - Enterprise Technology Services | Atlanta, GA | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer I, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY | New York, NY, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA | Atlanta, GA, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012462)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY | New York, NY, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC | Charlotte, NC, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012460)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Technology - New York, NY | New York, NY, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| Conagra Brands | IT Infrastructure Internship - Summer 2027 | Omaha, Nebraska | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/IT-Infrastructure-Internship---Summer-2027_Req-039788)**<br><sub>conagrabrands.wd1.myworkdayjobs.com</sub> |
-| Conagra Brands | Software Development Internship - Summer 2027 | Omaha, Nebraska | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787)**<br><sub>conagrabrands.wd1.myworkdayjobs.com</sub> |
-| Datadog | Software Engineer Intern - Observability and Security Platform | Boston, MA, NYC | Winter 2027 | not available | 2026-08-17 | **[Apply →](https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095)**<br><sub>careers.datadoghq.com</sub> |
+| American Express | Software Engineer Intern - Enterprise Technology Services | Charlotte, NC | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Software Engineer Intern - Enterprise Technology Services | Sunrise, FL | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
