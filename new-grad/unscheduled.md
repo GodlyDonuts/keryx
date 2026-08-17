@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**1979 open roles**
+**1977 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -14,9 +14,7 @@
 | Applied Intuition | Scenario Engineer New Grad | Sunnyvale, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true)<br><sub>recognized recruiting platform</sub> |
 | BJC HealthCare | EHR Application Analyst 1 - Epic Security | St. Louis, MO | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.bjc.org](https://jobs.bjc.org/jobs/114939?icims=1)<br><sub>source reported</sub> |
 | Four Seasons | Retail Attendant - Trading Company | Kailua-Kona, HI | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · fourseasons.wd3.myworkdayjobs.com](https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Hualalai/Trading-Company---Retail-Attendant---Casual_REQ10387442)<br><sub>recognized recruiting platform</sub> |
-| Goldman Sachs | Engineering New Analyst | Dallas, TX | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · higher.gs.com](https://higher.gs.com/roles/171568?type=students)<br><sub>source reported</sub> |
 | Goldman Sachs | Engineering New Analyst - Engineering | Salt Lake City, UT | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · higher.gs.com](https://higher.gs.com/roles/171570?type=students)<br><sub>source reported</sub> |
-| Goldman Sachs | Engineering New Analyst - Engineering | Seattle, WA | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · hdpc.fa.us2.oraclecloud.com](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807)<br><sub>recognized recruiting platform</sub> |
 | LiteLLM | Forward Deployed Engineer New Grad | India, United States | not stated<br><sub>direct ATS text · checked 2026-08-16</sub> | 2026-08-15 | [Ashby direct](https://jobs.ashbyhq.com/litellm), [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true)<br><sub>ATS checked</sub> |
 | TikTok | Data Scientist Graduate - Multimedia | San Jose, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · lifeattiktok.com](https://lifeattiktok.com/search/7673672141010815237)<br><sub>source reported</sub> |
 | Vanasse Hangen Brustlin | Software Evaluation & Enablement Analyst | Augusta, ME, Watertown, MA, NYC | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · careers-vhb.icims.com](https://careers-vhb.icims.com/jobs/6233/job?mobile=true&needsRedirect=false)<br><sub>recognized recruiting platform</sub> |
