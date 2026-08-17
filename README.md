@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,958 internships · 3,458 new-grad roles · 5,416 total openings**
+**1,946 internships · 3,466 new-grad roles · 5,412 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 661 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 472 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 87 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 19 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 719 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 665 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 470 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 85 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 20 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 706 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 716 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 761 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,981 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 723 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 777 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,966 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,17 +38,17 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | ACDS | Align AI Software Development Intern | Bentonville, AR | Not listed | not stated | 2026-08-17 | **[Apply →](https://jobs.lever.co/acds/5a872bb7-8d9f-46e3-9e72-f5c69445e787)**<br><sub>jobs.lever.co</sub> |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY | New York, NY, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA | Atlanta, GA, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY | New York, NY, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC | Charlotte, NC, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Technology - New York, NY | New York, NY, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| Conagra Brands | IT Infrastructure Internship - Summer 2027 | Omaha, Nebraska | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/IT-Infrastructure-Internship---Summer-2027_Req-039788)**<br><sub>conagrabrands.wd1.myworkdayjobs.com</sub> |
+| Conagra Brands | Software Development Internship - Summer 2027 | Omaha, Nebraska | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787)**<br><sub>conagrabrands.wd1.myworkdayjobs.com</sub> |
 | Datadog | Software Engineer Intern - Observability and Security Platform | Boston, MA, NYC | Winter 2027 | not available | 2026-08-17 | **[Apply →](https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095)**<br><sub>careers.datadoghq.com</sub> |
-| DiDi Global | Motion Planning Engineer Intern - PhD | San Jose, CA | Fall 2026 | not stated | 2026-08-17 | **[Apply →](https://job-boards.greenhouse.io/didi/jobs/8131863)**<br><sub>job-boards.greenhouse.io</sub> |
-| DV Trading | Trading Intern - Summer 2027 (DV Commodities) | New York | Summer 2027 | By Summer 2028<br><sub>stated</sub> | 2026-08-17 | **[Apply →](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005)**<br><sub>job-boards.greenhouse.io</sub> |
-| Ergo | Software Engineering Intern | San Francisco, CA, United States | Not listed | not available | 2026-08-17 | **[Apply →](https://www.ycombinator.com/companies/ergo/jobs/lJi1vsf-software-engineering-intern)**<br><sub>www.ycombinator.com</sub> |
-| First Solar | Data Scientist Intern (Fall 2026) | Perrysburg, OH, United States | Fall 2026 | not stated | 2026-08-17 | **[Apply →](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025547)**<br><sub>fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
-| Intel | Software Development Graduate Intern | US, California, Folsom | Not listed | not available | 2026-08-17 | **[Apply →](https://intel.wd1.myworkdayjobs.com/external/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1)**<br><sub>intel.wd1.myworkdayjobs.com</sub> |
-| KeyBank | 2027 Summer Key Technology & Services: Cyber/Information Security Track Internship- Cleveland | Brooklyn, OH | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384)**<br><sub>keybank.wd5.myworkdayjobs.com</sub> |
-| Micron Technology | DRAM Design Engineer Intern | Boise, ID | Fall 2026 | not available | 2026-08-17 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
-| Micron Technology | Intern - Process Development Engineer, Thin Films | Boise, ID - Main Site | Not listed | not available | 2026-08-17 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Thin-Films_JR107323)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
-| ONE Gas | Summer 2027 Engineering Intern (Austin) | Austin, TX, United States | Summer 2027 | Dec 2027–May 2028<br><sub>stated</sub> | 2026-08-17 | **[Apply →](https://ibedqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ONEGas-Careers/job/10077)**<br><sub>ibedqy.fa.ocs.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -68,8 +68,8 @@ Recent full-time opportunities that open the employer's application page directl
 | L3Harris Technologies | Associate Software Engineer | Herndon, VA | Not listed | not available | 2026-08-17 | **[Apply →](https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-%28Herndon,-VA%29-VA-20171/1419939200/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | Leidos | Cartographic Analyst Junior | Springfield, VA | Not listed | not available | 2026-08-17 | **[Apply →](https://leidos.wd5.myworkdayjobs.com/External/job/Springfield-VA/Cartographic-Analyst-Junior_R-00189665)**<br><sub>leidos.wd5.myworkdayjobs.com</sub> |
 | Mass General Brigham | Data Analyst 1 | Boston, MA | Not listed | not available | 2026-08-17 | **[Apply →](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Data-Analyst-I_RQ4076086)**<br><sub>massgeneralbrigham.wd1.myworkdayjobs.com</sub> |
+| Notion | Software Engineer - New Grad - Dec 2026 | San Francisco, CA | 2026 | Dec 2026–Feb 2027<br><sub>required / stated</sub> | 2026-08-17 | **[Apply →](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816)**<br><sub>jobs.ashbyhq.com</sub> |
 | NVIDIA | Verification Engineer | Austin, TX, Santa Clara, CA, Westford, MA | Not listed | not available | 2026-08-17 | **[Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Verification-Engineer---New-College-Grad-2026_JR2021016)**<br><sub>nvidia.wd5.myworkdayjobs.com</sub> |
-| TikTok | Data Scientist Graduate - E-Commerce Governance | Seattle, WA | Not listed | not available | 2026-08-17 | **[Apply →](https://lifeattiktok.com/search/7674027218993154357)**<br><sub>lifeattiktok.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
