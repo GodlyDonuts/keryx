@@ -1849,6 +1849,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "DiDi Global",
+      "key": "greenhouse:didi",
+      "slug": "didi"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Discord",
       "key": "greenhouse:discord",
       "slug": "discord"
@@ -6169,7 +6175,7 @@
       "company": "Dexcom",
       "host": "dexcom.wd1.myworkdayjobs.com",
       "key": "workday:dexcom.wd1.myworkdayjobs.com:dexcom:dexcom",
-      "site": "Dexcom",
+      "site": "dexcom",
       "slug": "dexcom",
       "wd": "wd1"
     },
@@ -7405,6 +7411,15 @@
       "site": "JJ",
       "slug": "jj",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "County of Kauai",
+      "host": "kauai.wd1.myworkdayjobs.com",
+      "key": "workday:kauai.wd1.myworkdayjobs.com:kauai:kauai_external_career_site",
+      "site": "Kauai_External_Career_Site",
+      "slug": "kauai",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
