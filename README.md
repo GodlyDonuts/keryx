@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,896 internships · 3,481 new-grad roles · 5,377 total openings**
+**1,895 internships · 3,471 new-grad roles · 5,366 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 649 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 478 | **[View openings →](internships/fall-2026.md)** |
+| ☀️ Summer 2027 | 648 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 475 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 83 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 14 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 672 | **[View openings →](internships/unscheduled.md)** |
+| ❄️ Winter 2027 | 15 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 674 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 732 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 775 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,974 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 728 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 765 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,978 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -65,11 +65,11 @@ Recent full-time opportunities that open the employer's application page directl
 | Roblox | Software Engineer - Account Authentication | San Mateo, CA | 2027 | not available | 2026-08-16 | **[Apply →](https://careers.roblox.com/jobs/8097701?gh_jid=8097701)**<br><sub>careers.roblox.com</sub> |
 | Roblox | Software Engineer - Creator Business | San Mateo, CA | 2027 | not available | 2026-08-16 | **[Apply →](https://careers.roblox.com/jobs/8113334?gh_jid=8113334)**<br><sub>careers.roblox.com</sub> |
 | Roblox | Software Engineer - User Frameworks | San Mateo, CA | 2027 | not available | 2026-08-16 | **[Apply →](https://careers.roblox.com/jobs/8080438?gh_jid=8080438)**<br><sub>careers.roblox.com</sub> |
+| TikTok | Software Development Engineer in Test Graduate - Global E-commerce - 2027 Start | San Jose, CA | 2027 | not available | 2026-08-16 | **[Apply →](https://lifeattiktok.com/search/7668827381435517237)**<br><sub>lifeattiktok.com</sub> |
 | Altamira Technologies | Intelligence Analyst - TS/SCI CI Poly | Aurora, CO | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.jobvite.com/altamiracorps/job/o2tEAfwt?nl=1&nl=1&fr=false)**<br><sub>jobs.jobvite.com</sub> |
 | Amazon | Jr. Software Development Engineer - San Luis Obispo - CA - Jr. Developer Program | San Luis Obispo, CA | 2027 | not available | 2026-08-15 | **[Apply →](https://www.amazon.jobs/jobs/10420146/apply)**<br><sub>www.amazon.jobs</sub> |
 | Applied Intuition | Embedded Software Engineer New Grad | Sunnyvale, CA | 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Intuition | Research Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Applied Intuition | Scenario Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
