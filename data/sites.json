@@ -2050,6 +2050,14 @@
     },
     {
       "boards": [],
+      "company": "Wayfair",
+      "key": "4e989dbe13befc9eccc6b770",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.wayfair.com/"
+    },
+    {
+      "boards": [],
       "company": "Parsons Corporation",
       "key": "4f26027ec6c69ec6cf7c435a",
       "last_scanned": "2026-08-15",
@@ -2737,6 +2745,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.gehealthcare.com/"
+    },
+    {
+      "boards": [],
+      "company": "IDEX Corporation",
+      "key": "62ff04db0c0113b94098e613",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.idexcorp.com/"
     },
     {
       "boards": [
@@ -5662,6 +5678,14 @@
     },
     {
       "boards": [],
+      "company": "Equitable",
+      "key": "cafcca4165a1c70d1386d950",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://equitable.com/"
+    },
+    {
+      "boards": [],
       "company": "MedPro Group",
       "key": "cafd18d13c3e5fa2b61430a3",
       "last_scanned": "2026-08-15",
@@ -5742,6 +5766,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://lynker.com/"
+    },
+    {
+      "boards": [],
+      "company": "UnitedHealth Group",
+      "key": "cd63bef2c8bddb18bc4a50ac",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.unitedhealthgroup.com/"
     },
     {
       "boards": [
@@ -5875,6 +5907,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.google.com/"
+    },
+    {
+      "company": "CommuniCare Health Centers",
+      "error": "public request failed for https://www.communicarehc.org/: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)>",
+      "key": "d1233a7b57eeb187331b3021",
+      "last_scanned": "2026-08-17",
+      "url": "https://www.communicarehc.org/"
     },
     {
       "boards": [
@@ -6605,6 +6644,23 @@
     },
     {
       "boards": [
+        "ashby:pano-ai",
+        "ashby:seneca",
+        "ashby:standinsurance",
+        "ashby:treeswift",
+        "ashby:windborne-systems",
+        "greenhouse:hubblenetwork",
+        "greenhouse:overstory",
+        "lever:gridware"
+      ],
+      "company": "Convective",
+      "key": "ed865e3bd47c45b378263362",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 1,
+      "url": "https://www.convectivecapital.com/"
+    },
+    {
+      "boards": [
         "workday:firstam.wd1.myworkdayjobs.com:firstam:firstamericancareers"
       ],
       "company": "First American",
@@ -6875,6 +6931,14 @@
       "last_scanned": "2026-08-16",
       "resolved_roles": 0,
       "url": "https://cohere.com/"
+    },
+    {
+      "boards": [],
+      "company": "The Midtown Group",
+      "key": "f7bb60cae85e258ca0cbe863",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://themidtowngroup.com/"
     },
     {
       "company": "WSP",

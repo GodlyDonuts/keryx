@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,986 internships · 3,527 new-grad roles · 5,513 total openings**
+**1,978 internships · 3,535 new-grad roles · 5,513 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 683 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 471 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 86 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 23 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 723 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 687 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 470 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 83 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 24 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 714 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 721 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 773 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,033 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 723 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 788 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,024 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -42,13 +42,13 @@ Recent internship and co-op listings that open the employer's application page d
 | American Express | AI Engineer Intern - Enterprise Technology Services | Phoenix, AZ | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | American Express | AI Engineer Intern - Enterprise Technology Services | Phoenix, AZ | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | American Express | AI Engineer Intern - Enterprise Technology Services | Atlanta, GA | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA | Atlanta, GA, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY | New York, NY, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA | Atlanta, GA, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011913)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY | New York, NY, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011893)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012462)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012444)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY | New York, NY, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012460)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Technology - New York, NY | New York, NY, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Software Engineer Intern - Enterprise Technology Services | Phoenix, AZ | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -65,11 +65,11 @@ Recent full-time opportunities that open the employer's application page directl
 | CACI | C# Software Engineer - Engineering | Everett, WA | Not listed | not available | 2026-08-17 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/Everett-WA-US/C--Software-Engineer_330694)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
 | CACI | Data Scientist - Science | Bethesda, MD | Not listed | not available | 2026-08-17 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/Bethesda-MD-US/Data-Scientist_330691)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
 | Constellation Energy | Associate AI Solutions Specialist | Pottstown, PA, Oswego, NY, Kennett Square, PA, Warrenville, IL, Morris, IL | Not listed | not available | 2026-08-17 | **[Apply →](https://jobs.constellationenergy.com/jobs/138125?icims=1)**<br><sub>jobs.constellationenergy.com</sub> |
+| Convective | Software Engineer, Operations | San Francisco, CA, United States | 2026 | not available | 2026-08-17 | **[Apply →](https://jobs.convectivecapital.com/companies/voltair-2/jobs/90196552-software-engineer-operations#content)**<br><sub>jobs.convectivecapital.com</sub> |
 | County of Kauai | Geographic Information Systems Analyst 1 - GIS | Hawaii | Not listed | not available | 2026-08-17 | **[Apply →](https://kauai.wd1.myworkdayjobs.com/Kauai_External_Career_Site/job/Department-of-Finance-Real-Property-Assessments/Geographic-Information-Systems--GIS--Analyst-I_R-8117-1)**<br><sub>kauai.wd1.myworkdayjobs.com</sub> |
 | CSI | Product Manager - Business Banking & Treasury Management | Paducah, KY, Remote in USA | Not listed | not available | 2026-08-17 | **[Apply →](https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Paducah-KY-Corporate/Product-Manager---Business-Banking---Treasury-Management_R-100612)**<br><sub>csiweb.wd1.myworkdayjobs.com</sub> |
 | CTG | Vibe Coding Engineer - Generative AI | Remote in USA | Not listed | not available | 2026-08-17 | **[Apply →](https://careers.ctg.com/jobs/17373?icims=1)**<br><sub>careers.ctg.com</sub> |
 | Daikin Applied | Application Software Developer 1 | Plymouth, MN | Not listed | not available | 2026-08-17 | **[Apply →](https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Plymouth-MN-55441/Application-Software-Dev-I_R003698)**<br><sub>daikinapplied.wd1.myworkdayjobs.com</sub> |
-| Dallas County | GIS Analyst 1 - Public Works | Dallas, TX | Not listed | not available | 2026-08-17 | **[Apply →](https://fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26000288)**<br><sub>fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
