@@ -4,11 +4,10 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**81 open roles**
+**80 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
-| Marathon Petroleum Corporation | Intern/Co-op - Midstream Logistics and Storage Mechanical/Civil/Electrical Engineering (Spring 2027) | Findlay, OH | not available<br><sub>posting text not indexed</sub> | 2026-08-16 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a2c1589f1751b183c816aab?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
 | Delta Air Lines | Graduate Intern, Data Scientist (Spring 2027) | Atlanta, GA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Jobright · Data Analysis](https://github.com/jobright-ai/2026-Data-Analysis-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a7d1219d77e8156a8e35be0?utm_campaign=1066&utm_source=git)<br><sub>discovery listing</sub> |
 | First Solar | Manufacturing Engineering Intern (Spring 2027) | Trinity, AL, United States | not stated<br><sub>direct ATS text · checked 2026-08-17</sub> | 2026-08-14 | [Oracle direct](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1) | [apply · fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025558)<br><sub>ATS checked</sub> |
 | First Solar | Manufacturing Engineering Intern (Spring 2027) | New Iberia, LA, United States | not stated<br><sub>direct ATS text · checked 2026-08-17</sub> | 2026-08-14 | [Oracle direct](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1) | [apply · fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025559)<br><sub>ATS checked</sub> |
