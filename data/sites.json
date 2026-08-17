@@ -3275,6 +3275,14 @@
     },
     {
       "boards": [],
+      "company": "K\u00f6rber Pharma",
+      "key": "80a8604ba0b121c3df1fd77d",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.koerber-pharma.com/"
+    },
+    {
+      "boards": [],
       "company": "WebMD",
       "key": "80df553731cd65aadd4fb3dc",
       "last_scanned": "2026-08-15",
@@ -3687,6 +3695,13 @@
       "url": "https://quantifind.com/"
     },
     {
+      "company": "TeamWorx Security",
+      "error": "public request failed for https://teamworxsecurity.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)>",
+      "key": "92faf7794b47f5e1f8aaae16",
+      "last_scanned": "2026-08-17",
+      "url": "https://teamworxsecurity.com/"
+    },
+    {
       "boards": [],
       "company": "Freeform",
       "key": "93048bdf93d08442c265f4e0",
@@ -3763,7 +3778,7 @@
       "company": "Analytical Mechanics Associates",
       "error": "Invalid IPv6 URL",
       "key": "9549f17aa90b167086c41726",
-      "last_scanned": "2026-08-16",
+      "last_scanned": "2026-08-17",
       "url": "https://www.ama-inc.com/"
     },
     {
@@ -4270,6 +4285,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.upenn.edu/"
+    },
+    {
+      "boards": [
+        "oracle:ibedqy.fa.ocs.oraclecloud.com:onegas-careers"
+      ],
+      "company": "ONE Gas",
+      "key": "aa0ef2b3deec4554e51ae3b3",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.onegas.com/"
     },
     {
       "boards": [],
@@ -5849,6 +5874,14 @@
     },
     {
       "boards": [],
+      "company": "Providence Engineering",
+      "key": "e7164c3419f62b16f4002d69",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://proveng.com/"
+    },
+    {
+      "boards": [],
       "company": "Yardi",
       "key": "e75de160003411315217bfbe",
       "last_scanned": "2026-08-15",
@@ -6013,6 +6046,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://soldejaneiro.com/"
+    },
+    {
+      "boards": [],
+      "company": "Escape\u2122 App AI",
+      "key": "ed74c87a21027ba8100b9756",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.escapeapp.ai/"
     },
     {
       "boards": [

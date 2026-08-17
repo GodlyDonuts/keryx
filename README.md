@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,898 internships · 3,457 new-grad roles · 5,355 total openings**
+**1,910 internships · 3,434 new-grad roles · 5,344 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 643 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 476 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 80 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 649 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 475 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 81 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 16 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 683 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 689 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 732 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 763 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,962 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 719 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 727 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,988 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -40,7 +40,8 @@ Recent internship and co-op listings that open the employer's application page d
 | ACDS | Align AI Software Development Intern | Bentonville, AR | Not listed | not stated | 2026-08-17 | **[Apply →](https://jobs.lever.co/acds/5a872bb7-8d9f-46e3-9e72-f5c69445e787)**<br><sub>jobs.lever.co</sub> |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC | Charlotte, NC, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | Datadog | Software Engineer Intern - Observability and Security Platform | Boston, MA, NYC | Winter 2027 | not available | 2026-08-17 | **[Apply →](https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095)**<br><sub>careers.datadoghq.com</sub> |
-| DiDi Global | Motion Planning Engineer (PhD, Intern) | San Jose, CA | Fall 2026 | not stated | 2026-08-17 | **[Apply →](https://job-boards.greenhouse.io/didi/jobs/8131863)**<br><sub>job-boards.greenhouse.io</sub> |
+| DiDi Global | Motion Planning Engineer Intern - PhD | San Jose, CA | Fall 2026 | not stated | 2026-08-17 | **[Apply →](https://job-boards.greenhouse.io/didi/jobs/8131863)**<br><sub>job-boards.greenhouse.io</sub> |
+| DV Trading | Trading Intern - Summer 2027 (DV Commodities) | New York | Summer 2027 | By Summer 2028<br><sub>stated</sub> | 2026-08-17 | **[Apply →](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005)**<br><sub>job-boards.greenhouse.io</sub> |
 | Ergo | Software Engineering Intern | San Francisco, CA, United States | Not listed | not available | 2026-08-17 | **[Apply →](https://www.ycombinator.com/companies/ergo/jobs/lJi1vsf-software-engineering-intern)**<br><sub>www.ycombinator.com</sub> |
 | First Solar | Data Scientist Intern (Fall 2026) | Perrysburg, OH, United States | Fall 2026 | not stated | 2026-08-17 | **[Apply →](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025547)**<br><sub>fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 | IMEG | Structural Engineering Intern / Dallas, TX | Dallas, TX | Not listed | not available | 2026-08-17 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Dallas-TX/Structural-Engineering-Intern---Dallas--TX_R-16424)**<br><sub>wd1.myworkdaysite.com</sub> |
@@ -48,7 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | IMEG | Structural Engineering Intern / Houston, TX | Houston, TX | Not listed | not available | 2026-08-17 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014)**<br><sub>wd1.myworkdaysite.com</sub> |
 | KeyBank | 2027 Summer Key Technology & Services: Cyber/Information Security Track Internship- Cleveland | Brooklyn, OH | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384)**<br><sub>keybank.wd5.myworkdayjobs.com</sub> |
 | Micron Technology | Intern - DRAM Design Engineer | Boise, ID - Main Site | Fall 2026 | not available | 2026-08-17 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
-| Micron Technology | Intern - Process Development Engineer, Thin Films | Boise, ID - Main Site | Not listed | not available | 2026-08-17 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Thin-Films_JR107323)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
