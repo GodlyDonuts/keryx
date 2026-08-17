@@ -527,6 +527,16 @@
       "url": "https://www.rbc.com/"
     },
     {
+      "boards": [
+        "workday:gevernova.wd5.myworkdayjobs.com:gevernova:vernova_externalsite"
+      ],
+      "company": "GE Vernova",
+      "key": "15f79d74fb8c2740978e87e8",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.gevernova.com/"
+    },
+    {
       "boards": [],
       "company": "Amca",
       "key": "1636d127f82a6e7b1290d260",
@@ -1808,6 +1818,13 @@
       "url": "https://www.coxautoinc.com/"
     },
     {
+      "company": "NeuroLeap Corp",
+      "error": "public hostname resolves to a non-public address",
+      "key": "529aedaf3c8dddded176c12f",
+      "last_scanned": "2026-08-17",
+      "url": "https://neuroleap.com/"
+    },
+    {
       "boards": [
         "workday:nxp.wd3.myworkdayjobs.com:nxp:careers"
       ],
@@ -3056,6 +3073,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://cccnevada.com/"
+    },
+    {
+      "boards": [],
+      "company": "HP",
+      "key": "8734898437bb423e7bd7701d",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.hp.com/"
     },
     {
       "boards": [
@@ -5770,6 +5795,14 @@
       "key": "fdd9fdefbf94bcc1eb6163ea",
       "last_scanned": "2026-08-17",
       "url": "https://www.corning.com/"
+    },
+    {
+      "boards": [],
+      "company": "Daktronics",
+      "key": "fe7f0cf91ff87ffc7ec26658",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.daktronics.com/en-us"
     },
     {
       "boards": [],
