@@ -1975,6 +1975,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Flexential",
+      "key": "greenhouse:flexentialcorp",
+      "slug": "flexentialcorp"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Flexport",
       "key": "greenhouse:flexport",
       "slug": "flexport"
@@ -9928,6 +9934,15 @@
       "host": "vanguard.wd5.myworkdayjobs.com",
       "key": "workday:vanguard.wd5.myworkdayjobs.com:vanguard:contractors_restricted",
       "site": "contractors_restricted",
+      "slug": "vanguard",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Vanguard",
+      "host": "vanguard.wd5.myworkdayjobs.com",
+      "key": "workday:vanguard.wd5.myworkdayjobs.com:vanguard:vanguard_external",
+      "site": "vanguard_external",
       "slug": "vanguard",
       "wd": "wd5"
     },

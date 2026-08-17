@@ -150,6 +150,14 @@
     },
     {
       "boards": [],
+      "company": "KPBS",
+      "key": "051eaf7bb8c9fa0bd343dc4c",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.kpbs.org/"
+    },
+    {
+      "boards": [],
       "company": "Monolithic Power Systems, Inc.",
       "key": "053a6cbdfd1e19805cd8a88e",
       "last_scanned": "2026-08-16",
@@ -1360,6 +1368,13 @@
       "url": "https://www.fortressinfosec.com/"
     },
     {
+      "company": "Medtronic",
+      "error": "public request failed for https://www.medtronic.com/: HTTP Error 403: Forbidden",
+      "key": "38b90af560aacdbc26260669",
+      "last_scanned": "2026-08-17",
+      "url": "https://www.medtronic.com/"
+    },
+    {
       "boards": [],
       "company": "WorldQuant",
       "key": "38bea01cc6d929f902b3f197",
@@ -2008,6 +2023,16 @@
       "key": "5186dd360709ce1923409885",
       "last_scanned": "2026-08-17",
       "url": "https://www.utilisave.com/"
+    },
+    {
+      "boards": [
+        "greenhouse:flexentialcorp"
+      ],
+      "company": "Flexential",
+      "key": "51a1465b2a774d4382ff0a2d",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.flexential.com/"
     },
     {
       "boards": [
@@ -2953,6 +2978,16 @@
       "url": "https://www.icf.com/"
     },
     {
+      "boards": [
+        "workday:maxar.wd1.myworkdayjobs.com:maxar:vantor"
+      ],
+      "company": "Vantor",
+      "key": "7300715006f85d30b1298cda",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://vantor.com/"
+    },
+    {
       "boards": [],
       "company": "Tessera Labs",
       "key": "7307acafec9be0dcb4d2f3de",
@@ -3342,6 +3377,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.honhai.com/zh-tw/"
+    },
+    {
+      "boards": [],
+      "company": "Novra Corp",
+      "key": "7d062f301fcbed7f667e0675",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://novracorp.com/"
     },
     {
       "boards": [],
@@ -3769,6 +3812,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.een.com/"
+    },
+    {
+      "boards": [],
+      "company": "LMI",
+      "key": "901d6b33078b9ce2c1878218",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.lmi.org/"
     },
     {
       "boards": [],
@@ -5579,6 +5630,13 @@
       "url": "https://www.marshallsterling.com/"
     },
     {
+      "company": "Sparkbit 360",
+      "error": "public request failed for https://sparkbit360.com/: <urlopen error timed out>",
+      "key": "d1f697bd151da28f0405b997",
+      "last_scanned": "2026-08-17",
+      "url": "https://sparkbit360.com/"
+    },
+    {
       "boards": [
         "workday:osv-rubicon.wd5.myworkdayjobs.com:osv-rubicon:magnitecareers"
       ],
@@ -5956,6 +6014,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.pcprofessional.com/"
+    },
+    {
+      "boards": [],
+      "company": "Beth's Beautiful Destinations",
+      "key": "e261bc9e7b88d5226b1def48",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.evotravelagent.com/bethsbeautifuldestinations"
     },
     {
       "boards": [
@@ -6352,6 +6418,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.ookla.com/"
+    },
+    {
+      "boards": [],
+      "company": "Urban Park Services",
+      "key": "f043f381e06f3dc2922abaf9",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://urbanparkservices.com/"
     },
     {
       "boards": [
