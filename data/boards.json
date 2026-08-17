@@ -6049,6 +6049,15 @@
     },
     {
       "ats": "workday",
+      "company": "CSI",
+      "host": "csiweb.wd1.myworkdayjobs.com",
+      "key": "workday:csiweb.wd1.myworkdayjobs.com:csiweb:csi_careers",
+      "site": "CSI_Careers",
+      "slug": "csiweb",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Cubic",
       "host": "cubic.wd1.myworkdayjobs.com",
       "key": "workday:cubic.wd1.myworkdayjobs.com:cubic:cubic_usa_careers",
