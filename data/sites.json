@@ -511,6 +511,14 @@
     },
     {
       "boards": [],
+      "company": "Emotos",
+      "key": "1384aa2fac857ac01b2fcb27",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://emotos.ai/"
+    },
+    {
+      "boards": [],
       "company": "Flip",
       "key": "13fe95a9f063db7ae0ed3539",
       "last_scanned": "2026-08-15",
@@ -592,6 +600,14 @@
       "key": "174d0c1e408eccac52ae498f",
       "last_scanned": "2026-08-17",
       "url": "https://www.isomicro.com/"
+    },
+    {
+      "boards": [],
+      "company": "GRVTY",
+      "key": "175727e17890c7d9655d1424",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.grvty.com/"
     },
     {
       "boards": [],
@@ -1040,6 +1056,14 @@
       "url": "https://saalt.com/"
     },
     {
+      "boards": [],
+      "company": "A2SECURE",
+      "key": "2f081c09fddcd3d3d203712d",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.a2secure.com/"
+    },
+    {
       "boards": [
         "workday:bristolmyerssquibb.wd5.myworkdayjobs.com:bristolmyerssquibb:bms"
       ],
@@ -1281,6 +1305,14 @@
     },
     {
       "boards": [],
+      "company": "Textron",
+      "key": "37fbb5765478ecdad9f4e7cd",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://textron.com/"
+    },
+    {
+      "boards": [],
       "company": "Zof AI",
       "key": "38276315df04f4cce2aea217",
       "last_scanned": "2026-08-15",
@@ -1350,11 +1382,27 @@
     },
     {
       "boards": [],
+      "company": "Guarantee Electrical Company",
+      "key": "3a4481c4fd11f1e8ab66d807",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://geco.com/"
+    },
+    {
+      "boards": [],
       "company": "Maverick Payments",
       "key": "3a7b2ca0d3fa047a280d30c9",
       "last_scanned": "2026-08-15",
       "resolved_roles": 1,
       "url": "https://www.MaverickPayments.com/"
+    },
+    {
+      "boards": [],
+      "company": "KPMG",
+      "key": "3ae99ab59ccd5ce87de91aa3",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://kpmg.com/"
     },
     {
       "boards": [],
@@ -1370,6 +1418,13 @@
       "key": "3bdd3eb53277825b1e794d32",
       "last_scanned": "2026-08-17",
       "url": "https://www.oracle.com/"
+    },
+    {
+      "company": "Toyota Research Institute",
+      "error": "public request failed for https://www.tri.global/: HTTP Error 403: Forbidden",
+      "key": "3c688eb13e76c33de2db4cc8",
+      "last_scanned": "2026-08-17",
+      "url": "https://www.tri.global/"
     },
     {
       "boards": [],
@@ -2188,6 +2243,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.useagave.com/"
+    },
+    {
+      "boards": [
+        "workday:baltimorecity.wd1.myworkdayjobs.com:baltimorecity:external"
+      ],
+      "company": "City of Baltimore",
+      "key": "5c1f354593265838d63e58e0",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.baltimorecity.gov/"
     },
     {
       "boards": [],
@@ -3766,6 +3831,14 @@
     },
     {
       "boards": [],
+      "company": "Virtu Financial",
+      "key": "9ab9d6e388e0e2504b2c37d4",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.virtu.com/"
+    },
+    {
+      "boards": [],
       "company": "Camping World",
       "key": "9ac54d2583ead48b336ef277",
       "last_scanned": "2026-08-15",
@@ -3987,6 +4060,14 @@
       "url": "https://www.pcconnection.com/"
     },
     {
+      "boards": [],
+      "company": "Peraton",
+      "key": "a39cb85ea53d3e892d69d546",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.peraton.com/"
+    },
+    {
       "boards": [
         "oracle:fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
         "oracle:fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com:cx_10",
@@ -4108,6 +4189,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.guidewellsource.com/"
+    },
+    {
+      "company": "Precision Medicine Group",
+      "error": "public request failed for https://www.precisionmedicinegrp.com/pfm/: HTTP Error 404: Not Found",
+      "key": "a80c647c373e679d70ea3e5f",
+      "last_scanned": "2026-08-17",
+      "url": "https://www.precisionmedicinegrp.com/pfm/"
     },
     {
       "company": "T-Mobile",
@@ -5659,6 +5747,14 @@
       "url": "https://vistracorp.com/"
     },
     {
+      "boards": [],
+      "company": "HDR",
+      "key": "e4d15a5d0bc04a1c4517f01d",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.hdrinc.com/"
+    },
+    {
       "boards": [
         "greenhouse:togetherai"
       ],
@@ -6128,6 +6224,13 @@
       "url": "https://cohere.com/"
     },
     {
+      "company": "WSP",
+      "error": "public request failed for https://www.wsp.com/: HTTP Error 403: Forbidden",
+      "key": "f87ce539e493ffa8dd66c10d",
+      "last_scanned": "2026-08-17",
+      "url": "https://www.wsp.com/"
+    },
+    {
       "boards": [
         "lever:webfx"
       ],
@@ -6222,6 +6325,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.audible.com/"
+    },
+    {
+      "boards": [],
+      "company": "The Whiting-Turner Contracting Company",
+      "key": "ff31334984f1ca8e7258b11f",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.whiting-turner.com/"
     },
     {
       "boards": [],

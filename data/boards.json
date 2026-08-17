@@ -5245,6 +5245,15 @@
     },
     {
       "ats": "workday",
+      "company": "City of Baltimore",
+      "host": "baltimorecity.wd1.myworkdayjobs.com",
+      "key": "workday:baltimorecity.wd1.myworkdayjobs.com:baltimorecity:external",
+      "site": "External",
+      "slug": "baltimorecity",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "First Financial Bank",
       "host": "bankatfirst.wd1.myworkdayjobs.com",
       "key": "workday:bankatfirst.wd1.myworkdayjobs.com:bankatfirst:ffb",
