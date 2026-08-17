@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,910 internships · 3,434 new-grad roles · 5,344 total openings**
+**1,923 internships · 3,438 new-grad roles · 5,361 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 649 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 475 | **[View openings →](internships/fall-2026.md)** |
+| ☀️ Summer 2027 | 656 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 476 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 81 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 16 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 689 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 694 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 719 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 727 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,988 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 733 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,986 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -48,7 +48,7 @@ Recent internship and co-op listings that open the employer's application page d
 | IMEG | Structural Engineering Intern / Fort Worth, TX | Fort Worth, TX | Not listed | not available | 2026-08-17 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Fort-Worth-TX/Structural-Engineering-Intern---Fort-Worth--TX_R-16423)**<br><sub>wd1.myworkdaysite.com</sub> |
 | IMEG | Structural Engineering Intern / Houston, TX | Houston, TX | Not listed | not available | 2026-08-17 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014)**<br><sub>wd1.myworkdaysite.com</sub> |
 | KeyBank | 2027 Summer Key Technology & Services: Cyber/Information Security Track Internship- Cleveland | Brooklyn, OH | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384)**<br><sub>keybank.wd5.myworkdayjobs.com</sub> |
-| Micron Technology | Intern - DRAM Design Engineer | Boise, ID - Main Site | Fall 2026 | not available | 2026-08-17 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
+| KeyBank | 2027 Summer Key Technology & Services: Data Track Internship- Cleveland | Brooklyn, OH | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385)**<br><sub>keybank.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links

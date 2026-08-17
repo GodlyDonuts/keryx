@@ -1460,6 +1460,14 @@
     },
     {
       "boards": [],
+      "company": "Artisan Partners",
+      "key": "3d0ce2e7f476577967895de4",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.apam.com/"
+    },
+    {
+      "boards": [],
       "company": "Vertafore",
       "key": "3dffc49a64e43151d38e211b",
       "last_scanned": "2026-08-15",
@@ -1631,6 +1639,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.cognizant.com/"
+    },
+    {
+      "boards": [],
+      "company": "ITW",
+      "key": "4592c19446a6ee3cc29175ea",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.itw.com/"
     },
     {
       "boards": [],
@@ -3688,6 +3704,14 @@
     },
     {
       "boards": [],
+      "company": "Clarity Partners",
+      "key": "917d04f0bdd7521502bbe6aa",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://claritypartners.com/"
+    },
+    {
+      "boards": [],
       "company": "Quantifind",
       "key": "926ade58bbc0348e68467844",
       "last_scanned": "2026-08-15",
@@ -3886,6 +3910,14 @@
       "url": "https://investor.campingworld.com/"
     },
     {
+      "boards": [],
+      "company": "Dallas County",
+      "key": "9b1ed14b8414b53aa210c005",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.dallascounty.org/"
+    },
+    {
       "company": "Ciena",
       "error": "public request failed for https://www.ciena.com/: HTTP Error 403: Forbidden",
       "key": "9b6fd47fc36cc7b41207ace7",
@@ -3924,12 +3956,27 @@
       "url": "https://panerabread.com/"
     },
     {
+      "company": "Miller Electric Mfg. LLC",
+      "error": "public request failed for https://www.millerwelds.com/: HTTP Error 429: Too Many Requests",
+      "key": "9ddedb7f1c5bfc07e0de5ecf",
+      "last_scanned": "2026-08-17",
+      "url": "https://www.millerwelds.com/"
+    },
+    {
       "boards": [],
       "company": "Apple",
       "key": "9e49cf4943550ed15085ca1e",
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.apple.com/"
+    },
+    {
+      "boards": [],
+      "company": "Tower Research Capital",
+      "key": "9e56078ec06ebc0550fd3539",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://tower-research.com/ventures/"
     },
     {
       "boards": [],
@@ -4589,6 +4636,14 @@
     },
     {
       "boards": [],
+      "company": "Hudson Institute",
+      "key": "b52b85cacb4ab2f5aba96925",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.hudson.org/"
+    },
+    {
+      "boards": [],
       "company": "Georgia Power Company",
       "key": "b532059301e4ab03d5c11a34",
       "last_scanned": "2026-08-15",
@@ -5154,6 +5209,13 @@
       "url": "https://www.presidio.com/"
     },
     {
+      "company": "Jackson EMC",
+      "error": "public request failed for https://www.jacksonemc.com/: HTTP Error 403: Forbidden",
+      "key": "ca43bc324d468f08688014e8",
+      "last_scanned": "2026-08-17",
+      "url": "https://www.jacksonemc.com/"
+    },
+    {
       "boards": [],
       "company": "Intelliswift - An LTTS Company",
       "key": "ca4400cf0f5c0190bb0cca5f",
@@ -5243,6 +5305,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://lynker.com/"
+    },
+    {
+      "boards": [
+        "workday:mtb.wd5.myworkdayjobs.com:mtb:mtb"
+      ],
+      "company": "M&T Bank",
+      "key": "cdaada90c3f9109705139f20",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www3.mtb.com/"
     },
     {
       "boards": [],
@@ -5492,6 +5564,14 @@
     },
     {
       "boards": [],
+      "company": "Merakey",
+      "key": "d7ed64d4b87366815c5e6222",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.merakey.org/"
+    },
+    {
+      "boards": [],
       "company": "BTI360",
       "key": "d8699d6ccb13be066bb63316",
       "last_scanned": "2026-08-15",
@@ -5656,6 +5736,14 @@
       "key": "de3fe8bccc13a70de9ed8d31",
       "last_scanned": "2026-08-17",
       "url": "https://www.nyu.edu/"
+    },
+    {
+      "boards": [],
+      "company": "Jacobs",
+      "key": "de695d04728cef40ea172975",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.jacobs.com/"
     },
     {
       "boards": [],
@@ -6384,6 +6472,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.washcoll.edu/"
+    },
+    {
+      "company": "AcademyHealth",
+      "error": "public request failed for https://www.academyhealth.org/: HTTP Error 403: Forbidden",
+      "key": "fdc155b44b912304cd582ddd",
+      "last_scanned": "2026-08-17",
+      "url": "https://www.academyhealth.org/"
     },
     {
       "company": "Corning Incorporated",
