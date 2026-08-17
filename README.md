@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,937 internships · 3,466 new-grad roles · 5,403 total openings**
+**1,958 internships · 3,458 new-grad roles · 5,416 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 655 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 661 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 472 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 85 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 18 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 707 | **[View openings →](internships/unscheduled.md)** |
+| 🌱 Spring 2027 | 87 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 19 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 719 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 724 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 777 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,965 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 716 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 761 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,981 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -44,11 +44,11 @@ Recent internship and co-op listings that open the employer's application page d
 | DV Trading | Trading Intern - Summer 2027 (DV Commodities) | New York | Summer 2027 | By Summer 2028<br><sub>stated</sub> | 2026-08-17 | **[Apply →](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005)**<br><sub>job-boards.greenhouse.io</sub> |
 | Ergo | Software Engineering Intern | San Francisco, CA, United States | Not listed | not available | 2026-08-17 | **[Apply →](https://www.ycombinator.com/companies/ergo/jobs/lJi1vsf-software-engineering-intern)**<br><sub>www.ycombinator.com</sub> |
 | First Solar | Data Scientist Intern (Fall 2026) | Perrysburg, OH, United States | Fall 2026 | not stated | 2026-08-17 | **[Apply →](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1025547)**<br><sub>fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
-| IMEG | Structural Engineering Intern / Dallas, TX | Dallas, TX | Not listed | not available | 2026-08-17 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Dallas-TX/Structural-Engineering-Intern---Dallas--TX_R-16424)**<br><sub>wd1.myworkdaysite.com</sub> |
-| IMEG | Structural Engineering Intern / Fort Worth, TX | Fort Worth, TX | Not listed | not available | 2026-08-17 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Fort-Worth-TX/Structural-Engineering-Intern---Fort-Worth--TX_R-16423)**<br><sub>wd1.myworkdaysite.com</sub> |
-| IMEG | Structural Engineering Intern / Houston, TX | Houston, TX | Not listed | not available | 2026-08-17 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014)**<br><sub>wd1.myworkdaysite.com</sub> |
 | Intel | Software Development Graduate Intern | US, California, Folsom | Not listed | not available | 2026-08-17 | **[Apply →](https://intel.wd1.myworkdayjobs.com/external/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1)**<br><sub>intel.wd1.myworkdayjobs.com</sub> |
 | KeyBank | 2027 Summer Key Technology & Services: Cyber/Information Security Track Internship- Cleveland | Brooklyn, OH | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384)**<br><sub>keybank.wd5.myworkdayjobs.com</sub> |
+| Micron Technology | DRAM Design Engineer Intern | Boise, ID | Fall 2026 | not available | 2026-08-17 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
+| Micron Technology | Intern - Process Development Engineer, Thin Films | Boise, ID - Main Site | Not listed | not available | 2026-08-17 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Thin-Films_JR107323)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
+| ONE Gas | Summer 2027 Engineering Intern (Austin) | Austin, TX, United States | Summer 2027 | Dec 2027–May 2028<br><sub>stated</sub> | 2026-08-17 | **[Apply →](https://ibedqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ONEGas-Careers/job/10077)**<br><sub>ibedqy.fa.ocs.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -68,8 +68,8 @@ Recent full-time opportunities that open the employer's application page directl
 | L3Harris Technologies | Associate Software Engineer | Herndon, VA | Not listed | not available | 2026-08-17 | **[Apply →](https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-%28Herndon,-VA%29-VA-20171/1419939200/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | Leidos | Cartographic Analyst Junior | Springfield, VA | Not listed | not available | 2026-08-17 | **[Apply →](https://leidos.wd5.myworkdayjobs.com/External/job/Springfield-VA/Cartographic-Analyst-Junior_R-00189665)**<br><sub>leidos.wd5.myworkdayjobs.com</sub> |
 | Mass General Brigham | Data Analyst 1 | Boston, MA | Not listed | not available | 2026-08-17 | **[Apply →](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Data-Analyst-I_RQ4076086)**<br><sub>massgeneralbrigham.wd1.myworkdayjobs.com</sub> |
-| Notion | Software Engineer - New Grad - Dec 2026 | San Francisco, CA | 2026 | Dec 2026–Feb 2027<br><sub>required / stated</sub> | 2026-08-17 | **[Apply →](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816)**<br><sub>jobs.ashbyhq.com</sub> |
 | NVIDIA | Verification Engineer | Austin, TX, Santa Clara, CA, Westford, MA | Not listed | not available | 2026-08-17 | **[Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Verification-Engineer---New-College-Grad-2026_JR2021016)**<br><sub>nvidia.wd5.myworkdayjobs.com</sub> |
+| TikTok | Data Scientist Graduate - E-Commerce Governance | Seattle, WA | Not listed | not available | 2026-08-17 | **[Apply →](https://lifeattiktok.com/search/7674027218993154357)**<br><sub>lifeattiktok.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
