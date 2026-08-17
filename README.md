@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,898 internships · 3,470 new-grad roles · 5,368 total openings**
+**1,911 internships · 3,462 new-grad roles · 5,373 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 651 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 475 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 82 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 653 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 474 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 83 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 15 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 675 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 686 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 732 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 768 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,970 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 725 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 755 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,982 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,8 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| PIMCO | 2027 Summer Intern - Product Strategy Analyst, US | Newport Beach, CA USA | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626)**<br><sub>pimco.wd1.myworkdayjobs.com</sub> |
+| Praytell | Analytics & Reporting Intern | Chicago, United States (Hybrid) | Not listed | not available | 2026-08-17 | **[Apply →](https://apply.workable.com/praytell/j/64893520AF/)**<br><sub>apply.workable.com</sub> |
 | AE2S (Advanced Engineering and Environmental Services, LLC) | Structural Engineering Internship - Summer 2026 | Rapid City, SD, United States | Not listed | not available | 2026-08-16 | **[Apply →](https://ae2scareers.hua.hrsmart.com/hr/ats/Posting/view/1617)**<br><sub>ae2scareers.hua.hrsmart.com</sub> |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC | Charlotte, NC, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-16 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY | New York, NY, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-16 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
@@ -47,8 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | Micron Technology | Intern - Process Development Engineer, Thin Films | Boise, ID - Main Site | Not listed | not available | 2026-08-16 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Thin-Films_JR107323)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
 | Micron Technology | Intern - Wet Etch Process Development Engineer | Boise, ID - Main Site | Not listed | not available | 2026-08-16 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Wet-Etch-Process-Development-Engineer_JR108050)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
 | Micron Technology | Intern – Process Development Engineer, 3D DRAM Wet Etch | Boise, ID - Main Site | Not listed | not available | 2026-08-16 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Wet-Etch_JR106729)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
-| Notion | Software Engineer Intern - Winter 2027 | San Francisco, CA +1 | Winter 2027 | By Dec 2027<br><sub>required / stated</sub> | 2026-08-16 | **[Apply →](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8)**<br><sub>jobs.ashbyhq.com</sub> |
-| Praytell | Analytics & Reporting Intern | Chicago, United States (Hybrid) | Not listed | not available | 2026-08-16 | **[Apply →](https://apply.workable.com/praytell/j/64893520AF/)**<br><sub>apply.workable.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
