@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,893 internships · 3,489 new-grad roles · 5,382 total openings**
+**1,896 internships · 3,481 new-grad roles · 5,377 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 647 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 477 | **[View openings →](internships/fall-2026.md)** |
+| ☀️ Summer 2027 | 648 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 478 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 83 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 15 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 671 | **[View openings →](internships/unscheduled.md)** |
+| ❄️ Winter 2027 | 14 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 673 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 731 | **[View openings →](new-grad/2027.md)** |
+| 2027 | 732 | **[View openings →](new-grad/2027.md)** |
 | 2026 | 773 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,985 | **[View openings →](new-grad/unscheduled.md)** |
+| Year not listed | 1,976 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -45,10 +45,10 @@ Recent internship and co-op listings that open the employer's application page d
 | LotusWorks | Engineering Internship - Quality and Commissioning | New Albany, OH, United States | Not listed | not available | 2026-08-16 | **[Apply →](https://careers.lotusworks.com/job/opportunity%20/engineering-internship-quality-and-commissioning/?gh_jid=4915077101)**<br><sub>careers.lotusworks.com</sub> |
 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Dry Etch | Boise, ID - Main Site | Not listed | not available | 2026-08-16 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
 | Micron Technology | Intern – Process Development Engineer, 3D DRAM Wet Etch | Boise, ID - Main Site | Not listed | not available | 2026-08-16 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Wet-Etch_JR106729)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
+| Notion | Software Engineer Intern - Winter 2027 | San Francisco, CA +1 | Winter 2027 | By Dec 2027<br><sub>required / stated</sub> | 2026-08-16 | **[Apply →](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8)**<br><sub>jobs.ashbyhq.com</sub> |
 | Sandia National Laboratories | Intern, Technical High School Year-Round - Radar ISR Systems, Onsite | Albuquerque, NM, United States | Not listed | not available | 2026-08-16 | **[Apply →](https://cg.sandia.gov/psp/applicant/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?FOCUS=Applicant&Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteID=1&JobOpeningId=698656&PostingSeq=1)**<br><sub>cg.sandia.gov</sub> |
 | The Campbell's Company | Data Engineer – Agentic AI & ML Ops (Co-op) | USA - NJ - Camden | Not listed | not available | 2026-08-16 | **[Apply →](https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer---Agentic-AI---ML-Ops--Co-op-_Req-65843)**<br><sub>campbellsoup.wd5.myworkdayjobs.com</sub> |
 | ByteDance | Software Engineer Intern - Global Payment Infra and SRE | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7668315137242351925/detail)**<br><sub>jobs.bytedance.com</sub> |
-| ByteDance | Software Engineer Intern - Global Traffic Architecture | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7672557061679483189/detail)**<br><sub>jobs.bytedance.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
