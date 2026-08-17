@@ -1667,6 +1667,14 @@
     },
     {
       "boards": [],
+      "company": "PPL Corporation",
+      "key": "4bfa170da1cab48bfa46e738",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.pplweb.com/"
+    },
+    {
+      "boards": [],
       "company": "Coherent Corp.",
       "key": "4c1ff8aa3d1e10ef7a454f4e",
       "last_scanned": "2026-08-15",
@@ -3207,6 +3215,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://vectoratomic.com/"
+    },
+    {
+      "company": "Pieper Automation",
+      "error": "public request failed for https://pieperautomation.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "key": "89a995193f2d157a3787655f",
+      "last_scanned": "2026-08-17",
+      "url": "https://pieperautomation.com/"
     },
     {
       "boards": [
