@@ -9,24 +9,24 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,885 internships · 3,502 new-grad roles · 5,387 total openings**
+**1,883 internships · 3,501 new-grad roles · 5,384 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 638 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 635 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 480 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 82 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 16 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 669 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 670 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 737 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 788 | **[View openings →](new-grad/2026.md)** |
+| 2026 | 787 | **[View openings →](new-grad/2026.md)** |
 | Year not listed | 1,977 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
@@ -42,13 +42,13 @@ Recent internship and co-op listings that open the employer's application page d
 | Micron Technology | Intern - Process Development Engineer, 3D DRAM Dry Etch | Boise, ID - Main Site | Not listed | not available | 2026-08-16 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Dry-Etch_JR107330)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
 | Micron Technology | Intern – Process Development Engineer, 3D DRAM Wet Etch | Boise, ID - Main Site | Not listed | not available | 2026-08-16 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Wet-Etch_JR106729)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
 | Notion | Software Engineer Intern - Winter 2027 | San Francisco, CA +1 | Winter 2027 | By Dec 2027<br><sub>required / stated</sub> | 2026-08-16 | **[Apply →](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8)**<br><sub>jobs.ashbyhq.com</sub> |
+| Sandia National Laboratories | Intern, Technical High School Year-Round - Radar ISR Systems, Onsite | Albuquerque, NM, United States | Not listed | not available | 2026-08-16 | **[Apply →](https://cg.sandia.gov/psp/applicant/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?FOCUS=Applicant&Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteID=1&JobOpeningId=698656&PostingSeq=1)**<br><sub>cg.sandia.gov</sub> |
 | The Campbell's Company | Data Engineer – Agentic AI & ML Ops (Co-op) | USA - NJ - Camden | Not listed | not available | 2026-08-16 | **[Apply →](https://campbellsoup.wd5.myworkdayjobs.com/ExternalCareers_GlobalSite/job/USA---NJ---Camden/Data-Engineer---Agentic-AI---ML-Ops--Co-op-_Req-65843)**<br><sub>campbellsoup.wd5.myworkdayjobs.com</sub> |
 | ByteDance | Software Engineer Intern - Global Payment Infra and SRE | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7668315137242351925/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Software Engineer Intern - Global Traffic Architecture | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7672557061679483189/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Software Engineer Intern - Traffic Infrastructure | San Jose, CA | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://jobs.bytedance.com/en/position/7672626707586746629/detail)**<br><sub>jobs.bytedance.com</sub> |
 | Epia Neuro | Hardware Engineer Intern | Alameda, CA | Fall 2026 | not available | 2026-08-15 | **[Apply →](https://jobs.ashbyhq.com/epianeuro/62d296e8-16c4-4403-8af5-629e97f7f7fe/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Goldman Sachs | Summer Analyst Intern - FICC and Equities - Sales and Trading | West Palm Beach, FL | Summer 2027 | not available | 2026-08-15 | **[Apply →](https://higher.gs.com/roles/181628?type=students)**<br><sub>higher.gs.com</sub> |
-| Onto Innovation | Mechanical Systems Engineer Intern | Bloomington-MN | Not listed | not available | 2026-08-15 | **[Apply →](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Bloomington-MN/Mechanical-Systems-Engineer-Intern_R-5723)**<br><sub>onto.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
