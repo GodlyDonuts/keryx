@@ -429,6 +429,14 @@
     },
     {
       "boards": [],
+      "company": "Destiny Healthcare Services",
+      "key": "118e4dea3f33d854b1c0e57d",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://destinyhealthcareservices.com/"
+    },
+    {
+      "boards": [],
       "company": "AArete",
       "key": "1215dc51a1ec9c1503e36509",
       "last_scanned": "2026-08-15",
@@ -1475,6 +1483,14 @@
     },
     {
       "boards": [],
+      "company": "Hallford Travels",
+      "key": "42c5cc134ec7292f186ea913",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.hallfordtravels.com/"
+    },
+    {
+      "boards": [],
       "company": "University of Kentucky",
       "key": "43389f9bd0896791a4cb7098",
       "last_scanned": "2026-08-15",
@@ -1976,6 +1992,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.metlife.com/"
+    },
+    {
+      "boards": [],
+      "company": "Magical Destinations Travel by Amy",
+      "key": "55be78bac02ac5e3ce9f8638",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://magicaldestinationstravel.org/"
     },
     {
       "boards": [],
@@ -2535,6 +2559,17 @@
       "key": "6e1dbefdee0f362023608d2e",
       "last_scanned": "2026-08-17",
       "url": "https://www.dvtrading.co/"
+    },
+    {
+      "boards": [
+        "greenhouse:ai_opt_out_request",
+        "greenhouse:systemstechnologyresearch"
+      ],
+      "company": "STR",
+      "key": "6ebac429f171135740f67921",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.str.us/"
     },
     {
       "boards": [],
@@ -3193,6 +3228,21 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://www.hp.com/"
+    },
+    {
+      "boards": [],
+      "company": "Hyundai America Technical Center, Inc. (HATCI)",
+      "key": "879596179b2fd2630dbdfad1",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.hatci.com/"
+    },
+    {
+      "company": "Travoom",
+      "error": "public request failed for https://travoom.com/: <urlopen error [Errno 111] Connection refused>",
+      "key": "87c876f4f6460fab564c5a62",
+      "last_scanned": "2026-08-17",
+      "url": "https://travoom.com/"
     },
     {
       "boards": [
@@ -4168,6 +4218,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.thedenovo.com/"
+    },
+    {
+      "boards": [],
+      "company": "Magical Destinations Travel",
+      "key": "b178a249ae91838edfc9f84d",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.magicaldestinations.net/"
     },
     {
       "boards": [],
@@ -5414,6 +5472,16 @@
       "url": "https://www.pcprofessional.com/"
     },
     {
+      "boards": [
+        "workday:magnitudesoftware.wd1.myworkdayjobs.com:magnitudesoftware:external"
+      ],
+      "company": "insightsoftware",
+      "key": "e2902091e4b560dfe0972fef",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 1,
+      "url": "https://www.insightsoftware.com/"
+    },
+    {
       "boards": [],
       "company": "University of Nebraska-Lincoln",
       "key": "e2969ff6aa8d17c309c24f34",
@@ -5441,6 +5509,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://sbgi.net/"
+    },
+    {
+      "company": "FF Inc",
+      "error": "Invalid IPv6 URL",
+      "key": "e3db2d65b3fcfe8220ad1c0b",
+      "last_scanned": "2026-08-17",
+      "url": "https://www.ffincorporated.com/"
     },
     {
       "boards": [],

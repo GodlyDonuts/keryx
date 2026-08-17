@@ -1477,6 +1477,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "STR",
+      "key": "greenhouse:ai_opt_out_request",
+      "slug": "ai_opt_out_request"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Airtable",
       "key": "greenhouse:airtable",
       "slug": "airtable"
@@ -7642,6 +7648,15 @@
       "site": "Magna",
       "slug": "magna",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "insightsoftware",
+      "host": "magnitudesoftware.wd1.myworkdayjobs.com",
+      "key": "workday:magnitudesoftware.wd1.myworkdayjobs.com:magnitudesoftware:external",
+      "site": "External",
+      "slug": "magnitudesoftware",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
