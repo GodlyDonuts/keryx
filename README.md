@@ -9,7 +9,7 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,895 internships · 3,471 new-grad roles · 5,366 total openings**
+**1,897 internships · 3,471 new-grad roles · 5,368 total openings**
 
 ### 🎓 Internships
 
@@ -19,15 +19,15 @@
 | 🍂 Fall 2026 | 475 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 83 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 15 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 674 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 676 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 728 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 765 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,978 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 763 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 1,980 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -48,7 +48,7 @@ Recent internship and co-op listings that open the employer's application page d
 | Micron Technology | Intern - Wet Etch Process Development Engineer | Boise, ID - Main Site | Not listed | not available | 2026-08-16 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Wet-Etch-Process-Development-Engineer_JR108050)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
 | Micron Technology | Intern – Process Development Engineer, 3D DRAM Wet Etch | Boise, ID - Main Site | Not listed | not available | 2026-08-16 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Wet-Etch_JR106729)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
 | Notion | Software Engineer Intern - Winter 2027 | San Francisco, CA +1 | Winter 2027 | By Dec 2027<br><sub>required / stated</sub> | 2026-08-16 | **[Apply →](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8)**<br><sub>jobs.ashbyhq.com</sub> |
-| Sandia National Laboratories | Intern, Technical High School Year-Round - Radar ISR Systems, Onsite | Albuquerque, NM, United States | Not listed | not available | 2026-08-16 | **[Apply →](https://cg.sandia.gov/psp/applicant/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?FOCUS=Applicant&Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteID=1&JobOpeningId=698656&PostingSeq=1)**<br><sub>cg.sandia.gov</sub> |
+| Praytell | Analytics & Reporting Intern | Chicago, United States (Hybrid) | Not listed | not available | 2026-08-16 | **[Apply →](https://apply.workable.com/praytell/j/64893520AF/)**<br><sub>apply.workable.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
