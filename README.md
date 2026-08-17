@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,920 internships · 3,437 new-grad roles · 5,357 total openings**
+**1,944 internships · 3,429 new-grad roles · 5,373 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 653 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 474 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 81 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 658 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 472 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 86 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 17 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 695 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 711 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 724 | **[View openings →](new-grad/2027.md)** |
+| 2027 | 713 | **[View openings →](new-grad/2027.md)** |
 | 2026 | 736 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 1,977 | **[View openings →](new-grad/unscheduled.md)** |
+| Year not listed | 1,980 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -48,7 +48,7 @@ Recent internship and co-op listings that open the employer's application page d
 | IMEG | Structural Engineering Intern / Fort Worth, TX | Fort Worth, TX | Not listed | not available | 2026-08-17 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Fort-Worth-TX/Structural-Engineering-Intern---Fort-Worth--TX_R-16423)**<br><sub>wd1.myworkdaysite.com</sub> |
 | IMEG | Structural Engineering Intern / Houston, TX | Houston, TX | Not listed | not available | 2026-08-17 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014)**<br><sub>wd1.myworkdaysite.com</sub> |
 | KeyBank | 2027 Summer Key Technology & Services: Cyber/Information Security Track Internship- Cleveland | Brooklyn, OH | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384)**<br><sub>keybank.wd5.myworkdayjobs.com</sub> |
-| KeyBank | 2027 Summer Key Technology & Services: Data Track Internship- Cleveland | Brooklyn, OH | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385)**<br><sub>keybank.wd5.myworkdayjobs.com</sub> |
+| Micron Technology | Intern - DRAM Design Engineer | Boise, ID - Main Site | Fall 2026 | not available | 2026-08-17 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -63,13 +63,13 @@ Recent full-time opportunities that open the employer's application page directl
 | County of Kauai | Geographic Information Systems Analyst 1 - GIS | Hawaii | Not listed | not available | 2026-08-17 | **[Apply →](https://kauai.wd1.myworkdayjobs.com/Kauai_External_Career_Site/job/Department-of-Finance-Real-Property-Assessments/Geographic-Information-Systems--GIS--Analyst-I_R-8117-1)**<br><sub>kauai.wd1.myworkdayjobs.com</sub> |
 | CSI | Product Manager - Business Banking & Treasury Management | Paducah, KY, Remote in USA | Not listed | not available | 2026-08-17 | **[Apply →](https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Paducah-KY-Corporate/Product-Manager---Business-Banking---Treasury-Management_R-100612)**<br><sub>csiweb.wd1.myworkdayjobs.com</sub> |
 | General Dynamics Information Technology | Data Quality Monitoring Engineer | Offutt AFB, NE | Not listed | not available | 2026-08-17 | **[Apply →](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NE-Offutt-AFB/Data-Quality-Monitoring-Engineer_RQ226071-2)**<br><sub>gdit.wd5.myworkdayjobs.com</sub> |
+| General Dynamics Mission Systems | ASIC FPGA Engineer | Pittsfield, MA | Not listed | not available | 2026-08-17 | **[Apply →](https://careers-gdms.icims.com/jobs/74353/job?mobile=true&needsRedirect=false)**<br><sub>careers-gdms.icims.com</sub> |
 | insightsoftware | Product Owner, Batch Processing - Equity | United States | 2026 | not available | 2026-08-17 | **[Apply →](https://magnitudesoftware.wd1.myworkdayjobs.com/en-US/External/job/USA---Remote/Product-Owner--Batch-Processing---Equity_REQ000629)**<br><sub>magnitudesoftware.wd1.myworkdayjobs.com</sub> |
 | L3Harris Technologies | Associate Software Engineer | Herndon, VA | Not listed | not available | 2026-08-17 | **[Apply →](https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-%28Herndon,-VA%29-VA-20171/1419939200/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | Leidos | Cartographic Analyst Junior | Springfield, VA | Not listed | not available | 2026-08-17 | **[Apply →](https://leidos.wd5.myworkdayjobs.com/External/job/Springfield-VA/Cartographic-Analyst-Junior_R-00189665)**<br><sub>leidos.wd5.myworkdayjobs.com</sub> |
 | Mass General Brigham | Data Analyst 1 | Boston, MA | Not listed | not available | 2026-08-17 | **[Apply →](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Data-Analyst-I_RQ4076086)**<br><sub>massgeneralbrigham.wd1.myworkdayjobs.com</sub> |
 | NVIDIA | Verification Engineer | Austin, TX, Santa Clara, CA, Westford, MA | Not listed | not available | 2026-08-17 | **[Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Verification-Engineer---New-College-Grad-2026_JR2021016)**<br><sub>nvidia.wd5.myworkdayjobs.com</sub> |
 | TikTok | Data Scientist Graduate - E-Commerce Governance | Seattle, WA | Not listed | not available | 2026-08-17 | **[Apply →](https://lifeattiktok.com/search/7674027218993154357)**<br><sub>lifeattiktok.com</sub> |
-| TikTok | Machine Learning Engineer Graduate - E-Commerce Governance | San Jose, CA | Not listed | not available | 2026-08-17 | **[Apply →](https://lifeattiktok.com/search/7674023327725373701)**<br><sub>lifeattiktok.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
