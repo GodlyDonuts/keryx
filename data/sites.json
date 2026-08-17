@@ -1628,6 +1628,14 @@
     },
     {
       "boards": [],
+      "company": "Plymouth Rock Assurance",
+      "key": "4add85b3fa88487b36017948",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.plymouthrock.com/"
+    },
+    {
+      "boards": [],
       "company": "Lockton",
       "key": "4b437766b2f4672f2344cfe8",
       "last_scanned": "2026-08-15",
@@ -2145,6 +2153,16 @@
       "url": "https://www.pjtpartners.com/"
     },
     {
+      "boards": [
+        "workday:allstate.wd5.myworkdayjobs.com:allstate:allstate_careers"
+      ],
+      "company": "Allstate",
+      "key": "5efdee720e50d2bcbd7197be",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.allstate.com/"
+    },
+    {
       "company": "LPL Financial",
       "error": "public request failed for https://www.lpl.com/: HTTP Error 403: Forbidden",
       "key": "5f35392ead95a3c5fc83dcac",
@@ -2292,6 +2310,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.floridablue.com/"
+    },
+    {
+      "boards": [],
+      "company": "Ventura TRAVEL",
+      "key": "669cfe30f8dd58ce2d9a3de2",
+      "last_scanned": "2026-08-17",
+      "resolved_roles": 0,
+      "url": "https://www.venturatravel.org/"
     },
     {
       "boards": [],
