@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,148 internships · 3,635 new-grad roles · 5,783 total openings**
+**2,118 internships · 3,646 new-grad roles · 5,764 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 731 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 502 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 86 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 25 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 804 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 732 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 500 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 85 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 26 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 775 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 735 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 794 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,106 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 736 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 795 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,115 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -47,8 +47,8 @@ Recent internship and co-op listings that open the employer's application page d
 | Avery Dennison | RFID Applications Engineering Co-op - Summer 2027 (plus one semester) | Miamisburg, OH, us | Summer 2027 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/AveryDennison/744000144153141)**<br><sub>jobs.smartrecruiters.com</sub> |
 | By Light Professional IT Services | AI Intern | Orlando, FL | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs-bylight.icims.com/jobs/11206/job?mobile=true&needsRedirect=false)**<br><sub>jobs-bylight.icims.com</sub> |
 | By Light Professional IT Services | Software Design Engineer Intern | Orlando, FL | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs-bylight.icims.com/jobs/11204/job?mobile=true&needsRedirect=false)**<br><sub>jobs-bylight.icims.com</sub> |
+| Clinical Ink | Data Management Intern | Horsham, PA | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/ClinicalInk/89163444)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Cole Engineering Services | AI Intern | Orlando, FL | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs-cesi.icims.com/jobs/11206/job?mobile=true&needsRedirect=false)**<br><sub>jobs-cesi.icims.com</sub> |
-| Cole Engineering Services | Software Engineer Intern | Orlando, FL | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs-cesi.icims.com/jobs/11204/job?mobile=true&needsRedirect=false)**<br><sub>jobs-cesi.icims.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -64,12 +64,12 @@ Recent full-time opportunities that open the employer's application page directl
 | Amazon | Software Development Engineer - Amazon Security | San Luis Obispo, CA | 2027 | not available | 2026-08-18 | **[Apply →](https://www.amazon.jobs/jobs/10494902/apply)**<br><sub>www.amazon.jobs</sub> |
 | AMD | Field Application Engineer Graduate Rotational Program | San Jose, CA | Not listed | not available | 2026-08-18 | **[Apply →](https://careers.amd.com/jobs/89552?icims=1)**<br><sub>careers.amd.com</sub> |
 | Analytic Partners | Marketing Science Analyst | Charlottesville, VA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.lever.co/analyticpartners/2b2d2044-6df5-4b36-b860-2a40e45d1dcf/apply)**<br><sub>jobs.lever.co</sub> |
+| Applied Intuition | Hardware Integration Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.ashbyhq.com/applied/4c3cd892-2ef0-40b6-877a-39540a224a5c/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Materials | Software Support Engineer 1 - Global | Austin, TX | Not listed | not available | 2026-08-18 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Global-Software-Support-Engineer-I_R2625245)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
 | Applied Systems | Associate Software Engineer / Software Engineer | Chicago, IL +2 | 2027 | not available | 2026-08-18 | **[Apply →](https://careers-appliedsystems.icims.com/jobs/7318/associate-software-engineer---software-engineer/job)**<br><sub>careers-appliedsystems.icims.com</sub> |
 | Archer | Senior Software Engineer - Backend | San Jose, CA | Not listed | not available | 2026-08-18 | **[Apply →](https://job-boards.greenhouse.io/archer56/jobs/7499031003)**<br><sub>job-boards.greenhouse.io</sub> |
-| ByteDance | Research Scientist - DPU & AI Infrastructure | Seattle, WA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.bytedance.com/en/position/7673946040656267573/detail)**<br><sub>jobs.bytedance.com</sub> |
-| ByteDance | Research Scientist Graduate - DPU & AI Infra - PhD | San Jose, CA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.bytedance.com/en/position/7673941558289205509/detail)**<br><sub>jobs.bytedance.com</sub> |
-| CACI | Entry Level Software Engineer | Annapolis Junction, MD | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Astrion | Junior Software Developer - Datalinks Test Flight | Eglin AFB, FL | Not listed | not available | 2026-08-18 | **[Apply →](https://careers.astrion.us/jobs/24705?icims=1)**<br><sub>careers.astrion.us</sub> |
+| Boston Scientific | Software Development Engineer 2 - Engineering | Maple Grove, MN | Not listed | not available | 2026-08-18 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813422191)**<br><sub>bostonscientific.eightfold.ai</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
