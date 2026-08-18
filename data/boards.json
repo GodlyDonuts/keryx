@@ -3670,6 +3670,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Sherwin-Williams",
+      "host": "ejhp.fa.us6.oraclecloud.com",
+      "key": "oracle:ejhp.fa.us6.oraclecloud.com:cx_2",
+      "site": "CX_2",
+      "slug": "ejhp"
+    },
+    {
+      "ats": "oracle",
       "company": "The Mount Sinai Hospital",
       "host": "ejis.fa.us6.oraclecloud.com",
       "key": "oracle:ejis.fa.us6.oraclecloud.com:cx",
