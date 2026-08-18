@@ -318,6 +318,14 @@
     },
     {
       "boards": [],
+      "company": "PRIME AE Group, Inc.",
+      "key": "0b61156a27f180236ffefe90",
+      "last_scanned": "2026-08-18",
+      "resolved_roles": 0,
+      "url": "https://primeeng.com/"
+    },
+    {
+      "boards": [],
       "company": "Amazon",
       "key": "0ba3957e3d6d05ddd0a121de",
       "last_scanned": "2026-08-15",
@@ -1703,6 +1711,14 @@
     },
     {
       "boards": [],
+      "company": "University of Wisconsin Department of Radiology",
+      "key": "3cd98e94408d263d831aa485",
+      "last_scanned": "2026-08-18",
+      "resolved_roles": 1,
+      "url": "https://radiology.wisc.edu/"
+    },
+    {
+      "boards": [],
       "company": "Artisan Partners",
       "key": "3d0ce2e7f476577967895de4",
       "last_scanned": "2026-08-17",
@@ -1742,6 +1758,18 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.kbra.com/"
+    },
+    {
+      "boards": [
+        "workday:blattner.wd5.myworkdayjobs.com:blattner:blattnercompany",
+        "workday:blattner.wd5.myworkdayjobs.com:blattner:blattnerenergy",
+        "workday:blattner.wd5.myworkdayjobs.com:blattner:dhb"
+      ],
+      "company": "Blattner",
+      "key": "400aca061a2b422f3071e023",
+      "last_scanned": "2026-08-18",
+      "resolved_roles": 0,
+      "url": "https://www.blattnercompany.com/"
     },
     {
       "boards": [],
@@ -5081,6 +5109,13 @@
       "url": "https://ptaginc.com/"
     },
     {
+      "company": "Defense Information Systems Agency",
+      "error": "public request failed for https://disa.mil/: <urlopen error timed out>",
+      "key": "ae4c1a4bb6a46aa6e3200ff0",
+      "last_scanned": "2026-08-18",
+      "url": "https://disa.mil/"
+    },
+    {
       "boards": [],
       "company": "Leaf Home",
       "key": "ae98db360a3b725a5091370b",
@@ -5840,6 +5875,16 @@
       "url": "https://lcptracker.com/"
     },
     {
+      "boards": [
+        "oracle:eoje.fa.us2.oraclecloud.com:cx_1001"
+      ],
+      "company": "Black Box",
+      "key": "c81dea488da41bf45a3686ab",
+      "last_scanned": "2026-08-18",
+      "resolved_roles": 0,
+      "url": "https://www.blackbox.com/"
+    },
+    {
       "boards": [],
       "company": "Louisiana Economic Development",
       "key": "c8290783cc24d5052449e391",
@@ -6162,6 +6207,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.google.com/"
+    },
+    {
+      "boards": [],
+      "company": "Optum",
+      "key": "d0ef8490fc0f92c259772f8f",
+      "last_scanned": "2026-08-18",
+      "resolved_roles": 0,
+      "url": "https://nm.optum.com/"
     },
     {
       "company": "CommuniCare Health Centers",
