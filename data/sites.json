@@ -863,6 +863,14 @@
     },
     {
       "boards": [],
+      "company": "KLA",
+      "key": "2118055d23a6172d6ddfb952",
+      "last_scanned": "2026-08-18",
+      "resolved_roles": 0,
+      "url": "https://www.kla.com/"
+    },
+    {
+      "boards": [],
       "company": "Quicken Loans",
       "key": "21819ff87eb8291bd8ade5b4",
       "last_scanned": "2026-08-15",
@@ -1622,6 +1630,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.fanaticsinc.com/"
+    },
+    {
+      "company": "ZOLL Medical Corporation",
+      "error": "public request failed for https://www.lifevest.zoll.com/: HTTP Error 404: Not Found",
+      "key": "3981002d65d5397b11bfdb49",
+      "last_scanned": "2026-08-18",
+      "url": "https://www.lifevest.zoll.com/"
     },
     {
       "boards": [],
@@ -2454,6 +2469,16 @@
       "key": "544ccf2d499bbbed703cd8da",
       "last_scanned": "2026-08-18",
       "url": "https://www.citadelsecurities.com/"
+    },
+    {
+      "boards": [
+        "ashby:chainlink-labs"
+      ],
+      "company": "Chainlink Labs",
+      "key": "550d63cb47c4fbe76e267f2c",
+      "last_scanned": "2026-08-18",
+      "resolved_roles": 0,
+      "url": "https://chainlinklabs.com/"
     },
     {
       "boards": [],
@@ -5170,6 +5195,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.leafhome.com/"
+    },
+    {
+      "company": "MacDermid Alpha Electronics Solutions",
+      "error": "public request failed for https://www.macdermidalpha.com/: HTTP Error 403: Forbidden",
+      "key": "ae9d3ce4bbc95bdcf7d8c197",
+      "last_scanned": "2026-08-18",
+      "url": "https://www.macdermidalpha.com/"
     },
     {
       "boards": [],
