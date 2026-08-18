@@ -3037,6 +3037,16 @@
       "url": "https://www.vsolvit.com/"
     },
     {
+      "boards": [
+        "greenhouse:energyhub"
+      ],
+      "company": "EnergyHub",
+      "key": "6008936ccfef9482093d3bc7",
+      "last_scanned": "2026-08-18",
+      "resolved_roles": 0,
+      "url": "https://www.energyhub.com/"
+    },
+    {
       "boards": [],
       "company": "Dynamic Engineering Consultants, PC",
       "key": "606a2e168aaf464e520eaa44",
@@ -3774,6 +3784,14 @@
       "last_scanned": "2026-08-16",
       "resolved_roles": 0,
       "url": "https://www.oxy.com/"
+    },
+    {
+      "boards": [],
+      "company": "Veolia",
+      "key": "758bb7a5a9954dd8bd1dcafe",
+      "last_scanned": "2026-08-18",
+      "resolved_roles": 0,
+      "url": "https://www.veolia.com/fr"
     },
     {
       "boards": [],
@@ -5287,6 +5305,14 @@
     },
     {
       "boards": [],
+      "company": "Modern Woodmen of America",
+      "key": "a52c8da82c3b435cf720b49c",
+      "last_scanned": "2026-08-18",
+      "resolved_roles": 0,
+      "url": "https://www.modernwoodmen.org/"
+    },
+    {
+      "boards": [],
       "company": "Liebherr Group",
       "key": "a52de24fa1fc8eda785fde26",
       "last_scanned": "2026-08-15",
@@ -5368,6 +5394,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.guidewellsource.com/"
+    },
+    {
+      "company": "National Security Agency",
+      "error": "public request failed for https://www.nsa.gov/: HTTP Error 403: Forbidden",
+      "key": "a7ee24a3e54a5678bf7e6d56",
+      "last_scanned": "2026-08-18",
+      "url": "https://www.nsa.gov/"
     },
     {
       "company": "Precision Medicine Group",
