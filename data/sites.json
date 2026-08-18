@@ -1435,6 +1435,13 @@
       "url": "https://us.pg.com/"
     },
     {
+      "company": "SC Capital Management LLC",
+      "error": "public hostname did not resolve: www.sccapm.com",
+      "key": "3675058ecac8d9d6503452ed",
+      "last_scanned": "2026-08-18",
+      "url": "https://www.sccapm.com/"
+    },
+    {
       "boards": [],
       "company": "Hendler Family Brewing Co.",
       "key": "36abfa39fef46cbadeffb878",
@@ -1877,6 +1884,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.jetblue.com/"
+    },
+    {
+      "company": "MITRE",
+      "error": "public request failed for https://www.mitre.org/: HTTP Error 403: Forbidden",
+      "key": "49727d1a44dd2aaff05a26a7",
+      "last_scanned": "2026-08-18",
+      "url": "https://www.mitre.org/"
     },
     {
       "boards": [],
@@ -3578,7 +3592,7 @@
       "company": "State of Utah",
       "error": "public requests require HTTPS and a hostname",
       "key": "7ce2eb7383023e6593997b8e",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-18",
       "url": "https://www.utah.gov/"
     },
     {
@@ -4885,6 +4899,14 @@
     },
     {
       "boards": [],
+      "company": "Griffith Company",
+      "key": "ad8234ea82f136d7e634b797",
+      "last_scanned": "2026-08-18",
+      "resolved_roles": 1,
+      "url": "https://griffithcompany.net/"
+    },
+    {
+      "boards": [],
       "company": "Santander US",
       "key": "ad88f6bd4723f89a6559faa1",
       "last_scanned": "2026-08-15",
@@ -5014,6 +5036,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.dexcom.com/"
+    },
+    {
+      "boards": [],
+      "company": "Mitsubishi Power Americas",
+      "key": "b1b0d8c8cb4a8c36c78a2348",
+      "last_scanned": "2026-08-18",
+      "resolved_roles": 0,
+      "url": "https://power.mhi.com/regions/amer/"
     },
     {
       "company": "General Dynamics",
@@ -6830,7 +6860,7 @@
       "company": "Schneider Electric",
       "error": "Invalid IPv6 URL",
       "key": "efc63904d017ad3d103211de",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-18",
       "url": "https://www.se.com/"
     },
     {

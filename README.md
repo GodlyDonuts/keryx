@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**1,987 internships · 3,545 new-grad roles · 5,532 total openings**
+**1,993 internships · 3,538 new-grad roles · 5,531 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 687 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 477 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 83 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 692 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 478 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 82 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 23 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 717 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 718 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 721 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 779 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,045 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 760 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,057 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,9 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Clinical Ink | Data Management Intern | Horsham, PA | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/ClinicalInk/89163444)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Huck Adventures | Research Analyst Intern | Boulder, CO | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/HuckAdventures/743999747985535)**<br><sub>jobs.smartrecruiters.com</sub> |
+| KOSTAL Group | Systems Engineering Intern | Troy, MI | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225)**<br><sub>jobs.smartrecruiters.com</sub> |
 | ACDS | Align AI Software Development Intern | Bentonville, AR | Not listed | not stated | 2026-08-17 | **[Apply →](https://jobs.lever.co/acds/5a872bb7-8d9f-46e3-9e72-f5c69445e787)**<br><sub>jobs.lever.co</sub> |
 | American Express | AI Engineer Intern - Enterprise Technology Services | Sunrise, FL | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | American Express | AI Engineer Intern - Enterprise Technology Services | Sunrise, FL | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
@@ -46,9 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA | Atlanta, GA, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY | New York, NY, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA | Atlanta, GA, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011913)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY | New York, NY, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011893)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Phoenix, AZ | Phoenix, AZ, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012462)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012444)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -59,17 +59,17 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Alpha Nexus Group | C++ Software Engineer | Chicago, IL | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/AlphaNexusGroup/90016777)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Denso | Tester Design Engineer 2 | Maryville, TN | Not listed | not available | 2026-08-18 | **[Apply →](https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24502)**<br><sub>hcwt.fa.us2.oraclecloud.com</sub> |
-| Diesel Laptops | Software Engineer | Dallas, TX | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/DieselLaptops/743999719953833)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Fannie Mae | Analytics Associate - Analytics-Test | Washington, DC, Plano, TX | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/FannieMae1SB/743999715055932)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Fannie Mae | Business Analyst Associate - Access Management | Washington, DC | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/FannieMae1SB/743999721165267)**<br><sub>jobs.smartrecruiters.com</sub> |
-| iFLIP4 | Back End Developer | East Hanover, NJ | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/iFLIP4/84246109)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Smarter Agent | Junior Data Engineer - Multiple Teams | Collingswood, NJ | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/SmarterAgent/743999706496509)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Allstate | Software Engineer - All Levels | Remote - USA | 2027 | not available | 2026-08-17 | **[Apply →](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/US---Remote/Software-Engineer--All-Levels-_R32116-1)**<br><sub>allstate.wd5.myworkdayjobs.com</sub> |
-| ASSYST | Junior .NET Developer | Sterling, VA | Not listed | not available | 2026-08-17 | **[Apply →](https://job-boards.greenhouse.io/assystinc/jobs/4371586009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Auto-Owners Insurance | Business Intelligence Developer | Lansing, MI | Not listed | not available | 2026-08-17 | **[Apply →](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_13426-1)**<br><sub>aoins.wd5.myworkdayjobs.com</sub> |
-| Bertelsmann | Data Center Installer | Cumming, IA | Not listed | not available | 2026-08-17 | **[Apply →](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000143882390)**<br><sub>jobs.smartrecruiters.com</sub> |
-| CACI | C# Software Engineer - Engineering | Everett, WA | Not listed | not available | 2026-08-17 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/Everett-WA-US/C--Software-Engineer_330694)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
+| ByteDance | Research Scientist - DPU & AI Infrastructure | Seattle, WA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.bytedance.com/en/position/7673946040656267573/detail)**<br><sub>jobs.bytedance.com</sub> |
+| ByteDance | Research Scientist Graduate - DPU & AI Infra - PhD | San Jose, CA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.bytedance.com/en/position/7673941558289205509/detail)**<br><sub>jobs.bytedance.com</sub> |
+| CROSSMARK | Data Collection Associate | Worcester, MA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/111737897)**<br><sub>jobs.smartrecruiters.com</sub> |
+| CROSSMARK | Data Collection Associate | Belchertown, MA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/111738650)**<br><sub>jobs.smartrecruiters.com</sub> |
+| CROSSMARK | Data Collection Associate | Somerville, MA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/111738230)**<br><sub>jobs.smartrecruiters.com</sub> |
+| CROSSMARK | Data Collector | Burlington, MA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/113714633)**<br><sub>jobs.smartrecruiters.com</sub> |
+| CROSSMARK | Data Collector | Fort Myers, FL | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/113713866)**<br><sub>jobs.smartrecruiters.com</sub> |
+| CROSSMARK | Product | Cocoa, FL | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/106727177)**<br><sub>jobs.smartrecruiters.com</sub> |
+| CROSSMARK | Product Event Demonstrator | Augusta, ME | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/105081153)**<br><sub>jobs.smartrecruiters.com</sub> |
+| CROSSMARK | Product Event Demonstrator | Sioux City, IA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/105094581)**<br><sub>jobs.smartrecruiters.com</sub> |
+| CROSSMARK | Retail Data Collector | Greeley, CO | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/103824613)**<br><sub>jobs.smartrecruiters.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
