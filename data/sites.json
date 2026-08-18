@@ -2597,6 +2597,14 @@
       "url": "https://www.ucsfhealth.org/"
     },
     {
+      "boards": [],
+      "company": "Volunteers of America Los Angeles",
+      "key": "53cee69f8ea55ab0a95a0d10",
+      "last_scanned": "2026-08-18",
+      "resolved_roles": 0,
+      "url": "https://voala.org/"
+    },
+    {
       "boards": [
         "workday:usc.wd5.myworkdayjobs.com:usc:externalusccareers",
         "workday:usc.wd5.myworkdayjobs.com:usc:uscadvancementcareers"
@@ -3990,6 +3998,14 @@
     },
     {
       "boards": [],
+      "company": "Indium Corporation",
+      "key": "787d3aeb8760980d2a6e8590",
+      "last_scanned": "2026-08-18",
+      "resolved_roles": 0,
+      "url": "https://www.indium.com/"
+    },
+    {
+      "boards": [],
       "company": "Nexxaworks",
       "key": "7943ac17f084c9a5b52cbac6",
       "last_scanned": "2026-08-17",
@@ -4247,6 +4263,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 1,
       "url": "https://www.webmd.com/"
+    },
+    {
+      "company": "The Johns Hopkins University",
+      "error": "public request failed for https://www.jhu.edu/: HTTP Error 403: Forbidden",
+      "key": "814a8b81730cc79c9674d0da",
+      "last_scanned": "2026-08-18",
+      "url": "https://www.jhu.edu/"
     },
     {
       "boards": [],
@@ -4892,6 +4915,16 @@
       "key": "9549f17aa90b167086c41726",
       "last_scanned": "2026-08-17",
       "url": "https://www.ama-inc.com/"
+    },
+    {
+      "boards": [
+        "workday:lendingclub.wd1.myworkdayjobs.com:lendingclub:external"
+      ],
+      "company": "LendingClub",
+      "key": "956aa8c62c784a8a0e8c5f70",
+      "last_scanned": "2026-08-18",
+      "resolved_roles": 0,
+      "url": "https://www.happen.com/"
     },
     {
       "boards": [],

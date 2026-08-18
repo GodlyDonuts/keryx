@@ -1610,6 +1610,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Archer",
+      "key": "greenhouse:archer56",
+      "slug": "archer56"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Arena Club",
       "key": "greenhouse:arenaclub",
       "slug": "arenaclub"
@@ -2954,6 +2960,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "VSC Fire & Security",
+      "key": "greenhouse:vscfiresecurityinc",
+      "slug": "vscfiresecurityinc"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Walleye Capital",
       "key": "greenhouse:walleyecapital-external-fulltime",
       "slug": "walleyecapital-external-fulltime"
@@ -4202,6 +4214,12 @@
     },
     {
       "ats": "smartrecruiters",
+      "company": "Avery Dennison",
+      "key": "smartrecruiters:averydennison",
+      "slug": "AveryDennison"
+    },
+    {
+      "ats": "smartrecruiters",
       "company": "BCforward",
       "key": "smartrecruiters:bcforward3",
       "slug": "BCforward3"
@@ -4250,6 +4268,12 @@
     },
     {
       "ats": "smartrecruiters",
+      "company": "Crown Innovations",
+      "key": "smartrecruiters:crowninnovationsinc",
+      "slug": "CrownInnovationsInc"
+    },
+    {
+      "ats": "smartrecruiters",
       "company": "DellFor Technologies",
       "key": "smartrecruiters:dellfortechnologies",
       "slug": "DellforTechnologies"
@@ -4277,6 +4301,12 @@
       "company": "ERPA",
       "key": "smartrecruiters:erpanalysts1",
       "slug": "ERPAnalysts1"
+    },
+    {
+      "ats": "smartrecruiters",
+      "company": "Eurofins",
+      "key": "smartrecruiters:eurofins",
+      "slug": "Eurofins"
     },
     {
       "ats": "smartrecruiters",
@@ -5927,7 +5957,7 @@
       "company": "The Campbell's Company",
       "host": "campbellsoup.wd5.myworkdayjobs.com",
       "key": "workday:campbellsoup.wd5.myworkdayjobs.com:campbellsoup:externalcareers_globalsite",
-      "site": "ExternalCareers_GlobalSite",
+      "site": "externalcareers_globalsite",
       "slug": "campbellsoup",
       "wd": "wd5"
     },
@@ -6280,6 +6310,15 @@
       "key": "workday:conocophillips.wd1.myworkdayjobs.com:conocophillips:external",
       "site": "External",
       "slug": "conocophillips",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "CoorsTek",
+      "host": "coorstek.wd1.myworkdayjobs.com",
+      "key": "workday:coorstek.wd1.myworkdayjobs.com:coorstek:coorstekcareers",
+      "site": "CoorsTekCareers",
+      "slug": "coorstek",
       "wd": "wd1"
     },
     {
@@ -7355,7 +7394,7 @@
     },
     {
       "ats": "workday",
-      "company": "Hitachi Energy",
+      "company": "Hitachi",
       "host": "hitachi.wd1.myworkdayjobs.com",
       "key": "workday:hitachi.wd1.myworkdayjobs.com:hitachi:hitachi",
       "site": "hitachi",
@@ -7937,6 +7976,15 @@
       "site": "External",
       "slug": "leidos",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "LendingClub",
+      "host": "lendingclub.wd1.myworkdayjobs.com",
+      "key": "workday:lendingclub.wd1.myworkdayjobs.com:lendingclub:external",
+      "site": "External",
+      "slug": "lendingclub",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -9758,6 +9806,15 @@
     },
     {
       "ats": "workday",
+      "company": "Stryker",
+      "host": "stryker.wd1.myworkdayjobs.com",
+      "key": "workday:stryker.wd1.myworkdayjobs.com:stryker:strykercareers",
+      "site": "StrykerCareers",
+      "slug": "stryker",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Sun Life",
       "host": "sunlife.wd3.myworkdayjobs.com",
       "key": "workday:sunlife.wd3.myworkdayjobs.com:sunlife:experienced",
@@ -9953,6 +10010,15 @@
       "site": "BRG_External_Career_Site",
       "slug": "thinkbrg",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "TJX",
+      "host": "tjx.wd1.myworkdayjobs.com",
+      "key": "workday:tjx.wd1.myworkdayjobs.com:tjx:tjx_external",
+      "site": "tjx_external",
+      "slug": "tjx",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
