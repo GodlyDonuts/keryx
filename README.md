@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,070 internships · 3,549 new-grad roles · 5,619 total openings**
+**2,089 internships · 3,538 new-grad roles · 5,627 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 729 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 734 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 491 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 81 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 25 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 744 | **[View openings →](internships/unscheduled.md)** |
+| 🌱 Spring 2027 | 84 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 26 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 754 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 750 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 732 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,067 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 739 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 730 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,069 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -45,10 +45,10 @@ Recent internship and co-op listings that open the employer's application page d
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-08-18 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | Deloitte | Forensic Analytics Summer Scholar Intern - Forensic Analytics | Atlanta, GA | Summer 2027 | not available | 2026-08-18 | **[Apply →](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Forensic-Analytics/363251)**<br><sub>apply.deloitte.com</sub> |
 | Draper | Full Stack Web Development Co-op - Spring 2027 | Cambridge, MA | Spring 2027 | not available | 2026-08-18 | **[Apply →](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1)**<br><sub>draper.wd5.myworkdayjobs.com</sub> |
-| Encephalo Investments | Software Developer Intern | Woodbury, MN | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/EncephaloInvestments/743999734497349)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Freeform | Mechanical Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | Summer 2027 | Current student status<br><sub>required</sub> | 2026-08-18 | **[Apply →](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894117003)**<br><sub>job-boards.greenhouse.io</sub> |
+| Huck Adventures | Research Analyst Intern | Boulder, CO | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/HuckAdventures/743999747985535)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Huntsman Corporation | Mechanical Engineering Intern | USA - Texas - Houston - The Woodlands - Corporate Office | Not listed | not available | 2026-08-18 | **[Apply →](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Mechanical-Engineering-Intern_J-020026)**<br><sub>huntsman.wd1.myworkdayjobs.com</sub> |
-| IMEG | Electrical Engineering Intern / Rock Island, IL | Rock Island, IL | Not listed | not available | 2026-08-18 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Rock-Island-IL/Electrical-Engineering-Intern---Rock-Island--IL_R-16376)**<br><sub>wd1.myworkdaysite.com</sub> |
+| KOSTAL Group | Systems Engineering Intern | Troy, MI | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225)**<br><sub>jobs.smartrecruiters.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -62,7 +62,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Applied Systems | Associate Software Engineer / Software Engineer | Chicago, IL +2 | 2027 | not available | 2026-08-18 | **[Apply →](https://careers-appliedsystems.icims.com/jobs/7318/associate-software-engineer---software-engineer/job)**<br><sub>careers-appliedsystems.icims.com</sub> |
 | ByteDance | Research Scientist - DPU & AI Infrastructure | Seattle, WA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.bytedance.com/en/position/7673946040656267573/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Research Scientist Graduate - DPU & AI Infra - PhD | San Jose, CA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.bytedance.com/en/position/7673941558289205509/detail)**<br><sub>jobs.bytedance.com</sub> |
-| CACI | Entry Level Software Engineer | Annapolis Junction, MD | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Cook Systems | Entry-Level Software Developer | Nashville, TN | 2027 | not stated | 2026-08-18 | **[Apply →](https://job-boards.greenhouse.io/cooksys/jobs/5386869008)**<br><sub>job-boards.greenhouse.io</sub> |
 | CROSSMARK | Data Collection Associate | Worcester, MA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/111737897)**<br><sub>jobs.smartrecruiters.com</sub> |
 | CROSSMARK | Data Collection Associate | Belchertown, MA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/111738650)**<br><sub>jobs.smartrecruiters.com</sub> |
@@ -70,6 +69,7 @@ Recent full-time opportunities that open the employer's application page directl
 | CROSSMARK | Data Collector | Burlington, MA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/113714633)**<br><sub>jobs.smartrecruiters.com</sub> |
 | CROSSMARK | Data Collector | Fort Myers, FL | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/113713866)**<br><sub>jobs.smartrecruiters.com</sub> |
 | CROSSMARK | Product | Cocoa, FL | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/106727177)**<br><sub>jobs.smartrecruiters.com</sub> |
+| CROSSMARK | Product Event Demonstrator | Augusta, ME | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/105081153)**<br><sub>jobs.smartrecruiters.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
