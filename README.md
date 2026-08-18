@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,053 internships · 3,525 new-grad roles · 5,578 total openings**
+**2,054 internships · 3,548 new-grad roles · 5,602 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 722 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 720 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 476 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 82 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 24 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 749 | **[View openings →](internships/unscheduled.md)** |
+| ❄️ Winter 2027 | 23 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 753 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 729 | **[View openings →](new-grad/2027.md)** |
+| 2027 | 759 | **[View openings →](new-grad/2027.md)** |
 | 2026 | 740 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,056 | **[View openings →](new-grad/unscheduled.md)** |
+| Year not listed | 2,049 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -59,6 +59,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Alpha Nexus Group | C++ Software Engineer | Chicago, IL | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/AlphaNexusGroup/90016777)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Applied Systems | Associate Software Engineer / Software Engineer | Chicago, IL +2 | 2027 | not available | 2026-08-18 | **[Apply →](https://careers-appliedsystems.icims.com/jobs/7318/associate-software-engineer---software-engineer/job)**<br><sub>careers-appliedsystems.icims.com</sub> |
 | ByteDance | Research Scientist - DPU & AI Infrastructure | Seattle, WA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.bytedance.com/en/position/7673946040656267573/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Research Scientist Graduate - DPU & AI Infra - PhD | San Jose, CA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.bytedance.com/en/position/7673941558289205509/detail)**<br><sub>jobs.bytedance.com</sub> |
 | CACI | Entry Level Software Engineer | Annapolis Junction, MD | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601)**<br><sub>jobs.smartrecruiters.com</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | CROSSMARK | Data Collector | Fort Myers, FL | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/113713866)**<br><sub>jobs.smartrecruiters.com</sub> |
 | CROSSMARK | Product | Cocoa, FL | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/106727177)**<br><sub>jobs.smartrecruiters.com</sub> |
 | CROSSMARK | Product Event Demonstrator | Augusta, ME | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/105081153)**<br><sub>jobs.smartrecruiters.com</sub> |
-| CROSSMARK | Product Event Demonstrator | Sioux City, IA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/105094581)**<br><sub>jobs.smartrecruiters.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
