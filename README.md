@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,048 internships · 3,505 new-grad roles · 5,553 total openings**
+**2,155 internships · 3,504 new-grad roles · 5,659 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 720 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 475 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 82 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 23 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 748 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 724 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 473 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 85 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 24 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 849 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 730 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 728 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,047 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 736 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 727 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,041 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -39,9 +39,9 @@ Recent internship and co-op listings that open the employer's application page d
 |---|---|---|---|---|---:|---|
 | Amcor | Intern - AI Innovation Engineer | ASC Atlanta HQ GA | Not listed | not available | 2026-08-18 | **[Apply →](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190)**<br><sub>amcor.wd5.myworkdayjobs.com</sub> |
 | Blattner | Field Engineer Internship (Summer 2027) | United States | Summer 2027 | not available | 2026-08-18 | **[Apply →](https://blattner.wd5.myworkdayjobs.com/BlattnerEnergy/job/United-States/Field-Engineer-Internship--Summer-2027-_R8267-1)**<br><sub>blattner.wd5.myworkdayjobs.com</sub> |
+| Clinical Ink | Data Management Intern | Horsham, PA | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/ClinicalInk/89163444)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Deloitte | Forensic Analytics Summer Scholar Intern - Forensic Analytics | Atlanta, GA | Summer 2027 | not available | 2026-08-18 | **[Apply →](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Forensic-Analytics/363251)**<br><sub>apply.deloitte.com</sub> |
 | Encephalo Investments | Software Developer Intern | Woodbury, MN | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/EncephaloInvestments/743999734497349)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Huck Adventures | Research Analyst Intern | Boulder, CO | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/HuckAdventures/743999747985535)**<br><sub>jobs.smartrecruiters.com</sub> |
 | KOSTAL Group | Systems Engineering Intern | Troy, MI | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225)**<br><sub>jobs.smartrecruiters.com</sub> |
 | L3Harris Technologies | Software Engineer Intern | Greenville, TX | Winter 2027 | not available | 2026-08-18 | **[Apply →](https://jobs.l3harris.com/job/Greenville-Intern,-Software-Engineer-Spring-2027-TX-75402/1420331200/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Software Engineer Intern | Palm Bay, FL | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420321500/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
