@@ -2216,7 +2216,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "Impact",
+      "company": "impact.com",
       "key": "greenhouse:impact",
       "slug": "impact"
     },
@@ -4757,6 +4757,12 @@
       "company": "Generation West Virginia",
       "key": "workable:generation-west-virginia-1",
       "slug": "generation-west-virginia-1"
+    },
+    {
+      "ats": "workable",
+      "company": "GO Media",
+      "key": "workable:go-media",
+      "slug": "go-media"
     },
     {
       "ats": "workable",
@@ -7982,7 +7988,7 @@
       "company": "LendingClub",
       "host": "lendingclub.wd1.myworkdayjobs.com",
       "key": "workday:lendingclub.wd1.myworkdayjobs.com:lendingclub:external",
-      "site": "External",
+      "site": "external",
       "slug": "lendingclub",
       "wd": "wd1"
     },
