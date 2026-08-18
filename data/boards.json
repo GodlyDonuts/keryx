@@ -6057,6 +6057,15 @@
     },
     {
       "ats": "workday",
+      "company": "Cambridge Investment Research",
+      "host": "cir.wd108.myworkdayjobs.com",
+      "key": "workday:cir.wd108.myworkdayjobs.com:cir:cir_external_career_site",
+      "site": "CIR_External_Career_Site",
+      "slug": "cir",
+      "wd": "wd108"
+    },
+    {
+      "ats": "workday",
       "company": "Circle K",
       "host": "circlek.wd3.myworkdayjobs.com",
       "key": "workday:circlek.wd3.myworkdayjobs.com:circlek:circlekstorejobs",
@@ -9177,6 +9186,15 @@
       "site": "remitly_careers",
       "slug": "remitly",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Repligen",
+      "host": "repligen.wd108.myworkdayjobs.com",
+      "key": "workday:repligen.wd108.myworkdayjobs.com:repligen:repligen_careers",
+      "site": "Repligen_Careers",
+      "slug": "repligen",
+      "wd": "wd108"
     },
     {
       "ats": "workday",

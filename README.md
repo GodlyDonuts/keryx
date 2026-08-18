@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,074 internships · 3,523 new-grad roles · 5,597 total openings**
+**2,055 internships · 3,516 new-grad roles · 5,571 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 694 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 476 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 82 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 23 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 799 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 691 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 477 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 81 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 22 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 784 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 723 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 746 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,054 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 722 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 745 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,049 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Clinical Ink | Data Management Intern | Horsham, PA | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/ClinicalInk/89163444)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Deloitte | Forensic Analytics Summer Scholar Intern - Forensic Analytics | Atlanta, GA | Summer 2027 | not available | 2026-08-18 | **[Apply →](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Forensic-Analytics/363251)**<br><sub>apply.deloitte.com</sub> |
 | Encephalo Investments | Software Developer Intern | Woodbury, MN | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/EncephaloInvestments/743999734497349)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Huck Adventures | Research Analyst Intern | Boulder, CO | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/HuckAdventures/743999747985535)**<br><sub>jobs.smartrecruiters.com</sub> |
 | KOSTAL Group | Systems Engineering Intern | Troy, MI | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225)**<br><sub>jobs.smartrecruiters.com</sub> |
 | RegDesk | Front End Developer Intern | Philadelphia, PA | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/RegDeskInc/92145731)**<br><sub>jobs.smartrecruiters.com</sub> |
-| RTX | 2027 Software Engineer Intern (Onsite) | US-MA-CAMBRIDGE-BBN01 ~ 10 & 50 Moulton St ~ MOULTON B2 | Summer 2027 | not available | 2026-08-18 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
+| University of St. Thomas | Digital Innovation & Learning Technology Intern | St Paul, MN | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://studentemployment-stthomas.icims.com/jobs/9527/job?mobile=true&needsRedirect=false)**<br><sub>studentemployment-stthomas.icims.com</sub> |
+| University of St. Thomas | Semiconductor Test AI Intern - Minnesota Semiconductor AI Hub | St Paul, MN | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://studentemployment-stthomas.icims.com/jobs/9529/job?mobile=true&needsRedirect=false)**<br><sub>studentemployment-stthomas.icims.com</sub> |
 | Accelevation LLC | Manufacturing Engineering Intern - Summer 2027 | Miamisburg, OH, United States | Summer 2027 | not available | 2026-08-17 | **[Apply →](https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0930d0e990193413b00b52d05&id=8a78839e9fd3ba7b01a00376cbb43a7c&source=&lang=en)**<br><sub>recruitingbypaycor.com</sub> |
 | ACDS | Align AI Software Development Intern | Bentonville, AR | Not listed | not stated | 2026-08-17 | **[Apply →](https://jobs.lever.co/acds/5a872bb7-8d9f-46e3-9e72-f5c69445e787)**<br><sub>jobs.lever.co</sub> |
 | American Express | AI Engineer Intern - Enterprise Technology Services | Atlanta, GA | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | American Express | AI Engineer Intern - Enterprise Technology Services | Sunrise, FL | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | American Express | AI Engineer Intern - Enterprise Technology Services | Sunrise, FL | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | AI Engineer Intern - Enterprise Technology Services | Phoenix, AZ | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-17 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
