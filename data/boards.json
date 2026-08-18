@@ -1232,6 +1232,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Tunnl",
+      "key": "ashby:tunnl",
+      "slug": "tunnl"
+    },
+    {
+      "ats": "ashby",
       "company": "Uncountable",
       "key": "ashby:uncountable",
       "slug": "uncountable"
@@ -1425,6 +1431,13 @@
       "host": "mujin.bamboohr.com",
       "key": "bamboohr:mujin",
       "slug": "mujin"
+    },
+    {
+      "ats": "bamboohr",
+      "company": "Nexthop.ai",
+      "host": "nexthopai.bamboohr.com",
+      "key": "bamboohr:nexthopai",
+      "slug": "nexthopai"
     },
     {
       "ats": "bamboohr",
@@ -1822,6 +1835,12 @@
       "company": "Commvault",
       "key": "greenhouse:commvault",
       "slug": "commvault"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Cook Systems",
+      "key": "greenhouse:cooksys",
+      "slug": "cooksys"
     },
     {
       "ats": "greenhouse",
@@ -2563,7 +2582,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "Rocket Lab USA",
+      "company": "Rocket Lab",
       "key": "greenhouse:rocketlab",
       "slug": "rocketlab"
     },
