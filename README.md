@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,078 internships · 3,535 new-grad roles · 5,613 total openings**
+**2,161 internships · 3,540 new-grad roles · 5,701 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 705 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 478 | **[View openings →](internships/fall-2026.md)** |
+| ☀️ Summer 2027 | 722 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 483 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 82 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 25 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 788 | **[View openings →](internships/unscheduled.md)** |
+| ❄️ Winter 2027 | 24 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 850 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 732 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 735 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,068 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 735 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 734 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,071 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,17 +38,17 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Amcor | Intern - AI Innovation Engineer | ASC Atlanta HQ GA | Not listed | not available | 2026-08-18 | **[Apply →](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190)**<br><sub>amcor.wd5.myworkdayjobs.com</sub> |
-| American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, United States | Summer 2027 | not available | 2026-08-18 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Global Servicing- New York, NY | New York, NY, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-18 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012627)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Product Development, Global Servicing- New York, NY | New York, NY, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-18 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012749)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-18 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | Clinical Ink | Data Management Intern | Horsham, PA | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/ClinicalInk/89163444)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Deloitte | Forensic Analytics Summer Scholar Intern - Forensic Analytics | Atlanta, GA | Summer 2027 | not available | 2026-08-18 | **[Apply →](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Forensic-Analytics/363251)**<br><sub>apply.deloitte.com</sub> |
-| Draper | Full Stack Web Development Co-op - Spring 2027 | Cambridge, MA | Spring 2027 | not available | 2026-08-18 | **[Apply →](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1)**<br><sub>draper.wd5.myworkdayjobs.com</sub> |
+| Draper | Full Stack Web Development Co-Op (Spring 2027) | Cambridge, MA | Spring 2027 | not available | 2026-08-18 | **[Apply →](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1)**<br><sub>draper.wd5.myworkdayjobs.com</sub> |
+| Encephalo Investments | Software Developer Intern | Woodbury, MN | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/EncephaloInvestments/743999734497349)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Huck Adventures | Research Analyst Intern | Boulder, CO | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/HuckAdventures/743999747985535)**<br><sub>jobs.smartrecruiters.com</sub> |
-| KOSTAL Group | Systems Engineering Intern | Troy, MI | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/KOSTALGroup/744000138137225)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Huntsman Corporation | Mechanical Engineering Intern | USA - Texas - Houston - The Woodlands - Corporate Office | Not listed | not available | 2026-08-18 | **[Apply →](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Mechanical-Engineering-Intern_J-020026)**<br><sub>huntsman.wd1.myworkdayjobs.com</sub> |
+| IMEG | Electrical Engineering Intern / Rock Island, IL | Rock Island, IL | Not listed | not available | 2026-08-18 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Rock-Island-IL/Electrical-Engineering-Intern---Rock-Island--IL_R-16376)**<br><sub>wd1.myworkdaysite.com</sub> |
 | L3Harris Technologies | Software Engineer Intern | Greenville, TX | Winter 2027 | not available | 2026-08-18 | **[Apply →](https://jobs.l3harris.com/job/Greenville-Intern,-Software-Engineer-Spring-2027-TX-75402/1420331200/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| L3Harris Technologies | Software Engineer Intern | Palm Bay, FL | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1420321500/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| PIMCO | 2027 Summer Intern - Technology Analyst, Software Engineering | Austin, TX USA | Summer 2027 | not available | 2026-08-18 | **[Apply →](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745)**<br><sub>pimco.wd1.myworkdayjobs.com</sub> |
-| Riveron | Technology & Innovation Intern | SF, San Jose, CA | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.ashbyhq.com/riveron/a1c4ef22-34a2-43b8-950d-ca6288cc17a1/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Sherwin-Williams | IT Database Engineer Co-op | Cleveland, OH | Fall 2026 | Current student status<br><sub>required</sub> | 2026-08-18 | **[Apply →](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621017)**<br><sub>ejhp.fa.us6.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -62,7 +62,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Applied Systems | Associate Software Engineer / Software Engineer | Chicago, IL +2 | 2027 | not available | 2026-08-18 | **[Apply →](https://careers-appliedsystems.icims.com/jobs/7318/associate-software-engineer---software-engineer/job)**<br><sub>careers-appliedsystems.icims.com</sub> |
 | ByteDance | Research Scientist - DPU & AI Infrastructure | Seattle, WA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.bytedance.com/en/position/7673946040656267573/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Research Scientist Graduate - DPU & AI Infra - PhD | San Jose, CA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.bytedance.com/en/position/7673941558289205509/detail)**<br><sub>jobs.bytedance.com</sub> |
-| Cook Systems | Entry-Level Software Developer | Nashville, TN | 2027 | not stated | 2026-08-18 | **[Apply →](https://job-boards.greenhouse.io/cooksys/jobs/5386869008)**<br><sub>job-boards.greenhouse.io</sub> |
+| CACI | Entry Level Software Engineer | Annapolis Junction, MD | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601)**<br><sub>jobs.smartrecruiters.com</sub> |
 | CROSSMARK | Data Collection Associate | Worcester, MA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/111737897)**<br><sub>jobs.smartrecruiters.com</sub> |
 | CROSSMARK | Data Collection Associate | Belchertown, MA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/111738650)**<br><sub>jobs.smartrecruiters.com</sub> |
 | CROSSMARK | Data Collection Associate | Somerville, MA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/CROSSMARK1/111738230)**<br><sub>jobs.smartrecruiters.com</sub> |

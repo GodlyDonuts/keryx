@@ -2834,6 +2834,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Trusted Concepts, Inc.",
+      "key": "greenhouse:twosixtechnologies",
+      "slug": "twosixtechnologies"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Uare.ai",
       "key": "greenhouse:uareai",
       "slug": "uareai"
@@ -6395,6 +6401,15 @@
     },
     {
       "ats": "workday",
+      "company": "America's Poison Centers",
+      "host": "cwi.wd1.myworkdayjobs.com",
+      "key": "workday:cwi.wd1.myworkdayjobs.com:cwi:cw_careers",
+      "site": "CW_Careers",
+      "slug": "cwi",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Daikin Applied",
       "host": "daikinapplied.wd1.myworkdayjobs.com",
       "key": "workday:daikinapplied.wd1.myworkdayjobs.com:daikinapplied:daikin-careers",
@@ -7445,6 +7460,15 @@
       "site": "hnbcareers",
       "slug": "huntington",
       "wd": "wd12"
+    },
+    {
+      "ats": "workday",
+      "company": "Huntsman Corporation",
+      "host": "huntsman.wd1.myworkdayjobs.com",
+      "key": "workday:huntsman.wd1.myworkdayjobs.com:huntsman:huntsman",
+      "site": "Huntsman",
+      "slug": "huntsman",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -10675,6 +10699,15 @@
       "site": "WPI_External_Career_Site",
       "slug": "wpi",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Washington University in St. Louis",
+      "host": "wustl.wd1.myworkdayjobs.com",
+      "key": "workday:wustl.wd1.myworkdayjobs.com:wustl:external",
+      "site": "External",
+      "slug": "wustl",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
