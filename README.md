@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,233 internships · 3,633 new-grad roles · 5,866 total openings**
+**2,188 internships · 3,637 new-grad roles · 5,825 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 768 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 488 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 85 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 762 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 486 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 86 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 27 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 865 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 827 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 759 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 763 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,111 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 750 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 762 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,125 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -41,6 +41,7 @@ Recent internship and co-op listings that open the employer's application page d
 | Bosch | Engineering Intern - Proton Exchange Membrane Water Electrolysis | Sunnyvale, CA, us | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000144370429)**<br><sub>jobs.smartrecruiters.com</sub> |
 | ByteDance | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | Seattle, WA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675477254269765941/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | San Jose, CA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675478684795881781/detail)**<br><sub>jobs.bytedance.com</sub> |
+| Centific | AI Research Intern - Physical AI | Remote Work( USA) | Not listed | not available | 2026-08-19 | **[Apply →](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1)**<br><sub>centific.wd1.myworkdayjobs.com</sub> |
 | Detroit Lions | Quantitative Research Intern | Allen Park, MI 48101 | Not listed | not stated | 2026-08-19 | **[Apply →](https://job-boards.greenhouse.io/detroitlions/jobs/4723291005)**<br><sub>job-boards.greenhouse.io</sub> |
 | IMEG | Electrical Engineering Intern / Germantown, MD | Germantown, MD | Not listed | not available | 2026-08-19 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Germantown-MD/Electrical-Engineering-Intern---Germantown--MD_R-16437)**<br><sub>wd1.myworkdaysite.com</sub> |
 | InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | New York, New York, us | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579)**<br><sub>jobs.smartrecruiters.com</sub> |
@@ -48,7 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | Mcmtech | AI Agent Developer Internship | Raleigh, NC, United States | Not listed | not available | 2026-08-19 | **[Apply →](https://ats.rippling.com/mcmjobs/jobs/66abfa59-bb9d-460a-b0b3-64445cfd74cf)**<br><sub>ats.rippling.com</sub> |
 | Microsoft | AI Software Engineer Intern | Redmond, WA, Mountain View, CA | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393556962891)**<br><sub>apply.careers.microsoft.com</sub> |
 | Moog | Intern, IT Computer Science | Buffalo, NY | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378)**<br><sub>moog.wd5.myworkdayjobs.com</sub> |
-| Nemours Children's Health | Intern- Research | Wilmington, DE, United States | Not listed | not stated | 2026-08-19 | **[Apply →](https://epyz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19724)**<br><sub>epyz.fa.us2.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
