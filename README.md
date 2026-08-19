@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,141 internships · 3,679 new-grad roles · 5,820 total openings**
+**2,127 internships · 3,668 new-grad roles · 5,795 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 740 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 502 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 84 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 27 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 788 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 736 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 492 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 85 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 28 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 786 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 740 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 825 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,114 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 734 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 807 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,127 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -45,7 +45,7 @@ Recent internship and co-op listings that open the employer's application page d
 | American Express | Software Engineer Intern - Enterprise Technology Services | Sunrise, FL | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-18 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | Assurant | Digital & AI Transformation Intern 1 - Internship Program | Atlanta, GA | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern-1_R-115203)**<br><sub>assurant.wd1.myworkdayjobs.com</sub> |
 | Assurant | Digital & AI Transformation Intern-1 | Atlanta, GA | Not listed | not available | 2026-08-18 | **[Apply →](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern-1_R-115202)**<br><sub>assurant.wd1.myworkdayjobs.com</sub> |
-| Avery Dennison | RFID Applications Engineer Co-op - Summer 2027 - Plus one semester | Miamisburg, OH | Summer 2027 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/AveryDennison/744000144153141)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Avery Dennison | RFID Applications Engineering Co-op - Summer 2027 (plus one semester) | Miamisburg, OH, us | Summer 2027 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/AveryDennison/744000144153141)**<br><sub>jobs.smartrecruiters.com</sub> |
 | By Light Professional IT Services | AI Intern | Orlando, FL | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs-bylight.icims.com/jobs/11206/job?mobile=true&needsRedirect=false)**<br><sub>jobs-bylight.icims.com</sub> |
 | By Light Professional IT Services | Software Design Engineer Intern | Orlando, FL | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs-bylight.icims.com/jobs/11204/job?mobile=true&needsRedirect=false)**<br><sub>jobs-bylight.icims.com</sub> |
 | Clinical Ink | Data Management Intern | Horsham, PA | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/ClinicalInk/89163444)**<br><sub>jobs.smartrecruiters.com</sub> |
