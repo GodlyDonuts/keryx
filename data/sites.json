@@ -545,6 +545,14 @@
     },
     {
       "boards": [],
+      "company": "TLC Engineering Solutions",
+      "key": "10064d6ed0035bc49c4eb71e",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.tlc-engineers.com/"
+    },
+    {
+      "boards": [],
       "company": "Henderson Engineers",
       "key": "10a9f87fecc3b312d2ad1cc2",
       "last_scanned": "2026-08-18",
@@ -558,6 +566,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.medscape.com/"
+    },
+    {
+      "boards": [],
+      "company": "HB Construction",
+      "key": "10f7c74eb3bffd86bdafe598",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://hbconstruction.com/"
     },
     {
       "company": "Sparrow",
@@ -1170,6 +1186,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.kissusa.com/"
+    },
+    {
+      "boards": [],
+      "company": "McKinstry",
+      "key": "2586c8477e8475e22dc1de04",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.mckinstry.com/"
     },
     {
       "boards": [
@@ -2238,6 +2262,14 @@
       "url": "https://www.linkedin.com/company/3345333"
     },
     {
+      "boards": [],
+      "company": "Protocol Nine",
+      "key": "43d8899f256086e7f55d6416",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://protocolnine.com/"
+    },
+    {
       "company": "Mount Sinai Morningside",
       "error": "public requests require HTTPS and a hostname",
       "key": "440b2d011ce5d180ab972f44",
@@ -2667,6 +2699,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.yale.edu/"
+    },
+    {
+      "company": "Bentley Group, Inc.",
+      "error": "public request failed for https://www.baeonline.com/: <urlopen error timed out>",
+      "key": "4fc1cf822e237ccb13ce1793",
+      "last_scanned": "2026-08-19",
+      "url": "https://www.baeonline.com/"
     },
     {
       "boards": [],
@@ -4700,6 +4739,16 @@
       "url": "https://www.jhu.edu/"
     },
     {
+      "boards": [
+        "oracle:ebud.fa.us2.oraclecloud.com:cx_1"
+      ],
+      "company": "Rise, a Quad agency",
+      "key": "8189710171c82b5c52e1c4e4",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.riseinteractive.com/"
+    },
+    {
       "boards": [],
       "company": "Brivo",
       "key": "81f29e77df009c5096d1c3f5",
@@ -5052,6 +5101,14 @@
       "key": "8a4c83a51cc7aa0939ee1126",
       "last_scanned": "2026-08-19",
       "url": "https://www.keysight.com/"
+    },
+    {
+      "boards": [],
+      "company": "MSI Defense Solutions",
+      "key": "8a4e84fe8647e67d465ce6ef",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.msidefense.com/"
     },
     {
       "boards": [],
@@ -5615,6 +5672,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://investor.campingworld.com/"
+    },
+    {
+      "boards": [],
+      "company": "The National Board for Certified Counselors",
+      "key": "9ad1b7a6473df5c575852444",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.nbcc.org/"
     },
     {
       "boards": [],
@@ -6682,6 +6747,14 @@
     },
     {
       "boards": [],
+      "company": "Kimberly-Clark",
+      "key": "b6a9bc5953a34f204682c37e",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.kimberly-clark.fr/"
+    },
+    {
+      "boards": [],
       "company": "ChenMed",
       "key": "b6dffd9b15814692a07e021f",
       "last_scanned": "2026-08-15",
@@ -6704,6 +6777,16 @@
       "key": "b6f61e781abe106ee0f5e2c9",
       "last_scanned": "2026-08-19",
       "url": "https://midwayusa.com/"
+    },
+    {
+      "boards": [
+        "greenhouse:universityofchicagoeconomics"
+      ],
+      "company": "Becker Friedman Institute for Economics",
+      "key": "b79af1e7a2b2a216ca36b122",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://bfi.uchicago.edu/"
     },
     {
       "boards": [],
@@ -7082,7 +7165,7 @@
       "company": "BNY",
       "error": "public requests require HTTPS and a hostname",
       "key": "c14ecfa883d97c446ce76f02",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-19",
       "url": "https://www.bny.com/"
     },
     {
@@ -7369,6 +7452,14 @@
       "url": "https://lcptracker.com/"
     },
     {
+      "boards": [],
+      "company": "Etegent Technologies",
+      "key": "c814c2bcde946f77b8ffd4fc",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.etegent.com/"
+    },
+    {
       "boards": [
         "oracle:eoje.fa.us2.oraclecloud.com:cx_1001"
       ],
@@ -7472,6 +7563,13 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://www.intelliswift.com/"
+    },
+    {
+      "company": "Michigan Medicine",
+      "error": "public request failed for https://www.uofmhealth.org/: HTTP Error 403: Forbidden",
+      "key": "cae8ba12e6fff9d87adb501b",
+      "last_scanned": "2026-08-19",
+      "url": "https://www.uofmhealth.org/"
     },
     {
       "boards": [],
@@ -7876,6 +7974,14 @@
       "url": "https://www.hunterdouglas.com/"
     },
     {
+      "boards": [],
+      "company": "Primus Aerospace",
+      "key": "d44cac1d545f486e4d269350",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://primusaero.com/"
+    },
+    {
       "boards": [
         "greenhouse:glossgenius"
       ],
@@ -8189,6 +8295,14 @@
     },
     {
       "boards": [],
+      "company": "General Atomics",
+      "key": "dd78da0cce443ba9cdf19427",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.ga.com/"
+    },
+    {
+      "boards": [],
       "company": "Scripps Research",
       "key": "ddeea0a56c061571cadfdd4d",
       "last_scanned": "2026-08-18",
@@ -8313,6 +8427,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.abbott.com/"
+    },
+    {
+      "boards": [],
+      "company": "North Wind Group",
+      "key": "e1ad5c44e1c0ac593899d30d",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://northwindgrp.com/"
     },
     {
       "boards": [
@@ -8704,6 +8826,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.thinkbrg.com/"
+    },
+    {
+      "company": "The State University of New York",
+      "error": "public request failed for https://www.suny.edu/: HTTP Error 403: Forbidden",
+      "key": "ecbff3cf84f1626dbfe6489e",
+      "last_scanned": "2026-08-19",
+      "url": "https://www.suny.edu/"
     },
     {
       "boards": [],

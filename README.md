@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,191 internships · 3,686 new-grad roles · 5,877 total openings**
+**2,277 internships · 3,681 new-grad roles · 5,958 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 769 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 495 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 90 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 27 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 810 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 774 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 498 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 92 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 28 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 885 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 753 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 794 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,139 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 744 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 806 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,131 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -43,12 +43,12 @@ Recent internship and co-op listings that open the employer's application page d
 | ByteDance | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | Seattle, WA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675477254269765941/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | San Jose, CA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675478684795881781/detail)**<br><sub>jobs.bytedance.com</sub> |
 | Centific | AI Research Intern - Physical AI | Remote Work( USA) | Not listed | not available | 2026-08-19 | **[Apply →](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1)**<br><sub>centific.wd1.myworkdayjobs.com</sub> |
-| Copart | Data Engineer Intern | Dallas, TX | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
+| Copart | Data Engineering Intern | Dallas, TX - Headquarters | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | Detroit Lions | Quantitative Research Intern | Allen Park, MI 48101 | Not listed | not stated | 2026-08-19 | **[Apply →](https://job-boards.greenhouse.io/detroitlions/jobs/4723291005)**<br><sub>job-boards.greenhouse.io</sub> |
 | GE Vernova | Application Engineer Co-op/Intern - PCS | Findlay Township, PA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-1)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
 | GE Vernova | Application Engineer Co-op/Intern - PCS | Findlay Township, PA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-2)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
-| InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | New York, New York, us | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Marmon Holdings | Data & Process Automation Intern - Duty Drawback | Newark, NJ | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Newark-NJ/Data---Process-Automation-Intern---Duty-Drawback_JR0000045184)**<br><sub>marmon.wd501.myworkdayjobs.com</sub> |
+| IMEG | Civil Engineering Intern / Bozeman, MT | Bozeman, MT | Not listed | not available | 2026-08-19 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Bozeman-MT/Civil-Engineering-Intern---Bozeman--MT_R-16529)**<br><sub>wd1.myworkdaysite.com</sub> |
+| IMEG | Civil Engineering Intern / Greenwood Village, CO | Denver Metro, CO | Not listed | not available | 2026-08-19 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Denver-Metro-CO/Civil-Engineering-Intern---Greenwood-Village--CO_R-16535)**<br><sub>wd1.myworkdaysite.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
