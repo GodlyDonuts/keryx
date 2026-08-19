@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,247 internships · 3,656 new-grad roles · 5,903 total openings**
+**2,186 internships · 3,652 new-grad roles · 5,838 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 753 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 489 | **[View openings →](internships/fall-2026.md)** |
+| ☀️ Summer 2027 | 752 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 487 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 83 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 27 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 895 | **[View openings →](internships/unscheduled.md)** |
+| ❄️ Winter 2027 | 28 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 836 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 751 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 775 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,130 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 791 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,110 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,6 +38,7 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | American Express | Campus - Internship Programme - Insurance Marketing & Product Analyst Intern - 2026 (Milan) | Milano, MI, Italy | Not listed | not stated | 2026-08-19 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012086)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| Bosch | Engineering Intern - Proton Exchange Membrane Water Electrolysis | Sunnyvale, CA, us | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000144370429)**<br><sub>jobs.smartrecruiters.com</sub> |
 | ByteDance | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | Seattle, WA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675477254269765941/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | San Jose, CA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675478684795881781/detail)**<br><sub>jobs.bytedance.com</sub> |
 | Detroit Lions | Quantitative Research Intern | Allen Park, MI 48101 | Not listed | not stated | 2026-08-19 | **[Apply →](https://job-boards.greenhouse.io/detroitlions/jobs/4723291005)**<br><sub>job-boards.greenhouse.io</sub> |
@@ -48,7 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | Microsoft | AI Software Engineer Intern | Redmond, WA, Mountain View, CA | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393556962891)**<br><sub>apply.careers.microsoft.com</sub> |
 | Nemours Children's Health | Intern- Research | Wilmington, DE, United States | Not listed | not stated | 2026-08-19 | **[Apply →](https://epyz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19724)**<br><sub>epyz.fa.us2.oraclecloud.com</sub> |
 | Nemours Children's Health | Intern- Research | Wilmington, DE, United States | Not listed | not stated | 2026-08-19 | **[Apply →](https://epyz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1%22%7D%7D/job/19724)**<br><sub>epyz.fa.us2.oraclecloud.com</sub> |
-| Nextiva | Marketing Intern - Data Science | Scottsdale, AZ | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://www.nextiva.com/company/careers-listing?gh_jid=8687999002)**<br><sub>www.nextiva.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links

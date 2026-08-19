@@ -74,6 +74,16 @@
       "url": "https://nyulangone.org/"
     },
     {
+      "boards": [
+        "workday:lseg.wd3.myworkdayjobs.com:lseg:careers"
+      ],
+      "company": "LSEG",
+      "key": "02b8813466da039772903d28",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.lseg.com/"
+    },
+    {
       "boards": [],
       "company": "Berkshire Hathaway Specialty Insurance",
       "key": "02c0bff0df6049ac0acf8572",
@@ -2690,6 +2700,16 @@
     },
     {
       "boards": [
+        "oracle:ebud.fa.us2.oraclecloud.com:cx_1"
+      ],
+      "company": "Quad",
+      "key": "51ae2006e13488bf7c1be80b",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.quad.com/"
+    },
+    {
+      "boards": [
         "oracle:eicl.fa.em5.oraclecloud.com:hagroup"
       ],
       "company": "Princess Cruises",
@@ -2988,6 +3008,16 @@
       "key": "58165b3d3312e204160f4769",
       "last_scanned": "2026-08-19",
       "url": "https://www.stryker.com/en-us/index.htm"
+    },
+    {
+      "boards": [
+        "workday:gaig.wd1.myworkdayjobs.com:gaig:gaig_external"
+      ],
+      "company": "Great American Insurance Group",
+      "key": "581ed692013316f210349c3c",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.greatamericaninsurancegroup.com/"
     },
     {
       "boards": [],
@@ -5036,6 +5066,13 @@
       "key": "8d636b9fb3a994b0c4c9e010",
       "last_scanned": "2026-08-19",
       "url": "https://abercrombie.com/"
+    },
+    {
+      "company": "Intuit",
+      "error": "public request failed for https://www.intuit.com/: HTTP Error 429: Too Many Requests",
+      "key": "8dca668e8a98f6c7ef1b607a",
+      "last_scanned": "2026-08-19",
+      "url": "https://www.intuit.com/"
     },
     {
       "company": "UVA Health",
@@ -7704,6 +7741,13 @@
       "url": "https://individual.carefirst.com/"
     },
     {
+      "company": "Certerra RMA Group",
+      "error": "public requests require HTTPS and a hostname",
+      "key": "d6f84de4d696b901dc5e905d",
+      "last_scanned": "2026-08-19",
+      "url": "https://rmacompanies.com/"
+    },
+    {
       "boards": [],
       "company": "CTR Cryo",
       "key": "d75abd2f0b694718ee83fdb8",
@@ -7980,6 +8024,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://truckerpath.com/"
+    },
+    {
+      "boards": [],
+      "company": "XPO",
+      "key": "deb714258d45abbe3afca2a7",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.xpo.com/"
     },
     {
       "boards": [],

@@ -3597,6 +3597,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Quad",
+      "host": "ebud.fa.us2.oraclecloud.com",
+      "key": "oracle:ebud.fa.us2.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "ebud"
+    },
+    {
+      "ats": "oracle",
       "company": "Hologic",
       "host": "ebwb.fa.us2.oraclecloud.com",
       "key": "oracle:ebwb.fa.us2.oraclecloud.com:cx",
@@ -8210,6 +8218,15 @@
       "site": "university",
       "slug": "lplfinancial",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "LSEG",
+      "host": "lseg.wd3.myworkdayjobs.com",
+      "key": "workday:lseg.wd3.myworkdayjobs.com:lseg:careers",
+      "site": "Careers",
+      "slug": "lseg",
+      "wd": "wd3"
     },
     {
       "ats": "workday",
