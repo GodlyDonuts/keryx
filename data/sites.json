@@ -3585,7 +3585,7 @@
       "company": "Savannah River Mission Completion",
       "error": "Invalid IPv6 URL",
       "key": "67fbd3d5e50a452605278458",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-19",
       "url": "https://www.savannahrivermissioncompletion.com/"
     },
     {
@@ -4491,6 +4491,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://versantmedia.com/"
+    },
+    {
+      "boards": [],
+      "company": "Precise Systems, Inc.",
+      "key": "8039096bcab17179ec281826",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://goprecise.com/"
     },
     {
       "boards": [],
@@ -5431,6 +5439,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.dignityhealth.org/"
+    },
+    {
+      "company": "University of Illinois Chicago",
+      "error": "public request failed for https://uic.edu/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "key": "9be9a7cfcc1defac66eff644",
+      "last_scanned": "2026-08-19",
+      "url": "https://uic.edu/"
     },
     {
       "boards": [],
@@ -6551,6 +6566,14 @@
     },
     {
       "boards": [],
+      "company": "Gemini, Inc.",
+      "key": "bb659cc4fba839656cfd1fef",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://geminimade.com/"
+    },
+    {
+      "boards": [],
       "company": "Hakk\u014dda, an IBM Company",
       "key": "bbd79d61333f2631227d8205",
       "last_scanned": "2026-08-15",
@@ -7656,6 +7679,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.aesculapimplantsystems.com/"
+    },
+    {
+      "boards": [
+        "oracle:hcbo.fa.us2.oraclecloud.com:cx_1"
+      ],
+      "company": "Cohu, Inc.",
+      "key": "d9686727fbe5540324c4036f",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.cohu.com/"
     },
     {
       "boards": [],
