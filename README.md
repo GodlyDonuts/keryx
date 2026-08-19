@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,186 internships · 3,652 new-grad roles · 5,838 total openings**
+**2,187 internships · 3,633 new-grad roles · 5,820 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 752 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 755 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 487 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 83 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 28 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 836 | **[View openings →](internships/unscheduled.md)** |
+| ❄️ Winter 2027 | 27 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 835 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 751 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 791 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,110 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 760 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,122 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -47,8 +47,8 @@ Recent internship and co-op listings that open the employer's application page d
 | Marmon Holdings | Data & Process Automation Intern - Duty Drawback | Newark, NJ | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Newark-NJ/Data---Process-Automation-Intern---Duty-Drawback_JR0000045184)**<br><sub>marmon.wd501.myworkdayjobs.com</sub> |
 | Mcmtech | AI Agent Developer Internship | Raleigh, NC, United States | Not listed | not available | 2026-08-19 | **[Apply →](https://ats.rippling.com/mcmjobs/jobs/66abfa59-bb9d-460a-b0b3-64445cfd74cf)**<br><sub>ats.rippling.com</sub> |
 | Microsoft | AI Software Engineer Intern | Redmond, WA, Mountain View, CA | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393556962891)**<br><sub>apply.careers.microsoft.com</sub> |
+| Moog | Intern, IT Computer Science | Buffalo, NY | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378)**<br><sub>moog.wd5.myworkdayjobs.com</sub> |
 | Nemours Children's Health | Intern- Research | Wilmington, DE, United States | Not listed | not stated | 2026-08-19 | **[Apply →](https://epyz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19724)**<br><sub>epyz.fa.us2.oraclecloud.com</sub> |
-| Nemours Children's Health | Intern- Research | Wilmington, DE, United States | Not listed | not stated | 2026-08-19 | **[Apply →](https://epyz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1%22%7D%7D/job/19724)**<br><sub>epyz.fa.us2.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
