@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,213 internships · 3,690 new-grad roles · 5,903 total openings**
+**2,216 internships · 3,689 new-grad roles · 5,905 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 761 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 489 | **[View openings →](internships/fall-2026.md)** |
+| ☀️ Summer 2027 | 768 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 490 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 89 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 29 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 845 | **[View openings →](internships/unscheduled.md)** |
+| ❄️ Winter 2027 | 28 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 841 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 745 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 806 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,139 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 750 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 813 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,126 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -42,13 +42,13 @@ Recent internship and co-op listings that open the employer's application page d
 | Bosch | Engineering Intern - Proton Exchange Membrane Water Electrolysis | Sunnyvale, CA, us | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000144370429)**<br><sub>jobs.smartrecruiters.com</sub> |
 | ByteDance | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | Seattle, WA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675477254269765941/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | San Jose, CA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675478684795881781/detail)**<br><sub>jobs.bytedance.com</sub> |
-| Copart | Data Engineering Intern | Dallas, TX - Headquarters | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
+| Copart | Data Engineer Intern | Dallas, TX | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | Copart | Site Reliability Engineer Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-08-19 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
-| Detroit Lions | Quantitative Research Intern | Allen Park, MI 48101 | Not listed | not stated | 2026-08-19 | **[Apply →](https://job-boards.greenhouse.io/detroitlions/jobs/4723291005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Detroit Lions | Quantitative Research Intern | Allen Park, MI | Fall 2026 | not stated | 2026-08-19 | **[Apply →](https://job-boards.greenhouse.io/detroitlions/jobs/4723291005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Freeform | Materials Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | Summer 2027 | Current student status<br><sub>required</sub> | 2026-08-19 | **[Apply →](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003)**<br><sub>job-boards.greenhouse.io</sub> |
 | GE Vernova | Application Engineer Co-op/Intern - PCS | Findlay Township, PA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-1)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
 | GE Vernova | Application Engineer Co-op/Intern - PCS | Findlay Township, PA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-2)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
-| IMEG | Civil Engineering Intern / Bozeman, MT | Bozeman, MT | Not listed | not available | 2026-08-19 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Bozeman-MT/Civil-Engineering-Intern---Bozeman--MT_R-16529)**<br><sub>wd1.myworkdaysite.com</sub> |
-| IMEG | Civil Engineering Intern / Greenwood Village, CO | Denver Metro, CO | Not listed | not available | 2026-08-19 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Denver-Metro-CO/Civil-Engineering-Intern---Greenwood-Village--CO_R-16535)**<br><sub>wd1.myworkdaysite.com</sub> |
+| General Matter | Summer 2027 Internship - Electrical Engineering | Los Angeles, CA | Summer 2027 | not stated | 2026-08-19 | **[Apply →](https://job-boards.greenhouse.io/generalmatter/jobs/5376052008)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
