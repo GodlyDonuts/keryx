@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,127 internships · 3,658 new-grad roles · 5,785 total openings**
+**2,138 internships · 3,654 new-grad roles · 5,792 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 741 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 494 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 83 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 27 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 782 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 745 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 492 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 84 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 26 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 791 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 744 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 801 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,113 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 738 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 795 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,121 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -59,6 +59,8 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Adobe | Software Development Engineer | Lehi, UT | Not listed | not available | 2026-08-19 | **[Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R170921)**<br><sub>adobe.wd5.myworkdayjobs.com</sub> |
+| Amazon | Software Development Engineer | Cambridge, MA | 2027 | not available | 2026-08-19 | **[Apply →](https://www.amazon.jobs/jobs/10489298/apply)**<br><sub>www.amazon.jobs</sub> |
+| Amazon | Software Development Engineer - Amazon Security | San Luis Obispo, CA | 2027 | not available | 2026-08-19 | **[Apply →](https://www.amazon.jobs/jobs/10494902/apply)**<br><sub>www.amazon.jobs</sub> |
 | ByteDance | Machine Learning Engineer Graduate - E-Commerce Risk Control | San Jose, CA | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675477660855781637/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Machine Learning Engineer Graduate - E-Commerce Risk Control | Seattle, WA | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675472998912051461/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Machine Learning Engineer Graduate - E-Commerce Risk Control | Seattle, WA | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675477254315428149/detail)**<br><sub>jobs.bytedance.com</sub> |
@@ -68,8 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | L3Harris Technologies | Associate Data Architect - Business Intelligence | Salt Lake City, UT, Rochester, NY, Nashville, TN, Londonderry, NH, Clifton, NJ, Melbourne, FL, Carlsbad, CA | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.l3harris.com/job/Melbourne-Associate,-Data-Architect-FL-32901/1420890100/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Data Architect Senior Associate - Business Intelligence | Salt Lake City, UT, Rochester, NY, Nashville, TN, Londonderry, NH, Clifton, NJ, Melbourne, FL, Carlsbad, CA | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.l3harris.com/job/Melbourne-Senior-Associate,-Data-Architect-FL-32901/1420890800/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | Microsoft | Data Center Technician | Fayetteville, GA, Atlanta, GA | Not listed | not available | 2026-08-19 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393556972020)**<br><sub>apply.careers.microsoft.com</sub> |
-| Normal Computing | AI Research Resident | Palo Alto, CA, London, UK, NYC | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.ashbyhq.com/normalcomputing/975c754f-e5dd-4137-9e3e-63c81405d84f/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| OKX | AI-Native Mobile Engineer New Grad | San Jose, CA | Not listed | not stated | 2026-08-19 | **[Apply →](https://job-boards.greenhouse.io/okx/jobs/7897680003)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
