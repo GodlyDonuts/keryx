@@ -4710,6 +4710,14 @@
       "url": "https://vectoratomic.com/"
     },
     {
+      "boards": [],
+      "company": "Persistent Systems, LLC",
+      "key": "89557c713afdab2b3f86bfa9",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.persistentsystems.com/"
+    },
+    {
       "company": "Pieper Automation",
       "error": "public request failed for https://pieperautomation.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
       "key": "89a995193f2d157a3787655f",
@@ -6366,7 +6374,7 @@
       "company": "Collins Aerospace",
       "error": "public request failed for https://www.rtx.com/collinsaerospace/: HTTP Error 403: Forbidden",
       "key": "b8a63ec118624fff797eb9c4",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-08-19",
       "url": "https://www.collinsaerospace.com/"
     },
     {

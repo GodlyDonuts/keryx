@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,145 internships · 3,646 new-grad roles · 5,791 total openings**
+**2,149 internships · 3,619 new-grad roles · 5,768 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 753 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 496 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 88 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 754 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 498 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 85 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 27 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 781 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 785 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 772 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 769 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,105 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 754 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 766 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,099 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -40,7 +40,7 @@ Recent internship and co-op listings that open the employer's application page d
 | American Express | Campus - Internship Programme - Insurance Marketing & Product Analyst Intern - 2026 (Milan) | Milano, MI, Italy | Not listed | not stated | 2026-08-19 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012086)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | ByteDance | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | Seattle, WA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675477254269765941/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | San Jose, CA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675478684795881781/detail)**<br><sub>jobs.bytedance.com</sub> |
-| InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | New York, New York, us | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579)**<br><sub>jobs.smartrecruiters.com</sub> |
+| InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | New York, New York, United States (Remote) | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Microsoft | AI Software Engineer Intern | Redmond, WA, Mountain View, CA | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393556962891)**<br><sub>apply.careers.microsoft.com</sub> |
 | Nextiva | Marketing Intern - Data Science | Scottsdale, AZ | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://www.nextiva.com/company/careers-listing?gh_jid=8687999002)**<br><sub>www.nextiva.com</sub> |
 | Normal Computing | Thermodynamic Hardware Resident | Palo Alto, CA, Silicon Valley, CA, NYC | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://jobs.ashbyhq.com/normalcomputing/5d57d8b1-612d-4ee0-941e-78a032a1ada2/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
@@ -61,6 +61,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Adobe | Software Development Engineer | Lehi, UT | Not listed | not available | 2026-08-19 | **[Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R170921)**<br><sub>adobe.wd5.myworkdayjobs.com</sub> |
 | Amazon | Software Development Engineer | Cambridge, MA | 2027 | not available | 2026-08-19 | **[Apply →](https://www.amazon.jobs/jobs/10489298/apply)**<br><sub>www.amazon.jobs</sub> |
 | Amazon | Software Development Engineer - Amazon Security | San Luis Obispo, CA | 2027 | not available | 2026-08-19 | **[Apply →](https://www.amazon.jobs/jobs/10494902/apply)**<br><sub>www.amazon.jobs</sub> |
+| Applied Systems | Associate Software Engineer / Software Engineer | Chicago, IL +2 | 2027 | not available | 2026-08-19 | **[Apply →](https://careers-appliedsystems.icims.com/jobs/7318/associate-software-engineer---software-engineer/job)**<br><sub>careers-appliedsystems.icims.com</sub> |
 | ByteDance | Machine Learning Engineer Graduate - E-Commerce Risk Control | San Jose, CA | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675477660855781637/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Machine Learning Engineer Graduate - E-Commerce Risk Control | Seattle, WA | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675472998912051461/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Machine Learning Engineer Graduate - E-Commerce Risk Control | Seattle, WA | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675477254315428149/detail)**<br><sub>jobs.bytedance.com</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Deeter Analytics | Machine Learning Engineer | Remote in USA | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.ashbyhq.com/deeter-analytics/2c12339b-d302-427c-9a73-d825b4b942b0/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Delta Galil Industries | Product Development Assistant | New York, NY, United States | 2026 | not available | 2026-08-19 | **[Apply →](https://www.linkedin.com/jobs/view/product-development-assistant-at-delta-galil-industries-4404393408?refId=mO6DWM8Ly8PJ4pUDFycRXA%3D%3D&trackingId=FJ6mbUu2aLscPA3nqxQC%2FA%3D%3D)**<br><sub>www.linkedin.com</sub> |
 | L3Harris Technologies | Associate Data Architect - Business Intelligence | Salt Lake City, UT, Rochester, NY, Nashville, TN, Londonderry, NH, Clifton, NJ, Melbourne, FL, Carlsbad, CA | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.l3harris.com/job/Melbourne-Associate,-Data-Architect-FL-32901/1420890100/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| L3Harris Technologies | Data Architect Senior Associate - Business Intelligence | Salt Lake City, UT, Rochester, NY, Nashville, TN, Londonderry, NH, Clifton, NJ, Melbourne, FL, Carlsbad, CA | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.l3harris.com/job/Melbourne-Senior-Associate,-Data-Architect-FL-32901/1420890800/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
