@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,173 internships · 3,638 new-grad roles · 5,811 total openings**
+**2,139 internships · 3,626 new-grad roles · 5,765 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 760 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 498 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 89 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 28 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 798 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 754 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 495 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 87 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 27 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 776 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 733 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 784 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,121 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 735 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 781 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,110 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -40,7 +40,7 @@ Recent internship and co-op listings that open the employer's application page d
 | American Express | Campus - Internship Programme - Insurance Marketing & Product Analyst Intern - 2026 (Milan) | Milano, MI, Italy | Not listed | not stated | 2026-08-19 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012086)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | ByteDance | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | Seattle, WA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675477254269765941/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | San Jose, CA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675478684795881781/detail)**<br><sub>jobs.bytedance.com</sub> |
-| InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | New York, New York, United States (Remote) | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579)**<br><sub>jobs.smartrecruiters.com</sub> |
+| InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | New York, New York, us | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Microsoft | AI Software Engineer Intern | Redmond, WA, Mountain View, CA | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393556962891)**<br><sub>apply.careers.microsoft.com</sub> |
 | Nextiva | Marketing Intern - Data Science | Scottsdale, AZ | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://www.nextiva.com/company/careers-listing?gh_jid=8687999002)**<br><sub>www.nextiva.com</sub> |
 | Normal Computing | Thermodynamic Hardware Resident | Palo Alto, CA, Silicon Valley, CA, NYC | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://jobs.ashbyhq.com/normalcomputing/5d57d8b1-612d-4ee0-941e-78a032a1ada2/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
