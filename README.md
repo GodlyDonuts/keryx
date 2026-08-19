@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,141 internships · 3,663 new-grad roles · 5,804 total openings**
+**2,126 internships · 3,653 new-grad roles · 5,779 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 740 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 503 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 86 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 735 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 502 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 84 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 27 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 785 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 778 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 735 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 790 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,138 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 782 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,136 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -66,10 +66,10 @@ Recent full-time opportunities that open the employer's application page directl
 | L3Harris Technologies | Associate Data Architect - Business Intelligence | Salt Lake City, UT, Rochester, NY, Nashville, TN, Londonderry, NH, Clifton, NJ, Melbourne, FL, Carlsbad, CA | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.l3harris.com/job/Melbourne-Associate,-Data-Architect-FL-32901/1420890100/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Data Architect Senior Associate - Business Intelligence | Salt Lake City, UT, Rochester, NY, Nashville, TN, Londonderry, NH, Clifton, NJ, Melbourne, FL, Carlsbad, CA | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.l3harris.com/job/Melbourne-Senior-Associate,-Data-Architect-FL-32901/1420890800/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | Microsoft | Data Center Technician | Fayetteville, GA, Atlanta, GA | Not listed | not available | 2026-08-19 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393556972020)**<br><sub>apply.careers.microsoft.com</sub> |
+| OKX | AI-Native Mobile Engineer New Grad | San Jose, CA | Not listed | not stated | 2026-08-19 | **[Apply →](https://job-boards.greenhouse.io/okx/jobs/7897680003)**<br><sub>job-boards.greenhouse.io</sub> |
 | Pinnacle Live | Event Services Technician - Event Technology - Audio Visual | San Diego, CA | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.jobvite.com/pinnaclelive/job/oywFAfw3?nl=1&nl=1&fr=false)**<br><sub>jobs.jobvite.com</sub> |
 | Seeq | AI Customer Insights Engineer | Remote in USA | Not listed | not available | 2026-08-19 | **[Apply →](https://apply.workable.com/seeq/j/6F40FF632B/apply)**<br><sub>apply.workable.com</sub> |
 | Thrive Causemetics | Product Development Coordinator | LA | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.lever.co/thrivecausemetics/2f465742-7f8b-460f-9936-ab62160385be/apply)**<br><sub>jobs.lever.co</sub> |
-| TikTok | Creative Product Operations Graduate - International Advertising - Creative and Brand Innovation | San Jose, CA | Not listed | not available | 2026-08-19 | **[Apply →](https://lifeattiktok.com/search/7673910154845014325)**<br><sub>lifeattiktok.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
