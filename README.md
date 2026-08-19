@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,251 internships · 3,715 new-grad roles · 5,966 total openings**
+**2,217 internships · 3,738 new-grad roles · 5,955 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 768 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 491 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 91 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 29 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 872 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 773 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 490 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 90 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 28 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 836 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 744 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 829 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,142 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 760 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 849 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,129 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,17 +38,17 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Agile Defense | Marketing and Communications Intern | McLean, VA | Not listed | Current student status<br><sub>stated</sub> | 2026-08-19 | **[Apply →](https://jobs.lever.co/agile-defense/d0c24500-bbe4-4dd4-b1c7-4b3d564f228e)**<br><sub>jobs.lever.co</sub> |
-| Allegheny County | 2027 Spring/Summer Internship: Business Analytics Intern | Pittsburgh, Pennsylvania | Summer 2027 | not stated | 2026-08-19 | **[Apply →](https://alleghenycounty.bamboohr.com/careers/663/)**<br><sub>alleghenycounty.bamboohr.com</sub> |
+| Allegheny County | Business Analytics Intern | Pittsburgh, PA | Summer 2027 | not stated | 2026-08-19 | **[Apply →](https://alleghenycounty.bamboohr.com/careers/663/)**<br><sub>alleghenycounty.bamboohr.com</sub> |
 | American Express | Campus - Internship Programme - Insurance Marketing & Product Analyst Intern - 2026 (Milan) | Milano, MI, Italy | Not listed | not stated | 2026-08-19 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012086)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | Bosch | Engineering Intern - Proton Exchange Membrane Water Electrolysis | Sunnyvale, CA, us | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000144370429)**<br><sub>jobs.smartrecruiters.com</sub> |
 | ByteDance | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | Seattle, WA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675477254269765941/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | San Jose, CA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675478684795881781/detail)**<br><sub>jobs.bytedance.com</sub> |
-| Copart | Data Engineering Intern | Dallas, TX - Headquarters | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
+| Copart | Data Engineer Intern | Dallas, TX | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | Copart | Site Reliability Engineer Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-08-19 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | Detroit Lions | Quantitative Research Intern | Allen Park, MI | Fall 2026 | not stated | 2026-08-19 | **[Apply →](https://job-boards.greenhouse.io/detroitlions/jobs/4723291005)**<br><sub>job-boards.greenhouse.io</sub> |
 | Eulerity | Website Developer & Technical Content Marketing Intern - AI & Automation | New York, NY | Not listed | Current student status<br><sub>stated</sub> | 2026-08-19 | **[Apply →](https://job-boards.greenhouse.io/eulerity/jobs/4706780006)**<br><sub>job-boards.greenhouse.io</sub> |
-| Freeform | Materials Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | Summer 2027 | Current student status<br><sub>required</sub> | 2026-08-19 | **[Apply →](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003)**<br><sub>job-boards.greenhouse.io</sub> |
-| GE Vernova | Application Engineer Co-op/Intern - PCS | Findlay Township, PA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-1)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
+| Freeform | Electrical Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | Summer 2027 | Current student status<br><sub>required</sub> | 2026-08-19 | **[Apply →](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895657003)**<br><sub>job-boards.greenhouse.io</sub> |
+| Freeform | Manufacturing Engineering Intern (Summer 2027) | Los Angeles, CA (On-site) | Summer 2027 | Current student status<br><sub>required</sub> | 2026-08-19 | **[Apply →](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895700003)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
