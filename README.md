@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,139 internships · 3,626 new-grad roles · 5,765 total openings**
+**2,145 internships · 3,646 new-grad roles · 5,791 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 754 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 495 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 87 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 753 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 496 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 88 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 27 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 776 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 781 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 735 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 781 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,110 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 772 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 769 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,105 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -48,7 +48,7 @@ Recent internship and co-op listings that open the employer's application page d
 | NVIDIA | Computer Architecture Intern | Santa Clara, CA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489)**<br><sub>nvidia.wd5.myworkdayjobs.com</sub> |
 | NVIDIA | Computer Vision and Deep Learning Intern | Santa Clara, CA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Computer-Vision-and-Deep-Learning_JR2023833)**<br><sub>nvidia.wd5.myworkdayjobs.com</sub> |
 | NVIDIA | Deep Learning Computer Architecture Intern | Santa Clara, CA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491)**<br><sub>nvidia.wd5.myworkdayjobs.com</sub> |
-| NVIDIA | Developer and Performance Technology Intern | Santa Clara, CA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499)**<br><sub>nvidia.wd5.myworkdayjobs.com</sub> |
+| NVIDIA | Generative AI Ph.D. Research Intern | Santa Clara, CA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Generative-AI_JR2023475)**<br><sub>nvidia.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
