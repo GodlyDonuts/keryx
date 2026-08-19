@@ -35,6 +35,14 @@
     },
     {
       "boards": [],
+      "company": "GCW, Inc.",
+      "key": "0079abf5690062f6b3d4dd3d",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://gcwengineering.com/"
+    },
+    {
+      "boards": [],
       "company": "Autoliv",
       "key": "00a62aec15df9bcce80f2ffa",
       "last_scanned": "2026-08-15",
@@ -636,6 +644,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://flip.id/"
+    },
+    {
+      "company": "MGM Resorts International",
+      "error": "public request failed for https://www.mgmresorts.com/: The read operation timed out",
+      "key": "140330e7771ea6fe479caadf",
+      "last_scanned": "2026-08-19",
+      "url": "https://mgmresorts.com/"
     },
     {
       "boards": [],
@@ -2376,6 +2391,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 1,
       "url": "https://www.zoomph.com/"
+    },
+    {
+      "boards": [],
+      "company": "AECOM",
+      "key": "4c5a0606cee127f9f0e25c90",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.aecom.com/"
     },
     {
       "company": "Bear Robotics",
@@ -5728,7 +5751,7 @@
       "company": "T-Mobile",
       "error": "Invalid IPv6 URL",
       "key": "a8106192bed87328c0610b3f",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-19",
       "url": "https://www.t-mobile.com/"
     },
     {
@@ -5806,6 +5829,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.microsoft.com/"
+    },
+    {
+      "boards": [],
+      "company": "Delta Galil Industries",
+      "key": "abc0ec83934d66e76d676bce",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 1,
+      "url": "https://deltagalil.com/"
     },
     {
       "boards": [
@@ -8036,6 +8067,13 @@
       "url": "https://www.ajg.com/uk"
     },
     {
+      "company": "Infosys",
+      "error": "public request failed for https://www.infosys.com/: HTTP Error 403: Forbidden",
+      "key": "eb401d2139ce32943d9ce970",
+      "last_scanned": "2026-08-19",
+      "url": "https://www.infosys.com/"
+    },
+    {
       "boards": [],
       "company": "Lionbridge",
       "key": "eb461b541298c14b7f12e646",
@@ -8739,6 +8777,17 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://www.phillips66.com/"
+    },
+    {
+      "boards": [
+        "workday:usc.wd5.myworkdayjobs.com:usc:externalusccareers",
+        "workday:usc.wd5.myworkdayjobs.com:usc:uscadvancementcareers"
+      ],
+      "company": "USC Auxiliary Services",
+      "key": "ffadc522a9483c816c744ab9",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 1,
+      "url": "https://aux.usc.edu/"
     },
     {
       "boards": [],
