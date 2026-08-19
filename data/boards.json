@@ -1953,6 +1953,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Detroit Lions",
+      "key": "greenhouse:detroitlions",
+      "slug": "detroitlions"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Dev Technology Group",
       "key": "greenhouse:devtechnology",
       "slug": "devtechnology"
@@ -4196,6 +4202,14 @@
       "key": "oracle:ibqbjb.fa.ocs.oraclecloud.com:honeywell",
       "site": "Honeywell",
       "slug": "ibqbjb"
+    },
+    {
+      "ats": "oracle",
+      "company": "Cherokee Federal",
+      "host": "ibtcjb.fa.ocs.oraclecloud.com",
+      "key": "oracle:ibtcjb.fa.ocs.oraclecloud.com:careers",
+      "site": "careers",
+      "slug": "ibtcjb"
     },
     {
       "ats": "oracle",
@@ -10255,6 +10269,15 @@
       "host": "troweprice.wd5.myworkdayjobs.com",
       "key": "workday:troweprice.wd5.myworkdayjobs.com:troweprice:troweprice",
       "site": "troweprice",
+      "slug": "troweprice",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "ALPFA Baltimore Chapter",
+      "host": "troweprice.wd5.myworkdayjobs.com",
+      "key": "workday:troweprice.wd5.myworkdayjobs.com:troweprice:trowepriceinternational",
+      "site": "TRowePriceInternational",
       "slug": "troweprice",
       "wd": "wd5"
     },

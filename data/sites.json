@@ -863,6 +863,14 @@
       "url": "https://skanska.com/"
     },
     {
+      "boards": [],
+      "company": "Allegheny County Department of Human Services",
+      "key": "19d3cc1f1faa28ab85849821",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.alleghenycounty.us/dhs"
+    },
+    {
       "boards": [
         "greenhouse:generalmatter"
       ],
@@ -1089,6 +1097,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.allerganaesthetics.com/"
+    },
+    {
+      "boards": [],
+      "company": "DraftKings Inc.",
+      "key": "2393636601310604d31c97a2",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.draftkings.com/"
     },
     {
       "boards": [
@@ -2532,6 +2548,16 @@
       "url": "https://www.wayfair.com/"
     },
     {
+      "boards": [
+        "oracle:ibtcjb.fa.ocs.oraclecloud.com:careers"
+      ],
+      "company": "Cherokee Federal",
+      "key": "4f0ce3460608f52311e7fe46",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://cherokee-federal.com/"
+    },
+    {
       "boards": [],
       "company": "Parsons Corporation",
       "key": "4f26027ec6c69ec6cf7c435a",
@@ -2546,6 +2572,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.thebluecollarsuccessgroup.com/"
+    },
+    {
+      "boards": [],
+      "company": "Mcmtech",
+      "key": "4f75664a2e9459c24de858b6",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 1,
+      "url": "https://mcmtechnology.com/"
     },
     {
       "boards": [],
@@ -2886,6 +2920,13 @@
       "url": "https://vendelux.com/"
     },
     {
+      "company": "Infojini Inc",
+      "error": "public redirect lacked a destination: https://www.infojiniconsulting.com/",
+      "key": "56ae6c584f4bd936e315b202",
+      "last_scanned": "2026-08-19",
+      "url": "https://www.infojiniconsulting.com/"
+    },
+    {
       "company": "Charles River Laboratories",
       "error": "public request failed for https://www.criver.com/: HTTP Error 403: Forbidden",
       "key": "57255b65e8211290fea2a682",
@@ -2899,6 +2940,14 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://www.4excelsior.com/"
+    },
+    {
+      "boards": [],
+      "company": "Fooji",
+      "key": "57a59c352b37b2879312d8cd",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://fooji.com/"
     },
     {
       "boards": [
@@ -4224,6 +4273,17 @@
       "key": "77e169e72cbf565b566b3dda",
       "last_scanned": "2026-08-17",
       "url": "https://www.mastercard.com/"
+    },
+    {
+      "boards": [
+        "workday:troweprice.wd5.myworkdayjobs.com:troweprice:troweprice",
+        "workday:troweprice.wd5.myworkdayjobs.com:troweprice:trowepriceinternational"
+      ],
+      "company": "ALPFA Baltimore Chapter",
+      "key": "77e74325aecab477336bd933",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.alpfa.org/baltimore-professional-chapter"
     },
     {
       "boards": [],
@@ -5704,6 +5764,13 @@
       "url": "https://www.pcconnection.com/"
     },
     {
+      "company": "METECS",
+      "error": "Invalid IPv6 URL",
+      "key": "a33036c64e2ecc1354bc5fee",
+      "last_scanned": "2026-08-19",
+      "url": "https://www.metecs.com/"
+    },
+    {
       "boards": [],
       "company": "Peraton",
       "key": "a39cb85ea53d3e892d69d546",
@@ -5998,6 +6065,14 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://www.iconectiv.com/"
+    },
+    {
+      "boards": [],
+      "company": "Rich Earth Institute",
+      "key": "ac8bcbb586bb28b22465f790",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://richearthinstitute.org/"
     },
     {
       "boards": [],
@@ -6956,6 +7031,14 @@
       "url": "https://drw.com/"
     },
     {
+      "boards": [],
+      "company": "SwitchThink Solutions",
+      "key": "c3fd278a4535ad8c01216de8",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.switchthink.com/"
+    },
+    {
       "company": "Festo",
       "error": "public request failed for https://www.festo.com/us/en: HTTP Error 403: Forbidden",
       "key": "c439cc22f1636ec981d45e0b",
@@ -7430,6 +7513,14 @@
       "url": "https://www.vultr.com/"
     },
     {
+      "boards": [],
+      "company": "Martin Marietta",
+      "key": "d0757664226db4378c3ccc03",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://martinmarietta.com/"
+    },
+    {
       "company": "IES Communications",
       "error": "Invalid IPv6 URL",
       "key": "d097184e4db60e492b710927",
@@ -7871,7 +7962,7 @@
       "company": "New York University",
       "error": "public request failed for https://www.nyu.edu/: HTTP Error 405: Not Allowed",
       "key": "de3fe8bccc13a70de9ed8d31",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-08-19",
       "url": "https://www.nyu.edu/"
     },
     {
