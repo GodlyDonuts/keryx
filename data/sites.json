@@ -341,6 +341,13 @@
       "url": "https://maverickslabs.io/"
     },
     {
+      "company": "U.S. News & World Report",
+      "error": "public request failed for https://www.usnews.com/: The read operation timed out",
+      "key": "0a106375d17473c11e596e38",
+      "last_scanned": "2026-08-19",
+      "url": "https://www.usnews.com/"
+    },
+    {
       "boards": [],
       "company": "GFT",
       "key": "0acd07d088b31d51b4df0ff5",
@@ -2502,6 +2509,14 @@
     },
     {
       "boards": [],
+      "company": "Markondo",
+      "key": "4e6e87c92228d8979b43ce8b",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.markondo.com/"
+    },
+    {
+      "boards": [],
       "company": "Intrado",
       "key": "4e908f4ebdf01a4ddc013a1c",
       "last_scanned": "2026-08-18",
@@ -2954,6 +2969,17 @@
       "key": "58b401ed83d58197e22370b9",
       "last_scanned": "2026-08-19",
       "url": "https://www.jpl.nasa.gov/"
+    },
+    {
+      "boards": [
+        "oracle:epyz.fa.us2.oraclecloud.com:cx_1",
+        "oracle:epyz.fa.us2.oraclecloud.com:cx_1%22%7d%7d"
+      ],
+      "company": "Nemours Children's Health",
+      "key": "58caf48b606bb2dba719f12c",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.nemours.org/"
     },
     {
       "company": "Tesla",
@@ -4690,6 +4716,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.workday.com/"
+    },
+    {
+      "boards": [
+        "lever:palantir"
+      ],
+      "company": "Palantir Technologies",
+      "key": "880592b70866f8539af186f4",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.palantir.com/"
     },
     {
       "boards": [],
@@ -7775,6 +7811,14 @@
     },
     {
       "boards": [],
+      "company": "Specialisterne USA",
+      "key": "dec8c2d25d0e2009dbd1d0b5",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://us.specialisterne.com/"
+    },
+    {
+      "boards": [],
       "company": "NBCUniversal",
       "key": "def841bd819e37d7f014f546",
       "last_scanned": "2026-08-15",
@@ -8075,6 +8119,14 @@
       "key": "e9f6f06029a15a885474fd00",
       "last_scanned": "2026-08-19",
       "url": "https://www.portseattle.org/Pages/default.aspx"
+    },
+    {
+      "boards": [],
+      "company": "REV Group, Inc",
+      "key": "ea31eb2c4e3439e44c88ab23",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.revgroup.com/"
     },
     {
       "boards": [
