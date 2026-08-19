@@ -2673,7 +2673,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "Rocket Lab",
+      "company": "Rocket Lab USA",
       "key": "greenhouse:rocketlab",
       "slug": "rocketlab"
     },
@@ -4396,6 +4396,12 @@
       "company": "Bosch",
       "key": "smartrecruiters:boschgroup",
       "slug": "BoschGroup"
+    },
+    {
+      "ats": "smartrecruiters",
+      "company": "Boston Engineering",
+      "key": "smartrecruiters:bostonengineeringcorporation",
+      "slug": "BostonEngineeringCorporation"
     },
     {
       "ats": "smartrecruiters",
@@ -6559,10 +6565,10 @@
     },
     {
       "ats": "workday",
-      "company": "Cox Automotive",
+      "company": "Cox",
       "host": "cox.wd1.myworkdayjobs.com",
       "key": "workday:cox.wd1.myworkdayjobs.com:cox:cox_external_career_site_1",
-      "site": "Cox_External_Career_Site_1",
+      "site": "cox_external_career_site_1",
       "slug": "cox",
       "wd": "wd1"
     },
@@ -7949,6 +7955,15 @@
       "host": "invesco.wd1.myworkdayjobs.com",
       "key": "workday:invesco.wd1.myworkdayjobs.com:invesco:ivz",
       "site": "IVZ",
+      "slug": "invesco",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Invesco",
+      "host": "invesco.wd1.myworkdayjobs.com",
+      "key": "workday:invesco.wd1.myworkdayjobs.com:invesco:ivzearlycareers",
+      "site": "IVZearlycareers",
       "slug": "invesco",
       "wd": "wd1"
     },
@@ -10424,6 +10439,15 @@
       "host": "tti.wd1.myworkdayjobs.com",
       "key": "workday:tti.wd1.myworkdayjobs.com:tti:milwaukee",
       "site": "milwaukee",
+      "slug": "tti",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Techtronic Industries (TTI)",
+      "host": "tti.wd1.myworkdayjobs.com",
+      "key": "workday:tti.wd1.myworkdayjobs.com:tti:tti_pe",
+      "site": "tti_pe",
       "slug": "tti",
       "wd": "wd1"
     },
