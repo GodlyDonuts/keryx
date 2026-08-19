@@ -1120,6 +1120,16 @@
       "url": "https://www.allerganaesthetics.com/"
     },
     {
+      "boards": [
+        "workday:ryancompanies.wd5.myworkdayjobs.com:ryancompanies:ryancompanies"
+      ],
+      "company": "Ryan Companies US, Inc.",
+      "key": "22c73401b5949c2bcc641e75",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.ryancompanies.com/"
+    },
+    {
       "boards": [],
       "company": "DraftKings Inc.",
       "key": "2393636601310604d31c97a2",
@@ -1908,6 +1918,14 @@
       "url": "https://www.fanaticsinc.com/"
     },
     {
+      "boards": [],
+      "company": "Invio Automation",
+      "key": "395cd5d211d28d8f10ea0910",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://invioautomation.com/"
+    },
+    {
       "company": "ZOLL Medical Corporation",
       "error": "public request failed for https://www.lifevest.zoll.com/: HTTP Error 502: Bad Gateway",
       "key": "3981002d65d5397b11bfdb49",
@@ -2244,6 +2262,16 @@
       "url": "https://www.cognizant.com/"
     },
     {
+      "boards": [
+        "workday:masseyservices.wd5.myworkdayjobs.com:masseyservices:masseyservices"
+      ],
+      "company": "Massey Services, Inc.",
+      "key": "457f71bacd9e92dbc86d605a",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.masseyservices.com/"
+    },
+    {
       "boards": [],
       "company": "ITW",
       "key": "4592c19446a6ee3cc29175ea",
@@ -2429,6 +2457,14 @@
       "key": "4b4b3bc431b4d7e97dbb5da5",
       "last_scanned": "2026-08-19",
       "url": "https://www.caterpillar.com/"
+    },
+    {
+      "boards": [],
+      "company": "Bosch",
+      "key": "4b58a5ff2f88798a87e20bdf",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.bosch.com/"
     },
     {
       "boards": [],
@@ -3539,7 +3575,7 @@
       "company": "SIG SAUER, Inc.",
       "error": "public request failed for https://www.sigsauer.com/: HTTP Error 403: Forbidden",
       "key": "65ab42fdd08766ba5bf90249",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-08-19",
       "url": "https://www.sigsauer.com/"
     },
     {
@@ -3856,6 +3892,13 @@
       "key": "6e1dbefdee0f362023608d2e",
       "last_scanned": "2026-08-18",
       "url": "https://www.dvtrading.co/"
+    },
+    {
+      "company": "Microchip Technology Inc.",
+      "error": "public request failed for https://www.microchip.com/: HTTP Error 403: Forbidden",
+      "key": "6e4442d676256fc2044633d6",
+      "last_scanned": "2026-08-19",
+      "url": "https://www.microchip.com/"
     },
     {
       "boards": [],
@@ -4802,6 +4845,14 @@
     },
     {
       "boards": [],
+      "company": "TopBuild",
+      "key": "8727882ffc79205f04278597",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.topbuild.com/"
+    },
+    {
+      "boards": [],
       "company": "HP",
       "key": "8734898437bb423e7bd7701d",
       "last_scanned": "2026-08-17",
@@ -4926,6 +4977,14 @@
       "key": "89a995193f2d157a3787655f",
       "last_scanned": "2026-08-17",
       "url": "https://pieperautomation.com/"
+    },
+    {
+      "boards": [],
+      "company": "LG Energy Solution",
+      "key": "89e325438d8200c5306827dd",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.lgensol.com/"
     },
     {
       "boards": [
@@ -5085,6 +5144,14 @@
       "key": "8d636b9fb3a994b0c4c9e010",
       "last_scanned": "2026-08-19",
       "url": "https://abercrombie.com/"
+    },
+    {
+      "boards": [],
+      "company": "LexisNexis",
+      "key": "8dbc84c3e4ae4cf92d640c99",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.lexisnexis.com/"
     },
     {
       "company": "Intuit",
@@ -7503,6 +7570,13 @@
       "url": "https://block.xyz/"
     },
     {
+      "company": "WTW",
+      "error": "public request failed for https://www.wtwco.com/: HTTP Error 429: Too Many Requests",
+      "key": "ce477d511e3b240f5e6a5a3c",
+      "last_scanned": "2026-08-19",
+      "url": "https://www.wtwco.com/"
+    },
+    {
       "company": "Solar Turbines",
       "error": "public request failed for https://www.solarturbines.com/: The read operation timed out",
       "key": "cea5c5bef940afaa674ce18f",
@@ -7644,6 +7718,14 @@
     },
     {
       "boards": [],
+      "company": "Evolution Research Group",
+      "key": "d14aa8ccd3aea080f1e38631",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://ergclinical.com/"
+    },
+    {
+      "boards": [],
       "company": "LG Electronics",
       "key": "d1969c88a763a49135dc78b7",
       "last_scanned": "2026-08-15",
@@ -7709,6 +7791,13 @@
       "url": "https://www.arthrex.com/"
     },
     {
+      "company": "Carollo Engineers",
+      "error": "public request failed for https://www.carollo.com/: HTTP Error 403: Forbidden",
+      "key": "d316d567af507d8f1dc4fdd5",
+      "last_scanned": "2026-08-19",
+      "url": "https://www.carollo.com/"
+    },
+    {
       "boards": [
         "workday:pimco.wd1.myworkdayjobs.com:pimco:pimco-careers"
       ],
@@ -7717,6 +7806,14 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://www.pimco.com/"
+    },
+    {
+      "boards": [],
+      "company": "Rassey Industries Inc",
+      "key": "d36ba67b1b908a362e88d690",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.rassey.com/"
     },
     {
       "boards": [],
@@ -7885,6 +7982,13 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://americaniir.org/"
+    },
+    {
+      "company": "Analog Devices",
+      "error": "public request failed for https://www.analog.com/: The read operation timed out",
+      "key": "da5b6ccc15041bc6fbc26e91",
+      "last_scanned": "2026-08-19",
+      "url": "https://www.analog.com/"
     },
     {
       "boards": [],
@@ -8612,6 +8716,16 @@
       "url": "https://www.firstam.com/"
     },
     {
+      "boards": [
+        "ashby:crusoe"
+      ],
+      "company": "Crusoe",
+      "key": "ede0b0d9037f019eec33f66b",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://crusoe.ai/"
+    },
+    {
       "boards": [],
       "company": "Samsara",
       "key": "ee741c4f35b471581aebed18",
@@ -8704,6 +8818,14 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 1,
       "url": "https://www.lotusworks.com/"
+    },
+    {
+      "boards": [],
+      "company": "Walter P Moore",
+      "key": "f00932fb680c288a4caa06e3",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.walterpmoore.com/"
     },
     {
       "boards": [],
@@ -8952,6 +9074,13 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://www.msasafety.com/global"
+    },
+    {
+      "company": "Fountain Digital",
+      "error": "public requests require HTTPS and a hostname",
+      "key": "f6d40b664aa1c34deef9e846",
+      "last_scanned": "2026-08-19",
+      "url": "https://fountaindigital.com/"
     },
     {
       "boards": [],
