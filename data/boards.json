@@ -1208,6 +1208,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Teragen Energy",
+      "key": "ashby:teragenenergy",
+      "slug": "teragenenergy"
+    },
+    {
+      "ats": "ashby",
       "company": "Terranova",
       "key": "ashby:terranova",
       "slug": "terranova"
@@ -6282,6 +6288,15 @@
       "site": "clearwater_analytics_careers",
       "slug": "clearwateranalytics",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Continental Resources",
+      "host": "clr.wd5.myworkdayjobs.com",
+      "key": "workday:clr.wd5.myworkdayjobs.com:clr:clr_careers",
+      "site": "CLR_Careers",
+      "slug": "clr",
+      "wd": "wd5"
     },
     {
       "ats": "workday",

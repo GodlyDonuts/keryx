@@ -638,6 +638,14 @@
       "url": "https://flip.id/"
     },
     {
+      "boards": [],
+      "company": "Whirlpool Corporation",
+      "key": "144dfbd3d1545da3e390c36d",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.whirlpoolcorp.com/"
+    },
+    {
       "company": "McKinsey & Company",
       "error": "public request failed for https://www.mckinsey.com/: The read operation timed out",
       "key": "14a922610f3ad110177e05d3",
@@ -907,6 +915,14 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://www.grainger.com/"
+    },
+    {
+      "boards": [],
+      "company": "UT MD Anderson",
+      "key": "1eaa10ff21314d4ff41012b8",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.mdanderson.org/"
     },
     {
       "boards": [],
@@ -2706,6 +2722,14 @@
       "url": "https://1komma5.com/"
     },
     {
+      "boards": [],
+      "company": "Avicena Tech",
+      "key": "553a2c42151e0546456a9608",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.avicena.tech/"
+    },
+    {
       "boards": [
         "oracle:ejkz.fa.us2.oraclecloud.com:cx_1"
       ],
@@ -3219,6 +3243,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://jmtest.com/"
+    },
+    {
+      "boards": [],
+      "company": "WD",
+      "key": "614eaedc2d32b02535d89977",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.westerndigital.com/"
     },
     {
       "boards": [
@@ -4644,7 +4676,7 @@
       "company": "Keysight Technologies",
       "error": "public request failed for https://www.keysight.com/us/en/home.html: HTTP Error 403: Forbidden",
       "key": "8a4c83a51cc7aa0939ee1126",
-      "last_scanned": "2026-08-16",
+      "last_scanned": "2026-08-19",
       "url": "https://www.keysight.com/"
     },
     {
@@ -4698,6 +4730,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.aegworldwide.com/"
+    },
+    {
+      "boards": [
+        "ashby:teragenenergy"
+      ],
+      "company": "Teragen Energy",
+      "key": "8c162d68c921f4d5577e8a94",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.teragenenergy.com/"
     },
     {
       "company": "Edelman",
@@ -8603,6 +8645,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.freddiemac.com/"
+    },
+    {
+      "boards": [],
+      "company": "Phillips 66",
+      "key": "ffa1600b02f2844d0967a3bf",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.phillips66.com/"
     },
     {
       "boards": [],
