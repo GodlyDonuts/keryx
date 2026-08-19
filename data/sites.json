@@ -966,6 +966,14 @@
     },
     {
       "boards": [],
+      "company": "Motorola Mobility (a Lenovo Company)",
+      "key": "20e9b494e98c0201629afc0a",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.motorola.com/"
+    },
+    {
+      "boards": [],
       "company": "KLA",
       "key": "2118055d23a6172d6ddfb952",
       "last_scanned": "2026-08-18",
@@ -2302,7 +2310,7 @@
       "company": "Caterpillar Inc.",
       "error": "public request failed for https://www.caterpillar.com/: The read operation timed out",
       "key": "4b4b3bc431b4d7e97dbb5da5",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-08-19",
       "url": "https://www.caterpillar.com/"
     },
     {
@@ -2953,6 +2961,16 @@
       "url": "https://www.rdindustries.com/"
     },
     {
+      "boards": [
+        "ashby:qa"
+      ],
+      "company": "QA Wolf",
+      "key": "5b5b13d505ec1879d49de724",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.qawolf.com/?utm_source=crunchbase&utm_medium=referral&utm_campaign=ReviewSites_ProfileCustomCTA_46185"
+    },
+    {
       "boards": [],
       "company": "Danfoss",
       "key": "5bc77ee3ceb507e30e9142a8",
@@ -3173,6 +3191,16 @@
       "last_scanned": "2026-08-16",
       "resolved_roles": 0,
       "url": "https://www.oneimpression.io/"
+    },
+    {
+      "boards": [
+        "workday:trimedx.wd1.myworkdayjobs.com:trimedx:tmx"
+      ],
+      "company": "Trimedx",
+      "key": "60ff84aa63aef0e0f5f9131c",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://trimedx.com/"
     },
     {
       "boards": [
@@ -4697,7 +4725,7 @@
       "company": "Cushman & Wakefield",
       "error": "public request failed for https://www.cushmanwakefield.com/: HTTP Error 403: Forbidden",
       "key": "8d37c9ef521fadd30b574bd7",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-19",
       "url": "https://www.cushmanwakefield.com/"
     },
     {
@@ -5116,6 +5144,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://investor.campingworld.com/"
+    },
+    {
+      "boards": [],
+      "company": "Pursuit Aerospace",
+      "key": "9ae6cbc31e2ee083c857590e",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://pursuitaero.com/"
     },
     {
       "boards": [],
@@ -5737,6 +5773,16 @@
       "url": "https://fiverings.com/"
     },
     {
+      "boards": [
+        "workday:geaerospace.wd5.myworkdayjobs.com:geaerospace:ge_externalsite"
+      ],
+      "company": "Unison",
+      "key": "add100f331d9507f05e11c22",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.unisonindustries.com/"
+    },
+    {
       "boards": [],
       "company": "Morgan Stanley",
       "key": "ade9abef1e457214375b6f6d",
@@ -6074,6 +6120,13 @@
       "key": "b5cd5dc20fc3d7d6f0f17f86",
       "last_scanned": "2026-08-16",
       "url": "https://www.appliedmaterials.com/"
+    },
+    {
+      "company": "Lakeshore Learning Materials",
+      "error": "public request failed for https://www.lakeshorelearning.com/: The read operation timed out",
+      "key": "b5e8c6e2fd5d69b5c478aed3",
+      "last_scanned": "2026-08-19",
+      "url": "https://www.lakeshorelearning.com/"
     },
     {
       "boards": [],
@@ -8330,6 +8383,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.webfx.com/"
+    },
+    {
+      "company": "Salas O'Brien",
+      "error": "public request failed for https://salasobrien.com/about/: HTTP Error 404: Not Found",
+      "key": "f9afbd9082e566faa78a1b13",
+      "last_scanned": "2026-08-19",
+      "url": "https://www.salasobrien.com/about/"
     },
     {
       "boards": [],

@@ -974,6 +974,12 @@
     },
     {
       "ats": "ashby",
+      "company": "QA Wolf",
+      "key": "ashby:qa",
+      "slug": "QA"
+    },
+    {
+      "ats": "ashby",
       "company": "Quadrillion",
       "key": "ashby:quadrillion-labs",
       "slug": "quadrillion-labs"
@@ -2439,6 +2445,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "OKX",
+      "key": "greenhouse:okx",
+      "slug": "okx"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Old Mission Capital",
       "key": "greenhouse:oldmissioncapital",
       "slug": "oldmissioncapital"
@@ -3426,6 +3438,12 @@
       "company": "AHEAD",
       "key": "lever:thinkahead",
       "slug": "thinkahead"
+    },
+    {
+      "ats": "lever",
+      "company": "Thrive Causemetics",
+      "key": "lever:thrivecausemetics",
+      "slug": "thrivecausemetics"
     },
     {
       "ats": "lever",
@@ -4878,6 +4896,12 @@
       "company": "Securityriskadvisors",
       "key": "workable:securityriskadvisors",
       "slug": "securityriskadvisors"
+    },
+    {
+      "ats": "workable",
+      "company": "Seeq",
+      "key": "workable:seeq",
+      "slug": "seeq"
     },
     {
       "ats": "workable",
