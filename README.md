@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,119 internships · 3,649 new-grad roles · 5,768 total openings**
+**2,151 internships · 3,656 new-grad roles · 5,807 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 731 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 500 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 86 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 745 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 501 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 85 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 26 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 776 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 794 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 738 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 802 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,109 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 737 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 798 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,121 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -41,10 +41,10 @@ Recent internship and co-op listings that open the employer's application page d
 | Amentum | Mechanical Engineering Intern | US-ID-Scoville | Not listed | not available | 2026-08-18 | **[Apply →](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-ID-Scoville/Mechanical-Engineering-Intern_R0168396-1)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Global Servicing- New York, NY | New York, NY, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-18 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012627)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Product Development, Global Servicing- New York, NY | New York, NY, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-18 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012749)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL | Sunrise, FL, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-18 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| Assurant | Digital & AI Transformation Intern-1 | Atlanta, GA | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern-1_R-115203)**<br><sub>assurant.wd1.myworkdayjobs.com</sub> |
+| American Express | Software Engineer Intern - Enterprise Technology Services | Sunrise, FL | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-18 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| Assurant | Digital & AI Transformation Intern 1 - Internship Program | Atlanta, GA | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern-1_R-115203)**<br><sub>assurant.wd1.myworkdayjobs.com</sub> |
 | Assurant | Digital & AI Transformation Intern-1 | Atlanta, GA | Not listed | not available | 2026-08-18 | **[Apply →](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern-1_R-115202)**<br><sub>assurant.wd1.myworkdayjobs.com</sub> |
-| Avery Dennison | RFID Applications Engineering Co-op - Summer 2027 (plus one semester) | Miamisburg, OH, us | Summer 2027 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/AveryDennison/744000144153141)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Avery Dennison | RFID Applications Engineer Co-op - Summer 2027 - Plus one semester | Miamisburg, OH | Summer 2027 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/AveryDennison/744000144153141)**<br><sub>jobs.smartrecruiters.com</sub> |
 | By Light Professional IT Services | AI Intern | Orlando, FL | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs-bylight.icims.com/jobs/11206/job?mobile=true&needsRedirect=false)**<br><sub>jobs-bylight.icims.com</sub> |
 | By Light Professional IT Services | Software Design Engineer Intern | Orlando, FL | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs-bylight.icims.com/jobs/11204/job?mobile=true&needsRedirect=false)**<br><sub>jobs-bylight.icims.com</sub> |
 | Clinical Ink | Data Management Intern | Horsham, PA | Fall 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/ClinicalInk/89163444)**<br><sub>jobs.smartrecruiters.com</sub> |
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Microsoft | Data Center Technician | Fayetteville, GA, Atlanta, GA | Not listed | not available | 2026-08-19 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393556972020)**<br><sub>apply.careers.microsoft.com</sub> |
+| TikTok | Creative Product Operations Graduate - International Advertising - Creative and Brand Innovation | San Jose, CA | Not listed | not available | 2026-08-19 | **[Apply →](https://lifeattiktok.com/search/7673910154845014325)**<br><sub>lifeattiktok.com</sub> |
+| TikTok | Data Analyst Graduate | Fontana, CA | Not listed | not available | 2026-08-19 | **[Apply →](https://lifeattiktok.com/search/7675510156642142469)**<br><sub>lifeattiktok.com</sub> |
+| TikTok | Data Engineer Graduate - Data Platform - Global Live | San Jose, CA | Not listed | not available | 2026-08-19 | **[Apply →](https://lifeattiktok.com/search/7675484418022181173)**<br><sub>lifeattiktok.com</sub> |
+| TikTok | Product Manager Graduate - Content and Service - Search Ads | San Jose, CA | Not listed | not available | 2026-08-19 | **[Apply →](https://lifeattiktok.com/search/7675440171819960629)**<br><sub>lifeattiktok.com</sub> |
+| TikTok | Product Manager Graduate - Scaled Growth | San Jose, CA | Not listed | not available | 2026-08-19 | **[Apply →](https://lifeattiktok.com/search/7675439423287314693)**<br><sub>lifeattiktok.com</sub> |
 | Alpha Nexus Group | C++ Software Engineer | Chicago, IL | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.smartrecruiters.com/AlphaNexusGroup/90016777)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Amazon | Jr. Software Development Engineer - San Luis Obispo - CA - Jr. Developer Program | San Luis Obispo, CA | 2027 | not available | 2026-08-18 | **[Apply →](https://www.amazon.jobs/jobs/10420146/apply)**<br><sub>www.amazon.jobs</sub> |
 | Amazon | Software Development Engineer | Cambridge, MA | 2027 | not available | 2026-08-18 | **[Apply →](https://www.amazon.jobs/jobs/10489298/apply)**<br><sub>www.amazon.jobs</sub> |
 | Amazon | Software Development Engineer - Amazon Security | San Luis Obispo, CA | 2027 | not available | 2026-08-18 | **[Apply →](https://www.amazon.jobs/jobs/10494902/apply)**<br><sub>www.amazon.jobs</sub> |
 | AMD | Field Application Engineer Graduate Rotational Program | San Jose, CA | Not listed | not available | 2026-08-18 | **[Apply →](https://careers.amd.com/jobs/89552?icims=1)**<br><sub>careers.amd.com</sub> |
 | Analytic Partners | Marketing Science Analyst | Charlottesville, VA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.lever.co/analyticpartners/2b2d2044-6df5-4b36-b860-2a40e45d1dcf/apply)**<br><sub>jobs.lever.co</sub> |
-| Apple | Software Engineer - IS&T Early Career Opportunities | Cupertino, CA, Sunnyvale, CA | 2026 | not available | 2026-08-18 | **[Apply →](https://jobs.apple.com/en-us/details/200678510)**<br><sub>jobs.apple.com</sub> |
-| Applied Intuition | Hardware Integration Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-08-18 | **[Apply →](https://jobs.ashbyhq.com/applied/4c3cd892-2ef0-40b6-877a-39540a224a5c/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Applied Materials | Software Support Engineer 1 - Global | Austin, TX | Not listed | not available | 2026-08-18 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Global-Software-Support-Engineer-I_R2625245)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
-| Applied Systems | Associate Software Engineer / Software Engineer | Chicago, IL +2 | 2027 | not available | 2026-08-18 | **[Apply →](https://careers-appliedsystems.icims.com/jobs/7318/associate-software-engineer---software-engineer/job)**<br><sub>careers-appliedsystems.icims.com</sub> |
-| Archer | Senior Software Engineer - Backend | San Jose, CA | Not listed | not available | 2026-08-18 | **[Apply →](https://job-boards.greenhouse.io/archer56/jobs/7499031003)**<br><sub>job-boards.greenhouse.io</sub> |
-| Astrion | Junior Software Developer - Datalinks Test Flight | Eglin AFB, FL | Not listed | not available | 2026-08-18 | **[Apply →](https://careers.astrion.us/jobs/24705?icims=1)**<br><sub>careers.astrion.us</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

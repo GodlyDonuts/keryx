@@ -1417,6 +1417,13 @@
     },
     {
       "ats": "bamboohr",
+      "company": "Dakota Kitchen & Bath",
+      "host": "dakotakitchen.bamboohr.com",
+      "key": "bamboohr:dakotakitchen",
+      "slug": "dakotakitchen"
+    },
+    {
+      "ats": "bamboohr",
       "company": "Dubak Electrical",
       "host": "dubak.bamboohr.com",
       "key": "bamboohr:dubak",
@@ -5855,6 +5862,15 @@
       "site": "external",
       "slug": "btisolutions",
       "wd": "wd12"
+    },
+    {
+      "ats": "workday",
+      "company": "Busey Bank",
+      "host": "busey.wd503.myworkdayjobs.com",
+      "key": "workday:busey.wd503.myworkdayjobs.com:busey:busey",
+      "site": "busey",
+      "slug": "busey",
+      "wd": "wd503"
     },
     {
       "ats": "workday",

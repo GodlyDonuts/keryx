@@ -871,6 +871,14 @@
     },
     {
       "boards": [],
+      "company": "Care Predictor",
+      "key": "1d17889e5b0b25651db29272",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://carepredictor.com/"
+    },
+    {
+      "boards": [],
       "company": "Boys & Girls Clubs of Utah County",
       "key": "1dccd1156c2de8d9671acbb5",
       "last_scanned": "2026-08-15",
@@ -1233,6 +1241,14 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 1,
       "url": "https://www.mountsinai.org/"
+    },
+    {
+      "boards": [],
+      "company": "Nintendo",
+      "key": "2c489443c85d21799904aa82",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://nintendo.com/"
     },
     {
       "boards": [
@@ -4327,6 +4343,14 @@
     },
     {
       "boards": [],
+      "company": "Bobrick",
+      "key": "828bf304a47329e184e0b2c8",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://bobrick.com/"
+    },
+    {
+      "boards": [],
       "company": "State of Florida",
       "key": "82bbb414552d880a9f877292",
       "last_scanned": "2026-08-15",
@@ -4429,6 +4453,13 @@
       "key": "85b10e90effac9ef17410d42",
       "last_scanned": "2026-08-19",
       "url": "https://www.st.com/"
+    },
+    {
+      "company": "Tyson Foods",
+      "error": "public request failed for https://tysonfoods.com/: HTTP Error 403: Forbidden",
+      "key": "860d5960a1495e5efa1b5f49",
+      "last_scanned": "2026-08-19",
+      "url": "https://tysonfoods.com/"
     },
     {
       "boards": [],
@@ -4606,7 +4637,7 @@
       "company": "Marathon Petroleum Corporation",
       "error": "public request failed for https://www.marathonpetroleum.com/: HTTP Error 403: Forbidden",
       "key": "8b96c5fecf4a8c25a350411f",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-08-19",
       "url": "https://www.marathonpetroleum.com/"
     },
     {
@@ -4717,6 +4748,14 @@
       "url": "https://www.nextgencodingcompany.com/"
     },
     {
+      "boards": [],
+      "company": "Terumo Blood and Cell Technologies",
+      "key": "8f8ba2b92471875fca7ebfc0",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.terumobct.com/"
+    },
+    {
       "boards": [
         "workday:bah.wd1.myworkdayjobs.com:bah:bah_jobs"
       ],
@@ -4780,6 +4819,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.watchfiresigns.com/"
+    },
+    {
+      "boards": [],
+      "company": "ZEISS Group",
+      "key": "90d824537eabd0e1b1f11c5e",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.zeiss.com/"
     },
     {
       "boards": [],
@@ -5032,6 +5079,14 @@
     },
     {
       "boards": [],
+      "company": "TRACTIAN",
+      "key": "9a5a989a66ac79bc024564a1",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://tractian.com/"
+    },
+    {
+      "boards": [],
       "company": "Skild AI",
       "key": "9a718759ea04e911036385b8",
       "last_scanned": "2026-08-16",
@@ -5159,7 +5214,7 @@
       "company": "Cargill",
       "error": "public request failed for https://www.cargill.com/home: HTTP Error 403: Forbidden",
       "key": "9e7dda2c8ca43af9dc7d8a18",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-08-19",
       "url": "https://www.cargill.com/home"
     },
     {
@@ -6335,6 +6390,24 @@
     },
     {
       "boards": [],
+      "company": "BWXT",
+      "key": "c0d9e601284cca5e077b0eee",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.bwxt.com/"
+    },
+    {
+      "boards": [
+        "bamboohr:dakotakitchen"
+      ],
+      "company": "Dakota Kitchen & Bath",
+      "key": "c0f913b0853718711d52b85e",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.dakotakitchen.com/"
+    },
+    {
+      "boards": [],
       "company": "NAVER U.Hub",
       "key": "c0fa7a69252bdc8883a2450b",
       "last_scanned": "2026-08-15",
@@ -6535,6 +6608,16 @@
       "last_scanned": "2026-08-16",
       "resolved_roles": 0,
       "url": "https://www.uky.edu/"
+    },
+    {
+      "boards": [
+        "greenhouse:snorkelai"
+      ],
+      "company": "Snorkel AI",
+      "key": "c5ee5483c9f8bd5fb0dc6436",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.snorkel.ai/"
     },
     {
       "boards": [],
@@ -7894,7 +7977,7 @@
       "company": "Burns & McDonnell",
       "error": "Invalid IPv6 URL",
       "key": "eec8917d7550e69bd17e19be",
-      "last_scanned": "2026-08-16",
+      "last_scanned": "2026-08-19",
       "url": "https://www.burnsmcd.com/"
     },
     {
@@ -8165,7 +8248,7 @@
       "company": "Ericsson",
       "error": "public request failed for https://www.ericsson.com/en: HTTP Error 403: Forbidden",
       "key": "f53ce3ad208b14b94c9e584f",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-19",
       "url": "https://www.ericsson.com/"
     },
     {
