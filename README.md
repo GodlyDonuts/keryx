@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,277 internships · 3,681 new-grad roles · 5,958 total openings**
+**2,211 internships · 3,673 new-grad roles · 5,884 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 774 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 498 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 92 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 28 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 885 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 760 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 489 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 89 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 27 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 846 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 744 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 806 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,131 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 749 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 812 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,112 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -43,7 +43,7 @@ Recent internship and co-op listings that open the employer's application page d
 | ByteDance | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | Seattle, WA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675477254269765941/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | San Jose, CA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675478684795881781/detail)**<br><sub>jobs.bytedance.com</sub> |
 | Centific | AI Research Intern - Physical AI | Remote Work( USA) | Not listed | not available | 2026-08-19 | **[Apply →](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1)**<br><sub>centific.wd1.myworkdayjobs.com</sub> |
-| Copart | Data Engineering Intern | Dallas, TX - Headquarters | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
+| Copart | Data Engineer Intern | Dallas, TX | Fall 2026 | not available | 2026-08-19 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | Detroit Lions | Quantitative Research Intern | Allen Park, MI 48101 | Not listed | not stated | 2026-08-19 | **[Apply →](https://job-boards.greenhouse.io/detroitlions/jobs/4723291005)**<br><sub>job-boards.greenhouse.io</sub> |
 | GE Vernova | Application Engineer Co-op/Intern - PCS | Findlay Township, PA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-1)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
 | GE Vernova | Application Engineer Co-op/Intern - PCS | Findlay Township, PA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-2)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
@@ -58,7 +58,6 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Adobe | Software Development Engineer | Lehi, UT | Not listed | not available | 2026-08-19 | **[Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R170921)**<br><sub>adobe.wd5.myworkdayjobs.com</sub> |
 | Amazon | Software Development Engineer | Cambridge, MA | 2027 | not available | 2026-08-19 | **[Apply →](https://www.amazon.jobs/jobs/10489298/apply)**<br><sub>www.amazon.jobs</sub> |
 | Amazon | Software Development Engineer - Amazon Security | San Luis Obispo, CA | 2027 | not available | 2026-08-19 | **[Apply →](https://www.amazon.jobs/jobs/10494902/apply)**<br><sub>www.amazon.jobs</sub> |
 | Applied Systems | Associate Software Engineer / Software Engineer | Chicago, IL +2 | 2027 | not available | 2026-08-19 | **[Apply →](https://careers-appliedsystems.icims.com/jobs/7318/associate-software-engineer---software-engineer/job)**<br><sub>careers-appliedsystems.icims.com</sub> |
@@ -70,6 +69,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Crusoe | Software Engineer I - Storage | San Francisco, CA | 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.ashbyhq.com/crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02)**<br><sub>jobs.ashbyhq.com</sub> |
 | Data Intelligence, LLC | Software Engineer I | Moorestown, NJ, United States | 2026 | not available | 2026-08-19 | **[Apply →](https://di-llc.applicantstack.com/x/detail/a2bdv67f0d4n)**<br><sub>di-llc.applicantstack.com</sub> |
 | Deeter Analytics | Machine Learning Engineer | Remote in USA | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.ashbyhq.com/deeter-analytics/2c12339b-d302-427c-9a73-d825b4b942b0/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Delta Galil Industries | Product Development Assistant | New York, NY, United States | 2026 | not available | 2026-08-19 | **[Apply →](https://www.linkedin.com/jobs/view/product-development-assistant-at-delta-galil-industries-4404393408?refId=mO6DWM8Ly8PJ4pUDFycRXA%3D%3D&trackingId=FJ6mbUu2aLscPA3nqxQC%2FA%3D%3D)**<br><sub>www.linkedin.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
