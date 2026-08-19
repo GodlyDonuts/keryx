@@ -1765,6 +1765,14 @@
     },
     {
       "boards": [],
+      "company": "Prometheum",
+      "key": "358380ef028ceca63d094da8",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.prometheum.com/"
+    },
+    {
+      "boards": [],
       "company": "Lumion",
       "key": "359df88a879d028eac98a026",
       "last_scanned": "2026-08-15",
@@ -1848,6 +1856,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.elevatedwebdesign.com/"
+    },
+    {
+      "company": "GEICO",
+      "error": "too many public redirects: https://www.geico.com/",
+      "key": "37fb3670595125423262dbf7",
+      "last_scanned": "2026-08-19",
+      "url": "https://www.geico.com/"
     },
     {
       "boards": [],
@@ -2326,6 +2341,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.constellationenergy.com/"
+    },
+    {
+      "company": "Monster Energy",
+      "error": "public request failed for https://www.monsterenergy.com/: HTTP Error 403: Forbidden",
+      "key": "48ce825020fb14b448c689c1",
+      "last_scanned": "2026-08-19",
+      "url": "https://www.monsterenergy.com/"
     },
     {
       "boards": [
@@ -4312,6 +4334,16 @@
       "url": "https://www.Vertiv.com/"
     },
     {
+      "boards": [
+        "oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com:cx_2"
+      ],
+      "company": "EXL",
+      "key": "77387eb792ade6c934b6d73d",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.exlservice.com/"
+    },
+    {
       "boards": [],
       "company": "Parametric (YC F25)",
       "key": "7747ed31588250a8c18bf605",
@@ -5991,6 +6023,18 @@
       "url": "https://www.mrocorp.com/"
     },
     {
+      "boards": [
+        "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:healthpartners",
+        "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:healthpartners-clinic-stillwater",
+        "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:healthpartners-ghi"
+      ],
+      "company": "HealthPartners",
+      "key": "a5b2fd2dfdc2d7b04ccc7f8b",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.healthpartners.com/"
+    },
+    {
       "boards": [],
       "company": "Safe Fleet",
       "key": "a5dd6284d295d37aa806045c",
@@ -6196,6 +6240,14 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://richearthinstitute.org/"
+    },
+    {
+      "boards": [],
+      "company": "WOOD Federal Solutions",
+      "key": "acb090497fb2c91acbf235e0",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://woodcons.com/"
     },
     {
       "boards": [],
@@ -8197,6 +8249,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.nbcuniversal.com/"
+    },
+    {
+      "company": "CoAspire",
+      "error": "public request failed for https://www.coaspire.com/: HTTP Error 403: Forbidden",
+      "key": "df058434673e6ea8b0122d5e",
+      "last_scanned": "2026-08-19",
+      "url": "https://www.coaspire.com/"
     },
     {
       "boards": [],
