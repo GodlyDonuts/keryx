@@ -1064,6 +1064,16 @@
       "url": "https://www.whoop.com/"
     },
     {
+      "boards": [
+        "workday:modernatx.wd1.myworkdayjobs.com:modernatx:m_tx"
+      ],
+      "company": "Moderna",
+      "key": "20a9bb7b6151567768430804",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.modernatx.com/"
+    },
+    {
       "boards": [],
       "company": "Sandhills Global",
       "key": "20abaa58e987b3933aaaa41f",
@@ -1699,6 +1709,16 @@
       "url": "https://topdoglaw.com/"
     },
     {
+      "boards": [
+        "smartrecruiters:wingscreditunion"
+      ],
+      "company": "Wings Credit Union",
+      "key": "334f02b88476bd751633cf05",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 1,
+      "url": "https://www.wingscu.com/"
+    },
+    {
       "company": "The University of Texas at Austin",
       "error": "public request failed for https://www.texasenterprise.utexas.edu/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.texasenterprise.utexas.edu'. (_ssl.c:1000)>",
       "key": "3385a715434fcbfe9162289a",
@@ -2152,6 +2172,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.westlake.com/"
+    },
+    {
+      "boards": [],
+      "company": "Goley Insulation, Inc.",
+      "key": "405df94f577aa2c710a8de47",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.goleyinc.com/"
     },
     {
       "boards": [
@@ -3331,6 +3359,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.mii.com/"
+    },
+    {
+      "boards": [
+        "greenhouse:ai_opt_out_request"
+      ],
+      "company": "Thatch",
+      "key": "5cdf9694d4bff4df958f914c",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://thatch.com/"
     },
     {
       "boards": [],
@@ -4751,7 +4789,7 @@
       "company": "The Johns Hopkins University",
       "error": "public request failed for https://www.jhu.edu/: HTTP Error 403: Forbidden",
       "key": "814a8b81730cc79c9674d0da",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-08-19",
       "url": "https://www.jhu.edu/"
     },
     {
@@ -6191,6 +6229,16 @@
       "url": "https://www.guidewellsource.com/"
     },
     {
+      "boards": [
+        "greenhouse:faradayfuture"
+      ],
+      "company": "Faraday Future",
+      "key": "a7c4b00325ecaafff52ea5e6",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.ff.com/"
+    },
+    {
       "company": "National Security Agency",
       "error": "public request failed for https://www.nsa.gov/: HTTP Error 403: Forbidden",
       "key": "a7ee24a3e54a5678bf7e6d56",
@@ -6270,6 +6318,14 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://www.onegas.com/"
+    },
+    {
+      "boards": [],
+      "company": "Simpson Gumpertz & Heger (SGH)",
+      "key": "aa3f72e21296485b6ca44311",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.sgh.com/"
     },
     {
       "boards": [],
@@ -7834,6 +7890,16 @@
       "url": "https://www.vultr.com/"
     },
     {
+      "boards": [
+        "workday:marcusmillichap.wd108.myworkdayjobs.com:marcusmillichap:marcusmillichap"
+      ],
+      "company": "Marcus & Millichap",
+      "key": "d06df34ab11196ddde2d5372",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.marcusmillichap.com/"
+    },
+    {
       "boards": [],
       "company": "Martin Marietta",
       "key": "d0757664226db4378c3ccc03",
@@ -8025,6 +8091,16 @@
       "url": "https://www.dnv.com/"
     },
     {
+      "boards": [
+        "workday:rb.wd5.myworkdayjobs.com:rb:frs"
+      ],
+      "company": "Federal Reserve Bank of Richmond",
+      "key": "d498755c9e183f7bbcca14a0",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.richmondfed.org/"
+    },
+    {
       "boards": [],
       "company": "Twitch",
       "key": "d4f11952021144cafef8472b",
@@ -8163,6 +8239,14 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://americaniir.org/"
+    },
+    {
+      "boards": [],
+      "company": "Mott MacDonald",
+      "key": "da123dd2c7202f98e668a26b",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.mottmac.com/hungary"
     },
     {
       "company": "Analog Devices",
@@ -8882,6 +8966,16 @@
     },
     {
       "boards": [
+        "oracle:fa-eups-saasfaprod1.fa.ocs.oraclecloud.com:ulsolutionscareers"
+      ],
+      "company": "UL Solutions",
+      "key": "ed56672ffd06cd0ed1bab71d",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.ul.com/solutions"
+    },
+    {
+      "boards": [
         "greenhouse:soldejaneiro",
         "greenhouse:soldejaneirointernship"
       ],
@@ -8983,6 +9077,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.tp-link.com/"
+    },
+    {
+      "boards": [
+        "bamboohr:sedarotech"
+      ],
+      "company": "Sedaro",
+      "key": "ef4d2c2548bd5a7cc49a7a6a",
+      "last_scanned": "2026-08-19",
+      "resolved_roles": 0,
+      "url": "https://www.sedaro.com/"
     },
     {
       "boards": [],

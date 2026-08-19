@@ -1426,6 +1426,13 @@
     },
     {
       "ats": "bamboohr",
+      "company": "Allegheny County",
+      "host": "alleghenycounty.bamboohr.com",
+      "key": "bamboohr:alleghenycounty",
+      "slug": "alleghenycounty"
+    },
+    {
+      "ats": "bamboohr",
       "company": "Apollo Mission Critical Engineering",
       "host": "apollomce.bamboohr.com",
       "key": "bamboohr:apollomce",
@@ -1507,6 +1514,13 @@
       "host": "saalt.bamboohr.com",
       "key": "bamboohr:saalt",
       "slug": "saalt"
+    },
+    {
+      "ats": "bamboohr",
+      "company": "Sedaro",
+      "host": "sedarotech.bamboohr.com",
+      "key": "bamboohr:sedarotech",
+      "slug": "sedarotech"
     },
     {
       "ats": "bamboohr",
@@ -2064,6 +2078,12 @@
       "company": "Fanatics",
       "key": "greenhouse:fanaticsinc",
       "slug": "fanaticsinc"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Faraday Future",
+      "key": "greenhouse:faradayfuture",
+      "slug": "faradayfuture"
     },
     {
       "ats": "greenhouse",
@@ -4125,6 +4145,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Howmet Aerospace",
+      "host": "fa-exty-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "fa-exty-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
       "company": "GM financial",
       "host": "fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com",
       "key": "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
@@ -4834,6 +4862,12 @@
       "company": "Western Digital",
       "key": "smartrecruiters:westerndigital",
       "slug": "WesternDigital"
+    },
+    {
+      "ats": "smartrecruiters",
+      "company": "Wings Credit Union",
+      "key": "smartrecruiters:wingscreditunion",
+      "slug": "WingsCreditUnion"
     },
     {
       "ats": "smartrecruiters",
@@ -7699,6 +7733,15 @@
     },
     {
       "ats": "workday",
+      "company": "HUB",
+      "host": "hubinternational.wd1.myworkdayjobs.com",
+      "key": "workday:hubinternational.wd1.myworkdayjobs.com:hubinternational:hubinternational",
+      "site": "HUBInternational",
+      "slug": "hubinternational",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "CenterWell",
       "host": "humana.wd5.myworkdayjobs.com",
       "key": "workday:humana.wd5.myworkdayjobs.com:humana:centerwell_external_career_site",
@@ -8374,6 +8417,15 @@
     },
     {
       "ats": "workday",
+      "company": "Marcus & Millichap",
+      "host": "marcusmillichap.wd108.myworkdayjobs.com",
+      "key": "workday:marcusmillichap.wd108.myworkdayjobs.com:marcusmillichap:marcusmillichap",
+      "site": "MarcusMillichap",
+      "slug": "marcusmillichap",
+      "wd": "wd108"
+    },
+    {
+      "ats": "workday",
       "company": "Maritz",
       "host": "maritz.wd1.myworkdayjobs.com",
       "key": "workday:maritz.wd1.myworkdayjobs.com:maritz:maritz",
@@ -8631,6 +8683,15 @@
       "key": "workday:mmc.wd1.myworkdayjobs.com:mmc:mmc",
       "site": "mmc",
       "slug": "mmc",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Moderna",
+      "host": "modernatx.wd1.myworkdayjobs.com",
+      "key": "workday:modernatx.wd1.myworkdayjobs.com:modernatx:m_tx",
+      "site": "M_tx",
+      "slug": "modernatx",
       "wd": "wd1"
     },
     {
