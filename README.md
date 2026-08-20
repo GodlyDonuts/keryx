@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,285 internships · 3,729 new-grad roles · 6,014 total openings**
+**2,255 internships · 3,716 new-grad roles · 5,971 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 797 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 490 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 90 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 27 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 881 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 796 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 491 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 91 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 26 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 851 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 757 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 849 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,123 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 751 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 838 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,127 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -64,12 +64,12 @@ Recent full-time opportunities that open the employer's application page directl
 | Huntington Ingalls Industries | Test Engineer 1 - Test Operations | Newport News, VA | Not listed | not available | 2026-08-20 | **[Apply →](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1421259100/?ats=successfactors)**<br><sub>careers.huntingtoningalls.com</sub> |
 | L3Harris Technologies | Associate Software Engineer | Salt Lake City, UT | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineering-UT-84116/1421372400/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | Qualcomm | DDR Bench Characterization Engineer - Hardware Engineering | San Diego, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://qualcomm.eightfold.ai/careers/job/446718425274)**<br><sub>qualcomm.eightfold.ai</sub> |
+| StudyFetch | AI Research Assistant - Machine Learning & AI | Beverly Hills, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://ats.rippling.com/studyfetch/jobs/ae12be8f-32a4-469f-8d71-452c8409a92a)**<br><sub>ats.rippling.com</sub> |
 | TikTok | Graduate Software Engineer - TikTok Search Data Infra | San Jose, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675829388634392837)**<br><sub>lifeattiktok.com</sub> |
 | TikTok | Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics | San Jose, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675844938504702213)**<br><sub>lifeattiktok.com</sub> |
 | TikTok | Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics | Seattle, WA | Not listed | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675843332462872885)**<br><sub>lifeattiktok.com</sub> |
 | TikTok | Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics - LLM/Agent | Seattle, WA | Not listed | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675842865566222597)**<br><sub>lifeattiktok.com</sub> |
 | TikTok | Machine Learning Engineer Graduate - Multiple Teams | San Jose, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675841339440941317)**<br><sub>lifeattiktok.com</sub> |
-| TikTok | Research Scientist/Software Engineer - Neural Graphics and World Models | San Jose, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7668854153882011957)**<br><sub>lifeattiktok.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
