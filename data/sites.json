@@ -170,6 +170,14 @@
       "url": "https://www.cgi.com/"
     },
     {
+      "boards": [],
+      "company": "Marvin",
+      "key": "04630bf878294c16cd14869c",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.marvin.com/"
+    },
+    {
       "company": "General Dynamics Mission Systems",
       "error": "public request failed for https://gdmissionsystems.com/: HTTP Error 403: Forbidden",
       "key": "046ab9f2f80f0b633ef67ccc",
@@ -271,6 +279,14 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://www.kochinc.com/"
+    },
+    {
+      "boards": [],
+      "company": "SIE Wellness",
+      "key": "060d2388b5718d86f08315e4",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.sie2.com/"
     },
     {
       "boards": [
@@ -791,6 +807,14 @@
       "url": "https://www.fhr.com/"
     },
     {
+      "boards": [],
+      "company": "University Hospitals",
+      "key": "12af611ba40e95a4204ffa55",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.uhhospitals.org/"
+    },
+    {
       "boards": [
         "workday:axos.wd5.myworkdayjobs.com:axos:axos"
       ],
@@ -1066,6 +1090,14 @@
     },
     {
       "boards": [],
+      "company": "DHL Express",
+      "key": "182128ec434002007bc15ee1",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.dhl.com/au-en/home/express.html"
+    },
+    {
+      "boards": [],
       "company": "University of Missouri-Columbia",
       "key": "183db0fa40d0d6979706398f",
       "last_scanned": "2026-08-19",
@@ -1095,6 +1127,13 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://skanska.com/"
+    },
+    {
+      "company": "Mayo Clinic",
+      "error": "public request failed for https://www.mayoclinic.org/: HTTP Error 403: Forbidden",
+      "key": "19affc59acf2df264a06b2b1",
+      "last_scanned": "2026-08-20",
+      "url": "https://www.mayoclinic.org/"
     },
     {
       "boards": [],
@@ -3723,10 +3762,18 @@
       "url": "https://www.nemours.org/"
     },
     {
+      "boards": [],
+      "company": "Heliux",
+      "key": "5935cba4b3c84f56b9bb4d92",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.heliux.com/"
+    },
+    {
       "company": "Tesla",
       "error": "public request failed for https://www.tesla.com/: HTTP Error 403: Forbidden",
       "key": "596d5f8ba4114e6c6c07da9e",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-20",
       "url": "https://www.tesla.com/"
     },
     {
@@ -3898,6 +3945,16 @@
     },
     {
       "boards": [
+        "workday:verdantas.wd108.myworkdayjobs.com:verdantas:verdantas"
+      ],
+      "company": "Verdantas",
+      "key": "5da7f29dc914936d86474304",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.verdantas.com/"
+    },
+    {
+      "boards": [
         "workday:corespecialtyinsurance.wd1.myworkdayjobs.com:corespecialtyinsurance:core_specialty"
       ],
       "company": "Core Specialty Insurance Holdings, Inc.",
@@ -3912,6 +3969,14 @@
       "key": "5dff6128a4457384d3594521",
       "last_scanned": "2026-08-17",
       "url": "https://www.qorvo.com/"
+    },
+    {
+      "boards": [],
+      "company": "Elevate",
+      "key": "5e1121893a116368d163fa02",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://elevate.com/"
     },
     {
       "boards": [],
@@ -4341,6 +4406,14 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://clarkassociatesinc.biz/"
+    },
+    {
+      "boards": [],
+      "company": "TeamConnect",
+      "key": "67c91253df0cf8b59c3c24e7",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.teamconnectusa.com/"
     },
     {
       "boards": [],
@@ -5205,6 +5278,13 @@
       "url": "https://www.doordash.com/"
     },
     {
+      "company": "Mayo Clinic Healthcare London",
+      "error": "public request failed for https://www.mayoclinic.org/uk: HTTP Error 403: Forbidden",
+      "key": "7ac988bf4c81feb7758eeabe",
+      "last_scanned": "2026-08-20",
+      "url": "https://mayoclinichealthcare.co.uk/"
+    },
+    {
       "boards": [],
       "company": "Stratevi",
       "key": "7acf12c5c706f6e8bbb715d1",
@@ -5407,6 +5487,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://versantmedia.com/"
+    },
+    {
+      "boards": [],
+      "company": "Level Data",
+      "key": "80293c897b6cf54c34048794",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.leveldata.com/"
     },
     {
       "boards": [],
@@ -5955,6 +6043,16 @@
       "url": "https://trupanion.com/"
     },
     {
+      "boards": [
+        "workable:waggoner-financial"
+      ],
+      "company": "Waggoner Financial",
+      "key": "8c54307c9be06f33088adf4a",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.waggoner-financial.com/"
+    },
+    {
       "boards": [],
       "company": "BerryDunn \u2014 Assurance, Tax and Consulting",
       "key": "8c70f16a3fc8e75f8f9a7112",
@@ -6126,6 +6224,14 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://www.lmi.org/"
+    },
+    {
+      "boards": [],
+      "company": "Dragin",
+      "key": "90446f56fc94c70d6ed1dcfa",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.dragin.io/"
     },
     {
       "boards": [],
@@ -6446,6 +6552,16 @@
     },
     {
       "boards": [
+        "lever:nexuse-group"
+      ],
+      "company": "Nexus Engineering Group",
+      "key": "9a4ea5c5b2e0e958dc5885f3",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://nexusegroup.com/"
+    },
+    {
+      "boards": [
         "workday:iheartmedia.wd5.myworkdayjobs.com:iheartmedia:external_ihm"
       ],
       "company": "iHeartMedia",
@@ -6700,6 +6816,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.americanexpress.com/"
+    },
+    {
+      "boards": [],
+      "company": "WELL BILT Industries",
+      "key": "9f5c7f25fd7920116f060cf3",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.wellbiltdoors.com/"
     },
     {
       "boards": [
@@ -7097,6 +7221,14 @@
     },
     {
       "boards": [],
+      "company": "Michels Corporation",
+      "key": "a76f396a62d45c8f365cc385",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.michels.us/"
+    },
+    {
+      "boards": [],
       "company": "GuideWell Source",
       "key": "a7b6009d3fa089049938efed",
       "last_scanned": "2026-08-15",
@@ -7143,6 +7275,13 @@
       "last_scanned": "2026-08-20",
       "resolved_roles": 0,
       "url": "https://www.tmeic.com/"
+    },
+    {
+      "company": "Connector Manufacturing Company",
+      "error": "public request failed for https://www.cmclugs.com/: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)>",
+      "key": "a8cd7bfa8d18720c3cbc9c95",
+      "last_scanned": "2026-08-20",
+      "url": "https://www.cmclugs.com/"
     },
     {
       "boards": [],
@@ -7595,6 +7734,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://abeyon.com/"
+    },
+    {
+      "boards": [],
+      "company": "PubMatic",
+      "key": "b2808833f5ab285591dd9c7e",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.pubmatic.com/"
     },
     {
       "boards": [],
@@ -8121,6 +8268,13 @@
       "url": "https://brmi.com/"
     },
     {
+      "company": "UTHealth Houston",
+      "error": "public request failed for https://www.uth.edu/: HTTP Error 403: Forbidden",
+      "key": "beeefcf5d339063403dd2312",
+      "last_scanned": "2026-08-20",
+      "url": "https://www.uth.edu/"
+    },
+    {
       "boards": [],
       "company": "EY",
       "key": "beef5be99da733faf104cfcc",
@@ -8484,6 +8638,14 @@
       "last_scanned": "2026-08-16",
       "resolved_roles": 0,
       "url": "https://www.uky.edu/"
+    },
+    {
+      "boards": [],
+      "company": "Yamaha Motor Corporation, USA",
+      "key": "c55601e940bd1e7d182c0035",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://yamaha-motor.com/"
     },
     {
       "boards": [],
@@ -9242,6 +9404,13 @@
       "url": "https://www.twitch.tv/"
     },
     {
+      "company": "Idaho National Laboratory",
+      "error": "public request failed for https://inl.gov/: HTTP Error 403: Forbidden",
+      "key": "d5c73f56fb739823bf81e20c",
+      "last_scanned": "2026-08-20",
+      "url": "https://inl.gov/"
+    },
+    {
       "company": "Centellic",
       "error": "public request failed for https://www.centellic.com/: HTTP Error 403: Forbidden",
       "key": "d5f4548a85477cf7e5762d46",
@@ -9263,6 +9432,14 @@
       "last_scanned": "2026-08-20",
       "resolved_roles": 0,
       "url": "https://www.e-space.com/"
+    },
+    {
+      "boards": [],
+      "company": "Axon",
+      "key": "d6a5abf47b84616dd2379fa7",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.axon.com/"
     },
     {
       "boards": [],
@@ -10066,6 +10243,13 @@
       "url": "https://www.msgentertainment.com/"
     },
     {
+      "company": "J.F. Brennan Company",
+      "error": "public requests require HTTPS and a hostname",
+      "key": "ea7e569cb4df6b8d3d53b8dd",
+      "last_scanned": "2026-08-20",
+      "url": "https://jfbrennan.com/"
+    },
+    {
       "boards": [
         "workday:livingspaces.wd5.myworkdayjobs.com:livingspaces:ls"
       ],
@@ -10326,7 +10510,7 @@
       "company": "Burns & McDonnell",
       "error": "Invalid IPv6 URL",
       "key": "eec8917d7550e69bd17e19be",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-08-20",
       "url": "https://www.burnsmcd.com/"
     },
     {
@@ -10747,6 +10931,14 @@
       "url": "https://themidtowngroup.com/"
     },
     {
+      "boards": [],
+      "company": "Lewis Energy Group",
+      "key": "f8059f76b0212dc4fb648590",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.lewisenergy.com/"
+    },
+    {
       "company": "Urban Land Institute",
       "error": "public request failed for https://uli.org/: HTTP Error 403: Forbidden",
       "key": "f86197a8a0dbee765032207d",
@@ -10808,6 +11000,14 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://www.volvotrucks.com/"
+    },
+    {
+      "boards": [],
+      "company": "Koch Engineered Solutions",
+      "key": "fadab2248ec1eee86e97154f",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.kochengineeredsolutions.com/"
     },
     {
       "boards": [],
