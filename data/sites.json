@@ -553,11 +553,27 @@
     },
     {
       "boards": [],
+      "company": "TTM Technologies",
+      "key": "0d0186a6b1a7d85f2da4e692",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.ttm.com/"
+    },
+    {
+      "boards": [],
       "company": "HHAeXchange",
       "key": "0d3ba5f4e391cd471e370c28",
       "last_scanned": "2026-08-16",
       "resolved_roles": 0,
       "url": "https://hhaexchange.com/"
+    },
+    {
+      "boards": [],
+      "company": "The Centers",
+      "key": "0d9bf6f3f76b8bdb71b9d975",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://thecentersohio.org/"
     },
     {
       "company": "Nuance Labs",
@@ -1546,6 +1562,16 @@
     },
     {
       "boards": [
+        "workable:anthro"
+      ],
+      "company": "Anthro Energy",
+      "key": "29b4bf73c8288949656e9d3e",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.anthroenergy.com/"
+    },
+    {
+      "boards": [
         "workable:planetart"
       ],
       "company": "PlanetArt",
@@ -2360,6 +2386,14 @@
     },
     {
       "boards": [],
+      "company": "Novateur Research Solutions",
+      "key": "3b473db75ac0573514c84c71",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.novateurresearch.com/"
+    },
+    {
+      "boards": [],
       "company": "Boston Children's Hospital",
       "key": "3b65786f03c75d590ba1b032",
       "last_scanned": "2026-08-15",
@@ -2372,6 +2406,14 @@
       "key": "3bdd3eb53277825b1e794d32",
       "last_scanned": "2026-08-20",
       "url": "https://www.oracle.com/"
+    },
+    {
+      "boards": [],
+      "company": "Granger Construction",
+      "key": "3bf37df0a2a3636053ea41dd",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://grangerconstruction.com/"
     },
     {
       "company": "Toyota Research Institute",
@@ -3172,6 +3214,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://azprioritycare.com/"
+    },
+    {
+      "boards": [
+        "workday:ag.wd3.myworkdayjobs.com:ag:airbus"
+      ],
+      "company": "Airbus",
+      "key": "50d60f3d36df11c62ec10869",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://us.airbus.com/"
     },
     {
       "boards": [],
@@ -4468,7 +4520,7 @@
       "company": "Microchip Technology Inc.",
       "error": "public request failed for https://www.microchip.com/: HTTP Error 403: Forbidden",
       "key": "6e4442d676256fc2044633d6",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-08-20",
       "url": "https://www.microchip.com/"
     },
     {
@@ -4843,6 +4895,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://urbanscience.com/"
+    },
+    {
+      "boards": [],
+      "company": "SLAC National Accelerator Laboratory",
+      "key": "7656aa0c855ac4307e9b6c16",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www6.slac.stanford.edu/"
     },
     {
       "boards": [],
@@ -5279,6 +5339,14 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://www.ruger.com/"
+    },
+    {
+      "boards": [],
+      "company": "Scout & Co.",
+      "key": "800cfbd0119ea917a6bf170d",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://scoutandco.com/"
     },
     {
       "boards": [],
@@ -5935,6 +6003,14 @@
       "url": "https://www.uvahealth.com/"
     },
     {
+      "boards": [],
+      "company": "Safariland",
+      "key": "8e5fd215cb7f47b0378f8b7b",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.safariland.com/"
+    },
+    {
       "company": "PTC",
       "error": "public request failed for https://ptc.co/VLED30oHtEh: <urlopen error timed out>",
       "key": "8ea886d0e3d1d3911d14e0f3",
@@ -6476,6 +6552,14 @@
       "key": "9d4f95dc876c7abc5924fa1c",
       "last_scanned": "2026-08-20",
       "url": "https://panerabread.com/"
+    },
+    {
+      "boards": [],
+      "company": "ACCA Careers",
+      "key": "9d721e5757201143b39abc83",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://jobs.accaglobal.com/"
     },
     {
       "company": "Miller Electric Mfg. LLC",
@@ -7271,6 +7355,13 @@
       "key": "ae4c1a4bb6a46aa6e3200ff0",
       "last_scanned": "2026-08-18",
       "url": "https://disa.mil/"
+    },
+    {
+      "company": "LexSims",
+      "error": "public request failed for https://join.bili.dev/: HTTP Error 404: Not Found",
+      "key": "ae6359e7368af6f9d6af4ab6",
+      "last_scanned": "2026-08-20",
+      "url": "https://join.bili.dev/"
     },
     {
       "boards": [],
@@ -8699,6 +8790,14 @@
     },
     {
       "boards": [],
+      "company": "CNO Financial Group",
+      "key": "cdd5a5587fa1580925e4d2c2",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.cnoinc.com/"
+    },
+    {
+      "boards": [],
       "company": "Kauai",
       "key": "cddc3ec60501b8d1db203674",
       "last_scanned": "2026-08-17",
@@ -9762,6 +9861,14 @@
     },
     {
       "boards": [],
+      "company": "Sanmina",
+      "key": "e6faad9cfec9d53c13bd362d",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.sanmina.com/"
+    },
+    {
+      "boards": [],
       "company": "RTI International",
       "key": "e6fb53c5d39bc2f2b1f49f36",
       "last_scanned": "2026-08-15",
@@ -9913,6 +10020,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://newrelic.com/"
+    },
+    {
+      "boards": [],
+      "company": "Schuber Mitchell Homes",
+      "key": "eb144840895406b62fe81de5",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.schubermitchell.com/"
     },
     {
       "boards": [],
@@ -10428,6 +10543,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.ebiconsulting.com/"
+    },
+    {
+      "company": "Parrish and Partners, LLC",
+      "error": "public request failed for https://www.parrishandpartners.com/: <urlopen error timed out>",
+      "key": "f43f47a69df244f0c64f7220",
+      "last_scanned": "2026-08-20",
+      "url": "https://www.parrishandpartners.com/"
     },
     {
       "company": "Super Micro Computer Spain, S.L.",

@@ -4983,6 +4983,12 @@
     },
     {
       "ats": "workable",
+      "company": "Anthro Energy",
+      "key": "workable:anthro",
+      "slug": "anthro"
+    },
+    {
+      "ats": "workable",
       "company": "Avalore",
       "key": "workable:avalore",
       "slug": "avalore"
@@ -5421,6 +5427,15 @@
       "site": "external",
       "slug": "aero",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Airbus",
+      "host": "ag.wd3.myworkdayjobs.com",
+      "key": "workday:ag.wd3.myworkdayjobs.com:ag:airbus",
+      "site": "Airbus",
+      "slug": "ag",
+      "wd": "wd3"
     },
     {
       "ats": "workday",
