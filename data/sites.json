@@ -1665,6 +1665,14 @@
     },
     {
       "boards": [],
+      "company": "HdL Companies",
+      "key": "29eae57d479e84cb3657c60b",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://hdlcompanies.com/"
+    },
+    {
+      "boards": [],
       "company": "VHB",
       "key": "2a512f7ed6c00a68a6bf3b9d",
       "last_scanned": "2026-08-15",
@@ -2022,6 +2030,14 @@
     },
     {
       "boards": [],
+      "company": "Amphenol Fiber Systems International",
+      "key": "3199536b8bfa9713bfdaaf9d",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.fibersystems.com/"
+    },
+    {
+      "boards": [],
       "company": "LinkedIn",
       "key": "31d9e011b5a0eede6a9922b8",
       "last_scanned": "2026-08-15",
@@ -2051,6 +2067,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.flycfs.co.za/"
+    },
+    {
+      "company": "Amphenol",
+      "error": "public request failed for https://www.amphenol-tcs.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "key": "32f9eb1721b299e5a121ca20",
+      "last_scanned": "2026-08-20",
+      "url": "https://www.amphenol-tcs.com/"
     },
     {
       "boards": [
@@ -3823,6 +3846,13 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://astemo.com/"
+    },
+    {
+      "company": "Stanley Black & Decker, Inc.",
+      "error": "public request failed for https://www.stanleyblackanddecker.com/: HTTP Error 403: Forbidden",
+      "key": "5acc625a815c258fc2f37a7e",
+      "last_scanned": "2026-08-20",
+      "url": "https://www.stanleyblackanddecker.com/"
     },
     {
       "boards": [],
@@ -10911,6 +10941,14 @@
       "key": "f7072a2ed300439285d7dd6b",
       "last_scanned": "2026-08-17",
       "url": "https://www.providenceic.com/"
+    },
+    {
+      "boards": [],
+      "company": "Chenega Defense & Aerospace Solutions",
+      "key": "f74f2ac905ee6ef017fd3b3e",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://chenegamios.com/companies/chenega-defense-and-aerospace-solutions/"
     },
     {
       "boards": [
