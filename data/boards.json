@@ -4443,6 +4443,12 @@
     },
     {
       "ats": "smartrecruiters",
+      "company": "Dinamic AS Group",
+      "key": "smartrecruiters:alphabeinsightinc",
+      "slug": "AlphabeInsightInc"
+    },
+    {
+      "ats": "smartrecruiters",
       "company": "Alpha Nexus Group",
       "key": "smartrecruiters:alphanexusgroup",
       "slug": "AlphaNexusGroup"
@@ -7476,7 +7482,7 @@
       "company": "General Dynamics Information Technology",
       "host": "gdit.wd5.myworkdayjobs.com",
       "key": "workday:gdit.wd5.myworkdayjobs.com:gdit:gdit_earlytalent",
-      "site": "GDIT_EarlyTalent",
+      "site": "gdit_earlytalent",
       "slug": "gdit",
       "wd": "wd5"
     },

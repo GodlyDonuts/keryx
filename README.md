@@ -9,24 +9,24 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,325 internships · 3,732 new-grad roles · 6,057 total openings**
+**2,280 internships · 3,738 new-grad roles · 6,018 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 838 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 503 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 98 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 831 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 494 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 99 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 28 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 858 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 828 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 772 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 863 | **[View openings →](new-grad/2026.md)** |
+| 2027 | 770 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 871 | **[View openings →](new-grad/2026.md)** |
 | Year not listed | 2,097 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
@@ -62,14 +62,14 @@ Recent full-time opportunities that open the employer's application page directl
 | Confido | New Grad Software Engineer | New York City, NY | 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e)**<br><sub>jobs.ashbyhq.com</sub> |
 | Constellation Energy | Associate Data Scientist - AI | De Pere, WI, Houston, TX, Chicago, IL, Kennett Square, PA, Baltimore, MD | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.constellationenergy.com/jobs/138187?icims=1)**<br><sub>jobs.constellationenergy.com</sub> |
 | Crusoe | Software Engineer 1 - Network | SF, Sunnyvale, CA | 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Datalab USA | Production Programmer – Entry Level SQL Developer | Germantown, MD | 2027 | not stated | 2026-08-20 | **[Apply →](https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply)**<br><sub>jobs.lever.co</sub> |
+| Datalab USA | Production Programmer - Entry Level SQL Developer | Germantown, MD | 2027 | not stated | 2026-08-20 | **[Apply →](https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea)**<br><sub>jobs.lever.co</sub> |
 | Fannie Mae | Analytics & Modeling Associate - Analytics and Modeling Program | Washington, DC | Not listed | not available | 2026-08-20 | **[Apply →](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Analytics---Modeling-Program-Associate_JR2816-1)**<br><sub>fanniemae.wd1.myworkdayjobs.com</sub> |
+| Helmet House | Product Information Coordinator | Agoura Hills, CA, United States | 2026 | not available | 2026-08-20 | **[Apply →](https://portal.dynamicsats.com/JobListing/Details/262b48f4-6254-485f-93ea-b5db7eb124b1/c5983e86-bf9c-f111-b8db-6045bd076638?utm_source=Portal&val=603160000&ety=dcrs_jobapplicationform&atr=dcrs_candidatesource)**<br><sub>portal.dynamicsats.com</sub> |
 | Huntington Ingalls Industries | Test Engineer 1 - Test Operations | Newport News, VA | Not listed | not available | 2026-08-20 | **[Apply →](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1421259100/?ats=successfactors)**<br><sub>careers.huntingtoningalls.com</sub> |
 | L3Harris Technologies | Associate Software Engineer | Rochester, NY | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421462300/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Associate Software Engineer | Salt Lake City, UT | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineering-UT-84116/1421372400/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Software Engineer Associate | Salt Lake City, UT | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1421457300/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Software Engineering Associate | Rochester, NY | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421454800/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| L3Harris Technologies | Software Engineering Senior Associate | Tulsa, OK | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.l3harris.com/job/Tulsa-Senior-Associate,-Software-Engineering-OK-74115/1421451700/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
