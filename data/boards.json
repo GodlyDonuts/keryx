@@ -5396,6 +5396,15 @@
     },
     {
       "ats": "workday",
+      "company": "Le Moyne College",
+      "host": "agilitas.wd503.myworkdayjobs.com",
+      "key": "workday:agilitas.wd503.myworkdayjobs.com:agilitas:lmc",
+      "site": "LMC",
+      "slug": "agilitas",
+      "wd": "wd503"
+    },
+    {
+      "ats": "workday",
       "company": "Air Liquide",
       "host": "airliquidehr.wd3.myworkdayjobs.com",
       "key": "workday:airliquidehr.wd3.myworkdayjobs.com:airliquidehr:airliquideexternalcareer",
@@ -7165,6 +7174,15 @@
       "key": "workday:faithtechnologies.wd1.myworkdayjobs.com:faithtechnologies:fti",
       "site": "fti",
       "slug": "faithtechnologies",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Fannie Mae",
+      "host": "fanniemae.wd1.myworkdayjobs.com",
+      "key": "workday:fanniemae.wd1.myworkdayjobs.com:fanniemae:fanniemaecareers",
+      "site": "FannieMaeCareers",
+      "slug": "fanniemae",
       "wd": "wd1"
     },
     {
