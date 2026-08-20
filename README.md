@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,270 internships · 3,732 new-grad roles · 6,002 total openings**
+**2,276 internships · 3,744 new-grad roles · 6,020 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 818 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 500 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 98 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 29 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 825 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 820 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 501 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 97 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 28 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 830 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 769 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 856 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,107 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 774 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 879 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,091 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -42,7 +42,7 @@ Recent internship and co-op listings that open the employer's application page d
 | Avery Dennison | RFID Applications Engineering Co-op - Spring 2027 ( plus one semester) | Miamisburg, OH, us | Spring 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.smartrecruiters.com/AveryDennison/744000144595999)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Blue Shield of California | Intern - Data Full Stack Engineer | Oakland, CA, United States | Not listed | Dec 2026–Jun 2028<br><sub>stated</sub> | 2026-08-20 | **[Apply →](https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20261580)**<br><sub>ecge.fa.us2.oraclecloud.com</sub> |
 | Curtiss-Wright Corporation | Engineer Intern | US-NC-Charlotte (ST-170) | Not listed | not available | 2026-08-20 | **[Apply →](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-NC-Charlotte-ST-170/Engineer-Intern_JR12661)**<br><sub>curtisswright.wd1.myworkdayjobs.com</sub> |
-| E-Space | Embedded Software Engineering Intern | Arlington, TX | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-08-20 | **[Apply →](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3)**<br><sub>jobs.lever.co</sub> |
+| E-Space | Embedded Software Engineer Intern | Arlington, TX | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-08-20 | **[Apply →](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply)**<br><sub>jobs.lever.co</sub> |
 | Fifth Third Bank | Information Security Co-op - Cyber Threat Interdiction - Summer 2027 | Cincinnati, OH | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582)**<br><sub>fifththird.wd5.myworkdayjobs.com</sub> |
 | Fifth Third Bank | Information Security Co-op – Identity & Access Management – Summer 2027 | Cincinnati, OH | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Summer-2027_R71591)**<br><sub>fifththird.wd5.myworkdayjobs.com</sub> |
 | Freeform | Materials Engineer Intern | LA | Summer 2027 | Current student status<br><sub>required</sub> | 2026-08-20 | **[Apply →](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003)**<br><sub>job-boards.greenhouse.io</sub> |
@@ -62,7 +62,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Confido | New Grad Software Engineer | New York City, NY | 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e)**<br><sub>jobs.ashbyhq.com</sub> |
 | Constellation Energy | Associate Data Scientist - AI | De Pere, WI, Houston, TX, Chicago, IL, Kennett Square, PA, Baltimore, MD | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.constellationenergy.com/jobs/138187?icims=1)**<br><sub>jobs.constellationenergy.com</sub> |
 | Crusoe | Software Engineer 1 - Network | SF, Sunnyvale, CA | 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Datalab USA | Production Programmer – Entry Level SQL Developer | Germantown, MD | 2027 | not stated | 2026-08-20 | **[Apply →](https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply)**<br><sub>jobs.lever.co</sub> |
+| Datalab USA | Production Programmer - Entry Level SQL Developer | Germantown, MD | 2027 | not stated | 2026-08-20 | **[Apply →](https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea)**<br><sub>jobs.lever.co</sub> |
 | Fannie Mae | Analytics & Modeling Associate - Analytics and Modeling Program | Washington, DC | Not listed | not available | 2026-08-20 | **[Apply →](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Analytics---Modeling-Program-Associate_JR2816-1)**<br><sub>fanniemae.wd1.myworkdayjobs.com</sub> |
 | Huntington Ingalls Industries | Test Engineer 1 - Test Operations | Newport News, VA | Not listed | not available | 2026-08-20 | **[Apply →](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1421259100/?ats=successfactors)**<br><sub>careers.huntingtoningalls.com</sub> |
 | L3Harris Technologies | Associate Software Engineer | Rochester, NY | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421462300/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |

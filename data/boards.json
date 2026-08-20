@@ -3461,6 +3461,12 @@
     },
     {
       "ats": "lever",
+      "company": "Mulligan Funding, LLC",
+      "key": "lever:mulliganfunding",
+      "slug": "mulliganfunding"
+    },
+    {
+      "ats": "lever",
       "company": "Palantir",
       "key": "lever:palantir",
       "slug": "palantir"
@@ -10530,6 +10536,15 @@
     },
     {
       "ats": "workday",
+      "company": "thyssenkrupp",
+      "host": "thyssenkruppmaterialsna.wd12.myworkdayjobs.com",
+      "key": "workday:thyssenkruppmaterialsna.wd12.myworkdayjobs.com:thyssenkruppmaterialsna:1",
+      "site": "1",
+      "slug": "thyssenkruppmaterialsna",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
       "company": "TJX",
       "host": "tjx.wd1.myworkdayjobs.com",
       "key": "workday:tjx.wd1.myworkdayjobs.com:tjx:tjx_external",
@@ -11334,6 +11349,15 @@
       "key": "workday:wpi.wd5.myworkdayjobs.com:wpi:wpi_external_career_site",
       "site": "WPI_External_Career_Site",
       "slug": "wpi",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Washington State University",
+      "host": "wsu.wd5.myworkdayjobs.com",
+      "key": "workday:wsu.wd5.myworkdayjobs.com:wsu:wsu_jobs",
+      "site": "WSU_Jobs",
+      "slug": "wsu",
       "wd": "wd5"
     },
     {

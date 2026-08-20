@@ -530,7 +530,7 @@
       "company": "Swift",
       "error": "public request failed for https://www.swift.com/: The read operation timed out",
       "key": "0c7be45b999355e55510d422",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-20",
       "url": "https://www.swift.com/"
     },
     {
@@ -5906,6 +5906,14 @@
     },
     {
       "boards": [],
+      "company": "Mac Mountain LLC",
+      "key": "8dad1e1d223e9c3a1b3d541f",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.macmtn.com/"
+    },
+    {
+      "boards": [],
       "company": "LexisNexis",
       "key": "8dbc84c3e4ae4cf92d640c99",
       "last_scanned": "2026-08-19",
@@ -6375,6 +6383,16 @@
       "url": "https://investor.campingworld.com/"
     },
     {
+      "boards": [
+        "lever:mulliganfunding"
+      ],
+      "company": "Mulligan Funding, LLC",
+      "key": "9acf628e8244690e65cc914f",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.mulliganfunding.com/"
+    },
+    {
       "boards": [],
       "company": "The National Board for Certified Counselors",
       "key": "9ad1b7a6473df5c575852444",
@@ -6614,11 +6632,26 @@
     },
     {
       "boards": [],
+      "company": "Ladenburg Thalmann",
+      "key": "a11580191d4f801a69aee2c0",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://ladenburg.com/"
+    },
+    {
+      "boards": [],
       "company": "Scientific Applications & Research Associates (SARA), Inc.",
       "key": "a16596bf8b4475ece696ec17",
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://sara.com/"
+    },
+    {
+      "company": "Financial Times",
+      "error": "public request failed for https://www.ft.com/: HTTP Error 403: Forbidden",
+      "key": "a191ae81725c8b670ab7838a",
+      "last_scanned": "2026-08-20",
+      "url": "https://ft.com/"
     },
     {
       "boards": [],
@@ -6982,6 +7015,14 @@
       "last_scanned": "2026-08-16",
       "resolved_roles": 0,
       "url": "https://www.tetramem.com/"
+    },
+    {
+      "boards": [],
+      "company": "DataLab USA",
+      "key": "a91f6b63a3181457abe01b6c",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.datalabusa.com/"
     },
     {
       "boards": [],
@@ -7779,6 +7820,16 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://geminimade.com/"
+    },
+    {
+      "boards": [
+        "workday:wsu.wd5.myworkdayjobs.com:wsu:wsu_jobs"
+      ],
+      "company": "Washington State University",
+      "key": "bb91c78ac0233bb86ebba4a1",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://wsu.edu/"
     },
     {
       "boards": [],
@@ -10528,6 +10579,14 @@
     },
     {
       "boards": [],
+      "company": "San Diego State University",
+      "key": "f9fe907b6fe9bdfcb78a2038",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.sdsu.edu/"
+    },
+    {
+      "boards": [],
       "company": "Volvo Trucks",
       "key": "faa31f133975cebc1ee7eaa2",
       "last_scanned": "2026-08-18",
@@ -10622,6 +10681,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.nextiva.com/"
+    },
+    {
+      "boards": [],
+      "company": "Conduent",
+      "key": "fd4601f28983caeabc28cd4e",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.conduent.com/"
     },
     {
       "boards": [],
