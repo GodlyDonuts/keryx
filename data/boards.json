@@ -3461,7 +3461,7 @@
     },
     {
       "ats": "lever",
-      "company": "Mulligan Funding, LLC",
+      "company": "Mulligan Funding",
       "key": "lever:mulliganfunding",
       "slug": "mulliganfunding"
     },
@@ -7218,6 +7218,15 @@
     },
     {
       "ats": "workday",
+      "company": "Eversource Energy",
+      "host": "eversource.wd1.myworkdayjobs.com",
+      "key": "workday:eversource.wd1.myworkdayjobs.com:eversource:externalsite",
+      "site": "ExternalSite",
+      "slug": "eversource",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Exclusive Networks",
       "host": "exclusivenetworks.wd103.myworkdayjobs.com",
       "key": "workday:exclusivenetworks.wd103.myworkdayjobs.com:exclusivenetworks:exclusive-networks-career",
@@ -8559,6 +8568,15 @@
     },
     {
       "ats": "workday",
+      "company": "Excellus BCBS",
+      "host": "lthc.wd1.myworkdayjobs.com",
+      "key": "workday:lthc.wd1.myworkdayjobs.com:lthc:excellusbcbscareers",
+      "site": "ExcellusBCBSCareers",
+      "slug": "lthc",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Lumentum",
       "host": "lumentum.wd5.myworkdayjobs.com",
       "key": "workday:lumentum.wd5.myworkdayjobs.com:lumentum:lite",
@@ -8889,6 +8907,15 @@
       "site": "Moffitt",
       "slug": "moffitt",
       "wd": "wd108"
+    },
+    {
+      "ats": "workday",
+      "company": "Momentive",
+      "host": "momentive.wd1.myworkdayjobs.com",
+      "key": "workday:momentive.wd1.myworkdayjobs.com:momentive:mc",
+      "site": "MC",
+      "slug": "momentive",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -10752,6 +10779,15 @@
       "site": "UCAR_Careers",
       "slug": "ucar",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "University of Central Florida",
+      "host": "ucf.wd1.myworkdayjobs.com",
+      "key": "workday:ucf.wd1.myworkdayjobs.com:ucf:careers",
+      "site": "careers",
+      "slug": "ucf",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
