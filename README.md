@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,252 internships · 3,751 new-grad roles · 6,003 total openings**
+**2,229 internships · 3,707 new-grad roles · 5,936 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 801 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 494 | **[View openings →](internships/fall-2026.md)** |
+| ☀️ Summer 2027 | 797 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 492 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 91 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 27 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 839 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 822 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 805 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 850 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,096 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 776 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 824 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,107 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -59,17 +59,17 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Boston Consulting Group | Forward Deployed AI Engineer - Campus | Boston, MA, Seattle, WA, Washington, DC, SF, LA, Miami, FL, Dallas, TX, Chicago, IL, Pittsburgh, PA, NYC, Brooklyn, NY, Manhattan Beach, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://careers.bcg.com/global/en/job/59067)**<br><sub>careers.bcg.com</sub> |
+| Confido | New Grad Software Engineer | New York City, NY | 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e)**<br><sub>jobs.ashbyhq.com</sub> |
 | Crusoe | Software Engineer 1 - Network | SF, Sunnyvale, CA | 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Datalab USA | Production Programmer - Entry Level SQL Developer | Germantown, MD | 2027 | not stated | 2026-08-20 | **[Apply →](https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea)**<br><sub>jobs.lever.co</sub> |
 | Huntington Ingalls Industries | Test Engineer 1 - Test Operations | Newport News, VA | Not listed | not available | 2026-08-20 | **[Apply →](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1421259100/?ats=successfactors)**<br><sub>careers.huntingtoningalls.com</sub> |
 | L3Harris Technologies | Associate Software Engineer | Salt Lake City, UT | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineering-UT-84116/1421372400/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
+| Nooks | Software Engineer - New Grad | San Francisco, CA | 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53)**<br><sub>jobs.ashbyhq.com</sub> |
 | Qualcomm | DDR Bench Characterization Engineer - Hardware Engineering | San Diego, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://qualcomm.eightfold.ai/careers/job/446718425274)**<br><sub>qualcomm.eightfold.ai</sub> |
 | StudyFetch | AI Research Assistant - Machine Learning & AI | Beverly Hills, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://ats.rippling.com/studyfetch/jobs/ae12be8f-32a4-469f-8d71-452c8409a92a)**<br><sub>ats.rippling.com</sub> |
 | TikTok | Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics | San Jose, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675844938504702213)**<br><sub>lifeattiktok.com</sub> |
 | TikTok | Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics | Seattle, WA | Not listed | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675843332462872885)**<br><sub>lifeattiktok.com</sub> |
 | TikTok | Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics - LLM/Agent | Seattle, WA | Not listed | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675842865566222597)**<br><sub>lifeattiktok.com</sub> |
-| TikTok | Machine Learning Engineer Graduate - Multiple Teams | San Jose, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675841339440941317)**<br><sub>lifeattiktok.com</sub> |
-| TikTok | Research Scientist/Software Engineer - Neural Graphics and World Models | San Jose, CA | 2027 | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7668854153882011957)**<br><sub>lifeattiktok.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
