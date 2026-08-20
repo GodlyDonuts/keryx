@@ -9,7 +9,7 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,275 internships · 3,735 new-grad roles · 6,010 total openings**
+**2,251 internships · 3,729 new-grad roles · 5,980 total openings**
 
 ### 🎓 Internships
 
@@ -18,16 +18,16 @@
 | ☀️ Summer 2027 | 799 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 496 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 92 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 28 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 860 | **[View openings →](internships/unscheduled.md)** |
+| ❄️ Winter 2027 | 27 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 837 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 754 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 857 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,124 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 759 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 859 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,111 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -48,7 +48,7 @@ Recent internship and co-op listings that open the employer's application page d
 | TikTok | Software Engineer Intern - TikTok Search Architecture | San Jose, CA | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675517686256863541)**<br><sub>lifeattiktok.com</sub> |
 | Western Magnetics | Software Engineering Intern | South San Francisco, United States | Not listed | not available | 2026-08-20 | **[Apply →](https://apply.workable.com/western-magnetics/j/E366930F3F/)**<br><sub>apply.workable.com</sub> |
 | Agile Defense | Marketing and Communications Intern | McLean, VA | Not listed | Current student status<br><sub>stated</sub> | 2026-08-19 | **[Apply →](https://jobs.lever.co/agile-defense/d0c24500-bbe4-4dd4-b1c7-4b3d564f228e)**<br><sub>jobs.lever.co</sub> |
-| Allegheny County | Business Analytics Intern | Pittsburgh, PA | Summer 2027 | not stated | 2026-08-19 | **[Apply →](https://alleghenycounty.bamboohr.com/careers/663/)**<br><sub>alleghenycounty.bamboohr.com</sub> |
+| Allegheny County | 2027 Spring/Summer Internship: Business Analytics Intern | Pittsburgh, Pennsylvania | Summer 2027 | not stated | 2026-08-19 | **[Apply →](https://alleghenycounty.bamboohr.com/careers/663/)**<br><sub>alleghenycounty.bamboohr.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -59,7 +59,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Crusoe | Software Engineer 1 - Network | SF, Sunnyvale, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Datalab USA | Production Programmer – Entry Level SQL Developer | Germantown, MD | Not listed | not stated | 2026-08-20 | **[Apply →](https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply)**<br><sub>jobs.lever.co</sub> |
+| Datalab USA | Production Programmer - Entry Level SQL Developer | Germantown, MD | Not listed | not stated | 2026-08-20 | **[Apply →](https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea)**<br><sub>jobs.lever.co</sub> |
 | Huntington Ingalls Industries | Test Engineer 1 - Test Operations | Newport News, VA | Not listed | not available | 2026-08-20 | **[Apply →](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1421259100/?ats=successfactors)**<br><sub>careers.huntingtoningalls.com</sub> |
 | L3Harris Technologies | Associate Software Engineer | Salt Lake City, UT | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineering-UT-84116/1421372400/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | Qualcomm | DDR Bench Characterization Engineer - Hardware Engineering | San Diego, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://qualcomm.eightfold.ai/careers/job/446718425274)**<br><sub>qualcomm.eightfold.ai</sub> |
