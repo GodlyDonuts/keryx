@@ -164,6 +164,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Blackpoint Cyber",
+      "key": "ashby:blackpoint",
+      "slug": "Blackpoint"
+    },
+    {
+      "ats": "ashby",
       "company": "Blackstar Computers",
       "key": "ashby:blackstar",
       "slug": "blackstar"
@@ -1865,6 +1871,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Maven",
+      "key": "greenhouse:carrotfertility",
+      "slug": "carrotfertility"
+    },
+    {
+      "ats": "greenhouse",
       "company": "CaseGuard",
       "key": "greenhouse:caseguard",
       "slug": "caseguard"
@@ -1976,6 +1988,12 @@
       "company": "Databricks",
       "key": "greenhouse:databricks",
       "slug": "databricks"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Maven",
+      "key": "greenhouse:daybreakhealth",
+      "slug": "daybreakhealth"
     },
     {
       "ats": "greenhouse",
@@ -9806,6 +9824,15 @@
     },
     {
       "ats": "workday",
+      "company": "Reinsurance Group of America, Incorporated",
+      "host": "rgare.wd1.myworkdayjobs.com",
+      "key": "workday:rgare.wd1.myworkdayjobs.com:rgare:careers",
+      "site": "Careers",
+      "slug": "rgare",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Richemont",
       "host": "richemont.wd3.myworkdayjobs.com",
       "key": "workday:richemont.wd3.myworkdayjobs.com:richemont:richemont",
@@ -11322,6 +11349,15 @@
       "site": "Zebra_careers",
       "slug": "zebra",
       "wd": "wd501"
+    },
+    {
+      "ats": "workday",
+      "company": "Maven",
+      "host": "zoom.wd5.myworkdayjobs.com",
+      "key": "workday:zoom.wd5.myworkdayjobs.com:zoom:zoom",
+      "site": "Zoom",
+      "slug": "zoom",
+      "wd": "wd5"
     }
   ],
   "schema_version": 1

@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,284 internships · 3,770 new-grad roles · 6,054 total openings**
+**2,318 internships · 3,774 new-grad roles · 6,092 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 795 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 490 | **[View openings →](internships/fall-2026.md)** |
+| ☀️ Summer 2027 | 800 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 491 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 92 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 27 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 880 | **[View openings →](internships/unscheduled.md)** |
+| ❄️ Winter 2027 | 28 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 907 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 770 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 873 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,127 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 782 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 875 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,117 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| AbbVie | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | North Chicago, IL | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014697918)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AbbVie | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) | North Chicago, IL, us | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014697918)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Ampersand | Data Engineering Co-op - Open to Northeastern students only | Boston, MA | Fall 2026 | not available | 2026-08-20 | **[Apply →](https://ats.rippling.com/ampersand-biomedicines/jobs/be3f5479-379e-4d48-9bd1-82a69b2dcfd3)**<br><sub>ats.rippling.com</sub> |
+| Curtiss-Wright Corporation | Engineer Intern | US-NC-Charlotte (ST-170) | Not listed | not available | 2026-08-20 | **[Apply →](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-NC-Charlotte-ST-170/Engineer-Intern_JR12661)**<br><sub>curtisswright.wd1.myworkdayjobs.com</sub> |
 | E-Space | Embedded Software Engineering Intern | Arlington, TX | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-08-20 | **[Apply →](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3)**<br><sub>jobs.lever.co</sub> |
-| Fannie Mae | Data Science Intern - Analytics & Modeling Program | Washington, DC | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815)**<br><sub>fanniemae.wd1.myworkdayjobs.com</sub> |
+| Fannie Mae | Campus – Data Science Intern (Analytics & Modeling Program) | Washington, DC | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815)**<br><sub>fanniemae.wd1.myworkdayjobs.com</sub> |
 | Fifth Third Bank | Information Security Co-op - Cyber Threat Interdiction - Summer 2027 | Cincinnati, OH | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582)**<br><sub>fifththird.wd5.myworkdayjobs.com</sub> |
 | Fifth Third Bank | Information Security Co-op – Identity & Access Management – Summer 2027 | Cincinnati, OH | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Summer-2027_R71591)**<br><sub>fifththird.wd5.myworkdayjobs.com</sub> |
-| Freeform | Materials Engineer Intern | LA | Summer 2027 | Current student status<br><sub>required</sub> | 2026-08-20 | **[Apply →](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003)**<br><sub>job-boards.greenhouse.io</sub> |
+| IMEG | Intern - Civil Engineering | Washington, DC | Not listed | not available | 2026-08-20 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Washington-DC/Intern---Civil-Engineering_R-16564)**<br><sub>wd1.myworkdaysite.com</sub> |
 | Integra FEC | (FALL) Research Analyst Intern | Austin, TX | Not listed | not stated | 2026-08-20 | **[Apply →](https://job-boards.greenhouse.io/integrainterns/jobs/5396990008)**<br><sub>job-boards.greenhouse.io</sub> |
 | Integra FEC | (FALL) Research Analyst Intern | Austin, Texas | Not listed | not stated | 2026-08-20 | **[Apply →](https://job-boards.greenhouse.io/integra/jobs/5396947008)**<br><sub>job-boards.greenhouse.io</sub> |
 | RTX | Software Development Intern | Tewksbury, MA | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01867943)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
 | TikTok | Machine Learning Engineer Intern | Seattle, WA | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675847556668295429)**<br><sub>lifeattiktok.com</sub> |
-| TikTok | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD | Seattle, WA | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675845333947812149)**<br><sub>lifeattiktok.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links

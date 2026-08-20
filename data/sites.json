@@ -308,6 +308,16 @@
       "url": "https://amatriot.com/"
     },
     {
+      "boards": [
+        "workday:fanniemae.wd1.myworkdayjobs.com:fanniemae:fanniemaecareers"
+      ],
+      "company": "Fannie Mae",
+      "key": "0687d88ad2f5ea935148fd65",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.fanniemae.com/"
+    },
+    {
       "company": "A.P. Moller - Maersk",
       "error": "public request failed for https://www.maersk.com/: The read operation timed out",
       "key": "068f8b68b5a476b8086b0df3",
@@ -686,6 +696,14 @@
     },
     {
       "boards": [],
+      "company": "State of South Dakota",
+      "key": "1196d956d83bf6f5f039d9ce",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://dss.sd.gov/"
+    },
+    {
+      "boards": [],
       "company": "AArete",
       "key": "1215dc51a1ec9c1503e36509",
       "last_scanned": "2026-08-15",
@@ -915,6 +933,14 @@
       "key": "174d0c1e408eccac52ae498f",
       "last_scanned": "2026-08-20",
       "url": "https://www.isomicro.com/"
+    },
+    {
+      "boards": [],
+      "company": "Harvard University",
+      "key": "1750570c11693dffecac2ac9",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://harvard.edu/"
     },
     {
       "boards": [],
@@ -2064,6 +2090,14 @@
     },
     {
       "boards": [],
+      "company": "The Flyover",
+      "key": "37c4a3d11a29bb941c93151f",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://jointheflyover.com/"
+    },
+    {
+      "boards": [],
       "company": "Elevated Web Design",
       "key": "37e465d1c0a21438e2b26d13",
       "last_scanned": "2026-08-15",
@@ -2564,6 +2598,20 @@
       "url": "https://www.accelevationllc.com/"
     },
     {
+      "boards": [
+        "greenhouse:carrotfertility",
+        "greenhouse:daybreakhealth",
+        "greenhouse:maymobility",
+        "greenhouse:xai",
+        "workday:zoom.wd5.myworkdayjobs.com:zoom:zoom"
+      ],
+      "company": "Maven",
+      "key": "4700e03f496f7a73f796db2f",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 1,
+      "url": "https://www.mavenventures.com/"
+    },
+    {
       "boards": [],
       "company": "NVIDIA",
       "key": "479f42ca565a93f3c71cd2a0",
@@ -2814,6 +2862,14 @@
       "url": "https://www.aecom.com/"
     },
     {
+      "boards": [],
+      "company": "Charles River Analytics",
+      "key": "4c86bf389023b9b05d778831",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.cra.com/"
+    },
+    {
       "company": "Bear Robotics",
       "error": "public response exceeded 3145728 bytes",
       "key": "4c91e6572d8cbc337f4a2833",
@@ -2851,6 +2907,14 @@
       "key": "4d0beeea761d31adbc5dcf65",
       "last_scanned": "2026-08-20",
       "url": "https://www.crowe.com/"
+    },
+    {
+      "boards": [],
+      "company": "Advarra",
+      "key": "4d326223edf448d1dae7697d",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.advarra.com/"
     },
     {
       "boards": [],
@@ -3118,6 +3182,14 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://www.aeieng.com/"
+    },
+    {
+      "boards": [],
+      "company": "AdaMarie",
+      "key": "52d34e10e78937fa3de09259",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://weareadamarie.com/"
     },
     {
       "boards": [
@@ -4962,6 +5034,14 @@
       "url": "https://aws.amazon.com/"
     },
     {
+      "boards": [],
+      "company": "Flock",
+      "key": "7ca658e42622c4b149d838e0",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.flocksafety.com/"
+    },
+    {
       "boards": [
         "workday:chamberlain.wd1.myworkdayjobs.com:chamberlain:chamberlain_group"
       ],
@@ -5666,6 +5746,14 @@
     },
     {
       "boards": [],
+      "company": "Warp",
+      "key": "8d73894f4f6f87fe2f4d245c",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.warp.dev/"
+    },
+    {
+      "boards": [],
       "company": "LexisNexis",
       "key": "8dbc84c3e4ae4cf92d640c99",
       "last_scanned": "2026-08-19",
@@ -6052,6 +6140,13 @@
       "key": "99f2ca2416ec5810416ff4c3",
       "last_scanned": "2026-08-16",
       "url": "https://www.bombardier.com/en/aerospace.html"
+    },
+    {
+      "company": "Davis Sign & Awning",
+      "error": "public response exceeded 3145728 bytes",
+      "key": "9a211de4dd9cd797e9ed457f",
+      "last_scanned": "2026-08-20",
+      "url": "https://davissignathens.com/"
     },
     {
       "boards": [
@@ -6509,6 +6604,16 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://www.fiu.edu/"
+    },
+    {
+      "boards": [
+        "ashby:blackpoint"
+      ],
+      "company": "Blackpoint Cyber",
+      "key": "a4e965c770769a6e49d2bb0b",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.blackpointcyber.com/"
     },
     {
       "company": "WITRON Group",
@@ -7392,6 +7497,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.monroeplan.com/"
+    },
+    {
+      "boards": [
+        "workday:rgare.wd1.myworkdayjobs.com:rgare:careers"
+      ],
+      "company": "Reinsurance Group of America, Incorporated",
+      "key": "b98c89c44e8180594d5d7994",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.rgare.com/"
     },
     {
       "boards": [],
