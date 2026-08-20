@@ -526,6 +526,16 @@
     },
     {
       "boards": [
+        "workday:centene.wd5.myworkdayjobs.com:centene:centene_external"
+      ],
+      "company": "Health Net Health Plan of Oregon, Inc.",
+      "key": "0e768213b4a8bf627258aa6f",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.healthnetoregon.com/"
+    },
+    {
+      "boards": [
         "ashby:dedalus-labs"
       ],
       "company": "Dedalus Labs",
@@ -3554,6 +3564,14 @@
     },
     {
       "boards": [],
+      "company": "RightOn Education",
+      "key": "5e424df6369bd36085de7404",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.rightoneducation.com/"
+    },
+    {
+      "boards": [],
       "company": "Gibraltar Industries",
       "key": "5e4916215cb250458f46def1",
       "last_scanned": "2026-08-17",
@@ -3597,6 +3615,14 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://www.allstate.com/"
+    },
+    {
+      "boards": [],
+      "company": "GITAI",
+      "key": "5f018a592de3fbe4fe4e38b3",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 1,
+      "url": "https://gitai.tech/"
     },
     {
       "boards": [],
@@ -6538,6 +6564,14 @@
     },
     {
       "boards": [],
+      "company": "RLG Consulting Engineers",
+      "key": "ab32608a834910263ed69d17",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://rlginc.com/"
+    },
+    {
+      "boards": [],
       "company": "MagnaCare",
       "key": "ab8ea2e72fd8f7b7018d9af8",
       "last_scanned": "2026-08-15",
@@ -9135,7 +9169,7 @@
       "company": "Crane Company",
       "error": "public request failed for https://www.craneco.com/index.html: HTTP Error 404: Not Found",
       "key": "eaa4e8e6fb71f156288a17c4",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-08-20",
       "url": "https://www.craneco.com/index.html"
     },
     {
@@ -9500,6 +9534,14 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://www1.appliedsystems.com/"
+    },
+    {
+      "boards": [],
+      "company": "Corgi",
+      "key": "f0b756d17c32dfe735eb9779",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.corgi.com/"
     },
     {
       "boards": [],
@@ -10010,6 +10052,14 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://www.cisco.com/"
+    },
+    {
+      "boards": [],
+      "company": "Fabventure Travel",
+      "key": "fff660bb88e34d6e15da56a3",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.fabventuretravel.com/"
     }
   ]
 }
