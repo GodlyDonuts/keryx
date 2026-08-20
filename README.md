@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,280 internships · 3,738 new-grad roles · 6,018 total openings**
+**2,384 internships · 3,733 new-grad roles · 6,117 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 831 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 494 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 99 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 833 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 497 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 98 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 28 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 828 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 928 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 770 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 871 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,097 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 771 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 868 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,094 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -45,10 +45,10 @@ Recent internship and co-op listings that open the employer's application page d
 | Blue Shield of California | Intern - Data Full Stack Engineer | Oakland, CA, United States | Not listed | Dec 2026–Jun 2028<br><sub>stated</sub> | 2026-08-20 | **[Apply →](https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20261580)**<br><sub>ecge.fa.us2.oraclecloud.com</sub> |
 | Curtiss-Wright Corporation | Engineer Intern | US-NC-Charlotte (ST-170) | Not listed | not available | 2026-08-20 | **[Apply →](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-NC-Charlotte-ST-170/Engineer-Intern_JR12661)**<br><sub>curtisswright.wd1.myworkdayjobs.com</sub> |
 | E-Space | Embedded Software Engineer Intern | Arlington, TX | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-08-20 | **[Apply →](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply)**<br><sub>jobs.lever.co</sub> |
-| Fifth Third Bank | Enterprise Data Office College Co-op - Fall 2026 - Cincinnati | Cincinnati, OH | Fall 2026 | not available | 2026-08-20 | **[Apply →](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Enterprise-Data-Office-College-Co-op---Fall-2026---Cincinnati_R64382)**<br><sub>fifththird.wd5.myworkdayjobs.com</sub> |
 | Fifth Third Bank | Information Security Co-op - Cyber Threat Interdiction - Summer 2027 | Cincinnati, OH | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582)**<br><sub>fifththird.wd5.myworkdayjobs.com</sub> |
-| Fifth Third Bank | Information Security Co-op – Code Security – Spring 2027 | Cincinnati, OH | Spring 2027 | not available | 2026-08-20 | **[Apply →](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Code-Security---Spring-2027_R71575)**<br><sub>fifththird.wd5.myworkdayjobs.com</sub> |
-| Fifth Third Bank | Information Security Co-op – Identity & Access Management – Spring 2027 | Cincinnati, OH | Spring 2027 | not available | 2026-08-20 | **[Apply →](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Spring-2027_R71590)**<br><sub>fifththird.wd5.myworkdayjobs.com</sub> |
+| Fifth Third Bank | Information Security Co-op – Identity & Access Management – Summer 2027 | Cincinnati, OH | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Summer-2027_R71591)**<br><sub>fifththird.wd5.myworkdayjobs.com</sub> |
+| Fifth Third Bank | Software Engineer Co-Op - Enterprise Finance Applications - Summer 2027 | Cincinnati, OH | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588)**<br><sub>fifththird.wd5.myworkdayjobs.com</sub> |
+| General Dynamics Information Technology | Summer 2027 Software Development Internship | USA VA Falls Church | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ226237)**<br><sub>gdit.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -59,17 +59,17 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Boston Consulting Group | Forward Deployed AI Engineer - Campus | Boston, MA, Seattle, WA, Washington, DC, SF, LA, Miami, FL, Dallas, TX, Chicago, IL, Pittsburgh, PA, NYC, Brooklyn, NY, Manhattan Beach, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://careers.bcg.com/global/en/job/59067)**<br><sub>careers.bcg.com</sub> |
+| Clera | Founding Engineer - Full Stack | San Francisco, CA | 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.ashbyhq.com/clera/cea943d6-817f-441c-baa1-d295916ace46)**<br><sub>jobs.ashbyhq.com</sub> |
 | Confido | New Grad Software Engineer | New York City, NY | 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e)**<br><sub>jobs.ashbyhq.com</sub> |
 | Constellation Energy | Associate Data Scientist - AI | De Pere, WI, Houston, TX, Chicago, IL, Kennett Square, PA, Baltimore, MD | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.constellationenergy.com/jobs/138187?icims=1)**<br><sub>jobs.constellationenergy.com</sub> |
 | Crusoe | Software Engineer 1 - Network | SF, Sunnyvale, CA | 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Datalab USA | Production Programmer - Entry Level SQL Developer | Germantown, MD | 2027 | not stated | 2026-08-20 | **[Apply →](https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea)**<br><sub>jobs.lever.co</sub> |
+| Datalab USA | Production Programmer – Entry Level SQL Developer | Germantown, MD | 2027 | not stated | 2026-08-20 | **[Apply →](https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply)**<br><sub>jobs.lever.co</sub> |
 | Fannie Mae | Analytics & Modeling Associate - Analytics and Modeling Program | Washington, DC | Not listed | not available | 2026-08-20 | **[Apply →](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Analytics---Modeling-Program-Associate_JR2816-1)**<br><sub>fanniemae.wd1.myworkdayjobs.com</sub> |
 | Helmet House | Product Information Coordinator | Agoura Hills, CA, United States | 2026 | not available | 2026-08-20 | **[Apply →](https://portal.dynamicsats.com/JobListing/Details/262b48f4-6254-485f-93ea-b5db7eb124b1/c5983e86-bf9c-f111-b8db-6045bd076638?utm_source=Portal&val=603160000&ety=dcrs_jobapplicationform&atr=dcrs_candidatesource)**<br><sub>portal.dynamicsats.com</sub> |
 | Huntington Ingalls Industries | Test Engineer 1 - Test Operations | Newport News, VA | Not listed | not available | 2026-08-20 | **[Apply →](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1421259100/?ats=successfactors)**<br><sub>careers.huntingtoningalls.com</sub> |
 | L3Harris Technologies | Associate Software Engineer | Rochester, NY | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421462300/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Associate Software Engineer | Salt Lake City, UT | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineering-UT-84116/1421372400/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Software Engineer Associate | Salt Lake City, UT | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1421457300/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| L3Harris Technologies | Software Engineering Associate | Rochester, NY | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421454800/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
