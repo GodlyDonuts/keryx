@@ -9,7 +9,7 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,300 internships · 3,731 new-grad roles · 6,031 total openings**
+**2,255 internships · 3,723 new-grad roles · 5,978 total openings**
 
 ### 🎓 Internships
 
@@ -17,17 +17,17 @@
 |---|---:|---|
 | ☀️ Summer 2027 | 795 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 490 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 91 | **[View openings →](internships/spring-2027.md)** |
+| 🌱 Spring 2027 | 90 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 27 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 897 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 853 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 752 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 852 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,127 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 750 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 851 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,122 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -43,7 +43,7 @@ Recent internship and co-op listings that open the employer's application page d
 | TikTok | Software Engineer Intern - Recommendation Infra - Performance Efficiency | San Jose, CA | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675159726676101381)**<br><sub>lifeattiktok.com</sub> |
 | TikTok | Software Engineer Intern - TikTok Search Architecture | San Jose, CA | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675517686256863541)**<br><sub>lifeattiktok.com</sub> |
 | Agile Defense | Marketing and Communications Intern | McLean, VA | Not listed | Current student status<br><sub>stated</sub> | 2026-08-19 | **[Apply →](https://jobs.lever.co/agile-defense/d0c24500-bbe4-4dd4-b1c7-4b3d564f228e)**<br><sub>jobs.lever.co</sub> |
-| Allegheny County | 2027 Spring/Summer Internship: Business Analytics Intern | Pittsburgh, Pennsylvania | Summer 2027 | not stated | 2026-08-19 | **[Apply →](https://alleghenycounty.bamboohr.com/careers/663/)**<br><sub>alleghenycounty.bamboohr.com</sub> |
+| Allegheny County | Business Analytics Intern | Pittsburgh, PA | Summer 2027 | not stated | 2026-08-19 | **[Apply →](https://alleghenycounty.bamboohr.com/careers/663/)**<br><sub>alleghenycounty.bamboohr.com</sub> |
 | American Express | Campus - Internship Programme - Insurance Marketing & Product Analyst Intern - 2026 (Milan) | Milano, MI, Italy | Not listed | not stated | 2026-08-19 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012086)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | Bosch | Engineering Intern - Proton Exchange Membrane Water Electrolysis | Sunnyvale, CA, us | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000144370429)**<br><sub>jobs.smartrecruiters.com</sub> |
 | ByteDance | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | Seattle, WA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675477254269765941/detail)**<br><sub>jobs.bytedance.com</sub> |
@@ -60,7 +60,7 @@ Recent full-time opportunities that open the employer's application page directl
 |---|---|---|---|---|---:|---|
 | Boston Consulting Group | Forward Deployed AI Scientist - Campus | Boston, MA, Seattle, WA, Washington, DC, SF, LA, Miami, FL, Dallas, TX, Chicago, IL, Pittsburgh, PA, NYC, Brooklyn, NY, Manhattan Beach, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://careers.bcg.com/global/en/job/59068)**<br><sub>careers.bcg.com</sub> |
 | Crusoe | Software Engineer 1 - Network | SF, Sunnyvale, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Datalab USA | Production Programmer - Entry Level SQL Developer | Germantown, MD | Not listed | not stated | 2026-08-20 | **[Apply →](https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea)**<br><sub>jobs.lever.co</sub> |
+| Datalab USA | Production Programmer – Entry Level SQL Developer | Germantown, MD | Not listed | not stated | 2026-08-20 | **[Apply →](https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply)**<br><sub>jobs.lever.co</sub> |
 | Huntington Ingalls Industries | Test Engineer 1 - Test Operations | Newport News, VA | Not listed | not available | 2026-08-20 | **[Apply →](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1421259100/?ats=successfactors)**<br><sub>careers.huntingtoningalls.com</sub> |
 | L3Harris Technologies | Associate Software Engineer | Salt Lake City, UT | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineering-UT-84116/1421372400/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | Qualcomm | DDR Bench Characterization Engineer - Hardware Engineering | San Diego, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://qualcomm.eightfold.ai/careers/job/446718425274)**<br><sub>qualcomm.eightfold.ai</sub> |
