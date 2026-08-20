@@ -3257,6 +3257,12 @@
     },
     {
       "ats": "lever",
+      "company": "Catalist",
+      "key": "lever:catalist",
+      "slug": "catalist"
+    },
+    {
+      "ats": "lever",
       "company": "CesiumAstro",
       "key": "lever:cesiumastro",
       "slug": "CesiumAstro"
@@ -3710,6 +3716,14 @@
       "key": "oracle:ebxr.fa.us2.oraclecloud.com:cx_1",
       "site": "CX_1",
       "slug": "ebxr"
+    },
+    {
+      "ats": "oracle",
+      "company": "Blue Shield of California",
+      "host": "ecge.fa.us2.oraclecloud.com",
+      "key": "oracle:ecge.fa.us2.oraclecloud.com:cx_1003",
+      "site": "CX_1003",
+      "slug": "ecge"
     },
     {
       "ats": "oracle",
@@ -8108,6 +8122,24 @@
       "host": "invenergyllc.wd1.myworkdayjobs.com",
       "key": "workday:invenergyllc.wd1.myworkdayjobs.com:invenergyllc:invenergycareers",
       "site": "invenergycareers",
+      "slug": "invenergyllc",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Invenergy",
+      "host": "invenergyllc.wd1.myworkdayjobs.com",
+      "key": "workday:invenergyllc.wd1.myworkdayjobs.com:invenergyllc:invenergyllc",
+      "site": "invenergyllc",
+      "slug": "invenergyllc",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Invenergy",
+      "host": "invenergyllc.wd1.myworkdayjobs.com",
+      "key": "workday:invenergyllc.wd1.myworkdayjobs.com:invenergyllc:invenergyservices",
+      "site": "invenergyservices",
       "slug": "invenergyllc",
       "wd": "wd1"
     },

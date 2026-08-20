@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,287 internships · 3,758 new-grad roles · 6,045 total openings**
+**2,321 internships · 3,751 new-grad roles · 6,072 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 810 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 822 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 501 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 97 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 28 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 851 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 873 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 777 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 864 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,117 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 774 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 877 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,100 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -40,15 +40,15 @@ Recent internship and co-op listings that open the employer's application page d
 | AbbVie | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) | North Chicago, IL, us | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014697918)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Ampersand | Data Engineering Co-op - Open to Northeastern students only | Boston, MA | Fall 2026 | not available | 2026-08-20 | **[Apply →](https://ats.rippling.com/ampersand-biomedicines/jobs/be3f5479-379e-4d48-9bd1-82a69b2dcfd3)**<br><sub>ats.rippling.com</sub> |
 | Avery Dennison | RFID Applications Engineering Co-op - Spring 2027 ( plus one semester) | Miamisburg, OH, us | Spring 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.smartrecruiters.com/AveryDennison/744000144595999)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Blue Shield of California | Intern - Data Full Stack Engineer | Oakland, CA, United States | Not listed | Dec 2026–Jun 2028<br><sub>stated</sub> | 2026-08-20 | **[Apply →](https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20261580)**<br><sub>ecge.fa.us2.oraclecloud.com</sub> |
 | Curtiss-Wright Corporation | Engineer Intern | US-NC-Charlotte (ST-170) | Not listed | not available | 2026-08-20 | **[Apply →](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-NC-Charlotte-ST-170/Engineer-Intern_JR12661)**<br><sub>curtisswright.wd1.myworkdayjobs.com</sub> |
-| E-Space | Embedded Software Engineering Intern | Arlington, TX | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-08-20 | **[Apply →](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3)**<br><sub>jobs.lever.co</sub> |
+| E-Space | Embedded Software Engineer Intern | Arlington, TX | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-08-20 | **[Apply →](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply)**<br><sub>jobs.lever.co</sub> |
 | Fifth Third Bank | Information Security Co-op - Cyber Threat Interdiction - Summer 2027 | Cincinnati, OH | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582)**<br><sub>fifththird.wd5.myworkdayjobs.com</sub> |
 | Fifth Third Bank | Information Security Co-op – Identity & Access Management – Summer 2027 | Cincinnati, OH | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Summer-2027_R71591)**<br><sub>fifththird.wd5.myworkdayjobs.com</sub> |
 | Freeform | Materials Engineer Intern | LA | Summer 2027 | Current student status<br><sub>required</sub> | 2026-08-20 | **[Apply →](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003)**<br><sub>job-boards.greenhouse.io</sub> |
 | GlobalFoundries | Production Control Engineering Intern | USA - New York - Malta | Not listed | not available | 2026-08-20 | **[Apply →](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Technology-Development-Engineering-Intern--ULP-CMOS_JR-2503682)**<br><sub>globalfoundries.wd1.myworkdayjobs.com</sub> |
 | IMEG | Intern - Civil Engineering | Washington, DC | Not listed | not available | 2026-08-20 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Washington-DC/Intern---Civil-Engineering_R-16561)**<br><sub>wd1.myworkdaysite.com</sub> |
 | Integra FEC | (FALL) Research Analyst Intern | Austin, TX | Not listed | not stated | 2026-08-20 | **[Apply →](https://job-boards.greenhouse.io/integrainterns/jobs/5396990008)**<br><sub>job-boards.greenhouse.io</sub> |
-| Integra FEC | (FALL) Research Analyst Intern | Austin, Texas | Not listed | not stated | 2026-08-20 | **[Apply →](https://job-boards.greenhouse.io/integra/jobs/5396947008)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
