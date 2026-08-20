@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,336 internships · 3,708 new-grad roles · 6,044 total openings**
+**2,304 internships · 3,773 new-grad roles · 6,077 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 807 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 492 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 90 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 802 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 487 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 91 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 28 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 919 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 896 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 771 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 832 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,105 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 775 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 869 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,129 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -43,12 +43,12 @@ Recent internship and co-op listings that open the employer's application page d
 | Fannie Mae | Campus – Data Science Intern (Analytics & Modeling Program) | Washington, DC | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815)**<br><sub>fanniemae.wd1.myworkdayjobs.com</sub> |
 | Fifth Third Bank | Information Security Co-op - Cyber Threat Interdiction - Summer 2027 | Cincinnati, OH | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582)**<br><sub>fifththird.wd5.myworkdayjobs.com</sub> |
 | Fifth Third Bank | Information Security Co-op – Identity & Access Management – Summer 2027 | Cincinnati, OH | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Summer-2027_R71591)**<br><sub>fifththird.wd5.myworkdayjobs.com</sub> |
-| Fifth Third Bank | Software Engineer Co-Op - Enterprise Finance Applications - Summer 2027 | Cincinnati, OH | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588)**<br><sub>fifththird.wd5.myworkdayjobs.com</sub> |
 | RTX | Software Development Intern | Tewksbury, MA | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01867943)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
 | TikTok | Machine Learning Engineer Intern | Seattle, WA | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675847556668295429)**<br><sub>lifeattiktok.com</sub> |
 | TikTok | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD | Seattle, WA | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675845333947812149)**<br><sub>lifeattiktok.com</sub> |
 | Western Magnetics | Software Engineering Intern | South San Francisco, California, United States | Not listed | not available | 2026-08-20 | **[Apply →](https://apply.workable.com/western-magnetics/j/E366930F3F/)**<br><sub>apply.workable.com</sub> |
 | Agile Defense | Marketing and Communications Intern | McLean, VA | Not listed | Current student status<br><sub>stated</sub> | 2026-08-19 | **[Apply →](https://jobs.lever.co/agile-defense/d0c24500-bbe4-4dd4-b1c7-4b3d564f228e)**<br><sub>jobs.lever.co</sub> |
+| Allegheny County | Business Analytics Intern | Pittsburgh, PA | Summer 2027 | not stated | 2026-08-19 | **[Apply →](https://alleghenycounty.bamboohr.com/careers/663/)**<br><sub>alleghenycounty.bamboohr.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -60,16 +60,16 @@ Recent full-time opportunities that open the employer's application page directl
 |---|---|---|---|---|---:|---|
 | Boston Consulting Group | Forward Deployed AI Engineer - Campus | Boston, MA, Seattle, WA, Washington, DC, SF, LA, Miami, FL, Dallas, TX, Chicago, IL, Pittsburgh, PA, NYC, Brooklyn, NY, Manhattan Beach, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://careers.bcg.com/global/en/job/59067)**<br><sub>careers.bcg.com</sub> |
 | Confido | New Grad Software Engineer | New York City, NY | 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e)**<br><sub>jobs.ashbyhq.com</sub> |
+| Constellation Energy | Associate Data Scientist - AI | De Pere, WI, Houston, TX, Chicago, IL, Kennett Square, PA, Baltimore, MD | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.constellationenergy.com/jobs/138187?icims=1)**<br><sub>jobs.constellationenergy.com</sub> |
 | Crusoe | Software Engineer 1 - Network | SF, Sunnyvale, CA | 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Datalab USA | Production Programmer – Entry Level SQL Developer | Germantown, MD | 2027 | not stated | 2026-08-20 | **[Apply →](https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply)**<br><sub>jobs.lever.co</sub> |
 | Fannie Mae | Analytics & Modeling Associate - Analytics and Modeling Program | Washington, DC | Not listed | not available | 2026-08-20 | **[Apply →](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Analytics---Modeling-Program-Associate_JR2816-1)**<br><sub>fanniemae.wd1.myworkdayjobs.com</sub> |
 | Huntington Ingalls Industries | Test Engineer 1 - Test Operations | Newport News, VA | Not listed | not available | 2026-08-20 | **[Apply →](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1421259100/?ats=successfactors)**<br><sub>careers.huntingtoningalls.com</sub> |
+| L3Harris Technologies | Associate Software Engineer | Rochester, NY | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421462300/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Associate Software Engineer | Salt Lake City, UT | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineering-UT-84116/1421372400/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| Le Moyne College | Crime Analyst | Syracuse, NY | Not listed | not available | 2026-08-20 | **[Apply →](https://agilitas.wd503.myworkdayjobs.com/LMC/job/Syracuse-NY/Crime-Analyst_JR100336-1)**<br><sub>agilitas.wd503.myworkdayjobs.com</sub> |
-| Nooks | Software Engineer - New Grad | San Francisco, CA | 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53)**<br><sub>jobs.ashbyhq.com</sub> |
-| Qualcomm | DDR Bench Characterization Engineer - Hardware Engineering | San Diego, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://qualcomm.eightfold.ai/careers/job/446718425274)**<br><sub>qualcomm.eightfold.ai</sub> |
-| StudyFetch | AI Research Assistant - Machine Learning & AI | Beverly Hills, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://ats.rippling.com/studyfetch/jobs/ae12be8f-32a4-469f-8d71-452c8409a92a)**<br><sub>ats.rippling.com</sub> |
-| TikTok | Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics | San Jose, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675844938504702213)**<br><sub>lifeattiktok.com</sub> |
+| L3Harris Technologies | Software Engineer Associate | Salt Lake City, UT | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1421457300/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
+| L3Harris Technologies | Software Engineering Associate | Rochester, NY | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421454800/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
+| L3Harris Technologies | Software Engineering Senior Associate | Tulsa, OK | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.l3harris.com/job/Tulsa-Senior-Associate,-Software-Engineering-OK-74115/1421451700/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
