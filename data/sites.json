@@ -1413,6 +1413,16 @@
       "url": "https://www.k2space.com/"
     },
     {
+      "boards": [
+        "workday:nshs.wd1.myworkdayjobs.com:nshs:ns-eeh"
+      ],
+      "company": "Endeavor Health",
+      "key": "2b1d2fdddc8dbf67851a7f8d",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.endeavorhealth.org/"
+    },
+    {
       "boards": [],
       "company": "CF Industries",
       "key": "2b35433ccd5982135a7ea571",
@@ -1474,6 +1484,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.dana-farber.org/"
+    },
+    {
+      "company": "Peraton Labs",
+      "error": "public request failed for https://www.perspectalabs.com/: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)>",
+      "key": "2cc3a91fc5d79de157070570",
+      "last_scanned": "2026-08-20",
+      "url": "https://www.perspectalabs.com/"
     },
     {
       "boards": [],
@@ -2559,6 +2576,14 @@
       "key": "4a471fe2a3be82abf04cf615",
       "last_scanned": "2026-08-20",
       "url": "https://www.serco.com/"
+    },
+    {
+      "boards": [],
+      "company": "BCG X",
+      "key": "4a6e9c0066a2f6f7644b78da",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.bcg.com/x"
     },
     {
       "boards": [],
@@ -3745,6 +3770,16 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://www.radian.com/"
+    },
+    {
+      "boards": [
+        "workday:msd.wd5.myworkdayjobs.com:msd:searchjobs"
+      ],
+      "company": "Merck",
+      "key": "637dc045594c86a9b344e186",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.merck.com/"
     },
     {
       "boards": [],
@@ -6262,6 +6297,22 @@
     },
     {
       "boards": [],
+      "company": "PRIME Education",
+      "key": "a5b684b1ee2839e7f0226d8e",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://primece.com/"
+    },
+    {
+      "boards": [],
+      "company": "Alef",
+      "key": "a5b83a9292d3ef5eec8b007c",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://alef.aero/"
+    },
+    {
+      "boards": [],
       "company": "Safe Fleet",
       "key": "a5dd6284d295d37aa806045c",
       "last_scanned": "2026-08-17",
@@ -7981,6 +8032,16 @@
       "url": "https://www.healthadvances.com/"
     },
     {
+      "boards": [
+        "workday:gobeacon.wd1.myworkdayjobs.com:gobeacon:beaconmobilitycareers"
+      ],
+      "company": "Beacon Mobility",
+      "key": "cf1dfcaaa28096397c7df1dd",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://gobeacon.com/"
+    },
+    {
       "boards": [],
       "company": "Publicis Groupe",
       "key": "cf3d5b8db043cf96941a7b33",
@@ -8639,6 +8700,14 @@
     },
     {
       "boards": [],
+      "company": "Venmo",
+      "key": "df3f23ad51d8d54d5080f70f",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://venmo.com/"
+    },
+    {
+      "boards": [],
       "company": "Barnes & Noble Education, Inc.",
       "key": "df57e8fe63ce8bf42f1e506a",
       "last_scanned": "2026-08-15",
@@ -9064,7 +9133,7 @@
       "company": "Kelvolta",
       "error": "Invalid IPv6 URL",
       "key": "ebe0e152a0d08a0cb5422f9b",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-08-20",
       "url": "https://www.kelvolta.com/"
     },
     {
@@ -9087,7 +9156,7 @@
       "company": "Delta Air Lines",
       "error": "public request failed for https://www.delta.com/: HTTP Error 444: Unknown",
       "key": "ec7c99f34f2e512e16326371",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-08-20",
       "url": "https://www.delta.com/"
     },
     {
@@ -9104,7 +9173,7 @@
       "company": "The State University of New York",
       "error": "public request failed for https://www.suny.edu/: HTTP Error 403: Forbidden",
       "key": "ecbff3cf84f1626dbfe6489e",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-08-20",
       "url": "https://www.suny.edu/"
     },
     {
@@ -9127,7 +9196,7 @@
       "company": "Vagaro",
       "error": "public request failed for https://www.vagaro.com/pro/: HTTP Error 403: Forbidden",
       "key": "ed1de913f548f9381e1026e9",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-08-20",
       "url": "https://sales.vagaro.com/"
     },
     {
@@ -9380,7 +9449,7 @@
       "company": "California Department of Social Services",
       "error": "public requests require HTTPS and a hostname",
       "key": "f15df43a5173bfe15cc6e37c",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-08-20",
       "url": "https://www.cdss.ca.gov/inforesources/cdss-programs/ihss/ihss-career-pathways-program"
     },
     {
@@ -9514,7 +9583,7 @@
       "company": "Super Micro Computer Spain, S.L.",
       "error": "public request failed for https://www.supermicro.es/: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)>",
       "key": "f45447bf27f7ecbd76dd768e",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-08-20",
       "url": "https://www.supermicro.es/"
     },
     {
@@ -9537,7 +9606,7 @@
       "company": "Ericsson",
       "error": "public request failed for https://www.ericsson.com/en: HTTP Error 403: Forbidden",
       "key": "f53ce3ad208b14b94c9e584f",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-08-20",
       "url": "https://www.ericsson.com/"
     },
     {
@@ -9552,8 +9621,16 @@
       "company": "Rubrik",
       "error": "public request failed for https://www.rubrik.com/: HTTP Error 403: Forbidden",
       "key": "f61cf0c24b28035366bfaa16",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-08-20",
       "url": "https://rubrik.com/"
+    },
+    {
+      "boards": [],
+      "company": "Eulerity",
+      "key": "f6b2a6c7a88b13877b9a54f3",
+      "last_scanned": "2026-08-20",
+      "resolved_roles": 0,
+      "url": "https://www.eulerity.com/"
     },
     {
       "boards": [],
@@ -9567,7 +9644,7 @@
       "company": "Fountain Digital",
       "error": "public requests require HTTPS and a hostname",
       "key": "f6d40b664aa1c34deef9e846",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-08-20",
       "url": "https://fountaindigital.com/"
     },
     {
@@ -9662,14 +9739,14 @@
       "company": "Hewlett Packard Enterprise",
       "error": "public request failed for https://www.hpe.com/: The read operation timed out",
       "key": "fb9d829f215a3234760b16c3",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-08-20",
       "url": "https://www.hpe.com/"
     },
     {
       "company": "AbbVie",
       "error": "public request failed for https://www.abbvie.com/: HTTP Error 403: Forbidden",
       "key": "fbba7a3efaed795ea7ce58d7",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-08-20",
       "url": "https://www.abbvie.com/"
     },
     {
@@ -9751,7 +9828,7 @@
       "company": "AcademyHealth",
       "error": "public request failed for https://www.academyhealth.org/: HTTP Error 403: Forbidden",
       "key": "fdc155b44b912304cd582ddd",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-08-20",
       "url": "https://www.academyhealth.org/"
     },
     {

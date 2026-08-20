@@ -328,7 +328,7 @@
       "ats": "ashby",
       "company": "Crusoe",
       "key": "ashby:crusoe",
-      "slug": "crusoe"
+      "slug": "Crusoe"
     },
     {
       "ats": "ashby",
@@ -7520,6 +7520,15 @@
     },
     {
       "ats": "workday",
+      "company": "Beacon Mobility",
+      "host": "gobeacon.wd1.myworkdayjobs.com",
+      "key": "workday:gobeacon.wd1.myworkdayjobs.com:gobeacon:beaconmobilitycareers",
+      "site": "beaconmobilitycareers",
+      "slug": "gobeacon",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Voya Investment Management",
       "host": "godirect.wd5.myworkdayjobs.com",
       "key": "workday:godirect.wd5.myworkdayjobs.com:godirect:voya_jobs",
@@ -9028,6 +9037,15 @@
       "key": "workday:nshe.wd1.myworkdayjobs.com:nshe:unlv-external",
       "site": "unlv-external",
       "slug": "nshe",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Endeavor Health",
+      "host": "nshs.wd1.myworkdayjobs.com",
+      "key": "workday:nshs.wd1.myworkdayjobs.com:nshs:ns-eeh",
+      "site": "ns-eeh",
+      "slug": "nshs",
       "wd": "wd1"
     },
     {
