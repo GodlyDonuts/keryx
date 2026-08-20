@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,265 internships · 3,726 new-grad roles · 5,991 total openings**
+**2,252 internships · 3,751 new-grad roles · 6,003 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 800 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 496 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 92 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 26 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 851 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 801 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 494 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 91 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 27 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 839 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 755 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 861 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,110 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 805 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 850 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,096 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -42,13 +42,13 @@ Recent internship and co-op listings that open the employer's application page d
 | GlobalFoundries | US Advanced Manufacturing Equipment Engineering Intern, Junior (Summer 2027) | USA - Vermont - Essex Junction | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656)**<br><sub>globalfoundries.wd1.myworkdayjobs.com</sub> |
 | TikTok | Machine Learning Engineer Intern | Seattle, WA | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675847556668295429)**<br><sub>lifeattiktok.com</sub> |
 | TikTok | Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD | Seattle, WA | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675845333947812149)**<br><sub>lifeattiktok.com</sub> |
-| TikTok | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure | Seattle, WA | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7672926068681951493)**<br><sub>lifeattiktok.com</sub> |
-| TikTok | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure | San Jose, CA | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7672930401597671733)**<br><sub>lifeattiktok.com</sub> |
-| TikTok | Software Engineer Intern - Recommendation Infra - Performance Efficiency | San Jose, CA | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675159726676101381)**<br><sub>lifeattiktok.com</sub> |
-| TikTok | Software Engineer Intern - TikTok Search Architecture | San Jose, CA | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675517686256863541)**<br><sub>lifeattiktok.com</sub> |
 | Western Magnetics | Software Engineering Intern | South San Francisco, California, United States | Not listed | not available | 2026-08-20 | **[Apply →](https://apply.workable.com/western-magnetics/j/E366930F3F/)**<br><sub>apply.workable.com</sub> |
 | Agile Defense | Marketing and Communications Intern | McLean, VA | Not listed | Current student status<br><sub>stated</sub> | 2026-08-19 | **[Apply →](https://jobs.lever.co/agile-defense/d0c24500-bbe4-4dd4-b1c7-4b3d564f228e)**<br><sub>jobs.lever.co</sub> |
-| Allegheny County | Business Analytics Intern | Pittsburgh, PA | Summer 2027 | not stated | 2026-08-19 | **[Apply →](https://alleghenycounty.bamboohr.com/careers/663/)**<br><sub>alleghenycounty.bamboohr.com</sub> |
+| Allegheny County | 2027 Spring/Summer Internship: Business Analytics Intern | Pittsburgh, Pennsylvania | Summer 2027 | not stated | 2026-08-19 | **[Apply →](https://alleghenycounty.bamboohr.com/careers/663/)**<br><sub>alleghenycounty.bamboohr.com</sub> |
+| American Express | Campus - Internship Programme - Insurance Marketing & Product Analyst Intern - 2026 (Milan) | Milano, MI, Italy | Not listed | not stated | 2026-08-19 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012086)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| Bosch | Engineering Intern - Proton Exchange Membrane Water Electrolysis | Sunnyvale, CA, us | Not listed | not available | 2026-08-19 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000144370429)**<br><sub>jobs.smartrecruiters.com</sub> |
+| ByteDance | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | Seattle, WA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675477254269765941/detail)**<br><sub>jobs.bytedance.com</sub> |
+| ByteDance | Machine Learning Engineer Intern - E-Commerce Risk Control - PhD | San Jose, CA | Summer 2027 | not available | 2026-08-19 | **[Apply →](https://jobs.bytedance.com/en/position/7675478684795881781/detail)**<br><sub>jobs.bytedance.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Crusoe | Software Engineer 1 - Network | SF, Sunnyvale, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Datalab USA | Production Programmer – Entry Level SQL Developer | Germantown, MD | Not listed | not stated | 2026-08-20 | **[Apply →](https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea/apply)**<br><sub>jobs.lever.co</sub> |
+| Boston Consulting Group | Forward Deployed AI Engineer - Campus | Boston, MA, Seattle, WA, Washington, DC, SF, LA, Miami, FL, Dallas, TX, Chicago, IL, Pittsburgh, PA, NYC, Brooklyn, NY, Manhattan Beach, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://careers.bcg.com/global/en/job/59067)**<br><sub>careers.bcg.com</sub> |
+| Crusoe | Software Engineer 1 - Network | SF, Sunnyvale, CA | 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Datalab USA | Production Programmer - Entry Level SQL Developer | Germantown, MD | 2027 | not stated | 2026-08-20 | **[Apply →](https://jobs.lever.co/datalabusa/dd9a80d9-a296-4ea9-a231-b68bf268e8ea)**<br><sub>jobs.lever.co</sub> |
 | Huntington Ingalls Industries | Test Engineer 1 - Test Operations | Newport News, VA | Not listed | not available | 2026-08-20 | **[Apply →](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1421259100/?ats=successfactors)**<br><sub>careers.huntingtoningalls.com</sub> |
 | L3Harris Technologies | Associate Software Engineer | Salt Lake City, UT | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineering-UT-84116/1421372400/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | Qualcomm | DDR Bench Characterization Engineer - Hardware Engineering | San Diego, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://qualcomm.eightfold.ai/careers/job/446718425274)**<br><sub>qualcomm.eightfold.ai</sub> |
 | StudyFetch | AI Research Assistant - Machine Learning & AI | Beverly Hills, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://ats.rippling.com/studyfetch/jobs/ae12be8f-32a4-469f-8d71-452c8409a92a)**<br><sub>ats.rippling.com</sub> |
-| TikTok | Graduate Software Engineer - TikTok Search Data Infra | San Jose, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675829388634392837)**<br><sub>lifeattiktok.com</sub> |
 | TikTok | Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics | San Jose, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675844938504702213)**<br><sub>lifeattiktok.com</sub> |
 | TikTok | Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics | Seattle, WA | Not listed | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675843332462872885)**<br><sub>lifeattiktok.com</sub> |
 | TikTok | Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics - LLM/Agent | Seattle, WA | Not listed | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675842865566222597)**<br><sub>lifeattiktok.com</sub> |
 | TikTok | Machine Learning Engineer Graduate - Multiple Teams | San Jose, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7675841339440941317)**<br><sub>lifeattiktok.com</sub> |
-| TikTok | Research Scientist/Software Engineer - Neural Graphics and World Models | San Jose, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7668854153882011957)**<br><sub>lifeattiktok.com</sub> |
+| TikTok | Research Scientist/Software Engineer - Neural Graphics and World Models | San Jose, CA | 2027 | not available | 2026-08-20 | **[Apply →](https://lifeattiktok.com/search/7668854153882011957)**<br><sub>lifeattiktok.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
