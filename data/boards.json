@@ -1516,6 +1516,13 @@
     },
     {
       "ats": "bamboohr",
+      "company": "Fullbay",
+      "host": "fullbay.bamboohr.com",
+      "key": "bamboohr:fullbay",
+      "slug": "fullbay"
+    },
+    {
+      "ats": "bamboohr",
       "company": "Gupta Media",
       "host": "gupta.bamboohr.com",
       "key": "bamboohr:gupta",
@@ -4529,6 +4536,14 @@
       "host": "tulane-ibqejb.fa.ocs.oraclecloud.com",
       "key": "oracle:tulane-ibqejb.fa.ocs.oraclecloud.com:cx_1",
       "site": "CX_1",
+      "slug": "tulane-ibqejb"
+    },
+    {
+      "ats": "oracle",
+      "company": "Tulane University",
+      "host": "tulane-ibqejb.fa.ocs.oraclecloud.com",
+      "key": "oracle:tulane-ibqejb.fa.ocs.oraclecloud.com:cx_1001",
+      "site": "CX_1001",
       "slug": "tulane-ibqejb"
     },
     {
@@ -8826,6 +8841,15 @@
     },
     {
       "ats": "workday",
+      "company": "Madrigal Pharmaceuticals",
+      "host": "madrigalpharma.wd501.myworkdayjobs.com",
+      "key": "workday:madrigalpharma.wd501.myworkdayjobs.com:madrigalpharma:madrigal",
+      "site": "Madrigal",
+      "slug": "madrigalpharma",
+      "wd": "wd501"
+    },
+    {
+      "ats": "workday",
       "company": "Magna International",
       "host": "magna.wd3.myworkdayjobs.com",
       "key": "workday:magna.wd3.myworkdayjobs.com:magna:magna",
@@ -10711,6 +10735,15 @@
       "host": "synnex.wd5.myworkdayjobs.com",
       "key": "workday:synnex.wd5.myworkdayjobs.com:synnex:hyvecareers",
       "site": "hyvecareers",
+      "slug": "synnex",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Hyve Solutions",
+      "host": "synnex.wd5.myworkdayjobs.com",
+      "key": "workday:synnex.wd5.myworkdayjobs.com:synnex:hyvewuxicareers",
+      "site": "hyvewuxicareers",
       "slug": "synnex",
       "wd": "wd5"
     },

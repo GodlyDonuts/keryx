@@ -266,6 +266,14 @@
     },
     {
       "boards": [],
+      "company": "Compass Group Canada",
+      "key": "056b78dae98e85ea9f520848",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.compass-canada.com/"
+    },
+    {
+      "boards": [],
       "company": "Roche",
       "key": "057843d763d118baca22b546",
       "last_scanned": "2026-08-16",
@@ -1254,6 +1262,16 @@
       "url": "https://vermontstate.edu/"
     },
     {
+      "boards": [
+        "workday:madrigalpharma.wd501.myworkdayjobs.com:madrigalpharma:madrigal"
+      ],
+      "company": "Madrigal Pharmaceuticals",
+      "key": "1ab8e31a5ccc5d1d3cebfe4c",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://madrigalpharma.com/"
+    },
+    {
       "company": "Redfin",
       "error": "public request failed for https://www.redfin.com/: HTTP Error 405: Not Allowed",
       "key": "1aeca1473f17662ce653056c",
@@ -1867,6 +1885,14 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://www.txdot.gov/"
+    },
+    {
+      "boards": [],
+      "company": "Hawkeye Area Community Action Program",
+      "key": "2c31fdf93a71547f227225ef",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.hacap.org/"
     },
     {
       "boards": [
@@ -3163,6 +3189,14 @@
       "url": "https://www.jetblue.com/"
     },
     {
+      "boards": [],
+      "company": "Anti-Defamation League",
+      "key": "4950cecb298220b75e65a827",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://adl.org/"
+    },
+    {
       "company": "MITRE",
       "error": "public request failed for https://www.mitre.org/: HTTP Error 403: Forbidden",
       "key": "49727d1a44dd2aaff05a26a7",
@@ -4429,7 +4463,7 @@
       "company": "LPL Financial",
       "error": "public request failed for https://www.lpl.com/: HTTP Error 403: Forbidden",
       "key": "5f35392ead95a3c5fc83dcac",
-      "last_scanned": "2026-08-20",
+      "last_scanned": "2026-08-21",
       "url": "https://www.lpl.com/"
     },
     {
@@ -4449,6 +4483,14 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://www.energyhub.com/"
+    },
+    {
+      "boards": [],
+      "company": "iSoftStone",
+      "key": "604a4fa4aa49d90d00377182",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 1,
+      "url": "https://www.isoftstoneinc.com/"
     },
     {
       "boards": [],
@@ -4923,6 +4965,14 @@
       "url": "https://www.airtechusa.com/"
     },
     {
+      "boards": [],
+      "company": "Stantec",
+      "key": "6b6f3078d7591d042d7fb5cb",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.stantec.com/"
+    },
+    {
       "company": "Equinix",
       "error": "public request failed for https://www.equinix.com/: HTTP Error 403: Forbidden",
       "key": "6b76c20cdf2ae5afdab1d107",
@@ -5395,6 +5445,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.interactivebrokers.com/en/home.php"
+    },
+    {
+      "boards": [],
+      "company": "HarrisX",
+      "key": "75d1b86cb76e76d0f7000570",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://harrisx.com/"
     },
     {
       "boards": [],
@@ -6139,6 +6197,16 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://www.oncor.com/"
+    },
+    {
+      "boards": [
+        "oracle:tulane-ibqejb.fa.ocs.oraclecloud.com:cx_1001"
+      ],
+      "company": "Tulane University",
+      "key": "84cc3107dc911af53ba83088",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://tulane.edu/"
     },
     {
       "boards": [],
@@ -6919,6 +6987,17 @@
     },
     {
       "boards": [
+        "workday:synnex.wd5.myworkdayjobs.com:synnex:hyvecareers",
+        "workday:synnex.wd5.myworkdayjobs.com:synnex:hyvewuxicareers"
+      ],
+      "company": "Hyve Solutions",
+      "key": "9487d2757b3c2ea9d540c69a",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://hyvesolutions.com/"
+    },
+    {
+      "boards": [
         "workday:intel.wd1.myworkdayjobs.com:intel:external"
       ],
       "company": "Intel",
@@ -7613,6 +7692,13 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://www.fiu.edu/"
+    },
+    {
+      "company": "Monetate",
+      "error": "public requests require HTTPS and a hostname",
+      "key": "a4d7a70befc0ef0e16f2a71c",
+      "last_scanned": "2026-08-21",
+      "url": "https://www.monetate.com/"
     },
     {
       "boards": [
@@ -10652,6 +10738,14 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://www.evotravelagent.com/bethsbeautifuldestinations"
+    },
+    {
+      "boards": [],
+      "company": "Baystate Financial",
+      "key": "e275d76695dd34e1768dc94c",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://baystatefinancial.com/"
     },
     {
       "boards": [
