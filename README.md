@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,310 internships · 3,786 new-grad roles · 6,096 total openings**
+**2,347 internships · 3,789 new-grad roles · 6,136 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 845 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 501 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 104 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 30 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 830 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 850 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 503 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 108 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 32 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 854 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 769 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 891 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,126 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 772 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 893 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,124 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,7 +37,10 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Lawrence Livermore National Laboratory (LLNL) | Computational Engineering Graduate Intern | Livermore, CA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990014730886)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Lawrence Livermore National Laboratory (LLNL) | Computational Engineering Division Graduate Intern - Summer 2027 | Livermore, CA, us | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990014730886)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Lawrence Livermore National Laboratory (LLNL) | Energy Systems Analyst Graduate Intern - Fall 2026 | Livermore, CA, us | Fall 2026 | not available | 2026-08-21 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990014731696)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Lawrence Livermore National Laboratory (LLNL) | National Security Engineering Division (NSED) Graduate Intern - Summer 2027 | Livermore, CA, us | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990014731646)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Lawrence Livermore National Laboratory (LLNL) | National Security Engineering Division (NSED) Undergraduate Intern - Summer 2027 | Livermore, CA, us | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990014731656)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AbbVie | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | North Chicago, IL | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014697918)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Ampersand | Data Engineering Co-op - Open to Northeastern students only | Boston, MA | Fall 2026 | not available | 2026-08-20 | **[Apply →](https://ats.rippling.com/ampersand-biomedicines/jobs/be3f5479-379e-4d48-9bd1-82a69b2dcfd3)**<br><sub>ats.rippling.com</sub> |
 | Analog Devices | Mixed Signal Engineer Intern | Wilmington, MA, Durham, NC | Fall 2026 | not available | 2026-08-20 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Engineer-Intern_R265299)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
@@ -46,9 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | Blue Shield of California | Intern - Data Full Stack Engineer | Oakland, CA, United States | Not listed | Dec 2026–Jun 2028<br><sub>stated</sub> | 2026-08-20 | **[Apply →](https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20261580)**<br><sub>ecge.fa.us2.oraclecloud.com</sub> |
 | Catalist | Data Services Intern | Washington, DC | Fall 2026 | not stated | 2026-08-20 | **[Apply →](https://jobs.lever.co/catalist/4300e9ab-5f6f-4b9a-8ad6-8282a34e7dec/apply)**<br><sub>jobs.lever.co</sub> |
 | CNO Financial Group | Summer 2027 Reporting Analyst Intern 2027 - REMOTE from any US based location | Carmel, IN | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Summer-2027-Reporting-Analyst-Intern-2027---REMOTE-from-any-US-based-location_JR170455)**<br><sub>cnoinc.wd5.myworkdayjobs.com</sub> |
-| Databricks | Software Engineering Intern (2027 Start) - Winter | Bellevue, Washington; Mountain View, California; San Francisco, California | Spring 2027 | Fall 2027–Spring 2028<br><sub>stated</sub> | 2026-08-20 | **[Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002)**<br><sub>databricks.com</sub> |
-| Devon Energy | Technology Intern - Data Engineering | Houston, TX, Oklahoma City, OK | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1)**<br><sub>wd5.myworkdaysite.com</sub> |
-| E-Space | Embedded Software Engineer Intern | Arlington, TX | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-08-20 | **[Apply →](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply)**<br><sub>jobs.lever.co</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
