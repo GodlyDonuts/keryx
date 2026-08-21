@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,327 internships · 3,719 new-grad roles · 6,046 total openings**
+**2,319 internships · 3,732 new-grad roles · 6,051 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 856 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 500 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 105 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 29 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 837 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 855 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 498 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 103 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 31 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 832 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 759 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 845 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,115 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 853 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,120 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -59,17 +59,17 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Acadian Asset Management | Analyst – Portfolio Construction & Trading | Boston, MA | Not listed | not available | 2026-08-21 | **[Apply →](https://www.acadian-asset.com/careers/open-positions?gh_jid=4702401006)**<br><sub>www.acadian-asset.com</sub> |
+| ByteDance | Software Engineer Graduate - AML-Engine-Forge Platform | San Jose, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://jobs.bytedance.com/en/position/7673306902554102069/detail)**<br><sub>jobs.bytedance.com</sub> |
 | E2 Optics | Data Center Infrastructure Technician | Columbus, OH | Not listed | not available | 2026-08-21 | **[Apply →](https://careers-e2optics.icims.com/jobs/3770/job?mobile=true&needsRedirect=false)**<br><sub>careers-e2optics.icims.com</sub> |
+| L3Harris Technologies | Software Engineer Associate - TS/SCI | Melbourne, FL | Not listed | not available | 2026-08-21 | **[Apply →](https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineering-TSSCI-FL-32904/1421809500/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | Mackenzie Investments | Investment Analyst - Quantitative | Boston, MA | Not listed | not available | 2026-08-21 | **[Apply →](https://careersen-mackenzieinvestments.icims.com/jobs/5971/job?mobile=true&needsRedirect=false)**<br><sub>careersen-mackenzieinvestments.icims.com</sub> |
 | Nucleus Biologics | Full Stack Engineer | San Diego, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://ats.rippling.com/nucleus-biologics-careers/jobs/af1ea033-27f0-42e8-bac9-09434a5ffbe3)**<br><sub>ats.rippling.com</sub> |
 | Oracle | Support Engineer 1 | Orlando, FL, Nashville, TN, Kansas City, MO | Not listed | not available | 2026-08-21 | **[Apply →](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343611)**<br><sub>eeho.fa.us2.oraclecloud.com</sub> |
 | Peraton | COBOL Software Developer | United States | Not listed | not available | 2026-08-21 | **[Apply →](https://careers-peraton.icims.com/jobs/169890/job?mobile=true&needsRedirect=false)**<br><sub>careers-peraton.icims.com</sub> |
 | Qualcomm | Verification Software Engineer - Software Engineering | San Diego, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://qualcomm.eightfold.ai/careers/job/446720426705)**<br><sub>qualcomm.eightfold.ai</sub> |
 | ServiceNow | Associate Applications Development Engineer | Santa Clara, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://jobs.smartrecruiters.com/ServiceNow/744000144653619)**<br><sub>jobs.smartrecruiters.com</sub> |
+| This is CNY | Software Engineer, Test Automation | Skaneateles, NY, United States | 2026 | not available | 2026-08-21 | **[Apply →](https://careers.thisiscny.com/companies/baxter-international/jobs/90636137-software-engineer-test-automation#content)**<br><sub>careers.thisiscny.com</sub> |
 | Amgen | Commercial Data & Analytics Data Scientist Associate - Obesity | Thousand Oaks, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Associate_R-252126)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
-| Amgen | Data Scientist Associate - Obesity | Thousand Oaks, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Associate_R-252119)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
-| Analog Devices | Associate Digital Design Engineer | San Jose, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Digital-Design-Engineer_R265286)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
-| Analog Devices | Associate Product Applications Engineer | Centennial, CO, Colorado Springs, CO, Wilmington, MA, Durham, NC | 2026 | not available | 2026-08-20 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Applications-Engineer_R265307)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
