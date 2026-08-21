@@ -1430,6 +1430,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Zip",
+      "key": "ashby:zip",
+      "slug": "zip"
+    },
+    {
+      "ats": "ashby",
       "company": "Zuru",
       "key": "ashby:zuru",
       "slug": "zuru"
@@ -5592,6 +5598,15 @@
     },
     {
       "ats": "workday",
+      "company": "Amgen",
+      "host": "amgen.wd1.myworkdayjobs.com",
+      "key": "workday:amgen.wd1.myworkdayjobs.com:amgen:careers",
+      "site": "careers",
+      "slug": "amgen",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Analog Devices",
       "host": "analogdevices.wd1.myworkdayjobs.com",
       "key": "workday:analogdevices.wd1.myworkdayjobs.com:analogdevices:external",
@@ -7695,6 +7710,15 @@
       "site": "voya_jobs",
       "slug": "godirect",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Goodwill Industries International",
+      "host": "goodwillaz.wd1.myworkdayjobs.com",
+      "key": "workday:goodwillaz.wd1.myworkdayjobs.com:goodwillaz:goodwillaz",
+      "site": "GoodwillAZ",
+      "slug": "goodwillaz",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -10627,6 +10651,15 @@
       "host": "tmobile.wd1.myworkdayjobs.com",
       "key": "workday:tmobile.wd1.myworkdayjobs.com:tmobile:alumni",
       "site": "alumni",
+      "slug": "tmobile",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "T-Mobile",
+      "host": "tmobile.wd1.myworkdayjobs.com",
+      "key": "workday:tmobile.wd1.myworkdayjobs.com:tmobile:contractorconversion",
+      "site": "contractorconversion",
       "slug": "tmobile",
       "wd": "wd1"
     },
