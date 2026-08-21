@@ -1418,6 +1418,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Weave",
+      "key": "ashby:weave",
+      "slug": "weave"
+    },
+    {
+      "ats": "ashby",
       "company": "WHOOP",
       "key": "ashby:whoop",
       "slug": "whoop"
@@ -5997,6 +6003,24 @@
     },
     {
       "ats": "workday",
+      "company": "Availity",
+      "host": "availity.wd1.myworkdayjobs.com",
+      "key": "workday:availity.wd1.myworkdayjobs.com:availity:availity_careers_india",
+      "site": "Availity_Careers_India",
+      "slug": "availity",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Availity",
+      "host": "availity.wd1.myworkdayjobs.com",
+      "key": "workday:availity.wd1.myworkdayjobs.com:availity:availity_careers_us",
+      "site": "Availity_Careers_US",
+      "slug": "availity",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "AeroVironment",
       "host": "avav.wd1.myworkdayjobs.com",
       "key": "workday:avav.wd1.myworkdayjobs.com:avav:avav",
@@ -10416,6 +10440,15 @@
     },
     {
       "ats": "workday",
+      "company": "SEH",
+      "host": "sehinc.wd12.myworkdayjobs.com",
+      "key": "workday:sehinc.wd12.myworkdayjobs.com:sehinc:seh",
+      "site": "SEH",
+      "slug": "sehinc",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
       "company": "Schweitzer Engineering Laboratories",
       "host": "selinc.wd1.myworkdayjobs.com",
       "key": "workday:selinc.wd1.myworkdayjobs.com:selinc:sel",
@@ -10602,6 +10635,15 @@
       "site": "ssctechnologies",
       "slug": "ssctech",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "SSR Mining Inc.",
+      "host": "ssrmining.wd108.myworkdayjobs.com",
+      "key": "workday:ssrmining.wd108.myworkdayjobs.com:ssrmining:ssr_mining_careers",
+      "site": "SSR_Mining_Careers",
+      "slug": "ssrmining",
+      "wd": "wd108"
     },
     {
       "ats": "workday",

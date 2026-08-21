@@ -446,6 +446,14 @@
       "url": "https://www.michelin.com/"
     },
     {
+      "boards": [],
+      "company": "Brose Group",
+      "key": "0920949ce4ed59f3c69cca34",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.brose.com/"
+    },
+    {
       "company": "Sparks Wiz Limited",
       "error": "public hostname did not resolve: www.sparkswiz.com",
       "key": "09347f85081d1a3fa8446189",
@@ -1038,6 +1046,13 @@
       "key": "15b53d3b2eae4ac6abe9b801",
       "last_scanned": "2026-08-21",
       "url": "https://www.tjx.com/"
+    },
+    {
+      "company": "United Airlines",
+      "error": "public request failed for https://www.united.com/: The read operation timed out",
+      "key": "15c9c7cc00095b88622bc47e",
+      "last_scanned": "2026-08-21",
+      "url": "https://www.united.com/"
     },
     {
       "boards": [
@@ -1638,6 +1653,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.ozmo.com/"
+    },
+    {
+      "boards": [],
+      "company": "George J. Igel & Co., Inc.",
+      "key": "252f180bd91727523a577077",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.buildwithigel.com/"
     },
     {
       "boards": [],
@@ -4246,6 +4269,14 @@
     },
     {
       "boards": [],
+      "company": "tms",
+      "key": "5baa0bbb955822f0bcce2cc1",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://themarketingstore.com/"
+    },
+    {
+      "boards": [],
       "company": "Danfoss",
       "key": "5bc77ee3ceb507e30e9142a8",
       "last_scanned": "2026-08-15",
@@ -4269,6 +4300,14 @@
       "last_scanned": "2026-08-21",
       "resolved_roles": 0,
       "url": "https://www.arcadis.com/"
+    },
+    {
+      "boards": [],
+      "company": "Armstrong World Industries",
+      "key": "5c05bf2fd6fee47956a2837d",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.armstrong.com/"
     },
     {
       "boards": [
@@ -4663,6 +4702,14 @@
       "url": "https://www.idexcorp.com/"
     },
     {
+      "boards": [],
+      "company": "Syska Hennessy Group",
+      "key": "6332bc89beff75e6fddc4e99",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.syska.com/"
+    },
+    {
       "boards": [
         "workday:compass.wd501.myworkdayjobs.com:compass:radian_external_career_site"
       ],
@@ -4731,9 +4778,9 @@
     },
     {
       "company": "SAP",
-      "error": "public request failed for https://www.sap.com/: HTTP Error 403: Forbidden",
+      "error": "public request failed for https://www.sap.com/index.html: HTTP Error 403: Forbidden",
       "key": "66654736107967ac46480871",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-08-21",
       "url": "https://www.sap.com/"
     },
     {
@@ -5198,6 +5245,14 @@
       "url": "https://www.bakertilly.global/"
     },
     {
+      "boards": [],
+      "company": "Sagitec Solutions",
+      "key": "70f79d9f9bc1bac5bffb599b",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.sagitec.com/"
+    },
+    {
       "company": "FLO Materials",
       "error": "Invalid IPv6 URL",
       "key": "7161fcfb1709664c14145c74",
@@ -5615,7 +5670,7 @@
       "company": "Mastercard",
       "error": "public request failed for https://www.mastercard.com/: HTTP Error 403: Forbidden",
       "key": "77e169e72cbf565b566b3dda",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-21",
       "url": "https://www.mastercard.com/"
     },
     {
@@ -6274,11 +6329,26 @@
       "url": "https://www.eversource.com/"
     },
     {
+      "boards": [],
+      "company": "Two Chairs",
+      "key": "85e3594ea811b27f03a6cc81",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.twochairs.com/"
+    },
+    {
       "company": "Tyson Foods",
       "error": "public request failed for https://tysonfoods.com/: HTTP Error 403: Forbidden",
       "key": "860d5960a1495e5efa1b5f49",
       "last_scanned": "2026-08-19",
       "url": "https://tysonfoods.com/"
+    },
+    {
+      "company": "Voloridge Investment Management, LLC",
+      "error": "public request failed for https://www.voloridge.com/index.aspx: HTTP Error 404: Not Found",
+      "key": "86952ee27c8c121b726d7b69",
+      "last_scanned": "2026-08-21",
+      "url": "https://www.voloridge.com/index.aspx"
     },
     {
       "boards": [],
@@ -6741,6 +6811,14 @@
     },
     {
       "boards": [],
+      "company": "iRobot",
+      "key": "8f27ccd7cc12d59972d1025a",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.irobot.com/"
+    },
+    {
+      "boards": [],
       "company": "Bohler",
       "key": "8f3bc368c7cd32856348c2d8",
       "last_scanned": "2026-08-17",
@@ -7071,6 +7149,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.kihealthpartners.com/"
+    },
+    {
+      "boards": [
+        "workday:sehinc.wd12.myworkdayjobs.com:sehinc:seh"
+      ],
+      "company": "SEH",
+      "key": "96f65aa49e41070d8439f6eb",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.sehinc.com/"
     },
     {
       "boards": [],
@@ -7534,6 +7622,14 @@
     },
     {
       "boards": [],
+      "company": "Pacific Northwest National Laboratory",
+      "key": "a195418bdb1e35e9ba623c52",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.pnnl.gov/"
+    },
+    {
+      "boards": [],
       "company": "Allen Control Systems",
       "key": "a1b707684dc359c6b482ba56",
       "last_scanned": "2026-08-16",
@@ -7716,6 +7812,17 @@
       "key": "a4f732e501cf6916a6c319b5",
       "last_scanned": "2026-08-21",
       "url": "https://careers.witron.com/"
+    },
+    {
+      "boards": [
+        "workday:availity.wd1.myworkdayjobs.com:availity:availity_careers_india",
+        "workday:availity.wd1.myworkdayjobs.com:availity:availity_careers_us"
+      ],
+      "company": "Availity",
+      "key": "a516adbe5369a64e6423ad3b",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.availity.com/"
     },
     {
       "boards": [],
@@ -8176,6 +8283,14 @@
       "url": "https://www.uct.com/"
     },
     {
+      "boards": [],
+      "company": "Whitman, Requardt and Associates, LLP",
+      "key": "ae470f117e1aadaaa0f62cba",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 1,
+      "url": "https://wrallp.com/"
+    },
+    {
       "company": "PTAG",
       "error": "public response exceeded 3145728 bytes",
       "key": "ae47baa925f5cec344643e21",
@@ -8265,6 +8380,14 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://www.classicalconversations.com/"
+    },
+    {
+      "boards": [],
+      "company": "WeVote",
+      "key": "b036e460c1709fcf183660c3",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.WeVote.US/"
     },
     {
       "boards": [
@@ -9632,6 +9755,16 @@
       "url": "https://missioncriticalgroup.com/"
     },
     {
+      "boards": [
+        "ashby:weave"
+      ],
+      "company": "Weave",
+      "key": "cbd2a6ad7bce3f79c9927fec",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.getweave.com/"
+    },
+    {
       "boards": [],
       "company": "HCA Healthcare",
       "key": "cbe81f6a0ec6762305b88dc6",
@@ -10106,6 +10239,14 @@
       "url": "https://www.dnv.com/"
     },
     {
+      "boards": [],
+      "company": "Trio Electric",
+      "key": "d496dca23260641d4e7ca221",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://trioltd.com/"
+    },
+    {
       "boards": [
         "workday:rb.wd5.myworkdayjobs.com:rb:frs"
       ],
@@ -10223,6 +10364,14 @@
       "key": "d6f84de4d696b901dc5e905d",
       "last_scanned": "2026-08-21",
       "url": "https://rmacompanies.com/"
+    },
+    {
+      "boards": [],
+      "company": "Plastic Ingenuity",
+      "key": "d7005bd9fe779cdf199438a4",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://plasticingenuity.com/"
     },
     {
       "boards": [],
@@ -10916,6 +11065,16 @@
       "url": "https://www.cornerstone.com/"
     },
     {
+      "boards": [
+        "workday:ssrmining.wd108.myworkdayjobs.com:ssrmining:ssr_mining_careers"
+      ],
+      "company": "SSR Mining Inc.",
+      "key": "e6b17671b40816b349587694",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.ssrmining.com/"
+    },
+    {
       "company": "Nannette Brown",
       "error": "Invalid IPv6 URL",
       "key": "e6c91078b136a35eabdf23af",
@@ -11240,6 +11399,14 @@
       "last_scanned": "2026-08-20",
       "resolved_roles": 0,
       "url": "https://linktr.ee/SightSeaTravel?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnFxdAM8jouNYVrBfFi4XwQ2RFQPRrJknwCNGOk69E7QyitIGNtkHVilLYWl8_aem_6aPVplSsQTZSE8sBfJ_2aw"
+    },
+    {
+      "boards": [],
+      "company": "Hurley & Associates",
+      "key": "ed2e5b6da23cf47839f9a998",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.hurleyandassociates.com/"
     },
     {
       "boards": [
