@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,402 internships · 3,682 new-grad roles · 6,084 total openings**
+**2,425 internships · 3,674 new-grad roles · 6,099 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 846 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 492 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 97 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 40 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 927 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 866 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 493 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 101 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 43 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 922 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 767 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 792 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,123 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 758 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 796 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,120 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -65,11 +65,11 @@ Recent full-time opportunities that open the employer's application page directl
 | ByteDance | Software Engineer Graduate - AML-Engine-Forge Platform | San Jose, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://jobs.bytedance.com/en/position/7673306902554102069/detail)**<br><sub>jobs.bytedance.com</sub> |
 | E2 Optics | Data Center Infrastructure Technician | Columbus, OH | Not listed | not available | 2026-08-21 | **[Apply →](https://careers-e2optics.icims.com/jobs/3770/job?mobile=true&needsRedirect=false)**<br><sub>careers-e2optics.icims.com</sub> |
 | EBSCO | Product Manager - AI Research Companion | Remote in USA | Not listed | not available | 2026-08-21 | **[Apply →](https://careers-ebscoind.icims.com/jobs/2069/job?mobile=true&needsRedirect=false)**<br><sub>careers-ebscoind.icims.com</sub> |
+| GE Appliances | Test Systems & Instrumentation Engineer | Louisville, KY | Not listed | not available | 2026-08-21 | **[Apply →](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Test-Systems---Instrumentation-Engineer_REQ-26556)**<br><sub>haier.wd3.myworkdayjobs.com</sub> |
 | L3Harris Technologies | Software Engineer Associate - TS/SCI | Melbourne, FL | Not listed | not available | 2026-08-21 | **[Apply →](https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineering-TSSCI-FL-32904/1421809500/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | Leidos | Software Engineer | Reston, VA | 2027 | not available | 2026-08-21 | **[Apply →](https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Reston-VA/Software-Engineer_R-00186022)**<br><sub>leidos.wd5.myworkdayjobs.com</sub> |
 | Mackenzie Investments | Investment Analyst - Quantitative | Boston, MA | Not listed | not available | 2026-08-21 | **[Apply →](https://careersen-mackenzieinvestments.icims.com/jobs/5971/job?mobile=true&needsRedirect=false)**<br><sub>careersen-mackenzieinvestments.icims.com</sub> |
 | Nucleus Biologics | Full Stack Engineer | San Diego, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://ats.rippling.com/nucleus-biologics-careers/jobs/af1ea033-27f0-42e8-bac9-09434a5ffbe3)**<br><sub>ats.rippling.com</sub> |
-| Oracle | Support Engineer 1 | Orlando, FL, Nashville, TN, Kansas City, MO | Not listed | not available | 2026-08-21 | **[Apply →](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343611)**<br><sub>eeho.fa.us2.oraclecloud.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

@@ -83,6 +83,14 @@
     },
     {
       "boards": [],
+      "company": "Snyder & Associates, Inc.",
+      "key": "0245eda6a8d7d982083a13fd",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://snyder-associates.com/"
+    },
+    {
+      "boards": [],
       "company": "NYU Langone Health",
       "key": "028599e0a1f34f432a63f74a",
       "last_scanned": "2026-08-15",
@@ -963,6 +971,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://ttecdigital.com/"
+    },
+    {
+      "boards": [
+        "oracle:eifl.fa.us6.oraclecloud.com:cx_1"
+      ],
+      "company": "IMMI",
+      "key": "153402b0447d1ee68167f313",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.imminet.com/"
     },
     {
       "boards": [],
@@ -1880,6 +1898,19 @@
     },
     {
       "boards": [
+        "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:amery-hospital-and-clinic",
+        "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:healthpartners",
+        "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:healthpartners-clinic-stillwater",
+        "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:healthpartners-ghi"
+      ],
+      "company": "Amery Hospital & Clinic",
+      "key": "2cbf49c2c031830eba6bd880",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.amerymedicalcenter.org/"
+    },
+    {
+      "boards": [
         "workday:danafarber.wd5.myworkdayjobs.com:danafarber:dana-farber",
         "workday:danafarber.wd5.myworkdayjobs.com:danafarber:dana-farbernonrecruit"
       ],
@@ -1942,6 +1973,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.pioneerprod.net/"
+    },
+    {
+      "boards": [],
+      "company": "Forvis Mazars US",
+      "key": "2d8153c8a19f64fc78dedf6e",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.forvismazars.us/"
     },
     {
       "boards": [],
@@ -3259,6 +3298,13 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://www.pplweb.com/"
+    },
+    {
+      "company": "WGI",
+      "error": "public request failed for https://wginc.com/: HTTP Error 403: Forbidden",
+      "key": "4c1574ed4bd6439903b0696f",
+      "last_scanned": "2026-08-21",
+      "url": "https://wginc.com/"
     },
     {
       "boards": [],
@@ -5476,6 +5522,14 @@
       "url": "https://brown-brown.nl/"
     },
     {
+      "boards": [],
+      "company": "MUFG",
+      "key": "77a30d29aa7cbfd22c47e8a2",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.mufg.jp/"
+    },
+    {
       "company": "Mastercard",
       "error": "public request failed for https://www.mastercard.com/: HTTP Error 403: Forbidden",
       "key": "77e169e72cbf565b566b3dda",
@@ -5744,6 +5798,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.sonalysts.com/"
+    },
+    {
+      "company": "Too Lost",
+      "error": "public request failed for https://www.toolost.com/: HTTP Error 403: Forbidden",
+      "key": "7d769e07a5d084d31bc52cda",
+      "last_scanned": "2026-08-21",
+      "url": "https://www.toolost.com/"
     },
     {
       "company": "STR",
@@ -6054,6 +6115,14 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://www.oncor.com/"
+    },
+    {
+      "boards": [],
+      "company": "DVM Power + Control",
+      "key": "84f2ed0cbfff0d143e702701",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.dvmpower.com/"
     },
     {
       "boards": [],
@@ -9438,6 +9507,22 @@
     },
     {
       "boards": [],
+      "company": "Mission Critical Group",
+      "key": "cbcd68428889a626655953f3",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://missioncriticalgroup.com/"
+    },
+    {
+      "boards": [],
+      "company": "HCA Healthcare",
+      "key": "cbe81f6a0ec6762305b88dc6",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://hcahealthcare.com/"
+    },
+    {
+      "boards": [],
       "company": "RS&H",
       "key": "cc0b1739f4660242937c89a8",
       "last_scanned": "2026-08-17",
@@ -10155,6 +10240,19 @@
       "url": "https://www.eitccorp.com/"
     },
     {
+      "boards": [
+        "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:healthpartners",
+        "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:healthpartners-clinic-stillwater",
+        "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:healthpartners-ghi",
+        "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:hudson-hospital"
+      ],
+      "company": "Hudson Hospital & Clinic",
+      "key": "da9f417924f97413ffc32df8",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.hudsonhospital.org/"
+    },
+    {
       "boards": [],
       "company": "Horizon Next",
       "key": "daed518a9cb81edb11d640d8",
@@ -10602,6 +10700,18 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://www.hdrinc.com/"
+    },
+    {
+      "boards": [
+        "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:healthpartners",
+        "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:healthpartners-clinic-stillwater",
+        "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:healthpartners-ghi"
+      ],
+      "company": "Park Nicollet Health Services",
+      "key": "e4dc7482404e3fab3c648748",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.parknicollet.com/"
     },
     {
       "boards": [],
@@ -11064,6 +11174,19 @@
       "url": "https://crusoe.ai/"
     },
     {
+      "boards": [
+        "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:healthpartners",
+        "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:healthpartners-clinic-stillwater",
+        "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:healthpartners-ghi",
+        "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:olivia-hospital-and-clinic"
+      ],
+      "company": "Olivia Hospital & Clinic",
+      "key": "ee63cfd2089c423945ed6258",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.oliviahospital.com/"
+    },
+    {
       "boards": [],
       "company": "Samsara",
       "key": "ee741c4f35b471581aebed18",
@@ -11400,6 +11523,16 @@
       "url": "https://www.llnl.gov/"
     },
     {
+      "boards": [
+        "workday:qdusa.wd108.myworkdayjobs.com:qdusa:quantumdesigncareers"
+      ],
+      "company": "Quantum Design",
+      "key": "f3b081508990be1e28fd707f",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.qdusa.com/"
+    },
+    {
       "boards": [],
       "company": "Federal Reserve Board",
       "key": "f3d937f613f2f6d80e4375fc",
@@ -11473,6 +11606,16 @@
       "key": "f61cf0c24b28035366bfaa16",
       "last_scanned": "2026-08-20",
       "url": "https://rubrik.com/"
+    },
+    {
+      "boards": [
+        "workday:nationwidechildrens.wd5.myworkdayjobs.com:nationwidechildrens:nchcareers"
+      ],
+      "company": "Nationwide Children's Hospital",
+      "key": "f62a41794eb97056a4fd76a7",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.nationwidechildrens.org/"
     },
     {
       "boards": [],
@@ -11728,6 +11871,14 @@
       "last_scanned": "2026-08-20",
       "resolved_roles": 0,
       "url": "https://www.conduent.com/"
+    },
+    {
+      "boards": [],
+      "company": "Hargrove Engineers & Constructors",
+      "key": "fd81909e5925dacf363e8cc5",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.hargrove-epc.com/"
     },
     {
       "boards": [],

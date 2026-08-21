@@ -3965,6 +3965,14 @@
     },
     {
       "ats": "oracle",
+      "company": "IMMI",
+      "host": "eifl.fa.us6.oraclecloud.com",
+      "key": "oracle:eifl.fa.us6.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "eifl"
+    },
+    {
+      "ats": "oracle",
       "company": "Sherwin-Williams",
       "host": "ejhp.fa.us6.oraclecloud.com",
       "key": "oracle:ejhp.fa.us6.oraclecloud.com:cx_2",
@@ -4181,6 +4189,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Amery Hospital & Clinic",
+      "host": "fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:amery-hospital-and-clinic",
+      "site": "amery-hospital-and-clinic",
+      "slug": "fa-etnv-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
       "company": "HealthPartners",
       "host": "fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com",
       "key": "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:healthpartners",
@@ -4201,6 +4217,22 @@
       "host": "fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com",
       "key": "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:healthpartners-ghi",
       "site": "healthpartners-ghi",
+      "slug": "fa-etnv-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
+      "company": "Hudson Hospital & Clinic",
+      "host": "fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:hudson-hospital",
+      "site": "hudson-hospital",
+      "slug": "fa-etnv-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
+      "company": "Olivia Hospital & Clinic",
+      "host": "fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:olivia-hospital-and-clinic",
+      "site": "olivia-hospital-and-clinic",
       "slug": "fa-etnv-saasfaprod1"
     },
     {
@@ -8654,7 +8686,7 @@
       "company": "Litera",
       "host": "litera.wd12.myworkdayjobs.com",
       "key": "workday:litera.wd12.myworkdayjobs.com:litera:litera_careers",
-      "site": "Litera_Careers",
+      "site": "litera_careers",
       "slug": "litera",
       "wd": "wd12"
     },
@@ -9908,6 +9940,15 @@
       "site": "Q2",
       "slug": "q2ebanking",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Quantum Design",
+      "host": "qdusa.wd108.myworkdayjobs.com",
+      "key": "workday:qdusa.wd108.myworkdayjobs.com:qdusa:quantumdesigncareers",
+      "site": "quantumdesigncareers",
+      "slug": "qdusa",
+      "wd": "wd108"
     },
     {
       "ats": "workday",
