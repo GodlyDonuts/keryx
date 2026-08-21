@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,425 internships · 3,684 new-grad roles · 6,109 total openings**
+**2,361 internships · 3,689 new-grad roles · 6,050 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 853 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 496 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 104 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 32 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 940 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 832 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 493 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 98 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 33 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 905 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 767 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 808 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,109 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 760 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 802 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,127 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -59,6 +59,9 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Acadian Asset Management | Analyst – Portfolio Construction & Trading | Boston, MA | Not listed | not available | 2026-08-21 | **[Apply →](https://www.acadian-asset.com/careers/open-positions?gh_jid=4702401006)**<br><sub>www.acadian-asset.com</sub> |
+| Analog Devices | Associate Digital Design Engineer | Durham, NC | Not listed | not available | 2026-08-21 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-Digital-Design-Engineer_R265313)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
+| Analog Devices | Associate Mixed Signal Design Engineer | Wilmington, MA, Durham, NC | Not listed | not available | 2026-08-21 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Mixed-Signal-Design-Engineer_R265312)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
+| Applied Materials | Systems Engineer | Santa Clara, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer_R2626795)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
 | ByteDance | Software Engineer Graduate - AML-Engine-Forge Platform | San Jose, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://jobs.bytedance.com/en/position/7673306902554102069/detail)**<br><sub>jobs.bytedance.com</sub> |
 | E2 Optics | Data Center Infrastructure Technician | Columbus, OH | Not listed | not available | 2026-08-21 | **[Apply →](https://careers-e2optics.icims.com/jobs/3770/job?mobile=true&needsRedirect=false)**<br><sub>careers-e2optics.icims.com</sub> |
 | EBSCO | Product Manager - AI Research Companion | Remote in USA | Not listed | not available | 2026-08-21 | **[Apply →](https://careers-ebscoind.icims.com/jobs/2069/job?mobile=true&needsRedirect=false)**<br><sub>careers-ebscoind.icims.com</sub> |
@@ -67,9 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Nucleus Biologics | Full Stack Engineer | San Diego, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://ats.rippling.com/nucleus-biologics-careers/jobs/af1ea033-27f0-42e8-bac9-09434a5ffbe3)**<br><sub>ats.rippling.com</sub> |
 | Oracle | Support Engineer 1 | Orlando, FL, Nashville, TN, Kansas City, MO | Not listed | not available | 2026-08-21 | **[Apply →](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343611)**<br><sub>eeho.fa.us2.oraclecloud.com</sub> |
 | Peraton | COBOL Software Developer | United States | Not listed | not available | 2026-08-21 | **[Apply →](https://careers-peraton.icims.com/jobs/169890/job?mobile=true&needsRedirect=false)**<br><sub>careers-peraton.icims.com</sub> |
-| Pima County | Public Safety Data Technician 1 - Sheriff's Department | Tucson, AZ | Not listed | not available | 2026-08-21 | **[Apply →](https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Public-Safety-Data-Technician-I---Sheriff-s-Department_JR104227-1)**<br><sub>pimacounty.wd5.myworkdayjobs.com</sub> |
-| Qualcomm | Bench Test Engineer - Hardware Engineering | San Diego, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://qualcomm.eightfold.ai/careers/job/446720634563)**<br><sub>qualcomm.eightfold.ai</sub> |
-| Qualcomm | System Level Test Engineer - Hardware Engineering | San Diego, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://qualcomm.eightfold.ai/careers/job/446720634561)**<br><sub>qualcomm.eightfold.ai</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

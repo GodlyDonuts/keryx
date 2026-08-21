@@ -462,6 +462,16 @@
       "url": "https://www.usnews.com/"
     },
     {
+      "boards": [
+        "ashby:pylon-labs"
+      ],
+      "company": "Pylon",
+      "key": "0a3f85b082af455d58ab1ac5",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.usepylon.com/"
+    },
+    {
       "boards": [],
       "company": "GFT",
       "key": "0acd07d088b31d51b4df0ff5",
@@ -4398,6 +4408,14 @@
     },
     {
       "boards": [],
+      "company": "Chapman University",
+      "key": "621ce19bfccef5c31d56b00c",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.chapman.edu/"
+    },
+    {
+      "boards": [],
       "company": "Chenega MIOS SBU",
       "key": "6249bbc8119286c170513eb0",
       "last_scanned": "2026-08-15",
@@ -4939,8 +4957,16 @@
       "company": "impact.com",
       "error": "public request failed for https://with-impact.com/: <urlopen error [Errno 111] Connection refused>",
       "key": "704e13abe652a8593e2a8b3e",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-08-21",
       "url": "https://with-impact.com/"
+    },
+    {
+      "boards": [],
+      "company": "Baker Tilly",
+      "key": "7058df7c3583d43d593292cb",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.bakertilly.global/"
     },
     {
       "company": "FLO Materials",
@@ -7163,6 +7189,16 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://www.xantium.co.uk/"
+    },
+    {
+      "boards": [
+        "greenhouse:judihealth"
+      ],
+      "company": "Judi Health",
+      "key": "a0de7bcdc2f892db4d2f9766",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.judi.health/"
     },
     {
       "boards": [],
@@ -10718,6 +10754,14 @@
       "key": "ebe0e152a0d08a0cb5422f9b",
       "last_scanned": "2026-08-20",
       "url": "https://www.kelvolta.com/"
+    },
+    {
+      "boards": [],
+      "company": "SHP Legal Services",
+      "key": "ec2ce4c24fe5f9352048e77a",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.linkedin.com/company/105539430"
     },
     {
       "boards": [],

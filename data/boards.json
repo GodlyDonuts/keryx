@@ -2405,6 +2405,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Judi Health",
+      "key": "greenhouse:judihealth",
+      "slug": "judihealth"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Jumio",
       "key": "greenhouse:jumio",
       "slug": "jumio"
@@ -8548,6 +8554,15 @@
       "site": "KyndrylProfessionalCareers",
       "slug": "kyndryl",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "PPLSI",
+      "host": "legalshieldcorp.wd1.myworkdayjobs.com",
+      "key": "workday:legalshieldcorp.wd1.myworkdayjobs.com:legalshieldcorp:lsc",
+      "site": "lsc",
+      "slug": "legalshieldcorp",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
