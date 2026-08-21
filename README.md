@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,302 internships · 3,767 new-grad roles · 6,069 total openings**
+**2,302 internships · 3,744 new-grad roles · 6,046 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 822 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 503 | **[View openings →](internships/fall-2026.md)** |
+| ☀️ Summer 2027 | 826 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 501 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 106 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 33 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 838 | **[View openings →](internships/unscheduled.md)** |
+| ❄️ Winter 2027 | 30 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 839 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 765 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 875 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,127 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 760 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 867 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,117 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -41,7 +41,7 @@ Recent internship and co-op listings that open the employer's application page d
 | Lawrence Livermore National Laboratory (LLNL) | Energy Systems Analyst Graduate Intern - Fall 2026 | Livermore, CA, us | Fall 2026 | not available | 2026-08-21 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990014731696)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Lawrence Livermore National Laboratory (LLNL) | National Security Engineering Division (NSED) Graduate Intern - Summer 2027 | Livermore, CA, us | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990014731646)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Lawrence Livermore National Laboratory (LLNL) | National Security Engineering Division (NSED) Undergraduate Intern - Summer 2027 | Livermore, CA, us | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990014731656)**<br><sub>jobs.smartrecruiters.com</sub> |
-| AbbVie | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) | North Chicago, IL, us | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014697918)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AbbVie | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | North Chicago, IL | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014697918)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Ampersand | Data Engineering Co-op - Open to Northeastern students only | Boston, MA | Fall 2026 | not available | 2026-08-20 | **[Apply →](https://ats.rippling.com/ampersand-biomedicines/jobs/be3f5479-379e-4d48-9bd1-82a69b2dcfd3)**<br><sub>ats.rippling.com</sub> |
 | Analog Devices | Mixed Signal Engineer Intern | Wilmington, MA, Durham, NC | Fall 2026 | not available | 2026-08-20 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Engineer-Intern_R265299)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Anthro Energy | Manufacturing Engineering Intern | Alameda, United States | Not listed | not available | 2026-08-20 | **[Apply →](https://apply.workable.com/anthro/j/F08AA0CBF9/)**<br><sub>apply.workable.com</sub> |
