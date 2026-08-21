@@ -786,6 +786,14 @@
     },
     {
       "boards": [],
+      "company": "Western Aircraft",
+      "key": "1193c5ea10ae5cd60dd1195e",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://westair.com/"
+    },
+    {
+      "boards": [],
       "company": "State of South Dakota",
       "key": "1196d956d83bf6f5f039d9ce",
       "last_scanned": "2026-08-20",
@@ -1425,6 +1433,14 @@
     },
     {
       "boards": [],
+      "company": "Intrepid Control Systems",
+      "key": "20cb403073aa2291fa18b10a",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.intrepidcs.com/"
+    },
+    {
+      "boards": [],
       "company": "Motorola Mobility (a Lenovo Company)",
       "key": "20e9b494e98c0201629afc0a",
       "last_scanned": "2026-08-19",
@@ -1446,6 +1462,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.quickenloans.com/"
+    },
+    {
+      "company": "The Chemours Company",
+      "error": "public request failed for https://www.chemours.com/: HTTP Error 403: Forbidden",
+      "key": "2199aee918f63112f8c2c296",
+      "last_scanned": "2026-08-21",
+      "url": "https://www.chemours.com/"
     },
     {
       "boards": [],
@@ -3026,6 +3049,16 @@
       "url": "https://www.esc20.net/"
     },
     {
+      "boards": [
+        "workday:moog.wd5.myworkdayjobs.com:moog:moog_external_career_site"
+      ],
+      "company": "Moog Inc.",
+      "key": "47e98d102869c43701d37508",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.moog.com/"
+    },
+    {
       "boards": [],
       "company": "Core & Main",
       "key": "4806f77edfb4e2b5f23ac365",
@@ -3355,6 +3388,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.controlrisks.com/"
+    },
+    {
+      "boards": [],
+      "company": "Constellium",
+      "key": "4e1e4499d09f0b3ffc4e076a",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://constellium.com/"
     },
     {
       "boards": [],
@@ -4124,6 +4165,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.useagave.com/"
+    },
+    {
+      "boards": [],
+      "company": "Arcadis",
+      "key": "5bf84ccfb650dd5d1dc5ba22",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.arcadis.com/"
     },
     {
       "boards": [
@@ -4931,6 +4980,13 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://b4corp.com/"
+    },
+    {
+      "company": "Cond\u00e9 Nast",
+      "error": "public request failed for https://www.condenaststore.com/: HTTP Error 403: Forbidden",
+      "key": "6eec980689776b723fd9bb19",
+      "last_scanned": "2026-08-21",
+      "url": "https://www.condenaststore.com/"
     },
     {
       "boards": [],
@@ -5964,6 +6020,16 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://www.wcgclinical.com/"
+    },
+    {
+      "boards": [
+        "oracle:eevd.fa.us6.oraclecloud.com:cx_18"
+      ],
+      "company": "iCrossing",
+      "key": "83bd424025dc14a31b8d4210",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.icrossing.com/"
     },
     {
       "boards": [],
@@ -8397,6 +8463,14 @@
       "last_scanned": "2026-08-21",
       "resolved_roles": 0,
       "url": "https://www.linkedin.com/company/108392636"
+    },
+    {
+      "boards": [],
+      "company": "Mackie Consultants, LLC",
+      "key": "b81f7b83fdf7ebe7f961595e",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://mackieconsult.com/"
     },
     {
       "boards": [],
@@ -11031,6 +11105,13 @@
       "last_scanned": "2026-08-20",
       "resolved_roles": 0,
       "url": "https://www.nlr.gov/"
+    },
+    {
+      "company": "City Year",
+      "error": "public request failed for https://www.cityyear.org/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "key": "eee58aef50989c18febcd9d0",
+      "last_scanned": "2026-08-21",
+      "url": "https://www.cityyear.org/"
     },
     {
       "company": "Hendrickson",
