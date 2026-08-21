@@ -3759,6 +3759,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Macy's",
+      "host": "ebwh.fa.us2.oraclecloud.com",
+      "key": "oracle:ebwh.fa.us2.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "ebwh"
+    },
+    {
+      "ats": "oracle",
       "company": "DTCC",
       "host": "ebxr.fa.us2.oraclecloud.com",
       "key": "oracle:ebxr.fa.us2.oraclecloud.com:cx_1",

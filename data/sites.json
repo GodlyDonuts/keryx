@@ -1504,6 +1504,16 @@
       "url": "https://www.ryancompanies.com/"
     },
     {
+      "boards": [
+        "greenhouse:relaypro"
+      ],
+      "company": "Relay",
+      "key": "230c5e5cf1bb6f2c91579645",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://relaypro.com/"
+    },
+    {
       "boards": [],
       "company": "SK hynix memory solutions America Inc.",
       "key": "23106d7b700037cc4e8a559a",
@@ -1876,6 +1886,14 @@
       "last_scanned": "2026-08-20",
       "resolved_roles": 1,
       "url": "https://helmethouse.com/"
+    },
+    {
+      "boards": [],
+      "company": "Re:Build Manufacturing",
+      "key": "2d2acdebd8fd9beba4e9769b",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.rebuildmanufacturing.com/"
     },
     {
       "boards": [],
@@ -7687,6 +7705,14 @@
     },
     {
       "boards": [],
+      "company": "CALSTART",
+      "key": "aabc57e4f50170aefba2d98d",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.calstart.org/"
+    },
+    {
+      "boards": [],
       "company": "RLG Consulting Engineers",
       "key": "ab32608a834910263ed69d17",
       "last_scanned": "2026-08-20",
@@ -9387,7 +9413,7 @@
       "company": "WSP in the U.S.",
       "error": "public request failed for https://www.wsp.com/en-us: HTTP Error 403: Forbidden",
       "key": "ce26e2f6b0157eb94cc09fde",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-08-21",
       "url": "https://www.wsp.com/en-us"
     },
     {
@@ -9766,6 +9792,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.twitch.tv/"
+    },
+    {
+      "boards": [
+        "oracle:ebwh.fa.us2.oraclecloud.com:cx_1"
+      ],
+      "company": "Macy's",
+      "key": "d5bf892871466f3b0538f901",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.macysjobs.com/"
     },
     {
       "company": "Idaho National Laboratory",
