@@ -1322,6 +1322,12 @@
     },
     {
       "ats": "ashby",
+      "company": "UnitX",
+      "key": "ashby:unitxlabs",
+      "slug": "unitxlabs"
+    },
+    {
+      "ats": "ashby",
       "company": "Unlimited",
       "key": "ashby:unlimitedindustries",
       "slug": "unlimitedindustries"
@@ -11315,6 +11321,14 @@
       "key": "workday:wd5.myworkdaysite.com:angc:angc",
       "site": "ANGC",
       "slug": "angc"
+    },
+    {
+      "ats": "workday",
+      "company": "Devon Energy",
+      "host": "wd5.myworkdaysite.com",
+      "key": "workday:wd5.myworkdaysite.com:devonenergy:careers",
+      "site": "Careers",
+      "slug": "devonenergy"
     },
     {
       "ats": "workday",
