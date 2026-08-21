@@ -4429,6 +4429,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Stantec",
+      "host": "hdhl.fa.us6.oraclecloud.com",
+      "key": "oracle:hdhl.fa.us6.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "hdhl"
+    },
+    {
+      "ats": "oracle",
       "company": "Newmark Group",
       "host": "hdow.fa.us6.oraclecloud.com",
       "key": "oracle:hdow.fa.us6.oraclecloud.com:cx_1001",
@@ -6177,6 +6185,15 @@
       "key": "workday:blackrock.wd1.myworkdayjobs.com:blackrock:blackrock_professional",
       "site": "BlackRock_Professional",
       "slug": "blackrock",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Blackstone",
+      "host": "blackstone.wd1.myworkdayjobs.com",
+      "key": "workday:blackstone.wd1.myworkdayjobs.com:blackstone:blackstone_campus_careers",
+      "site": "Blackstone_Campus_Careers",
+      "slug": "blackstone",
       "wd": "wd1"
     },
     {
@@ -8931,6 +8948,15 @@
       "key": "workday:massgeneralbrigham.wd1.myworkdayjobs.com:massgeneralbrigham:mgbexternal%22%7d%7d",
       "site": "MGBExternal%22%7D%7D",
       "slug": "massgeneralbrigham",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "MassMutual Ascend",
+      "host": "massmutual.wd1.myworkdayjobs.com",
+      "key": "workday:massmutual.wd1.myworkdayjobs.com:massmutual:mmascendcareers",
+      "site": "MMAscendCareers",
+      "slug": "massmutual",
       "wd": "wd1"
     },
     {

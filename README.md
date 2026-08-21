@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,360 internships · 3,676 new-grad roles · 6,036 total openings**
+**2,372 internships · 3,687 new-grad roles · 6,059 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 868 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 491 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 100 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 878 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 494 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 101 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 42 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 859 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 857 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 768 | **[View openings →](new-grad/2027.md)** |
+| 2027 | 769 | **[View openings →](new-grad/2027.md)** |
 | 2026 | 788 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,120 | **[View openings →](new-grad/unscheduled.md)** |
+| Year not listed | 2,130 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -59,17 +59,17 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Acadian Asset Management | Analyst – Portfolio Construction & Trading | Boston, MA | Not listed | not available | 2026-08-21 | **[Apply →](https://www.acadian-asset.com/careers/open-positions?gh_jid=4702401006)**<br><sub>www.acadian-asset.com</sub> |
+| Amentum | Software Programmer Entry Level - Conventional Test Facility | Tullahoma, TN | Not listed | not available | 2026-08-21 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Software-Programmer---Entry-Level_R0168838)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
 | Analog Devices | Associate Digital Design Engineer | Durham, NC | Not listed | not available | 2026-08-21 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-Digital-Design-Engineer_R265313)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Analog Devices | Associate Mixed Signal Design Engineer | Wilmington, MA, Durham, NC | Not listed | not available | 2026-08-21 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Mixed-Signal-Design-Engineer_R265312)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Applied Materials | Systems Engineer | Santa Clara, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer_R2626795)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
+| Booz Allen | Data Engineer | Arlington County, Arlington, VA, San Diego, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Engineer_R0247559)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
 | ByteDance | Software Engineer Graduate - AML-Engine-Forge Platform | San Jose, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://jobs.bytedance.com/en/position/7673306902554102069/detail)**<br><sub>jobs.bytedance.com</sub> |
 | E2 Optics | Data Center Infrastructure Technician | Columbus, OH | Not listed | not available | 2026-08-21 | **[Apply →](https://careers-e2optics.icims.com/jobs/3770/job?mobile=true&needsRedirect=false)**<br><sub>careers-e2optics.icims.com</sub> |
 | EBSCO | Product Manager - AI Research Companion | Remote in USA | Not listed | not available | 2026-08-21 | **[Apply →](https://careers-ebscoind.icims.com/jobs/2069/job?mobile=true&needsRedirect=false)**<br><sub>careers-ebscoind.icims.com</sub> |
 | GE Appliances | Test Systems & Instrumentation Engineer | Louisville, KY | Not listed | not available | 2026-08-21 | **[Apply →](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Test-Systems---Instrumentation-Engineer_REQ-26556)**<br><sub>haier.wd3.myworkdayjobs.com</sub> |
+| General Dynamics Mission Systems | Systems Engineer | Pittsfield, MA | Not listed | not available | 2026-08-21 | **[Apply →](https://careers-gdms.icims.com/jobs/74470/job?mobile=true&needsRedirect=false)**<br><sub>careers-gdms.icims.com</sub> |
 | L3Harris Technologies | Software Engineer Associate - TS/SCI | Melbourne, FL | Not listed | not available | 2026-08-21 | **[Apply →](https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineering-TSSCI-FL-32904/1421809500/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| Leidos | Software Engineer | Reston, VA | 2027 | not available | 2026-08-21 | **[Apply →](https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Reston-VA/Software-Engineer_R-00186022)**<br><sub>leidos.wd5.myworkdayjobs.com</sub> |
-| Mackenzie Investments | Investment Analyst - Quantitative | Boston, MA | Not listed | not available | 2026-08-21 | **[Apply →](https://careersen-mackenzieinvestments.icims.com/jobs/5971/job?mobile=true&needsRedirect=false)**<br><sub>careersen-mackenzieinvestments.icims.com</sub> |
-| Nucleus Biologics | Full Stack Engineer | San Diego, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://ats.rippling.com/nucleus-biologics-careers/jobs/af1ea033-27f0-42e8-bac9-09434a5ffbe3)**<br><sub>ats.rippling.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
