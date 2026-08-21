@@ -51,6 +51,22 @@
     },
     {
       "boards": [],
+      "company": "Xplore World Agency",
+      "key": "00bd98a5df97de1d6538afcf",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://xploreworldagency.org/"
+    },
+    {
+      "boards": [],
+      "company": "Nectar Markets",
+      "key": "00e36960f27b067287afb640",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://nectar.store/"
+    },
+    {
+      "boards": [],
       "company": "Lila Sciences",
       "key": "00f974ba0571af7df69b277e",
       "last_scanned": "2026-08-15",
@@ -2637,6 +2653,14 @@
       "url": "https://www.kbra.com/"
     },
     {
+      "boards": [],
+      "company": "Draftomat",
+      "key": "3fc3ad2572ca95c5717964ad",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://draftomat.com/"
+    },
+    {
       "boards": [
         "workday:blattner.wd5.myworkdayjobs.com:blattner:blattnercompany",
         "workday:blattner.wd5.myworkdayjobs.com:blattner:blattnerenergy",
@@ -2647,6 +2671,13 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://www.blattnercompany.com/"
+    },
+    {
+      "company": "AMD",
+      "error": "public request failed for https://www.amd.com/: The read operation timed out",
+      "key": "402b3c74b76212235bffcd36",
+      "last_scanned": "2026-08-21",
+      "url": "https://www.amd.com/"
     },
     {
       "boards": [],
@@ -3622,6 +3653,16 @@
       "last_scanned": "2026-08-16",
       "resolved_roles": 0,
       "url": "https://www.zscaler.com/"
+    },
+    {
+      "boards": [
+        "workable:miller-international"
+      ],
+      "company": "Miller International Inc.",
+      "key": "555b7141a58bd3598d0f4aae",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://cinchjeans.com/"
     },
     {
       "boards": [],
@@ -4829,6 +4870,14 @@
     },
     {
       "boards": [],
+      "company": "GG Media",
+      "key": "7178eb61394cc1b85ded56f5",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://ggmediaus.com/"
+    },
+    {
+      "boards": [],
       "company": "Strata Solicitors - A Gallagher Bassett Company",
       "key": "7203a14ad521c5c94e303745",
       "last_scanned": "2026-08-18",
@@ -5008,7 +5057,7 @@
       "company": "FreeForm",
       "error": "public hostname did not resolve: madebyfreeform.com",
       "key": "7506636a7ccb97d9ac2a84a9",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-21",
       "url": "https://madebyfreeform.com/"
     },
     {
@@ -5582,7 +5631,7 @@
       "company": "BiyaheKo.ph",
       "error": "public request failed for https://www.gicorpphil.com/: <urlopen error timed out>",
       "key": "80486463fe42bdfefa31f5ff",
-      "last_scanned": "2026-08-20",
+      "last_scanned": "2026-08-21",
       "url": "https://www.gicorpphil.com/"
     },
     {
@@ -5862,8 +5911,16 @@
       "company": "Travoom",
       "error": "public request failed for https://travoom.com/: <urlopen error [Errno 111] Connection refused>",
       "key": "87c876f4f6460fab564c5a62",
-      "last_scanned": "2026-08-20",
+      "last_scanned": "2026-08-21",
       "url": "https://travoom.com/"
+    },
+    {
+      "boards": [],
+      "company": "Dominion Energy",
+      "key": "87eb10210fd0ed9f435e4ffd",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.dominionenergy.com/"
     },
     {
       "boards": [
@@ -6794,6 +6851,16 @@
       "key": "9d4f95dc876c7abc5924fa1c",
       "last_scanned": "2026-08-20",
       "url": "https://panerabread.com/"
+    },
+    {
+      "boards": [
+        "oracle:egln.fa.us2.oraclecloud.com:cx"
+      ],
+      "company": "Loma Linda University Health",
+      "key": "9d5ad3668801c16f3f4fad2e",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://lluh.org/"
     },
     {
       "boards": [],
@@ -8182,7 +8249,7 @@
       "company": "G SPA TRAVEL S.A.S.",
       "error": "public request failed for https://www.gspa-travel.com/: HTTP Error 403: Forbidden",
       "key": "ba87fed1b908a2e874e397a8",
-      "last_scanned": "2026-08-20",
+      "last_scanned": "2026-08-21",
       "url": "https://www.gspa-travel.com/"
     },
     {
@@ -8538,6 +8605,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.americansystems.com/"
+    },
+    {
+      "company": "Viyahe",
+      "error": "public hostname did not resolve: viyahe.com",
+      "key": "c1cf400dabc7368ab884955f",
+      "last_scanned": "2026-08-21",
+      "url": "https://viyahe.com/"
     },
     {
       "boards": [],
@@ -9529,6 +9603,13 @@
       "last_scanned": "2026-08-20",
       "resolved_roles": 0,
       "url": "https://www.e-space.com/"
+    },
+    {
+      "company": "Fujitsu",
+      "error": "public request failed for https://global.fujitsu/en-global: HTTP Error 429: Too Many Requests",
+      "key": "d635c29bf8a0138d0002c694",
+      "last_scanned": "2026-08-21",
+      "url": "https://www.fujitsu.com/"
     },
     {
       "boards": [],
@@ -10910,6 +10991,16 @@
       "last_scanned": "2026-08-20",
       "resolved_roles": 0,
       "url": "https://dinamicasgroup.com/"
+    },
+    {
+      "boards": [
+        "smartrecruiters:llnl"
+      ],
+      "company": "Lawrence Livermore National Laboratory",
+      "key": "f38a6f9ccc248507b0da08a1",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 1,
+      "url": "https://www.llnl.gov/"
     },
     {
       "boards": [],

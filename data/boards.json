@@ -3857,6 +3857,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Loma Linda University Health",
+      "host": "egln.fa.us2.oraclecloud.com",
+      "key": "oracle:egln.fa.us2.oraclecloud.com:cx",
+      "site": "CX",
+      "slug": "egln"
+    },
+    {
+      "ats": "oracle",
       "company": "Conduent",
       "host": "egua.fa.us2.oraclecloud.com",
       "key": "oracle:egua.fa.us2.oraclecloud.com:cx_1",
@@ -5100,6 +5108,12 @@
       "company": "Metro Infusion Center",
       "key": "workable:metro-infectious-disease-consultants",
       "slug": "metro-infectious-disease-consultants"
+    },
+    {
+      "ats": "workable",
+      "company": "Miller International Inc.",
+      "key": "workable:miller-international",
+      "slug": "miller-international"
     },
     {
       "ats": "workable",

@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,293 internships · 3,738 new-grad roles · 6,031 total openings**
+**2,321 internships · 3,789 new-grad roles · 6,110 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 844 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 847 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 499 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 102 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 32 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 816 | **[View openings →](internships/unscheduled.md)** |
+| 🌱 Spring 2027 | 103 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 33 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 839 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 771 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 834 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,133 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 769 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 885 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,135 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,17 +38,17 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Lawrence Livermore National Laboratory (LLNL) | Computational Engineering Graduate Intern | Livermore, CA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990014730886)**<br><sub>jobs.smartrecruiters.com</sub> |
-| AbbVie | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | North Chicago, IL | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014697918)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AbbVie | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) | North Chicago, IL, us | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014697918)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Ampersand | Data Engineering Co-op - Open to Northeastern students only | Boston, MA | Fall 2026 | not available | 2026-08-20 | **[Apply →](https://ats.rippling.com/ampersand-biomedicines/jobs/be3f5479-379e-4d48-9bd1-82a69b2dcfd3)**<br><sub>ats.rippling.com</sub> |
 | Analog Devices | Mixed Signal Engineer Intern | Wilmington, MA, Durham, NC | Fall 2026 | not available | 2026-08-20 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Engineer-Intern_R265299)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Anthro Energy | Manufacturing Engineering Intern | Alameda, United States | Not listed | not available | 2026-08-20 | **[Apply →](https://apply.workable.com/anthro/j/F08AA0CBF9/)**<br><sub>apply.workable.com</sub> |
 | Avery Dennison | RFID Applications Engineering Co-op - Spring 2027 ( plus one semester) | Miamisburg, OH, us | Spring 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.smartrecruiters.com/AveryDennison/744000144595999)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Blue Shield of California | Intern - Data Full Stack Engineer | Oakland, CA, United States | Not listed | Dec 2026–Jun 2028<br><sub>stated</sub> | 2026-08-20 | **[Apply →](https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20261580)**<br><sub>ecge.fa.us2.oraclecloud.com</sub> |
+| Catalist | Data Services Intern | Washington, DC | Fall 2026 | not stated | 2026-08-20 | **[Apply →](https://jobs.lever.co/catalist/4300e9ab-5f6f-4b9a-8ad6-8282a34e7dec/apply)**<br><sub>jobs.lever.co</sub> |
+| CNO Financial Group | Summer 2027 Reporting Analyst Intern 2027 - REMOTE from any US based location | Carmel, IN | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Summer-2027-Reporting-Analyst-Intern-2027---REMOTE-from-any-US-based-location_JR170455)**<br><sub>cnoinc.wd5.myworkdayjobs.com</sub> |
 | Curtiss-Wright Corporation | Engineer Intern | US-NC-Charlotte (ST-170) | Not listed | not available | 2026-08-20 | **[Apply →](https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-NC-Charlotte-ST-170/Engineer-Intern_JR12661)**<br><sub>curtisswright.wd1.myworkdayjobs.com</sub> |
 | Devon Energy | Technology Intern - Data Engineering | Houston, TX, Oklahoma City, OK | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Technology-Summer-Intern-2027_R26264-1)**<br><sub>wd5.myworkdaysite.com</sub> |
-| E-Space | Embedded Software Engineer Intern | Arlington, TX | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-08-20 | **[Apply →](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply)**<br><sub>jobs.lever.co</sub> |
-| Elanco | Engineering Intern – Elwood, Kansas (Summer 2027) | Elwood, KS | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Engineering-Intern---Elwood--Kansas--Summer-2027-_R0026898)**<br><sub>elanco.wd5.myworkdayjobs.com</sub> |
-| Eversource Energy | Asset Management Technology Engineer Intern - Fall 2026 | Hartford, CT | Fall 2026 | not available | 2026-08-20 | **[Apply →](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/Asset-Management-Technology--Engineering-Intern--Fall-2026-_R-031600)**<br><sub>eversource.wd1.myworkdayjobs.com</sub> |
+| E-Space | Embedded Software Engineering Intern | Arlington, TX | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-08-20 | **[Apply →](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3)**<br><sub>jobs.lever.co</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
