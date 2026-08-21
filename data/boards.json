@@ -2832,6 +2832,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Robinhood",
+      "key": "greenhouse:sherwoodmedia",
+      "slug": "sherwoodmedia"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Sigma Computing",
       "key": "greenhouse:sigmacomputing",
       "slug": "sigmacomputing"
@@ -11649,6 +11655,15 @@
       "key": "workday:wd5.myworkdaysite.com:westernalliancebank:wab",
       "site": "WAB",
       "slug": "westernalliancebank"
+    },
+    {
+      "ats": "workday",
+      "company": "Webster Bank",
+      "host": "websteronline.wd12.myworkdayjobs.com",
+      "key": "workday:websteronline.wd12.myworkdayjobs.com:websteronline:websterexternalcareersite",
+      "site": "WebsterExternalCareerSite",
+      "slug": "websteronline",
+      "wd": "wd12"
     },
     {
       "ats": "workday",
