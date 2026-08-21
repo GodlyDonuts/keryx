@@ -524,6 +524,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Genesis Molecular AI",
+      "key": "ashby:genesis-molecular-ai",
+      "slug": "genesis-molecular-ai"
+    },
+    {
+      "ats": "ashby",
       "company": "GenMD",
       "key": "ashby:genmd",
       "slug": "genmd"
@@ -5955,6 +5961,15 @@
     },
     {
       "ats": "workday",
+      "company": "AXIS (AXIS Capital)",
+      "host": "axiscapital.wd1.myworkdayjobs.com",
+      "key": "workday:axiscapital.wd1.myworkdayjobs.com:axiscapital:axiscareers",
+      "site": "axiscareers",
+      "slug": "axiscapital",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Axos Bank",
       "host": "axos.wd5.myworkdayjobs.com",
       "key": "workday:axos.wd5.myworkdayjobs.com:axos:axos",
@@ -10641,6 +10656,15 @@
       "site": "tti_external",
       "slug": "tamus",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Tapestry",
+      "host": "tapestry.wd108.myworkdayjobs.com",
+      "key": "workday:tapestry.wd108.myworkdayjobs.com:tapestry:tapestry_careers",
+      "site": "Tapestry_Careers",
+      "slug": "tapestry",
+      "wd": "wd108"
     },
     {
       "ats": "workday",

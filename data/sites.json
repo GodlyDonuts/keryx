@@ -981,6 +981,16 @@
       "url": "https://www.rbc.com/"
     },
     {
+      "boards": [
+        "workday:axiscapital.wd1.myworkdayjobs.com:axiscapital:axiscareers"
+      ],
+      "company": "AXIS (AXIS Capital)",
+      "key": "1552d1da361748e199a21110",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.axiscapital.com/"
+    },
+    {
       "boards": [],
       "company": "Noblis",
       "key": "156c8282725e8fe31c69eaa4",
@@ -1546,6 +1556,13 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://haagglobal.com/"
+    },
+    {
+      "company": "Parts Town",
+      "error": "public request failed for https://www.partstown.com/: HTTP Error 403: Forbidden",
+      "key": "248511b7a19f3ea0ac7e52f1",
+      "last_scanned": "2026-08-21",
+      "url": "https://www.partstown.com/"
     },
     {
       "boards": [],
@@ -3928,6 +3945,16 @@
       "url": "https://www.symbotic.com/"
     },
     {
+      "boards": [
+        "workday:tapestry.wd108.myworkdayjobs.com:tapestry:tapestry_careers"
+      ],
+      "company": "Tapestry",
+      "key": "58ad34560d8e182ad9f36cef",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.tapestry.com/"
+    },
+    {
       "company": "NASA Jet Propulsion Laboratory",
       "error": "public request failed for https://www.jpl.nasa.gov/: HTTP Error 403: Forbidden",
       "key": "58b401ed83d58197e22370b9",
@@ -3944,6 +3971,14 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://www.nemours.org/"
+    },
+    {
+      "boards": [],
+      "company": "Mercury Insurance",
+      "key": "59055edcf457b5701f37a531",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.mercuryinsurance.com/"
     },
     {
       "boards": [],
@@ -5748,6 +5783,14 @@
     },
     {
       "boards": [],
+      "company": "UNOX S.p.A.",
+      "key": "8013539dbb078785155f0dfb",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://www.unox.com/"
+    },
+    {
+      "boards": [],
       "company": "Versant Media",
       "key": "8025981ef3280d92bfe903e7",
       "last_scanned": "2026-08-15",
@@ -6169,6 +6212,16 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://www.persistentsystems.com/"
+    },
+    {
+      "boards": [
+        "ashby:genesis-molecular-ai"
+      ],
+      "company": "Genesis Molecular AI",
+      "key": "897e13900f34d41966e64bad",
+      "last_scanned": "2026-08-21",
+      "resolved_roles": 0,
+      "url": "https://genesis.ml/"
     },
     {
       "company": "Pieper Automation",
