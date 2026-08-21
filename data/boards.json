@@ -968,6 +968,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Phoebe",
+      "key": "ashby:phoebe-work",
+      "slug": "phoebe-work"
+    },
+    {
+      "ats": "ashby",
       "company": "Pika",
       "key": "ashby:pika",
       "slug": "pika"
@@ -3972,6 +3978,14 @@
       "key": "oracle:ejwl.fa.us2.oraclecloud.com:cx",
       "site": "CX",
       "slug": "ejwl"
+    },
+    {
+      "ats": "oracle",
+      "company": "Omnicell",
+      "host": "elrj.fa.us2.oraclecloud.com",
+      "key": "oracle:elrj.fa.us2.oraclecloud.com:cx_9001",
+      "site": "CX_9001",
+      "slug": "elrj"
     },
     {
       "ats": "oracle",
@@ -9601,6 +9615,15 @@
       "key": "workday:phinia.wd5.myworkdayjobs.com:phinia:phinia_careers",
       "site": "PHINIA_Careers",
       "slug": "phinia",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Pima County",
+      "host": "pimacounty.wd5.myworkdayjobs.com",
+      "key": "workday:pimacounty.wd5.myworkdayjobs.com:pimacounty:pimacareers",
+      "site": "pimacareers",
+      "slug": "pimacounty",
       "wd": "wd5"
     },
     {
