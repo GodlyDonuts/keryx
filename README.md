@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,366 internships · 3,754 new-grad roles · 6,120 total openings**
+**2,391 internships · 3,763 new-grad roles · 6,154 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 867 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 870 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 489 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 101 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 41 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 868 | **[View openings →](internships/unscheduled.md)** |
+| 🌱 Spring 2027 | 104 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 42 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 886 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 768 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 865 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,121 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 759 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 858 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,146 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,8 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Accelleron | Engineering Internship | USA: Miramar, FL | Not listed | not available | 2026-08-21 | **[Apply →](https://accelleron.wd3.myworkdayjobs.com/Accelleron/job/USA-Miramar-FL/Engineering-Internship_JR102300)**<br><sub>accelleron.wd3.myworkdayjobs.com</sub> |
+| Ambrook | Software Engineering Intern | New York | Summer 2027 | Winter 2026–Summer 2027<br><sub>stated</sub> | 2026-08-21 | **[Apply →](https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456)**<br><sub>jobs.ashbyhq.com</sub> |
 | AMD | Data Analyst Intern/Co-op | Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/91175?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | Data Analyst Intern/Co-op | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/91179?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | Data Analyst Intern/Co-op | Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/91183?icims=1)**<br><sub>careers.amd.com</sub> |
@@ -47,8 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | AMD | Firmware Engineer Intern/Co-op | Secaucus, NJ, Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/90805?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | Firmware Engineering Intern Co-op - Undergrad | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/90807?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | Hardware Design Verification Engineer Co-op/Intern | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/90810?icims=1)**<br><sub>careers.amd.com</sub> |
-| AMD | Hardware Design Verification Engineer Co-op/Intern | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/90811?icims=1)**<br><sub>careers.amd.com</sub> |
-| AMD | Hardware Design Verification Engineer Intern/Co-op | Secaucus, NJ, Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/90813?icims=1)**<br><sub>careers.amd.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -63,13 +63,13 @@ Recent full-time opportunities that open the employer's application page directl
 | Amentum | Software Programmer Entry Level - Conventional Test Facility | Tullahoma, TN | Not listed | not available | 2026-08-21 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Software-Programmer---Entry-Level_R0168838)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
 | Analog Devices | Associate Digital Design Engineer | Durham, NC | Not listed | not available | 2026-08-21 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-Digital-Design-Engineer_R265313)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Analog Devices | Associate Mixed Signal Design Engineer | Wilmington, MA, Durham, NC | Not listed | not available | 2026-08-21 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Mixed-Signal-Design-Engineer_R265312)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
+| Analog Devices | Product Engineer - Product Development | Wilmington, MA, Durham, NC | Not listed | not available | 2026-08-21 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Applied Materials | Systems Engineer | Santa Clara, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer_R2626795)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
 | Avalore | AI/ML Engineer | Arlington County, Arlington, VA | Not listed | not available | 2026-08-21 | **[Apply →](https://apply.workable.com/avalore/j/236521B2C0/apply)**<br><sub>apply.workable.com</sub> |
 | Booz Allen | Data Engineer | Arlington County, Arlington, VA, San Diego, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Engineer_R0247559)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
+| BP | Seismic Imaging Technology Graduate - Subsurface Group | Houston, TX | Not listed | not available | 2026-08-21 | **[Apply →](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Graduate---Seismic-Imaging-Technology---Houston--TX_RQ115090)**<br><sub>bpinternational.wd3.myworkdayjobs.com</sub> |
 | ByteDance | Software Engineer Graduate - AML-Engine-Forge Platform | San Jose, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://jobs.bytedance.com/en/position/7673306902554102069/detail)**<br><sub>jobs.bytedance.com</sub> |
 | CACI | Geospatial Maritime Analyst - Digitizer - Collections Analyst | Fort Collins, CO | Not listed | not available | 2026-08-21 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/Fort-Collins-CO-US/GIS-Geospatial-Maritime-Analyst---Digitizer---Collections-Analyst_330955)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
-| DTCC | Business Systems Analyst - Oracle Billing Systems | Dallas, TX, Jersey City, NJ | Not listed | not available | 2026-08-21 | **[Apply →](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214447)**<br><sub>ebxr.fa.us2.oraclecloud.com</sub> |
-| E2 Optics | Data Center Infrastructure Technician | Columbus, OH | Not listed | not available | 2026-08-21 | **[Apply →](https://careers-e2optics.icims.com/jobs/3770/job?mobile=true&needsRedirect=false)**<br><sub>careers-e2optics.icims.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
