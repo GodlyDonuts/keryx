@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,302 internships · 3,744 new-grad roles · 6,046 total openings**
+**2,325 internships · 3,750 new-grad roles · 6,075 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 826 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 501 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 106 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 30 | **[View openings →](internships/winter-2027.md)** |
+| ☀️ Summer 2027 | 851 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 499 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 105 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 31 | **[View openings →](internships/winter-2027.md)** |
 | 📅 Season not listed | 839 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 760 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 867 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,117 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 763 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 869 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,118 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Lawrence Livermore National Laboratory (LLNL) | Computational Engineering Graduate Intern | Livermore, CA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990014730886)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Lawrence Livermore National Laboratory (LLNL) | Energy Systems Analyst Graduate Intern - Fall 2026 | Livermore, CA, us | Fall 2026 | not available | 2026-08-21 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990014731696)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Lawrence Livermore National Laboratory (LLNL) | National Security Engineering Division (NSED) Graduate Intern - Summer 2027 | Livermore, CA, us | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990014731646)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Lawrence Livermore National Laboratory (LLNL) | National Security Engineering Division (NSED) Undergraduate Intern - Summer 2027 | Livermore, CA, us | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990014731656)**<br><sub>jobs.smartrecruiters.com</sub> |
-| AbbVie | Business Technology Solutions Intern - Data & Software Engineering - Undergraduate | North Chicago, IL | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014697918)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Ampersand | Data Engineering Co-op - Open to Northeastern students only | Boston, MA | Fall 2026 | not available | 2026-08-20 | **[Apply →](https://ats.rippling.com/ampersand-biomedicines/jobs/be3f5479-379e-4d48-9bd1-82a69b2dcfd3)**<br><sub>ats.rippling.com</sub> |
-| Analog Devices | Mixed Signal Engineer Intern | Wilmington, MA, Durham, NC | Fall 2026 | not available | 2026-08-20 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Engineer-Intern_R265299)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
-| Anthro Energy | Manufacturing Engineering Intern | Alameda, United States | Not listed | not available | 2026-08-20 | **[Apply →](https://apply.workable.com/anthro/j/F08AA0CBF9/)**<br><sub>apply.workable.com</sub> |
-| Avery Dennison | RFID Applications Engineering Co-op - Spring 2027 ( plus one semester) | Miamisburg, OH, us | Spring 2027 | not available | 2026-08-20 | **[Apply →](https://jobs.smartrecruiters.com/AveryDennison/744000144595999)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Blue Shield of California | Intern - Data Full Stack Engineer | Oakland, CA, United States | Not listed | Dec 2026–Jun 2028<br><sub>stated</sub> | 2026-08-20 | **[Apply →](https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20261580)**<br><sub>ecge.fa.us2.oraclecloud.com</sub> |
-| Catalist | Data Services Intern | Washington, DC | Fall 2026 | not stated | 2026-08-20 | **[Apply →](https://jobs.lever.co/catalist/4300e9ab-5f6f-4b9a-8ad6-8282a34e7dec/apply)**<br><sub>jobs.lever.co</sub> |
-| CNO Financial Group | Summer 2027 Reporting Analyst Intern 2027 - REMOTE from any US based location | Carmel, IN | Summer 2027 | not available | 2026-08-20 | **[Apply →](https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Summer-2027-Reporting-Analyst-Intern-2027---REMOTE-from-any-US-based-location_JR170455)**<br><sub>cnoinc.wd5.myworkdayjobs.com</sub> |
+| AMD | Data Analyst Intern/Co-op | Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/91175?icims=1)**<br><sub>careers.amd.com</sub> |
+| AMD | Data Analyst Intern/Co-op | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/91179?icims=1)**<br><sub>careers.amd.com</sub> |
+| AMD | Data Analyst Intern/Co-op | Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/91183?icims=1)**<br><sub>careers.amd.com</sub> |
+| AMD | Data Analyst Intern/Co-op | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/90895?icims=1)**<br><sub>careers.amd.com</sub> |
+| AMD | Field Applications Engineer Intern - Masters | San Jose, CA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/91239?icims=1)**<br><sub>careers.amd.com</sub> |
+| AMD | Firmware Engineer Co-op/Intern | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/90809?icims=1)**<br><sub>careers.amd.com</sub> |
+| AMD | Firmware Engineer Intern/Co-op | Secaucus, NJ, Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Massachusetts | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/90801?icims=1)**<br><sub>careers.amd.com</sub> |
+| AMD | Firmware Engineer Intern/Co-op | Secaucus, NJ, Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/90805?icims=1)**<br><sub>careers.amd.com</sub> |
+| AMD | Firmware Engineering Intern Co-op - Undergrad | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/90807?icims=1)**<br><sub>careers.amd.com</sub> |
+| AMD | Hardware Design Verification Engineer Co-op/Intern | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/90810?icims=1)**<br><sub>careers.amd.com</sub> |
+| AMD | Hardware Design Verification Engineer Co-op/Intern | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/90811?icims=1)**<br><sub>careers.amd.com</sub> |
+| AMD | Hardware Design Verification Engineer Intern/Co-op | Secaucus, NJ, Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/90813?icims=1)**<br><sub>careers.amd.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -61,15 +61,15 @@ Recent full-time opportunities that open the employer's application page directl
 | Acadian Asset Management | Analyst – Portfolio Construction & Trading | Boston, MA | Not listed | not available | 2026-08-21 | **[Apply →](https://www.acadian-asset.com/careers/open-positions?gh_jid=4702401006)**<br><sub>www.acadian-asset.com</sub> |
 | E2 Optics | Data Center Infrastructure Technician | Columbus, OH | Not listed | not available | 2026-08-21 | **[Apply →](https://careers-e2optics.icims.com/jobs/3770/job?mobile=true&needsRedirect=false)**<br><sub>careers-e2optics.icims.com</sub> |
 | Mackenzie Investments | Investment Analyst - Quantitative | Boston, MA | Not listed | not available | 2026-08-21 | **[Apply →](https://careersen-mackenzieinvestments.icims.com/jobs/5971/job?mobile=true&needsRedirect=false)**<br><sub>careersen-mackenzieinvestments.icims.com</sub> |
+| Nucleus Biologics | Full Stack Engineer | San Diego, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://ats.rippling.com/nucleus-biologics-careers/jobs/af1ea033-27f0-42e8-bac9-09434a5ffbe3)**<br><sub>ats.rippling.com</sub> |
+| Oracle | Support Engineer 1 | Orlando, FL, Nashville, TN, Kansas City, MO | Not listed | not available | 2026-08-21 | **[Apply →](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343611)**<br><sub>eeho.fa.us2.oraclecloud.com</sub> |
 | Peraton | COBOL Software Developer | United States | Not listed | not available | 2026-08-21 | **[Apply →](https://careers-peraton.icims.com/jobs/169890/job?mobile=true&needsRedirect=false)**<br><sub>careers-peraton.icims.com</sub> |
 | Qualcomm | Verification Software Engineer - Software Engineering | San Diego, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://qualcomm.eightfold.ai/careers/job/446720426705)**<br><sub>qualcomm.eightfold.ai</sub> |
 | ServiceNow | Associate Applications Development Engineer | Santa Clara, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://jobs.smartrecruiters.com/ServiceNow/744000144653619)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Amgen | Commercial Data & Analytics Data Scientist Associate - Obesity | Thousand Oaks, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Associate_R-252126)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
 | Amgen | Data Scientist Associate - Obesity | Thousand Oaks, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Associate_R-252119)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
 | Analog Devices | Associate Digital Design Engineer | San Jose, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Digital-Design-Engineer_R265286)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
-| Apple | Darwin Runtime Engineer - Core OS | Cupertino, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://jobs.apple.com/en-us/details/200662330)**<br><sub>jobs.apple.com</sub> |
-| Blue Origin | ASIC Engineer - Early Career | Washington, California, Texas | Not listed | not available | 2026-08-20 | **[Apply →](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/ASIC-Engineer---Early-Career_R70802)**<br><sub>blueorigin.wd5.myworkdayjobs.com</sub> |
-| Boston Consulting Group | Forward Deployed AI Engineer - Campus | Boston, MA, Seattle, WA, Washington, DC, SF, LA, Miami, FL, Dallas, TX, Chicago, IL, Pittsburgh, PA, NYC, Brooklyn, NY, Manhattan Beach, CA | Not listed | not available | 2026-08-20 | **[Apply →](https://careers.bcg.com/global/en/job/59067)**<br><sub>careers.bcg.com</sub> |
+| Analog Devices | Associate Product Applications Engineer | Centennial, CO, Colorado Springs, CO, Wilmington, MA, Durham, NC | 2026 | not available | 2026-08-20 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Applications-Engineer_R265307)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
