@@ -7526,6 +7526,14 @@
       "url": "https://www.photon.in/"
     },
     {
+      "boards": [],
+      "company": "Tharp Consulting",
+      "key": "98bf9cbeb83d6ac8412e0428",
+      "last_scanned": "2026-08-22",
+      "resolved_roles": 0,
+      "url": "https://www.linkedin.com/company/109378307"
+    },
+    {
       "company": "Blue Origin",
       "error": "public request failed for https://www.blueorigin.com/: HTTP Error 429: Too Many Requests",
       "key": "98cd49c074ca5d759be4f500",
@@ -8630,6 +8638,13 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 1,
       "url": "https://fiverings.com/"
+    },
+    {
+      "company": "IFF",
+      "error": "public request failed for https://www.iff.com/: HTTP Error 403: Forbidden",
+      "key": "adb2d9ffd6476dd7c08cbb5f",
+      "last_scanned": "2026-08-22",
+      "url": "https://iff.com/"
     },
     {
       "boards": [
