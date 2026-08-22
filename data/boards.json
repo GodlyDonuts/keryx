@@ -4135,6 +4135,14 @@
       "ats": "oracle",
       "company": "BNY",
       "host": "eofe.fa.us2.oraclecloud.com",
+      "key": "oracle:eofe.fa.us2.oraclecloud.com:bny-careers",
+      "site": "BNY-Careers",
+      "slug": "eofe"
+    },
+    {
+      "ats": "oracle",
+      "company": "BNY",
+      "host": "eofe.fa.us2.oraclecloud.com",
       "key": "oracle:eofe.fa.us2.oraclecloud.com:cx_1001",
       "site": "CX_1001",
       "slug": "eofe"
@@ -7438,6 +7446,15 @@
       "key": "workday:echo.wd1.myworkdayjobs.com:echo:echo_logistics",
       "site": "Echo_Logistics",
       "slug": "echo",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Ecolab",
+      "host": "ecolab.wd1.myworkdayjobs.com",
+      "key": "workday:ecolab.wd1.myworkdayjobs.com:ecolab:ecolab_external",
+      "site": "ecolab_external",
+      "slug": "ecolab",
       "wd": "wd1"
     },
     {
