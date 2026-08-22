@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,402 internships · 3,734 new-grad roles · 6,136 total openings**
+**2,403 internships · 3,727 new-grad roles · 6,130 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 884 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 886 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 498 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 98 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 41 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 881 | **[View openings →](internships/unscheduled.md)** |
+| 🌱 Spring 2027 | 100 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 39 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 880 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 762 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 841 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,131 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 758 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 837 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,132 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -46,7 +46,7 @@ Recent internship and co-op listings that open the employer's application page d
 | TikTok | Product Manager Intern - Content and Service Ads | San Jose, CA | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://lifeattiktok.com/search/7676283436713593093)**<br><sub>lifeattiktok.com</sub> |
 | TikTok | Software Engineer Intern | San Jose, CA | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://lifeattiktok.com/search/7676276048527214901)**<br><sub>lifeattiktok.com</sub> |
 | Aalo Atomics | Fall 2026 Mechanical Engineering Intern - Idaho Falls, ID | Idaho Falls, ID, United States | Fall 2026 | not available | 2026-08-21 | **[Apply →](https://ats.rippling.com/aalo-atomics/jobs/6dbb9b30-1089-4e0f-9f67-c1213f29e0e3)**<br><sub>ats.rippling.com</sub> |
-| Ambrook | Software Engineering Intern | New York | Not listed | Winter 2026–Summer 2027<br><sub>stated</sub> | 2026-08-21 | **[Apply →](https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456)**<br><sub>jobs.ashbyhq.com</sub> |
+| Ambrook | Software Engineering Intern | New York | Summer 2027 | Winter 2026–Summer 2027<br><sub>stated</sub> | 2026-08-21 | **[Apply →](https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456)**<br><sub>jobs.ashbyhq.com</sub> |
 | AMD | Data Analyst Intern/Co-op | Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/91175?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | Data Analyst Intern/Co-op | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/91179?icims=1)**<br><sub>careers.amd.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
