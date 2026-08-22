@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,430 internships · 4,068 new-grad roles · 6,498 total openings**
+**2,415 internships · 4,064 new-grad roles · 6,479 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 894 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 488 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 102 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 41 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 905 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 896 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 489 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 103 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 39 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 888 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 772 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,186 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,110 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 777 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,183 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,104 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -68,7 +68,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Acadian Asset Management | Analyst – Portfolio Construction & Trading | Boston, MA | Not listed | not available | 2026-08-21 | **[Apply →](https://www.acadian-asset.com/careers/open-positions?gh_jid=4702401006)**<br><sub>www.acadian-asset.com</sub> |
 | Alfa Financial Software | Implementation Analyst - Graduate Program | Royal Oak, MI, Michigan | Not listed | not available | 2026-08-21 | **[Apply →](https://alfa.wd3.myworkdayjobs.com/alfa/job/Royal-Oak-Michigan-USA/Implementation-Analyst---Grad-Program-2027_R196)**<br><sub>alfa.wd3.myworkdayjobs.com</sub> |
 | Amazon | Front-End Engineer - 2026 - US | Seattle, WA | 2026 | not available | 2026-08-21 | **[Apply →](https://www.amazon.jobs/jobs/10428762/apply)**<br><sub>www.amazon.jobs</sub> |
-| Amentum | Software Programmer - Entry Level | US-TN-Tullahoma | 2027 | not available | 2026-08-21 | **[Apply →](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TN-Tullahoma/Software-Programmer---Entry-Level_R0168838)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
+| Amentum | Software Programmer Entry Level - Conventional Test Facility | Tullahoma, TN | 2027 | not available | 2026-08-21 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Software-Programmer---Entry-Level_R0168838)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
 | Analog Devices | Associate Digital Design Engineer | Durham, NC | Not listed | not available | 2026-08-21 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-Digital-Design-Engineer_R265313)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
