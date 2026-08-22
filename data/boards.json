@@ -5261,6 +5261,12 @@
     },
     {
       "ats": "workable",
+      "company": "Elevate Semiconductor",
+      "key": "workable:elevate-semiconductor",
+      "slug": "elevate-semiconductor"
+    },
+    {
+      "ats": "workable",
       "company": "Flexcompute",
       "key": "workable:flexcompute",
       "slug": "flexcompute"
@@ -5771,7 +5777,7 @@
     },
     {
       "ats": "workday",
-      "company": "Allstate Insurance Company",
+      "company": "Allstate",
       "host": "allstate.wd5.myworkdayjobs.com",
       "key": "workday:allstate.wd5.myworkdayjobs.com:allstate:allstate_careers",
       "site": "allstate_careers",
@@ -7170,6 +7176,15 @@
       "host": "cvshealth.wd1.myworkdayjobs.com",
       "key": "workday:cvshealth.wd1.myworkdayjobs.com:cvshealth:cvs_health_careers",
       "site": "cvs_health_careers",
+      "slug": "cvshealth",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "CVS Health",
+      "host": "cvshealth.wd1.myworkdayjobs.com",
+      "key": "workday:cvshealth.wd1.myworkdayjobs.com:cvshealth:private_postings_intern_conversion_only",
+      "site": "Private_Postings_Intern_Conversion_ONLY",
       "slug": "cvshealth",
       "wd": "wd1"
     },
