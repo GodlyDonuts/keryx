@@ -2076,7 +2076,7 @@
       "company": "Metropolitan Utilities District",
       "error": "public request failed for https://www.mudomaha.com/: HTTP Error 403: Forbidden",
       "key": "2d13d54fbb8616af44a1f6ba",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-08-22",
       "url": "https://mudomaha.com/"
     },
     {
@@ -2317,6 +2317,13 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://ga-asi.com/"
+    },
+    {
+      "company": "Ecolab",
+      "error": "public request failed for https://www.ecolab.com/: The read operation timed out",
+      "key": "310f9a68901ccb666997c890",
+      "last_scanned": "2026-08-22",
+      "url": "https://www.ecolab.com/"
     },
     {
       "boards": [],
@@ -4661,6 +4668,14 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://www.polaris.com/"
+    },
+    {
+      "boards": [],
+      "company": "Hitachi Energy",
+      "key": "5eb84e283befa4fb670ea267",
+      "last_scanned": "2026-08-22",
+      "resolved_roles": 0,
+      "url": "https://www.hitachienergy.com/in/en"
     },
     {
       "boards": [
