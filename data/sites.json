@@ -5218,6 +5218,13 @@
       "url": "https://www.eudia.com/"
     },
     {
+      "company": "FFF Enterprises",
+      "error": "public request failed for https://www.fffenterprises.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "key": "6a99d0ab51cd20dfa596c695",
+      "last_scanned": "2026-08-22",
+      "url": "https://www.fffenterprises.com/"
+    },
+    {
       "company": "KAYAK",
       "error": "Invalid IPv6 URL",
       "key": "6aaf571413e3013f3f9e423a",
@@ -11665,6 +11672,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://commence.ai/"
+    },
+    {
+      "boards": [],
+      "company": "BioSpace",
+      "key": "e8e1b7b03af783689151443e",
+      "last_scanned": "2026-08-22",
+      "resolved_roles": 0,
+      "url": "https://www.biospace.com/"
     },
     {
       "boards": [],
