@@ -9,7 +9,7 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,398 internships · 3,788 new-grad roles · 6,186 total openings**
+**2,398 internships · 3,776 new-grad roles · 6,174 total openings**
 
 ### 🎓 Internships
 
@@ -26,8 +26,8 @@
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 765 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 883 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,140 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 880 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,131 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
