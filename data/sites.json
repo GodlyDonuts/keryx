@@ -5247,7 +5247,7 @@
       ],
       "company": "Magna International",
       "key": "68fac9ab696490d168347de6",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://www.magna.com/"
     },
@@ -7350,6 +7350,14 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://www.zeiss.com/"
+    },
+    {
+      "boards": [],
+      "company": "Benesch",
+      "key": "90db692358dce8ccf23709b5",
+      "last_scanned": "2026-08-22",
+      "resolved_roles": 0,
+      "url": "https://www.benesch.com/"
     },
     {
       "boards": [],
@@ -10228,6 +10236,16 @@
       "url": "https://lcptracker.com/"
     },
     {
+      "boards": [
+        "ashby:zello"
+      ],
+      "company": "Zello",
+      "key": "c7f5d625ed7ba81f9623578b",
+      "last_scanned": "2026-08-22",
+      "resolved_roles": 0,
+      "url": "https://zello.com/"
+    },
+    {
       "boards": [],
       "company": "Etegent Technologies",
       "key": "c814c2bcde946f77b8ffd4fc",
@@ -11878,6 +11896,13 @@
       "key": "e76619ad9660a1c181a33522",
       "last_scanned": "2026-08-22",
       "url": "https://www.servicenow.com/"
+    },
+    {
+      "company": "York Space Systems",
+      "error": "Invalid IPv6 URL",
+      "key": "e87802ee652eaaf7376fbeb6",
+      "last_scanned": "2026-08-22",
+      "url": "https://www.yorkspacesystems.com/"
     },
     {
       "boards": [],
