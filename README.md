@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,434 internships · 3,721 new-grad roles · 6,155 total openings**
+**2,442 internships · 3,742 new-grad roles · 6,184 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 863 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 491 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 99 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 39 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 942 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 871 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 490 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 97 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 41 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 943 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 763 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 837 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,121 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 767 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 856 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,119 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -39,16 +39,16 @@ Recent internship and co-op listings that open the employer's application page d
 |---|---|---|---|---|---:|---|
 | Analog Devices | Systems Integration Engineer Intern | Wilmington, MA, Durham, NC | Fall 2026 | not available | 2026-08-22 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Astranis Space Technologies | Flight Software Intern - Fall 2026 | San Francisco, CA | Fall 2026 | not available | 2026-08-22 | **[Apply →](https://job-boards.greenhouse.io/astranis/jobs/4619283006)**<br><sub>job-boards.greenhouse.io</sub> |
-| Elevate Semiconductor | Product Engineering Intern | San Diego, CA | Fall 2026 | not available | 2026-08-22 | **[Apply →](https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply)**<br><sub>apply.workable.com</sub> |
 | Hitachi | Engineering Intern | Raleigh, NC | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571)**<br><sub>hitachi.wd1.myworkdayjobs.com</sub> |
 | Microsoft | AI Software Engineer Intern - Edge | Redmond, WA, Mountain View, CA | Fall 2026 | not available | 2026-08-22 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393556979054)**<br><sub>apply.careers.microsoft.com</sub> |
 | Pylon | Software Engineer - Intern | San Francisco, CA | Not listed | not available | 2026-08-22 | **[Apply →](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d)**<br><sub>jobs.ashbyhq.com</sub> |
-| TikTok | AI Product Manager Intern - Product Social | San Jose, CA | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://lifeattiktok.com/search/7675616554318596357)**<br><sub>lifeattiktok.com</sub> |
-| TikTok | Product Manager Intern - Content and Service Ads | San Jose, CA | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://lifeattiktok.com/search/7676283436713593093)**<br><sub>lifeattiktok.com</sub> |
-| Aalo Atomics | Fall 2026 Mechanical Engineering Intern - Idaho Falls, ID | Idaho Falls, ID, United States | Fall 2026 | not available | 2026-08-21 | **[Apply →](https://ats.rippling.com/aalo-atomics/jobs/6dbb9b30-1089-4e0f-9f67-c1213f29e0e3)**<br><sub>ats.rippling.com</sub> |
-| Ambrook | Software Engineering Intern | New York | Summer 2027 | Winter 2026–Summer 2027<br><sub>stated</sub> | 2026-08-21 | **[Apply →](https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456)**<br><sub>jobs.ashbyhq.com</sub> |
-| AMD | Data Analyst Intern/Co-op | Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/91175?icims=1)**<br><sub>careers.amd.com</sub> |
-| AMD | Data Analyst Intern/Co-op | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/91179?icims=1)**<br><sub>careers.amd.com</sub> |
+| Springs Window Fashions | AI Analyst Intern - Consumer Business Unit | Middleton, WI | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://careers-springswindowfashions.icims.com/jobs/12875/job?mobile=true&needsRedirect=false)**<br><sub>careers-springswindowfashions.icims.com</sub> |
+| Springs Window Fashions | Application Engineering Intern - Summer 2027 | Long Island City, Queens, NY | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://careers-springswindowfashions.icims.com/jobs/12893/job?mobile=true&needsRedirect=false)**<br><sub>careers-springswindowfashions.icims.com</sub> |
+| Springs Window Fashions | Data Analyst Intern - Consumer Business Unit | Middleton, WI | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://careers-springswindowfashions.icims.com/jobs/12874/job?mobile=true&needsRedirect=false)**<br><sub>careers-springswindowfashions.icims.com</sub> |
+| Springs Window Fashions | Dealer Business Operations & Analytics Intern - Summer 2027 | Middleton, WI | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://careers-springswindowfashions.icims.com/jobs/12886/job?mobile=true&needsRedirect=false)**<br><sub>careers-springswindowfashions.icims.com</sub> |
+| Springs Window Fashions | Product Management Competitive Product Assessment Intern - Summer 2027 | Middleton, WI | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false)**<br><sub>careers-springswindowfashions.icims.com</sub> |
+| Springs Window Fashions | Product Management Dashboard Analytics Intern | Middleton, WI | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false)**<br><sub>careers-springswindowfashions.icims.com</sub> |
+| Springs Window Fashions | Product Management Intern | Long Island City, Queens, NY | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false)**<br><sub>careers-springswindowfashions.icims.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
