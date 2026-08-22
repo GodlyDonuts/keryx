@@ -9,7 +9,7 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,395 internships · 3,739 new-grad roles · 6,134 total openings**
+**2,401 internships · 3,727 new-grad roles · 6,128 total openings**
 
 ### 🎓 Internships
 
@@ -17,17 +17,17 @@
 |---|---:|---|
 | ☀️ Summer 2027 | 882 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 496 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 98 | **[View openings →](internships/spring-2027.md)** |
+| 🌱 Spring 2027 | 99 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 41 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 878 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 883 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 763 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 849 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,127 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 761 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 840 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,126 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -44,7 +44,7 @@ Recent internship and co-op listings that open the employer's application page d
 | TikTok | Product Manager Intern - Content and Service Ads | San Jose, CA | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://lifeattiktok.com/search/7676283436713593093)**<br><sub>lifeattiktok.com</sub> |
 | TikTok | Software Engineer Intern | San Jose, CA | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://lifeattiktok.com/search/7676276048527214901)**<br><sub>lifeattiktok.com</sub> |
 | Aalo Atomics | Fall 2026 Mechanical Engineering Intern - Idaho Falls, ID | Idaho Falls, ID, United States | Fall 2026 | not available | 2026-08-21 | **[Apply →](https://ats.rippling.com/aalo-atomics/jobs/6dbb9b30-1089-4e0f-9f67-c1213f29e0e3)**<br><sub>ats.rippling.com</sub> |
-| Ambrook | Software Engineering Intern | New York | Summer 2027 | Winter 2026–Summer 2027<br><sub>stated</sub> | 2026-08-21 | **[Apply →](https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456)**<br><sub>jobs.ashbyhq.com</sub> |
+| Ambrook | Software Engineering Intern | New York | Not listed | Winter 2026–Summer 2027<br><sub>stated</sub> | 2026-08-21 | **[Apply →](https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456)**<br><sub>jobs.ashbyhq.com</sub> |
 | AMD | Data Analyst Intern/Co-op | Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/91175?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | Data Analyst Intern/Co-op | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/91179?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | Data Analyst Intern/Co-op | Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/91183?icims=1)**<br><sub>careers.amd.com</sub> |
@@ -65,7 +65,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Analog Devices | Associate Digital Design Engineer | Durham, NC | Not listed | not available | 2026-08-21 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-Digital-Design-Engineer_R265313)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Analog Devices | Associate Mixed Signal Design Engineer | Wilmington, MA, Durham, NC | Not listed | not available | 2026-08-21 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Mixed-Signal-Design-Engineer_R265312)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Analog Devices | Product Engineer - Product Development | Wilmington, MA, Durham, NC | Not listed | not available | 2026-08-21 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
-| Applied Materials | Software Engineer 1 | Kalispell, MT | Not listed | not available | 2026-08-21 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/KalispellMT/Software-Engineer-I---New-College-Grad--Bachelors---Kalispell--MT-_R2626859)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
+| Applied Materials | Software Engineer I - New College Grad (Bachelors - Kalispell, MT) | Kalispell,MT | Not listed | not available | 2026-08-21 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/KalispellMT/Software-Engineer-I---New-College-Grad--Bachelors---Kalispell--MT-_R2626859)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
 | Applied Materials | Systems Engineer | Santa Clara, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer_R2626795)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
 | Avalore | AI/ML Engineer | Arlington County, Arlington, VA | Not listed | not available | 2026-08-21 | **[Apply →](https://apply.workable.com/avalore/j/236521B2C0/apply)**<br><sub>apply.workable.com</sub> |
 | Booz Allen | Data Engineer | Arlington County, Arlington, VA, San Diego, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Engineer_R0247559)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
