@@ -5312,6 +5312,14 @@
       "url": "https://www.eudia.com/"
     },
     {
+      "boards": [],
+      "company": "MxD",
+      "key": "6a6a57f079312ac6bdb8d896",
+      "last_scanned": "2026-08-22",
+      "resolved_roles": 0,
+      "url": "https://www.mxdusa.org/"
+    },
+    {
       "company": "FFF Enterprises",
       "error": "public request failed for https://www.fffenterprises.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
       "key": "6a99d0ab51cd20dfa596c695",
@@ -8018,6 +8026,14 @@
     },
     {
       "boards": [],
+      "company": "Perdue Farms",
+      "key": "a03faa0b0fdcf1803309609a",
+      "last_scanned": "2026-08-22",
+      "resolved_roles": 0,
+      "url": "https://www.perduefarms.com/"
+    },
+    {
+      "boards": [],
       "company": "Brave Like Me",
       "key": "a0449817b907232c2e7d9971",
       "last_scanned": "2026-08-20",
@@ -8490,6 +8506,14 @@
       "key": "a8106192bed87328c0610b3f",
       "last_scanned": "2026-08-22",
       "url": "https://www.t-mobile.com/"
+    },
+    {
+      "boards": [],
+      "company": "Smartsheet",
+      "key": "a82afb9ba2e5229c7d567ab2",
+      "last_scanned": "2026-08-22",
+      "resolved_roles": 0,
+      "url": "https://www.smartsheet.com/"
     },
     {
       "boards": [
@@ -12094,6 +12118,16 @@
       "key": "ec7c99f34f2e512e16326371",
       "last_scanned": "2026-08-21",
       "url": "https://www.delta.com/"
+    },
+    {
+      "boards": [
+        "greenhouse:tenstorrent"
+      ],
+      "company": "Tenstorrent",
+      "key": "ec8ff9f7ddba93641bc3977f",
+      "last_scanned": "2026-08-22",
+      "resolved_roles": 0,
+      "url": "https://tenstorrent.com/"
     },
     {
       "boards": [
