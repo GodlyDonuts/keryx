@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,361 internships · 3,778 new-grad roles · 6,139 total openings**
+**2,376 internships · 3,771 new-grad roles · 6,147 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 863 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 489 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 101 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 41 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 867 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 865 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 494 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 104 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 39 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 874 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 765 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 876 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,137 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 761 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 872 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,138 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,7 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Aalo Atomics | Fall 2026 Mechanical Engineering Intern - Idaho Falls, ID | Idaho Falls, ID, United States | Fall 2026 | not available | 2026-08-21 | **[Apply →](https://ats.rippling.com/aalo-atomics/jobs/6dbb9b30-1089-4e0f-9f67-c1213f29e0e3)**<br><sub>ats.rippling.com</sub> |
 | Accelleron | Engineering Internship | USA: Miramar, FL | Not listed | not available | 2026-08-21 | **[Apply →](https://accelleron.wd3.myworkdayjobs.com/Accelleron/job/USA-Miramar-FL/Engineering-Internship_JR102300)**<br><sub>accelleron.wd3.myworkdayjobs.com</sub> |
 | Ambrook | Software Engineering Intern | New York | Summer 2027 | Winter 2026–Summer 2027<br><sub>stated</sub> | 2026-08-21 | **[Apply →](https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456)**<br><sub>jobs.ashbyhq.com</sub> |
 | AMD | Data Analyst Intern/Co-op | Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/91175?icims=1)**<br><sub>careers.amd.com</sub> |
@@ -48,7 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | AMD | Firmware Engineer Intern/Co-op | Secaucus, NJ, Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Massachusetts | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/90801?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | Firmware Engineer Intern/Co-op | Secaucus, NJ, Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/90805?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | Firmware Engineering Intern Co-op - Undergrad | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/90807?icims=1)**<br><sub>careers.amd.com</sub> |
-| AMD | Hardware Design Verification Engineer Co-op/Intern | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-21 | **[Apply →](https://careers.amd.com/jobs/90810?icims=1)**<br><sub>careers.amd.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
