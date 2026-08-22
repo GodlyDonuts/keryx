@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,403 internships · 3,725 new-grad roles · 6,128 total openings**
+**2,402 internships · 3,734 new-grad roles · 6,136 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 883 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 884 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 498 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 99 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 42 | **[View openings →](internships/winter-2027.md)** |
+| 🌱 Spring 2027 | 98 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 41 | **[View openings →](internships/winter-2027.md)** |
 | 📅 Season not listed | 881 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 755 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 830 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,140 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 762 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 841 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,131 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -58,6 +58,8 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Parsons | Software Engineer - Secret required | Aberdeen, MD | 2027 | not available | 2026-08-22 | **[Apply →](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Aberdeen/Software-Engineer---Secret-required_R184134)**<br><sub>parsons.wd5.myworkdayjobs.com</sub> |
+| True Anomaly | Software Engineer 1 New Grad - QA | Long Beach, CA, Denver, CO | Not listed | not stated | 2026-08-22 | **[Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007)**<br><sub>job-boards.greenhouse.io</sub> |
 | Acadian Asset Management | Analyst – Portfolio Construction & Trading | Boston, MA | Not listed | not available | 2026-08-21 | **[Apply →](https://www.acadian-asset.com/careers/open-positions?gh_jid=4702401006)**<br><sub>www.acadian-asset.com</sub> |
 | Alfa Financial Software | Implementation Analyst - Graduate Program | Royal Oak, MI, Michigan | Not listed | not available | 2026-08-21 | **[Apply →](https://alfa.wd3.myworkdayjobs.com/alfa/job/Royal-Oak-Michigan-USA/Implementation-Analyst---Grad-Program-2027_R196)**<br><sub>alfa.wd3.myworkdayjobs.com</sub> |
 | Amentum | Software Programmer - Entry Level | US-TN-Tullahoma | 2026 | not available | 2026-08-21 | **[Apply →](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TN-Tullahoma/Software-Programmer---Entry-Level_R0168838)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
@@ -68,8 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Applied Materials | Systems Engineer | Santa Clara, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer_R2626795)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
 | Avalore | AI/ML Engineer | Arlington County, Arlington, VA | Not listed | not available | 2026-08-21 | **[Apply →](https://apply.workable.com/avalore/j/236521B2C0/apply)**<br><sub>apply.workable.com</sub> |
 | Booz Allen | Data Engineer | Arlington County, Arlington, VA, San Diego, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Engineer_R0247559)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
-| BP | Seismic Imaging Technology Graduate - Subsurface Group | Houston, TX | Not listed | not available | 2026-08-21 | **[Apply →](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Graduate---Seismic-Imaging-Technology---Houston--TX_RQ115090)**<br><sub>bpinternational.wd3.myworkdayjobs.com</sub> |
-| ByteDance | Software Engineer Graduate - AML-Engine-Forge Platform | San Jose, CA | Not listed | not available | 2026-08-21 | **[Apply →](https://jobs.bytedance.com/en/position/7673306902554102069/detail)**<br><sub>jobs.bytedance.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
