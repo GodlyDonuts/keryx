@@ -9914,6 +9914,14 @@
     },
     {
       "boards": [],
+      "company": "Xsolla",
+      "key": "c0e29fe88b9a85401a17bb4a",
+      "last_scanned": "2026-08-23",
+      "resolved_roles": 0,
+      "url": "https://www.xsolla.com/"
+    },
+    {
+      "boards": [],
       "company": "Jerry",
       "key": "c0f87b27120c09da8748607f",
       "last_scanned": "2026-08-21",
@@ -12792,6 +12800,13 @@
       "key": "f3e8f99203b2c3cffbe6cbca",
       "last_scanned": "2026-08-20",
       "url": "https://www.amedesigngroup.com/"
+    },
+    {
+      "company": "Hasana, Inc.",
+      "error": "public request failed for https://shophasana.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "key": "f41bc632df0b0a99b7efa38a",
+      "last_scanned": "2026-08-23",
+      "url": "https://shophasana.com/"
     },
     {
       "boards": [],
