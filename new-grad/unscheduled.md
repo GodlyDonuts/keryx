@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**2108 open roles**
+**2107 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -60,7 +60,6 @@
 | Resideo | Firmware Engineer 1 | Aurora, IL | not available<br><sub>posting text not indexed</sub> | 2026-08-21 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · ehtl.fa.us6.oraclecloud.com](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19224)<br><sub>recognized recruiting platform</sub> |
 | ServiceNow | Associate Applications Development Engineer | Santa Clara, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-21 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.smartrecruiters.com](https://jobs.smartrecruiters.com/ServiceNow/744000144653619)<br><sub>recognized recruiting platform</sub> |
 | Susquehanna International Group | Trading System Engineer New Grad | Bala Cynwyd, PA | not available<br><sub>posting text not indexed</sub> | 2026-08-21 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · careers-sig.icims.com](https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false)<br><sub>recognized recruiting platform</sub> |
-| T-Mobile | Associate Software Engineer | Atlanta, GA | not available<br><sub>posting text not indexed</sub> | 2026-08-21 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · tmobile.wd1.myworkdayjobs.com](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Associate-Software-Engineer_REQ369269)<br><sub>recognized recruiting platform</sub> |
 | Tesla | AI Safety Operator | Jacksonville, FL | not available<br><sub>posting text not indexed</sub> | 2026-08-21 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · www.tesla.com](https://www.tesla.com/careers/search/job/266088)<br><sub>source reported</sub> |
 | TRUCKING PEOPLE | Autonomous Driver Data Tester | Sunnyvale, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-21 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · truckingpeople.applytojob.com](https://truckingpeople.applytojob.com/apply/Y4bRRgwvUB/Autonomous-Driver-Data-Tester)<br><sub>recognized recruiting platform</sub> |
 | Varian | Field Service Technician - Hardware | South Carolina | not available<br><sub>posting text not indexed</sub> | 2026-08-21 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · onehealthineers.wd3.myworkdayjobs.com](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ATL-NP/Field-Service-Technician---HW---New-Orleans--LA_R-27306-2)<br><sub>recognized recruiting platform</sub> |

@@ -4628,6 +4628,13 @@
       "url": "https://www.baltimorecity.gov/"
     },
     {
+      "company": "LeadVaultAI",
+      "error": "public request failed for https://leadvault.gethireddigital.com/: <urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)>",
+      "key": "5c5b968f12145dac3f723884",
+      "last_scanned": "2026-08-23",
+      "url": "https://leadvault.gethireddigital.com/"
+    },
+    {
       "boards": [],
       "company": "Tokenworks Inc",
       "key": "5c729cf0dc3cec7fcfbafa9f",
@@ -8579,7 +8586,7 @@
       "company": "T-Mobile",
       "error": "Invalid IPv6 URL",
       "key": "a8106192bed87328c0610b3f",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-08-23",
       "url": "https://www.t-mobile.com/"
     },
     {
@@ -11678,6 +11685,14 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://www.abbott.com/"
+    },
+    {
+      "boards": [],
+      "company": "Sandman Structural Engineers",
+      "key": "e191e0562e273d0988b29688",
+      "last_scanned": "2026-08-23",
+      "resolved_roles": 0,
+      "url": "https://www.sandmanse.com/"
     },
     {
       "boards": [],
