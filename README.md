@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,402 internships · 4,007 new-grad roles · 6,409 total openings**
+**2,405 internships · 4,001 new-grad roles · 6,406 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
 | ☀️ Summer 2027 | 889 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 489 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 102 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 41 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 881 | **[View openings →](internships/unscheduled.md)** |
+| 🍂 Fall 2026 | 491 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 104 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 39 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 882 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 767 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,134 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,106 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 1,133 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,101 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,17 +38,17 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Berkeley Industrial Engineering & Operations Research | Machine Learning Researcher at Shanghai Yanfu Investments Co., Ltd. | Indiana, United States | Not listed | not available | 2026-08-23 | **[Apply →](https://berkeley.joinhandshake.com/jobs/11278586/share_preview)**<br><sub>berkeley.joinhandshake.com</sub> |
+| Copart | Software Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-08-23 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
+| Copart | Technology Product Analyst Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-08-23 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | Analog Devices | Systems Integration Engineer Intern | Wilmington, MA, Durham, NC | Fall 2026 | not available | 2026-08-22 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Astranis Space Technologies | Flight Software Intern - Fall 2026 | San Francisco, CA | Fall 2026 | not available | 2026-08-22 | **[Apply →](https://job-boards.greenhouse.io/astranis/jobs/4619283006)**<br><sub>job-boards.greenhouse.io</sub> |
 | Copart | QA Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-08-22 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/QA-Engineering-Intern_JR109671)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
-| Copart | Software Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-08-22 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
-| Databricks | Software Engineering Intern - 2027 Start - Winter | Mountain View, CA +2 | Winter 2027 | Fall 2027–Spring 2028<br><sub>stated</sub> | 2026-08-22 | **[Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002)**<br><sub>databricks.com</sub> |
 | E-Space | RF Product Development Lab Intern | Arlington, TX | Not listed | Current student status<br><sub>stated</sub> | 2026-08-22 | **[Apply →](https://jobs.lever.co/espace/12e87c91-f00f-4aa4-a3cf-4280c3a1779d)**<br><sub>jobs.lever.co</sub> |
 | Elevate Semiconductor | Product Engineering Intern | San Diego, CA | Fall 2026 | not available | 2026-08-22 | **[Apply →](https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply)**<br><sub>apply.workable.com</sub> |
+| Figma | Software Engineer Intern - Winter 2027 | San Francisco, CA +1 | Winter 2027 | not stated | 2026-08-22 | **[Apply →](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004)**<br><sub>boards.greenhouse.io</sub> |
 | GlobalFoundries | Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027) | USA - New York - Malta | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604591)**<br><sub>globalfoundries.wd1.myworkdayjobs.com</sub> |
 | Hadron Energy, Inc. | AI Engineering Intern | California, United States | Not listed | not available | 2026-08-22 | **[Apply →](https://www.linkedin.com/jobs/view/ai-engineering-intern-at-hadron-energy-inc-4456654530?refId=LFK6UqgH%2FlVVd4xb9EWPtg%3D%3D&trackingId=by2IVng84WE8bGV9Qu4Xbg%3D%3D)**<br><sub>www.linkedin.com</sub> |
 | Hitachi | Engineering Intern | Raleigh, NC | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571)**<br><sub>hitachi.wd1.myworkdayjobs.com</sub> |
-| Microsoft | AI Software Engineer Intern - Edge | Redmond, WA, Mountain View, CA | Fall 2026 | not available | 2026-08-22 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393556979054)**<br><sub>apply.careers.microsoft.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
