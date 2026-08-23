@@ -9,7 +9,7 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,401 internships · 3,995 new-grad roles · 6,396 total openings**
+**2,406 internships · 3,986 new-grad roles · 6,392 total openings**
 
 ### 🎓 Internships
 
@@ -17,17 +17,17 @@
 |---|---:|---|
 | ☀️ Summer 2027 | 881 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 490 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 102 | **[View openings →](internships/spring-2027.md)** |
+| 🌱 Spring 2027 | 103 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 41 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 887 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 891 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 768 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,121 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,106 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 1,113 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,105 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -46,9 +46,9 @@ Recent internship and co-op listings that open the employer's application page d
 | Databricks | Software Engineering Intern - 2027 Start - Winter | Mountain View, CA +2 | Winter 2027 | Fall 2027–Spring 2028<br><sub>stated</sub> | 2026-08-22 | **[Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002)**<br><sub>databricks.com</sub> |
 | E-Space | RF Product Development Lab Intern | Arlington, TX | Not listed | Current student status<br><sub>stated</sub> | 2026-08-22 | **[Apply →](https://jobs.lever.co/espace/12e87c91-f00f-4aa4-a3cf-4280c3a1779d)**<br><sub>jobs.lever.co</sub> |
 | Elevate Semiconductor | Product Engineering Intern | San Diego, CA | Fall 2026 | not available | 2026-08-22 | **[Apply →](https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply)**<br><sub>apply.workable.com</sub> |
+| Figma | Software Engineer Intern - Winter 2027 | San Francisco, CA +1 | Winter 2027 | not stated | 2026-08-22 | **[Apply →](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004)**<br><sub>boards.greenhouse.io</sub> |
 | GlobalFoundries | Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027) | USA - New York - Malta | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604591)**<br><sub>globalfoundries.wd1.myworkdayjobs.com</sub> |
 | Hadron Energy, Inc. | AI Engineering Intern | California, United States | Not listed | not available | 2026-08-22 | **[Apply →](https://www.linkedin.com/jobs/view/ai-engineering-intern-at-hadron-energy-inc-4456654530?refId=LFK6UqgH%2FlVVd4xb9EWPtg%3D%3D&trackingId=by2IVng84WE8bGV9Qu4Xbg%3D%3D)**<br><sub>www.linkedin.com</sub> |
-| Hitachi | Engineering Intern | Raleigh, NC | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571)**<br><sub>hitachi.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,10 +58,9 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Anduril | 2027 Early Career Software Engineer | Atlanta, GA +8 | 2027 | not stated | 2026-08-23 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007)**<br><sub>boards.greenhouse.io</sub> |
 | Samsara | Software Engineer I - New Grad - SF | San Francisco, CA | 2027 | not available | 2026-08-23 | **[Apply →](https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343)**<br><sub>www.samsara.com</sub> |
 | Chime | Full-Stack Engineer - Human Agent Tooling | San Francisco, CA | 2027 | not available | 2026-08-22 | **[Apply →](https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002)**<br><sub>boards.greenhouse.io</sub> |
-| GlobalFoundries | Technology Architecture and Competitiveness Engineer (2027 New College Graduate) | USA - California - Santa Clara | 2027 | not available | 2026-08-22 | **[Apply →](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Technology-Architecture-and-Competitiveness-Engineer--2027-New-College-Graduate-_JR-2604319)**<br><sub>globalfoundries.wd1.myworkdayjobs.com</sub> |
+| GlobalFoundries | Technology Architecture and Competitiveness Engineer New Grad - Structural Analysis | Santa Clara, CA | Not listed | not available | 2026-08-22 | **[Apply →](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Technology-Architecture-and-Competitiveness-Engineer--2027-New-College-Graduate-_JR-2604319)**<br><sub>globalfoundries.wd1.myworkdayjobs.com</sub> |
 | Mimecast | Software Engineer I | Minneapolis, MN | 2027 | not available | 2026-08-22 | **[Apply →](https://mimecast.wd5.myworkdayjobs.com/en-US/mimecast-careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6604-1)**<br><sub>mimecast.wd5.myworkdayjobs.com</sub> |
 | Nuro | Software Engineer - Autonomy Visualization | Mountain View, CA | 2027 | not available | 2026-08-22 | **[Apply →](https://nuro.ai/careersitem?gh_jid=7896063)**<br><sub>nuro.ai</sub> |
 | Parsons | Software Engineer - Secret required | Aberdeen, MD | 2027 | not available | 2026-08-22 | **[Apply →](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Aberdeen/Software-Engineer---Secret-required_R184134)**<br><sub>parsons.wd5.myworkdayjobs.com</sub> |
@@ -70,6 +69,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Acadian Asset Management | Analyst – Portfolio Construction & Trading | Boston, MA | Not listed | not available | 2026-08-21 | **[Apply →](https://www.acadian-asset.com/careers/open-positions?gh_jid=4702401006)**<br><sub>www.acadian-asset.com</sub> |
 | Alfa Financial Software | Implementation Analyst - Graduate Program | Royal Oak, MI, Michigan | Not listed | not available | 2026-08-21 | **[Apply →](https://alfa.wd3.myworkdayjobs.com/alfa/job/Royal-Oak-Michigan-USA/Implementation-Analyst---Grad-Program-2027_R196)**<br><sub>alfa.wd3.myworkdayjobs.com</sub> |
 | Amazon | Front-End Engineer - 2026 - US | Seattle, WA | 2026 | not available | 2026-08-21 | **[Apply →](https://www.amazon.jobs/jobs/10428762/apply)**<br><sub>www.amazon.jobs</sub> |
+| Amentum | Software Programmer - Entry Level | US-TN-Tullahoma | 2027 | not available | 2026-08-21 | **[Apply →](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TN-Tullahoma/Software-Programmer---Entry-Level_R0168838)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
