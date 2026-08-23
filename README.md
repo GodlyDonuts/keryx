@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,428 internships · 4,072 new-grad roles · 6,500 total openings**
+**2,425 internships · 4,079 new-grad roles · 6,504 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 894 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 896 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 488 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 102 | **[View openings →](internships/spring-2027.md)** |
+| 🌱 Spring 2027 | 101 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 41 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 903 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 899 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 771 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,191 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,110 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 778 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,192 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,109 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -44,11 +44,11 @@ Recent internship and co-op listings that open the employer's application page d
 | E-Space | RF Product Development Lab Intern | Arlington, TX | Not listed | Current student status<br><sub>stated</sub> | 2026-08-22 | **[Apply →](https://jobs.lever.co/espace/12e87c91-f00f-4aa4-a3cf-4280c3a1779d)**<br><sub>jobs.lever.co</sub> |
 | Elevate Semiconductor | Product Engineering Intern | San Diego, CA | Fall 2026 | not available | 2026-08-22 | **[Apply →](https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply)**<br><sub>apply.workable.com</sub> |
 | GE Vernova | GE Vernova Nuclear Engineering Co-Op/Intern - Spring 2027 | Wilmington NC USA | Spring 2027 | not available | 2026-08-22 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Engineering-Co-Op-Intern---Spring-2027_R5048552-1)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
+| GlobalFoundries | Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027) | USA - New York - Malta | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604591)**<br><sub>globalfoundries.wd1.myworkdayjobs.com</sub> |
 | Hadron Energy, Inc. | AI Engineering Intern | California, United States | Not listed | not available | 2026-08-22 | **[Apply →](https://www.linkedin.com/jobs/view/ai-engineering-intern-at-hadron-energy-inc-4456654530?refId=LFK6UqgH%2FlVVd4xb9EWPtg%3D%3D&trackingId=by2IVng84WE8bGV9Qu4Xbg%3D%3D)**<br><sub>www.linkedin.com</sub> |
 | Hitachi | Engineering Intern | Raleigh, NC | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571)**<br><sub>hitachi.wd1.myworkdayjobs.com</sub> |
 | Magna International | Product Engineering Intern | Grand Rapids, Michigan, US | Not listed | not available | 2026-08-22 | **[Apply →](https://magna.wd3.myworkdayjobs.com/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272)**<br><sub>magna.wd3.myworkdayjobs.com</sub> |
 | Microsoft | AI Software Engineer Intern - Edge | Redmond, WA, Mountain View, CA | Fall 2026 | not available | 2026-08-22 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393556979054)**<br><sub>apply.careers.microsoft.com</sub> |
-| Pylon | Software Engineer - Intern | San Francisco, CA | Not listed | not available | 2026-08-22 | **[Apply →](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -68,7 +68,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Acadian Asset Management | Analyst – Portfolio Construction & Trading | Boston, MA | Not listed | not available | 2026-08-21 | **[Apply →](https://www.acadian-asset.com/careers/open-positions?gh_jid=4702401006)**<br><sub>www.acadian-asset.com</sub> |
 | Alfa Financial Software | Implementation Analyst - Graduate Program | Royal Oak, MI, Michigan | Not listed | not available | 2026-08-21 | **[Apply →](https://alfa.wd3.myworkdayjobs.com/alfa/job/Royal-Oak-Michigan-USA/Implementation-Analyst---Grad-Program-2027_R196)**<br><sub>alfa.wd3.myworkdayjobs.com</sub> |
 | Amazon | Front-End Engineer - 2026 - US | Seattle, WA | 2026 | not available | 2026-08-21 | **[Apply →](https://www.amazon.jobs/jobs/10428762/apply)**<br><sub>www.amazon.jobs</sub> |
-| Amentum | Software Programmer - Entry Level | US-TN-Tullahoma | 2027 | not available | 2026-08-21 | **[Apply →](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TN-Tullahoma/Software-Programmer---Entry-Level_R0168838)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
+| Amentum | Software Programmer Entry Level - Conventional Test Facility | Tullahoma, TN | 2027 | not available | 2026-08-21 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Software-Programmer---Entry-Level_R0168838)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
 | Analog Devices | Associate Digital Design Engineer | Durham, NC | Not listed | not available | 2026-08-21 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Associate-Digital-Design-Engineer_R265313)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
