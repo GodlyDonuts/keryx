@@ -1970,6 +1970,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "BTI360",
+      "key": "greenhouse:bti36021",
+      "slug": "bti36021"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Buyers Edge Platform",
       "key": "greenhouse:buyersedgeplatformrecruiting",
       "slug": "buyersedgeplatformrecruiting"
@@ -4074,6 +4080,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Caesars Entertainment",
+      "host": "edmn.fa.us2.oraclecloud.com",
+      "key": "oracle:edmn.fa.us2.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "edmn"
+    },
+    {
+      "ats": "oracle",
       "company": "GCI",
       "host": "edqv.fa.us2.oraclecloud.com",
       "key": "oracle:edqv.fa.us2.oraclecloud.com:cx",
@@ -5040,6 +5054,12 @@
     },
     {
       "ats": "smartrecruiters",
+      "company": "Hardin Design",
+      "key": "smartrecruiters:hardindesign",
+      "slug": "HardinDesign"
+    },
+    {
+      "ats": "smartrecruiters",
       "company": "Horizon Technologies",
       "key": "smartrecruiters:horizontechnologiesinc",
       "slug": "HorizonTechnologiesInc"
@@ -5307,6 +5327,12 @@
       "company": "Smarter Agent",
       "key": "smartrecruiters:smarteragent",
       "slug": "SmarterAgent"
+    },
+    {
+      "ats": "smartrecruiters",
+      "company": "Sopra Steria",
+      "key": "smartrecruiters:soprasteria1",
+      "slug": "SopraSteria1"
     },
     {
       "ats": "smartrecruiters",
@@ -7731,7 +7757,7 @@
     },
     {
       "ats": "workday",
-      "company": "Econic Partners, LLC",
+      "company": "Econic Partners",
       "host": "econicpartners.wd501.myworkdayjobs.com",
       "key": "workday:econicpartners.wd501.myworkdayjobs.com:econicpartners:econicpartnerscareers",
       "site": "econicpartnerscareers",
