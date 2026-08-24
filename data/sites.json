@@ -892,6 +892,13 @@
       "url": "https://hbconstruction.com/"
     },
     {
+      "company": "Unity",
+      "error": "public request failed for https://unity.com/: The read operation timed out",
+      "key": "110511923a49f696234eb412",
+      "last_scanned": "2026-08-24",
+      "url": "https://unity.com/"
+    },
+    {
       "company": "Sparrow",
       "error": "Invalid IPv6 URL",
       "key": "110cddf3734f336350a50838",
@@ -1056,6 +1063,16 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://www.we-energies.com/"
+    },
+    {
+      "boards": [
+        "greenhouse:realchemistry"
+      ],
+      "company": "Real Chemistry",
+      "key": "136d6451471bce737ba75b5d",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.realchemistry.com/"
     },
     {
       "boards": [],
@@ -2576,6 +2593,14 @@
       "last_scanned": "2026-08-16",
       "resolved_roles": 0,
       "url": "https://pac-res.com/"
+    },
+    {
+      "boards": [],
+      "company": "PACCAR Technical Center",
+      "key": "301a90b68474b03caf8c0cb1",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://jobs.paccar.com/"
     },
     {
       "boards": [],
@@ -7669,6 +7694,14 @@
       "url": "https://www.tcsg.edu/"
     },
     {
+      "boards": [],
+      "company": "ASUS",
+      "key": "8911bc597d69ad10c896205f",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.asus.com/"
+    },
+    {
       "boards": [
         "workable:vectoratomic"
       ],
@@ -12014,6 +12047,16 @@
     },
     {
       "boards": [
+        "workable:coldquanta"
+      ],
+      "company": "Infleqtion",
+      "key": "d5abe18e26b760cf24016403",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.infleqtion.com/"
+    },
+    {
+      "boards": [
         "oracle:ebwh.fa.us2.oraclecloud.com:cx_1"
       ],
       "company": "Macy's",
@@ -13298,6 +13341,14 @@
       "url": "https://www.esri.com/"
     },
     {
+      "boards": [],
+      "company": "Hardin Design and Development",
+      "key": "ec79c55127e052f0304ec4b9",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.hardindd.com/"
+    },
+    {
       "company": "Delta Air Lines",
       "error": "public request failed for https://www.delta.com/: HTTP Error 444: Unknown",
       "key": "ec7c99f34f2e512e16326371",
@@ -14425,7 +14476,7 @@
       "boards": [],
       "company": "Cisco",
       "key": "ffe73313afcd583bad135788",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.cisco.com/"
     },
