@@ -439,6 +439,14 @@
       "url": "https://www.zymoresearch.com/"
     },
     {
+      "boards": [],
+      "company": "Aptar",
+      "key": "08f37708b1a9af1e9c06d318",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.aptar.com/pharmaceutical/"
+    },
+    {
       "company": "Michelin",
       "error": "Invalid IPv6 URL",
       "key": "08f88b5076479643f46443da",
@@ -2889,6 +2897,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://hruckus.com/"
+    },
+    {
+      "company": "Arthur D. Little",
+      "error": "public request failed for https://www.adlittle.com/: HTTP Error 403: Forbidden",
+      "key": "39ea65421733011c6d0afb7e",
+      "last_scanned": "2026-08-24",
+      "url": "https://www.adlittle.com/"
     },
     {
       "company": "Zest AI",
@@ -7368,7 +7383,7 @@
       "company": "Salt River Project",
       "error": "public request failed for https://www.srpnet.com/: HTTP Error 403: Forbidden",
       "key": "8be39d0fbc5b3c08fd9927a2",
-      "last_scanned": "2026-08-21",
+      "last_scanned": "2026-08-24",
       "url": "https://www.srpnet.com/"
     },
     {
@@ -9532,6 +9547,13 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://www.newyorklife.com/"
+    },
+    {
+      "company": "Phoenix Contact USA",
+      "error": "public request failed for https://www.phoenixcontact.com/en-us/: HTTP Error 403: Forbidden",
+      "key": "b4ac14ada647731cc5239ee8",
+      "last_scanned": "2026-08-24",
+      "url": "https://www.phoenixcontact.com/en-us/"
     },
     {
       "boards": [],
@@ -13624,6 +13646,14 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://www.freddiemac.com/"
+    },
+    {
+      "boards": [],
+      "company": "Oak Ridge National Laboratory",
+      "key": "ff612cfcb0d505730515f4b9",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.ornl.gov/"
     },
     {
       "boards": [],

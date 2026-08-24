@@ -1987,6 +1987,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Celonis",
+      "key": "greenhouse:celonis",
+      "slug": "celonis"
+    },
+    {
+      "ats": "greenhouse",
       "company": "CHAOS Industries",
       "key": "greenhouse:chaosindustries",
       "slug": "chaosindustries"
@@ -7444,7 +7450,7 @@
     },
     {
       "ats": "workday",
-      "company": "The Walt Disney Company",
+      "company": "Walt Disney",
       "host": "disney.wd5.myworkdayjobs.com",
       "key": "workday:disney.wd5.myworkdayjobs.com:disney:disneycareerdc",
       "site": "disneycareerdc",
