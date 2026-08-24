@@ -519,6 +519,16 @@
       "url": "https://www.usepylon.com/"
     },
     {
+      "boards": [
+        "workday:jj.wd5.myworkdayjobs.com:jj:jj"
+      ],
+      "company": "Johnson & Johnson",
+      "key": "0a8cb61440405e6975b48904",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 1,
+      "url": "https://www.jnj.com/"
+    },
+    {
       "boards": [],
       "company": "GFT",
       "key": "0acd07d088b31d51b4df0ff5",
@@ -3184,6 +3194,14 @@
     },
     {
       "boards": [],
+      "company": "KBR, Inc.",
+      "key": "3f4720bda72ba3e8e84c8f8b",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.kbr.com/"
+    },
+    {
+      "boards": [],
       "company": "NYCM Insurance",
       "key": "3f4cab3e5fe4b2559c388be8",
       "last_scanned": "2026-08-15",
@@ -3199,6 +3217,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.kbra.com/"
+    },
+    {
+      "company": "Avis Budget Group",
+      "error": "public request failed for https://avisbudgetgroup.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "key": "3f82898c841c3f901406e7e9",
+      "last_scanned": "2026-08-24",
+      "url": "https://avisbudgetgroup.com/"
     },
     {
       "boards": [],
@@ -6197,7 +6222,7 @@
       ],
       "company": "True Anomaly",
       "key": "74d3c2fe048e4c88b48e3900",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.trueanomaly.space/"
     },
@@ -6474,6 +6499,14 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://www.hubbell.com/"
+    },
+    {
+      "boards": [],
+      "company": "The Cordish Companies",
+      "key": "782e2ad853b7210fb8b6b7e7",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.cordish.com/"
     },
     {
       "boards": [],
@@ -9214,6 +9247,14 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://atriumhospitality.com/"
+    },
+    {
+      "boards": [],
+      "company": "New York State Office of Mental Health",
+      "key": "ace9cd13f68aaa54f0d8e3ec",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://omh.ny.gov/"
     },
     {
       "company": "JLL",
@@ -12115,6 +12156,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://truckerpath.com/"
+    },
+    {
+      "boards": [
+        "workday:nwis.wd12.myworkdayjobs.com:nwis:nw"
+      ],
+      "company": "Nightwing",
+      "key": "dea144db8a147a54b06e4460",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.nightwing.com/"
     },
     {
       "boards": [],

@@ -10272,7 +10272,7 @@
       "company": "Polaris",
       "host": "polaris.wd5.myworkdayjobs.com",
       "key": "workday:polaris.wd5.myworkdayjobs.com:polaris:polarisjobs",
-      "site": "polarisjobs",
+      "site": "PolarisJobs",
       "slug": "polaris",
       "wd": "wd5"
     },
@@ -10444,6 +10444,15 @@
       "host": "raymondjames.wd1.myworkdayjobs.com",
       "key": "workday:raymondjames.wd1.myworkdayjobs.com:raymondjames:raymondjamescareers",
       "site": "RaymondJamesCareers",
+      "slug": "raymondjames",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Raymond James Financial",
+      "host": "raymondjames.wd1.myworkdayjobs.com",
+      "key": "workday:raymondjames.wd1.myworkdayjobs.com:raymondjames:raymondjamesearlycareers",
+      "site": "RaymondJamesEarlyCareers",
       "slug": "raymondjames",
       "wd": "wd1"
     },

@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,508 internships · 3,980 new-grad roles · 6,488 total openings**
+**2,493 internships · 3,992 new-grad roles · 6,485 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 928 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 490 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 185 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 48 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 857 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 931 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 488 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 174 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 49 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 851 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 756 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,120 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,104 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 761 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,130 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,101 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -48,7 +48,7 @@ Recent internship and co-op listings that open the employer's application page d
 | Audax Group | IT Operations Co-Op | New York, New York, United States | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722759005)**<br><sub>job-boards.greenhouse.io</sub> |
 | Audax Private Equity | CO-OP, Portfolio Valuation & Analytics | Boston, MA | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxprivateequity/jobs/4722687005)**<br><sub>job-boards.greenhouse.io</sub> |
 | Audax Private Equity | Data Analyst, Business Development CO-OP | Boston, MA | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxprivateequity/jobs/4722720005)**<br><sub>job-boards.greenhouse.io</sub> |
-| BNY | 2027 BNY Summer Internship Program - Engineering (Data Science) - Jersey City, NJ | Jersey City, NJ, United States | Summer 2027 | Dec 2027–May 2028<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81238)**<br><sub>eofe.fa.us2.oraclecloud.com</sub> |
+| Availity | Data Science Intern | Remote - United States | Not listed | not available | 2026-08-24 | **[Apply →](https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Data-Science-Intern_R0008485)**<br><sub>availity.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -67,9 +67,9 @@ Recent full-time opportunities that open the employer's application page directl
 | Pennsylvania State University | Operations Research Engineer Intern - Undersea Systems | State College, PA | Not listed | not available | 2026-08-24 | **[Apply →](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Operations-Research-Undersea-Systems-Analyst_REQ_0000081646-1)**<br><sub>psu.wd1.myworkdayjobs.com</sub> |
 | PNC Financial Services | Data Associate - Data and Automation | Pittsburgh, PA | Not listed | not available | 2026-08-24 | **[Apply →](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data-Associate_R233603-1)**<br><sub>pnc.wd5.myworkdayjobs.com</sub> |
 | Procter & Gamble | Advanced Analytics Manager - Analytics & Insights | Fayetteville, NC, Boston, MA, Virginia Beach, VA, Mason, OH, Minneapolis, MN, Cincinnati, OH | Not listed | not available | 2026-08-24 | **[Apply →](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Analytics---Insights-Advanced-Analytics-Manager_R000157700)**<br><sub>pg.wd5.myworkdayjobs.com</sub> |
+| Raymond James Financial | Associate Experience Analytics Advisor | Memphis, TN, Southfield, MI, St. Petersburg, FL | Not listed | not available | 2026-08-24 | **[Apply →](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Advisor--Associate-Experience-Analytics_R-0012678)**<br><sub>raymondjames.wd1.myworkdayjobs.com</sub> |
+| Raymond James Financial | Information Technology Accelerated Development Program - Software Developer Track | St. Petersburg, FL | Not listed | not available | 2026-08-24 | **[Apply →](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-IT-Accelerated-Development-Program--ADP----Software-Developer-Track---St-Petersburg--FL_R-0012718)**<br><sub>raymondjames.wd1.myworkdayjobs.com</sub> |
 | REI Systems | Associate Software Engineer - Salesforce | Sterling, VA | Not listed | not available | 2026-08-24 | **[Apply →](https://careers-reisystems.icims.com/jobs/3495/job?mobile=true&needsRedirect=false)**<br><sub>careers-reisystems.icims.com</sub> |
-| TraceLink | Software Engineer 1 - Engineering Services | Wilmington, MA | Not listed | not available | 2026-08-24 | **[Apply →](https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5217396007)**<br><sub>www.tracelink.com</sub> |
-| Travelers | Investment Analyst Development Program | St Paul, MN | Not listed | not available | 2026-08-24 | **[Apply →](https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Investment-Analyst-Development-Program_R-52105)**<br><sub>travelers.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
