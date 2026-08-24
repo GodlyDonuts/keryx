@@ -1642,6 +1642,14 @@
     },
     {
       "boards": [],
+      "company": "Cherry Street Energy",
+      "key": "1fe442779bc497bb3d5e5a6f",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.cherrystreet.com/"
+    },
+    {
+      "boards": [],
       "company": "Adobe",
       "key": "200ae71ab6f9f1c8fd8cea2b",
       "last_scanned": "2026-08-15",
@@ -2494,6 +2502,13 @@
       "url": "https://adlinktech.com/"
     },
     {
+      "company": "Republic Finance",
+      "error": "public hostname did not resolve: republicfinance.com",
+      "key": "305ccc5f78d4253152ecdc3d",
+      "last_scanned": "2026-08-24",
+      "url": "https://republicfinance.com/"
+    },
+    {
       "boards": [],
       "company": "SMUD",
       "key": "3072ece8d718babda76de742",
@@ -2792,6 +2807,16 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://us.pg.com/"
+    },
+    {
+      "boards": [
+        "ashby:gritt"
+      ],
+      "company": "Gritt AI",
+      "key": "367361b4b18ffa4db4ba5815",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://gritt.ai/"
     },
     {
       "company": "SC Capital Management LLC",
@@ -4995,6 +5020,14 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.baltimorecity.gov/"
+    },
+    {
+      "boards": [],
+      "company": "Packaging Corporation of America",
+      "key": "5c2297a068e47c979e0c89ef",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://packagingcorp.com/"
     },
     {
       "company": "LeadVaultAI",
@@ -7395,6 +7428,17 @@
       "key": "87c876f4f6460fab564c5a62",
       "last_scanned": "2026-08-21",
       "url": "https://travoom.com/"
+    },
+    {
+      "boards": [
+        "workday:smucker.wd5.myworkdayjobs.com:smucker:canada_external_careers",
+        "workday:smucker.wd5.myworkdayjobs.com:smucker:us_external_careers"
+      ],
+      "company": "The J.M. Smucker Co.",
+      "key": "87cb5c62da59a801ccad2886",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.jmsmucker.com/"
     },
     {
       "boards": [],
@@ -10048,6 +10092,26 @@
     },
     {
       "boards": [
+        "bamboohr:ipconfigure"
+      ],
+      "company": "IPConfigure Inc.",
+      "key": "b728b1835ebafa16fbca7a38",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.ipconfigure.com/"
+    },
+    {
+      "boards": [
+        "oracle:icfcjb.fa.ocs.oraclecloud.com:aerospace"
+      ],
+      "company": "Honeywell Aerospace",
+      "key": "b78265621b04acc175ec0f76",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.honeywellaerospace.com/"
+    },
+    {
+      "boards": [
         "greenhouse:universityofchicagoeconomics"
       ],
       "company": "Becker Friedman Institute for Economics",
@@ -12291,7 +12355,7 @@
       "boards": [],
       "company": "Jacobs",
       "key": "de695d04728cef40ea172975",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.jacobs.com/"
     },
@@ -12814,7 +12878,7 @@
       "company": "Port of Seattle",
       "error": "public request failed for https://www.portseattle.org/Pages/default.aspx: HTTP Error 404: Not Found",
       "key": "e9f6f06029a15a885474fd00",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-08-24",
       "url": "https://www.portseattle.org/Pages/default.aspx"
     },
     {

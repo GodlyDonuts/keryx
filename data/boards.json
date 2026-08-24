@@ -1586,6 +1586,13 @@
     },
     {
       "ats": "bamboohr",
+      "company": "IPConfigure Inc.",
+      "host": "ipconfigure.bamboohr.com",
+      "key": "bamboohr:ipconfigure",
+      "slug": "ipconfigure"
+    },
+    {
+      "ats": "bamboohr",
       "company": "Lexical Intelligence",
       "host": "lexical.bamboohr.com",
       "key": "bamboohr:lexical",
@@ -4756,6 +4763,14 @@
       "key": "oracle:ibwujb.fa.ocs.oraclecloud.com:cx_1001",
       "site": "CX_1001",
       "slug": "ibwujb"
+    },
+    {
+      "ats": "oracle",
+      "company": "Honeywell Aerospace",
+      "host": "icfcjb.fa.ocs.oraclecloud.com",
+      "key": "oracle:icfcjb.fa.ocs.oraclecloud.com:aerospace",
+      "site": "Aerospace",
+      "slug": "icfcjb"
     },
     {
       "ats": "oracle",
@@ -9587,6 +9602,15 @@
     },
     {
       "ats": "workday",
+      "company": "Monolithic Power Systems",
+      "host": "monolithicpower.wd12.myworkdayjobs.com",
+      "key": "workday:monolithicpower.wd12.myworkdayjobs.com:monolithicpower:mps_careers",
+      "site": "MPS_Careers",
+      "slug": "monolithicpower",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
       "company": "Moog",
       "host": "moog.wd5.myworkdayjobs.com",
       "key": "workday:moog.wd5.myworkdayjobs.com:moog:moog_external_career_site",
@@ -10933,6 +10957,24 @@
       "key": "workday:smithnephew.wd5.myworkdayjobs.com:smithnephew:external",
       "site": "External",
       "slug": "smithnephew",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "The J.M. Smucker Co.",
+      "host": "smucker.wd5.myworkdayjobs.com",
+      "key": "workday:smucker.wd5.myworkdayjobs.com:smucker:canada_external_careers",
+      "site": "Canada_External_Careers",
+      "slug": "smucker",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "The J.M. Smucker Co.",
+      "host": "smucker.wd5.myworkdayjobs.com",
+      "key": "workday:smucker.wd5.myworkdayjobs.com:smucker:us_external_careers",
+      "site": "US_External_Careers",
+      "slug": "smucker",
       "wd": "wd5"
     },
     {

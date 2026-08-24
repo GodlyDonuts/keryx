@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,513 internships · 3,978 new-grad roles · 6,491 total openings**
+**2,549 internships · 3,966 new-grad roles · 6,515 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 940 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 489 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 165 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 50 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 869 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 944 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 486 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 169 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 51 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 899 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 765 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,103 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,110 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 756 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,104 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,106 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -39,10 +39,10 @@ Recent internship and co-op listings that open the employer's application page d
 |---|---|---|---|---|---:|---|
 | Analog Devices | Digital Design Engineer Intern | San Jose, CA, Durham, NC | Fall 2026 | not available | 2026-08-24 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Analog Devices | Product Engineer Intern - Product Development | Wilmington, MA, Durham, NC | Fall 2026 | not available | 2026-08-24 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
-| Audax Group | AI Engineer Co-Op | Boston, MA | Spring 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Audax Group | AI Engineer Co-op | Boston, MA | Spring 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005)**<br><sub>job-boards.greenhouse.io</sub> |
 | Audax Group | Data Analytics Co-Op | Boston, MA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722880005)**<br><sub>job-boards.greenhouse.io</sub> |
 | Audax Group | Data Engineer Co-Op | Boston, Massachusetts | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722770005)**<br><sub>job-boards.greenhouse.io</sub> |
-| Audax Group | Data Engineer CO-OP | Boston, MA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722779005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Audax Group | Data Engineer Co-op | Boston, MA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722779005)**<br><sub>job-boards.greenhouse.io</sub> |
 | Audax Group | Investor Relations CO-OP | New York | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4726930005)**<br><sub>job-boards.greenhouse.io</sub> |
 | Audax Group | IT Operations Co-Op | Boston, MA | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722750005)**<br><sub>job-boards.greenhouse.io</sub> |
 | Audax Group | IT Operations Co-Op | New York, New York, United States | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722759005)**<br><sub>job-boards.greenhouse.io</sub> |
