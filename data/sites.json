@@ -1933,7 +1933,7 @@
       ],
       "company": "Public Consulting Group",
       "key": "27b21c948a6b90fe713cd865",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.publicconsultinggroup.com/"
     },
@@ -3033,6 +3033,17 @@
       "last_scanned": "2026-08-20",
       "resolved_roles": 0,
       "url": "https://grangerconstruction.com/"
+    },
+    {
+      "boards": [
+        "workday:cmu.wd115.myworkdayjobs.com:cmu:cmu",
+        "workday:cmu.wd115.myworkdayjobs.com:cmu:sei"
+      ],
+      "company": "Carnegie Mellon University",
+      "key": "3c0141232566b990a23b9c86",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.cmu.edu/"
     },
     {
       "company": "Disneyland Resort",
@@ -11173,6 +11184,14 @@
     },
     {
       "boards": [],
+      "company": "Sony Interactive Entertainment",
+      "key": "cfe0fb38685ebbffaac12cd7",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.sie.com/"
+    },
+    {
+      "boards": [],
       "company": "Publicis Canada",
       "key": "cfe857afd8560a95b43c915b",
       "last_scanned": "2026-08-22",
@@ -13689,6 +13708,13 @@
       "key": "fdd9fdefbf94bcc1eb6163ea",
       "last_scanned": "2026-08-19",
       "url": "https://www.corning.com/"
+    },
+    {
+      "company": "TraceLink",
+      "error": "public request failed for https://www.tracelink.com: HTTP Error 403: Forbidden",
+      "key": "fe3582bcfa09ec38ff31e31c",
+      "last_scanned": "2026-08-24",
+      "url": "https://tracelink.com/"
     },
     {
       "boards": [],
