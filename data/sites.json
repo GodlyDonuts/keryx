@@ -4838,8 +4838,9 @@
     {
       "boards": [],
       "company": "AE2S (Advanced Engineering and Environmental Services, LLC)",
+      "error": "public request failed for https://www.ae2s.com/: HTTP Error 403: Forbidden",
       "key": "5e309f5a9106891cfcc8d051",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-24",
       "resolved_roles": 1,
       "url": "https://ae2s.com/"
     },
@@ -6173,6 +6174,14 @@
     },
     {
       "boards": [],
+      "company": "Element Materials Technology",
+      "key": "76daa639440354ce3f09c973",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.element.com/"
+    },
+    {
+      "boards": [],
       "company": "Constellis",
       "key": "77045f5de8e16a69751890e5",
       "last_scanned": "2026-08-15",
@@ -6865,6 +6874,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.sri.com/"
+    },
+    {
+      "boards": [],
+      "company": "Ludwig Computing",
+      "key": "84062f6c9725c47435e572bd",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.ludwigcomputing.com/"
     },
     {
       "boards": [],
@@ -10877,7 +10894,7 @@
       "company": "Solar Turbines",
       "error": "public request failed for https://www.solarturbines.com/: The read operation timed out",
       "key": "cea5c5bef940afaa674ce18f",
-      "last_scanned": "2026-08-20",
+      "last_scanned": "2026-08-24",
       "url": "https://www.solarturbines.com/"
     },
     {
