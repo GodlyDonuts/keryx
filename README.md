@@ -9,7 +9,7 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,405 internships · 3,988 new-grad roles · 6,393 total openings**
+**2,445 internships · 3,980 new-grad roles · 6,425 total openings**
 
 ### 🎓 Internships
 
@@ -19,14 +19,14 @@
 | 🍂 Fall 2026 | 492 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 103 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 41 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 885 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 925 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 767 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,113 | **[View openings →](new-grad/2026.md)** |
+| 2026 | 1,105 | **[View openings →](new-grad/2026.md)** |
 | Year not listed | 2,108 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
@@ -46,9 +46,9 @@ Recent internship and co-op listings that open the employer's application page d
 | Databricks | Software Engineering Intern - 2027 Start - Winter | Mountain View, CA +2 | Winter 2027 | Fall 2027–Spring 2028<br><sub>stated</sub> | 2026-08-22 | **[Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002)**<br><sub>databricks.com</sub> |
 | E-Space | RF Product Development Lab Intern | Arlington, TX | Not listed | Current student status<br><sub>stated</sub> | 2026-08-22 | **[Apply →](https://jobs.lever.co/espace/12e87c91-f00f-4aa4-a3cf-4280c3a1779d)**<br><sub>jobs.lever.co</sub> |
 | Elevate Semiconductor | Product Engineering Intern | San Diego, CA | Fall 2026 | not available | 2026-08-22 | **[Apply →](https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply)**<br><sub>apply.workable.com</sub> |
-| GlobalFoundries | Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027) | USA - New York - Malta | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604591)**<br><sub>globalfoundries.wd1.myworkdayjobs.com</sub> |
 | Hadron Energy, Inc. | AI Engineering Intern | California, United States | Not listed | not available | 2026-08-22 | **[Apply →](https://www.linkedin.com/jobs/view/ai-engineering-intern-at-hadron-energy-inc-4456654530?refId=LFK6UqgH%2FlVVd4xb9EWPtg%3D%3D&trackingId=by2IVng84WE8bGV9Qu4Xbg%3D%3D)**<br><sub>www.linkedin.com</sub> |
 | Hitachi | Engineering Intern | Raleigh, NC | Summer 2027 | not available | 2026-08-22 | **[Apply →](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571)**<br><sub>hitachi.wd1.myworkdayjobs.com</sub> |
+| Microsoft | AI Software Engineer Intern - Edge | Redmond, WA, Mountain View, CA | Fall 2026 | not available | 2026-08-22 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393556979054)**<br><sub>apply.careers.microsoft.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
