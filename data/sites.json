@@ -705,6 +705,14 @@
       "url": "https://thecentersohio.org/"
     },
     {
+      "boards": [],
+      "company": "Powell Industries Inc.",
+      "key": "0e24d8d06e2fa52a283844e2",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://powellindustries.com/"
+    },
+    {
       "company": "Nuance Labs",
       "error": "public request failed for https://www.nuancelabs.net/: <urlopen error [Errno 111] Connection refused>",
       "key": "0e37580b851144b1fea6e215",
@@ -4516,6 +4524,16 @@
       "url": "https://wealthcounsel.com/"
     },
     {
+      "boards": [
+        "oracle:ekcf.fa.us6.oraclecloud.com:cx_1"
+      ],
+      "company": "Powell",
+      "key": "575604585a13a0d7fdf9c704",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.powellind.com/"
+    },
+    {
       "boards": [],
       "company": "4Excelsior Inc",
       "key": "5782ba2b0fc7805703d539a3",
@@ -5932,6 +5950,14 @@
       "url": "https://www.bakertilly.global/"
     },
     {
+      "boards": [],
+      "company": "Fishbeck",
+      "key": "709afc945bb40df6fc1d88ce",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://fishbeck.com/"
+    },
+    {
       "boards": [
         "workday:websteronline.wd12.myworkdayjobs.com:websteronline:websterexternalcareersite"
       ],
@@ -5960,7 +5986,7 @@
       "boards": [],
       "company": "VECARIUS, Inc.",
       "key": "7175e044b21bb8fd5d50a476",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.vecarius.com/"
     },
@@ -8520,6 +8546,16 @@
       "last_scanned": "2026-08-20",
       "resolved_roles": 0,
       "url": "https://ladenburg.com/"
+    },
+    {
+      "boards": [
+        "smartrecruiters:kawvalleyengineeringinc"
+      ],
+      "company": "Kaw Valley Engineering",
+      "key": "a13303d26eec8b5f3602eecb",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://kveng.com/"
     },
     {
       "boards": [],
@@ -11821,6 +11857,14 @@
       "last_scanned": "2026-08-20",
       "resolved_roles": 0,
       "url": "https://www.horizon-next.com/"
+    },
+    {
+      "boards": [],
+      "company": "C10 Labs",
+      "key": "db194b5fada2c429f6fb4bf4",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.c10labs.com/"
     },
     {
       "boards": [],

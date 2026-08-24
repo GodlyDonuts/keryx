@@ -9,24 +9,24 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,495 internships · 3,989 new-grad roles · 6,484 total openings**
+**2,508 internships · 3,980 new-grad roles · 6,488 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 915 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 491 | **[View openings →](internships/fall-2026.md)** |
+| ☀️ Summer 2027 | 928 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 490 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 185 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 49 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 855 | **[View openings →](internships/unscheduled.md)** |
+| ❄️ Winter 2027 | 48 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 857 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 760 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,125 | **[View openings →](new-grad/2026.md)** |
+| 2027 | 756 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,120 | **[View openings →](new-grad/2026.md)** |
 | Year not listed | 2,104 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 

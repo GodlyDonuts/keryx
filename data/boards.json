@@ -4243,6 +4243,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Powell",
+      "host": "ekcf.fa.us6.oraclecloud.com",
+      "key": "oracle:ekcf.fa.us6.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "ekcf"
+    },
+    {
+      "ats": "oracle",
       "company": "Omnicell",
       "host": "elrj.fa.us2.oraclecloud.com",
       "key": "oracle:elrj.fa.us2.oraclecloud.com:cx_9001",
@@ -5008,6 +5016,12 @@
       "company": "Jobs for Humanity",
       "key": "smartrecruiters:jobsforhumanity",
       "slug": "JobsForHumanity"
+    },
+    {
+      "ats": "smartrecruiters",
+      "company": "Kaw Valley Engineering",
+      "key": "smartrecruiters:kawvalleyengineeringinc",
+      "slug": "KawValleyEngineeringInc"
     },
     {
       "ats": "smartrecruiters",
