@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,438 internships · 3,961 new-grad roles · 6,399 total openings**
+**2,466 internships · 3,954 new-grad roles · 6,420 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 884 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 484 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 126 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 883 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 486 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 150 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 41 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 903 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 906 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 767 | **[View openings →](new-grad/2027.md)** |
+| 2027 | 765 | **[View openings →](new-grad/2027.md)** |
 | 2026 | 1,092 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,102 | **[View openings →](new-grad/unscheduled.md)** |
+| Year not listed | 2,097 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -42,12 +42,12 @@ Recent internship and co-op listings that open the employer's application page d
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-08-23 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | Copart | Technology Product Analyst Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-08-23 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | Figma | Software Engineer Intern - Winter 2027 | San Francisco, CA +1 | Winter 2027 | not stated | 2026-08-23 | **[Apply →](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004)**<br><sub>boards.greenhouse.io</sub> |
+| The Walt Disney Company | Assistive Technology Intern, Spring 2027 | Lake Buena Vista, FL, USA | Spring 2027 | not available | 2026-08-23 | **[Apply →](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Assistive-Technology-Intern--Spring-2027_10156692-1)**<br><sub>disney.wd5.myworkdayjobs.com</sub> |
 | The Walt Disney Company | Labor Systems Data Analytics & Integration Intern, Spring 2027 | Lake Buena Vista, FL, USA | Spring 2027 | not available | 2026-08-23 | **[Apply →](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1)**<br><sub>disney.wd5.myworkdayjobs.com</sub> |
 | The Walt Disney Company | Labor Systems Web Integration Intern, Spring 2027 | Lake Buena Vista, FL, USA | Spring 2027 | not available | 2026-08-23 | **[Apply →](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Web-Integration-Intern--Spring-2027_10158184)**<br><sub>disney.wd5.myworkdayjobs.com</sub> |
 | The Walt Disney Company | Walt Disney World Transportation Logistics & Analytics Intern, Spring 2027 | Lake Buena Vista, FL, USA | Spring 2027 | not available | 2026-08-23 | **[Apply →](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Spring-2027_10158253-1)**<br><sub>disney.wd5.myworkdayjobs.com</sub> |
 | The Walt Disney Company | Walt Disney World Workforce Management Industrial Engineering Intern, Spring/Summer 2027 | Lake Buena Vista, FL, USA | Summer 2027 | not available | 2026-08-23 | **[Apply →](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144)**<br><sub>disney.wd5.myworkdayjobs.com</sub> |
 | The Walt Disney Company | WDI Civil Engineering Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | Spring 2027 | not available | 2026-08-23 | **[Apply →](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Civil-Engineering-Intern--Orlando--Spring-2027_10158161-1)**<br><sub>disney.wd5.myworkdayjobs.com</sub> |
-| The Walt Disney Company | WDI Ride Control Engineering Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | Spring 2027 | not available | 2026-08-23 | **[Apply →](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Ride-Control-Engineering-Intern--Orlando--Spring-2027_10159013)**<br><sub>disney.wd5.myworkdayjobs.com</sub> |
 | The Walt Disney Company | WDI Ride Development Engineering Intern, Spring 2027 | Lake Buena Vista, FL, USA | Spring 2027 | not available | 2026-08-23 | **[Apply →](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Ride-Development-Engineering-Intern--Spring-2027_10158669)**<br><sub>disney.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
