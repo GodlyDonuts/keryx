@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**2119 open roles**
+**2120 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -2035,6 +2035,7 @@
 | Amentum | Early Career Mechanical Engineer | US-TN-Oak Ridge | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://pae.wd1.myworkdayjobs.com/amentum_careers) | [apply · pae.wd1.myworkdayjobs.com](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TN-Oak-Ridge/Jr-Level-Mechanical-Engineer----Hybrid-Remote-_R0159519)<br><sub>ATS checked</sub> |
 | Amentum | Early Career Payload Integration Systems Engineer (ES2) | US-AL-Huntsville | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://pae.wd1.myworkdayjobs.com/amentum_careers) | [apply · pae.wd1.myworkdayjobs.com](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Early-Career-Payload-Integration-Systems-Engineer--ES2-_R0168556)<br><sub>ATS checked</sub> |
 | Amentum | Entry-Level Mechanical Engineer | US-TN-Oak Ridge | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://pae.wd1.myworkdayjobs.com/amentum_careers) | [apply · pae.wd1.myworkdayjobs.com](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TN-Oak-Ridge/Entry-Level-Mechanical-Engineer_R0168181)<br><sub>ATS checked</sub> |
+| American Electric Power | CEMS Engineer Associate (entry-level) / GENERATION FLEET | Columbus, OH | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://aep.wd1.myworkdayjobs.com/AEPCareerSite) | [apply · aep.wd1.myworkdayjobs.com](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/CEMS-Engineer-Associate--entry-level----GENERATION-FLEET_R17881)<br><sub>ATS checked</sub> |
 | Apollo Mission Critical Engineering | Business Analyst – Strategy & Innovation - Entry Level | Atlanta, Georgia | not stated<br><sub>direct ATS text · checked 2026-08-23</sub> | — | [Bamboohr direct](https://apollomce.bamboohr.com/careers) | [apply · apollomce.bamboohr.com](https://apollomce.bamboohr.com/careers/71/)<br><sub>ATS checked</sub> |
 | Applied Materials | AGS Training Services New Product (NPI) Instructor (Early Career) | Santa Clara,CA | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://amat.wd1.myworkdayjobs.com/External) | [apply · amat.wd1.myworkdayjobs.com](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AGS-Training-Services-New-Product--NPI--Instructor--Early-Career-_R2618491)<br><sub>ATS checked</sub> |
 | Applied Materials | FP&A Analyst New College Grad (MBA - Santa Clara, CA) | Santa Clara,CA | not available<br><sub>posting text not indexed</sub> | — | [Workday direct](https://amat.wd1.myworkdayjobs.com/External) | [apply · amat.wd1.myworkdayjobs.com](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/FP-A-Analyst-New-College-Grad--MBA---Santa-Clara--CA-_R2624935)<br><sub>ATS checked</sub> |
