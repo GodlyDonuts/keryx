@@ -197,7 +197,7 @@
       "boards": [],
       "company": "CGI",
       "key": "04073a5dac644599f14553d1",
-      "last_scanned": "2026-08-16",
+      "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.cgi.com/"
     },
@@ -1802,6 +1802,14 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://www.kla.com/"
+    },
+    {
+      "boards": [],
+      "company": "Chick-fil-A Corporate Support Center",
+      "key": "211e2e6b02adf958b6855443",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.chick-fil-a.com/"
     },
     {
       "boards": [],
@@ -3657,6 +3665,14 @@
     },
     {
       "boards": [],
+      "company": "Chick-fil-A Supply",
+      "key": "44ab91292edd5f86ddeebc73",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.cfa-supply.com/"
+    },
+    {
+      "boards": [],
       "company": "Cognizant",
       "key": "44c90218b366ea08d1e4ae36",
       "last_scanned": "2026-08-22",
@@ -4013,7 +4029,7 @@
       ],
       "company": "IMEG",
       "key": "4affcd6d530a630f7d84eceb",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.imegcorp.com/"
     },
@@ -4741,6 +4757,16 @@
       "last_scanned": "2026-08-16",
       "resolved_roles": 0,
       "url": "https://www.zscaler.com/"
+    },
+    {
+      "boards": [
+        "workday:canadiansolar.wd5.myworkdayjobs.com:canadiansolar:canadiansolar"
+      ],
+      "company": "Canadian Solar Inc.",
+      "key": "5555acc3a0dd9eb610a8ea9d",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.canadiansolar.com/"
     },
     {
       "boards": [
@@ -6422,6 +6448,16 @@
       "url": "https://www.tesseralabs.ai/"
     },
     {
+      "boards": [
+        "oracle:epyc.fa.us2.oraclecloud.com:clh-us"
+      ],
+      "company": "Clean Harbors",
+      "key": "73160c43d8ec501b87137e1d",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.cleanharbors.com/"
+    },
+    {
       "company": "Los Alamos National Laboratory",
       "error": "public request failed for https://www.lanl.gov/: HTTP Error 404: Not Found",
       "key": "732857a52fb2c0b5ef783e9c",
@@ -6927,6 +6963,14 @@
       "last_scanned": "2026-08-23",
       "resolved_roles": 0,
       "url": "https://www.cresta.com/"
+    },
+    {
+      "boards": [],
+      "company": "Roush",
+      "key": "7a428a546d801b94f1f54d3b",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.roush.com/"
     },
     {
       "boards": [
@@ -8085,6 +8129,16 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://www.terumobct.com/"
+    },
+    {
+      "boards": [
+        "greenhouse:users"
+      ],
+      "company": "Olsson",
+      "key": "8f925d46c38486e2f4792b8f",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.olsson.com/"
     },
     {
       "boards": [
@@ -9297,6 +9351,14 @@
     },
     {
       "boards": [],
+      "company": "Advanced Space",
+      "key": "a6a8b8b7740b290a4bb2aebc",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://advancedspace.com/"
+    },
+    {
+      "boards": [],
       "company": "Cloudflare",
       "key": "a6ad87b96b6f44b6b903d3db",
       "last_scanned": "2026-08-15",
@@ -10394,11 +10456,26 @@
     },
     {
       "boards": [],
+      "company": "HPC Industrial powered by Clean Harbors",
+      "key": "b8c40ad3437f22c6fd62aa60",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.hpc-industrial.com/"
+    },
+    {
+      "boards": [],
       "company": "Postman",
       "key": "b8c9ebd233da8c4b70f4bc88",
       "last_scanned": "2026-08-23",
       "resolved_roles": 0,
       "url": "https://www.postman.com/"
+    },
+    {
+      "company": "Avient Corporation",
+      "error": "public response exceeded 3145728 bytes",
+      "key": "b8daeedd44ce875d5b85b76c",
+      "last_scanned": "2026-08-24",
+      "url": "https://www.avient.com/"
     },
     {
       "boards": [
@@ -10484,6 +10561,14 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://www.meta.com/"
+    },
+    {
+      "boards": [],
+      "company": "Hunter Engineering Company",
+      "key": "bb19ab416ce8d0d792d2dc4e",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.hunter.com/"
     },
     {
       "boards": [],
@@ -10600,6 +10685,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://hunterdouglasgroup.com/"
+    },
+    {
+      "boards": [
+        "ashby:rivet"
+      ],
+      "company": "Rivet Industries",
+      "key": "bd92e2f5a56afb06e7ac552b",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.rivet.us/"
     },
     {
       "boards": [
@@ -11640,6 +11735,14 @@
       "key": "ce477d511e3b240f5e6a5a3c",
       "last_scanned": "2026-08-24",
       "url": "https://www.wtwco.com/"
+    },
+    {
+      "boards": [],
+      "company": "Green Bay Packaging",
+      "key": "ce627f7782d97c9b8ee79a87",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://gbp.com/"
     },
     {
       "company": "Solar Turbines",
@@ -13247,6 +13350,16 @@
       "url": "https://buildega.com/"
     },
     {
+      "boards": [
+        "workday:wpi.wd5.myworkdayjobs.com:wpi:wpi_external_career_site"
+      ],
+      "company": "Worcester Polytechnic Institute",
+      "key": "ead4933bd2a12595e86f6e16",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.wpi.edu/"
+    },
+    {
       "boards": [],
       "company": "New Relic",
       "key": "eada9a899ed9f57839fab1f9",
@@ -14101,7 +14214,7 @@
       "company": "WSP",
       "error": "public request failed for https://www.wsp.com/: HTTP Error 403: Forbidden",
       "key": "f87ce539e493ffa8dd66c10d",
-      "last_scanned": "2026-08-21",
+      "last_scanned": "2026-08-24",
       "url": "https://www.wsp.com/"
     },
     {
@@ -14283,6 +14396,13 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://www.detroitlions.com/"
+    },
+    {
+      "company": "Old Dominion University",
+      "error": "public hostname did not resolve: www.aee.odu.edu",
+      "key": "fd013100ab98edc0a724ffa5",
+      "last_scanned": "2026-08-24",
+      "url": "https://www.aee.odu.edu/"
     },
     {
       "boards": [],

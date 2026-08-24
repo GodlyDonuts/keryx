@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,613 internships · 3,995 new-grad roles · 6,608 total openings**
+**2,670 internships · 3,983 new-grad roles · 6,653 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 965 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 966 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 486 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 164 | **[View openings →](internships/spring-2027.md)** |
+| 🌱 Spring 2027 | 166 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 54 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 944 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 998 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 762 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,108 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,125 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 764 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,107 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,112 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -47,7 +47,7 @@ Recent internship and co-op listings that open the employer's application page d
 | Analog Devices | Digital Design Engineer Intern | San Jose, CA, Durham, NC | Fall 2026 | not available | 2026-08-24 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Analog Devices | Product Engineer Intern - Product Development | Wilmington, MA, Durham, NC | Fall 2026 | not available | 2026-08-24 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Atoms | Robotics Software Engineer Intern | LA, Pittsburgh, PA | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/cssmerge/jobs/8695475002)**<br><sub>job-boards.greenhouse.io</sub> |
-| Audax Group | AI Engineer Co-op | Boston, MA | Spring 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Audax Group | AI Engineer Co-Op | Boston, MA | Spring 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005)**<br><sub>job-boards.greenhouse.io</sub> |
 | Audax Group | Data Analytics Co-Op | Boston, MA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722880005)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
@@ -68,7 +68,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Cologix | DCIM Analyst | Lakeland, FL | Not listed | not available | 2026-08-24 | **[Apply →](https://jobs.lever.co/cologix/022417e1-e970-4cd3-a5e8-eca72dab00cd/apply)**<br><sub>jobs.lever.co</sub> |
 | Crowdstrike | Software Engineer - Sensor - SAO | Redmond, WA, Sunnyvale, CA | Not listed | not available | 2026-08-24 | **[Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874)**<br><sub>crowdstrike.wd5.myworkdayjobs.com</sub> |
 | Duke Energy | Associate Geographic Information Systems Technologist OR Geographic Information Systems Technologist | St. Petersburg, FL | Not listed | not available | 2026-08-24 | **[Apply →](https://dukeenergy.wd1.myworkdayjobs.com/search/job/St-Petersburg-FL/Associate-GIS-Technologist-OR-GIS-Technologist_R41129)**<br><sub>dukeenergy.wd1.myworkdayjobs.com</sub> |
-| GlobalFoundries | Packaging Integration Engineer (2027 New College Graduate) | USA - New York - Malta | 2027 | not available | 2026-08-24 | **[Apply →](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Packaging-Integration-Engineer--2027-New-College-Graduate-_JR-2604302)**<br><sub>globalfoundries.wd1.myworkdayjobs.com</sub> |
+| GlobalFoundries | Packaging Integration Engineer New Grad | Malta, NY | Not listed | not available | 2026-08-24 | **[Apply →](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Packaging-Integration-Engineer--2027-New-College-Graduate-_JR-2604302)**<br><sub>globalfoundries.wd1.myworkdayjobs.com</sub> |
 | Google | Software Engineer - AI/Machine Learning - PhD | Madison, WI, Seattle, WA, Raleigh, NC, San Bruno, CA, Durham, NC, Kirkland, WA, NYC, Sunnyvale, CA, Mountain View, CA, Atlanta, GA | Not listed | not available | 2026-08-24 | **[Apply →](https://www.google.com/about/careers/applications/jobs/results/123087196289671878)**<br><sub>www.google.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 

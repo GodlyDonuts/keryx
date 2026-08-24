@@ -4362,6 +4362,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Clean Harbors",
+      "host": "epyc.fa.us2.oraclecloud.com",
+      "key": "oracle:epyc.fa.us2.oraclecloud.com:clh-us",
+      "site": "CLH-US",
+      "slug": "epyc"
+    },
+    {
+      "ats": "oracle",
       "company": "Nemours Children's Health",
       "host": "epyz.fa.us2.oraclecloud.com",
       "key": "oracle:epyz.fa.us2.oraclecloud.com:cx_1",
