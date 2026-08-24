@@ -9,24 +9,24 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,612 internships · 4,008 new-grad roles · 6,620 total openings**
+**2,650 internships · 4,004 new-grad roles · 6,654 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 968 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 486 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 166 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 55 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 937 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 972 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 490 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 168 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 53 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 967 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 763 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,120 | **[View openings →](new-grad/2026.md)** |
+| 2026 | 1,116 | **[View openings →](new-grad/2026.md)** |
 | Year not listed | 2,125 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
@@ -44,11 +44,11 @@ Recent internship and co-op listings that open the employer's application page d
 | Advanced Space | 2027 Navigation Summer Internship | Westminster, CO | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4324913009)**<br><sub>job-boards.greenhouse.io</sub> |
 | Advanced Space | 2027 Software Engineering Summer Internship | Westminster, CO | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4324855009)**<br><sub>job-boards.greenhouse.io</sub> |
 | Advanced Space | 2027 Systems Engineering Summer Internship | Westminster, CO | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4376394009)**<br><sub>job-boards.greenhouse.io</sub> |
+| Amentum | Summer 2027 Intern - Structural Dynamics Engineer | US-TX-Houston | Summer 2027 | not available | 2026-08-24 | **[Apply →](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/Summer-2027-Intern---Structural-Dynamics-Engineer_R0168655)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
 | Analog Devices | Digital Design Engineer Intern | San Jose, CA, Durham, NC | Fall 2026 | not available | 2026-08-24 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Analog Devices | Product Engineer Intern - Product Development | Wilmington, MA, Durham, NC | Fall 2026 | not available | 2026-08-24 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Atoms | Robotics Software Engineer Intern | LA, Pittsburgh, PA | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/cssmerge/jobs/8695475002)**<br><sub>job-boards.greenhouse.io</sub> |
 | Audax Group | AI Engineer Co-op | Boston, MA | Spring 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005)**<br><sub>job-boards.greenhouse.io</sub> |
-| Audax Group | Data Analytics Co-Op | Boston, MA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722880005)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,6 +58,7 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Acron Aviation | Associate Embedded Software Engineer - Surveillance | Phoenix, AZ | Not listed | not available | 2026-08-24 | **[Apply →](https://jobs.lever.co/acronaviation/a7d56b84-92e6-427a-827b-ac0c37438b05/apply)**<br><sub>jobs.lever.co</sub> |
 | American Electric Power | Data Scientist Associate - Data Scientist - Data Scientist Senior | Fort Wayne, IN | Not listed | not available | 2026-08-24 | **[Apply →](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Ft-Wayne-IN/Data-Scientist-Associate---Data-Scientist-Sr_R18526)**<br><sub>aep.wd1.myworkdayjobs.com</sub> |
 | Booz Allen | Software Developer | Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA | Not listed | not available | 2026-08-24 | **[Apply →](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0247713)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
 | BP | Reservoir Engineer Graduate - Subsurface Technology | Houston, TX | Not listed | not available | 2026-08-24 | **[Apply →](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Graduate---Subsurface-Technology-Reservoir-Engineer---Houston--TX_RQ115139)**<br><sub>bpinternational.wd3.myworkdayjobs.com</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Cologix | DCIM Analyst | Lakeland, FL | Not listed | not available | 2026-08-24 | **[Apply →](https://jobs.lever.co/cologix/022417e1-e970-4cd3-a5e8-eca72dab00cd/apply)**<br><sub>jobs.lever.co</sub> |
 | Crowdstrike | Software Engineer - Sensor - SAO | Redmond, WA, Sunnyvale, CA | Not listed | not available | 2026-08-24 | **[Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874)**<br><sub>crowdstrike.wd5.myworkdayjobs.com</sub> |
 | Duke Energy | Associate Geographic Information Systems Technologist OR Geographic Information Systems Technologist | St. Petersburg, FL | Not listed | not available | 2026-08-24 | **[Apply →](https://dukeenergy.wd1.myworkdayjobs.com/search/job/St-Petersburg-FL/Associate-GIS-Technologist-OR-GIS-Technologist_R41129)**<br><sub>dukeenergy.wd1.myworkdayjobs.com</sub> |
-| Econic Partners | Research Analyst | Boston, MA, Washington, DC, LA, Oakland, CA, Chicago, IL | Not listed | not available | 2026-08-24 | **[Apply →](https://econicpartners.wd501.myworkdayjobs.com/econicpartnerscareers/job/Los-Angeles-CA/XMLNAME-2027-Research-Analyst_JR1051)**<br><sub>econicpartners.wd501.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

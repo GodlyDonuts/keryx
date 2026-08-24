@@ -2774,6 +2774,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Parallel Systems",
+      "key": "greenhouse:parallel",
+      "slug": "parallel"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Path Robotics",
       "key": "greenhouse:pathrobotics",
       "slug": "pathrobotics"
@@ -3437,6 +3443,12 @@
       "company": "ACDS",
       "key": "lever:acds",
       "slug": "acds"
+    },
+    {
+      "ats": "lever",
+      "company": "Acron Aviation",
+      "key": "lever:acronaviation",
+      "slug": "acronaviation"
     },
     {
       "ats": "lever",
@@ -11252,7 +11264,7 @@
       "company": "Stryker",
       "host": "stryker.wd1.myworkdayjobs.com",
       "key": "workday:stryker.wd1.myworkdayjobs.com:stryker:strykercareers",
-      "site": "StrykerCareers",
+      "site": "strykercareers",
       "slug": "stryker",
       "wd": "wd1"
     },
@@ -11306,7 +11318,7 @@
       "company": "Symbotic",
       "host": "symbotic.wd504.myworkdayjobs.com",
       "key": "workday:symbotic.wd504.myworkdayjobs.com:symbotic:symbotic",
-      "site": "Symbotic",
+      "site": "symbotic",
       "slug": "symbotic",
       "wd": "wd504"
     },
