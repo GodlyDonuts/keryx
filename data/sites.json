@@ -3390,6 +3390,13 @@
       "url": "https://www.accelevationllc.com/"
     },
     {
+      "company": "Gulfstream Aerospace",
+      "error": "public request failed for https://www.gulfstream.com/: HTTP Error 403: Forbidden",
+      "key": "46cae11f77039a80f1b4f16b",
+      "last_scanned": "2026-08-24",
+      "url": "https://www.gulfstream.com/"
+    },
+    {
       "boards": [],
       "company": "Escalent",
       "key": "46ed736fe674f454db1cc8ec",
@@ -9265,6 +9272,14 @@
       "url": "https://www.seagate.com/"
     },
     {
+      "boards": [],
+      "company": "Huawei Canada",
+      "key": "b1184e78112e3ec252d1d61d",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.huawei.com/ca/"
+    },
+    {
       "boards": [
         "ashby:flagright.com"
       ],
@@ -10059,6 +10074,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://pacificcoastcompanies.org/"
+    },
+    {
+      "boards": [
+        "greenhouse:gingerlabsinc"
+      ],
+      "company": "Notability",
+      "key": "c00636ceedb2b893bd8ba203",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.gingerlabs.com/"
     },
     {
       "boards": [],
@@ -11743,6 +11768,14 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://www.ga.com/"
+    },
+    {
+      "boards": [],
+      "company": "Krones",
+      "key": "ddb6a009fea03a5418e868c7",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.krones.com/"
     },
     {
       "boards": [],
@@ -13534,7 +13567,7 @@
       "boards": [],
       "company": "GALLO",
       "key": "ff56fb717d1c856eaaf11df0",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.gallocareers.com/"
     },
