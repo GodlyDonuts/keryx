@@ -2036,6 +2036,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Clarity Innovations",
+      "key": "greenhouse:clarityinnovates",
+      "slug": "clarityinnovates"
+    },
+    {
+      "ats": "greenhouse",
       "company": "CLEAR",
       "key": "greenhouse:clear",
       "slug": "clear"
@@ -3497,6 +3503,12 @@
       "company": "CesiumAstro",
       "key": "lever:cesiumastro",
       "slug": "CesiumAstro"
+    },
+    {
+      "ats": "lever",
+      "company": "Cologix",
+      "key": "lever:cologix",
+      "slug": "cologix"
     },
     {
       "ats": "lever",
@@ -5582,6 +5594,12 @@
     },
     {
       "ats": "workable",
+      "company": "Rystad Energy",
+      "key": "workable:rystad-energy",
+      "slug": "rystad-energy"
+    },
+    {
+      "ats": "workable",
       "company": "Saalex",
       "key": "workable:saalex",
       "slug": "saalex"
@@ -6725,7 +6743,7 @@
       "company": "BTI Solutions",
       "host": "btisolutions.wd12.myworkdayjobs.com",
       "key": "workday:btisolutions.wd12.myworkdayjobs.com:btisolutions:external",
-      "site": "external",
+      "site": "External",
       "slug": "btisolutions",
       "wd": "wd12"
     },

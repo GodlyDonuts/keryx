@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,536 internships · 3,984 new-grad roles · 6,520 total openings**
+**2,592 internships · 3,991 new-grad roles · 6,583 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 949 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 486 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 164 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 50 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 887 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 969 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 493 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 169 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 52 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 909 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 765 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,110 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,109 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 757 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,114 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,120 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -59,17 +59,17 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | American Electric Power | Data Scientist Associate - Data Scientist - Data Scientist Senior | Fort Wayne, IN | Not listed | not available | 2026-08-24 | **[Apply →](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Ft-Wayne-IN/Data-Scientist-Associate---Data-Scientist-Sr_R18526)**<br><sub>aep.wd1.myworkdayjobs.com</sub> |
+| Booz Allen | Software Developer | Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA | Not listed | not available | 2026-08-24 | **[Apply →](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0247713)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
+| BP | Reservoir Engineer Graduate - Subsurface Technology | Houston, TX | Not listed | not available | 2026-08-24 | **[Apply →](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Graduate---Subsurface-Technology-Reservoir-Engineer---Houston--TX_RQ115139)**<br><sub>bpinternational.wd3.myworkdayjobs.com</sub> |
+| BTI Solutions | Korean Bilingual AMR Engineer | Queen Creek, AZ | Not listed | not available | 2026-08-24 | **[Apply →](https://btisolutions.wd12.myworkdayjobs.com/External/job/Queen-Creek-AZ/Korean-Bilingual-AMR-Engineer_JR101992-1)**<br><sub>btisolutions.wd12.myworkdayjobs.com</sub> |
+| Centene | Automation Engineer - Financial Systems AI | Washington, Pennsylvania, California, Texas, Florida, South Carolina, Georgia, Virginia, Nebraska, NYC, Maryland, Massachusetts, North Carolina, Missouri, New Jersey, Illinois | Not listed | not available | 2026-08-24 | **[Apply →](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Automation-Engineer---Financial-Systems-AI_1641989-1)**<br><sub>centene.wd5.myworkdayjobs.com</sub> |
+| Cologix | DCIM Analyst | Lakeland, FL | Not listed | not available | 2026-08-24 | **[Apply →](https://jobs.lever.co/cologix/022417e1-e970-4cd3-a5e8-eca72dab00cd/apply)**<br><sub>jobs.lever.co</sub> |
 | Crowdstrike | Software Engineer - Sensor - SAO | Redmond, WA, Sunnyvale, CA | Not listed | not available | 2026-08-24 | **[Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874)**<br><sub>crowdstrike.wd5.myworkdayjobs.com</sub> |
+| GlobalFoundries | Packaging Integration Engineer New Grad | Malta, NY | Not listed | not available | 2026-08-24 | **[Apply →](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Packaging-Integration-Engineer--2027-New-College-Graduate-_JR-2604302)**<br><sub>globalfoundries.wd1.myworkdayjobs.com</sub> |
 | Google | Software Engineer - AI/Machine Learning - PhD | Madison, WI, Seattle, WA, Raleigh, NC, San Bruno, CA, Durham, NC, Kirkland, WA, NYC, Sunnyvale, CA, Mountain View, CA, Atlanta, GA | Not listed | not available | 2026-08-24 | **[Apply →](https://www.google.com/about/careers/applications/jobs/results/123087196289671878)**<br><sub>www.google.com</sub> |
 | Google | Software Engineer Early Career - Multiple Teams | Madison, WI, Seattle, WA, Austin, TX, LA, Raleigh, NC, San Bruno, CA, Durham, NC, Kirkland, WA, NYC, Sunnyvale, CA, Mountain View, CA, Atlanta, GA | Not listed | not available | 2026-08-24 | **[Apply →](https://www.google.com/about/careers/applications/jobs/results/84680705375642310)**<br><sub>www.google.com</sub> |
-| L3Harris Technologies | Engineering Technician B | Salt Lake City, UT | Not listed | not available | 2026-08-24 | **[Apply →](https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-B-UT-84116/1422397300/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| Mastercard | Software Engineer - Launch Program | Salt Lake City, UT, O'Fallon, MO, Harrison, NY, Arlington County, Arlington, VA, NYC, Atlanta, GA | Not listed | not available | 2026-08-24 | **[Apply →](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1)**<br><sub>mastercard.wd1.myworkdayjobs.com</sub> |
-| Pennsylvania State University | Operations Research Engineer Intern - Undersea Systems | State College, PA | Not listed | not available | 2026-08-24 | **[Apply →](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Operations-Research-Undersea-Systems-Analyst_REQ_0000081646-1)**<br><sub>psu.wd1.myworkdayjobs.com</sub> |
-| PNC Financial Services | Data Associate - Data and Automation | Pittsburgh, PA | Not listed | not available | 2026-08-24 | **[Apply →](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data-Associate_R233603-1)**<br><sub>pnc.wd5.myworkdayjobs.com</sub> |
-| Procter & Gamble | Advanced Analytics Manager - Analytics & Insights | Fayetteville, NC, Boston, MA, Virginia Beach, VA, Mason, OH, Minneapolis, MN, Cincinnati, OH | Not listed | not available | 2026-08-24 | **[Apply →](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Analytics---Insights-Advanced-Analytics-Manager_R000157700)**<br><sub>pg.wd5.myworkdayjobs.com</sub> |
-| Raymond James Financial | Associate Experience Analytics Advisor | Memphis, TN, Southfield, MI, St. Petersburg, FL | Not listed | not available | 2026-08-24 | **[Apply →](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Advisor--Associate-Experience-Analytics_R-0012678)**<br><sub>raymondjames.wd1.myworkdayjobs.com</sub> |
-| Raymond James Financial | Information Technology Accelerated Development Program - Software Developer Track | St. Petersburg, FL | Not listed | not available | 2026-08-24 | **[Apply →](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-IT-Accelerated-Development-Program--ADP----Software-Developer-Track---St-Petersburg--FL_R-0012718)**<br><sub>raymondjames.wd1.myworkdayjobs.com</sub> |
-| REI Systems | Associate Software Engineer - Salesforce | Sterling, VA | Not listed | not available | 2026-08-24 | **[Apply →](https://careers-reisystems.icims.com/jobs/3495/job?mobile=true&needsRedirect=false)**<br><sub>careers-reisystems.icims.com</sub> |
+| Intel | Packaging Module Development Engineer | Phoenix, AZ | Not listed | not available | 2026-08-24 | **[Apply →](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Packaging-Module-Development-Engineer_JR0285729)**<br><sub>intel.wd1.myworkdayjobs.com</sub> |
+| L3Harris Technologies | Associate Software Engineer | Waco, TX | Not listed | not available | 2026-08-24 | **[Apply →](https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineering-TX-76705/1422532000/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

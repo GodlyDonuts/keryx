@@ -187,6 +187,14 @@
     },
     {
       "boards": [],
+      "company": "Manus",
+      "key": "03acfc7f28cad0201f226570",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.manusbio.com/"
+    },
+    {
+      "boards": [],
       "company": "CGI",
       "key": "04073a5dac644599f14553d1",
       "last_scanned": "2026-08-16",
@@ -418,6 +426,14 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://www.ierustech.com/"
+    },
+    {
+      "boards": [],
+      "company": "Global Cellulose Fibers",
+      "key": "07c94dfa3f015cbe22506e3b",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.globalcellulosefibers.com/"
     },
     {
       "boards": [
@@ -744,6 +760,14 @@
       "last_scanned": "2026-08-20",
       "resolved_roles": 0,
       "url": "https://www.permobil.com/"
+    },
+    {
+      "boards": [],
+      "company": "DiPrete Engineering",
+      "key": "0e5eb9b4f4fb96f3939cc908",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://diprete-eng.com/"
     },
     {
       "boards": [
@@ -1988,6 +2012,14 @@
     },
     {
       "boards": [],
+      "company": "EOSYS",
+      "key": "26e10cf75ac3802bf3ac62dd",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://eosysgroup.com/"
+    },
+    {
+      "boards": [],
       "company": "Wpromote",
       "key": "26e3222d1f3221eb2570fb89",
       "last_scanned": "2026-08-18",
@@ -2353,6 +2385,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.pioneerprod.net/"
+    },
+    {
+      "boards": [
+        "workable:rystad-energy"
+      ],
+      "company": "Rystad Energy",
+      "key": "2d33f68ef9dbadc77db13b02",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.rystadenergy.com/"
     },
     {
       "boards": [],
@@ -3381,6 +3423,14 @@
     },
     {
       "boards": [],
+      "company": "Intuitive",
+      "key": "40b290c7f88520a601949033",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.intuitive.com/"
+    },
+    {
+      "boards": [],
       "company": "McKesson",
       "key": "40deaf6d5346e1fd725b57b5",
       "last_scanned": "2026-08-15",
@@ -3571,6 +3621,16 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://www.cognizant.com/"
+    },
+    {
+      "boards": [
+        "workday:dmainc.wd5.myworkdayjobs.com:dmainc:dma"
+      ],
+      "company": "DMA - DuCharme, McMillen & Associates, Inc.",
+      "key": "44f0c857ec6acda81877cb13",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.dmainc.com/"
     },
     {
       "boards": [],
@@ -3807,7 +3867,7 @@
       "company": "MITRE",
       "error": "public request failed for https://www.mitre.org/: HTTP Error 403: Forbidden",
       "key": "49727d1a44dd2aaff05a26a7",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-08-24",
       "url": "https://www.mitre.org/"
     },
     {
@@ -4012,6 +4072,14 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://www.aecom.com/"
+    },
+    {
+      "boards": [],
+      "company": "Kodiak",
+      "key": "4c71806ba13a67fb0d14edca",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.kodiak.ai/"
     },
     {
       "boards": [],
@@ -4539,6 +4607,14 @@
       "url": "https://www.citadelsecurities.com/"
     },
     {
+      "boards": [],
+      "company": "Resonetics",
+      "key": "5480b104a6058771b52b6718",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.resonetics.com/"
+    },
+    {
       "boards": [
         "greenhouse:10alabs"
       ],
@@ -4811,7 +4887,7 @@
       "boards": [],
       "company": "Dewberry",
       "key": "585f6aeac8de845b1e68b83f",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.dewberry.com/"
     },
@@ -4887,7 +4963,7 @@
       "company": "Tesla",
       "error": "public request failed for https://www.tesla.com/: HTTP Error 403: Forbidden",
       "key": "596d5f8ba4114e6c6c07da9e",
-      "last_scanned": "2026-08-23",
+      "last_scanned": "2026-08-24",
       "url": "https://www.tesla.com/"
     },
     {
@@ -9471,7 +9547,7 @@
       "company": "JLL",
       "error": "Invalid IPv6 URL",
       "key": "ad067c824f14408f1ded7003",
-      "last_scanned": "2026-08-21",
+      "last_scanned": "2026-08-24",
       "url": "https://www.jll.com/"
     },
     {
@@ -9734,6 +9810,14 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.huawei.com/ca/"
+    },
+    {
+      "boards": [],
+      "company": "Deceuninck North America",
+      "key": "b122cce0dc4017bd8592f842",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.deceuninckna.com/"
     },
     {
       "boards": [
@@ -11465,7 +11549,7 @@
       "company": "WSP in the U.S.",
       "error": "public request failed for https://www.wsp.com/en-us: HTTP Error 403: Forbidden",
       "key": "ce26e2f6b0157eb94cc09fde",
-      "last_scanned": "2026-08-21",
+      "last_scanned": "2026-08-24",
       "url": "https://www.wsp.com/en-us"
     },
     {
@@ -12514,6 +12598,14 @@
     },
     {
       "boards": [],
+      "company": "Photronics",
+      "key": "dfaa845dfb0ff401cfb27b54",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.photronics.com/"
+    },
+    {
+      "boards": [],
       "company": "Tyler Technologies",
       "key": "dfef6dacf8f9a2430506eb86",
       "last_scanned": "2026-08-22",
@@ -12690,6 +12782,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.balfourbeattyus.com/"
+    },
+    {
+      "boards": [],
+      "company": "Process Technology",
+      "key": "e42fa6553c91381f12efef5d",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.processtechnology.com/"
     },
     {
       "boards": [
