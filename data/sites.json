@@ -883,6 +883,14 @@
     },
     {
       "boards": [],
+      "company": "World Wide Technology",
+      "key": "1193f8a47147658e67b01e66",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.wwt.com/"
+    },
+    {
+      "boards": [],
       "company": "State of South Dakota",
       "key": "1196d956d83bf6f5f039d9ce",
       "last_scanned": "2026-08-20",
@@ -1394,6 +1402,13 @@
       "key": "1aeca1473f17662ce653056c",
       "last_scanned": "2026-08-17",
       "url": "https://www.redfin.com/"
+    },
+    {
+      "company": "Eli Lilly and Company",
+      "error": "public request failed for https://www.lilly.com/: HTTP Error 403: Forbidden",
+      "key": "1b301cebcf8cc48e9b899383",
+      "last_scanned": "2026-08-24",
+      "url": "https://www.lilly.com/"
     },
     {
       "boards": [],
@@ -5626,6 +5641,16 @@
       "url": "https://www.kayak.com/"
     },
     {
+      "boards": [
+        "workday:rb.wd5.myworkdayjobs.com:rb:frs"
+      ],
+      "company": "Federal Reserve Bank of San Francisco",
+      "key": "6ac10a22e05cd76853424cf9",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.frbsf.org/"
+    },
+    {
       "company": "Rocket",
       "error": "public request failed for https://www.rocketcompanies.com/: HTTP Error 403: Forbidden",
       "key": "6aed8e42722b9d2fe08ab7a0",
@@ -8551,7 +8576,7 @@
       "boards": [],
       "company": "PSC Biotech\u00ae Corporation",
       "key": "a1e13d47063ab69a3a6173d1",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://biotech.com/"
     },
@@ -9105,6 +9130,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://guptamedia.com/"
+    },
+    {
+      "boards": [],
+      "company": "Live! Casino & Hotel Maryland",
+      "key": "ac16eeaf9c19f1e20ad7e697",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.livech.com/"
     },
     {
       "boards": [],
@@ -10996,6 +11029,17 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.point72.com/"
+    },
+    {
+      "boards": [
+        "workday:psu.wd1.myworkdayjobs.com:psu:psu_academic",
+        "workday:psu.wd1.myworkdayjobs.com:psu:psu_staff"
+      ],
+      "company": "The Applied Research Laboratory at Penn State University",
+      "key": "cce07947acee67dbd3a09c2e",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.arl.psu.edu/"
     },
     {
       "boards": [],
@@ -13371,6 +13415,14 @@
       "last_scanned": "2026-08-23",
       "resolved_roles": 0,
       "url": "https://oldmissioncapital.com/"
+    },
+    {
+      "boards": [],
+      "company": "Visa",
+      "key": "f6a229523106bfb596250fe3",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.visa.com/"
     },
     {
       "boards": [],

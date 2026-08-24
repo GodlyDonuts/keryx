@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,490 internships · 3,983 new-grad roles · 6,473 total openings**
+**2,495 internships · 3,989 new-grad roles · 6,484 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 914 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 490 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 182 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 45 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 859 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 915 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 491 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 185 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 49 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 855 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 761 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,124 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,098 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 760 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,125 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,104 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -39,16 +39,16 @@ Recent internship and co-op listings that open the employer's application page d
 |---|---|---|---|---|---:|---|
 | Analog Devices | Digital Design Engineer Intern | San Jose, CA, Durham, NC | Fall 2026 | not available | 2026-08-24 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Analog Devices | Product Engineer Intern - Product Development | Wilmington, MA, Durham, NC | Fall 2026 | not available | 2026-08-24 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
-| Audax Group | AI Engineer Co-Op | Boston, MA | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005)**<br><sub>job-boards.greenhouse.io</sub> |
-| Audax Group | Data Analytics Co-Op | Boston, MA | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722880005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Audax Group | AI Engineer Co-Op | Boston, MA | Spring 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Audax Group | Data Analytics Co-Op | Boston, MA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722880005)**<br><sub>job-boards.greenhouse.io</sub> |
 | Audax Group | Data Engineer Co-Op | Boston, Massachusetts | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722770005)**<br><sub>job-boards.greenhouse.io</sub> |
-| Audax Group | Data Engineer CO-OP | Boston, MA | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722779005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Audax Group | Data Engineer CO-OP | Boston, MA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722779005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Audax Group | Investor Relations CO-OP | New York | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4726930005)**<br><sub>job-boards.greenhouse.io</sub> |
 | Audax Group | IT Operations Co-Op | Boston, MA | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722750005)**<br><sub>job-boards.greenhouse.io</sub> |
 | Audax Group | IT Operations Co-Op | New York, New York, United States | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722759005)**<br><sub>job-boards.greenhouse.io</sub> |
 | Audax Private Equity | CO-OP, Portfolio Valuation & Analytics | Boston, MA | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxprivateequity/jobs/4722687005)**<br><sub>job-boards.greenhouse.io</sub> |
 | Audax Private Equity | Data Analyst, Business Development CO-OP | Boston, MA | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxprivateequity/jobs/4722720005)**<br><sub>job-boards.greenhouse.io</sub> |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Data Science) - Jersey City, NJ | Jersey City, NJ, United States | Summer 2027 | Dec 2027–May 2028<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81238)**<br><sub>eofe.fa.us2.oraclecloud.com</sub> |
-| BNY | 2027 BNY Summer Internship Program - Engineering (Data Science) - Jersey City, NJ | Jersey City, NJ, United States | Summer 2027 | Dec 2027–May 2028<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/job/81238)**<br><sub>eofe.fa.us2.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -60,16 +60,16 @@ Recent full-time opportunities that open the employer's application page directl
 |---|---|---|---|---|---:|---|
 | American Electric Power | Data Scientist Associate - Data Scientist - Data Scientist Senior | Fort Wayne, IN | Not listed | not available | 2026-08-24 | **[Apply →](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Ft-Wayne-IN/Data-Scientist-Associate---Data-Scientist-Sr_R18526)**<br><sub>aep.wd1.myworkdayjobs.com</sub> |
 | Crowdstrike | Software Engineer - Sensor - SAO | Redmond, WA, Sunnyvale, CA | Not listed | not available | 2026-08-24 | **[Apply →](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874)**<br><sub>crowdstrike.wd5.myworkdayjobs.com</sub> |
-| Leidos | Entry-Level Computer Scientist | Huntsville, AL | Not listed | not available | 2026-08-24 | **[Apply →](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Computer-Scientist_R-00190248)**<br><sub>leidos.wd5.myworkdayjobs.com</sub> |
+| Google | Software Engineer - AI/Machine Learning - PhD | Madison, WI, Seattle, WA, Raleigh, NC, San Bruno, CA, Durham, NC, Kirkland, WA, NYC, Sunnyvale, CA, Mountain View, CA, Atlanta, GA | Not listed | not available | 2026-08-24 | **[Apply →](https://www.google.com/about/careers/applications/jobs/results/123087196289671878)**<br><sub>www.google.com</sub> |
+| Google | Software Engineer Early Career - Multiple Teams | Madison, WI, Seattle, WA, Austin, TX, LA, Raleigh, NC, San Bruno, CA, Durham, NC, Kirkland, WA, NYC, Sunnyvale, CA, Mountain View, CA, Atlanta, GA | Not listed | not available | 2026-08-24 | **[Apply →](https://www.google.com/about/careers/applications/jobs/results/84680705375642310)**<br><sub>www.google.com</sub> |
+| L3Harris Technologies | Engineering Technician B | Salt Lake City, UT | Not listed | not available | 2026-08-24 | **[Apply →](https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-B-UT-84116/1422397300/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | Mastercard | Software Engineer - Launch Program | Salt Lake City, UT, O'Fallon, MO, Harrison, NY, Arlington County, Arlington, VA, NYC, Atlanta, GA | Not listed | not available | 2026-08-24 | **[Apply →](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1)**<br><sub>mastercard.wd1.myworkdayjobs.com</sub> |
+| Pennsylvania State University | Operations Research Engineer Intern - Undersea Systems | State College, PA | Not listed | not available | 2026-08-24 | **[Apply →](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Operations-Research-Undersea-Systems-Analyst_REQ_0000081646-1)**<br><sub>psu.wd1.myworkdayjobs.com</sub> |
 | PNC Financial Services | Data Associate - Data and Automation | Pittsburgh, PA | Not listed | not available | 2026-08-24 | **[Apply →](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Data-Associate_R233603-1)**<br><sub>pnc.wd5.myworkdayjobs.com</sub> |
+| Procter & Gamble | Advanced Analytics Manager - Analytics & Insights | Fayetteville, NC, Boston, MA, Virginia Beach, VA, Mason, OH, Minneapolis, MN, Cincinnati, OH | Not listed | not available | 2026-08-24 | **[Apply →](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Analytics---Insights-Advanced-Analytics-Manager_R000157700)**<br><sub>pg.wd5.myworkdayjobs.com</sub> |
 | REI Systems | Associate Software Engineer - Salesforce | Sterling, VA | Not listed | not available | 2026-08-24 | **[Apply →](https://careers-reisystems.icims.com/jobs/3495/job?mobile=true&needsRedirect=false)**<br><sub>careers-reisystems.icims.com</sub> |
+| TraceLink | Software Engineer 1 - Engineering Services | Wilmington, MA | Not listed | not available | 2026-08-24 | **[Apply →](https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5217396007)**<br><sub>www.tracelink.com</sub> |
 | Travelers | Investment Analyst Development Program | St Paul, MN | Not listed | not available | 2026-08-24 | **[Apply →](https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Investment-Analyst-Development-Program_R-52105)**<br><sub>travelers.wd5.myworkdayjobs.com</sub> |
-| Amazon | Front-End Engineer - 2026 - US | Seattle, WA | 2026 | not available | 2026-08-23 | **[Apply →](https://www.amazon.jobs/jobs/10428762/apply)**<br><sub>www.amazon.jobs</sub> |
-| Anduril | 2027 Early Career Software Engineer | Atlanta, GA +8 | 2027 | not stated | 2026-08-23 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007)**<br><sub>boards.greenhouse.io</sub> |
-| Roblox | Software Engineer - Creator Business | San Mateo, CA | 2027 | not available | 2026-08-23 | **[Apply →](https://careers.roblox.com/jobs/8113334?gh_jid=8113334)**<br><sub>careers.roblox.com</sub> |
-| Samsara | Software Engineer I - New Grad - SF | San Francisco, CA | 2027 | not available | 2026-08-23 | **[Apply →](https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343)**<br><sub>www.samsara.com</sub> |
-| Zoox | Software Engineer - Android | Foster City, CA | 2027 | not available | 2026-08-23 | **[Apply →](https://jobs.lever.co/zoox/d48270e1-81e0-4f04-ab9e-d1fc25313f76)**<br><sub>jobs.lever.co</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
