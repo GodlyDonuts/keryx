@@ -877,6 +877,14 @@
       "url": "https://uscvhh.org/"
     },
     {
+      "boards": [],
+      "company": "Hilltop Holdings",
+      "key": "113cfbc4cff86659d7d15d30",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://hilltop-holdings.com/"
+    },
+    {
       "company": "General Dynamics Mission Systems\u2013Canada",
       "error": "public request failed for https://gdmissionsystems.ca/: HTTP Error 403: Forbidden",
       "key": "11407fc50afe8dfc70d31d53",
@@ -1065,6 +1073,14 @@
       "key": "140330e7771ea6fe479caadf",
       "last_scanned": "2026-08-24",
       "url": "https://mgmresorts.com/"
+    },
+    {
+      "boards": [],
+      "company": "Hilltop Securities Inc.",
+      "key": "1414411aff203488bde73b81",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.hilltopsecurities.com/"
     },
     {
       "boards": [],
@@ -4301,6 +4317,16 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://www.davita.com/"
+    },
+    {
+      "boards": [
+        "oracle:ebez.fa.us2.oraclecloud.com:cx_4"
+      ],
+      "company": "Myers & Stauffer",
+      "key": "535df82d250549f3dbf351c7",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://myersandstauffer.com/"
     },
     {
       "boards": [],
