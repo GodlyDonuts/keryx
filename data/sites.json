@@ -209,6 +209,13 @@
       "url": "https://gdmissionsystems.com/"
     },
     {
+      "company": "Tennessee Valley Authority",
+      "error": "public request failed for https://www.tva.com/: HTTP Error 403: Forbidden",
+      "key": "047caff15764e0d014a0901c",
+      "last_scanned": "2026-08-24",
+      "url": "https://www.tva.com/"
+    },
+    {
       "boards": [],
       "company": "Capital One",
       "key": "0483abeb10e6a9a014461cec",
@@ -10189,7 +10196,7 @@
       "boards": [],
       "company": "DC INFOTECH CLOUD SOLUTIONS",
       "key": "c0b702b4ed9674947fdafbe0",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://dcinfotech.org.in/"
     },
