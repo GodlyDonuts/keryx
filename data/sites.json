@@ -1553,6 +1553,14 @@
       "url": "https://www.alegeus.com/"
     },
     {
+      "boards": [],
+      "company": "The Hanover Insurance Group",
+      "key": "1c8f7e2577cfe5329548b72f",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.hanover.com/"
+    },
+    {
       "company": "Horrocks",
       "error": "Invalid IPv6 URL",
       "key": "1d0e1fba155fa3539bd52470",
@@ -2092,6 +2100,14 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://guidehouse.com/"
+    },
+    {
+      "boards": [],
+      "company": "Evergy",
+      "key": "283dc1c1232f8fbe8682c21a",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.evergy.com/"
     },
     {
       "boards": [],
@@ -2653,7 +2669,7 @@
       "boards": [],
       "company": "LinkedIn",
       "key": "31d9e011b5a0eede6a9922b8",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.linkedin.com/"
     },
@@ -3665,6 +3681,13 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.wexinc.com/"
+    },
+    {
+      "company": "The Hartford",
+      "error": "public request failed for https://www.thehartford.com/: The read operation timed out",
+      "key": "462cad949ed329b84742f4e9",
+      "last_scanned": "2026-08-24",
+      "url": "https://www.thehartford.com/"
     },
     {
       "company": "TransUnion",
@@ -4703,6 +4726,13 @@
       "last_scanned": "2026-08-21",
       "resolved_roles": 0,
       "url": "https://cinchjeans.com/"
+    },
+    {
+      "company": "WILSON ENGINEERS, LLC",
+      "error": "Invalid IPv6 URL",
+      "key": "555be1324a57dd5c458caff0",
+      "last_scanned": "2026-08-24",
+      "url": "https://www.wilson-engineers.com/"
     },
     {
       "boards": [],
@@ -8624,6 +8654,17 @@
       "url": "https://www.saic.com/"
     },
     {
+      "boards": [
+        "workday:williams.wd5.myworkdayjobs.com:williams:external",
+        "workday:williams.wd5.myworkdayjobs.com:williams:powerexternal"
+      ],
+      "company": "Williams",
+      "key": "9c7840c7a4d838e2d8eb3e12",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.williams.com/"
+    },
+    {
       "boards": [],
       "company": "Ema",
       "key": "9c9ce06dbc2f07ae05cd0648",
@@ -10879,7 +10920,7 @@
       ],
       "company": "Praytell",
       "key": "c21bee08d833a47ae50735fc",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.praytellagency.com/"
     },
@@ -12020,6 +12061,13 @@
       "url": "https://www.e-space.com/"
     },
     {
+      "company": "Astrodyne TDI",
+      "error": "public hostname did not resolve: www.astrodyne.com",
+      "key": "d62b3b974dfec4ba33f6e5f4",
+      "last_scanned": "2026-08-24",
+      "url": "https://www.astrodyne.com/"
+    },
+    {
       "company": "Fujitsu",
       "error": "public request failed for https://global.fujitsu/en-global: HTTP Error 429: Too Many Requests",
       "key": "d635c29bf8a0138d0002c694",
@@ -12634,6 +12682,16 @@
       "key": "e119a7f6379a58ca0c779bf4",
       "last_scanned": "2026-08-24",
       "url": "https://www.parker.com/"
+    },
+    {
+      "boards": [
+        "oracle:ebez.fa.us2.oraclecloud.com:cx_1"
+      ],
+      "company": "CBIZ",
+      "key": "e140d4b81ed88a733242a23e",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.cbiz.com/"
     },
     {
       "boards": [

@@ -1694,6 +1694,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Advanced Space",
+      "key": "greenhouse:advancedspace",
+      "slug": "advancedspace"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Aechelon Technology Inc.",
       "key": "greenhouse:aechelontechnology",
       "slug": "aechelontechnology"
@@ -2579,6 +2585,12 @@
       "company": "KHAITE",
       "key": "greenhouse:khaite",
       "slug": "khaite"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Kodiak Robotics",
+      "key": "greenhouse:kodiak",
+      "slug": "kodiak"
     },
     {
       "ats": "greenhouse",
@@ -3806,6 +3818,12 @@
     },
     {
       "ats": "lever",
+      "company": "SteerBridge",
+      "key": "lever:steerbridge",
+      "slug": "steerbridge"
+    },
+    {
+      "ats": "lever",
       "company": "Synergy ECP",
       "key": "lever:synergyecp",
       "slug": "synergyecp"
@@ -3959,6 +3977,14 @@
       "company": "Zoox",
       "key": "lever:zoox",
       "slug": "zoox"
+    },
+    {
+      "ats": "oracle",
+      "company": "CBIZ",
+      "host": "ebez.fa.us2.oraclecloud.com",
+      "key": "oracle:ebez.fa.us2.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "ebez"
     },
     {
       "ats": "oracle",
@@ -12222,6 +12248,15 @@
       "host": "williams.wd5.myworkdayjobs.com",
       "key": "workday:williams.wd5.myworkdayjobs.com:williams:external",
       "site": "External",
+      "slug": "williams",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Williams",
+      "host": "williams.wd5.myworkdayjobs.com",
+      "key": "workday:williams.wd5.myworkdayjobs.com:williams:powerexternal",
+      "site": "PowerExternal",
       "slug": "williams",
       "wd": "wd5"
     },
