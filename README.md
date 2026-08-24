@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,471 internships · 3,975 new-grad roles · 6,446 total openings**
+**2,438 internships · 3,961 new-grad roles · 6,399 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 890 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 488 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 127 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 884 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 484 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 126 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 41 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 925 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 903 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 768 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,101 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,106 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 767 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,092 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,102 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,7 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | New York, New York, us | Summer 2027 | not available | 2026-08-24 | **[Apply →](https://jobs.smartrecruiters.com/InfiniteQuant/744000145205764)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Berkeley Industrial Engineering & Operations Research | Machine Learning Researcher at Shanghai Yanfu Investments Co., Ltd. | Indiana, United States | Not listed | not available | 2026-08-23 | **[Apply →](https://berkeley.joinhandshake.com/jobs/11278586/share_preview)**<br><sub>berkeley.joinhandshake.com</sub> |
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-08-23 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | Copart | Technology Product Analyst Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-08-23 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR107890)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
@@ -48,7 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | The Walt Disney Company | WDI Civil Engineering Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | Spring 2027 | not available | 2026-08-23 | **[Apply →](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Civil-Engineering-Intern--Orlando--Spring-2027_10158161-1)**<br><sub>disney.wd5.myworkdayjobs.com</sub> |
 | The Walt Disney Company | WDI Ride Control Engineering Intern, Orlando, Spring 2027 | Lake Buena Vista, FL, USA | Spring 2027 | not available | 2026-08-23 | **[Apply →](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Ride-Control-Engineering-Intern--Orlando--Spring-2027_10159013)**<br><sub>disney.wd5.myworkdayjobs.com</sub> |
 | The Walt Disney Company | WDI Ride Development Engineering Intern, Spring 2027 | Lake Buena Vista, FL, USA | Spring 2027 | not available | 2026-08-23 | **[Apply →](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Ride-Development-Engineering-Intern--Spring-2027_10158669)**<br><sub>disney.wd5.myworkdayjobs.com</sub> |
-| The Walt Disney Company | WDI Show Mechanical Engineering Intern, Surface Development, Orlando, Spring 2027 | Celebration, FL, USA | Spring 2027 | not available | 2026-08-23 | **[Apply →](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/WDI-Show-Mechanical-Engineering-Intern--Surface-Development--Orlando--Spring-2027_10158502)**<br><sub>disney.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
