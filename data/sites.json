@@ -1348,7 +1348,7 @@
       "boards": [],
       "company": "Kenworth Truck Co.",
       "key": "176cd7af74105d207e91b278",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.kenworth.com/"
     },
@@ -5675,6 +5675,16 @@
       "url": "https://www.keytronic.com/"
     },
     {
+      "boards": [
+        "workday:smithfieldfoods.wd1.myworkdayjobs.com:smithfieldfoods:careers"
+      ],
+      "company": "Smithfield Foods",
+      "key": "6463cea9ffab31901a327311",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://smithfieldfoods.com/"
+    },
+    {
       "boards": [],
       "company": "Affirm",
       "key": "651cc3f594cc355b33b77a65",
@@ -9374,6 +9384,13 @@
       "url": "https://startclubcorp.com/"
     },
     {
+      "company": "Institute for Defense Analyses",
+      "error": "public request failed for https://www.ida.org/: HTTP Error 404: Not Found",
+      "key": "a6fbf0a10e23c24a42800923",
+      "last_scanned": "2026-08-24",
+      "url": "https://www.ida.org/"
+    },
+    {
       "company": "Motorola Solutions",
       "error": "public request failed for https://www.motorolasolutions.com/: HTTP Error 403: Forbidden",
       "key": "a7500527db6f2598ec09839b",
@@ -11676,7 +11693,7 @@
       "boards": [],
       "company": "UnitedHealth Group",
       "key": "cd63bef2c8bddb18bc4a50ac",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.unitedhealthgroup.com/"
     },
@@ -13593,7 +13610,7 @@
       ],
       "company": "First American",
       "key": "edbba829bbc8474f3e4102c1",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.firstam.com/"
     },
