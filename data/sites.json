@@ -2397,6 +2397,13 @@
       "url": "https://www.usc.co.uk/"
     },
     {
+      "company": "Nokia",
+      "error": "public request failed for https://www.nokia.com/: HTTP Error 403: Forbidden",
+      "key": "2ced4544077d31a1eecf34ba",
+      "last_scanned": "2026-08-24",
+      "url": "https://www.nokia.com/"
+    },
+    {
       "company": "Metropolitan Utilities District",
       "error": "public request failed for https://www.mudomaha.com/: HTTP Error 403: Forbidden",
       "key": "2d13d54fbb8616af44a1f6ba",
@@ -4971,6 +4978,13 @@
       "key": "5835237b32461e26027c07f9",
       "last_scanned": "2026-08-16",
       "url": "https://www.assaybiotechnology.com/"
+    },
+    {
+      "company": "Ascensus",
+      "error": "public request failed for https://www.ascensus.com/: HTTP Error 403: Forbidden",
+      "key": "584fa5f6d482d69dae71eb53",
+      "last_scanned": "2026-08-24",
+      "url": "https://www.ascensus.com/"
     },
     {
       "boards": [],
@@ -9282,6 +9296,16 @@
       "key": "a4f732e501cf6916a6c319b5",
       "last_scanned": "2026-08-22",
       "url": "https://careers.witron.com/"
+    },
+    {
+      "boards": [
+        "oracle:hdox.fa.us6.oraclecloud.com:cx_1"
+      ],
+      "company": "Quest Diagnostics",
+      "key": "a4f7ffb8c9ba27f9f3a39b54",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.questdiagnostics.com/"
     },
     {
       "boards": [

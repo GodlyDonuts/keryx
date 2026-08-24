@@ -4780,6 +4780,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Quest Diagnostics",
+      "host": "hdox.fa.us6.oraclecloud.com",
+      "key": "oracle:hdox.fa.us6.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "hdox"
+    },
+    {
+      "ats": "oracle",
       "company": "Goldman Sachs",
       "host": "hdpc.fa.us2.oraclecloud.com",
       "key": "oracle:hdpc.fa.us2.oraclecloud.com:lateralhiring",
