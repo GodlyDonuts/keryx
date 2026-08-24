@@ -2574,6 +2574,16 @@
       "url": "https://www.loves.com/"
     },
     {
+      "boards": [
+        "greenhouse:mill"
+      ],
+      "company": "Mill",
+      "key": "3451e63e8e608f40daa4fdbe",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://mill.com/"
+    },
+    {
       "boards": [],
       "company": "Springs Window Fashions",
       "key": "3455ec6ce50c1879af77614d",
@@ -2610,7 +2620,7 @@
       "company": "KeyBank",
       "error": "public request failed for https://www.key.com/about/corporate-responsibility/keybank-foundation.jsp: The read operation timed out",
       "key": "34de0ca95e7cf403fe31a68d",
-      "last_scanned": "2026-08-21",
+      "last_scanned": "2026-08-24",
       "url": "https://www.key.com/about/corporate-responsibility/keybank-foundation.jsp"
     },
     {
@@ -2913,6 +2923,14 @@
       "url": "https://www.adlittle.com/"
     },
     {
+      "boards": [],
+      "company": "DHL Supply Chain",
+      "key": "39ed33424df359e605ee1db1",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.logistics.dhl/gb-en/home.html"
+    },
+    {
       "company": "Zest AI",
       "error": "public requests require HTTPS and a hostname",
       "key": "39f056f00d0d1dfeb8fda557",
@@ -3015,6 +3033,13 @@
       "last_scanned": "2026-08-20",
       "resolved_roles": 0,
       "url": "https://grangerconstruction.com/"
+    },
+    {
+      "company": "Disneyland Resort",
+      "error": "public request failed for https://disneyexperiences.com/dpep/news-category/disneyland-resort/: HTTP Error 410: Gone",
+      "key": "3c2e6295132b566acb3af4f2",
+      "last_scanned": "2026-08-24",
+      "url": "https://publicaffairs.disneyland.com/voluntears"
     },
     {
       "company": "Toyota Research Institute",
@@ -3948,6 +3973,16 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.beckhoff.com/"
+    },
+    {
+      "boards": [
+        "lever:nomagic"
+      ],
+      "company": "Nomagic",
+      "key": "4f2166322a06e35d033529a0",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://nomagic.ai/"
     },
     {
       "boards": [],
@@ -7103,6 +7138,13 @@
       "url": "https://www.topbuild.com/"
     },
     {
+      "company": "Walt Disney World",
+      "error": "public request failed for https://disneyworld.disney.go.com/: The read operation timed out",
+      "key": "8732ae1fd4a80b3dc22b809c",
+      "last_scanned": "2026-08-24",
+      "url": "https://disneyworld.disney.go.com/"
+    },
+    {
       "boards": [],
       "company": "HP",
       "key": "8734898437bb423e7bd7701d",
@@ -9707,6 +9749,16 @@
       "url": "https://smartly.net/"
     },
     {
+      "boards": [
+        "greenhouse:audaxprivateequity"
+      ],
+      "company": "Audax Private Equity",
+      "key": "b6a3f3b1c495ffd36314952b",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://www.audaxprivateequity.com/"
+    },
+    {
       "boards": [],
       "company": "Kimberly-Clark",
       "key": "b6a9bc5953a34f204682c37e",
@@ -9940,6 +9992,14 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://commerce.toshiba.com/"
+    },
+    {
+      "boards": [],
+      "company": "Walt Disney Imagineering",
+      "key": "bc171d30b21706c4dcb2a2ad",
+      "last_scanned": "2026-08-24",
+      "resolved_roles": 0,
+      "url": "https://disneyimaginations.com/"
     },
     {
       "boards": [],

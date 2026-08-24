@@ -1879,6 +1879,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Audax Private Equity",
+      "key": "greenhouse:audaxprivateequity",
+      "slug": "audaxprivateequity"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Axon",
       "key": "greenhouse:axon",
       "slug": "axon"
@@ -2620,6 +2626,12 @@
       "company": "Mercury",
       "key": "greenhouse:mercury",
       "slug": "mercury"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Mill",
+      "key": "greenhouse:mill",
+      "slug": "Mill"
     },
     {
       "ats": "greenhouse",
@@ -3670,6 +3682,12 @@
       "company": "Nexus Engineering Group",
       "key": "lever:nexuse-group",
       "slug": "nexuse-group"
+    },
+    {
+      "ats": "lever",
+      "company": "Nomagic",
+      "key": "lever:nomagic",
+      "slug": "Nomagic"
     },
     {
       "ats": "lever",
@@ -10291,7 +10309,7 @@
     },
     {
       "ats": "workday",
-      "company": "PennState University",
+      "company": "Pennsylvania State University",
       "host": "psu.wd1.myworkdayjobs.com",
       "key": "workday:psu.wd1.myworkdayjobs.com:psu:psu_staff",
       "site": "PSU_Staff",
@@ -11689,7 +11707,7 @@
       "company": "Varsity Brands",
       "host": "varsitybrands.wd503.myworkdayjobs.com",
       "key": "workday:varsitybrands.wd503.myworkdayjobs.com:varsitybrands:externalcareersite",
-      "site": "ExternalCareerSite",
+      "site": "externalcareersite",
       "slug": "varsitybrands",
       "wd": "wd503"
     },

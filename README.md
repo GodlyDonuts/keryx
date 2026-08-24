@@ -9,24 +9,24 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,491 internships · 3,940 new-grad roles · 6,431 total openings**
+**2,533 internships · 3,939 new-grad roles · 6,472 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 903 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 908 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 488 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 151 | **[View openings →](internships/spring-2027.md)** |
+| 🌱 Spring 2027 | 177 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 43 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 906 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 917 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 762 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,082 | **[View openings →](new-grad/2026.md)** |
+| 2027 | 772 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,071 | **[View openings →](new-grad/2026.md)** |
 | Year not listed | 2,096 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
@@ -39,16 +39,16 @@ Recent internship and co-op listings that open the employer's application page d
 |---|---|---|---|---|---:|---|
 | Audax Group | AI Engineer Co-Op | Boston, MA | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005)**<br><sub>job-boards.greenhouse.io</sub> |
 | Audax Group | Data Analytics Co-Op | Boston, MA | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722880005)**<br><sub>job-boards.greenhouse.io</sub> |
-| Audax Group | Data Engineer Co-Op | New York, New York, United States | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722770005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Audax Group | Data Engineer Co-Op | Boston, Massachusetts | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722770005)**<br><sub>job-boards.greenhouse.io</sub> |
 | Audax Group | Data Engineer CO-OP | Boston, MA | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722779005)**<br><sub>job-boards.greenhouse.io</sub> |
 | Audax Group | IT Operations Co-Op | Boston, MA | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722750005)**<br><sub>job-boards.greenhouse.io</sub> |
 | Audax Group | IT Operations Co-Op | New York, New York, United States | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722759005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Audax Private Equity | CO-OP, Portfolio Valuation & Analytics | Boston, MA | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxprivateequity/jobs/4722687005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Audax Private Equity | Data Analyst, Business Development CO-OP | Boston, MA | Not listed | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxprivateequity/jobs/4722720005)**<br><sub>job-boards.greenhouse.io</sub> |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Data Science) - Jersey City, NJ | Jersey City, NJ, United States | Summer 2027 | Dec 2027–May 2028<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81238)**<br><sub>eofe.fa.us2.oraclecloud.com</sub> |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Data Science) - Lake Mary, FL | Lake Mary, FL, United States | Summer 2027 | Dec 2027–May 2028<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81239)**<br><sub>eofe.fa.us2.oraclecloud.com</sub> |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Data Science) - New York, NY | New York, NY, United States | Summer 2027 | Dec 2027–May 2028<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81240)**<br><sub>eofe.fa.us2.oraclecloud.com</sub> |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Data Science) - Pittsburgh, PA | Pittsburgh, PA, United States | Summer 2027 | Dec 2027–May 2028<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81241)**<br><sub>eofe.fa.us2.oraclecloud.com</sub> |
-| BNY | 2027 BNY Summer Internship Program - Engineering (Developer) - Jersey City, NJ | Jersey City, NJ, United States | Summer 2027 | Dec 2027–May 2028<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81251)**<br><sub>eofe.fa.us2.oraclecloud.com</sub> |
-| BNY | 2027 BNY Summer Internship Program - Engineering (Developer) - Lake Mary, FL | Lake Mary, FL, United States | Summer 2027 | Dec 2027–May 2028<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81252)**<br><sub>eofe.fa.us2.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
