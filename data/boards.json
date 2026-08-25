@@ -4730,6 +4730,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Weatherford",
+      "host": "fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "fa-exmi-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
       "company": "Howmet Aerospace",
       "host": "fa-exty-saasfaprod1.fa.ocs.oraclecloud.com",
       "key": "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",

@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,646 internships · 3,999 new-grad roles · 6,645 total openings**
+**2,676 internships · 4,005 new-grad roles · 6,681 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 964 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 493 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 165 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 56 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 968 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 980 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 517 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 166 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 58 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 955 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 754 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,120 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,125 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 746 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,131 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,128 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -41,14 +41,14 @@ Recent internship and co-op listings that open the employer's application page d
 | AMD | ASIC Package Engineering Co-op/Intern | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91463?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | ASIC Package Engineering Intern Co-op | Secaucus, NJ, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91466?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | ASIC Package Engineering Intern Co-op | Secaucus, NJ, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91471?icims=1)**<br><sub>careers.amd.com</sub> |
-| Fortive | Field Service Engineer Co-Op | United States | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-08-25 | **[Apply →](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10270)**<br><sub>ejta.fa.us6.oraclecloud.com</sub> |
+| Cadence Design Systems | Product Engineering Intern - Electronics Hardware Design | Burlington, MA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
+| Cadence Design Systems | Product Engineering Intern - Electronics Hardware Design | Burlington, MA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
+| Cadence Design Systems | Product Engineering Internship, Electronics Hardware Design (Fall 2026) | Burlington, MA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
+| Fortive | Field Service Engineer Co-op | United States | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-08-25 | **[Apply →](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10270)**<br><sub>ejta.fa.us6.oraclecloud.com</sub> |
+| L3Harris Technologies | Security Research Engineer Intern | Herndon, VA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Herndon-Intern,-Security-Research-Engineer-VA-20171/1422834800/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
+| L3Harris Technologies | Software Engineer Intern | Palm Bay, FL | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Intern-D,-Software-Engineer-FL-32905/1422837000/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
+| L3Harris Technologies | Software Engineer Intern | Fort Wayne, IN | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Fort-Wayne-Intern,-Software-Engineer-IN-46818/1422838400/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Software Engineer Intern | Palm Bay, FL | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Intern-D,-Software-Engineer-FL-32905/1422806300/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| L3Harris Technologies | Software Engineer Intern | Fort Wayne, IN | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Fort-Wayne-Intern-D,-Software-Engineer-IN-46818/1422797900/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| L3Harris Technologies | Software Engineer Intern | Melbourne, FL | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Melbourne-Intern-C,-Software-Engineer-FL-32919/1422807400/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| Advanced Space | 2026 Team Member Success Fall Internship | Westminster, CO | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4376598009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Advanced Space | 2027 DevOps Summer Internship | Westminster, CO | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4333179009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Advanced Space | 2027 Machine Learning Summer Internship | Westminster, CO | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4324875009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Advanced Space | 2027 Mission Design Summer Internship | Westminster, CO | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4324900009)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -66,10 +66,10 @@ Recent full-time opportunities that open the employer's application page directl
 | Dell Technologies | Hardware Engineer 1 - Client Solutions Group | Austin, TX | Not listed | not available | 2026-08-25 | **[Apply →](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298141)**<br><sub>iawmqy.fa.ocs.oraclecloud.com</sub> |
 | Emory Healthcare | Associate AI Engineer | Atlanta, GA | Not listed | not available | 2026-08-25 | **[Apply →](https://non-clinical-emory.icims.com/jobs/170743/job?hub=14&mobile=true&needsRedirect=false)**<br><sub>non-clinical-emory.icims.com</sub> |
 | KLA | AI Engineer - Computer Vision/Signal Processing | Milpitas, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582)**<br><sub>kla.wd1.myworkdayjobs.com</sub> |
+| L3Harris Technologies | Associate Software Engineer | Fort Wayne, IN | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1422832500/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
+| L3Harris Technologies | Associate Software Engineer | Melbourne, FL | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-FL-32934/1422829800/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
+| L3Harris Technologies | Associate Software Engineer | Colorado Springs, CO | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineei-CO-80916/1422829300/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Optical Engineer Associate | Wilmington, MA | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Wilmington-Associate,-Optical-Engineer-MA-01887/1422797100/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| Liberty Mutual | Data Scientist | Boston, MA, Seattle, WA, Remote in USA, Plano, TX | Not listed | not available | 2026-08-25 | **[Apply →](https://careers-libertymutual.icims.com/jobs/77179/job?mobile=true&needsRedirect=false)**<br><sub>careers-libertymutual.icims.com</sub> |
-| Pinnacle Live | Event Services Technician - Audio Visual - Event Technology | Nashville, TN | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.jobvite.com/pinnaclelive/job/oiIGAfw0?nl=1&nl=1&fr=false)**<br><sub>jobs.jobvite.com</sub> |
-| Pryzm | Federal Data Analyst | Boston, MA | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.ashbyhq.com/pryzm/2c40f0bb-e559-49b3-9831-81d7484cc6dc/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
