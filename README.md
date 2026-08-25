@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,776 internships · 3,990 new-grad roles · 6,766 total openings**
+**2,718 internships · 3,995 new-grad roles · 6,713 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 991 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 517 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 163 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 59 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,046 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 969 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 514 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 161 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 58 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 1,016 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 760 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,122 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,108 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 757 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,127 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,111 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -45,10 +45,10 @@ Recent internship and co-op listings that open the employer's application page d
 | Cadence Design Systems | Product Engineering Intern - Electronics Hardware Design | Burlington, MA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
 | Cadence Design Systems | Product Engineering Intern - Electronics Hardware Design | Burlington, MA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
 | Cadence Design Systems | Product Engineering Internship, Electronics Hardware Design (Fall 2026) | Burlington, MA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
+| Celonis | Engineering Intern | Remote, US, Massachusetts | Not listed | Current student status<br><sub>stated</sub> | 2026-08-25 | **[Apply →](https://job-boards.greenhouse.io/celonis/jobs/7974381003?gh_jid=7974381003)**<br><sub>job-boards.greenhouse.io</sub> |
 | Fortive | Field Service Engineer Co-Op | United States | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-08-25 | **[Apply →](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10270)**<br><sub>ejta.fa.us6.oraclecloud.com</sub> |
+| Google | Software Engineering Intern - PhD - Summer 2027 | Mountain View, CA +29 | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://www.google.com/about/careers/applications/jobs/results/91436104816698054)**<br><sub>www.google.com</sub> |
 | L3Harris Technologies | Security Research Engineer Intern | Herndon, VA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Herndon-Intern,-Security-Research-Engineer-VA-20171/1422834800/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| L3Harris Technologies | Software Engineer Intern | Palm Bay, FL | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Intern-D,-Software-Engineer-FL-32905/1422837000/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| L3Harris Technologies | Software Engineer Intern | Fort Wayne, IN | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Fort-Wayne-Intern,-Software-Engineer-IN-46818/1422838400/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -60,16 +60,16 @@ Recent full-time opportunities that open the employer's application page directl
 |---|---|---|---|---|---:|---|
 | Amazon | Software Development Engineer - Amazon Leo | Redmond, WA, Northridge, LA | Not listed | not available | 2026-08-25 | **[Apply →](https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026)**<br><sub>amazon.jobs</sub> |
 | Amazon | Software Development Engineer - Amazon Leo - Early Career - 2026 | Redmond, WA | 2026 | not available | 2026-08-25 | **[Apply →](https://www.amazon.jobs/jobs/10513110/apply)**<br><sub>www.amazon.jobs</sub> |
+| Berkshire Hathaway Energy | Business Systems Analyst | Richmond, VA | Not listed | not available | 2026-08-25 | **[Apply →](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005685)**<br><sub>fa-essf-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 | Brown University | Health Economics Research Analyst | United States | Not listed | not available | 2026-08-25 | **[Apply →](https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/121-South-Main-Street/Health-Economics-Research-Analyst_REQ210856)**<br><sub>brown.wd5.myworkdayjobs.com</sub> |
 | ByteDance | Machine Learning Engineer Graduate - E-Commerce Risk Control - PhD | San Jose, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.bytedance.com/en/position/7675473897004861749/detail)**<br><sub>jobs.bytedance.com</sub> |
 | Cisco | Software Engineer 1 | Milpitas, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://careers.cisco.com/global/en/job/2023527)**<br><sub>careers.cisco.com</sub> |
 | Cisco | Software Engineer 2 | Milpitas, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://careers.cisco.com/global/en/job/2023512)**<br><sub>careers.cisco.com</sub> |
 | Dell Technologies | Hardware Engineer 1 - Client Solutions Group | Austin, TX | Not listed | not available | 2026-08-25 | **[Apply →](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298141)**<br><sub>iawmqy.fa.ocs.oraclecloud.com</sub> |
 | Emory Healthcare | Associate AI Engineer | Atlanta, GA | Not listed | not available | 2026-08-25 | **[Apply →](https://non-clinical-emory.icims.com/jobs/170743/job?hub=14&mobile=true&needsRedirect=false)**<br><sub>non-clinical-emory.icims.com</sub> |
+| Fidelity Investments | Software Engineer New Grad - LEAP | Westlake, TX, Merrimack, NH | Not listed | not available | 2026-08-25 | **[Apply →](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/XMLNAME-2026-Undergraduate---LEAP--Software-Engineer_2134380)**<br><sub>fmr.wd1.myworkdayjobs.com</sub> |
 | KLA | AI Engineer - Computer Vision/Signal Processing | Milpitas, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582)**<br><sub>kla.wd1.myworkdayjobs.com</sub> |
 | L3Harris Technologies | Associate Software Engineer | Fort Wayne, IN | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1422832500/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| L3Harris Technologies | Associate Software Engineer | Melbourne, FL | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-FL-32934/1422829800/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| L3Harris Technologies | Associate Software Engineer | Colorado Springs, CO | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineei-CO-80916/1422829300/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
