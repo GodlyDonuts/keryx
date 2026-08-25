@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,674 internships · 3,983 new-grad roles · 6,657 total openings**
+**2,776 internships · 3,990 new-grad roles · 6,766 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 990 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 516 | **[View openings →](internships/fall-2026.md)** |
+| ☀️ Summer 2027 | 991 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 517 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 163 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 59 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 946 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 1,046 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 752 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,111 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,120 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 760 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,122 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,108 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -41,14 +41,14 @@ Recent internship and co-op listings that open the employer's application page d
 | AMD | ASIC Package Engineering Co-op/Intern | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91463?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | ASIC Package Engineering Intern Co-op | Secaucus, NJ, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91466?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | ASIC Package Engineering Intern Co-op | Secaucus, NJ, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91471?icims=1)**<br><sub>careers.amd.com</sub> |
-| Bosch | AI Security Research Intern | Pittsburgh, PA, United States | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000145507908)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Bosch Home Comfort | AI Security Research Intern | Pittsburgh, PA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000145507908)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Cadence Design Systems | Product Engineering Intern - Electronics Hardware Design | Burlington, MA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
 | Cadence Design Systems | Product Engineering Intern - Electronics Hardware Design | Burlington, MA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
 | Cadence Design Systems | Product Engineering Internship, Electronics Hardware Design (Fall 2026) | Burlington, MA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
 | Fortive | Field Service Engineer Co-Op | United States | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-08-25 | **[Apply →](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10270)**<br><sub>ejta.fa.us6.oraclecloud.com</sub> |
-| GlobalFoundries | US Advanced Manufacturing Equipment Engineering Intern, Junior (Summer 2027) | USA - Vermont - Essex Junction | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656)**<br><sub>globalfoundries.wd1.myworkdayjobs.com</sub> |
 | L3Harris Technologies | Security Research Engineer Intern | Herndon, VA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Herndon-Intern,-Security-Research-Engineer-VA-20171/1422834800/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Software Engineer Intern | Palm Bay, FL | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Intern-D,-Software-Engineer-FL-32905/1422837000/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
+| L3Harris Technologies | Software Engineer Intern | Fort Wayne, IN | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Fort-Wayne-Intern,-Software-Engineer-IN-46818/1422838400/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -59,6 +59,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Amazon | Software Development Engineer - Amazon Leo | Redmond, WA, Northridge, LA | Not listed | not available | 2026-08-25 | **[Apply →](https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026)**<br><sub>amazon.jobs</sub> |
+| Amazon | Software Development Engineer - Amazon Leo - Early Career - 2026 | Redmond, WA | 2026 | not available | 2026-08-25 | **[Apply →](https://www.amazon.jobs/jobs/10513110/apply)**<br><sub>www.amazon.jobs</sub> |
 | Brown University | Health Economics Research Analyst | United States | Not listed | not available | 2026-08-25 | **[Apply →](https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/121-South-Main-Street/Health-Economics-Research-Analyst_REQ210856)**<br><sub>brown.wd5.myworkdayjobs.com</sub> |
 | ByteDance | Machine Learning Engineer Graduate - E-Commerce Risk Control - PhD | San Jose, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.bytedance.com/en/position/7675473897004861749/detail)**<br><sub>jobs.bytedance.com</sub> |
 | Cisco | Software Engineer 1 | Milpitas, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://careers.cisco.com/global/en/job/2023527)**<br><sub>careers.cisco.com</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | L3Harris Technologies | Associate Software Engineer | Fort Wayne, IN | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1422832500/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Associate Software Engineer | Melbourne, FL | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-FL-32934/1422829800/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Associate Software Engineer | Colorado Springs, CO | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineei-CO-80916/1422829300/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| L3Harris Technologies | Optical Engineer Associate | Wilmington, MA | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Wilmington-Associate,-Optical-Engineer-MA-01887/1422797100/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

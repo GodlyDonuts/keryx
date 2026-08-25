@@ -58,6 +58,18 @@
       "url": "https://xploreworldagency.org/"
     },
     {
+      "boards": [
+        "greenhouse:koboldmetals",
+        "greenhouse:koboldmetalsdrc",
+        "greenhouse:zambold"
+      ],
+      "company": "KoBold Metals",
+      "key": "00c933b80d12230320a76c3a",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.koboldmetals.com/"
+    },
+    {
       "boards": [],
       "company": "Nectar Markets",
       "key": "00e36960f27b067287afb640",
@@ -2014,7 +2026,7 @@
       "boards": [],
       "company": "Ozmo",
       "key": "24fb09469a80d67af17b25d3",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://www.ozmo.com/"
     },
@@ -2604,6 +2616,14 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.a2secure.com/"
+    },
+    {
+      "boards": [],
+      "company": "Serval",
+      "key": "2f56d3db36adceaacf84823b",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.serval.com/"
     },
     {
       "boards": [],
@@ -5841,6 +5861,14 @@
     },
     {
       "boards": [],
+      "company": "Second Order Effects",
+      "key": "64d68b0d2c0690dc2043787e",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://soeffects.com/"
+    },
+    {
+      "boards": [],
       "company": "Affirm",
       "key": "651cc3f594cc355b33b77a65",
       "last_scanned": "2026-08-24",
@@ -6777,6 +6805,16 @@
       "url": "https://www.usa.philips.com/"
     },
     {
+      "boards": [
+        "ashby:persona.ai"
+      ],
+      "company": "Persona AI",
+      "key": "7450d7da015d6508c882e404",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://personainc.ai/"
+    },
+    {
       "boards": [],
       "company": "RLI Insurance Company",
       "key": "7473f973b76005bcf3e3bdba",
@@ -7496,7 +7534,7 @@
       "boards": [],
       "company": "Versant Media",
       "key": "8025981ef3280d92bfe903e7",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://versantmedia.com/"
     },
@@ -7632,7 +7670,7 @@
       "boards": [],
       "company": "State of Florida",
       "key": "82bbb414552d880a9f877292",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://www.myflorida.com/"
     },
@@ -8558,6 +8596,16 @@
       "url": "https://www.cadence.com/"
     },
     {
+      "boards": [
+        "ashby:garage"
+      ],
+      "company": "Garage",
+      "key": "917663a6dec2119bf3e9fd2b",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.shopgarage.com/"
+    },
+    {
       "boards": [],
       "company": "Clarity Partners",
       "key": "917d04f0bdd7521502bbe6aa",
@@ -8811,6 +8859,14 @@
       "last_scanned": "2026-08-20",
       "resolved_roles": 0,
       "url": "https://dhakatechnology.com/"
+    },
+    {
+      "boards": [],
+      "company": "Lansing Building Products",
+      "key": "97e4627e909c7dc9feefe68c",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://lansingbp.com/"
     },
     {
       "company": "Best Buy",
@@ -9487,6 +9543,13 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.peraton.com/"
+    },
+    {
+      "company": "StudyFetch",
+      "error": "public request failed for https://www.studyfetch.com/: HTTP Error 403: Forbidden",
+      "key": "a3bebc2fe85708c99fb96c69",
+      "last_scanned": "2026-08-25",
+      "url": "https://www.studyfetch.com/"
     },
     {
       "boards": [
@@ -12495,6 +12558,16 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://www.arthrex.com/"
+    },
+    {
+      "boards": [
+        "workday:accenture.wd103.myworkdayjobs.com:accenture:accenturecareers"
+      ],
+      "company": "Accenture",
+      "key": "d2c7fe940029e833d31c5e97",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.accenture.com/"
     },
     {
       "company": "Carollo Engineers",

@@ -524,6 +524,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Garage",
+      "key": "ashby:garage",
+      "slug": "garage"
+    },
+    {
+      "ats": "ashby",
       "company": "Gen Digital",
       "key": "ashby:gen-digital",
       "slug": "gen-digital"
@@ -2618,6 +2624,18 @@
     },
     {
       "ats": "greenhouse",
+      "company": "KoBold Metals",
+      "key": "greenhouse:koboldmetals",
+      "slug": "koboldmetals"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "KoBold Metals",
+      "key": "greenhouse:koboldmetalsdrc",
+      "slug": "koboldmetalsdrc"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Kodiak Robotics",
       "key": "greenhouse:kodiak",
       "slug": "kodiak"
@@ -3467,6 +3485,12 @@
       "company": "XPENG Motors",
       "key": "greenhouse:xpengmotors",
       "slug": "xpengmotors"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "KoBold Metals",
+      "key": "greenhouse:zambold",
+      "slug": "zambold"
     },
     {
       "ats": "greenhouse",
