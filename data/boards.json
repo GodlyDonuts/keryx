@@ -8,6 +8,12 @@
     },
     {
       "ats": "ashby",
+      "company": "2ndWave LLC",
+      "key": "ashby:2ndwave",
+      "slug": "2ndwave"
+    },
+    {
+      "ats": "ashby",
       "company": "Abridge",
       "key": "ashby:abridge",
       "slug": "abridge"
@@ -4945,6 +4951,14 @@
       "key": "oracle:ibpwjb.fa.ocs.oraclecloud.com:cx_1",
       "site": "CX_1",
       "slug": "ibpwjb"
+    },
+    {
+      "ats": "oracle",
+      "company": "Honeywell",
+      "host": "ibqbjb.fa.ocs.oraclecloud.com",
+      "key": "oracle:ibqbjb.fa.ocs.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "ibqbjb"
     },
     {
       "ats": "oracle",
