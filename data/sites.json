@@ -465,6 +465,13 @@
       "url": "https://fireworks.ai/"
     },
     {
+      "company": "LogistiQ",
+      "error": "Invalid IPv6 URL",
+      "key": "0805119eb9152114ba5727b1",
+      "last_scanned": "2026-08-25",
+      "url": "https://logistiqsolutions.com/"
+    },
+    {
       "boards": [],
       "company": "Davidson Technologies",
       "key": "0884c9e8941c95aa5f55dcdd",
@@ -3072,6 +3079,16 @@
       "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://www.justworks.com/"
+    },
+    {
+      "boards": [
+        "workday:roche.wd3.myworkdayjobs.com:roche:rog-a2o-gene"
+      ],
+      "company": "Genentech",
+      "key": "384e93a0d9fe28e611403327",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://gene.com/"
     },
     {
       "boards": [],
