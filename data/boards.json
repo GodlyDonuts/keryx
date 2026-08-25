@@ -2882,6 +2882,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Power Digital",
+      "key": "greenhouse:powerdigitalmarketing",
+      "slug": "powerdigitalmarketing"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Pure Storage",
       "key": "greenhouse:purestorage",
       "slug": "purestorage"
@@ -7115,6 +7121,15 @@
       "key": "workday:capitalone.wd12.myworkdayjobs.com:capitalone:capital_one",
       "site": "Capital_One",
       "slug": "capitalone",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
+      "company": "Caris Life Sciences",
+      "host": "carislifesciences.wd12.myworkdayjobs.com",
+      "key": "workday:carislifesciences.wd12.myworkdayjobs.com:carislifesciences:cls",
+      "site": "cls",
+      "slug": "carislifesciences",
       "wd": "wd12"
     },
     {
