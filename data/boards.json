@@ -1052,6 +1052,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Pryzm",
+      "key": "ashby:pryzm",
+      "slug": "pryzm"
+    },
+    {
+      "ats": "ashby",
       "company": "Pylon",
       "key": "ashby:pylon-labs",
       "slug": "pylon-labs"
@@ -2684,6 +2690,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Meridian Partners",
+      "key": "greenhouse:morsecorpcoop",
+      "slug": "morsecorpcoop"
+    },
+    {
+      "ats": "greenhouse",
       "company": "mthree",
       "key": "greenhouse:mthreerecruitingportal",
       "slug": "mthreerecruitingportal"
@@ -4156,6 +4168,38 @@
     },
     {
       "ats": "oracle",
+      "company": "Sundt Construction",
+      "host": "eewl.fa.us6.oraclecloud.com",
+      "key": "oracle:eewl.fa.us6.oraclecloud.com:cx",
+      "site": "CX",
+      "slug": "eewl"
+    },
+    {
+      "ats": "oracle",
+      "company": "Sundt Construction",
+      "host": "eewl.fa.us6.oraclecloud.com",
+      "key": "oracle:eewl.fa.us6.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "eewl"
+    },
+    {
+      "ats": "oracle",
+      "company": "Sundt Construction",
+      "host": "eewl.fa.us6.oraclecloud.com",
+      "key": "oracle:eewl.fa.us6.oraclecloud.com:cx_1001",
+      "site": "CX_1001",
+      "slug": "eewl"
+    },
+    {
+      "ats": "oracle",
+      "company": "Sundt Construction",
+      "host": "eewl.fa.us6.oraclecloud.com",
+      "key": "oracle:eewl.fa.us6.oraclecloud.com:cx_1004",
+      "site": "CX_1004",
+      "slug": "eewl"
+    },
+    {
+      "ats": "oracle",
       "company": "Greenwood Village South",
       "host": "eexs.fa.us2.oraclecloud.com",
       "key": "oracle:eexs.fa.us2.oraclecloud.com:greenwoodvillagesouth",
@@ -5374,6 +5418,12 @@
     },
     {
       "ats": "smartrecruiters",
+      "company": "STCU",
+      "key": "smartrecruiters:stcu1",
+      "slug": "STCU1"
+    },
+    {
+      "ats": "smartrecruiters",
       "company": "STEM Xpert",
       "key": "smartrecruiters:stemxpert1",
       "slug": "StemXpert1"
@@ -5635,6 +5685,12 @@
       "company": "New Flyer",
       "key": "workable:new-flyer",
       "slug": "new-flyer"
+    },
+    {
+      "ats": "workable",
+      "company": "OceanComm",
+      "key": "workable:oceancomm",
+      "slug": "oceancomm"
     },
     {
       "ats": "workable",
@@ -7525,6 +7581,15 @@
     },
     {
       "ats": "workday",
+      "company": "Daikin Applied",
+      "host": "daikinapplied.wd1.myworkdayjobs.com",
+      "key": "workday:daikinapplied.wd1.myworkdayjobs.com:daikinapplied:pre-selected_candidate_site",
+      "site": "Pre-Selected_Candidate_Site",
+      "slug": "daikinapplied",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Dana-Farber Cancer Institute",
       "host": "danafarber.wd5.myworkdayjobs.com",
       "key": "workday:danafarber.wd5.myworkdayjobs.com:danafarber:dana-farber",
@@ -7612,6 +7677,15 @@
       "site": "DAN_GLOBAL",
       "slug": "dentsuaegis",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Denver Health",
+      "host": "denverhealth.wd1.myworkdayjobs.com",
+      "key": "workday:denverhealth.wd1.myworkdayjobs.com:denverhealth:dhha-main",
+      "site": "DHHA-Main",
+      "slug": "denverhealth",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -11022,6 +11096,15 @@
       "key": "workday:servicetitan.wd1.myworkdayjobs.com:servicetitan:servicetitan",
       "site": "ServiceTitan",
       "slug": "servicetitan",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Shaw Industries",
+      "host": "shawinc.wd1.myworkdayjobs.com",
+      "key": "workday:shawinc.wd1.myworkdayjobs.com:shawinc:external",
+      "site": "External",
+      "slug": "shawinc",
       "wd": "wd1"
     },
     {
