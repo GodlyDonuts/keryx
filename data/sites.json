@@ -6336,6 +6336,16 @@
       "url": "https://www.littelfuse.com/"
     },
     {
+      "boards": [
+        "workday:fanniemae.wd1.myworkdayjobs.com:fanniemae:fanniemaecareers"
+      ],
+      "company": "Fannie Mae",
+      "key": "6d7c31228c4aaacb8f95989a",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://fanniemae.com/"
+    },
+    {
       "boards": [],
       "company": "Skyworks Solutions, Inc.",
       "key": "6d9737aa218175cf0ecab9fb",
@@ -10526,6 +10536,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://wisengineering.com/"
+    },
+    {
+      "company": "U.S. News & World Report",
+      "error": "public request failed for https://usnews.com/: The read operation timed out",
+      "key": "b420031620d571e74faa3808",
+      "last_scanned": "2026-08-25",
+      "url": "https://usnews.com/"
     },
     {
       "boards": [],
