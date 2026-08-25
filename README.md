@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,685 internships · 4,004 new-grad roles · 6,689 total openings**
+**2,709 internships · 3,989 new-grad roles · 6,698 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 993 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 519 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 163 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 58 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 952 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 1,002 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 520 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 167 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 57 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 963 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 759 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,134 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,111 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 754 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,123 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,112 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -41,12 +41,12 @@ Recent internship and co-op listings that open the employer's application page d
 | AMD | ASIC Package Engineering Co-op/Intern | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91463?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | ASIC Package Engineering Intern Co-op | Secaucus, NJ, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91466?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | ASIC Package Engineering Intern Co-op | Secaucus, NJ, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91471?icims=1)**<br><sub>careers.amd.com</sub> |
-| Bosch | AI Security Research Intern | Pittsburgh, PA, us | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000145507908)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Bosch | Spring 2027 Key User - Supply Chain / Computer Science - Co-op | Summerville, SC, us | Spring 2027 | not available | 2026-08-25 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000145511458)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Cadence Design Systems | Product Engineering Intern - Electronics Hardware Design | Burlington, MA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
+| Bosch Home Comfort | AI Security Research Intern | Pittsburgh, PA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000145507908)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Cadence Design Systems | Product Engineering Intern - Electronics Hardware Design | Burlington, MA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
 | Cadence Design Systems | Product Engineering Intern - Electronics Hardware Design | Burlington, MA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
-| Cadence Design Systems | Product Engineering Internship, Electronics Hardware Design (Fall 2026) | Burlington, MA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
-| Celonis | Engineering Intern | Remote, US, Massachusetts | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-08-25 | **[Apply →](https://job-boards.greenhouse.io/celonis/jobs/7974381003?gh_jid=7974381003)**<br><sub>job-boards.greenhouse.io</sub> |
+| Cadence Design Systems | Product Engineering Internship, Electronics Hardware Design (Fall 2026) | Burlington, MA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
+| Celonis | Engineering Intern | Massachusetts | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-08-25 | **[Apply →](https://job-boards.greenhouse.io/celonis/jobs/7974381003?gh_jid=7974381003)**<br><sub>job-boards.greenhouse.io</sub> |
 | Compeer Financial | Intern Engineering | MN - Mankato; MN - Lakeville | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-08-25 | **[Apply →](https://job-boards.greenhouse.io/compeerfinancial/jobs/5405050008)**<br><sub>job-boards.greenhouse.io</sub> |
 | Compeer Financial | Intern Engineering | IL-Bloomington; MN-Mankato; WI-SunPrairie | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-08-25 | **[Apply →](https://job-boards.greenhouse.io/compeerfinancial/jobs/5404850008)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
