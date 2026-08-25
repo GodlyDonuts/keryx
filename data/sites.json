@@ -608,6 +608,14 @@
     },
     {
       "boards": [],
+      "company": "StepStone Group",
+      "key": "0ace57276573654db2219d50",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.stepstonegroup.com/"
+    },
+    {
+      "boards": [],
       "company": "TKC Holdings, Inc.",
       "key": "0ae8a13e1f28f350e815c431",
       "last_scanned": "2026-08-15",
@@ -1467,7 +1475,7 @@
       "boards": [],
       "company": "Skanska",
       "key": "1992e27c4b7126430c97f8f5",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://skanska.com/"
     },
@@ -4334,7 +4342,7 @@
       "company": "Crowe",
       "error": "public request failed for https://www.crowe.com/: HTTP Error 403: Forbidden",
       "key": "4d0beeea761d31adbc5dcf65",
-      "last_scanned": "2026-08-20",
+      "last_scanned": "2026-08-25",
       "url": "https://www.crowe.com/"
     },
     {
@@ -4469,6 +4477,14 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://www.parsons.com/"
+    },
+    {
+      "boards": [],
+      "company": "GATE Energy",
+      "key": "4f2d0f49d4f544aaec8840f0",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.gate.energy/"
     },
     {
       "boards": [],
@@ -5082,6 +5098,14 @@
     },
     {
       "boards": [],
+      "company": "Jane Street",
+      "key": "57ff228225f21956fee745ec",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.janestreet.com/"
+    },
+    {
+      "boards": [],
       "company": "AAR",
       "key": "5800e9e8862d1d56c4e5b962",
       "last_scanned": "2026-08-24",
@@ -5629,6 +5653,14 @@
     },
     {
       "boards": [],
+      "company": "London Computer Systems",
+      "key": "60181552d422cb7fa85bbbca",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.lcs.com/"
+    },
+    {
+      "boards": [],
       "company": "iSoftStone",
       "key": "604a4fa4aa49d90d00377182",
       "last_scanned": "2026-08-21",
@@ -5898,6 +5930,16 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.oppd.com/"
+    },
+    {
+      "boards": [
+        "greenhouse:compeerfinancial"
+      ],
+      "company": "Compeer Financial",
+      "key": "656ef5c519514c092bdc5e16",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://compeer.com/"
     },
     {
       "boards": [
@@ -6484,7 +6526,7 @@
       "company": "Cond\u00e9 Nast",
       "error": "public request failed for https://www.condenaststore.com/: HTTP Error 403: Forbidden",
       "key": "6eec980689776b723fd9bb19",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-08-25",
       "url": "https://www.condenaststore.com/"
     },
     {
@@ -7134,7 +7176,7 @@
       "boards": [],
       "company": "Hubbell Incorporated",
       "key": "782af6d46bdec192f29faaab",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://www.hubbell.com/"
     },
@@ -10281,6 +10323,13 @@
       "url": "https://join.bili.dev/"
     },
     {
+      "company": "Netflix",
+      "error": "public response exceeded 3145728 bytes",
+      "key": "ae6dd44356905103b4618a88",
+      "last_scanned": "2026-08-25",
+      "url": "https://www.netflix.com/"
+    },
+    {
       "boards": [
         "greenhouse:audaxgroup"
       ],
@@ -10490,7 +10539,7 @@
       "boards": [],
       "company": "Mitsubishi Power Americas",
       "key": "b1b0d8c8cb4a8c36c78a2348",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://power.mhi.com/regions/amer/"
     },
@@ -10934,6 +10983,16 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://www.ironoakenergy.com/"
+    },
+    {
+      "boards": [
+        "workday:osv-cci.wd1.myworkdayjobs.com:osv-cci:ccicareers"
+      ],
+      "company": "Castleton Commodities International",
+      "key": "b88396f86c29f06e3d6e4af4",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.cci.com/"
     },
     {
       "company": "Collins Aerospace",
@@ -13464,6 +13523,13 @@
       "url": "https://www.machindustries.com/"
     },
     {
+      "company": "General Dynamics Electric Boat",
+      "error": "public request failed for https://www.gdeb.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "key": "e1f3afd126424c0ba926147f",
+      "last_scanned": "2026-08-25",
+      "url": "https://www.gdeb.com/"
+    },
+    {
       "boards": [],
       "company": "PC Professional",
       "key": "e2212c75b9a33e8929ddd1e5",
@@ -14680,6 +14746,14 @@
       "key": "f53ce3ad208b14b94c9e584f",
       "last_scanned": "2026-08-22",
       "url": "https://www.ericsson.com/"
+    },
+    {
+      "boards": [],
+      "company": "European Energy Exchange AG",
+      "key": "f54c9bdd1932e9acf874775c",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 1,
+      "url": "https://www.eex.com/en"
     },
     {
       "boards": [],

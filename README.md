@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,718 internships · 3,995 new-grad roles · 6,713 total openings**
+**2,785 internships · 3,989 new-grad roles · 6,774 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 969 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 514 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 161 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 996 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 517 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 164 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 58 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,016 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 1,050 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 757 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,127 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,111 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 759 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,121 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,109 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -41,14 +41,14 @@ Recent internship and co-op listings that open the employer's application page d
 | AMD | ASIC Package Engineering Co-op/Intern | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91463?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | ASIC Package Engineering Intern Co-op | Secaucus, NJ, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91466?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | ASIC Package Engineering Intern Co-op | Secaucus, NJ, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91471?icims=1)**<br><sub>careers.amd.com</sub> |
-| Bosch Home Comfort | AI Security Research Intern | Pittsburgh, PA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000145507908)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Bosch | AI Security Research Intern | Pittsburgh, PA, us | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000145507908)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Bosch | Spring 2027 Key User - Supply Chain / Computer Science - Co-op | Summerville, SC, us | Spring 2027 | not available | 2026-08-25 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000145511458)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Cadence Design Systems | Product Engineering Intern - Electronics Hardware Design | Burlington, MA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
 | Cadence Design Systems | Product Engineering Intern - Electronics Hardware Design | Burlington, MA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
 | Cadence Design Systems | Product Engineering Internship, Electronics Hardware Design (Fall 2026) | Burlington, MA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
-| Celonis | Engineering Intern | Remote, US, Massachusetts | Not listed | Current student status<br><sub>stated</sub> | 2026-08-25 | **[Apply →](https://job-boards.greenhouse.io/celonis/jobs/7974381003?gh_jid=7974381003)**<br><sub>job-boards.greenhouse.io</sub> |
-| Fortive | Field Service Engineer Co-Op | United States | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-08-25 | **[Apply →](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10270)**<br><sub>ejta.fa.us6.oraclecloud.com</sub> |
-| Google | Software Engineering Intern - PhD - Summer 2027 | Mountain View, CA +29 | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://www.google.com/about/careers/applications/jobs/results/91436104816698054)**<br><sub>www.google.com</sub> |
-| L3Harris Technologies | Security Research Engineer Intern | Herndon, VA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Herndon-Intern,-Security-Research-Engineer-VA-20171/1422834800/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
+| Celonis | Engineering Intern | Remote, US, Massachusetts | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-08-25 | **[Apply →](https://job-boards.greenhouse.io/celonis/jobs/7974381003?gh_jid=7974381003)**<br><sub>job-boards.greenhouse.io</sub> |
+| Compeer Financial | Intern Engineering | MN - Mankato; MN - Lakeville | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-08-25 | **[Apply →](https://job-boards.greenhouse.io/compeerfinancial/jobs/5405050008)**<br><sub>job-boards.greenhouse.io</sub> |
+| Compeer Financial | Intern Engineering | IL-Bloomington; MN-Mankato; WI-SunPrairie | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-08-25 | **[Apply →](https://job-boards.greenhouse.io/compeerfinancial/jobs/5404850008)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -67,9 +67,9 @@ Recent full-time opportunities that open the employer's application page directl
 | Cisco | Software Engineer 2 | Milpitas, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://careers.cisco.com/global/en/job/2023512)**<br><sub>careers.cisco.com</sub> |
 | Dell Technologies | Hardware Engineer 1 - Client Solutions Group | Austin, TX | Not listed | not available | 2026-08-25 | **[Apply →](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298141)**<br><sub>iawmqy.fa.ocs.oraclecloud.com</sub> |
 | Emory Healthcare | Associate AI Engineer | Atlanta, GA | Not listed | not available | 2026-08-25 | **[Apply →](https://non-clinical-emory.icims.com/jobs/170743/job?hub=14&mobile=true&needsRedirect=false)**<br><sub>non-clinical-emory.icims.com</sub> |
+| European Energy Exchange AG | Working Student (f/m/d) - Data Innovation & Risk Management | Clearing, Illinois, United States | 2026 | not available | 2026-08-25 | **[Apply →](https://career.deutsche-boerse.com/job-invite/27336/)**<br><sub>career.deutsche-boerse.com</sub> |
 | Fidelity Investments | Software Engineer New Grad - LEAP | Westlake, TX, Merrimack, NH | Not listed | not available | 2026-08-25 | **[Apply →](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/XMLNAME-2026-Undergraduate---LEAP--Software-Engineer_2134380)**<br><sub>fmr.wd1.myworkdayjobs.com</sub> |
-| KLA | AI Engineer - Computer Vision/Signal Processing | Milpitas, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582)**<br><sub>kla.wd1.myworkdayjobs.com</sub> |
-| L3Harris Technologies | Associate Software Engineer | Fort Wayne, IN | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1422832500/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
+| Foundation Health | Software Engineer | Orlando, FL, Remote in USA | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.ashbyhq.com/foundationhealthcareers/e5a46260-f26d-4c62-a641-defcc04db137/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
