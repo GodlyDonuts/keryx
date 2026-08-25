@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,679 internships · 4,057 new-grad roles · 6,736 total openings**
+**2,660 internships · 4,047 new-grad roles · 6,707 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 994 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 986 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 489 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 172 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 56 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 968 | **[View openings →](internships/unscheduled.md)** |
+| 🌱 Spring 2027 | 171 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 57 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 957 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 768 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,149 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,140 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 756 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,155 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,136 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -61,15 +61,15 @@ Recent full-time opportunities that open the employer's application page directl
 | Amazon | Software Development Engineer - Amazon Leo | Redmond, WA, Northridge, LA | Not listed | not available | 2026-08-25 | **[Apply →](https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026)**<br><sub>amazon.jobs</sub> |
 | ByteDance | Machine Learning Engineer Graduate - E-Commerce Risk Control - PhD | San Jose, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.bytedance.com/en/position/7675473897004861749/detail)**<br><sub>jobs.bytedance.com</sub> |
 | Cisco | Software Engineer 1 | Milpitas, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://careers.cisco.com/global/en/job/2023527)**<br><sub>careers.cisco.com</sub> |
+| Cisco | Software Engineer 2 | Milpitas, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://careers.cisco.com/global/en/job/2023512)**<br><sub>careers.cisco.com</sub> |
+| Emory Healthcare | Associate AI Engineer | Atlanta, GA | Not listed | not available | 2026-08-25 | **[Apply →](https://non-clinical-emory.icims.com/jobs/170743/job?hub=14&mobile=true&needsRedirect=false)**<br><sub>non-clinical-emory.icims.com</sub> |
+| KLA | AI Engineer - Computer Vision/Signal Processing | Milpitas, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582)**<br><sub>kla.wd1.myworkdayjobs.com</sub> |
+| L3Harris Technologies | Optical Engineer Associate | Wilmington, MA | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Wilmington-Associate,-Optical-Engineer-MA-01887/1422797100/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | Liberty Mutual | Data Scientist | Boston, MA, Seattle, WA, Remote in USA, Plano, TX | Not listed | not available | 2026-08-25 | **[Apply →](https://careers-libertymutual.icims.com/jobs/77179/job?mobile=true&needsRedirect=false)**<br><sub>careers-libertymutual.icims.com</sub> |
 | Pryzm | Federal Data Analyst | Boston, MA | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.ashbyhq.com/pryzm/2c40f0bb-e559-49b3-9831-81d7484cc6dc/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Sciemo | Data Scientist | Research Triangle Park, Durham, NC, Philadelphia, PA, NYC, Atlanta, GA | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.ashbyhq.com/sciemo/208da924-4a08-4be7-a20c-a420f08e77d2/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | STCU | Software Developer 1 | Liberty Lake, WA | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.smartrecruiters.com/STCU1/744000145379939)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Tesla | Electronic Hardware Validation - Low Voltage Systems | Palo Alto, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://www.tesla.com/careers/search/job/280969)**<br><sub>www.tesla.com</sub> |
-| Acron Aviation | Associate Embedded Software Engineer - Surveillance | Phoenix, AZ | Not listed | not available | 2026-08-24 | **[Apply →](https://jobs.lever.co/acronaviation/e013a28f-c025-40df-a7d4-45d2bb69e701/apply)**<br><sub>jobs.lever.co</sub> |
-| Acron Aviation | Associate Embedded Software Engineer - Surveillance | Phoenix, AZ | Not listed | not available | 2026-08-24 | **[Apply →](https://jobs.lever.co/acronaviation/a7d56b84-92e6-427a-827b-ac0c37438b05/apply)**<br><sub>jobs.lever.co</sub> |
-| American Electric Power | Data Scientist Associate - Data Scientist - Data Scientist Senior | Fort Wayne, IN | Not listed | not available | 2026-08-24 | **[Apply →](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Ft-Wayne-IN/Data-Scientist-Associate---Data-Scientist-Sr_R18526)**<br><sub>aep.wd1.myworkdayjobs.com</sub> |
-| Booz Allen | Software Developer | Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA | Not listed | not available | 2026-08-24 | **[Apply →](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0247713)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
