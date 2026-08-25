@@ -4520,6 +4520,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Tenet Healthcare",
+      "host": "eodr.fa.us2.oraclecloud.com",
+      "key": "oracle:eodr.fa.us2.oraclecloud.com:cx_1001",
+      "site": "CX_1001",
+      "slug": "eodr"
+    },
+    {
+      "ats": "oracle",
       "company": "BNY",
       "host": "eofe.fa.us2.oraclecloud.com",
       "key": "oracle:eofe.fa.us2.oraclecloud.com:bny-careers",
@@ -10600,6 +10608,15 @@
       "site": "pentair_careers",
       "slug": "pentair",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Permian Resources",
+      "host": "permianres.wd12.myworkdayjobs.com",
+      "key": "workday:permianres.wd12.myworkdayjobs.com:permianres:permian_resources_careers",
+      "site": "Permian_Resources_Careers",
+      "slug": "permianres",
+      "wd": "wd12"
     },
     {
       "ats": "workday",

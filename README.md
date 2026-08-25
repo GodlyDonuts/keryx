@@ -9,24 +9,24 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,775 internships · 4,050 new-grad roles · 6,825 total openings**
+**2,835 internships · 4,053 new-grad roles · 6,888 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 1,020 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 526 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 164 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 57 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,008 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 1,033 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 528 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 166 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 58 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 1,050 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 756 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,166 | **[View openings →](new-grad/2026.md)** |
+| 2027 | 750 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,175 | **[View openings →](new-grad/2026.md)** |
 | Year not listed | 2,128 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
@@ -43,12 +43,12 @@ Recent internship and co-op listings that open the employer's application page d
 | AMD | ASIC Package Engineering Intern Co-op | Secaucus, NJ, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91466?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | ASIC Package Engineering Intern Co-op | Secaucus, NJ, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91471?icims=1)**<br><sub>careers.amd.com</sub> |
 | Apex Fintech Solutions | Technology Fintern - Software Engineering - Product Management | Austin, TX, Dallas, TX, Chicago, IL, NYC | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/XMLNAME-2026-AFS-Technology-Internship-Program_JR103660)**<br><sub>peak6group.wd1.myworkdayjobs.com</sub> |
+| Base Power | Hardware Technical Program Management Intern | Austin, TX | Not listed | not stated | 2026-08-25 | **[Apply →](https://jobs.ashbyhq.com/base-power/c6228333-5f84-4363-9a3a-fd1dfb8ad1a2)**<br><sub>jobs.ashbyhq.com</sub> |
+| Bosch | AI Security Research Intern | Pittsburgh, PA, us | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000145507908)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Bosch | Spring 2027 Key User - Supply Chain / Computer Science - Co-op | Summerville, SC, us | Spring 2027 | not available | 2026-08-25 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000145511458)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Bosch Home Comfort | AI Security Research Intern | Pittsburgh, PA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000145507908)**<br><sub>jobs.smartrecruiters.com</sub> |
 | BP | Finance & Risk Intern - Supply, Trading, & Shipping - Finance & Risk | Chicago, IL | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ114738-1)**<br><sub>bpinternational.wd3.myworkdayjobs.com</sub> |
 | Brunswick | Advanced Manufacturing/Operations Analytics Engineering Co-op - Global Operations Excellence | Fond du Lac, WI | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238)**<br><sub>brunswick.wd1.myworkdayjobs.com</sub> |
-| Brunswick | Product Management Intern - Oils & Lubricants | Fond du Lac, WI | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213)**<br><sub>brunswick.wd1.myworkdayjobs.com</sub> |
-| Brunswick | Product Management Intern - Parts & Accessories | Fond du Lac, WI | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Merucry-Marine--Product-Management-Intern---Parts---Accessories_JR-051142)**<br><sub>brunswick.wd1.myworkdayjobs.com</sub> |
+| Brunswick | Mercury Marine: Software Validation Intern | Oshkosh, WI | Not listed | not available | 2026-08-25 | **[Apply →](https://brunswick.wd1.myworkdayjobs.com/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160)**<br><sub>brunswick.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links

@@ -383,6 +383,14 @@
       "url": "https://www.aechelon.com/"
     },
     {
+      "boards": [],
+      "company": "Progressive Design, Inc.",
+      "key": "0647146234d21bcc2e741cda",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://progressive-design.com/"
+    },
+    {
       "boards": [
         "greenhouse:parallel",
         "greenhouse:users"
@@ -1083,6 +1091,14 @@
       "key": "126fed32d4e83ebd64fe6a32",
       "last_scanned": "2026-08-25",
       "url": "https://www.bbn.com/"
+    },
+    {
+      "boards": [],
+      "company": "talentpluto",
+      "key": "1284e7c14d1191e20066d150",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://talentpluto.com/"
     },
     {
       "company": "Acosta",
@@ -2287,7 +2303,7 @@
       "boards": [],
       "company": "FlatironDragados",
       "key": "2871d631964ddca82ed3257f",
-      "last_scanned": "2026-08-16",
+      "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://www.fdcorp.com/"
     },
@@ -2892,6 +2908,14 @@
     },
     {
       "boards": [],
+      "company": "MLC",
+      "key": "31df5841a6178e5aa11d01f9",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.mlc.com/"
+    },
+    {
+      "boards": [],
       "company": "University of Utah Health Research",
       "key": "31e62cd37af399d55875baa2",
       "last_scanned": "2026-08-22",
@@ -3154,6 +3178,14 @@
     },
     {
       "boards": [],
+      "company": "DEKA Research & Development",
+      "key": "3749a2ea243546a0c2ccb24d",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.dekaresearch.com/"
+    },
+    {
+      "boards": [],
       "company": "Veeva Systems",
       "key": "37b7b29287c381b80194b894",
       "last_scanned": "2026-08-24",
@@ -3244,7 +3276,7 @@
       "company": "Medtronic",
       "error": "public request failed for https://www.medtronic.com/: HTTP Error 403: Forbidden",
       "key": "38b90af560aacdbc26260669",
-      "last_scanned": "2026-08-23",
+      "last_scanned": "2026-08-25",
       "url": "https://www.medtronic.com/"
     },
     {
@@ -3254,6 +3286,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.worldquant.com/"
+    },
+    {
+      "boards": [
+        "oracle:eodr.fa.us2.oraclecloud.com:cx_1001"
+      ],
+      "company": "Tenet Healthcare",
+      "key": "38e1493040e180fe45bbeb56",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://tenethealth.com/"
     },
     {
       "boards": [
@@ -4601,6 +4643,13 @@
       "url": "https://www.wayfair.com/"
     },
     {
+      "company": "Lynco Products",
+      "error": "Invalid IPv6 URL",
+      "key": "4eab2f7a3c356bb1f3357408",
+      "last_scanned": "2026-08-25",
+      "url": "https://www.lyncoproducts.net/"
+    },
+    {
       "boards": [
         "oracle:ibtcjb.fa.ocs.oraclecloud.com:careers"
       ],
@@ -5812,7 +5861,7 @@
       "boards": [],
       "company": "Zipline",
       "key": "5f1366af9e0cbf460ade34ec",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://www.zipline.com/"
     },
@@ -5991,6 +6040,14 @@
       "url": "https://www.chenega.com/"
     },
     {
+      "boards": [],
+      "company": "VersaDesk",
+      "key": "6250982d1dd94f09887ade27",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 1,
+      "url": "https://versadesk.com/"
+    },
+    {
       "boards": [
         "oracle:eewl.fa.us6.oraclecloud.com:cx",
         "oracle:eewl.fa.us6.oraclecloud.com:cx_1",
@@ -6096,6 +6153,14 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://smithfieldfoods.com/"
+    },
+    {
+      "boards": [],
+      "company": "Cerris",
+      "key": "64cbdb033dc4fda04c08d268",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.cerris.com/"
     },
     {
       "boards": [],
@@ -10734,6 +10799,13 @@
       "url": "https://www.waystar.com/"
     },
     {
+      "company": "Lochner",
+      "error": "public request failed for https://hwlochner.com/: <urlopen error [Errno 104] Connection reset by peer>",
+      "key": "af19397e70ebce7022d056a7",
+      "last_scanned": "2026-08-25",
+      "url": "https://hwlochner.com/"
+    },
+    {
       "boards": [],
       "company": "TRG",
       "key": "af213eec38c65e76d311f7de",
@@ -10839,6 +10911,14 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.deceuninckna.com/"
+    },
+    {
+      "boards": [],
+      "company": "Carter Machinery",
+      "key": "b14997e6a516dd2ad83d0f84",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.cartermachinery.com/"
     },
     {
       "boards": [
@@ -11414,6 +11494,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.monroeplan.com/"
+    },
+    {
+      "boards": [],
+      "company": "Maximor AI",
+      "key": "b8fdfce8c320244e99aa03a8",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.maximor.ai/"
     },
     {
       "boards": [
@@ -12415,6 +12503,16 @@
       "url": "https://hii.com/what-we-do/divisions/newport-news-shipbuilding"
     },
     {
+      "boards": [
+        "workday:permianres.wd12.myworkdayjobs.com:permianres:permian_resources_careers"
+      ],
+      "company": "Permian Resources",
+      "key": "c8aa587184ebdb71b8aa9df0",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://permianres.com/"
+    },
+    {
       "boards": [],
       "company": "Inter-American Development Bank",
       "key": "c9077d0e885d274b312509b7",
@@ -12980,6 +13078,13 @@
       "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://teliospc.com/"
+    },
+    {
+      "company": "P2S",
+      "error": "public request failed for https://p2seng.com/: <urlopen error [Errno 111] Connection refused>",
+      "key": "d140a4df822fc501bc15a2f4",
+      "last_scanned": "2026-08-25",
+      "url": "https://p2seng.com/"
     },
     {
       "boards": [],
@@ -14277,6 +14382,14 @@
     },
     {
       "boards": [],
+      "company": "NorthPoint Development",
+      "key": "e7258c78c336bb68052dc473",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://northpointdiversified.com/"
+    },
+    {
+      "boards": [],
       "company": "Yardi",
       "key": "e75de160003411315217bfbe",
       "last_scanned": "2026-08-15",
@@ -15036,6 +15149,14 @@
       "url": "https://ieor.berkeley.edu/"
     },
     {
+      "boards": [],
+      "company": "Xpansiv",
+      "key": "f128f6e170435d9f4dd96f1c",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.xpansiv.com/"
+    },
+    {
       "company": "California Department of Social Services",
       "error": "public requests require HTTPS and a hostname",
       "key": "f15df43a5173bfe15cc6e37c",
@@ -15261,6 +15382,14 @@
       "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://www.uhm.com/"
+    },
+    {
+      "boards": [],
+      "company": "East Penn Manufacturing Co.",
+      "key": "f4cfb73a490bd261277f62f7",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.dekabatteries.com/"
     },
     {
       "company": "Ericsson",
