@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,707 internships · 4,027 new-grad roles · 6,734 total openings**
+**2,733 internships · 4,016 new-grad roles · 6,749 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 1,011 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 522 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 164 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 1,015 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 526 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 168 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 57 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 953 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 967 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 748 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,149 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,130 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 736 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,153 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,127 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,17 +38,17 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Amcor | Business Analytics & Technology Intern | CORP Evansville Head Division Office IN | Not listed | not available | 2026-08-25 | **[Apply →](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/CORP-Evansville-Head-Division-Office-IN/Business-Analytics---Technology-Intern_REQ_95379)**<br><sub>amcor.wd5.myworkdayjobs.com</sub> |
-| Amcor | Product Development Engineering Intern | RPSNA Lawrence KS | Not listed | not available | 2026-08-25 | **[Apply →](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RPSNA-Lawrence-KS/Product-Development-Engineering-Intern_REQ_95108)**<br><sub>amcor.wd5.myworkdayjobs.com</sub> |
 | AMD | ASIC Package Engineer Intern Co-op | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91469?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | ASIC Package Engineering Co-op/Intern | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91463?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | ASIC Package Engineering Intern Co-op | Secaucus, NJ, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91466?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | ASIC Package Engineering Intern Co-op | Secaucus, NJ, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91471?icims=1)**<br><sub>careers.amd.com</sub> |
 | Apex Fintech Solutions | Technology Fintern - Software Engineering - Product Management | Austin, TX, Dallas, TX, Chicago, IL, NYC | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/XMLNAME-2026-AFS-Technology-Internship-Program_JR103660)**<br><sub>peak6group.wd1.myworkdayjobs.com</sub> |
+| Bosch | AI Security Research Intern | Pittsburgh, PA, us | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000145507908)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Bosch | Spring 2027 Key User - Supply Chain / Computer Science - Co-op | Summerville, SC, us | Spring 2027 | not available | 2026-08-25 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000145511458)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Bosch Home Comfort | AI Security Research Intern | Pittsburgh, PA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000145507908)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Brunswick | Advanced Manufacturing/Operations Analytics Engineering Co-op - Global Operations Excellence | Fond du Lac, WI | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238)**<br><sub>brunswick.wd1.myworkdayjobs.com</sub> |
 | Brunswick | Mercury Marine: Software Validation Intern | Oshkosh, WI | Not listed | not available | 2026-08-25 | **[Apply →](https://brunswick.wd1.myworkdayjobs.com/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160)**<br><sub>brunswick.wd1.myworkdayjobs.com</sub> |
 | Brunswick | Product Management Intern - Oils & Lubricants | Fond du Lac, WI | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213)**<br><sub>brunswick.wd1.myworkdayjobs.com</sub> |
+| Brunswick | Product Management Intern - Parts & Accessories | Fond du Lac, WI | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Merucry-Marine--Product-Management-Intern---Parts---Accessories_JR-051142)**<br><sub>brunswick.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links

@@ -4196,6 +4196,14 @@
     },
     {
       "ats": "oracle",
+      "company": "ITC Holdings Corp.",
+      "host": "edqo.fa.us2.oraclecloud.com",
+      "key": "oracle:edqo.fa.us2.oraclecloud.com:itcholdings",
+      "site": "ITCHOLDINGS",
+      "slug": "edqo"
+    },
+    {
+      "ats": "oracle",
       "company": "GCI",
       "host": "edqv.fa.us2.oraclecloud.com",
       "key": "oracle:edqv.fa.us2.oraclecloud.com:cx",
@@ -9845,6 +9853,15 @@
       "site": "redeploymentmedtroniccareers",
       "slug": "medtronic",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Menasha Corporation",
+      "host": "menasha.wd12.myworkdayjobs.com",
+      "key": "workday:menasha.wd12.myworkdayjobs.com:menasha:menashacorp",
+      "site": "MenashaCorp",
+      "slug": "menasha",
+      "wd": "wd12"
     },
     {
       "ats": "workday",

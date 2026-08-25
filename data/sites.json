@@ -3087,6 +3087,14 @@
       "url": "https://incommpayments.com/"
     },
     {
+      "boards": [],
+      "company": "MULHERN+KULP STRUCTURAL ENGINEERING",
+      "key": "35ced52f5254f4c1630e5a3e",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.mulhernkulp.com/"
+    },
+    {
       "company": "Beth Israel Lahey Health",
       "error": "public request failed for https://www.bilh.org/: <urlopen error [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1000)>",
       "key": "3661d2ac676c5b4bff8944b8",
@@ -3950,6 +3958,16 @@
       "url": "https://www.itw.com/"
     },
     {
+      "boards": [
+        "oracle:edqo.fa.us2.oraclecloud.com:itcholdings"
+      ],
+      "company": "ITC Holdings Corp.",
+      "key": "45af309bf4dc612c5b1bcc0e",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.itc-holdings.com/"
+    },
+    {
       "boards": [],
       "company": "WEX",
       "key": "461e173015d02f0c2ec60cc9",
@@ -3993,6 +4011,16 @@
       "key": "46cae11f77039a80f1b4f16b",
       "last_scanned": "2026-08-25",
       "url": "https://www.gulfstream.com/"
+    },
+    {
+      "boards": [
+        "workday:menasha.wd12.myworkdayjobs.com:menasha:menashacorp"
+      ],
+      "company": "Menasha Corporation",
+      "key": "46cb27b514727d8fefedaa56",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.menashacorporation.com/"
     },
     {
       "boards": [],
@@ -5460,6 +5488,14 @@
     },
     {
       "boards": [],
+      "company": "Bradesco Bank",
+      "key": "5b1a5b001634bdc20749f498",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://bradescobank.com/"
+    },
+    {
+      "boards": [],
       "company": "Uniswap",
       "key": "5b20346afda2521e88d0512f",
       "last_scanned": "2026-08-15",
@@ -5606,7 +5642,7 @@
       "boards": [],
       "company": "CDM Smith",
       "key": "5d4b4e36565784551bd91143",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://www.cdmsmith.com/"
     },
@@ -6947,6 +6983,14 @@
     },
     {
       "boards": [],
+      "company": "Baxter & Woodman",
+      "key": "7334c3f6fbec1caaa54425ed",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://baxterwoodman.com/"
+    },
+    {
+      "boards": [],
       "company": "Nissan Motor Corporation",
       "key": "7365358bb26aa20cb6a36717",
       "last_scanned": "2026-08-17",
@@ -7876,8 +7920,8 @@
       "boards": [],
       "company": "Sandia National Laboratories",
       "key": "827f361b29cb1bb4af23503e",
-      "last_scanned": "2026-08-17",
-      "resolved_roles": 1,
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
       "url": "https://www.sandia.gov/"
     },
     {
@@ -7919,6 +7963,13 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://www.borisch.com/"
+    },
+    {
+      "company": "Connors Group",
+      "error": "public request failed for https://www.connorsllc.com/: <urlopen error timed out>",
+      "key": "835447faac49cf8db3fe24f5",
+      "last_scanned": "2026-08-25",
+      "url": "https://www.connorsllc.com/"
     },
     {
       "boards": [],
@@ -9518,6 +9569,16 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://fischerhomes.com/"
+    },
+    {
+      "boards": [
+        "workday:kiongroup.wd3.myworkdayjobs.com:kiongroup:kion_scs"
+      ],
+      "company": "Dematic",
+      "key": "9eba7d743fdfdbef4a1d6c19",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.dematic.com/en"
     },
     {
       "boards": [],
@@ -13761,6 +13822,14 @@
     },
     {
       "boards": [],
+      "company": "LCRA",
+      "key": "e08aa316096976876479ab56",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.lcra.org/"
+    },
+    {
+      "boards": [],
       "company": "Minimally Invasive Procedure Specialists",
       "key": "e0dcd184fc4923b5bae3deb6",
       "last_scanned": "2026-08-15",
@@ -15502,6 +15571,14 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://www.gilbaneco.com/"
+    },
+    {
+      "boards": [],
+      "company": "NobleReach",
+      "key": "fdad017bba2d1a8bdb86dd71",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://noblereach.org/"
     },
     {
       "boards": [],
