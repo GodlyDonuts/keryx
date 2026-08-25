@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,699 internships · 4,010 new-grad roles · 6,709 total openings**
+**2,740 internships · 4,001 new-grad roles · 6,741 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 1,007 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 521 | **[View openings →](internships/fall-2026.md)** |
+| ☀️ Summer 2027 | 1,022 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 525 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 165 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 58 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 948 | **[View openings →](internships/unscheduled.md)** |
+| ❄️ Winter 2027 | 59 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 969 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 748 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,130 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,132 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 1,133 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,120 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Amcor | Business Analytics & Technology Intern | CORP Evansville Head Division Office IN | Not listed | not available | 2026-08-25 | **[Apply →](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/CORP-Evansville-Head-Division-Office-IN/Business-Analytics---Technology-Intern_REQ_95379)**<br><sub>amcor.wd5.myworkdayjobs.com</sub> |
+| Amcor | Product Development Engineering Intern | RPSNA Lawrence KS | Not listed | not available | 2026-08-25 | **[Apply →](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RPSNA-Lawrence-KS/Product-Development-Engineering-Intern_REQ_95108)**<br><sub>amcor.wd5.myworkdayjobs.com</sub> |
 | AMD | ASIC Package Engineer Intern Co-op | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91469?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | ASIC Package Engineering Co-op/Intern | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91463?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | ASIC Package Engineering Intern Co-op | Secaucus, NJ, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91466?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | ASIC Package Engineering Intern Co-op | Secaucus, NJ, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91471?icims=1)**<br><sub>careers.amd.com</sub> |
 | Apex Fintech Solutions | Technology Fintern - Software Engineering - Product Management | Austin, TX, Dallas, TX, Chicago, IL, NYC | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/XMLNAME-2026-AFS-Technology-Internship-Program_JR103660)**<br><sub>peak6group.wd1.myworkdayjobs.com</sub> |
+| Bosch | AI Security Research Intern | Pittsburgh, PA, us | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000145507908)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Bosch | Spring 2027 Key User - Supply Chain / Computer Science - Co-op | Summerville, SC, us | Spring 2027 | not available | 2026-08-25 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000145511458)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Bosch Home Comfort | AI Security Research Intern | Pittsburgh, PA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000145507908)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Cadence Design Systems | Product Engineering Intern - Electronics Hardware Design | Burlington, MA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
-| Cadence Design Systems | Product Engineering Intern - Electronics Hardware Design | Burlington, MA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
-| Cadence Design Systems | Product Engineering Intern - Electronics Hardware Design | Burlington, MA | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
-| Celonis | Engineering Intern | Massachusetts | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-08-25 | **[Apply →](https://job-boards.greenhouse.io/celonis/jobs/7974381003?gh_jid=7974381003)**<br><sub>job-boards.greenhouse.io</sub> |
-| Cigna Group | Legal Operations Financial Data & AI Analytics Intern | St. Louis, MO | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Legal-Operations-Financial--Data---AI-Analytics-Intern_25016386)**<br><sub>cigna.wd5.myworkdayjobs.com</sub> |
+| Brunswick | Advanced Manufacturing/Operations Analytics Engineering Co-op - Global Operations Excellence | Fond du Lac, WI | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238)**<br><sub>brunswick.wd1.myworkdayjobs.com</sub> |
+| Brunswick | Product Management Intern - Oils & Lubricants | Fond du Lac, WI | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213)**<br><sub>brunswick.wd1.myworkdayjobs.com</sub> |
+| Brunswick | Product Management Intern - Parts & Accessories | Fond du Lac, WI | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Merucry-Marine--Product-Management-Intern---Parts---Accessories_JR-051142)**<br><sub>brunswick.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -63,13 +63,13 @@ Recent full-time opportunities that open the employer's application page directl
 | Amazon | Software Development Engineer - Amazon Leo - Early Career - 2026 | Redmond, WA | 2026 | not available | 2026-08-25 | **[Apply →](https://www.amazon.jobs/jobs/10513110/apply)**<br><sub>www.amazon.jobs</sub> |
 | Analog Devices | Associate Design Verification Engineer | Dallas, TX | Not listed | not available | 2026-08-25 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Dallas-Tollway/Associate-Design-Verification-Engineer_R265415)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Apex Fintech Solutions | Software Engineer 1 - Shark | Austin, TX, Dallas, TX, Chicago, IL, NYC | Not listed | not available | 2026-08-25 | **[Apply →](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1)**<br><sub>peak6group.wd1.myworkdayjobs.com</sub> |
+| AQR Capital Management | Trading Analyst | Greenwich, CT | Not listed | not available | 2026-08-25 | **[Apply →](https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709)**<br><sub>careers.aqr.com</sub> |
 | Berkshire Hathaway Energy | Business Systems Analyst | Richmond, VA | Not listed | not available | 2026-08-25 | **[Apply →](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005685)**<br><sub>fa-essf-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 | Brown University | Health Economics Research Analyst | United States | Not listed | not available | 2026-08-25 | **[Apply →](https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/121-South-Main-Street/Health-Economics-Research-Analyst_REQ210856)**<br><sub>brown.wd5.myworkdayjobs.com</sub> |
 | ByteDance | Machine Learning Engineer Graduate - E-Commerce Risk Control - PhD | San Jose, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.bytedance.com/en/position/7675473897004861749/detail)**<br><sub>jobs.bytedance.com</sub> |
 | Canon | Associate Analyst - Data Analytics | Boca Raton, FL | Not listed | not available | 2026-08-25 | **[Apply →](https://external-canoncareers.icims.com/jobs/34752/job?mobile=true&needsRedirect=false)**<br><sub>external-canoncareers.icims.com</sub> |
 | Cisco | Software Engineer 1 | Milpitas, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://careers.cisco.com/global/en/job/2023527)**<br><sub>careers.cisco.com</sub> |
 | Cisco | Software Engineer 2 | Milpitas, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://careers.cisco.com/global/en/job/2023512)**<br><sub>careers.cisco.com</sub> |
-| Dell Technologies | Hardware Engineer 1 - Client Solutions Group | Austin, TX | Not listed | not available | 2026-08-25 | **[Apply →](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298141)**<br><sub>iawmqy.fa.ocs.oraclecloud.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
