@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,646 internships · 4,002 new-grad roles · 6,648 total openings**
+**2,662 internships · 4,013 new-grad roles · 6,675 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 975 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 504 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 162 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 972 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 505 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 165 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 57 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 948 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 963 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 755 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,116 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,131 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 746 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,137 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,130 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -41,14 +41,14 @@ Recent internship and co-op listings that open the employer's application page d
 | AMD | ASIC Package Engineering Co-op/Intern | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91463?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | ASIC Package Engineering Intern Co-op | Secaucus, NJ, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91466?icims=1)**<br><sub>careers.amd.com</sub> |
 | AMD | ASIC Package Engineering Intern Co-op | Secaucus, NJ, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-08-25 | **[Apply →](https://careers.amd.com/jobs/91471?icims=1)**<br><sub>careers.amd.com</sub> |
-| Fortive | Field Service Engineer Co-Op | United States | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-08-25 | **[Apply →](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10270)**<br><sub>ejta.fa.us6.oraclecloud.com</sub> |
+| Fortive | Field Service Engineer Co-op | United States | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-08-25 | **[Apply →](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10270)**<br><sub>ejta.fa.us6.oraclecloud.com</sub> |
 | L3Harris Technologies | Software Engineer Intern | Palm Bay, FL | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Intern-D,-Software-Engineer-FL-32905/1422806300/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Software Engineer Intern | Fort Wayne, IN | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Fort-Wayne-Intern-D,-Software-Engineer-IN-46818/1422797900/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Software Engineer Intern | Melbourne, FL | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Melbourne-Intern-C,-Software-Engineer-FL-32919/1422807400/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| Advanced Space | 2026 Team Member Success Fall Internship | Westminster, CO | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4376598009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Advanced Space | 2027 DevOps Summer Internship | Westminster, CO | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4333179009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Advanced Space | 2027 Machine Learning Summer Internship | Westminster, CO | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4324875009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Advanced Space | 2027 Mission Design Summer Internship | Westminster, CO | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4324900009)**<br><sub>job-boards.greenhouse.io</sub> |
+| Meridian Partners | Embedded Software Engineer Co-op | Cambridge, MA | Fall 2026 | not stated | 2026-08-25 | **[Apply →](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968523003)**<br><sub>job-boards.greenhouse.io</sub> |
+| Meridian Partners | Front End Software Engineer Co-op | Cambridge, MA | Fall 2026 | not stated | 2026-08-25 | **[Apply →](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967961003)**<br><sub>job-boards.greenhouse.io</sub> |
+| Meridian Partners | Full Stack Software Engineer Co-op | Cambridge, MA, Seattle, WA, Arlington County, Arlington, VA | Fall 2026 | not stated | 2026-08-25 | **[Apply →](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968093003)**<br><sub>job-boards.greenhouse.io</sub> |
+| Meridian Partners | Python Software Engineer Co-op | Cambridge, MA, Seattle, WA, Arlington County, Arlington, VA | Fall 2026 | not stated | 2026-08-25 | **[Apply →](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968338003)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
