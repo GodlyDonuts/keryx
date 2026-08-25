@@ -2362,7 +2362,7 @@
       ],
       "company": "PlanetArt",
       "key": "29d12f6f5c23714f497d37f9",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://www.planetart.com/"
     },
@@ -2636,6 +2636,14 @@
       "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://www.grayhill.com/"
+    },
+    {
+      "boards": [],
+      "company": "SanMar",
+      "key": "2d66292c18df897353ec02d6",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.sanmar.com/"
     },
     {
       "boards": [],
@@ -2913,6 +2921,14 @@
       "last_scanned": "2026-08-20",
       "resolved_roles": 0,
       "url": "https://www.fibersystems.com/"
+    },
+    {
+      "boards": [],
+      "company": "NORC at the University of Chicago",
+      "key": "319c0455fbb5cc8e88e3b2f3",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 2,
+      "url": "https://www.norc.org/"
     },
     {
       "boards": [],
@@ -3978,6 +3994,13 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.cfa-supply.com/"
+    },
+    {
+      "company": "The Aerospace Corporation",
+      "error": "public request failed for https://www.aerospace.org/: HTTP Error 403: Forbidden",
+      "key": "44befca86996326dc400b08f",
+      "last_scanned": "2026-08-25",
+      "url": "https://www.aerospace.org/"
     },
     {
       "boards": [],
@@ -7744,6 +7767,16 @@
       "url": "https://www.alphaomegaintegration.com/"
     },
     {
+      "boards": [
+        "workday:amgen.wd1.myworkdayjobs.com:amgen:careers"
+      ],
+      "company": "Amgen",
+      "key": "7c280016aeaa166328291141",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.amgen.com.sg/"
+    },
+    {
       "boards": [],
       "company": "Amazon Web Services (AWS)",
       "key": "7c2e05eaeb44aeecdc2277c0",
@@ -8507,6 +8540,13 @@
       "key": "89a995193f2d157a3787655f",
       "last_scanned": "2026-08-17",
       "url": "https://pieperautomation.com/"
+    },
+    {
+      "company": "UAB Medicine",
+      "error": "Invalid IPv6 URL",
+      "key": "89bf5be30e4f5f0daad2a5ba",
+      "last_scanned": "2026-08-25",
+      "url": "https://www.uabmedicine.org/"
     },
     {
       "boards": [],
@@ -12545,6 +12585,14 @@
       "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://appliedintuition.com/"
+    },
+    {
+      "boards": [],
+      "company": "Navatech",
+      "key": "c86acabe2f70f9402d78676b",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.navatech.ai/"
     },
     {
       "boards": [
