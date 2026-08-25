@@ -4376,6 +4376,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Fortive",
+      "host": "ejta.fa.us6.oraclecloud.com",
+      "key": "oracle:ejta.fa.us6.oraclecloud.com:cx_2001",
+      "site": "CX_2001",
+      "slug": "ejta"
+    },
+    {
+      "ats": "oracle",
       "company": "Marriott International",
       "host": "ejwl.fa.us2.oraclecloud.com",
       "key": "oracle:ejwl.fa.us2.oraclecloud.com:cx",

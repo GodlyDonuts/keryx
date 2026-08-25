@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,660 internships · 4,047 new-grad roles · 6,707 total openings**
+**2,658 internships · 4,038 new-grad roles · 6,696 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 986 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 489 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 171 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 57 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 957 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 991 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 493 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 172 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 55 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 947 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 756 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,155 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,136 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 761 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,140 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,137 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,10 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Fortive | Field Service Engineer Co-Op | United States | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-08-25 | **[Apply →](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10270)**<br><sub>ejta.fa.us6.oraclecloud.com</sub> |
+| L3Harris Technologies | Software Engineer Intern | Palm Bay, FL | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Intern-D,-Software-Engineer-FL-32905/1422806300/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
+| L3Harris Technologies | Software Engineer Intern | Fort Wayne, IN | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Fort-Wayne-Intern-D,-Software-Engineer-IN-46818/1422797900/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
+| L3Harris Technologies | Software Engineer Intern | Melbourne, FL | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Melbourne-Intern-C,-Software-Engineer-FL-32919/1422807400/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | Advanced Space | 2026 Team Member Success Fall Internship | Westminster, CO | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4376598009)**<br><sub>job-boards.greenhouse.io</sub> |
 | Advanced Space | 2027 DevOps Summer Internship | Westminster, CO | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4333179009)**<br><sub>job-boards.greenhouse.io</sub> |
 | Advanced Space | 2027 Machine Learning Summer Internship | Westminster, CO | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4324875009)**<br><sub>job-boards.greenhouse.io</sub> |
@@ -45,10 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | Advanced Space | 2027 Software Engineering Summer Internship | Westminster, CO | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4324855009)**<br><sub>job-boards.greenhouse.io</sub> |
 | Advanced Space | 2027 Systems Engineering Summer Internship | Westminster, CO | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4376394009)**<br><sub>job-boards.greenhouse.io</sub> |
 | Amentum | Summer 2027 Intern - Structural Dynamics Engineer | US-TX-Houston | Summer 2027 | not available | 2026-08-24 | **[Apply →](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TX-Houston/Summer-2027-Intern---Structural-Dynamics-Engineer_R0168655)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
-| Analog Devices | Digital Design Engineer Intern | San Jose, CA, Durham, NC | Fall 2026 | not available | 2026-08-24 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
-| Analog Devices | Product Engineer Intern - Product Development | Wilmington, MA, Durham, NC | Fall 2026 | not available | 2026-08-24 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
-| Atoms | Robotics Software Engineer Intern | LA, Pittsburgh, PA | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/cssmerge/jobs/8695475002)**<br><sub>job-boards.greenhouse.io</sub> |
-| Audax Group | AI Engineer Co-op | Boston, MA | Spring 2027 | Current student status<br><sub>stated</sub> | 2026-08-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
