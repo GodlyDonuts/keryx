@@ -4399,7 +4399,7 @@
       "company": "Caterpillar Inc.",
       "error": "public request failed for https://www.caterpillar.com/: The read operation timed out",
       "key": "4b4b3bc431b4d7e97dbb5da5",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-08-25",
       "url": "https://www.caterpillar.com/"
     },
     {
@@ -4648,6 +4648,14 @@
       "key": "4eab2f7a3c356bb1f3357408",
       "last_scanned": "2026-08-25",
       "url": "https://www.lyncoproducts.net/"
+    },
+    {
+      "boards": [],
+      "company": "Two Circles",
+      "key": "4eb0213faa092bb7edeb47af",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.twocircles.com/"
     },
     {
       "boards": [
@@ -4915,7 +4923,7 @@
       "boards": [],
       "company": "Manheim Dallas-Fort Worth",
       "key": "5283173d0d9dea43eac6dd41",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://www.coxautoinc.com/"
     },
@@ -8988,6 +8996,13 @@
       "url": "https://www.alarm.com/"
     },
     {
+      "company": "WhiteOptics LLC",
+      "error": "public hostname did not resolve: www.whiteoptics.com",
+      "key": "90e110efeb8b69eaa349ccb9",
+      "last_scanned": "2026-08-25",
+      "url": "https://www.whiteoptics.com/"
+    },
+    {
       "boards": [],
       "company": "LITTLE TREES",
       "key": "911a88d58f01a04097fe722f",
@@ -11358,6 +11373,13 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.ipconfigure.com/"
+    },
+    {
+      "company": "Rincon Research Corporation",
+      "error": "public request failed for https://www.rincon.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "key": "b778f03c623330c5d2cd3b15",
+      "last_scanned": "2026-08-25",
+      "url": "https://www.rincon.com/"
     },
     {
       "boards": [
