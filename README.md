@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,625 internships · 4,029 new-grad roles · 6,654 total openings**
+**2,630 internships · 4,024 new-grad roles · 6,654 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 971 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 970 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 491 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 166 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 57 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 940 | **[View openings →](internships/unscheduled.md)** |
+| 🌱 Spring 2027 | 167 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 58 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 944 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 754 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,141 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,134 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 746 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,148 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,130 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,7 +37,7 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Fortive | Field Service Engineer Co-Op | United States | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-08-25 | **[Apply →](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10270)**<br><sub>ejta.fa.us6.oraclecloud.com</sub> |
+| Fortive | Field Service Engineer Co-op | United States | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-08-25 | **[Apply →](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10270)**<br><sub>ejta.fa.us6.oraclecloud.com</sub> |
 | L3Harris Technologies | Software Engineer Intern | Palm Bay, FL | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Intern-D,-Software-Engineer-FL-32905/1422806300/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Software Engineer Intern | Fort Wayne, IN | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Fort-Wayne-Intern-D,-Software-Engineer-IN-46818/1422797900/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Software Engineer Intern | Melbourne, FL | Fall 2026 | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Melbourne-Intern-C,-Software-Engineer-FL-32919/1422807400/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
@@ -62,6 +62,7 @@ Recent full-time opportunities that open the employer's application page directl
 | ByteDance | Machine Learning Engineer Graduate - E-Commerce Risk Control - PhD | San Jose, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.bytedance.com/en/position/7675473897004861749/detail)**<br><sub>jobs.bytedance.com</sub> |
 | Cisco | Software Engineer 1 | Milpitas, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://careers.cisco.com/global/en/job/2023527)**<br><sub>careers.cisco.com</sub> |
 | Cisco | Software Engineer 2 | Milpitas, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://careers.cisco.com/global/en/job/2023512)**<br><sub>careers.cisco.com</sub> |
+| Dell Technologies | Hardware Engineer 1 - Client Solutions Group | Austin, TX | Not listed | not available | 2026-08-25 | **[Apply →](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298141)**<br><sub>iawmqy.fa.ocs.oraclecloud.com</sub> |
 | Emory Healthcare | Associate AI Engineer | Atlanta, GA | Not listed | not available | 2026-08-25 | **[Apply →](https://non-clinical-emory.icims.com/jobs/170743/job?hub=14&mobile=true&needsRedirect=false)**<br><sub>non-clinical-emory.icims.com</sub> |
 | KLA | AI Engineer - Computer Vision/Signal Processing | Milpitas, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582)**<br><sub>kla.wd1.myworkdayjobs.com</sub> |
 | L3Harris Technologies | Optical Engineer Associate | Wilmington, MA | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.l3harris.com/job/Wilmington-Associate,-Optical-Engineer-MA-01887/1422797100/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Pryzm | Federal Data Analyst | Boston, MA | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.ashbyhq.com/pryzm/2c40f0bb-e559-49b3-9831-81d7484cc6dc/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Sciemo | Data Scientist | Research Triangle Park, Durham, NC, Philadelphia, PA, NYC, Atlanta, GA | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.ashbyhq.com/sciemo/208da924-4a08-4be7-a20c-a420f08e77d2/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | STCU | Software Developer 1 | Liberty Lake, WA | Not listed | not available | 2026-08-25 | **[Apply →](https://jobs.smartrecruiters.com/STCU1/744000145379939)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Tesla | Electronic Hardware Validation - Low Voltage Systems | Palo Alto, CA | Not listed | not available | 2026-08-25 | **[Apply →](https://www.tesla.com/careers/search/job/280969)**<br><sub>www.tesla.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
