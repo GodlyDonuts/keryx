@@ -3253,6 +3253,14 @@
       "url": "https://hruckus.com/"
     },
     {
+      "boards": [],
+      "company": "Incident IQ",
+      "key": "39dcacab8a36d6b71afd03eb",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.incidentiq.com/"
+    },
+    {
       "company": "Arthur D. Little",
       "error": "public request failed for https://www.adlittle.com/: HTTP Error 403: Forbidden",
       "key": "39ea65421733011c6d0afb7e",
@@ -3574,8 +3582,9 @@
     {
       "boards": [],
       "company": "Westlake",
+      "error": "public request failed for https://www.westlake.com/: HTTP Error 403: Forbidden",
       "key": "404e3fdf893d2af1232ca58a",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://www.westlake.com/"
     },
@@ -3586,6 +3595,14 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://www.goleyinc.com/"
+    },
+    {
+      "boards": [],
+      "company": "C3",
+      "key": "406959ca9619f9405d664db5",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.c3isit.com/"
     },
     {
       "boards": [
@@ -13085,6 +13102,14 @@
     },
     {
       "boards": [],
+      "company": "Summit Agricultural Group",
+      "key": "dabbdf73ca40fb127e1fd2fb",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://summitag.com/"
+    },
+    {
+      "boards": [],
       "company": "Horizon Next",
       "key": "daed518a9cb81edb11d640d8",
       "last_scanned": "2026-08-20",
@@ -13568,6 +13593,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.unl.edu/"
+    },
+    {
+      "boards": [],
+      "company": "Celonis",
+      "key": "e2a32550c8ca858ad405542c",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://www.celonis.com/"
     },
     {
       "boards": [],
@@ -14093,6 +14126,14 @@
     },
     {
       "boards": [],
+      "company": "RDV Corporation",
+      "key": "ec1c1618a1f2741bca7b824b",
+      "last_scanned": "2026-08-25",
+      "resolved_roles": 0,
+      "url": "https://rdvcareers.com/"
+    },
+    {
+      "boards": [],
       "company": "SHP Legal Services",
       "key": "ec2ce4c24fe5f9352048e77a",
       "last_scanned": "2026-08-21",
@@ -14377,6 +14418,13 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://thewaltdisneycompany.com/"
+    },
+    {
+      "company": "Sensata Technologies",
+      "error": "public request failed for https://www.sensata.com/: HTTP Error 403: Forbidden",
+      "key": "efa1b50d26dd6178af6dc139",
+      "last_scanned": "2026-08-25",
+      "url": "https://www.sensata.com/"
     },
     {
       "company": "Schneider Electric",
