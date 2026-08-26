@@ -4010,6 +4010,12 @@
     },
     {
       "ats": "lever",
+      "company": "Spry Methods",
+      "key": "lever:sprymethods",
+      "slug": "sprymethods"
+    },
+    {
+      "ats": "lever",
       "company": "SteerBridge",
       "key": "lever:steerbridge",
       "slug": "steerbridge"
@@ -11242,6 +11248,15 @@
       "site": "riotinto_careers",
       "slug": "riotinto",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Rochester Institute of Technology",
+      "host": "rit.wd12.myworkdayjobs.com",
+      "key": "workday:rit.wd12.myworkdayjobs.com:rit:careers",
+      "site": "careers",
+      "slug": "rit",
+      "wd": "wd12"
     },
     {
       "ats": "workday",
