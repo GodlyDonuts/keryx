@@ -230,6 +230,16 @@
       "url": "https://www.cgi.com/"
     },
     {
+      "boards": [
+        "workday:repligen.wd108.myworkdayjobs.com:repligen:repligen_careers"
+      ],
+      "company": "Repligen Corporation",
+      "key": "04550978e72157bdb073eb61",
+      "last_scanned": "2026-08-26",
+      "resolved_roles": 0,
+      "url": "https://www.repligen.com/"
+    },
+    {
       "boards": [],
       "company": "Marvin",
       "key": "04630bf878294c16cd14869c",
@@ -282,6 +292,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://nationaldentalsupport.com/"
+    },
+    {
+      "company": "QTS Data Centers",
+      "error": "public requests require HTTPS and a hostname",
+      "key": "04fb7e4bae6512e5a0fd2a39",
+      "last_scanned": "2026-08-26",
+      "url": "https://www.qtsdatacenters.com/"
     },
     {
       "boards": [],
@@ -441,6 +458,14 @@
       "key": "068f8b68b5a476b8086b0df3",
       "last_scanned": "2026-08-26",
       "url": "https://www.maersk.com/"
+    },
+    {
+      "boards": [],
+      "company": "Sabre Systems, LLC",
+      "key": "06952d718e83befa1bb2b13e",
+      "last_scanned": "2026-08-26",
+      "resolved_roles": 0,
+      "url": "https://www.sabresystems.com/"
     },
     {
       "boards": [],
@@ -2134,6 +2159,13 @@
       "url": "https://www.markel.com/"
     },
     {
+      "company": "MKS Inc.",
+      "error": "Invalid IPv6 URL",
+      "key": "2402c0a34e52eb5afe5f918e",
+      "last_scanned": "2026-08-26",
+      "url": "https://www.mks.com/"
+    },
+    {
       "boards": [],
       "company": "Haag, a Salas O'Brien Company",
       "key": "2437fe01654c63c1c4f21dc6",
@@ -2236,7 +2268,7 @@
       "boards": [],
       "company": "Flatiron Construction",
       "key": "26b7505d781eb68bbac4f04b",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-26",
       "resolved_roles": 0,
       "url": "https://www.flatironcorp.com/"
     },
@@ -2354,6 +2386,14 @@
       "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://www.fdcorp.com/"
+    },
+    {
+      "boards": [],
+      "company": "CarMax",
+      "key": "2879f1e14e28ba6a8ddfa097",
+      "last_scanned": "2026-08-26",
+      "resolved_roles": 0,
+      "url": "https://www.carmax.com/"
     },
     {
       "boards": [],
@@ -4191,7 +4231,7 @@
       "company": "Gulfstream Aerospace",
       "error": "public request failed for https://www.gulfstream.com/: HTTP Error 403: Forbidden",
       "key": "46cae11f77039a80f1b4f16b",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-08-26",
       "url": "https://www.gulfstream.com/"
     },
     {
@@ -4595,7 +4635,7 @@
       "company": "WGI",
       "error": "public request failed for https://wginc.com/: HTTP Error 403: Forbidden",
       "key": "4c1574ed4bd6439903b0696f",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-08-26",
       "url": "https://wginc.com/"
     },
     {
@@ -6753,6 +6793,14 @@
       "url": "https://www.kayak.com/"
     },
     {
+      "boards": [],
+      "company": "Aflac",
+      "key": "6ab325de6271371583bfbebd",
+      "last_scanned": "2026-08-26",
+      "resolved_roles": 0,
+      "url": "https://www.aflac.com/"
+    },
+    {
       "boards": [
         "workday:rb.wd5.myworkdayjobs.com:rb:frs"
       ],
@@ -7144,6 +7192,14 @@
       "last_scanned": "2026-08-21",
       "resolved_roles": 0,
       "url": "https://www.sagitec.com/"
+    },
+    {
+      "boards": [],
+      "company": "Torentify",
+      "key": "70f99295ebe51229dda93dc5",
+      "last_scanned": "2026-08-26",
+      "resolved_roles": 0,
+      "url": "https://torentify.com/"
     },
     {
       "company": "FLO Materials",
@@ -7757,6 +7813,14 @@
     },
     {
       "boards": [],
+      "company": "Progress Rail, A Caterpillar Company",
+      "key": "78fe5c8d76bf36c0d55e9107",
+      "last_scanned": "2026-08-26",
+      "resolved_roles": 0,
+      "url": "https://www.progressrail.com/"
+    },
+    {
+      "boards": [],
       "company": "Nexxaworks",
       "key": "7943ac17f084c9a5b52cbac6",
       "last_scanned": "2026-08-17",
@@ -7900,6 +7964,16 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://jacquesmariemage.com/"
+    },
+    {
+      "boards": [
+        "oracle:fa-ewfi-saasfaprod1.fa.ocs.oraclecloud.com:cx_1"
+      ],
+      "company": "Atmus Filtration Technologies",
+      "key": "7b41c0f7b59ae58268b04830",
+      "last_scanned": "2026-08-26",
+      "resolved_roles": 0,
+      "url": "https://www.atmus.com/"
     },
     {
       "company": "Citadel",
@@ -8355,10 +8429,11 @@
       "url": "https://www.borisch.com/"
     },
     {
+      "boards": [],
       "company": "Connors Group",
-      "error": "public request failed for https://www.connorsllc.com/: <urlopen error timed out>",
       "key": "835447faac49cf8db3fe24f5",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-08-26",
+      "resolved_roles": 0,
       "url": "https://www.connorsllc.com/"
     },
     {
@@ -8923,6 +8998,14 @@
       "url": "https://www.teragenenergy.com/"
     },
     {
+      "boards": [],
+      "company": "Memorial Health",
+      "key": "8c1a87937316a6781a9b2d22",
+      "last_scanned": "2026-08-26",
+      "resolved_roles": 0,
+      "url": "https://memorial.health/"
+    },
+    {
       "company": "Edelman",
       "error": "public request failed for https://www.edelman.com/: HTTP Error 403: Forbidden",
       "key": "8c26fdf271b523f9de3cfcc8",
@@ -9430,6 +9513,14 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://srfconsulting.com/"
+    },
+    {
+      "boards": [],
+      "company": "Aegon",
+      "key": "934a7326f2ee350d9d9c37c5",
+      "last_scanned": "2026-08-26",
+      "resolved_roles": 0,
+      "url": "https://www.aegon.com/"
     },
     {
       "boards": [],
@@ -11238,6 +11329,14 @@
       "url": "https://www.notion.com/"
     },
     {
+      "boards": [],
+      "company": "Rysun Labs",
+      "key": "b04ddf56e4cac2f787d62501",
+      "last_scanned": "2026-08-26",
+      "resolved_roles": 0,
+      "url": "https://www.kcsitglobal.com/"
+    },
+    {
       "boards": [
         "workday:seagate.wd1.myworkdayjobs.com:seagate:ext"
       ],
@@ -11900,7 +11999,7 @@
       "boards": [],
       "company": "Zipline",
       "key": "ba6a68ee31e63b0e77c38c53",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-08-26",
       "resolved_roles": 0,
       "url": "https://www.getzipline.com/"
     },
@@ -12123,6 +12222,14 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.janssen.com/johnson-johnson-innovative-medicine"
+    },
+    {
+      "boards": [],
+      "company": "CharterUP",
+      "key": "be922c98984696d3ce72b2cd",
+      "last_scanned": "2026-08-26",
+      "resolved_roles": 0,
+      "url": "https://www.charterup.com/"
     },
     {
       "boards": [
@@ -13124,6 +13231,13 @@
       "url": "https://www.rsandh.com/"
     },
     {
+      "company": "DENSO",
+      "error": "public request failed for https://www.denso.com/: HTTP Error 403: Forbidden",
+      "key": "cc1e38f3db59bbb005f3828d",
+      "last_scanned": "2026-08-26",
+      "url": "https://www.denso.com/"
+    },
+    {
       "boards": [],
       "company": "Point72",
       "key": "cc9595ce03a3f502ed02b0ce",
@@ -13254,7 +13368,7 @@
       "company": "WSP in the U.S.",
       "error": "public request failed for https://www.wsp.com/en-us: HTTP Error 403: Forbidden",
       "key": "ce26e2f6b0157eb94cc09fde",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-08-26",
       "url": "https://www.wsp.com/en-us"
     },
     {
@@ -13390,6 +13504,16 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://www.dhl.com/gb-en/home/supply-chain.html"
+    },
+    {
+      "boards": [
+        "workable:consigli-construction-1"
+      ],
+      "company": "Consigli Construction Co., Inc.",
+      "key": "d031ec4bb9f224a716957cc1",
+      "last_scanned": "2026-08-26",
+      "resolved_roles": 0,
+      "url": "https://www.consigli.com/"
     },
     {
       "company": "Vultr",
@@ -14734,6 +14858,16 @@
       "url": "https://www.verisk.com/"
     },
     {
+      "boards": [
+        "oracle:etgi.fa.us8.oraclecloud.com:cx_4005"
+      ],
+      "company": "Virginia Department of Transportation",
+      "key": "e5313a840b6ec842728ce952",
+      "last_scanned": "2026-08-26",
+      "resolved_roles": 0,
+      "url": "https://virginiadot.org/"
+    },
+    {
       "boards": [],
       "company": "Keurig Dr Pepper Inc.",
       "key": "e533bc6a2a29be84ac3dccae",
@@ -14890,6 +15024,16 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://commence.ai/"
+    },
+    {
+      "boards": [
+        "workday:sartorius.wd3.myworkdayjobs.com:sartorius:sartoriuscareers"
+      ],
+      "company": "Sartorius",
+      "key": "e8b86a3e2ad572c64e2ea466",
+      "last_scanned": "2026-08-26",
+      "resolved_roles": 0,
+      "url": "https://sartorius.com/"
     },
     {
       "boards": [],
