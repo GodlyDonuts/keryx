@@ -4995,6 +4995,14 @@
     },
     {
       "boards": [],
+      "company": "Applied Motion Products",
+      "key": "515da3b5f945b02d248bfc57",
+      "last_scanned": "2026-08-26",
+      "resolved_roles": 0,
+      "url": "https://www.applied-motion.com/"
+    },
+    {
+      "boards": [],
       "company": "Quanta Manufacturing Fremont",
       "key": "5175b5385ae1968ae3094119",
       "last_scanned": "2026-08-15",
@@ -6919,7 +6927,7 @@
       "company": "DV Trading LLC",
       "error": "public request failed for https://www.dvtrading.co/: HTTP Error 526: <none>",
       "key": "6e1dbefdee0f362023608d2e",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-08-26",
       "url": "https://www.dvtrading.co/"
     },
     {
@@ -7385,6 +7393,16 @@
       "key": "752c7b90a4c8bf3828104a52",
       "last_scanned": "2026-08-26",
       "url": "https://www.linkedin.com/redir/suspicious-page?url=https%3A%2F%2Fcardinalglobaluk%2ecom%2F"
+    },
+    {
+      "boards": [
+        "workday:genmills.wd1.myworkdayjobs.com:genmills:gmi_external_careers"
+      ],
+      "company": "General Mills",
+      "key": "753dea817c99fec29342c960",
+      "last_scanned": "2026-08-26",
+      "resolved_roles": 0,
+      "url": "https://www.generalmills.com/"
     },
     {
       "boards": [
