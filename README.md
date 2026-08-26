@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,773 internships · 4,108 new-grad roles · 6,881 total openings**
+**2,776 internships · 4,096 new-grad roles · 6,872 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 1,049 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 1,048 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 533 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 167 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 61 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 963 | **[View openings →](internships/unscheduled.md)** |
+| ❄️ Winter 2027 | 59 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 969 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 747 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,207 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,154 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 752 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,186 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,158 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| AbbVie | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | North Chicago, IL, us | Summer 2027 | not available | 2026-08-26 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014860386)**<br><sub>jobs.smartrecruiters.com</sub> |
-| AbbVie | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | Irvine, CA, us | Summer 2027 | not available | 2026-08-26 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014860211)**<br><sub>jobs.smartrecruiters.com</sub> |
-| AbbVie | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | South San Francisco, CA, us | Summer 2027 | not available | 2026-08-26 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014860456)**<br><sub>jobs.smartrecruiters.com</sub> |
-| AbbVie | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) | Irvine, CA, us | Summer 2027 | not available | 2026-08-26 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014860306)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Honeywell | Software Engineer Intern - Computer Science | United States | Summer 2027 | Dec 2027 or later<br><sub>required</sub> | 2026-08-26 | **[Apply →](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155558)**<br><sub>ibqbjb.fa.ocs.oraclecloud.com</sub> |
-| Honeywell | Software Engineer Intern - Computer Science | United States | Summer 2027 | Dec 2027 or later<br><sub>required</sub> | 2026-08-26 | **[Apply →](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155557)**<br><sub>ibqbjb.fa.ocs.oraclecloud.com</sub> |
+| AbbVie | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | North Chicago, IL, United States (Hybrid) | Summer 2027 | not available | 2026-08-26 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014860386)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AbbVie | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | Irvine, CA, United States (Hybrid) | Summer 2027 | not available | 2026-08-26 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014860211)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AbbVie | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | South San Francisco, CA, United States (Hybrid) | Summer 2027 | not available | 2026-08-26 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014860456)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AbbVie | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) | South San Francisco, CA, United States (Hybrid) | Summer 2027 | not available | 2026-08-26 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014860391)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AbbVie | Business Technology Solutions Intern - Data & Software Engineering | Irvine, CA | Summer 2027 | not available | 2026-08-26 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014860306)**<br><sub>jobs.smartrecruiters.com</sub> |
 | L3Harris Technologies | Image Science Engineer Intern | Rochester, NY | Fall 2026 | not available | 2026-08-26 | **[Apply →](https://jobs.l3harris.com/job/Rochester-Intern-C,-Image-Science-Engineer-NY-14624/1423112200/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Software Engineer Intern | Palm Bay, FL | Fall 2026 | not available | 2026-08-26 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423102100/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Software Engineer Intern | Palm Bay, FL | Fall 2026 | not available | 2026-08-26 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423100800/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Software Engineer Intern | Palm Bay, FL | Fall 2026 | not available | 2026-08-26 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423105900/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Software Engineer Intern | Palm Bay, FL | Fall 2026 | not available | 2026-08-26 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423104500/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Software Engineer Intern | Palm Bay, FL | Fall 2026 | not available | 2026-08-26 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423104800/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
+| L3Harris Technologies | Software Engineer Intern | Palm Bay, FL | Fall 2026 | not available | 2026-08-26 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423103100/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -68,8 +68,8 @@ Recent full-time opportunities that open the employer's application page directl
 | TikTok | Data Engineer Graduate - Data Platform E-commerce | San Jose, CA | Not listed | not available | 2026-08-26 | **[Apply →](https://lifeattiktok.com/search/7676253726624024837)**<br><sub>lifeattiktok.com</sub> |
 | TikTok | Data Engineer Graduate - Data Platform Global Live | San Jose, CA | Not listed | not available | 2026-08-26 | **[Apply →](https://lifeattiktok.com/search/7678120538997098805)**<br><sub>lifeattiktok.com</sub> |
 | TRUCKING PEOPLE | Data Capture Technician - AI & Construction | Turkey, TX | Not listed | not available | 2026-08-26 | **[Apply →](https://truckingpeople.applytojob.com/apply/Q0rXW8gckn/PARTTIME-DATA-CAPTURE-TECHNICIAN-AI-CONSTRUCTION)**<br><sub>truckingpeople.applytojob.com</sub> |
+| True Anomaly | Software Engineer 1 New Grad - Perception | Long Beach, CA, Denver, CO | Not listed | Current student status<br><sub>stated</sub> | 2026-08-26 | **[Apply →](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007)**<br><sub>job-boards.greenhouse.io</sub> |
 | Alarm.com | Embedded Software Engineer 1 | Tysons, VA | Not listed | not available | 2026-08-25 | **[Apply →](https://job-boards.greenhouse.io/alarmcom/jobs/8622530002)**<br><sub>job-boards.greenhouse.io</sub> |
-| Amazon | Software Development Engineer - Amazon Leo | Redmond, WA, Northridge, LA | Not listed | not available | 2026-08-25 | **[Apply →](https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026)**<br><sub>amazon.jobs</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
