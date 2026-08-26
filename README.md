@@ -9,7 +9,7 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,785 internships · 4,092 new-grad roles · 6,877 total openings**
+**2,788 internships · 4,081 new-grad roles · 6,869 total openings**
 
 ### 🎓 Internships
 
@@ -17,17 +17,17 @@
 |---|---:|---|
 | ☀️ Summer 2027 | 1,078 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 533 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 172 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 59 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 943 | **[View openings →](internships/unscheduled.md)** |
+| 🌱 Spring 2027 | 174 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 57 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 946 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 754 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,179 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,159 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 753 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,171 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,157 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -41,14 +41,14 @@ Recent internship and co-op listings that open the employer's application page d
 | AbbVie | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | Irvine, CA, United States (Hybrid) | Summer 2027 | not available | 2026-08-26 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014860211)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AbbVie | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | South San Francisco, CA, United States (Hybrid) | Summer 2027 | not available | 2026-08-26 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014860456)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AbbVie | Business Technology Solutions Intern - Data & Software Engineering | Irvine, CA | Summer 2027 | not available | 2026-08-26 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014860306)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Honeywell | Software Engineer Intern - Computer Science | United States | Summer 2027 | Dec 2027 or later<br><sub>required</sub> | 2026-08-26 | **[Apply →](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155558)**<br><sub>ibqbjb.fa.ocs.oraclecloud.com</sub> |
-| Honeywell | Software Engineer Intern - Computer Science | United States | Summer 2027 | Dec 2027 or later<br><sub>required</sub> | 2026-08-26 | **[Apply →](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155557)**<br><sub>ibqbjb.fa.ocs.oraclecloud.com</sub> |
 | L3Harris Technologies | Image Science Engineer Intern | Rochester, NY | Fall 2026 | not available | 2026-08-26 | **[Apply →](https://jobs.l3harris.com/job/Rochester-Intern-C,-Image-Science-Engineer-NY-14624/1423112200/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Software Engineer Intern | Palm Bay, FL | Fall 2026 | not available | 2026-08-26 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423102100/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Software Engineer Intern | Palm Bay, FL | Fall 2026 | not available | 2026-08-26 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423100800/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Software Engineer Intern | Palm Bay, FL | Fall 2026 | not available | 2026-08-26 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423105900/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Software Engineer Intern | Palm Bay, FL | Fall 2026 | not available | 2026-08-26 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423104500/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | L3Harris Technologies | Software Engineer Intern | Palm Bay, FL | Fall 2026 | not available | 2026-08-26 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423104800/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
+| L3Harris Technologies | Software Engineer Intern | Palm Bay, FL | Fall 2026 | not available | 2026-08-26 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Intern,-Software-Engineer-FL-32905/1423103100/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
+| North Atlantic Industries | Full Stack Software Engineer Intern | Bohemia, NY | Fall 2026 | not available | 2026-08-26 | **[Apply →](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450017)**<br><sub>recruiting.paylocity.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
