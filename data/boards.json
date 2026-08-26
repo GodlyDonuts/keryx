@@ -4910,6 +4910,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Verisk",
+      "host": "fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "fa-ewmy-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
       "company": "Ritchie Bros",
       "host": "fa-exew-saasfaprod1.fa.ocs.oraclecloud.com",
       "key": "oracle:fa-exew-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
@@ -7808,7 +7816,16 @@
     },
     {
       "ats": "workday",
-      "company": "Cox Automotive",
+      "company": "Covestro",
+      "host": "covestro.wd3.myworkdayjobs.com",
+      "key": "workday:covestro.wd3.myworkdayjobs.com:covestro:cov_external",
+      "site": "cov_external",
+      "slug": "covestro",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Cox",
       "host": "cox.wd1.myworkdayjobs.com",
       "key": "workday:cox.wd1.myworkdayjobs.com:cox:cox_external_career_site_1",
       "site": "Cox_External_Career_Site_1",
@@ -8543,6 +8560,15 @@
       "site": "FFI-Careers",
       "slug": "formfactor",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Fortress Investment Group",
+      "host": "fortress.wd503.myworkdayjobs.com",
+      "key": "workday:fortress.wd503.myworkdayjobs.com:fortress:careers",
+      "site": "Careers",
+      "slug": "fortress",
+      "wd": "wd503"
     },
     {
       "ats": "workday",
@@ -9460,6 +9486,15 @@
       "key": "workday:jda.wd5.myworkdayjobs.com:jda:jda_careers",
       "site": "jda_careers",
       "slug": "jda",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Jefferson County Colorado",
+      "host": "jefferson.wd5.myworkdayjobs.com",
+      "key": "workday:jefferson.wd5.myworkdayjobs.com:jefferson:external",
+      "site": "external",
+      "slug": "jefferson",
       "wd": "wd5"
     },
     {
@@ -10670,6 +10705,15 @@
     },
     {
       "ats": "workday",
+      "company": "O'Reilly Auto Parts",
+      "host": "oreillyauto.wd1.myworkdayjobs.com",
+      "key": "workday:oreillyauto.wd1.myworkdayjobs.com:oreillyauto:oreilly",
+      "site": "oreilly",
+      "slug": "oreillyauto",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Ohio State University",
       "host": "osu.wd1.myworkdayjobs.com",
       "key": "workday:osu.wd1.myworkdayjobs.com:osu:osucareers",
@@ -11801,6 +11845,15 @@
       "site": "strykercareers",
       "slug": "stryker",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "STV",
+      "host": "stvinc.wd5.myworkdayjobs.com",
+      "key": "workday:stvinc.wd5.myworkdayjobs.com:stvinc:stv",
+      "site": "stv",
+      "slug": "stvinc",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
