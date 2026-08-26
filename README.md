@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**2,894 internships · 4,087 new-grad roles · 6,981 total openings**
+**2,830 internships · 4,089 new-grad roles · 6,919 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 1,084 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 531 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 175 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 61 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,043 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 1,058 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 526 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 164 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 67 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 1,015 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 769 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,164 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,154 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 770 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,161 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,158 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -47,8 +47,8 @@ Recent internship and co-op listings that open the employer's application page d
 | Compeer Financial | Intern Credit Ag Lending | IL-Bloomington; IL-Edwards; IL-Monmouth | Summer 2027 | not stated | 2026-08-26 | **[Apply →](https://job-boards.greenhouse.io/compeerfinancial/jobs/5399805008)**<br><sub>job-boards.greenhouse.io</sub> |
 | Compeer Financial | Intern Sales | MN-Mankato | Summer 2027 | not stated | 2026-08-26 | **[Apply →](https://job-boards.greenhouse.io/compeerfinancial/jobs/5399883008)**<br><sub>job-boards.greenhouse.io</sub> |
 | DRW | Software Developer Intern | Chicago, IL | Not listed | not available | 2026-08-26 | **[Apply →](https://job-boards.greenhouse.io/drweng/jobs/7992936)**<br><sub>job-boards.greenhouse.io</sub> |
-| Fannie Mae | Treasury & Capital Markets Intern - Quantitative Research Track | Washington, DC | Summer 2027 | not available | 2026-08-26 | **[Apply →](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872)**<br><sub>fanniemae.wd1.myworkdayjobs.com</sub> |
-| General Mills | Internship - Digital & Technology Associate | Minneapolis, MN | Not listed | not available | 2026-08-26 | **[Apply →](https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Internship---Digital---Technology-Associate_10128716)**<br><sub>genmills.wd1.myworkdayjobs.com</sub> |
+| Fannie Mae | Campus – Treasury & Capital Markets Program Intern (Quantitative Research Track) | Washington, DC | Summer 2027 | not available | 2026-08-26 | **[Apply →](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872)**<br><sub>fanniemae.wd1.myworkdayjobs.com</sub> |
+| GrayMatter Robotics | AI Research Intern - Foundation Models | LA, Carson, CA | Fall 2026 | not available | 2026-08-26 | **[Apply →](https://jobs.ashbyhq.com/graymatter-robotics/dea0f08d-ebf5-4e55-b9cb-e6302014f429/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Boeing | Entry Level ASIC/FPGA Design Engineer - Space Electronics | Mountain View, CA | Not listed | not available | 2026-08-26 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
 | Boeing | Entry Level ASIC/FPGA Design Engineer - Space Electronics | Mountain View, CA | Not listed | not available | 2026-08-26 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mountain-View-CA/Entry-Level-ASIC-FPGA-Design-Engineer---Space-Electronics---MTV_JR2026520433-1)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
 | Cummins | Product Engineer - Product Engineering | Rocky Mount, NC | Not listed | not available | 2026-08-26 | **[Apply →](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435550)**<br><sub>fa-espx-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 | D-Wave Quantum | Software Engineer 1 - Systems Software Engineering | New Haven, CT | Not listed | not available | 2026-08-26 | **[Apply →](https://ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06)**<br><sub>ats.rippling.com</sub> |
+| E2 Optics | Data Center Infrastructure Technician | San Antonio, TX | Not listed | not available | 2026-08-26 | **[Apply →](https://careers-e2optics.icims.com/jobs/3793/job?mobile=true&needsRedirect=false)**<br><sub>careers-e2optics.icims.com</sub> |
+| E2 Optics | Data Center Infrastructure Technician | San Antonio, TX | Not listed | not available | 2026-08-26 | **[Apply →](https://careers-e2optics.icims.com/jobs/3791/job?mobile=true&needsRedirect=false)**<br><sub>careers-e2optics.icims.com</sub> |
+| E2 Optics | Data Center Infrastructure Technician | Cedar Rapids, IA | Not listed | not available | 2026-08-26 | **[Apply →](https://careers-e2optics.icims.com/jobs/3788/job?mobile=true&needsRedirect=false)**<br><sub>careers-e2optics.icims.com</sub> |
+| E2 Optics | Data Center Infrastructure Technician | San Antonio, TX | Not listed | not available | 2026-08-26 | **[Apply →](https://careers-e2optics.icims.com/jobs/3792/job?mobile=true&needsRedirect=false)**<br><sub>careers-e2optics.icims.com</sub> |
 | General Dynamics Mission Systems | Enterprise AI & Data Solutions Leadership Program New Grad | United States | Not listed | not available | 2026-08-26 | **[Apply →](https://careers-gdms.icims.com/jobs/74519/job?mobile=true&needsRedirect=false)**<br><sub>careers-gdms.icims.com</sub> |
 | General Dynamics Mission Systems | Software Engineer - Crypto and Cross Domain Solutions | Scottsdale, AZ | Not listed | not available | 2026-08-26 | **[Apply →](https://careers-gdms.icims.com/jobs/74514/job?mobile=true&needsRedirect=false)**<br><sub>careers-gdms.icims.com</sub> |
 | Johns Hopkins Applied Physics Laboratory | Data Scientist/Engineer New Grad - Analytic Capabilities | Laurel, MD | Not listed | not available | 2026-08-26 | **[Apply →](https://careers.jhuapl.edu/jobs/59818?icims=1)**<br><sub>careers.jhuapl.edu</sub> |
 | Kaiser Permanente | Utilization Analyst | Downey, CA | Not listed | not available | 2026-08-26 | **[Apply →](https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1424632)**<br><sub>kp.taleo.net</sub> |
-| L3Harris Technologies | Engineering Technician / Electrical Assembly 1 | Rochester, NY | Not listed | not available | 2026-08-26 | **[Apply →](https://jobs.l3harris.com/job/Rochester-Engineering-Technician-Electrical-Assembly-1-NY-14606/1422965500/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| L3Harris Technologies | Senior Associate - Artificial Intelligence | Rochester, NY, Chantilly, VA, Tallahassee, FL, Melbourne, FL | Not listed | not available | 2026-08-26 | **[Apply →](https://jobs.l3harris.com/job/Rochester-Sr_-Associate,-Artificial-Intelligence-NY-14624/1423107000/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| L3Harris Technologies | Software Engineer Associate | Palm Bay, FL | Not listed | not available | 2026-08-26 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1422892000/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| Rochester Institute of Technology | Crime Analyst - RIT College of Liberal Arts | Rochester, NY | Not listed | not available | 2026-08-26 | **[Apply →](https://rit.wd12.myworkdayjobs.com/careers/job/Rochester-NY/GIVE-Crime-Analyst--RIT-College-of-Liberal-Arts_JR102529)**<br><sub>rit.wd12.myworkdayjobs.com</sub> |
+| Keenfinity | Associate DevOps Software Engineer | Fairport, NY | Not listed | not available | 2026-08-26 | **[Apply →](https://jobs.smartrecruiters.com/Keenfinity/744000145726019)**<br><sub>jobs.smartrecruiters.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
