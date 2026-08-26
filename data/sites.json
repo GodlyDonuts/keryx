@@ -3061,6 +3061,17 @@
       "url": "https://www.texasenterprise.utexas.edu/"
     },
     {
+      "boards": [
+        "oracle:ebqb.fa.us2.oraclecloud.com:bdoentrylevelcareers",
+        "oracle:ebqb.fa.us2.oraclecloud.com:bdoexperiencedcareers"
+      ],
+      "company": "BDO USA",
+      "key": "33ae2081c5960e3bb4a34d78",
+      "last_scanned": "2026-08-26",
+      "resolved_roles": 0,
+      "url": "https://www.bdo.com/"
+    },
+    {
       "boards": [],
       "company": "Crete Carrier Corporation",
       "key": "33eae9d3894ec2d1c211b56b",
@@ -4725,7 +4736,7 @@
       "boards": [],
       "company": "Lucid Motors",
       "key": "4de93edb12ff7c62d20189dd",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-26",
       "resolved_roles": 0,
       "url": "https://lucidmotors.com/"
     },
@@ -8192,6 +8203,14 @@
     },
     {
       "boards": [],
+      "company": "Panasonic Avionics Corporation",
+      "key": "8093349067695e41607fff02",
+      "last_scanned": "2026-08-26",
+      "resolved_roles": 0,
+      "url": "https://www.panasonic.aero/"
+    },
+    {
+      "boards": [],
       "company": "K\u00f6rber Pharma",
       "key": "80a8604ba0b121c3df1fd77d",
       "last_scanned": "2026-08-17",
@@ -8703,7 +8722,7 @@
       "boards": [],
       "company": "Persistent Systems, LLC",
       "key": "89557c713afdab2b3f86bfa9",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-08-26",
       "resolved_roles": 0,
       "url": "https://www.persistentsystems.com/"
     },
@@ -10985,7 +11004,7 @@
       "company": "IFF",
       "error": "public request failed for https://www.iff.com/: HTTP Error 403: Forbidden",
       "key": "adb2d9ffd6476dd7c08cbb5f",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-08-26",
       "url": "https://iff.com/"
     },
     {
@@ -12533,7 +12552,7 @@
       "company": "Festo",
       "error": "public request failed for https://www.festo.com/us/en: HTTP Error 403: Forbidden",
       "key": "c439cc22f1636ec981d45e0b",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-08-26",
       "url": "https://www.festo.com/us/en"
     },
     {
@@ -13019,7 +13038,7 @@
       "boards": [],
       "company": "Rivian",
       "key": "cb5fccd694c211ec722179f6",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-26",
       "resolved_roles": 0,
       "url": "https://www.rivian.com/"
     },
@@ -14831,6 +14850,14 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://www.biospace.com/"
+    },
+    {
+      "boards": [],
+      "company": "Southern Farm Bureau Life Insurance Company",
+      "key": "e8efcaeb2d56359eb2b22936",
+      "last_scanned": "2026-08-26",
+      "resolved_roles": 0,
+      "url": "https://www.sfbli.com/"
     },
     {
       "boards": [],

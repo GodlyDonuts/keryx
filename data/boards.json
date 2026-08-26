@@ -1748,6 +1748,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Addepar",
+      "key": "greenhouse:addepar1",
+      "slug": "addepar1"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Advanced Space",
       "key": "greenhouse:advancedspace",
       "slug": "advancedspace"
@@ -2786,6 +2792,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Metron",
+      "key": "greenhouse:metron",
+      "slug": "metron"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Mill",
       "key": "greenhouse:mill",
       "slug": "Mill"
@@ -3461,6 +3473,12 @@
       "company": "VEGA Americas",
       "key": "greenhouse:vegaamericas",
       "slug": "vegaamericas"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Vercel",
+      "key": "greenhouse:vercel",
+      "slug": "vercel"
     },
     {
       "ats": "greenhouse",
@@ -4167,6 +4185,22 @@
       "key": "oracle:ebez.fa.us2.oraclecloud.com:cx_4",
       "site": "CX_4",
       "slug": "ebez"
+    },
+    {
+      "ats": "oracle",
+      "company": "BDO USA",
+      "host": "ebqb.fa.us2.oraclecloud.com",
+      "key": "oracle:ebqb.fa.us2.oraclecloud.com:bdoentrylevelcareers",
+      "site": "BDOEntryLevelCareers",
+      "slug": "ebqb"
+    },
+    {
+      "ats": "oracle",
+      "company": "BDO USA",
+      "host": "ebqb.fa.us2.oraclecloud.com",
+      "key": "oracle:ebqb.fa.us2.oraclecloud.com:bdoexperiencedcareers",
+      "site": "BDOExperiencedCareers",
+      "slug": "ebqb"
     },
     {
       "ats": "oracle",
@@ -5868,6 +5902,12 @@
     },
     {
       "ats": "workable",
+      "company": "Murray Company Mechanical Contractors",
+      "key": "workable:murray-company",
+      "slug": "murray-company"
+    },
+    {
+      "ats": "workable",
       "company": "New Flyer",
       "key": "workable:new-flyer",
       "slug": "new-flyer"
@@ -5973,6 +6013,12 @@
       "company": "SZNS Solutions",
       "key": "workable:szns",
       "slug": "szns"
+    },
+    {
+      "ats": "workable",
+      "company": "talentpluto",
+      "key": "workable:talentpluto",
+      "slug": "talentpluto"
     },
     {
       "ats": "workable",
@@ -6561,6 +6607,15 @@
       "site": "Campus_Careers",
       "slug": "arrowstreetcapital",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Ascensus",
+      "host": "ascensushr.wd1.myworkdayjobs.com",
+      "key": "workday:ascensushr.wd1.myworkdayjobs.com:ascensushr:ascensuscareers",
+      "site": "ascensuscareers",
+      "slug": "ascensushr",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
