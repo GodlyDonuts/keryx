@@ -1958,6 +1958,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Becker Friedman Institute for Economics",
+      "key": "greenhouse:bfiprep",
+      "slug": "bfiprep"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Birdy Grey",
       "key": "greenhouse:birdygrey",
       "slug": "birdygrey"
@@ -6762,6 +6768,15 @@
     },
     {
       "ats": "workday",
+      "company": "Barr Engineering Co.",
+      "host": "barr.wd1.myworkdayjobs.com",
+      "key": "workday:barr.wd1.myworkdayjobs.com:barr:barrcareers",
+      "site": "BarrCareers",
+      "slug": "barr",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Bass Pro Shops",
       "host": "basspro.wd1.myworkdayjobs.com",
       "key": "workday:basspro.wd1.myworkdayjobs.com:basspro:careers",
@@ -9642,6 +9657,15 @@
     },
     {
       "ats": "workday",
+      "company": "Maersk",
+      "host": "maersk.wd3.myworkdayjobs.com",
+      "key": "workday:maersk.wd3.myworkdayjobs.com:maersk:maersk_careers",
+      "site": "maersk_careers",
+      "slug": "maersk",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
       "company": "Magna",
       "host": "magna.wd3.myworkdayjobs.com",
       "key": "workday:magna.wd3.myworkdayjobs.com:magna:magna",
@@ -9720,6 +9744,15 @@
       "site": "Marmon_MSIP_Internships",
       "slug": "marmon",
       "wd": "wd501"
+    },
+    {
+      "ats": "workday",
+      "company": "Mars",
+      "host": "mars.wd3.myworkdayjobs.com",
+      "key": "workday:mars.wd3.myworkdayjobs.com:mars:external",
+      "site": "external",
+      "slug": "mars",
+      "wd": "wd3"
     },
     {
       "ats": "workday",
