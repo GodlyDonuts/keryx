@@ -383,7 +383,7 @@
       "boards": [],
       "company": "Koch",
       "key": "05f85cbf323a534ba7ae5543",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-08-27",
       "resolved_roles": 0,
       "url": "https://www.kochinc.com/"
     },
@@ -565,7 +565,7 @@
       "boards": [],
       "company": "Davidson Technologies",
       "key": "0884c9e8941c95aa5f55dcdd",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-27",
       "resolved_roles": 0,
       "url": "https://davidson-tech.com/"
     },
@@ -871,6 +871,17 @@
       "last_scanned": "2026-08-23",
       "resolved_roles": 0,
       "url": "https://hhaexchange.com/"
+    },
+    {
+      "boards": [
+        "workday:genpact.wd108.myworkdayjobs.com:genpact:external_careers",
+        "workday:genpact.wd108.myworkdayjobs.com:genpact:external_careers%22%7d%7d"
+      ],
+      "company": "Genpact",
+      "key": "0d54a8bfa273dfaee08b5917",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://www.genpact.com/"
     },
     {
       "boards": [],
@@ -1265,6 +1276,14 @@
       "url": "https://www.kpff.com/"
     },
     {
+      "boards": [],
+      "company": "Synopsys Inc",
+      "key": "1338b9bc608d179208580ee9",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://www.synopsys.com/"
+    },
+    {
       "boards": [
         "greenhouse:realchemistry"
       ],
@@ -1363,6 +1382,14 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://tutorintelligence.com/"
+    },
+    {
+      "boards": [],
+      "company": "Deloitte",
+      "key": "14c27ad9721fa111f0a26625",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://www2.deloitte.com/"
     },
     {
       "boards": [
@@ -1523,6 +1550,13 @@
       "url": "https://www.mcgough.com/"
     },
     {
+      "company": "VisLab (an Ambarella Inc. company)",
+      "error": "public request failed for https://vislab.it/: <urlopen error timed out>",
+      "key": "16813286ce155a90066ff4e5",
+      "last_scanned": "2026-08-27",
+      "url": "https://vislab.it/"
+    },
+    {
       "boards": [
         "workday:servicetitan.wd1.myworkdayjobs.com:servicetitan:servicetitan"
       ],
@@ -1596,6 +1630,13 @@
       "url": "https://www.tuftsmedicine.org/"
     },
     {
+      "company": "7EDU",
+      "error": "public request failed for https://www.7edu.online/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.7edu.online'. (_ssl.c:1000)>",
+      "key": "17f6c42a8eb82484d7911e49",
+      "last_scanned": "2026-08-27",
+      "url": "https://www.7edu.online/"
+    },
+    {
       "boards": [],
       "company": "Pegasystems",
       "key": "1810c2a5bfb4caa89557a9ea",
@@ -1615,7 +1656,7 @@
       "boards": [],
       "company": "DHL Express",
       "key": "182128ec434002007bc15ee1",
-      "last_scanned": "2026-08-20",
+      "last_scanned": "2026-08-27",
       "resolved_roles": 0,
       "url": "https://www.dhl.com/au-en/home/express.html"
     },
@@ -1821,6 +1862,14 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.hanover.com/"
+    },
+    {
+      "boards": [],
+      "company": "NTT RESEARCH",
+      "key": "1ce3555d90390cc2b2227e2f",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 1,
+      "url": "https://ntt-research.com/"
     },
     {
       "company": "Horrocks",
@@ -2029,7 +2078,7 @@
       "company": "WHOOP",
       "error": "public request failed for https://www.whoop.com/: HTTP Error 403: Forbidden",
       "key": "208af606069f130189efa0d5",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-08-27",
       "url": "https://www.whoop.com/"
     },
     {
@@ -2230,6 +2279,14 @@
     },
     {
       "boards": [],
+      "company": "Drive Line Group",
+      "key": "2346f5a96ed3755a8554c84f",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://www.drivelinegroup.com/"
+    },
+    {
+      "boards": [],
       "company": "DCCM",
       "key": "23476fd49243a2cb378c9b57",
       "last_scanned": "2026-08-23",
@@ -2258,7 +2315,7 @@
       "company": "MKS Inc.",
       "error": "Invalid IPv6 URL",
       "key": "2402c0a34e52eb5afe5f918e",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.mks.com/"
     },
     {
@@ -2281,7 +2338,7 @@
       "company": "Parts Town",
       "error": "public request failed for https://www.partstown.com/: HTTP Error 403: Forbidden",
       "key": "248511b7a19f3ea0ac7e52f1",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.partstown.com/"
     },
     {
@@ -2338,7 +2395,7 @@
       "company": "INDRA",
       "error": "public request failed for https://github.com/Team-INDRA: HTTP Error 404: Not Found",
       "key": "262cf9e2583bd718b874eb63",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://github.com/Team-INDRA"
     },
     {
@@ -2351,12 +2408,11 @@
     },
     {
       "boards": [
-        "greenhouse:attentive",
-        "workday:razer.wd3.myworkdayjobs.com:razer:careers"
+        "greenhouse:algolia"
       ],
       "company": "Ecommerce Guide",
       "key": "266f28682ba482a163c9b481",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-27",
       "resolved_roles": 0,
       "url": "https://ecommerceguide.com/"
     },
@@ -2489,7 +2545,7 @@
       "company": "Conifer Health Solutions",
       "error": "public request failed for https://coniferhealth.com/: HTTP Error 403: Forbidden",
       "key": "28602ba460165d669766e6c0",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://coniferhealth.com/"
     },
     {
@@ -2804,7 +2860,7 @@
       "company": "Nokia",
       "error": "public request failed for https://www.nokia.com/: HTTP Error 403: Forbidden",
       "key": "2ced4544077d31a1eecf34ba",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.nokia.com/"
     },
     {
@@ -3220,7 +3276,7 @@
       "boards": [],
       "company": "CFS",
       "key": "32ed18d861293de2c027228b",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-27",
       "resolved_roles": 0,
       "url": "https://www.flycfs.co.za/"
     },
@@ -3340,7 +3396,7 @@
       "company": "KeyBank",
       "error": "public request failed for https://www.key.com/about/corporate-responsibility/keybank-foundation.jsp: The read operation timed out",
       "key": "34de0ca95e7cf403fe31a68d",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-08-27",
       "url": "https://www.key.com/about/corporate-responsibility/keybank-foundation.jsp"
     },
     {
@@ -3422,6 +3478,13 @@
       "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://www.mulhernkulp.com/"
+    },
+    {
+      "company": "Oak Point Partners",
+      "error": "Invalid IPv6 URL",
+      "key": "36426f3394207207deb4b952",
+      "last_scanned": "2026-08-27",
+      "url": "https://www.oakpointpartners.com/"
     },
     {
       "company": "Beth Israel Lahey Health",
@@ -3506,10 +3569,11 @@
       "url": "https://www.elevatedwebdesign.com/"
     },
     {
+      "boards": [],
       "company": "GEICO",
-      "error": "too many public redirects: https://www.geico.com/",
       "key": "37fb3670595125423262dbf7",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
       "url": "https://www.geico.com/"
     },
     {
@@ -3581,14 +3645,14 @@
       "company": "Medtronic",
       "error": "public request failed for https://www.medtronic.com/: HTTP Error 403: Forbidden",
       "key": "38b90af560aacdbc26260669",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-08-27",
       "url": "https://www.medtronic.com/"
     },
     {
       "boards": [],
       "company": "WorldQuant",
       "key": "38bea01cc6d929f902b3f197",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-27",
       "resolved_roles": 0,
       "url": "https://www.worldquant.com/"
     },
@@ -3727,7 +3791,7 @@
       "company": "Arthur D. Little",
       "error": "public request failed for https://www.adlittle.com/: HTTP Error 403: Forbidden",
       "key": "39ea65421733011c6d0afb7e",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.adlittle.com/"
     },
     {
@@ -3742,7 +3806,7 @@
       "company": "Zest AI",
       "error": "public requests require HTTPS and a hostname",
       "key": "39f056f00d0d1dfeb8fda557",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://zest.ai/"
     },
     {
@@ -3847,7 +3911,7 @@
       "company": "Oracle",
       "error": "public request failed for https://www.oracle.com/: HTTP Error 403: Forbidden",
       "key": "3bdd3eb53277825b1e794d32",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.oracle.com/"
     },
     {
@@ -4020,7 +4084,7 @@
       "company": "Avis Budget Group",
       "error": "public request failed for https://avisbudgetgroup.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
       "key": "3f82898c841c3f901406e7e9",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://avisbudgetgroup.com/"
     },
     {
@@ -4055,7 +4119,7 @@
       "company": "AMD",
       "error": "public request failed for https://www.amd.com/: The read operation timed out",
       "key": "402b3c74b76212235bffcd36",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.amd.com/"
     },
     {
@@ -4158,6 +4222,16 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://aep.com/"
+    },
+    {
+      "boards": [
+        "workday:draper.wd5.myworkdayjobs.com:draper:draper_careers"
+      ],
+      "company": "Draper",
+      "key": "4280f173a089ff194975f8f0",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://www.draper.com/"
     },
     {
       "boards": [],
@@ -4306,7 +4380,7 @@
       "company": "The Aerospace Corporation",
       "error": "public request failed for https://www.aerospace.org/: HTTP Error 403: Forbidden",
       "key": "44befca86996326dc400b08f",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.aerospace.org/"
     },
     {
@@ -4383,7 +4457,7 @@
       "company": "The Hartford",
       "error": "public request failed for https://www.thehartford.com/: The read operation timed out",
       "key": "462cad949ed329b84742f4e9",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.thehartford.com/"
     },
     {
@@ -4400,7 +4474,7 @@
       "company": "TransUnion",
       "error": "public request failed for https://www.transunion.com/: HTTP Error 403: Forbidden",
       "key": "46847de6ac1f3f79d587377b",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.transunion.com/"
     },
     {
@@ -4763,7 +4837,7 @@
       "boards": [],
       "company": "Lockton",
       "key": "4b437766b2f4672f2344cfe8",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-27",
       "resolved_roles": 0,
       "url": "https://www.lockton.com/offices/uk"
     },
@@ -4771,7 +4845,7 @@
       "company": "Caterpillar Inc.",
       "error": "public request failed for https://www.caterpillar.com/: The read operation timed out",
       "key": "4b4b3bc431b4d7e97dbb5da5",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.caterpillar.com/"
     },
     {
@@ -4922,14 +4996,14 @@
       "company": "Crowe",
       "error": "public request failed for https://www.crowe.com/: HTTP Error 403: Forbidden",
       "key": "4d0beeea761d31adbc5dcf65",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.crowe.com/"
     },
     {
       "company": "Chime",
       "error": "public request failed for https://www.chime.com/: HTTP Error 403: Forbidden",
       "key": "4d1ceb939bca2840c568207e",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.chime.com/"
     },
     {
@@ -5178,7 +5252,7 @@
       "company": "Georgia System Operations Corporation",
       "error": "public request failed for https://gasoc.com/Pages/gasochome.aspx: HTTP Error 404: Not Found",
       "key": "4ff9c5d18546272173691a3f",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.gasoc.com/Pages/gasochome.aspx"
     },
     {
@@ -5258,6 +5332,17 @@
       "last_scanned": "2026-08-21",
       "resolved_roles": 0,
       "url": "https://www.kraftheinzcompany.com/"
+    },
+    {
+      "boards": [
+        "oracle:ebxs.fa.us2.oraclecloud.com:cx_2",
+        "oracle:ebxs.fa.us2.oraclecloud.com:cx_4004"
+      ],
+      "company": "Michael Baker International",
+      "key": "513fa26f3276c61e32666112",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://mbakerintl.com/"
     },
     {
       "boards": [],
@@ -5486,7 +5571,7 @@
       "boards": [],
       "company": "Navy Federal Credit Union",
       "key": "543a308225a9b9c2c7f28133",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-27",
       "resolved_roles": 0,
       "url": "https://www.navyfederal.org/"
     },
@@ -5494,8 +5579,18 @@
       "company": "Citadel Securities",
       "error": "public request failed for https://www.citadelsecurities.com/: HTTP Error 403: Forbidden",
       "key": "544ccf2d499bbbed703cd8da",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.citadelsecurities.com/"
+    },
+    {
+      "boards": [
+        "greenhouse:torcrobotics"
+      ],
+      "company": "Torc Robotics",
+      "key": "546b563b080a48e7c0b672db",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://torc.ai/"
     },
     {
       "boards": [],
@@ -5670,6 +5765,17 @@
     },
     {
       "boards": [
+        "workday:plains.wd1.myworkdayjobs.com:plains:plains",
+        "workday:plains.wd1.myworkdayjobs.com:plains:plains_trucking"
+      ],
+      "company": "Plains",
+      "key": "567cb7ebe6de29ff3aff0f91",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://www.plains.com/"
+    },
+    {
+      "boards": [
         "greenhouse:queracomputinginc"
       ],
       "company": "QuEra Computing Inc.",
@@ -5829,7 +5935,7 @@
       "company": "Ascensus",
       "error": "public request failed for https://www.ascensus.com/: HTTP Error 403: Forbidden",
       "key": "584fa5f6d482d69dae71eb53",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.ascensus.com/"
     },
     {
@@ -5912,7 +6018,7 @@
       "company": "Tesla",
       "error": "public request failed for https://www.tesla.com/: HTTP Error 403: Forbidden",
       "key": "596d5f8ba4114e6c6c07da9e",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.tesla.com/"
     },
     {
@@ -6007,8 +6113,16 @@
       "company": "Stanley Black & Decker, Inc.",
       "error": "public request failed for https://www.stanleyblackanddecker.com/: HTTP Error 403: Forbidden",
       "key": "5acc625a815c258fc2f37a7e",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.stanleyblackanddecker.com/"
+    },
+    {
+      "boards": [],
+      "company": "Red Hat",
+      "key": "5ada364e564fabead8016334",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://www.redhat.com/"
     },
     {
       "boards": [],
@@ -6066,6 +6180,16 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://www.qawolf.com/?utm_source=crunchbase&utm_medium=referral&utm_campaign=ReviewSites_ProfileCustomCTA_46185"
+    },
+    {
+      "boards": [
+        "ashby:notable"
+      ],
+      "company": "Notable",
+      "key": "5b6c12bdad8c357e618318f9",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://notablehealth.com/"
     },
     {
       "boards": [],
@@ -6416,7 +6540,7 @@
       "company": "University of Virginia",
       "error": "public request failed for https://parking.virginia.edu/: HTTP Error 403: Forbidden",
       "key": "608f02fa4b7c9099f762f88b",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://parking.virginia.edu/"
     },
     {
@@ -6472,6 +6596,14 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://jmtest.com/"
+    },
+    {
+      "boards": [],
+      "company": "GAI Consultants, Inc.",
+      "key": "613c28aeb5e100e55505c5d6",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://gaiconsultants.com/"
     },
     {
       "boards": [],
@@ -6582,7 +6714,7 @@
       "company": "E15 Group",
       "error": "public requests require HTTPS and a hostname",
       "key": "62dfdc001adfe5a817c40178",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://e15group.com/"
     },
     {
@@ -7088,7 +7220,7 @@
       "company": "FFF Enterprises",
       "error": "public request failed for https://www.fffenterprises.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
       "key": "6a99d0ab51cd20dfa596c695",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.fffenterprises.com/"
     },
     {
@@ -7257,7 +7389,7 @@
       "company": "Littelfuse",
       "error": "public request failed for https://www.littelfuse.com/: HTTP Error 403: Forbidden",
       "key": "6cffbf51787f841d31a22c00",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.littelfuse.com/"
     },
     {
@@ -7334,14 +7466,14 @@
       "company": "DV Trading LLC",
       "error": "public request failed for https://www.dvtrading.co/: HTTP Error 526: <none>",
       "key": "6e1dbefdee0f362023608d2e",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.dvtrading.co/"
     },
     {
       "company": "Microchip Technology Inc.",
       "error": "public request failed for https://www.microchip.com/: HTTP Error 403: Forbidden",
       "key": "6e4442d676256fc2044633d6",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.microchip.com/"
     },
     {
@@ -7359,6 +7491,21 @@
       "last_scanned": "2026-08-26",
       "resolved_roles": 0,
       "url": "https://pgventuresstudio.com/"
+    },
+    {
+      "company": "Winland Foods",
+      "error": "public request failed for https://winlandfoods.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "key": "6e79ebaa56ea3dc29aa13532",
+      "last_scanned": "2026-08-27",
+      "url": "https://winlandfoods.com/"
+    },
+    {
+      "boards": [],
+      "company": "TOGA Technology",
+      "key": "6e9312154e84ce4cb2e5ff97",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://www.togatech.com/"
     },
     {
       "boards": [
@@ -7391,7 +7538,7 @@
       "company": "Cond\u00e9 Nast",
       "error": "public request failed for https://www.condenaststore.com/: HTTP Error 403: Forbidden",
       "key": "6eec980689776b723fd9bb19",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.condenaststore.com/"
     },
     {
@@ -7480,7 +7627,7 @@
       "company": "impact.com",
       "error": "public request failed for https://with-impact.com/: <urlopen error [Errno 111] Connection refused>",
       "key": "704e13abe652a8593e2a8b3e",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://with-impact.com/"
     },
     {
@@ -7527,6 +7674,14 @@
     },
     {
       "boards": [],
+      "company": "Redwood Materials",
+      "key": "7130a681a0e0677f0f254f6c",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://www.redwoodmaterials.com/"
+    },
+    {
+      "boards": [],
       "company": "PACK Power, LLC",
       "key": "713f08dbc73d306782e52238",
       "last_scanned": "2026-08-26",
@@ -7566,6 +7721,14 @@
     },
     {
       "boards": [],
+      "company": "KITH",
+      "key": "72288fc0081a14b0cdf6ed68",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://kith.com/"
+    },
+    {
+      "boards": [],
       "company": "CED",
       "key": "723073ee343be197ae52d579",
       "last_scanned": "2026-08-23",
@@ -7576,7 +7739,7 @@
       "company": "lululemon",
       "error": "public request failed for https://shop.lululemon.com/: The read operation timed out",
       "key": "724a849cab816744a470e140",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://shop.lululemon.com/"
     },
     {
@@ -7602,6 +7765,14 @@
       "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://katalystspace.com/"
+    },
+    {
+      "boards": [],
+      "company": "American Public Media Group",
+      "key": "72a1dd9b917343fa254ea5cb",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://fitzgeraldtheater.publicradio.org/"
     },
     {
       "boards": [
@@ -7724,7 +7895,7 @@
       "company": "EAB",
       "error": "public requests require HTTPS and a hostname",
       "key": "740364f5c2ae1f2b4e24480a",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.eab.com/"
     },
     {
@@ -8072,7 +8243,7 @@
       "company": "Mastercard",
       "error": "public request failed for https://www.mastercard.com/: HTTP Error 403: Forbidden",
       "key": "77e169e72cbf565b566b3dda",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.mastercard.com/"
     },
     {
@@ -8140,7 +8311,7 @@
       "company": "National Football League (NFL)",
       "error": "public response exceeded 3145728 bytes",
       "key": "78e56cef78a49a57cbf23aaa",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.nfl.com/"
     },
     {
@@ -8319,7 +8490,7 @@
       "company": "Citadel",
       "error": "public request failed for https://www.citadel.com/: HTTP Error 403: Forbidden",
       "key": "7b436ef8b89ee85c4a6535e9",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.citadel.com/"
     },
     {
@@ -8437,7 +8608,7 @@
       "company": "Too Lost",
       "error": "public request failed for https://www.toolost.com/: HTTP Error 403: Forbidden",
       "key": "7d769e07a5d084d31bc52cda",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.toolost.com/"
     },
     {
@@ -8446,6 +8617,16 @@
       "key": "7d80db8a88bf9248cc8ec3ae",
       "last_scanned": "2026-08-26",
       "url": "https://www.str.com/"
+    },
+    {
+      "boards": [
+        "workday:psecu.wd12.myworkdayjobs.com:psecu:psecu"
+      ],
+      "company": "PSECU",
+      "key": "7de872a212c4cbf04fb806ce",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://psecu.com/"
     },
     {
       "boards": [],
@@ -8689,6 +8870,16 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://www.riseinteractive.com/"
+    },
+    {
+      "boards": [
+        "greenhouse:legal"
+      ],
+      "company": "Daybreak Game Company LLC",
+      "key": "81eeaf930a6fd0d5d7a5645b",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://www.daybreakgames.com/home"
     },
     {
       "boards": [],
@@ -9195,7 +9386,7 @@
       "company": "iHerb",
       "error": "public request failed for https://www.iherb.com/: HTTP Error 403: Forbidden",
       "key": "8967dbcce0ecdcce9a1be2da",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.iherb.com/"
     },
     {
@@ -9219,7 +9410,7 @@
       "company": "UAB Medicine",
       "error": "Invalid IPv6 URL",
       "key": "89bf5be30e4f5f0daad2a5ba",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.uabmedicine.org/"
     },
     {
@@ -9340,10 +9531,18 @@
       "url": "https://www.vtg.com/"
     },
     {
+      "boards": [],
+      "company": "Eviction Defense Collaborative, Inc.",
+      "key": "8b771c2e662ad4dd99a63618",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://evictiondefense.org/"
+    },
+    {
       "company": "Marathon Petroleum Corporation",
       "error": "public request failed for https://www.marathonpetroleum.com/: HTTP Error 403: Forbidden",
       "key": "8b96c5fecf4a8c25a350411f",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-08-27",
       "url": "https://www.marathonpetroleum.com/"
     },
     {
@@ -10527,6 +10726,13 @@
       "url": "https://marylandoncology.com/"
     },
     {
+      "company": "Grant Thornton (NI) LLP",
+      "error": "public request failed for https://www.grantthorntonni.com/brexit/: HTTP Error 404: Not Found",
+      "key": "9f39c21033ca0adf43447de1",
+      "last_scanned": "2026-08-27",
+      "url": "https://www.grantthorntonni.com/brexit/"
+    },
+    {
       "boards": [],
       "company": "Messerli Kramer, P.A.",
       "key": "9f4308c18ecb2e65d6a47eac",
@@ -10567,6 +10773,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.enova.com/"
+    },
+    {
+      "company": "Astrion",
+      "error": "public request failed for https://astrion.us/: <urlopen error timed out>",
+      "key": "9fb1e1dde2e1518132827740",
+      "last_scanned": "2026-08-27",
+      "url": "https://astrion.us/"
     },
     {
       "boards": [],
@@ -12840,6 +13053,16 @@
     },
     {
       "boards": [
+        "ashby:furtherai"
+      ],
+      "company": "FurtherAI",
+      "key": "bf29b42fd3c38de824078cb2",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://furtherai.com/"
+    },
+    {
+      "boards": [
         "workday:crowdstrike.wd5.myworkdayjobs.com:crowdstrike:crowdstrikecareers"
       ],
       "company": "CrowdStrike",
@@ -13721,7 +13944,7 @@
       "boards": [],
       "company": "Equitable",
       "key": "cafcca4165a1c70d1386d950",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-08-27",
       "resolved_roles": 0,
       "url": "https://equitable.com/"
     },
@@ -14052,10 +14275,10 @@
       "url": "https://www.securitastechnology.com/"
     },
     {
-      "company": "Butler Aerospace & Defense",
+      "company": "HCLTech",
       "error": "public request failed for https://www.hcltech.com/: The read operation timed out",
       "key": "cfd3794065df83e2f2751eed",
-      "last_scanned": "2026-08-21",
+      "last_scanned": "2026-08-27",
       "url": "https://www.hcltech.com/"
     },
     {
@@ -14659,6 +14882,13 @@
       "url": "https://www.geosyntec.com/"
     },
     {
+      "company": "Steve Madden",
+      "error": "Invalid IPv6 URL",
+      "key": "d882e407f1c787ad33151f3b",
+      "last_scanned": "2026-08-27",
+      "url": "https://www.stevemadden.com/"
+    },
+    {
       "boards": [],
       "company": "Vishay Intertechnology, Inc.",
       "key": "d899154181580109b94e60e3",
@@ -14786,6 +15016,14 @@
     },
     {
       "boards": [],
+      "company": "LyondellBasell",
+      "key": "db1751fd70a37e464788b4d4",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://lyondellbasell.com/"
+    },
+    {
+      "boards": [],
       "company": "C10 Labs",
       "key": "db194b5fada2c429f6fb4bf4",
       "last_scanned": "2026-08-24",
@@ -14883,7 +15121,7 @@
       "boards": [],
       "company": "CMTA, Inc.",
       "key": "dba6664ea21c490d290365e7",
-      "last_scanned": "2026-08-20",
+      "last_scanned": "2026-08-27",
       "resolved_roles": 0,
       "url": "https://www.cmta.com/"
     },
@@ -15197,6 +15435,13 @@
       "url": "https://jobs.hawaii.gov/"
     },
     {
+      "company": "McKim & Creed, Inc.",
+      "error": "public request failed for https://mckimcreed.com/: <urlopen error timed out>",
+      "key": "e04787c2ae4f8fe7cb3e1188",
+      "last_scanned": "2026-08-27",
+      "url": "https://mckimcreed.com/"
+    },
+    {
       "boards": [],
       "company": "LCRA",
       "key": "e08aa316096976876479ab56",
@@ -15206,11 +15451,26 @@
     },
     {
       "boards": [],
+      "company": "Federal Signal",
+      "key": "e0bc4f3b250d6fe3963eb3de",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://www.fedsig.com/"
+    },
+    {
+      "boards": [],
       "company": "Minimally Invasive Procedure Specialists",
       "key": "e0dcd184fc4923b5bae3deb6",
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://mipscenter.com/"
+    },
+    {
+      "company": "Tris Pharma",
+      "error": "public redirect lacked a destination: https://trispharma.com/",
+      "key": "e10b9280723958daf0fffc5a",
+      "last_scanned": "2026-08-27",
+      "url": "https://trispharma.com/"
     },
     {
       "company": "Parker Hannifin",
@@ -15466,6 +15726,14 @@
     },
     {
       "boards": [],
+      "company": "Schaefer",
+      "key": "e51df1776449fa02bc3039ea",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://schaefer-inc.com/"
+    },
+    {
+      "boards": [],
       "company": "Verisk",
       "key": "e51fbb428a430a0b6659737a",
       "last_scanned": "2026-08-26",
@@ -15523,6 +15791,14 @@
     },
     {
       "boards": [],
+      "company": "GBA",
+      "key": "e62db87aabcbb8947a885269",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://gbateam.com/"
+    },
+    {
+      "boards": [],
       "company": "Seattle Children's",
       "key": "e64392c99d559fdbd5571259",
       "last_scanned": "2026-08-18",
@@ -15548,6 +15824,16 @@
       "last_scanned": "2026-08-21",
       "resolved_roles": 0,
       "url": "https://www.ssrmining.com/"
+    },
+    {
+      "boards": [
+        "workday:tihinsurance.wd1.myworkdayjobs.com:tihinsurance:crc_careers"
+      ],
+      "company": "CRC Group",
+      "key": "e6ba2bc7279b585d4e325711",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://www.crcgroup.com/"
     },
     {
       "boards": [],
@@ -15714,7 +16000,7 @@
       "company": "Knowesis Inc.",
       "error": "Invalid IPv6 URL",
       "key": "e93b7d34f5e5c97c54372bad",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-08-27",
       "url": "https://www.knowesis-inc.com/"
     },
     {
@@ -15854,6 +16140,14 @@
       "key": "eaa4e8e6fb71f156288a17c4",
       "last_scanned": "2026-08-20",
       "url": "https://www.craneco.com/index.html"
+    },
+    {
+      "boards": [],
+      "company": "Rho",
+      "key": "eab9bcb2ef8a7764861eeb0f",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://rho.co/"
     },
     {
       "boards": [],
@@ -16011,7 +16305,7 @@
       "company": "Delta Air Lines",
       "error": "public request failed for https://www.delta.com/: HTTP Error 444: Unknown",
       "key": "ec7c99f34f2e512e16326371",
-      "last_scanned": "2026-08-21",
+      "last_scanned": "2026-08-27",
       "url": "https://www.delta.com/"
     },
     {
@@ -16193,6 +16487,13 @@
       "url": "https://www.samsara.com/"
     },
     {
+      "company": "Canva",
+      "error": "public request failed for https://www.canva.com/: HTTP Error 403: Forbidden",
+      "key": "ee76fbba779289eb77a3c0b7",
+      "last_scanned": "2026-08-27",
+      "url": "https://www.canva.com/"
+    },
+    {
       "boards": [],
       "company": "Omnicom",
       "key": "ee8df4254e0c1a5cee928a08",
@@ -16314,7 +16615,7 @@
       "company": "Gartner",
       "error": "public request failed for https://www.gartner.com/: HTTP Error 403: Forbidden",
       "key": "efd334a875d97b8825f47c8c",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-08-27",
       "url": "https://www.gartner.com/"
     },
     {
@@ -16713,7 +17014,7 @@
       "company": "Ericsson",
       "error": "public request failed for https://www.ericsson.com/en: HTTP Error 403: Forbidden",
       "key": "f53ce3ad208b14b94c9e584f",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-08-27",
       "url": "https://www.ericsson.com/"
     },
     {
@@ -16929,6 +17230,16 @@
       "url": "https://www.epsilon.com/us"
     },
     {
+      "boards": [
+        "workday:zayo.wd1.myworkdayjobs.com:zayo:zayo_careers"
+      ],
+      "company": "Zayo Group",
+      "key": "f930ca94065f3b24dc88217a",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://www.zayo.com/"
+    },
+    {
       "boards": [],
       "company": "Asure Software",
       "key": "f9ad4102e3f332d18248647d",
@@ -17013,7 +17324,7 @@
       "company": "Hewlett Packard Enterprise",
       "error": "public request failed for https://www.hpe.com/: The read operation timed out",
       "key": "fb9d829f215a3234760b16c3",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-08-27",
       "url": "https://www.hpe.com/"
     },
     {
@@ -17246,6 +17557,17 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://www.audible.com/"
+    },
+    {
+      "boards": [
+        "oracle:ehzq.fa.us2.oraclecloud.com:grantthorntonirelandexperiencedhires",
+        "oracle:ehzq.fa.us2.oraclecloud.com:grantthorntonirelandgraduateprogramme"
+      ],
+      "company": "Grant Thornton Ireland",
+      "key": "fec8dea8afbedef0f8981810",
+      "last_scanned": "2026-08-27",
+      "resolved_roles": 0,
+      "url": "https://www.grantthornton.ie/"
     },
     {
       "boards": [],
