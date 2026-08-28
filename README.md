@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**3,048 internships · 4,259 new-grad roles · 7,307 total openings**
+**3,165 internships · 4,325 new-grad roles · 7,490 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 1,175 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 572 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 189 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 1,225 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 582 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 200 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 71 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,041 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 1,087 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 763 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,260 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,236 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 797 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,296 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,232 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| AbbVie | 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate) | North Chicago, IL, us | Not listed | not available | 2026-08-27 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014896329)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Blockhouse | Applied AI Engineering Intern | New York City Area | Not listed | not available | 2026-08-28 | **[Apply →](https://jobs.ashbyhq.com/blockhouse/2e9fbde8-709c-4c1f-b908-cd51a53c8529)**<br><sub>jobs.ashbyhq.com</sub> |
+| ABB | AI Robotics UI/UX Intern- Fall 2026 | Milpitas, California, USA | Fall 2026 | not available | 2026-08-27 | **[Apply →](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/AI-Robotics-UI-UX-Intern--Fall-2026_JR00044847-1)**<br><sub>abb.wd3.myworkdayjobs.com</sub> |
+| ABB | Physical AI Robotics Simulation Intern- Fall 2026 | Milpitas, California, USA | Fall 2026 | not available | 2026-08-27 | **[Apply →](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/Physical-AI-Robotics-Simulation-Intern--Fall-2026_JR00044848-1)**<br><sub>abb.wd3.myworkdayjobs.com</sub> |
+| AbbVie | 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate) | Irvine, CA, United States (Hybrid) | Summer 2027 | not available | 2026-08-27 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014900496)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AbbVie | 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate) | South San Francisco, CA, United States (Hybrid) | Summer 2027 | not available | 2026-08-27 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014900536)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AbbVie | 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate) | North Chicago, IL, United States (Hybrid) | Summer 2027 | not available | 2026-08-27 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990014896329)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Air Products | Summer Intern- IT & Cyber Audit (2027) | Allentown, Pennsylvania | Summer 2027 | not available | 2026-08-27 | **[Apply →](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT---Cyber-Audit--2027-_JR-2026-21954)**<br><sub>airproducts.wd5.myworkdayjobs.com</sub> |
+| Air Products | Summer Intern- IT/Digital Technology (2027) | Allentown, Pennsylvania | Summer 2027 | not available | 2026-08-27 | **[Apply →](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT-Digital-Technology--2027-_JR-2026-21953)**<br><sub>airproducts.wd5.myworkdayjobs.com</sub> |
+| Amazon | Robotics - Software Development Engineer Fall Intern/Co-op - 2026 | Westboro, Massachusetts, USA | Fall 2026 | not available | 2026-08-27 | **[Apply →](https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026)**<br><sub>www.amazon.jobs</sub> |
+| Amazon | Software Development Engineer Intern - Annapurna Labs | Seattle, WA, Austin, TX, NYC, Cupertino, CA | Fall 2026 | not available | 2026-08-27 | **[Apply →](https://amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027)**<br><sub>amazon.jobs</sub> |
+| Amazon | Software Development Engineer Intern, Annapurna Labs - 2027 | Cupertino, California, USA | Summer 2027 | not available | 2026-08-27 | **[Apply →](https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027)**<br><sub>www.amazon.jobs</sub> |
 | Ambarella | Algorithm Engineer Intern | United States | Fall 2026 | not available | 2026-08-27 | **[Apply →](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Algorithm-Engineer-Intern_JR100359)**<br><sub>ambarella.wd108.myworkdayjobs.com</sub> |
-| Ambarella | DFT Engineer Intern | United States | Fall 2026 | not available | 2026-08-27 | **[Apply →](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/DFT-Engineer-Intern_JR100360)**<br><sub>ambarella.wd108.myworkdayjobs.com</sub> |
-| Ambarella | Software Engineer Intern | US Headquarters | Not listed | not available | 2026-08-27 | **[Apply →](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100363)**<br><sub>ambarella.wd108.myworkdayjobs.com</sub> |
-| Ambarella | Verification Engineer Intern | United States | Fall 2026 | not available | 2026-08-27 | **[Apply →](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Verification-Engineer-Intern_JR100364)**<br><sub>ambarella.wd108.myworkdayjobs.com</sub> |
-| Booz Allen | University - 2027 Summer Games Cyber Security Intern - El Segundo, CA | El Segundo, CA | Summer 2027 | not available | 2026-08-27 | **[Apply →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
-| Booz Allen | University - 2027 Summer Games Data Scientist Intern - McLean, VA | McLean, VA | Summer 2027 | not available | 2026-08-27 | **[Apply →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
-| Booz Allen | University - 2027 Summer Games Data Scientist Intern - San Diego, CA | San Diego, CA | Summer 2027 | not available | 2026-08-27 | **[Apply →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Data-Scientist-Intern---San-Diego--CA_R0248045)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
-| Booz Allen | University - 2027 Summer Games Software Developer Intern - El Segundo, CA | El Segundo, CA | Summer 2027 | not available | 2026-08-27 | **[Apply →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
-| Booz Allen | University - 2027 Summer Games Software Developer Intern - San Diego, CA | San Diego, CA | Summer 2027 | not available | 2026-08-27 | **[Apply →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
-| Centene | People Analytics Intern - Undergraduate | Washington, Oregon, California, Nevada, Arizona, Colorado, Utah, Idaho | Summer 2027 | not available | 2026-08-27 | **[Apply →](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-CA/People-Analytics-Intern--Undergraduate---Summer-2027-_1653735)**<br><sub>centene.wd5.myworkdayjobs.com</sub> |
-| Dimensional Fund Advisors | Investment Engineering Intern - Undergraduate & Master's | Austin, TX, Charlotte, NC | Fall 2026 | not available | 2026-08-27 | **[Apply →](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Investment-Engineering--Undergraduate---Master-s-_2026-9025)**<br><sub>dimensional.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Amentum | C/C++ Software Developer | Dahlgren, VA | 2027 | not available | 2026-08-27 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C-C---Software-Developer_R0168336)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
+| Analytical Mechanics Associates | AI/ML Research Associate | California | Not listed | not available | 2026-08-27 | **[Apply →](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---California/AI-ML-Research-Associate_R-100750-1)**<br><sub>amainc.wd12.myworkdayjobs.com</sub> |
+| Analytical Mechanics Associates | Material Response Modeling Engineer | Mountain View, CA | Not listed | not available | 2026-08-27 | **[Apply →](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Mountain-View-CA/Material-Response-Modeling-Engineer_R-100744)**<br><sub>amainc.wd12.myworkdayjobs.com</sub> |
+| Andersen Corporation | IT Rotational Development Program | Oak Park Heights, MN | 2026 | not available | 2026-08-27 | **[Apply →](https://andersen.wd12.myworkdayjobs.com/Andersen_External_Career_Site/job/Oak-Park-Heights-MN/IT-Rotational-Development-Program_R-8105)**<br><sub>andersen.wd12.myworkdayjobs.com</sub> |
+| Applied Materials | Algorithm Developer 2 | Santa Clara, CA | Not listed | not available | 2026-08-27 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer-II_R2627187)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
+| ASM International | Software Engineer - Early Career - Fall 2026 | Phoenix, AZ | 2026 | not available | 2026-08-27 | **[Apply →](https://www.asm.com/open-vacancies/?gh_jid=4876722101)**<br><sub>www.asm.com</sub> |
 | Atlas Energy Solutions | AI Developer | Austin, TX | Not listed | not available | 2026-08-27 | **[Apply →](https://job-boards.greenhouse.io/atlassand/jobs/8753225002)**<br><sub>job-boards.greenhouse.io</sub> |
-| Cummins | Product Engineer | Columbus, IN | Not listed | not available | 2026-08-27 | **[Apply →](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434598)**<br><sub>fa-espx-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
-| Cummins | Product Powertrain Product Engineer - Current Product Powertrain Hardware System | Columbus, IN | Not listed | not available | 2026-08-27 | **[Apply →](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435319)**<br><sub>fa-espx-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
-| DataVisor | Data Scientist - Fraud Detection | Mountain View, CA | Not listed | not available | 2026-08-27 | **[Apply →](https://apply.workable.com/datavisor-jobs/j/84FBC84E52/apply)**<br><sub>apply.workable.com</sub> |
-| Domino's | Technology Rotation Program | Ann Arbor, MI | Not listed | not available | 2026-08-27 | **[Apply →](https://jobs.smartrecruiters.com/Dominos/744000145997269)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Graphcore | Graduate Electrical Engineer | Austin, TX | Not listed | not available | 2026-08-27 | **[Apply →](https://job-boards.greenhouse.io/graphcore/jobs/8747132002)**<br><sub>job-boards.greenhouse.io</sub> |
-| Honeywell | IT New Grad | Charlotte, NC, Atlanta, GA | Not listed | not available | 2026-08-27 | **[Apply →](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/156756)**<br><sub>ibqbjb.fa.ocs.oraclecloud.com</sub> |
-| Jabil | Business Intelligence Analyst and Developer 1 | Tampa, FL, St. Petersburg, FL | Not listed | not available | 2026-08-27 | **[Apply →](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Business-Intelligence-Analyst-and-Developer-I_J2462394)**<br><sub>jabil.wd5.myworkdayjobs.com</sub> |
-| Johns Hopkins Applied Physics Laboratory | Graduate - Data Science - System Performance Evaluation | Laurel, MD | Not listed | not available | 2026-08-27 | **[Apply →](https://careers.jhuapl.edu/jobs/59799?icims=1)**<br><sub>careers.jhuapl.edu</sub> |
-| L3Harris Technologies | Associate Software Engineer | Colorado Springs, CO | Not listed | not available | 2026-08-27 | **[Apply →](https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineer-CO-80916/1423789000/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| L3Harris Technologies | Associate Software Engineer | Salt Lake City, UT | Not listed | not available | 2026-08-27 | **[Apply →](https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1423952700/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| L3Harris Technologies | Engineering Technician B | Rochester, NY | Not listed | not available | 2026-08-27 | **[Apply →](https://jobs.l3harris.com/job/Rochester-Engineering-Technician-B-NY-14623/1423797400/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
+| Beyondsoft | Printer Hardware Tester | Vancouver, WA | Not listed | not available | 2026-08-27 | **[Apply →](https://careers-beyondsoft.icims.com/jobs/10949/job?mobile=true&needsRedirect=false)**<br><sub>careers-beyondsoft.icims.com</sub> |
+| Booz Allen | Applied AI Software Developer | McLean, VA | Not listed | not available | 2026-08-27 | **[Apply →](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Applied-AI-Software-Developer_R0248109)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
+| Booz Allen | Data Engineer | Atlanta, GA | Not listed | not available | 2026-08-27 | **[Apply →](https://bah.wd1.myworkdayjobs.com/Confidential/job/Atlanta-GA/University--Data-Engineer_R0248107)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
+| Booz Allen | Digital Transformation Analyst | McLean, VA | Not listed | not available | 2026-08-27 | **[Apply →](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Digital-Transformation-Analyst_R0248103)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
+| Booz Allen | Product Engineer | McLean, VA | Not listed | not available | 2026-08-27 | **[Apply →](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Product-Engineer_R0248101)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
