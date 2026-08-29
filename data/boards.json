@@ -2223,6 +2223,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Charles River Associates (CRA)",
+      "key": "greenhouse:charlesriverassociates",
+      "slug": "charlesriverassociates"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Chicago Trading Company",
       "key": "greenhouse:chicagotradingcampus",
       "slug": "chicagotradingcampus"
@@ -3774,6 +3780,12 @@
       "company": "xAI",
       "key": "greenhouse:xai",
       "slug": "xai"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Xaira Therapeutics",
+      "key": "greenhouse:xairatherapeutics",
+      "slug": "xairatherapeutics"
     },
     {
       "ats": "greenhouse",
@@ -6169,6 +6181,12 @@
     },
     {
       "ats": "workable",
+      "company": "Arch Aerial",
+      "key": "workable:arch-aerial-llc",
+      "slug": "arch-aerial-llc"
+    },
+    {
+      "ats": "workable",
       "company": "Avalore",
       "key": "workable:avalore",
       "slug": "avalore"
@@ -6676,7 +6694,7 @@
     },
     {
       "ats": "workday",
-      "company": "Automobile Club of Southern California",
+      "company": "AAA Club Alliance",
       "host": "ace.wd5.myworkdayjobs.com",
       "key": "workday:ace.wd5.myworkdayjobs.com:ace:careers",
       "site": "careers",
@@ -7320,6 +7338,15 @@
       "key": "workday:barr.wd1.myworkdayjobs.com:barr:barrcareers",
       "site": "barrcareers",
       "slug": "barr",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Barry-Wehmiller",
+      "host": "barrywehmiller.wd1.myworkdayjobs.com",
+      "key": "workday:barrywehmiller.wd1.myworkdayjobs.com:barrywehmiller:bwconfidential",
+      "site": "BWConfidential",
+      "slug": "barrywehmiller",
       "wd": "wd1"
     },
     {
@@ -10867,6 +10894,15 @@
       "site": "Careers",
       "slug": "motorolasolutions",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Marathon Petroleum",
+      "host": "mpc.wd1.myworkdayjobs.com",
+      "key": "workday:mpc.wd1.myworkdayjobs.com:mpc:mpccareers",
+      "site": "MPCCareers",
+      "slug": "mpc",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
