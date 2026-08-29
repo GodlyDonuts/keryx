@@ -137,6 +137,14 @@
     },
     {
       "boards": [],
+      "company": "Encore",
+      "key": "02825973dcd54c8b0856ba39",
+      "last_scanned": "2026-08-29",
+      "resolved_roles": 0,
+      "url": "https://www.encoreglobal.com/"
+    },
+    {
+      "boards": [],
       "company": "NYU Langone Health",
       "key": "028599e0a1f34f432a63f74a",
       "last_scanned": "2026-08-22",
@@ -3126,6 +3134,13 @@
       "url": "https://www.grayhill.com/"
     },
     {
+      "company": "Alliance Technical Group",
+      "error": "Invalid IPv6 URL",
+      "key": "2d5861f925343ee16fabfc1c",
+      "last_scanned": "2026-08-29",
+      "url": "https://alliancetg.com/"
+    },
+    {
       "boards": [],
       "company": "SanMar",
       "key": "2d66292c18df897353ec02d6",
@@ -3140,6 +3155,14 @@
       "last_scanned": "2026-08-21",
       "resolved_roles": 0,
       "url": "https://www.forvismazars.us/"
+    },
+    {
+      "boards": [],
+      "company": "Sears Home Services",
+      "key": "2dd2a1dccb86a348b56eab30",
+      "last_scanned": "2026-08-29",
+      "resolved_roles": 0,
+      "url": "https://searshomeservices.com/"
     },
     {
       "boards": [],
@@ -5781,6 +5804,13 @@
       "url": "https://azprioritycare.com/"
     },
     {
+      "company": "The University of Kansas School of Business",
+      "error": "public request failed for https://www.business.ku.edu/: <urlopen error timed out>",
+      "key": "50be468c50aba515b953e93b",
+      "last_scanned": "2026-08-29",
+      "url": "https://www.business.ku.edu/"
+    },
+    {
       "boards": [
         "workday:ag.wd3.myworkdayjobs.com:ag:airbus"
       ],
@@ -6933,7 +6963,7 @@
       "company": "AE2S (Advanced Engineering and Environmental Services, LLC)",
       "error": "public request failed for https://www.ae2s.com/: HTTP Error 403: Forbidden",
       "key": "5e309f5a9106891cfcc8d051",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-08-29",
       "resolved_roles": 1,
       "url": "https://ae2s.com/"
     },
@@ -12520,6 +12550,13 @@
       "url": "https://www.datalabusa.com/"
     },
     {
+      "company": "Graco",
+      "error": "public hostname did not resolve: www.graco.comhttps",
+      "key": "a92881062fc44e6185eb99cb",
+      "last_scanned": "2026-08-29",
+      "url": "https://graco.com/in/en/"
+    },
+    {
       "boards": [],
       "company": "Marmon Foodservice Technologies",
       "key": "a98b5d2710845245c6250ade",
@@ -12539,7 +12576,7 @@
       "boards": [],
       "company": "FanDuel",
       "key": "a9ab9401b7de39bd3fa639ca",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-08-29",
       "resolved_roles": 0,
       "url": "https://www.fanduel.com/"
     },
@@ -13013,6 +13050,13 @@
       "last_scanned": "2026-08-27",
       "resolved_roles": 0,
       "url": "https://neuroskills.com/"
+    },
+    {
+      "company": "Schaeffler",
+      "error": "public request failed for https://www.schaeffler.us/: HTTP Error 403: Forbidden",
+      "key": "afdd13d82e7381b4164fc147",
+      "last_scanned": "2026-08-29",
+      "url": "https://www.schaeffler.us/"
     },
     {
       "boards": [],
@@ -15268,6 +15312,14 @@
       "url": "https://www.point72.com/"
     },
     {
+      "boards": [],
+      "company": "Ronco",
+      "key": "ccaa6530cf616fdc41a3c2aa",
+      "last_scanned": "2026-08-29",
+      "resolved_roles": 0,
+      "url": "https://ronco.net/"
+    },
+    {
       "boards": [
         "workday:psu.wd1.myworkdayjobs.com:psu:psu_academic",
         "workday:psu.wd1.myworkdayjobs.com:psu:psu_staff"
@@ -15804,6 +15856,14 @@
     },
     {
       "boards": [],
+      "company": "Pulice",
+      "key": "d3637b7cde12f84dab1ac53d",
+      "last_scanned": "2026-08-29",
+      "resolved_roles": 0,
+      "url": "https://www.pulice.com/"
+    },
+    {
+      "boards": [],
       "company": "Rassey Industries Inc",
       "key": "d36ba67b1b908a362e88d690",
       "last_scanned": "2026-08-19",
@@ -16148,6 +16208,14 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://www.avinc.com/"
+    },
+    {
+      "boards": [],
+      "company": "BorgWarner",
+      "key": "d7ce76f7c8aea1d0fcee3bb9",
+      "last_scanned": "2026-08-29",
+      "resolved_roles": 0,
+      "url": "https://www.borgwarner.com/"
     },
     {
       "boards": [],
@@ -18094,6 +18162,16 @@
     },
     {
       "boards": [
+        "workday:fortune.wd108.myworkdayjobs.com:fortune:fortune"
+      ],
+      "company": "Fortune",
+      "key": "f03cd15d6cad37280fe51d3e",
+      "last_scanned": "2026-08-29",
+      "resolved_roles": 0,
+      "url": "https://www.fortune.com/"
+    },
+    {
+      "boards": [
         "workday:stvinc.wd5.myworkdayjobs.com:stvinc:stv"
       ],
       "company": "STV",
@@ -18527,6 +18605,14 @@
     },
     {
       "boards": [],
+      "company": "Deltek",
+      "key": "f64a1e6b55b8ef97c3ccbbb8",
+      "last_scanned": "2026-08-29",
+      "resolved_roles": 0,
+      "url": "https://www.deltek.com/"
+    },
+    {
+      "boards": [],
       "company": "Old Mission",
       "key": "f65efce8caaa11a3ca629516",
       "last_scanned": "2026-08-23",
@@ -18566,6 +18652,14 @@
       "last_scanned": "2026-08-28",
       "resolved_roles": 0,
       "url": "https://www.hamilton1939.com/"
+    },
+    {
+      "boards": [],
+      "company": "Skechers",
+      "key": "f6c6960916caad36808f1e0d",
+      "last_scanned": "2026-08-29",
+      "resolved_roles": 0,
+      "url": "https://www.skechers.com/"
     },
     {
       "company": "World HR Services",
@@ -18814,6 +18908,13 @@
       "key": "fb9d829f215a3234760b16c3",
       "last_scanned": "2026-08-29",
       "url": "https://www.hpe.com/"
+    },
+    {
+      "company": "Medline",
+      "error": "public request failed for https://www.medline.com/home.jsp: HTTP Error 403: Forbidden",
+      "key": "fba9f138ac3501568473f595",
+      "last_scanned": "2026-08-29",
+      "url": "https://www.medline.com/home.jsp"
     },
     {
       "company": "AbbVie",
