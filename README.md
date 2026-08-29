@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**3,260 internships · 4,543 new-grad roles · 7,803 total openings**
+**3,239 internships · 4,537 new-grad roles · 7,776 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
 | ☀️ Summer 2027 | 1,334 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 571 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 203 | **[View openings →](internships/spring-2027.md)** |
+| 🍂 Fall 2026 | 565 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 202 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 73 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,079 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 1,065 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 843 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,475 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,225 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 1,470 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,224 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -59,6 +59,8 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Acrisure | Software Engineer I | Uniondale, NY +3 | 2027 | not available | 2026-08-29 | **[Apply →](https://acrisure.wd1.myworkdayjobs.com/en-US/acrisure/job/333-Earle-Ovington-Blvd---Uniondale-NY/Software-Engineer-I_JR113871)**<br><sub>acrisure.wd1.myworkdayjobs.com</sub> |
+| Koch Industries | Business Data Analyst | Wichita, KS, Tulsa, OK | Not listed | not available | 2026-08-29 | **[Apply →](https://koch.avature.net/en_US/careers/JobDetail/193502)**<br><sub>koch.avature.net</sub> |
+| Koch Industries | Data Product Analyst - ET&S data delivery | Wichita, KS, Tulsa, OK | Not listed | not available | 2026-08-29 | **[Apply →](https://koch.avature.net/en_US/careers/JobDetail/193284)**<br><sub>koch.avature.net</sub> |
 | Leidos | Software Engineer | Reston, VA | 2027 | not available | 2026-08-29 | **[Apply →](https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Reston-VA/Software-Engineer_R-00186022)**<br><sub>leidos.wd5.myworkdayjobs.com</sub> |
 | Marathon Petroleum | Operations Research Engineer 1 | Findlay, OH | Not listed | not available | 2026-08-29 | **[Apply →](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Operations-Research-Engineer-1_00022581)**<br><sub>mpc.wd1.myworkdayjobs.com</sub> |
 | Nuro | Software Operations Specialist - 12 month duration | Mountain View, CA | 2027 | not available | 2026-08-29 | **[Apply →](https://nuro.ai/careersitem?gh_jid=7888575)**<br><sub>nuro.ai</sub> |
@@ -68,8 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | TikTok | AI Product Manager Graduate - Product Social | San Jose, CA | Not listed | not available | 2026-08-29 | **[Apply →](https://lifeattiktok.com/search/7675616322118584629)**<br><sub>lifeattiktok.com</sub> |
 | TikTok | Machine Learning Engineer Graduate - E-Commerce Knowledge Graph | San Jose, CA | Not listed | not available | 2026-08-29 | **[Apply →](https://lifeattiktok.com/search/7679156878833682693)**<br><sub>lifeattiktok.com</sub> |
 | TikTok | Research Scientist Graduate - Conversational AI | Seattle, WA | Not listed | not available | 2026-08-29 | **[Apply →](https://lifeattiktok.com/search/7670681152383813893)**<br><sub>lifeattiktok.com</sub> |
-| Always Compassionate Home Care | Business Intelligence Analyst - Data & Analytics | Melville, NY | Not listed | not available | 2026-08-28 | **[Apply →](https://alwayscompassionate.wd1.myworkdayjobs.com/achomecare/job/Melville-NY/BI-Analyst--Data---Analytics_JR102976-1)**<br><sub>alwayscompassionate.wd1.myworkdayjobs.com</sub> |
-| Apple | Software Engineer - Front-end | Austin, TX, Cupertino, CA | Not listed | not available | 2026-08-28 | **[Apply →](https://jobs.apple.com/en-us/details/200680752)**<br><sub>jobs.apple.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
