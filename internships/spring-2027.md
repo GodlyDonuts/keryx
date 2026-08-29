@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**211 open roles**
+**210 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -12,7 +12,6 @@
 | Astranis Space Technologies | Mechanical Engineer Intern (Spring 2027) | San Francisco, CA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-28 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a7fb1f8ad9ff00c26bafd7e?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
 | Delta Air Lines | Graduate Intern, Data Scientist (Spring 2027) | Atlanta, GA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-28 | [Jobright · Data Analysis](https://github.com/jobright-ai/2026-Data-Analysis-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a90e6467c32860d14cfbc31?utm_campaign=1066&utm_source=git)<br><sub>discovery listing</sub> |
 | Formlabs | Mechanical Engineering Intern (Winter/Spring 2027) | Somerville, MA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-28 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a7f6ab8b56bea5779c0b11c?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
-| Greif | 2027 Spring Chemical Engineering Co-Op | Cincinnati, OH, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-28 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a91a783360363009919392f?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
 | North Carolina Department of Agriculture and Consumer Services | INTERN - SPRING 2027 - IT Application Development | Pinellas County, Florida, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-28 | [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a91f1e29864261ccd29faee?utm_campaign=1079&utm_source=git)<br><sub>discovery listing</sub> |
 | Tesla | Backend Engineer Intern - Infrastructure Engineering | Fremont, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-28 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · www.tesla.com](https://www.tesla.com/careers/search/job/281467)<br><sub>source reported</sub> |
 | Tesla | Internship, Product Support Engineer, Service Engineering (Spring 2027) | Palo Alto, CA, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-28 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a90b0d8a198864866762ae8?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
