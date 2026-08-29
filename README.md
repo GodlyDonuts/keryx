@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**3,262 internships · 4,525 new-grad roles · 7,787 total openings**
+**3,260 internships · 4,543 new-grad roles · 7,803 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 1,333 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 1,334 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 571 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 204 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 75 | **[View openings →](internships/winter-2027.md)** |
+| 🌱 Spring 2027 | 203 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 73 | **[View openings →](internships/winter-2027.md)** |
 | 📅 Season not listed | 1,079 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 850 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,451 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,224 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 843 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,475 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,225 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -42,13 +42,13 @@ Recent internship and co-op listings that open the employer's application page d
 | Clerkie | Software Engineer Intern | Remote in USA | Fall 2026 | not available | 2026-08-29 | **[Apply →](http://getfiber.ai/careers?gh_jid=5225258007)**<br><sub>getfiber.ai</sub> |
 | Graco | Manufacturing Engineering Intern | North Canton, Ohio, USA | Not listed | not available | 2026-08-29 | **[Apply →](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/North-Canton-Ohio-USA/Manufacturing-Engineering-Intern_R0022722-1)**<br><sub>graco.wd501.myworkdayjobs.com</sub> |
 | Intuit | Software Engineer Intern - Full Stack | Charlotte, NC, NYC, Mountain View, CA, Atlanta, GA, San Diego, CA | Summer 2027 | not available | 2026-08-29 | **[Apply →](https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864)**<br><sub>jobs.intuit.com</sub> |
+| Marvell | Applied Machine Learning Scientist Intern - PhD | Santa Clara, CA | Not listed | not available | 2026-08-29 | **[Apply →](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662)**<br><sub>marvell.wd1.myworkdayjobs.com</sub> |
+| Motorola | R&D Intern - Wireless Systems Engineer - 2026 | Los Angeles, CA | Not listed | not available | 2026-08-29 | **[Apply →](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376)**<br><sub>motorolasolutions.wd5.myworkdayjobs.com</sub> |
+| Motorola | Supply Chain Applied AI Engineering Intern | Chicago, IL, More | Not listed | not available | 2026-08-29 | **[Apply →](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Applied-AI-Engineering-Intern_R67461)**<br><sub>motorolasolutions.wd5.myworkdayjobs.com</sub> |
 | Northwood Space | Embedded Software Engineer Intern | LA, Torrance, CA | Summer 2027 | not available | 2026-08-29 | **[Apply →](https://jobs.ashbyhq.com/NorthwoodSpace/d0cca9dd-ea90-4c3b-94b4-17761932d11c/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Northwood Space | RF Engineer Intern - Summer Internship | LA, Torrance, CA | Summer 2027 | not available | 2026-08-29 | **[Apply →](https://jobs.ashbyhq.com/NorthwoodSpace/f086c92a-7e4b-4799-8f2a-2ad8b13111ca/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Northwood Space | Software Engineer Intern - Multiple Teams | LA, Torrance, CA | Summer 2027 | not available | 2026-08-29 | **[Apply →](https://jobs.ashbyhq.com/NorthwoodSpace/ce3d4b73-461e-4128-a6f1-f933897e8119/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Northwood Space | Supply Chain Data & Analytics Intern | LA, Torrance, CA | Summer 2027 | not available | 2026-08-29 | **[Apply →](https://jobs.ashbyhq.com/NorthwoodSpace/69f99cd7-3ce7-413a-8cfe-29b7ccbc1490/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Persona AI | Robotics Software Intern - Manipulation | Houston, TX | Fall 2026 | not available | 2026-08-29 | **[Apply →](https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Schweitzer Engineering Laboratories | Engineering Intern - Protection Systems Forensics | Pullman, WA | Fall 2026 | not available | 2026-08-29 | **[Apply →](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2025-18137)**<br><sub>selinc.wd1.myworkdayjobs.com</sub> |
-| Virginia Department of Transportation | C0813 - Engineering Intern Wage | Fredericksburg, VA, United States | Not listed | Current student status<br><sub>required</sub> | 2026-08-29 | **[Apply →](https://etgi.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4005/job/13143)**<br><sub>etgi.fa.us8.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
