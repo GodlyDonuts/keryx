@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**3,253 internships · 4,541 new-grad roles · 7,794 total openings**
+**3,267 internships · 4,541 new-grad roles · 7,808 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 1,345 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 557 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 205 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 75 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,071 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 1,355 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 558 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 207 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 74 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 1,073 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 851 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,481 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,209 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 840 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,471 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,230 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,6 +38,8 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Airbus | Long-term Internship - Cabin Engineering | Mobile Area, AL | Not listed | not available | 2026-08-30 | **[Apply →](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Long-term-Internship---Cabin-Engineering_JR10430637)**<br><sub>ag.wd3.myworkdayjobs.com</sub> |
+| GE Vernova | Product Management Intern - Controls Lifecare Services | Longmont, CO, Greenville, SC | Summer 2027 | not available | 2026-08-30 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
+| GE Vernova | Product Management Intern - Controls Lifecare Services | Longmont, CO, Greenville, SC | Summer 2027 | not available | 2026-08-30 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-1)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
 | Hewlett Packard Enterprise | Cloud Engineer Intern | Spring, TX +9 | Not listed | not available | 2026-08-30 | **[Apply →](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Intern_1213629)**<br><sub>hpe.wd5.myworkdayjobs.com</sub> |
 | ARCO a Family of Construction Companies | Concrete Superintendent Intern | Richmond Heights, MO, US | Not listed | Current student status<br><sub>stated</sub> | 2026-08-29 | **[Apply →](https://job-boards.greenhouse.io/arco/jobs/4387800009)**<br><sub>job-boards.greenhouse.io</sub> |
 | Charles Schwab | Data Engineering Intern - Data Engineering | Austin, TX, Westlake, TX, Southlake, TX | Summer 2027 | not available | 2026-08-29 | **[Apply →](https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false)**<br><sub>career-schwab.icims.com</sub> |
@@ -45,10 +47,8 @@ Recent internship and co-op listings that open the employer's application page d
 | Charles Schwab | Technology 2027 Intern - Software Engineering | Austin, TX +5 | Not listed | not available | 2026-08-29 | **[Apply →](https://career-schwab.icims.com/jobs/126228/technology-2027-intern---software-engineering/job)**<br><sub>career-schwab.icims.com</sub> |
 | Clerkie | Software Engineer Intern | Remote in USA | Fall 2026 | not available | 2026-08-29 | **[Apply →](http://getfiber.ai/careers?gh_jid=5225258007)**<br><sub>getfiber.ai</sub> |
 | Intuit | Software Engineer Intern - Full Stack | Charlotte, NC, NYC, Mountain View, CA, Atlanta, GA, San Diego, CA | Summer 2027 | not available | 2026-08-29 | **[Apply →](https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864)**<br><sub>jobs.intuit.com</sub> |
-| Marvell | Applied Machine Learning Scientist Intern - PhD | Santa Clara, CA | Not listed | not available | 2026-08-29 | **[Apply →](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662)**<br><sub>marvell.wd1.myworkdayjobs.com</sub> |
-| Northwood Space | Embedded Software Engineer Intern | LA, Torrance, CA | Summer 2027 | not available | 2026-08-29 | **[Apply →](https://jobs.ashbyhq.com/NorthwoodSpace/d0cca9dd-ea90-4c3b-94b4-17761932d11c/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Northwood Space | RF Engineer Intern - Summer Internship | LA, Torrance, CA | Summer 2027 | not available | 2026-08-29 | **[Apply →](https://jobs.ashbyhq.com/NorthwoodSpace/f086c92a-7e4b-4799-8f2a-2ad8b13111ca/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Northwood Space | Software Engineer Intern - Multiple Teams | LA, Torrance, CA | Summer 2027 | not available | 2026-08-29 | **[Apply →](https://jobs.ashbyhq.com/NorthwoodSpace/ce3d4b73-461e-4128-a6f1-f933897e8119/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Northwood Space | Electrical Engineering Intern (2027 Summer Internship) | Torrance, CA | Summer 2027 | not stated | 2026-08-29 | **[Apply →](https://jobs.ashbyhq.com/northwoodspace/1bc230b1-5ad2-44b8-ad61-e80a730e5026)**<br><sub>jobs.ashbyhq.com</sub> |
+| Northwood Space | Embedded Software Engineering Intern (2027 Summer Internship) | Torrance, CA | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-08-29 | **[Apply →](https://jobs.ashbyhq.com/northwoodspace/d0cca9dd-ea90-4c3b-94b4-17761932d11c)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,6 +58,7 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Applied Materials | Support Engineer 1 - Global Support | Boise, ID | Not listed | not available | 2026-08-30 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/Global-Support-Support-Engineer-I_R2626705)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
 | Acrisure | Software Engineer I | Uniondale, NY +3 | 2027 | not available | 2026-08-29 | **[Apply →](https://acrisure.wd1.myworkdayjobs.com/en-US/acrisure/job/333-Earle-Ovington-Blvd---Uniondale-NY/Software-Engineer-I_JR113871)**<br><sub>acrisure.wd1.myworkdayjobs.com</sub> |
 | Koch Industries | Business Data Analyst | Wichita, KS, Tulsa, OK | Not listed | not available | 2026-08-29 | **[Apply →](https://koch.avature.net/en_US/careers/JobDetail/193502)**<br><sub>koch.avature.net</sub> |
 | Koch Industries | Data Product Analyst - ET&S data delivery | Wichita, KS, Tulsa, OK | Not listed | not available | 2026-08-29 | **[Apply →](https://koch.avature.net/en_US/careers/JobDetail/193284)**<br><sub>koch.avature.net</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | SharkNinja | Associate Product Developer - Corded/Cordless | Needham, MA | 2027 | not available | 2026-08-29 | **[Apply →](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4707165006)**<br><sub>job-boards.greenhouse.io</sub> |
 | Swift | Jr. Software Development Engineer in Test - SDET | Manassas, VA | 2027 | not available | 2026-08-29 | **[Apply →](https://swift.wd3.myworkdayjobs.com/en-US/join-swift/job/Manassas-United-States/Jr-Software-Development-Engineer-in-Test--SDET-_2026-16183-1)**<br><sub>swift.wd3.myworkdayjobs.com</sub> |
 | TikTok | AI Product Manager Graduate - Product Social | San Jose, CA | Not listed | not available | 2026-08-29 | **[Apply →](https://lifeattiktok.com/search/7675616322118584629)**<br><sub>lifeattiktok.com</sub> |
-| TikTok | Machine Learning Engineer Graduate - E-Commerce Knowledge Graph | San Jose, CA | Not listed | not available | 2026-08-29 | **[Apply →](https://lifeattiktok.com/search/7679156878833682693)**<br><sub>lifeattiktok.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
