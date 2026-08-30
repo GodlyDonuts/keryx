@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**3,281 internships · 4,563 new-grad roles · 7,844 total openings**
+**3,253 internships · 4,541 new-grad roles · 7,794 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 1,347 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 559 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 209 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 73 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,093 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 1,345 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 557 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 205 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 75 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 1,071 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 875 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,473 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,215 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 851 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,481 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,209 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -44,11 +44,11 @@ Recent internship and co-op listings that open the employer's application page d
 | Charles Schwab | Software Engineering Intern - Technology | Austin, TX, Westlake, TX, Ann Arbor, MI, Southlake, TX, Omaha, NE, Phoenix, AZ | Summer 2027 | not available | 2026-08-29 | **[Apply →](https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false)**<br><sub>career-schwab.icims.com</sub> |
 | Charles Schwab | Technology 2027 Intern - Software Engineering | Austin, TX +5 | Not listed | not available | 2026-08-29 | **[Apply →](https://career-schwab.icims.com/jobs/126228/technology-2027-intern---software-engineering/job)**<br><sub>career-schwab.icims.com</sub> |
 | Clerkie | Software Engineer Intern | Remote in USA | Fall 2026 | not available | 2026-08-29 | **[Apply →](http://getfiber.ai/careers?gh_jid=5225258007)**<br><sub>getfiber.ai</sub> |
-| General Mills | Internship - Digital & Technology Associate | Minneapolis, MN | Not listed | not available | 2026-08-29 | **[Apply →](https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Internship---Digital---Technology-Associate_10128716)**<br><sub>genmills.wd1.myworkdayjobs.com</sub> |
 | Intuit | Software Engineer Intern - Full Stack | Charlotte, NC, NYC, Mountain View, CA, Atlanta, GA, San Diego, CA | Summer 2027 | not available | 2026-08-29 | **[Apply →](https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864)**<br><sub>jobs.intuit.com</sub> |
 | Marvell | Applied Machine Learning Scientist Intern - PhD | Santa Clara, CA | Not listed | not available | 2026-08-29 | **[Apply →](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662)**<br><sub>marvell.wd1.myworkdayjobs.com</sub> |
 | Northwood Space | Embedded Software Engineer Intern | LA, Torrance, CA | Summer 2027 | not available | 2026-08-29 | **[Apply →](https://jobs.ashbyhq.com/NorthwoodSpace/d0cca9dd-ea90-4c3b-94b4-17761932d11c/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Northwood Space | RF Engineer Intern - Summer Internship | LA, Torrance, CA | Summer 2027 | not available | 2026-08-29 | **[Apply →](https://jobs.ashbyhq.com/NorthwoodSpace/f086c92a-7e4b-4799-8f2a-2ad8b13111ca/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Northwood Space | Software Engineer Intern - Multiple Teams | LA, Torrance, CA | Summer 2027 | not available | 2026-08-29 | **[Apply →](https://jobs.ashbyhq.com/NorthwoodSpace/ce3d4b73-461e-4128-a6f1-f933897e8119/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
