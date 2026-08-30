@@ -1030,6 +1030,16 @@
     },
     {
       "boards": [
+        "workday:asmglobal.wd1.myworkdayjobs.com:asmglobal:careers"
+      ],
+      "company": "ASM Global",
+      "key": "0dcd1a7a11fc0e4202d8af38",
+      "last_scanned": "2026-08-30",
+      "resolved_roles": 0,
+      "url": "https://asmglobal.com/"
+    },
+    {
+      "boards": [
         "workday:andersen.wd12.myworkdayjobs.com:andersen:andersen_external_career_site"
       ],
       "company": "Andersen Corporation",
@@ -1045,6 +1055,14 @@
       "last_scanned": "2026-08-28",
       "resolved_roles": 0,
       "url": "https://www.zurichna.com/"
+    },
+    {
+      "boards": [],
+      "company": "Element Resources",
+      "key": "0e22bdd9a587fd4538b652a2",
+      "last_scanned": "2026-08-30",
+      "resolved_roles": 0,
+      "url": "https://elementrellc.com/"
     },
     {
       "boards": [],
@@ -1995,6 +2013,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://spotinc.com/"
+    },
+    {
+      "boards": [],
+      "company": "ChapsVision",
+      "key": "1b4e95657bbd44a4cb55cb5c",
+      "last_scanned": "2026-08-30",
+      "resolved_roles": 0,
+      "url": "https://www.chapsvision.com/"
     },
     {
       "boards": [],
@@ -3918,6 +3944,14 @@
       "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://www.dekaresearch.com/"
+    },
+    {
+      "boards": [],
+      "company": "PUMA Group",
+      "key": "375cb130015f1befd3a7f442",
+      "last_scanned": "2026-08-30",
+      "resolved_roles": 0,
+      "url": "https://us.puma.com/"
     },
     {
       "boards": [],
@@ -5902,7 +5936,7 @@
       ],
       "company": "Airbus",
       "key": "50d60f3d36df11c62ec10869",
-      "last_scanned": "2026-08-20",
+      "last_scanned": "2026-08-30",
       "resolved_roles": 0,
       "url": "https://us.airbus.com/"
     },
@@ -7905,7 +7939,7 @@
       ],
       "company": "Magna International",
       "key": "68fac9ab696490d168347de6",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-08-30",
       "resolved_roles": 0,
       "url": "https://www.magna.com/"
     },
@@ -10750,6 +10784,14 @@
     },
     {
       "boards": [],
+      "company": "Grocery Outlet",
+      "key": "8e64b27cb3ffb06edce00866",
+      "last_scanned": "2026-08-30",
+      "resolved_roles": 0,
+      "url": "https://groceryoutlet.com/"
+    },
+    {
+      "boards": [],
       "company": "HAVI",
       "key": "8e70cd9d21b5edb5e2ec1466",
       "last_scanned": "2026-08-24",
@@ -13243,6 +13285,14 @@
       "last_scanned": "2026-08-26",
       "resolved_roles": 0,
       "url": "https://www.kcsitglobal.com/"
+    },
+    {
+      "boards": [],
+      "company": "Aviator",
+      "key": "b084649bfe0d7e9727498db8",
+      "last_scanned": "2026-08-30",
+      "resolved_roles": 0,
+      "url": "https://www.aviator.co/"
     },
     {
       "boards": [
@@ -16536,6 +16586,16 @@
       "url": "https://www.hudsonhospital.org/"
     },
     {
+      "boards": [
+        "workday:ensemblehp.wd5.myworkdayjobs.com:ensemblehp:ensemblehealthpartnerscareers"
+      ],
+      "company": "Ensemble Health Partners",
+      "key": "dab5fc85fb54fd65b95c3b29",
+      "last_scanned": "2026-08-30",
+      "resolved_roles": 0,
+      "url": "https://ensemblehp.com/"
+    },
+    {
       "boards": [],
       "company": "Summit Agricultural Group",
       "key": "dabbdf73ca40fb127e1fd2fb",
@@ -16920,6 +16980,13 @@
       "key": "df3479380d101edafa33ea06",
       "last_scanned": "2026-08-26",
       "url": "https://www.nooks.ai/"
+    },
+    {
+      "company": "Zachry Group",
+      "error": "public requests require HTTPS and a hostname",
+      "key": "df3cbc328b6cec7c32528f66",
+      "last_scanned": "2026-08-30",
+      "url": "https://www.zachrygroup.com/"
     },
     {
       "boards": [],
@@ -17462,7 +17529,7 @@
       "company": "KeyBank",
       "error": "public request failed for https://www.key.com/businesses-institutions/solutions/institutional-advisors.html: The read operation timed out",
       "key": "e6fa7658b62e609508549dd9",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-08-30",
       "url": "https://www.key.com/businesses-institutions/solutions/institutional-advisors.html"
     },
     {
@@ -17752,7 +17819,7 @@
       "company": "NetApp",
       "error": "public request failed for https://www.netapp.com/: HTTP Error 403: Forbidden",
       "key": "ea93c2dda51f4733bfae8226",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-08-30",
       "url": "https://netapp.com/"
     },
     {
@@ -19337,6 +19404,17 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://www.hammerton.com/"
+    },
+    {
+      "boards": [
+        "greenhouse:aechelontechnology",
+        "lever:shieldai"
+      ],
+      "company": "Shield AI",
+      "key": "fe672ddb8aa53c4159df7983",
+      "last_scanned": "2026-08-30",
+      "resolved_roles": 0,
+      "url": "https://www.shield.ai/"
     },
     {
       "boards": [],

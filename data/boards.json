@@ -3567,6 +3567,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Trace3",
+      "key": "greenhouse:trace3",
+      "slug": "trace3"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Traeger Grills",
       "key": "greenhouse:traegergrills",
       "slug": "traegergrills"
@@ -7108,6 +7114,15 @@
     },
     {
       "ats": "workday",
+      "company": "ASM Global",
+      "host": "asmglobal.wd1.myworkdayjobs.com",
+      "key": "workday:asmglobal.wd1.myworkdayjobs.com:asmglobal:careers",
+      "site": "careers",
+      "slug": "asmglobal",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "ASML",
       "host": "asml.wd3.myworkdayjobs.com",
       "key": "workday:asml.wd3.myworkdayjobs.com:asml:asmlext1",
@@ -8155,7 +8170,7 @@
       "company": "Carnegie Mellon University",
       "host": "cmu.wd115.myworkdayjobs.com",
       "key": "workday:cmu.wd115.myworkdayjobs.com:cmu:cmu",
-      "site": "CMU",
+      "site": "cmu",
       "slug": "cmu",
       "wd": "wd115"
     },
