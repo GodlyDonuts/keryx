@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**3,266 internships · 4,534 new-grad roles · 7,800 total openings**
+**3,337 internships · 4,519 new-grad roles · 7,856 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 1,349 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 558 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 209 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 70 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,080 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 1,364 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 588 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 211 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 68 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 1,106 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 843 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,459 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,232 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 846 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,439 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,234 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Airbus | Long-term Internship - Cabin Engineering | Mobile Area, AL | Not listed | not available | 2026-08-30 | **[Apply →](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Long-term-Internship---Cabin-Engineering_JR10430637)**<br><sub>ag.wd3.myworkdayjobs.com</sub> |
-| Equifax | Site Reliability Engineer Intern | USA - Missouri - St. Louis - Lackland | Summer 2027 | not available | 2026-08-30 | **[Apply →](https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer-Intern_J00178674)**<br><sub>equifax.wd5.myworkdayjobs.com</sub> |
-| Eulerity | Internship, Finance | New York, NY | Not listed | not stated | 2026-08-30 | **[Apply →](https://job-boards.greenhouse.io/eulerity/jobs/4709471006)**<br><sub>job-boards.greenhouse.io</sub> |
-| GE Vernova | GE Vernova GridOS Software Test Engineer - Intern - Summer 2027 | Atlanta, GA +1 | Summer 2027 | not available | 2026-08-30 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Atlanta/GE-Vernova-GridOS--Software-Test-Engineer---Intern---Summer-2027_R5049907-1)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
-| GE Vernova | Product Management Intern - Controls Lifecare Services | Longmont, CO, Greenville, SC | Summer 2027 | not available | 2026-08-30 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
-| GE Vernova | Product Management Intern - Controls Lifecare Services | Longmont, CO, Greenville, SC | Summer 2027 | not available | 2026-08-30 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-1)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
-| Hewlett Packard Enterprise | Cloud Engineer Intern | Spring, TX +9 | Not listed | not available | 2026-08-30 | **[Apply →](https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Intern_1213629)**<br><sub>hpe.wd5.myworkdayjobs.com</sub> |
-| ARCO a Family of Construction Companies | Concrete Superintendent Intern | Richmond Heights, MO, US | Not listed | Current student status<br><sub>stated</sub> | 2026-08-29 | **[Apply →](https://job-boards.greenhouse.io/arco/jobs/4387800009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Charles Schwab | Data Engineering Intern - Data Engineering | Austin, TX, Westlake, TX, Southlake, TX | Summer 2027 | not available | 2026-08-29 | **[Apply →](https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false)**<br><sub>career-schwab.icims.com</sub> |
-| Charles Schwab | Software Engineering Intern - Technology | Austin, TX, Westlake, TX, Ann Arbor, MI, Southlake, TX, Omaha, NE, Phoenix, AZ | Summer 2027 | not available | 2026-08-29 | **[Apply →](https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false)**<br><sub>career-schwab.icims.com</sub> |
-| Charles Schwab | Technology 2027 Intern - Software Engineering | Austin, TX +5 | Not listed | not available | 2026-08-29 | **[Apply →](https://career-schwab.icims.com/jobs/126228/technology-2027-intern---software-engineering/job)**<br><sub>career-schwab.icims.com</sub> |
-| Clerkie | Software Engineer Intern | Remote in USA | Fall 2026 | not available | 2026-08-29 | **[Apply →](http://getfiber.ai/careers?gh_jid=5225258007)**<br><sub>getfiber.ai</sub> |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 Product Development, Global Commercial Services - Atlanta, GA | Atlanta, GA, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-31 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012890)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 Product Development, Global Commercial Services - New York, NY | New York, NY, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-31 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013091)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 Product Management, Global Commercial Services - New York, NY | New York, NY, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-08-31 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012558)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| BP | Commercial Intern - Supply, Trading, & Shipping | Chicago, IL | Summer 2027 | not available | 2026-08-31 | **[Apply →](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Summer-Internship---Supply--Trading----Shipping---Commercial---Chicago--IL_RQ115344)**<br><sub>bpinternational.wd3.myworkdayjobs.com</sub> |
+| BP | Finance & Risk Intern - Supply, Trading, & Shipping - Finance & Risk | Chicago, IL | Summer 2027 | not available | 2026-08-31 | **[Apply →](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ114738)**<br><sub>bpinternational.wd3.myworkdayjobs.com</sub> |
+| BP | Trading, Origination, Analytics, and Operations Intern - Supply, Trading, & Shipping - Trading, Origination, Analytics, & Operations | Houston, TX | Summer 2027 | not available | 2026-08-31 | **[Apply →](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Internship---Supply--Trading----Shipping---Trading--Origination----Analytics--Houston--TX_RQ115366)**<br><sub>bpinternational.wd3.myworkdayjobs.com</sub> |
+| Framatome | Computer Science Engineer Intern Co-op - University Co-op Technical | Lynchburg, VA | Fall 2026 | not available | 2026-08-31 | **[Apply →](https://careers-framatome.icims.com/jobs/3294/job?mobile=true&needsRedirect=false)**<br><sub>careers-framatome.icims.com</sub> |
+| GE Aerospace | Applied AI Engineer Co-op | Evendale, OH, Atlanta, GA | Spring 2027 | not available | 2026-08-31 | **[Apply →](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Applied-AI-Engineer-Co-op---Spring-2027--January-Start-_R5039041-1)**<br><sub>geaerospace.wd5.myworkdayjobs.com</sub> |
+| GE Aerospace | Applied AI Intern | Evendale, OH, Atlanta, GA | Summer 2027 | not available | 2026-08-31 | **[Apply →](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1)**<br><sub>geaerospace.wd5.myworkdayjobs.com</sub> |
+| PGIM | Product and Institutional Client Intern - Multiple Teams | Newark, NJ | Summer 2027 | not available | 2026-08-31 | **[Apply →](https://pru.wd5.myworkdayjobs.com/pgim_careers/job/Newark-NJ-USA/PGIM--2027-Product-and-Institutional-Client--Internship-Program_R-124910-2)**<br><sub>pru.wd5.myworkdayjobs.com</sub> |
+| Prudential Financial | PGIM: 2027 Product and Institutional Client, Internship Program | Newark, NJ, USA | Summer 2027 | not available | 2026-08-31 | **[Apply →](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Product-and-Institutional-Client--Internship-Program_R-124910-1)**<br><sub>pru.wd5.myworkdayjobs.com</sub> |
+| Qorvo | Analog Design Engineer Intern | San Jose, CA | Fall 2026 | not available | 2026-08-31 | **[Apply →](https://careers.qorvo.com/job/San-Jose-Analog-Design-Engineering-Intern-CA-95134/1424725600/?ats=successfactors)**<br><sub>careers.qorvo.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| BP | Analytics Graduate Program - Trading | Houston, TX | Not listed | not available | 2026-08-31 | **[Apply →](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Supply--Trading--and-Shipping-Graduate-Program--Analytics--Houston--TX_RQ115335)**<br><sub>bpinternational.wd3.myworkdayjobs.com</sub> |
+| BP | Operations Graduate Program - Trading | Houston, TX | Not listed | not available | 2026-08-31 | **[Apply →](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Supply--Trading--and-Shipping-Graduate-Program--Operations--Houston--TX_RQ115336)**<br><sub>bpinternational.wd3.myworkdayjobs.com</sub> |
+| BP | Supply and Shipping Graduate Program - Origination - Trading | Houston, TX | Not listed | not available | 2026-08-31 | **[Apply →](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Supply--Trading--and-Shipping-Graduate-Program--Origination--Houston--TX_RQ115337)**<br><sub>bpinternational.wd3.myworkdayjobs.com</sub> |
+| BP | Supply and Shipping Graduate Program - Trading | Houston, TX | Not listed | not available | 2026-08-31 | **[Apply →](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Supply--Trading--and-Shipping-Graduate-Program--Trading--Houston--TX_RQ115338)**<br><sub>bpinternational.wd3.myworkdayjobs.com</sub> |
+| BP | Supply, Trading & Shipping Graduate - Analytics - Trading | Chicago, IL | Not listed | not available | 2026-08-31 | **[Apply →](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Supply--Trading--and-Shipping-Graduate-Program--Analytics--Chicago--IL_RQ115341)**<br><sub>bpinternational.wd3.myworkdayjobs.com</sub> |
+| BP | Trading Graduate Program - Trading | Chicago, IL | Not listed | not available | 2026-08-31 | **[Apply →](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Supply--Trading--and-Shipping-Graduate-Program--Trading--Chicago--IL_RQ115342)**<br><sub>bpinternational.wd3.myworkdayjobs.com</sub> |
+| Mass General Brigham | Research Data Analyst | Belmont, MA | Not listed | not available | 2026-08-31 | **[Apply →](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Belmont-MA/Research-Data-Analyst_RQ4077629)**<br><sub>massgeneralbrigham.wd1.myworkdayjobs.com</sub> |
 | Applied Materials | Support Engineer 1 - Global Support | Boise, ID | Not listed | not available | 2026-08-30 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/Global-Support-Support-Engineer-I_R2626705)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
+| Micron Technology | R&D Equipment Engineer New Grad - TSE | Boise, ID | Not listed | not available | 2026-08-30 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/TSE-R-D-Equipment-Engineer_JR110192)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
+| Micron Technology | R&D Equipment Engineer New Grad - TSE | Boise, ID | Not listed | not available | 2026-08-30 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/TSE-R-D-Equipment-Engineer_JR110198)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
 | Acrisure | Software Engineer I | Uniondale, NY +3 | 2027 | not available | 2026-08-29 | **[Apply →](https://acrisure.wd1.myworkdayjobs.com/en-US/acrisure/job/333-Earle-Ovington-Blvd---Uniondale-NY/Software-Engineer-I_JR113871)**<br><sub>acrisure.wd1.myworkdayjobs.com</sub> |
 | Koch Industries | Business Data Analyst | Wichita, KS, Tulsa, OK | Not listed | not available | 2026-08-29 | **[Apply →](https://koch.avature.net/en_US/careers/JobDetail/193502)**<br><sub>koch.avature.net</sub> |
-| Koch Industries | Data Product Analyst - ET&S data delivery | Wichita, KS, Tulsa, OK | Not listed | not available | 2026-08-29 | **[Apply →](https://koch.avature.net/en_US/careers/JobDetail/193284)**<br><sub>koch.avature.net</sub> |
-| Leidos | Software Engineer | Reston, VA | 2027 | not available | 2026-08-29 | **[Apply →](https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Reston-VA/Software-Engineer_R-00186022)**<br><sub>leidos.wd5.myworkdayjobs.com</sub> |
-| Marathon Petroleum | Operations Research Engineer 1 | Findlay, OH | Not listed | not available | 2026-08-29 | **[Apply →](https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/Findlay-Ohio/Operations-Research-Engineer-1_00022581)**<br><sub>mpc.wd1.myworkdayjobs.com</sub> |
-| Nuro | Software Operations Specialist - 12 month duration | Mountain View, CA | 2027 | not available | 2026-08-29 | **[Apply →](https://nuro.ai/careersitem?gh_jid=7888575)**<br><sub>nuro.ai</sub> |
-| Panasonic Holdings | Computer/Laptop Repair Technician | Leawood, KS | Not listed | not available | 2026-08-29 | **[Apply →](https://careers.na.panasonic.com/jobs/50646?icims=1)**<br><sub>careers.na.panasonic.com</sub> |
-| Relativity | Software Engineer | Illinois, USA | 2027 | not available | 2026-08-29 | **[Apply →](https://kcura.wd1.myworkdayjobs.com/en-US/external_career_site/job/Illinois/Software-Engineer_26-0317)**<br><sub>kcura.wd1.myworkdayjobs.com</sub> |
-| SharkNinja | Associate Product Developer - Corded/Cordless | Needham, MA | 2027 | not available | 2026-08-29 | **[Apply →](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4707165006)**<br><sub>job-boards.greenhouse.io</sub> |
-| Swift | Jr. Software Development Engineer in Test - SDET | Manassas, VA | 2027 | not available | 2026-08-29 | **[Apply →](https://swift.wd3.myworkdayjobs.com/en-US/join-swift/job/Manassas-United-States/Jr-Software-Development-Engineer-in-Test--SDET-_2026-16183-1)**<br><sub>swift.wd3.myworkdayjobs.com</sub> |
-| TikTok | AI Product Manager Graduate - Product Social | San Jose, CA | Not listed | not available | 2026-08-29 | **[Apply →](https://lifeattiktok.com/search/7675616322118584629)**<br><sub>lifeattiktok.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

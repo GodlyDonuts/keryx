@@ -1721,6 +1721,13 @@
     },
     {
       "ats": "bamboohr",
+      "company": "Marias Technology",
+      "host": "mariastechnology.bamboohr.com",
+      "key": "bamboohr:mariastechnology",
+      "slug": "mariastechnology"
+    },
+    {
+      "ats": "bamboohr",
       "company": "Mujin",
       "host": "mujin.bamboohr.com",
       "key": "bamboohr:mujin",
@@ -7672,6 +7679,15 @@
     },
     {
       "ats": "workday",
+      "company": "Brookfield Properties",
+      "host": "brookfield.wd5.myworkdayjobs.com",
+      "key": "workday:brookfield.wd5.myworkdayjobs.com:brookfield:bgre",
+      "site": "bgre",
+      "slug": "brookfield",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Brookfield",
       "host": "brookfield.wd5.myworkdayjobs.com",
       "key": "workday:brookfield.wd5.myworkdayjobs.com:brookfield:brookfield",
@@ -11416,6 +11432,15 @@
     },
     {
       "ats": "workday",
+      "company": "Pierce Manufacturing",
+      "host": "oshkoshcorporation.wd5.myworkdayjobs.com",
+      "key": "workday:oshkoshcorporation.wd5.myworkdayjobs.com:oshkoshcorporation:oshkosh",
+      "site": "Oshkosh",
+      "slug": "oshkoshcorporation",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Ohio State University",
       "host": "osu.wd1.myworkdayjobs.com",
       "key": "workday:osu.wd1.myworkdayjobs.com:osu:osucareers",
@@ -12798,6 +12823,15 @@
       "key": "workday:tcenergy.wd3.myworkdayjobs.com:tcenergy:career_site_tc",
       "site": "CAREER_SITE_TC",
       "slug": "tcenergy",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "TD",
+      "host": "td.wd3.myworkdayjobs.com",
+      "key": "workday:td.wd3.myworkdayjobs.com:td:td_bank_careers",
+      "site": "TD_Bank_Careers",
+      "slug": "td",
       "wd": "wd3"
     },
     {
