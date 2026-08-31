@@ -146,7 +146,7 @@
     },
     {
       "ats": "ashby",
-      "company": "Base Power",
+      "company": "Base Power Company",
       "key": "ashby:base-power",
       "slug": "base-power"
     },
@@ -358,7 +358,7 @@
       "ats": "ashby",
       "company": "Crusoe",
       "key": "ashby:crusoe",
-      "slug": "Crusoe"
+      "slug": "crusoe"
     },
     {
       "ats": "ashby",
@@ -2071,6 +2071,12 @@
       "company": "Audax Private Equity",
       "key": "greenhouse:audaxprivateequity",
       "slug": "audaxprivateequity"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Awetomaton",
+      "key": "greenhouse:awetomaton",
+      "slug": "awetomaton"
     },
     {
       "ats": "greenhouse",
@@ -4842,6 +4848,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Grant Thornton Isle of Man",
+      "host": "ehzq.fa.us2.oraclecloud.com",
+      "key": "oracle:ehzq.fa.us2.oraclecloud.com:grantthorntonisleofman",
+      "site": "GrantThorntonIsleOfMan",
+      "slug": "ehzq"
+    },
+    {
+      "ats": "oracle",
       "company": "Princess Cruises",
       "host": "eicl.fa.em5.oraclecloud.com",
       "key": "oracle:eicl.fa.em5.oraclecloud.com:hagroup",
@@ -6263,6 +6277,12 @@
       "company": "Control Risks",
       "key": "workable:control-risks-6",
       "slug": "control-risks-6"
+    },
+    {
+      "ats": "workable",
+      "company": "Credence",
+      "key": "workable:credence",
+      "slug": "credence"
     },
     {
       "ats": "workable",
@@ -7895,6 +7915,15 @@
     },
     {
       "ats": "workday",
+      "company": "Cardinal Health",
+      "host": "cardinalhealth.wd1.myworkdayjobs.com",
+      "key": "workday:cardinalhealth.wd1.myworkdayjobs.com:cardinalhealth:ext",
+      "site": "EXT",
+      "slug": "cardinalhealth",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Caris Life Sciences",
       "host": "carislifesciences.wd12.myworkdayjobs.com",
       "key": "workday:carislifesciences.wd12.myworkdayjobs.com:carislifesciences:cls",
@@ -7945,6 +7974,15 @@
       "key": "workday:cccis.wd1.myworkdayjobs.com:cccis:broadbean_external",
       "site": "broadbean_external",
       "slug": "cccis",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "CDK Global",
+      "host": "cdk.wd1.myworkdayjobs.com",
+      "key": "workday:cdk.wd1.myworkdayjobs.com:cdk:cdk",
+      "site": "CDK",
+      "slug": "cdk",
       "wd": "wd1"
     },
     {
@@ -8075,6 +8113,15 @@
     },
     {
       "ats": "workday",
+      "company": "CIBC",
+      "host": "cibc.wd3.myworkdayjobs.com",
+      "key": "workday:cibc.wd3.myworkdayjobs.com:cibc:campus",
+      "site": "campus",
+      "slug": "cibc",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
       "company": "Ciena",
       "host": "ciena.wd5.myworkdayjobs.com",
       "key": "workday:ciena.wd5.myworkdayjobs.com:ciena:careers",
@@ -8093,7 +8140,7 @@
     },
     {
       "ats": "workday",
-      "company": "Cincinnati Children\u2019s",
+      "company": "Cincinnati Children\u2019s Hospital and Medical Center",
       "host": "cincinnatichildrens.wd5.myworkdayjobs.com",
       "key": "workday:cincinnatichildrens.wd5.myworkdayjobs.com:cincinnatichildrens:careersatcincinnatichildrens",
       "site": "careersatcincinnatichildrens",
@@ -8701,6 +8748,15 @@
       "key": "workday:dowjones.wd1.myworkdayjobs.com:dowjones:new_york_post_careers",
       "site": "New_York_Post_Careers",
       "slug": "dowjones",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "DraftKings",
+      "host": "draftkings.wd1.myworkdayjobs.com",
+      "key": "workday:draftkings.wd1.myworkdayjobs.com:draftkings:campus_career_portal",
+      "site": "Campus_Career_Portal",
+      "slug": "draftkings",
       "wd": "wd1"
     },
     {
@@ -9875,6 +9931,15 @@
     },
     {
       "ats": "workday",
+      "company": "IGS Energy",
+      "host": "igsenergy.wd1.myworkdayjobs.com",
+      "key": "workday:igsenergy.wd1.myworkdayjobs.com:igsenergy:igs",
+      "site": "IGS",
+      "slug": "igsenergy",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "iHeartMedia",
       "host": "iheartmedia.wd5.myworkdayjobs.com",
       "key": "workday:iheartmedia.wd5.myworkdayjobs.com:iheartmedia:external_ihm",
@@ -11036,6 +11101,15 @@
     },
     {
       "ats": "workday",
+      "company": "MultiCare Health System",
+      "host": "multicare.wd1.myworkdayjobs.com",
+      "key": "workday:multicare.wd1.myworkdayjobs.com:multicare:multicare",
+      "site": "multicare",
+      "slug": "multicare",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Multimatic",
       "host": "multimatic.wd10.myworkdayjobs.com",
       "key": "workday:multimatic.wd10.myworkdayjobs.com:multimatic:mmec",
@@ -11410,6 +11484,15 @@
       "key": "workday:oneok.wd1.myworkdayjobs.com:oneok:oneok_early_careers",
       "site": "ONEOK_Early_Careers",
       "slug": "oneok",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "OneOncology",
+      "host": "oneoncology.wd1.myworkdayjobs.com",
+      "key": "workday:oneoncology.wd1.myworkdayjobs.com:oneoncology:oneoncology",
+      "site": "OneOncology",
+      "slug": "oneoncology",
       "wd": "wd1"
     },
     {
@@ -12734,6 +12817,15 @@
       "site": "symbotic",
       "slug": "symbotic",
       "wd": "wd504"
+    },
+    {
+      "ats": "workday",
+      "company": "Synchrony Financial",
+      "host": "synchronyfinancial.wd5.myworkdayjobs.com",
+      "key": "workday:synchronyfinancial.wd5.myworkdayjobs.com:synchronyfinancial:careers",
+      "site": "careers",
+      "slug": "synchronyfinancial",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
