@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**3,669 internships · 4,541 new-grad roles · 8,210 total openings**
+**3,794 internships · 4,573 new-grad roles · 8,367 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 1,595 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 579 | **[View openings →](internships/fall-2026.md)** |
+| ☀️ Summer 2027 | 1,650 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 576 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 219 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 70 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,206 | **[View openings →](internships/unscheduled.md)** |
+| ❄️ Winter 2027 | 73 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 1,276 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 841 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,418 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,282 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 838 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,428 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,307 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,17 +38,17 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Aechelon Technology Inc | Summer 2027 - Electrical Engineering Intern | Dallas, Texas | Summer 2027 | Expected 2026 graduation<br><sub>stated</sub> | 2026-09-01 | **[Apply →](https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7)**<br><sub>jobs.lever.co</sub> |
-| Emerson Electric | AI Engineering Co-Op | Marshalltown, IA, United States | Not listed | not available | 2026-09-01 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007510)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
-| Emerson Electric | Cybersecurity Engineering Co-op (Jan27-May27) | Shakopee, MN, United States | Not listed | not available | 2026-09-01 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009321)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
-| Emerson Electric | Cybersecurity Engineering Intern | Shakopee, MN, United States | Not listed | not available | 2026-09-01 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009324)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
-| Emerson Electric | Cybersecurity Engineering Intern | Boulder, CO, United States | Not listed | not available | 2026-09-01 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009478)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
-| Emerson Electric | Data Analyst Co-Op | Marshalltown, IA, United States | Not listed | not available | 2026-09-01 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009200)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
-| Emerson Electric | Data Science Engineering Intern | Boulder, CO, United States | Not listed | not available | 2026-09-01 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009488)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
-| Emerson Electric | Embedded Software Co-Op | Marshalltown, IA, United States | Not listed | not available | 2026-09-01 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008443)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
-| Emerson Electric | Firmware Engineer Co-Op | Marshalltown, IA, United States | Not listed | not available | 2026-09-01 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008761)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
-| Emerson Electric | Machine Learning R&D Co-Op | Marshalltown, IA, United States | Not listed | not available | 2026-09-01 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008762)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
-| Emerson Electric | Software Engineering Co-Op | Marshalltown, IA, United States | Not listed | not available | 2026-09-01 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008442)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
-| Emerson Electric | Software Engineering Intern | Houston, TX, United States | Not listed | not available | 2026-09-01 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009500)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
+| American Express | Campus Graduate I Summer Internship Program - 2027 Data Science, Finance - New York, NY | New York, NY, United States | Summer 2027 | not available | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013190)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Campus Graduate II Summer Internship Program - 2027 Data Science, Finance - New York, NY | New York, NY, United States | Summer 2027 | not available | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Data Analytics Intern - Enterprise Technology Services | Charlotte, NC | Summer 2027 | not available | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011807)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Data Analytics Intern - Enterprise Technology Services | Charlotte, NC | Summer 2027 | not available | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012784)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Data Analytics Intern - Enterprise Technology Services | Phoenix, AZ | Summer 2027 | not available | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012729)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Data Analytics Intern - Enterprise Technology Services | Palo Alto, CA | Summer 2027 | not available | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012782)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Data Analytics Intern - Enterprise Technology Services | Palo Alto, CA | Summer 2027 | not available | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011818)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Data Analytics Intern - Enterprise Technology Services | Phoenix, AZ | Summer 2027 | not available | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012703)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Data Engineer Intern - Enterprise Technology Services | Sunrise, FL | Summer 2027 | not available | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011831)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Data Engineer Intern - Enterprise Technology Services | Charlotte, NC | Summer 2027 | not available | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011828)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Data Engineer Intern - Enterprise Technology Services | Sunrise, FL | Summer 2027 | not available | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012781)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Avalore | Data Analyst | Arlington County, Arlington, VA | Not listed | not available | 2026-09-01 | **[Apply →](https://apply.workable.com/avalore/j/EDADB6562A/apply)**<br><sub>apply.workable.com</sub> |
 | Avalore | Data Scientist | Arlington County, Arlington, VA | Not listed | not available | 2026-09-01 | **[Apply →](https://apply.workable.com/avalore/j/D80A182DA1/apply)**<br><sub>apply.workable.com</sub> |
+| Avalore | Support Systems Developer/Engineer | Arlington County, Arlington, VA | Not listed | not available | 2026-09-01 | **[Apply →](https://apply.workable.com/avalore/j/60903E3667/apply)**<br><sub>apply.workable.com</sub> |
+| DiDi Global | Software Engineer - Planning Selection Autonomy | San Jose, CA | Not listed | not available | 2026-09-01 | **[Apply →](https://job-boards.greenhouse.io/didi/jobs/8131851)**<br><sub>job-boards.greenhouse.io</sub> |
+| Eaton | Product Engineer - Engineering | Asheville, NC | Not listed | not available | 2026-09-01 | **[Apply →](https://eaton.eightfold.ai/careers/job/687238080082)**<br><sub>eaton.eightfold.ai</sub> |
+| Entergy | Nuclear Analysis Engineer 1-Senior - Nuc | Jackson, MS | Not listed | not available | 2026-09-01 | **[Apply →](https://jobs.entergy.com/job/Jackson-Nuclear-Analysis-Engineer-I-Sr-%28Nuc%29-Miss/1425172700/?ats=successfactors)**<br><sub>jobs.entergy.com</sub> |
 | Everlaw | Software Engineer 1 | Oakland, CA | Not listed | not available | 2026-09-01 | **[Apply →](https://job-boards.greenhouse.io/everlaw/jobs/4705236006)**<br><sub>job-boards.greenhouse.io</sub> |
+| Huntington Ingalls Industries | Software Engineer 1 - CVN 21 Design | Newport News, VA | Not listed | not available | 2026-09-01 | **[Apply →](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1425127900/?ats=successfactors)**<br><sub>careers.huntingtoningalls.com</sub> |
+| Huntington Ingalls Industries | Software Engineer 1 - CVN 21 Design | Newport News, VA | Not listed | not available | 2026-09-01 | **[Apply →](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1425126300/?ats=successfactors)**<br><sub>careers.huntingtoningalls.com</sub> |
+| Johns Hopkins Applied Physics Laboratory | Sensor Systems/Data Analytics New Grad | Laurel, MD | Not listed | not available | 2026-09-01 | **[Apply →](https://careers.jhuapl.edu/jobs/59770?icims=1)**<br><sub>careers.jhuapl.edu</sub> |
+| Katalyst Space Technologies | Software Engineer New Grad - Software Engineer 1 | Broomfield, CO | Not listed | not available | 2026-09-01 | **[Apply →](https://job-boards.greenhouse.io/katalyst/jobs/6176710004)**<br><sub>job-boards.greenhouse.io</sub> |
 | Qualcomm | GPU Research Engineer - GPU ASICS Engineering | San Diego, CA | Not listed | not available | 2026-09-01 | **[Apply →](https://qualcomm.eightfold.ai/careers/job/446720354978)**<br><sub>qualcomm.eightfold.ai</sub> |
-| WhatNot | Software Engineer New Grad | Seattle, WA, SF, LA, NYC | Not listed | not available | 2026-09-01 | **[Apply →](https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Alation | UX Software Engineer 1 - Contractor | Redwood City, CA | Not listed | not available | 2026-08-31 | **[Apply →](https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770)**<br><sub>alation.wd503.myworkdayjobs.com</sub> |
-| AMD | AI Applications Engineer - Wired and Wireless Business Team - Adaptive and Embedded Computing Group | San Jose, CA | Not listed | not available | 2026-08-31 | **[Apply →](https://careers.amd.com/jobs/91544?icims=1)**<br><sub>careers.amd.com</sub> |
-| Amentum | Radio Frequency Engineer Intern - RADHAZ Survey | Norfolk, VA | Not listed | not available | 2026-08-31 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Norfolk/RADHAZ-Survey---RF-Engineer_R0169165)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
-| Ameriprise Financial | Analytics Leadership Development Program Associate - Multiple Teams | Minneapolis, MN | Not listed | not available | 2026-08-31 | **[Apply →](https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Minneapolis-Minnesota/Analytics-leadership-Development-Program_R26_3449)**<br><sub>ameriprise.wd5.myworkdayjobs.com</sub> |
-| Avalore | Business Intelligence Analyst | Arlington County, Arlington, VA | Not listed | not available | 2026-08-31 | **[Apply →](https://apply.workable.com/avalore/j/DC8241F357/apply)**<br><sub>apply.workable.com</sub> |
-| bet365 | Trading Assistant - Regulations | Denver, CO | Not listed | not available | 2026-08-31 | **[Apply →](https://jobs.smartrecruiters.com/Bet3651/744000146517769)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Blue Origin | Flight Instrumentation Engineer - New Glenn | Space Coast, FL | Not listed | not available | 2026-08-31 | **[Apply →](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/New-Glenn-Flight-Instrumentation-Engineer_R71077-1)**<br><sub>blueorigin.wd5.myworkdayjobs.com</sub> |
-| Booz Allen | Data Engineer | Huntsville, AL | Not listed | not available | 2026-08-31 | **[Apply →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---Data-Engineer_R0248336)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
