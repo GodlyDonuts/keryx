@@ -1532,7 +1532,7 @@
     },
     {
       "ats": "ashby",
-      "company": "Valon Tech",
+      "company": "Valon",
       "key": "ashby:valon",
       "slug": "valon"
     },
@@ -2092,6 +2092,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Atomic Object",
+      "key": "greenhouse:atomicobject",
+      "slug": "atomicobject"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Ecommerce Guide",
       "key": "greenhouse:attentive",
       "slug": "attentive"
@@ -2311,6 +2317,12 @@
       "company": "CLEAR",
       "key": "greenhouse:clear",
       "slug": "clear"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Climavision",
+      "key": "greenhouse:climavision",
+      "slug": "climavision"
     },
     {
       "ats": "greenhouse",
@@ -2881,6 +2893,12 @@
       "company": "Integra FEC",
       "key": "greenhouse:integrainterns",
       "slug": "integrainterns"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "InterSystems",
+      "key": "greenhouse:intersystems",
+      "slug": "intersystems"
     },
     {
       "ats": "greenhouse",
@@ -4306,6 +4324,12 @@
     },
     {
       "ats": "lever",
+      "company": "Milltown Partners",
+      "key": "lever:milltownpartners",
+      "slug": "milltownpartners"
+    },
+    {
+      "ats": "lever",
       "company": "moo",
       "key": "lever:moo",
       "slug": "moo"
@@ -5521,6 +5545,14 @@
       "key": "oracle:hctz.fa.us2.oraclecloud.com:cx_1001",
       "site": "CX_1001",
       "slug": "hctz"
+    },
+    {
+      "ats": "oracle",
+      "company": "Metalsa",
+      "host": "hcun.fa.us2.oraclecloud.com",
+      "key": "oracle:hcun.fa.us2.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "hcun"
     },
     {
       "ats": "oracle",
@@ -7902,6 +7934,15 @@
     },
     {
       "ats": "workday",
+      "company": "Braun Intertec Corporation",
+      "host": "braunintertec.wd5.myworkdayjobs.com",
+      "key": "workday:braunintertec.wd5.myworkdayjobs.com:braunintertec:brauninterteccareers",
+      "site": "BraunIntertecCareers",
+      "slug": "braunintertec",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Bristol Myers Squibb",
       "host": "bristolmyerssquibb.wd5.myworkdayjobs.com",
       "key": "workday:bristolmyerssquibb.wd5.myworkdayjobs.com:bristolmyerssquibb:bms",
@@ -8469,10 +8510,10 @@
     },
     {
       "ats": "workday",
-      "company": "Clearwater Analytics",
+      "company": "CWAN",
       "host": "clearwateranalytics.wd1.myworkdayjobs.com",
       "key": "workday:clearwateranalytics.wd1.myworkdayjobs.com:clearwateranalytics:clearwater_analytics_careers",
-      "site": "clearwater_analytics_careers",
+      "site": "Clearwater_Analytics_Careers",
       "slug": "clearwateranalytics",
       "wd": "wd1"
     },
@@ -9630,10 +9671,10 @@
     },
     {
       "ats": "workday",
-      "company": "GEICO",
+      "company": "Geico",
       "host": "geico.wd1.myworkdayjobs.com",
       "key": "workday:geico.wd1.myworkdayjobs.com:geico:external",
-      "site": "external",
+      "site": "External",
       "slug": "geico",
       "wd": "wd1"
     },
@@ -11244,7 +11285,7 @@
       "company": "Mimecast",
       "host": "mimecast.wd5.myworkdayjobs.com",
       "key": "workday:mimecast.wd5.myworkdayjobs.com:mimecast:mimecast-careers",
-      "site": "Mimecast-Careers",
+      "site": "mimecast-careers",
       "slug": "mimecast",
       "wd": "wd5"
     },
@@ -11370,7 +11411,7 @@
       "company": "Morgan Stanley",
       "host": "ms.wd5.myworkdayjobs.com",
       "key": "workday:ms.wd5.myworkdayjobs.com:ms:external",
-      "site": "external",
+      "site": "External",
       "slug": "ms",
       "wd": "wd5"
     },
