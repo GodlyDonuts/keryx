@@ -1106,6 +1106,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Pluralis Research",
+      "key": "ashby:pluralis-research",
+      "slug": "pluralis-research"
+    },
+    {
+      "ats": "ashby",
       "company": "Polymarket",
       "key": "ashby:polymarket",
       "slug": "polymarket"
@@ -1571,6 +1577,12 @@
       "company": "Weave",
       "key": "ashby:weave",
       "slug": "weave"
+    },
+    {
+      "ats": "ashby",
+      "company": "WhatNot",
+      "key": "ashby:whatnot",
+      "slug": "whatnot"
     },
     {
       "ats": "ashby",
@@ -2485,6 +2497,12 @@
       "company": "GoDaddy",
       "key": "greenhouse:eventsandinterns",
       "slug": "eventsandinterns"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Everlaw",
+      "key": "greenhouse:everlaw",
+      "slug": "everlaw"
     },
     {
       "ats": "greenhouse",
@@ -3469,6 +3487,12 @@
       "company": "Stratolaunch",
       "key": "greenhouse:stratolaunch",
       "slug": "stratolaunch"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Stripe",
+      "key": "greenhouse:stripe",
+      "slug": "stripe"
     },
     {
       "ats": "greenhouse",
@@ -7035,6 +7059,15 @@
       "key": "workday:americanfidelity.wd5.myworkdayjobs.com:americanfidelity:external",
       "site": "External",
       "slug": "americanfidelity",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Ameriprise Financial",
+      "host": "ameriprise.wd5.myworkdayjobs.com",
+      "key": "workday:ameriprise.wd5.myworkdayjobs.com:ameriprise:ameriprise",
+      "site": "Ameriprise",
+      "slug": "ameriprise",
       "wd": "wd5"
     },
     {
@@ -11035,10 +11068,10 @@
     },
     {
       "ats": "workday",
-      "company": "Marsh",
+      "company": "Marsh & McLennan",
       "host": "mmc.wd1.myworkdayjobs.com",
       "key": "workday:mmc.wd1.myworkdayjobs.com:mmc:mmc",
-      "site": "MMC",
+      "site": "mmc",
       "slug": "mmc",
       "wd": "wd1"
     },
@@ -13150,6 +13183,15 @@
     },
     {
       "ats": "workday",
+      "company": "Monument Chemical",
+      "host": "thgrp.wd12.myworkdayjobs.com",
+      "key": "workday:thgrp.wd12.myworkdayjobs.com:thgrp:monumentchemical",
+      "site": "monumentchemical",
+      "slug": "thgrp",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
       "company": "BRG",
       "host": "thinkbrg.wd5.myworkdayjobs.com",
       "key": "workday:thinkbrg.wd5.myworkdayjobs.com:thinkbrg:brg_external_career_site",
@@ -14178,6 +14220,15 @@
       "key": "workday:xylem.wd5.myworkdayjobs.com:xylem:xylem-careers",
       "site": "xylem-careers",
       "slug": "xylem",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "YETI",
+      "host": "yeticoolers.wd5.myworkdayjobs.com",
+      "key": "workday:yeticoolers.wd5.myworkdayjobs.com:yeticoolers:yeti",
+      "site": "YETI",
+      "slug": "yeticoolers",
       "wd": "wd5"
     },
     {
