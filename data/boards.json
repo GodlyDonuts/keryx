@@ -3004,6 +3004,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Mach Industries",
+      "key": "greenhouse:machindustries",
+      "slug": "machindustries"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Man Group",
       "key": "greenhouse:mangroup",
       "slug": "mangroup"
@@ -3370,7 +3376,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "Rocket Lab USA",
+      "company": "Rocket Lab",
       "key": "greenhouse:rocketlab",
       "slug": "rocketlab"
     },
@@ -4883,6 +4889,14 @@
       "key": "oracle:efsp.fa.us6.oraclecloud.com:cx_4",
       "site": "CX_4",
       "slug": "efsp"
+    },
+    {
+      "ats": "oracle",
+      "company": "Amplifon",
+      "host": "efuf.fa.em2.oraclecloud.com",
+      "key": "oracle:efuf.fa.em2.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "efuf"
     },
     {
       "ats": "oracle",
@@ -6988,6 +7002,42 @@
     },
     {
       "ats": "workday",
+      "company": "AIG",
+      "host": "aig.wd1.myworkdayjobs.com",
+      "key": "workday:aig.wd1.myworkdayjobs.com:aig:aig",
+      "site": "aig",
+      "slug": "aig",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "AIG",
+      "host": "aig.wd1.myworkdayjobs.com",
+      "key": "workday:aig.wd1.myworkdayjobs.com:aig:aig%22%7d%7d",
+      "site": "aig%22%7D%7D",
+      "slug": "aig",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "AIG",
+      "host": "aig.wd1.myworkdayjobs.com",
+      "key": "workday:aig.wd1.myworkdayjobs.com:aig:early_careers",
+      "site": "early_careers",
+      "slug": "aig",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "AIG",
+      "host": "aig.wd1.myworkdayjobs.com",
+      "key": "workday:aig.wd1.myworkdayjobs.com:aig:early_careers%22%7d%7d",
+      "site": "early_careers%22%7D%7D",
+      "slug": "aig",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Air Liquide",
       "host": "airliquidehr.wd3.myworkdayjobs.com",
       "key": "workday:airliquidehr.wd3.myworkdayjobs.com:airliquidehr:airliquideexternalcareer",
@@ -7137,6 +7187,15 @@
       "key": "workday:americanfidelity.wd5.myworkdayjobs.com:americanfidelity:external",
       "site": "External",
       "slug": "americanfidelity",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "AmeriLife",
+      "host": "amerilife.wd5.myworkdayjobs.com",
+      "key": "workday:amerilife.wd5.myworkdayjobs.com:amerilife:external",
+      "site": "External",
+      "slug": "amerilife",
       "wd": "wd5"
     },
     {
@@ -8173,6 +8232,15 @@
       "site": "Centific_Global",
       "slug": "centific",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Cerity Partners",
+      "host": "ceritypartners.wd12.myworkdayjobs.com",
+      "key": "workday:ceritypartners.wd12.myworkdayjobs.com:ceritypartners:ceritypartnerscareers",
+      "site": "ceritypartnerscareers",
+      "slug": "ceritypartners",
+      "wd": "wd12"
     },
     {
       "ats": "workday",
@@ -9784,6 +9852,15 @@
       "site": "careers",
       "slug": "granite",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "GreatAmerica",
+      "host": "greatamerica.wd12.myworkdayjobs.com",
+      "key": "workday:greatamerica.wd12.myworkdayjobs.com:greatamerica:greatamericacareers",
+      "site": "greatamericacareers",
+      "slug": "greatamerica",
+      "wd": "wd12"
     },
     {
       "ats": "workday",
@@ -13495,6 +13572,15 @@
     },
     {
       "ats": "workday",
+      "company": "TRUMPF",
+      "host": "trumpf.wd3.myworkdayjobs.com",
+      "key": "workday:trumpf.wd3.myworkdayjobs.com:trumpf:trumpf_students",
+      "site": "TRUMPF_Students",
+      "slug": "trumpf",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
       "company": "TSC",
       "host": "tsc.wd12.myworkdayjobs.com",
       "key": "workday:tsc.wd12.myworkdayjobs.com:tsc:tsc-careers",
@@ -14077,6 +14163,14 @@
       "key": "workday:wd5.myworkdaysite.com:angc:angc",
       "site": "ANGC",
       "slug": "angc"
+    },
+    {
+      "ats": "workday",
+      "company": "Chewy",
+      "host": "wd5.myworkdaysite.com",
+      "key": "workday:wd5.myworkdaysite.com:chewy:external",
+      "site": "External",
+      "slug": "chewy"
     },
     {
       "ats": "workday",
