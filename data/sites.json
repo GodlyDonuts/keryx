@@ -1224,6 +1224,16 @@
       "url": "https://www.dedaluslabs.ai/"
     },
     {
+      "boards": [
+        "workday:hpinc.wd5.myworkdayjobs.com:hpinc:hpinc"
+      ],
+      "company": "H&P",
+      "key": "0ec2200253a0368cd1a542e4",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.helmerichpayne.com/"
+    },
+    {
       "boards": [],
       "company": "Fervo Energy",
       "key": "0ede4c71031b4ca2cb8f54f3",
@@ -1820,6 +1830,13 @@
       "url": "https://www.mecknc.gov/"
     },
     {
+      "company": "Manatee Memorial Hospital",
+      "error": "public request failed for https://www.manateememorial.com/: HTTP Error 403: Forbidden",
+      "key": "1545ccf9e3773df136d451fe",
+      "last_scanned": "2026-09-02",
+      "url": "https://www.manateememorial.com/"
+    },
+    {
       "boards": [],
       "company": "RBC",
       "key": "1546f05b9bf6fffc1da73a8e",
@@ -1940,6 +1957,13 @@
       "last_scanned": "2026-08-27",
       "resolved_roles": 1,
       "url": "https://cubit.capital/"
+    },
+    {
+      "company": "River Oaks Hospital",
+      "error": "public request failed for https://riveroakshospital.com/: HTTP Error 403: Forbidden",
+      "key": "1658c40bed9fc41b0fdc990d",
+      "last_scanned": "2026-09-02",
+      "url": "https://riveroakshospital.com/"
     },
     {
       "boards": [],
@@ -3373,6 +3397,22 @@
     },
     {
       "boards": [],
+      "company": "Leavitt Partners",
+      "key": "2bc46d17cdf88410853205d5",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://leavittpartners.com/"
+    },
+    {
+      "boards": [],
+      "company": "Carlos Rosario International Public Charter School",
+      "key": "2bc53d8c3178093a7068232b",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.carlosrosario.org/"
+    },
+    {
+      "boards": [],
       "company": "Texas Department of Transportation",
       "key": "2bc7dd770d72dbee2995ed6b",
       "last_scanned": "2026-09-01",
@@ -3741,7 +3781,7 @@
       "company": "Chapman University School of Pharmacy",
       "error": "public requests require HTTPS and a hostname",
       "key": "2ea1d31aff8ca2ae0156f4f0",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-09-02",
       "url": "https://www.chapman.edu/pharmacy"
     },
     {
@@ -4130,6 +4170,14 @@
     },
     {
       "boards": [],
+      "company": "Continental",
+      "key": "3267427b3804bb6e1b56d9c3",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.continental.com/"
+    },
+    {
+      "boards": [],
       "company": "Surlamer Investments",
       "key": "326bd710418a54fb34e1222e",
       "last_scanned": "2026-08-27",
@@ -4441,7 +4489,7 @@
       "company": "Beth Israel Lahey Health",
       "error": "public request failed for https://www.bilh.org/: <urlopen error [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1000)>",
       "key": "3661d2ac676c5b4bff8944b8",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-09-02",
       "url": "https://www.bilh.org/"
     },
     {
@@ -5092,6 +5140,14 @@
     },
     {
       "boards": [],
+      "company": "S&K Technologies, Inc.",
+      "key": "3d3904a0517d7a085f38178e",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.sktcorp.com/"
+    },
+    {
+      "boards": [],
       "company": "Acuity Insurance",
       "key": "3d9a10c5f9e4c025d01f4466",
       "last_scanned": "2026-08-28",
@@ -5243,6 +5299,13 @@
       "url": "https://aphw.com/"
     },
     {
+      "company": "Garfield Park Behavioral Hospital",
+      "error": "public request failed for https://www.garfieldparkhospital.com/: HTTP Error 403: Forbidden",
+      "key": "3f936109217e26927d2d38f2",
+      "last_scanned": "2026-09-02",
+      "url": "https://www.garfieldparkhospital.com/"
+    },
+    {
       "boards": [],
       "company": "Draftomat",
       "key": "3fc3ad2572ca95c5717964ad",
@@ -5308,6 +5371,13 @@
       "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://www.c3isit.com/"
+    },
+    {
+      "company": "Arbour Hospital",
+      "error": "public request failed for https://arbourhospital.com/: HTTP Error 403: Forbidden",
+      "key": "408a83e8edaeece468fbcea1",
+      "last_scanned": "2026-09-02",
+      "url": "https://arbourhospital.com/"
     },
     {
       "boards": [
@@ -5578,6 +5648,14 @@
     },
     {
       "boards": [],
+      "company": "Prominence Health",
+      "key": "44307a888de08ec070f5dc3b",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://prominencemedicare.com/"
+    },
+    {
+      "boards": [],
       "company": "State of Arkansas",
       "key": "445bac0d2c696ae70dfe5405",
       "last_scanned": "2026-08-15",
@@ -5673,6 +5751,14 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://www.itw.com/"
+    },
+    {
+      "boards": [],
+      "company": "RoyOMartin",
+      "key": "459b447da8a303cf69b5ac79",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.royomartin.com/"
     },
     {
       "boards": [
@@ -6251,6 +6337,13 @@
       "url": "https://www.roboforce.ai/"
     },
     {
+      "company": "Palmdale Regional Medical Center",
+      "error": "public request failed for https://www.palmdaleregional.com/: HTTP Error 403: Forbidden",
+      "key": "4b7cc6708dbb5eb6c6af9e16",
+      "last_scanned": "2026-09-02",
+      "url": "https://www.palmdaleregional.com/"
+    },
+    {
       "company": "American Structurepoint",
       "error": "Invalid IPv6 URL",
       "key": "4b810c5048a171d53eacfe30",
@@ -6308,7 +6401,7 @@
       "boards": [],
       "company": "AECOM",
       "key": "4c5a0606cee127f9f0e25c90",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://www.aecom.com/"
     },
@@ -6372,7 +6465,7 @@
       ],
       "company": "Resideo",
       "key": "4cfab340742a26a4cacfd7a6",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://www.resideo.com/"
     },
@@ -7348,7 +7441,7 @@
       "boards": [],
       "company": "Automation Anywhere",
       "key": "56296c999fd3a1b6388d7246",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://www.automationanywhere.com/"
     },
@@ -7429,6 +7522,13 @@
       "last_scanned": "2026-08-31",
       "resolved_roles": 0,
       "url": "https://www.comed.com/"
+    },
+    {
+      "company": "Fuller Hospital",
+      "error": "public request failed for https://www.fullerhospital.com/: HTTP Error 403: Forbidden",
+      "key": "570a50503f947e121f4499ac",
+      "last_scanned": "2026-09-02",
+      "url": "https://www.fullerhospital.com/"
     },
     {
       "boards": [],
@@ -7562,6 +7662,13 @@
       "url": "https://www.stryker.com/en-us/index.htm"
     },
     {
+      "company": "Northwest Texas Healthcare System",
+      "error": "public request failed for https://www.nwths.com/: HTTP Error 403: Forbidden",
+      "key": "5817c8fcc3f408f3c5834aab",
+      "last_scanned": "2026-09-02",
+      "url": "https://www.nwths.com/"
+    },
+    {
       "boards": [
         "workday:gaig.wd1.myworkdayjobs.com:gaig:gaig_external"
       ],
@@ -7618,6 +7725,13 @@
       "last_scanned": "2026-08-28",
       "resolved_roles": 0,
       "url": "https://www.tapestry.com/"
+    },
+    {
+      "company": "The Brook Hospitals",
+      "error": "public request failed for https://thebrookhospitals.com/: HTTP Error 403: Forbidden",
+      "key": "58b32eb2817dae6536752157",
+      "last_scanned": "2026-09-02",
+      "url": "https://thebrookhospitals.com/"
     },
     {
       "company": "NASA Jet Propulsion Laboratory",
@@ -8707,6 +8821,13 @@
       "url": "https://www.oppd.com/"
     },
     {
+      "company": "Cedar Hills Hospital",
+      "error": "public request failed for https://cedarhillshospital.com/: HTTP Error 403: Forbidden",
+      "key": "653a44a4d0c40a07ce033742",
+      "last_scanned": "2026-09-02",
+      "url": "https://cedarhillshospital.com/"
+    },
+    {
       "boards": [],
       "company": "Lambda Capital",
       "key": "6556f125d1d5953d63b4c683",
@@ -9178,6 +9299,16 @@
       "url": "https://www.mountaire.com/"
     },
     {
+      "boards": [
+        "workday:usnh.wd5.myworkdayjobs.com:usnh:careers"
+      ],
+      "company": "University of New Hampshire",
+      "key": "6a0a51dff2df54af7dcf48b5",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.unh.edu/"
+    },
+    {
       "boards": [],
       "company": "Sixtyfour",
       "key": "6a323f808825fab0837c324b",
@@ -9453,6 +9584,13 @@
       "url": "https://fanniemae.com/"
     },
     {
+      "company": "Havenwyck Hospital",
+      "error": "public request failed for https://havenwyckhospital.com/: HTTP Error 403: Forbidden",
+      "key": "6d948530f20ef71cb6ba2231",
+      "last_scanned": "2026-09-02",
+      "url": "https://havenwyckhospital.com/"
+    },
+    {
       "boards": [],
       "company": "Skyworks Solutions, Inc.",
       "key": "6d9737aa218175cf0ecab9fb",
@@ -9502,6 +9640,14 @@
       "key": "6dec96f49534b008cf989eae",
       "last_scanned": "2026-09-02",
       "url": "https://ipsos-na.com/"
+    },
+    {
+      "boards": [],
+      "company": "Linde Advanced Material Technologies",
+      "key": "6dfb5de616fcba7753ec5d8b",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.linde-amt.com/"
     },
     {
       "boards": [],
@@ -9748,7 +9894,7 @@
       "boards": [],
       "company": "Torentify",
       "key": "70f99295ebe51229dda93dc5",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://torentify.com/"
     },
@@ -9979,6 +10125,14 @@
       "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://baxterwoodman.com/"
+    },
+    {
+      "boards": [],
+      "company": "CyberProof",
+      "key": "7338a75eeea9e12071fdb9d2",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.cyberproof.com/"
     },
     {
       "boards": [],
@@ -10678,7 +10832,7 @@
       "boards": [],
       "company": "Jacques Marie Mage",
       "key": "7b2a3cd1d23e16c34e29f769",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://jacquesmariemage.com/"
     },
@@ -11205,12 +11359,27 @@
       "url": "https://akunacapital.com/"
     },
     {
+      "company": "Mayhill Hospital",
+      "error": "public request failed for https://mayhillhospital.com/: HTTP Error 403: Forbidden",
+      "key": "81fd06752c2ff75955eacb53",
+      "last_scanned": "2026-09-02",
+      "url": "https://mayhillhospital.com/"
+    },
+    {
       "boards": [],
       "company": "Starkey M\u00e9xico",
       "key": "8203bd9770c4e8748c80ce13",
       "last_scanned": "2026-08-26",
       "resolved_roles": 0,
       "url": "https://www.starkey.com.mx/"
+    },
+    {
+      "boards": [],
+      "company": "UST HealthProof",
+      "key": "8203da9967ebd30e01a8ce6a",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://usthealthproof.com/"
     },
     {
       "boards": [],
@@ -11905,6 +12074,14 @@
       "last_scanned": "2026-09-01",
       "resolved_roles": 0,
       "url": "https://www.uic.com/"
+    },
+    {
+      "boards": [],
+      "company": "Cemex US",
+      "key": "8a6f7b598c1fb5e124df0c70",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.cemex.com/"
     },
     {
       "boards": [],
@@ -12830,6 +13007,14 @@
     },
     {
       "boards": [],
+      "company": "Arch",
+      "key": "958758903d2f87ca2e8bbbdf",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://arch.co/"
+    },
+    {
+      "boards": [],
       "company": "NY Hotel Trades Council & Hotel Assoc. of NYC Employee Benefit Funds",
       "key": "960c03ad585b79caddb201b0",
       "last_scanned": "2026-08-24",
@@ -12884,6 +13069,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.kihealthpartners.com/"
+    },
+    {
+      "company": "Radix Metasystems, Inc.",
+      "error": "Invalid IPv6 URL",
+      "key": "969b065901c9775699b0b9c2",
+      "last_scanned": "2026-09-02",
+      "url": "https://www.radixmeta.com/"
     },
     {
       "boards": [],
@@ -13118,7 +13310,7 @@
       "boards": [],
       "company": "Patel, Greene & Associates, LLC (PGA)",
       "key": "9a754caf9389e1e301f56643",
-      "last_scanned": "2026-08-20",
+      "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://www.patelgreene.com/"
     },
@@ -13426,7 +13618,7 @@
       "company": "Cargill",
       "error": "public request failed for https://www.cargill.com/home: HTTP Error 403: Forbidden",
       "key": "9e7dda2c8ca43af9dc7d8a18",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-02",
       "url": "https://www.cargill.com/home"
     },
     {
@@ -13568,6 +13760,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.cdcr.ca.gov/"
+    },
+    {
+      "company": "Clive Behavioral Health",
+      "error": "public request failed for https://clivebehavioral.com/: HTTP Error 403: Forbidden",
+      "key": "9ff1f6d80cdb703b92910686",
+      "last_scanned": "2026-09-02",
+      "url": "https://clivebehavioral.com/"
     },
     {
       "boards": [],
@@ -14126,6 +14325,14 @@
     },
     {
       "boards": [],
+      "company": "Sycamore",
+      "key": "a51bf3955bf8fd3e2b154c25",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://sycamore.so/"
+    },
+    {
+      "boards": [],
       "company": "Modern Woodmen of America",
       "key": "a52c8da82c3b435cf720b49c",
       "last_scanned": "2026-08-25",
@@ -14219,7 +14426,7 @@
       "boards": [],
       "company": "ECS",
       "key": "a641638e16ca9eb1078ec682",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://shopecs.com/"
     },
@@ -15110,6 +15317,14 @@
     },
     {
       "boards": [],
+      "company": "Winsupply",
+      "key": "b00092456991bbbb8e2c2906",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.winsupply.com/"
+    },
+    {
+      "boards": [],
       "company": "Everlaw",
       "key": "b029b7303c437dd368d3a9a6",
       "last_scanned": "2026-08-31",
@@ -15725,6 +15940,13 @@
       "url": "https://ncagr.gov/"
     },
     {
+      "company": "Aiken Regional Medical Centers",
+      "error": "public request failed for https://www.aikenregional.com/: HTTP Error 403: Forbidden",
+      "key": "b6f5cc9639c7a0956074347e",
+      "last_scanned": "2026-09-02",
+      "url": "https://www.aikenregional.com/"
+    },
+    {
       "company": "MidwayUSA",
       "error": "public request failed for https://midwayusa.com/: HTTP Error 403: Forbidden",
       "key": "b6f61e781abe106ee0f5e2c9",
@@ -16323,6 +16545,13 @@
       "last_scanned": "2026-08-26",
       "resolved_roles": 0,
       "url": "https://www.charterup.com/"
+    },
+    {
+      "company": "Central Florida Behavioral Hospital",
+      "error": "public request failed for https://centralfloridabehavioral.com/: HTTP Error 403: Forbidden",
+      "key": "be951ad3924fd97bfe3347bb",
+      "last_scanned": "2026-09-02",
+      "url": "https://centralfloridabehavioral.com/"
     },
     {
       "boards": [
@@ -17341,7 +17570,7 @@
       ],
       "company": "Brighton Jones",
       "key": "c9b34d533f9cc0702f62b12e",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://brightonjones.com/"
     },
@@ -17460,6 +17689,13 @@
       "key": "cae8ba12e6fff9d87adb501b",
       "last_scanned": "2026-09-02",
       "url": "https://www.uofmhealth.org/"
+    },
+    {
+      "company": "South Texas Health System",
+      "error": "public request failed for https://www.southtexashealthsystem.com/: HTTP Error 403: Forbidden",
+      "key": "caf669ece286e3b7a5b440fa",
+      "last_scanned": "2026-09-02",
+      "url": "https://www.southtexashealthsystem.com/"
     },
     {
       "boards": [],
@@ -17631,7 +17867,7 @@
       "boards": [],
       "company": "LiquidPiston",
       "key": "ccf48f9ad59ec7f5f6036752",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://www.liquidpiston.com/"
     },
@@ -18172,6 +18408,13 @@
       "last_scanned": "2026-09-01",
       "resolved_roles": 0,
       "url": "https://www.breakthroughfuel.com/"
+    },
+    {
+      "company": "HRI Hospital",
+      "error": "public request failed for https://hrihospital.com/: HTTP Error 403: Forbidden",
+      "key": "d2dbe75be8c4eedc1d8b4241",
+      "last_scanned": "2026-09-02",
+      "url": "https://hrihospital.com/"
     },
     {
       "boards": [],
@@ -18988,7 +19231,7 @@
       "boards": [],
       "company": "Oscar Health",
       "key": "dbdf9e2d5f9b2ec41feb53fd",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://www.hioscar.com/"
     },
@@ -18999,6 +19242,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.grangeinsurance.com/"
+    },
+    {
+      "company": "Temecula Valley Hospital",
+      "error": "public request failed for https://www.temeculavalleyhospital.com/: HTTP Error 403: Forbidden",
+      "key": "dc55f9867657ab09fe569b58",
+      "last_scanned": "2026-09-02",
+      "url": "https://www.temeculavalleyhospital.com/"
     },
     {
       "boards": [
@@ -19337,7 +19587,7 @@
       "boards": [],
       "company": "LCRA",
       "key": "e08aa316096976876479ab56",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://www.lcra.org/"
     },
@@ -19851,6 +20101,13 @@
       "url": "https://www.nannettebrown.com/"
     },
     {
+      "company": "North Star Behavioral Health",
+      "error": "public request failed for https://northstarbehavioral.com/: HTTP Error 403: Forbidden",
+      "key": "e6cad892356a51ac9e1b82ff",
+      "last_scanned": "2026-09-02",
+      "url": "https://northstarbehavioral.com/"
+    },
+    {
       "company": "CHOC Children's",
       "error": "public requests require HTTPS and a hostname",
       "key": "e6d20e9380e6fa18125cb5ce",
@@ -19861,7 +20118,7 @@
       "company": "KeyBank",
       "error": "public request failed for https://www.key.com/businesses-institutions/solutions/institutional-advisors.html: The read operation timed out",
       "key": "e6fa7658b62e609508549dd9",
-      "last_scanned": "2026-08-31",
+      "last_scanned": "2026-09-02",
       "url": "https://www.key.com/businesses-institutions/solutions/institutional-advisors.html"
     },
     {
@@ -19918,6 +20175,13 @@
       "key": "e76619ad9660a1c181a33522",
       "last_scanned": "2026-08-26",
       "url": "https://www.servicenow.com/"
+    },
+    {
+      "company": "Pembroke Hospital",
+      "error": "public request failed for https://pembrokehospital.com/: HTTP Error 403: Forbidden",
+      "key": "e79ff766784c8be1fa5e7d44",
+      "last_scanned": "2026-09-02",
+      "url": "https://pembrokehospital.com/"
     },
     {
       "boards": [],
@@ -20220,6 +20484,13 @@
       "url": "https://newrelic.com/"
     },
     {
+      "company": "Horizon Health Corporation",
+      "error": "public request failed for https://www.horizonhealth.com/: HTTP Error 403: Forbidden",
+      "key": "eaf9de8b3eb6a363c3a036c2",
+      "last_scanned": "2026-09-02",
+      "url": "https://www.horizonhealth.com/"
+    },
+    {
       "boards": [],
       "company": "Schuber Mitchell Homes",
       "key": "eb144840895406b62fe81de5",
@@ -20281,6 +20552,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.fticonsulting.com/"
+    },
+    {
+      "company": "Newport News Behavioral Health Center",
+      "error": "public request failed for https://newportnewsbhc.com/: HTTP Error 403: Forbidden",
+      "key": "ebaf7a87d4efa479d9f679d1",
+      "last_scanned": "2026-09-02",
+      "url": "https://newportnewsbhc.com/"
     },
     {
       "company": "Kelvolta",
@@ -20645,6 +20923,14 @@
       "key": "ef0526d77df4ca23067f7c1d",
       "last_scanned": "2026-08-18",
       "url": "https://www.hendrickson-intl.com/Home.aspx"
+    },
+    {
+      "boards": [],
+      "company": "Geotab",
+      "key": "ef16ffef6509f2f92a8b2168",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.geotab.com/"
     },
     {
       "boards": [
@@ -21097,6 +21383,13 @@
       "url": "https://dinamicasgroup.com/"
     },
     {
+      "company": "BHC Alhambra Hospital, Inc.",
+      "error": "public request failed for https://www.bhcalhambra.com/: HTTP Error 403: Forbidden",
+      "key": "f32e0c23173ecb91bee61359",
+      "last_scanned": "2026-09-02",
+      "url": "https://www.bhcalhambra.com/"
+    },
+    {
       "boards": [
         "smartrecruiters:llnl"
       ],
@@ -21268,6 +21561,13 @@
       "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://aquatic.com/"
+    },
+    {
+      "company": "SIERRA VISTA HOSPITAL",
+      "error": "public request failed for https://sierravistahospital.com/: HTTP Error 403: Forbidden",
+      "key": "f609940219a4bc2da72dfa94",
+      "last_scanned": "2026-09-02",
+      "url": "https://sierravistahospital.com/"
     },
     {
       "company": "Rubrik",
@@ -21591,6 +21891,14 @@
     },
     {
       "boards": [],
+      "company": "J.D. Irving, Limited",
+      "key": "fa30afaf9a0cd8ece548e040",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.jdirving.com/"
+    },
+    {
+      "boards": [],
       "company": "Volvo Trucks",
       "key": "faa31f133975cebc1ee7eaa2",
       "last_scanned": "2026-08-18",
@@ -21604,6 +21912,14 @@
       "last_scanned": "2026-08-28",
       "resolved_roles": 0,
       "url": "https://www.landisgyr.com/"
+    },
+    {
+      "boards": [],
+      "company": "Enhance IT",
+      "key": "fac69fb4d63c9cc87728f3b5",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.enhanceit.com/"
     },
     {
       "boards": [],
@@ -21919,6 +22235,13 @@
       "url": "https://www.academyhealth.org/"
     },
     {
+      "company": "Windmoor Healthcare Of Clearwater",
+      "error": "public request failed for https://windmoor.com/: HTTP Error 403: Forbidden",
+      "key": "fdc19d46b4a098a9a21c0219",
+      "last_scanned": "2026-09-02",
+      "url": "https://windmoor.com/"
+    },
+    {
       "company": "Corning Incorporated",
       "error": "public request failed for https://www.corning.com/: HTTP Error 403: Forbidden",
       "key": "fdd9fdefbf94bcc1eb6163ea",
@@ -22082,6 +22405,14 @@
       "last_scanned": "2026-08-21",
       "resolved_roles": 0,
       "url": "https://www.mwcomponents.com/"
+    },
+    {
+      "boards": [],
+      "company": "UHS Physician Careers",
+      "key": "ff94e02c2e919f1ddbc6505c",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.uhsinc.com/careers/physician-career-opportunities/"
     },
     {
       "boards": [],

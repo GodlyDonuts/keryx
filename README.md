@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**4,271 internships · 4,592 new-grad roles · 8,863 total openings**
+**4,349 internships · 4,607 new-grad roles · 8,956 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 1,960 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 551 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 226 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 84 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,450 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 1,962 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 548 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 229 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 89 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 1,521 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 882 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,344 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,366 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 932 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,324 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,351 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,7 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Blue Cross Blue Shield of Michigan | 2027 Summer Intern-Information Technology | Detroit, MI, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-09-02 | **[Apply →](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14706)**<br><sub>ejko.fa.us2.oraclecloud.com</sub> |
 | Blue Origin | 2026 Intern Conversion - Aerospace Software Apps Engineer I | Seattle, WA +8 | Not listed | not available | 2026-09-02 | **[Apply →](https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Aerospace-Software-Apps-Engineer-I_R70306)**<br><sub>blueorigin.wd5.myworkdayjobs.com</sub> |
 | Blue Origin | 2026 Intern Conversion - Software Development Engineer I | Seattle, WA +8 | Not listed | not available | 2026-09-02 | **[Apply →](https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Software-Development-Engineer-I_R70275)**<br><sub>blueorigin.wd5.myworkdayjobs.com</sub> |
 | Boston Scientific | R&D Hardware Engineer Intern - Interns/Graduates | Arden Hills, MN | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813483105)**<br><sub>bostonscientific.eightfold.ai</sub> |
@@ -45,10 +46,9 @@ Recent internship and co-op listings that open the employer's application page d
 | ByteDance | Research Intern - AI-Native Databases | San Jose, CA | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://jobs.bytedance.com/en/position/7678450462765254965/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Research Intern - AI-Native Databases | Seattle, WA | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://jobs.bytedance.com/en/position/7678451067500529925/detail)**<br><sub>jobs.bytedance.com</sub> |
 | Celonis | Field Marketing Intern | New York, US, New York | Not listed | not stated | 2026-09-02 | **[Apply →](https://job-boards.greenhouse.io/celonis/jobs/7977884003?gh_jid=7977884003)**<br><sub>job-boards.greenhouse.io</sub> |
+| Copart | Software Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-09-02 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | Corning | Digital & IT Intern - Analyst - Enterprise Data Management | Charlotte, NC | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Enterprise-Data-Management-Summer-2027-NC-28216/1425715900/?ats=successfactors)**<br><sub>corningjobs.corning.com</sub> |
 | Formlabs | Hardware Systems Integration Intern - Winter/Spring 2027 | Somerville, MA | Spring 2027 | not available | 2026-09-02 | **[Apply →](https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004)**<br><sub>careers.formlabs.com</sub> |
-| John Deere | Product Engineering Intern | Fargo, ND | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://johndeere.eightfold.ai/careers/job/137482769212)**<br><sub>johndeere.eightfold.ai</sub> |
-| Johns Hopkins Applied Physics Laboratory | Mission Systems Engineering Intern | Laurel, MD | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://careers.jhuapl.edu/jobs/59883?icims=1)**<br><sub>careers.jhuapl.edu</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,6 +58,7 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Amentum | C/C++ Software Developer | Dahlgren, VA | 2027 | not available | 2026-09-02 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C-C---Software-Developer_R0168336)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
 | American Express | AI Engineer 1 - Enterprise Technology Services | Sunrise, FL | Not listed | not available | 2026-09-02 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012985)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | American Express | AI Engineer 1 - Enterprise Technology Services | Sunrise, FL | Not listed | not available | 2026-09-02 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012988)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | American Express | Data & Analytics Analyst - Enterprise Technology Services | Sunrise, FL | Not listed | not available | 2026-09-02 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013099)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
@@ -66,10 +67,9 @@ Recent full-time opportunities that open the employer's application page directl
 | American Express | Software Engineer 2 - Enterprise Technology Services | Sunrise, FL | Not listed | not available | 2026-09-02 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012944)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | American Express | Software Engineer Intern - Enterprise Technology Services | Sunrise, FL | Not listed | not available | 2026-09-02 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012801)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | Bluehawk | Exploitation Specialist - Data Scientist | Springfield, VA | Not listed | not available | 2026-09-02 | **[Apply →](https://careers-bluehawk.icims.com/jobs/2898/job?mobile=true&needsRedirect=false)**<br><sub>careers-bluehawk.icims.com</sub> |
+| Boeing | Software Engineer - Associate or Experienced | Seal Beach, CA | 2027 | not available | 2026-09-02 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Seal-Beach-CA/Software-Engineer--Associate-or-Experienced-_JR2026520956-1)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
 | Deloitte | AI and Data Engineering Analyst - Government & Public Services | Austin, TX | Not listed | not available | 2026-09-02 | **[Apply →](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-AI-Data-Engineering-Winter-2027/365230)**<br><sub>apply.deloitte.com</sub> |
 | Deloitte | Software Engineering Analyst - Government & Public Services | Rosslyn, Arlington, VA | Not listed | not available | 2026-09-02 | **[Apply →](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering-Winter-2027/365228)**<br><sub>apply.deloitte.com</sub> |
-| Hawk-Eye Innovations | College Sports Systems Technician - University of Washington | Seattle, WA | Not listed | not available | 2026-09-02 | **[Apply →](https://jobs.ashbyhq.com/hawkeyeinnovations/466edb26-050f-430b-b55c-dafbc5a4c239/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Hot Topic | Junior Systems Analyst - Warehouse Management System | Nashville, TN, La Vergne, TN, Riverside, CA | Not listed | not available | 2026-09-02 | **[Apply →](https://jobs.lever.co/hottopic/b006fecc-6662-4e8d-8f93-eff444c2b6e3/apply)**<br><sub>jobs.lever.co</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
