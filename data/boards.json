@@ -968,6 +968,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Netholabs",
+      "key": "ashby:netholabs",
+      "slug": "netholabs"
+    },
+    {
+      "ats": "ashby",
       "company": "Netic",
       "key": "ashby:netic",
       "slug": "netic"
@@ -1367,6 +1373,12 @@
       "company": "Sift",
       "key": "ashby:sift",
       "slug": "sift"
+    },
+    {
+      "ats": "ashby",
+      "company": "Sift",
+      "key": "ashby:siftstack",
+      "slug": "siftstack"
     },
     {
       "ats": "ashby",
@@ -2687,6 +2699,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Flagship Pioneering",
+      "key": "greenhouse:fspco-op012325",
+      "slug": "fspco-op012325"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Further",
       "key": "greenhouse:furtherearlycareer",
       "slug": "furtherearlycareer"
@@ -3647,7 +3665,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "National Information Solutions Cooperative",
+      "company": "National Information Solutions Cooperative (NISC)",
       "key": "greenhouse:testnisc",
       "slug": "testnisc"
     },
@@ -5018,6 +5036,14 @@
       "key": "oracle:ehtl.fa.us6.oraclecloud.com:cx",
       "site": "CX",
       "slug": "ehtl"
+    },
+    {
+      "ats": "oracle",
+      "company": "Ithaca College",
+      "host": "ehwy.fa.us2.oraclecloud.com",
+      "key": "oracle:ehwy.fa.us2.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "ehwy"
     },
     {
       "ats": "oracle",
@@ -6442,6 +6468,12 @@
       "company": "Wings Credit Union",
       "key": "smartrecruiters:wingscreditunion",
       "slug": "WingsCreditUnion"
+    },
+    {
+      "ats": "smartrecruiters",
+      "company": "Winsupply",
+      "key": "smartrecruiters:winsupply1",
+      "slug": "Winsupply1"
     },
     {
       "ats": "smartrecruiters",
@@ -7930,6 +7962,15 @@
       "site": "blueorigin",
       "slug": "blueorigin",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Blue Owl Capital",
+      "host": "blueowl.wd1.myworkdayjobs.com",
+      "key": "workday:blueowl.wd1.myworkdayjobs.com:blueowl:blueowl",
+      "site": "blueowl",
+      "slug": "blueowl",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -11083,10 +11124,10 @@
     },
     {
       "ats": "workday",
-      "company": "Magna",
+      "company": "Magna International",
       "host": "magna.wd3.myworkdayjobs.com",
       "key": "workday:magna.wd3.myworkdayjobs.com:magna:magna",
-      "site": "magna",
+      "site": "Magna",
       "slug": "magna",
       "wd": "wd3"
     },

@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**4,349 internships · 4,607 new-grad roles · 8,956 total openings**
+**4,408 internships · 4,578 new-grad roles · 8,986 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 1,962 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 548 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 229 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 89 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,521 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 1,994 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 547 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 235 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 90 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 1,542 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 932 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,324 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,351 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 877 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,358 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,343 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -39,16 +39,16 @@ Recent internship and co-op listings that open the employer's application page d
 |---|---|---|---|---|---:|---|
 | Blue Cross Blue Shield of Michigan | 2027 Summer Intern-Information Technology | Detroit, MI, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-09-02 | **[Apply →](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14706)**<br><sub>ejko.fa.us2.oraclecloud.com</sub> |
 | Blue Origin | 2026 Intern Conversion - Aerospace Software Apps Engineer I | Seattle, WA +8 | Not listed | not available | 2026-09-02 | **[Apply →](https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Aerospace-Software-Apps-Engineer-I_R70306)**<br><sub>blueorigin.wd5.myworkdayjobs.com</sub> |
-| Blue Origin | 2026 Intern Conversion - Software Development Engineer I | Seattle, WA +8 | Not listed | not available | 2026-09-02 | **[Apply →](https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Software-Development-Engineer-I_R70275)**<br><sub>blueorigin.wd5.myworkdayjobs.com</sub> |
 | Boston Scientific | R&D Hardware Engineer Intern - Interns/Graduates | Arden Hills, MN | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813483105)**<br><sub>bostonscientific.eightfold.ai</sub> |
 | Boston Scientific | Research Algorithm & Data Science Intern - Interns/Graduates | Arden Hills, MN | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813483110)**<br><sub>bostonscientific.eightfold.ai</sub> |
 | Boston Scientific | Research Data Science Intern - Active Implantable Systems | Arden Hills, MN | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813483103)**<br><sub>bostonscientific.eightfold.ai</sub> |
 | ByteDance | Research Intern - AI-Native Databases | San Jose, CA | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://jobs.bytedance.com/en/position/7678450462765254965/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Research Intern - AI-Native Databases | Seattle, WA | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://jobs.bytedance.com/en/position/7678451067500529925/detail)**<br><sub>jobs.bytedance.com</sub> |
+| CACI | DevOps/Software Engineering Intern - Summer 2027 | Sterling, VA, US | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
+| CACI | Software Engineering Co-op - Fall 2026 | King of Prussia, PA, US | Fall 2026 | not available | 2026-09-02 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Fall-2026_331472)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
 | Celonis | Field Marketing Intern | New York, US, New York | Not listed | not stated | 2026-09-02 | **[Apply →](https://job-boards.greenhouse.io/celonis/jobs/7977884003?gh_jid=7977884003)**<br><sub>job-boards.greenhouse.io</sub> |
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-09-02 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | Corning | Digital & IT Intern - Analyst - Enterprise Data Management | Charlotte, NC | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Enterprise-Data-Management-Summer-2027-NC-28216/1425715900/?ats=successfactors)**<br><sub>corningjobs.corning.com</sub> |
-| Formlabs | Hardware Systems Integration Intern - Winter/Spring 2027 | Somerville, MA | Spring 2027 | not available | 2026-09-02 | **[Apply →](https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004)**<br><sub>careers.formlabs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
