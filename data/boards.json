@@ -4205,6 +4205,12 @@
     },
     {
       "ats": "lever",
+      "company": "EV Realty",
+      "key": "lever:evrealty-us",
+      "slug": "evrealty-us"
+    },
+    {
+      "ats": "lever",
       "company": "Extreme Networks",
       "key": "lever:extremenetworks",
       "slug": "extremenetworks"
@@ -4637,6 +4643,12 @@
     },
     {
       "ats": "lever",
+      "company": "West Yost",
+      "key": "lever:westyost",
+      "slug": "westyost"
+    },
+    {
+      "ats": "lever",
       "company": "WISEcode",
       "key": "lever:wisecode",
       "slug": "wisecode"
@@ -4788,6 +4800,14 @@
       "key": "oracle:ecsr.fa.us2.oraclecloud.com:cx_1",
       "site": "CX_1",
       "slug": "ecsr"
+    },
+    {
+      "ats": "oracle",
+      "company": "Wave Life Sciences",
+      "host": "ectf.fa.us2.oraclecloud.com",
+      "key": "oracle:ectf.fa.us2.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "ectf"
     },
     {
       "ats": "oracle",
@@ -7251,6 +7271,15 @@
       "site": "careers",
       "slug": "allegion",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Allied Solutions",
+      "host": "alliedsolutions.wd501.myworkdayjobs.com",
+      "key": "workday:alliedsolutions.wd501.myworkdayjobs.com:alliedsolutions:allied_external",
+      "site": "Allied_External",
+      "slug": "alliedsolutions",
+      "wd": "wd501"
     },
     {
       "ats": "workday",
@@ -14145,6 +14174,15 @@
       "site": "ValmontCareers",
       "slug": "valmont",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Toyota Automated Logistics",
+      "host": "vanderlande.wd3.myworkdayjobs.com",
+      "key": "workday:vanderlande.wd3.myworkdayjobs.com:vanderlande:talexternalcareers",
+      "site": "TALExternalCareers",
+      "slug": "vanderlande",
+      "wd": "wd3"
     },
     {
       "ats": "workday",

@@ -862,6 +862,14 @@
     },
     {
       "boards": [],
+      "company": "Campbell",
+      "key": "0aacd276e9d8233d374c085b",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.campbell.com/"
+    },
+    {
+      "boards": [],
       "company": "GFT",
       "key": "0acd07d088b31d51b4df0ff5",
       "last_scanned": "2026-08-23",
@@ -2224,7 +2232,7 @@
       ],
       "company": "Texas AirSystems",
       "key": "1a9ef7c893d2a2787dc176a7",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://texasairsystems.com/"
     },
@@ -3624,7 +3632,7 @@
       "company": "Nokia",
       "error": "public request failed for https://www.nokia.com/: HTTP Error 403: Forbidden",
       "key": "2ced4544077d31a1eecf34ba",
-      "last_scanned": "2026-08-31",
+      "last_scanned": "2026-09-02",
       "url": "https://www.nokia.com/"
     },
     {
@@ -4319,7 +4327,7 @@
       "company": "The University of Texas at Austin",
       "error": "public request failed for https://www.texasenterprise.utexas.edu/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.texasenterprise.utexas.edu'. (_ssl.c:1000)>",
       "key": "3385a715434fcbfe9162289a",
-      "last_scanned": "2026-08-21",
+      "last_scanned": "2026-09-02",
       "url": "https://www.texasenterprise.utexas.edu/"
     },
     {
@@ -4843,6 +4851,16 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://invioautomation.com/"
+    },
+    {
+      "boards": [
+        "workday:alliedsolutions.wd501.myworkdayjobs.com:alliedsolutions:allied_external"
+      ],
+      "company": "Allied Solutions LLC",
+      "key": "3961646274eab05c32f2ae88",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.alliedsolutions.net/"
     },
     {
       "boards": [],
@@ -5416,6 +5434,16 @@
     },
     {
       "boards": [
+        "lever:westyost"
+      ],
+      "company": "West Yost",
+      "key": "3fce26d07c2bc71cd838329f",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.westyost.com/"
+    },
+    {
+      "boards": [
         "workday:blattner.wd5.myworkdayjobs.com:blattner:blattnercompany",
         "workday:blattner.wd5.myworkdayjobs.com:blattner:blattnerenergy",
         "workday:blattner.wd5.myworkdayjobs.com:blattner:dhb"
@@ -5754,6 +5782,14 @@
       "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://prominencemedicare.com/"
+    },
+    {
+      "boards": [],
+      "company": "Bowman Consulting",
+      "key": "4433059ec968ee6c69f24480",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://bowman.com/"
     },
     {
       "boards": [],
@@ -6430,7 +6466,7 @@
       "boards": [],
       "company": "KnitWell Group",
       "key": "4b59833c98f1e0bd5811cab9",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://www.knitwellgroup.com/"
     },
@@ -11499,6 +11535,14 @@
       "url": "https://www.webmd.com/"
     },
     {
+      "boards": [],
+      "company": "Tensor Auto",
+      "key": "8121fd735e12beebfd9e6631",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.tensor.auto/"
+    },
+    {
       "company": "The Johns Hopkins University",
       "error": "public request failed for https://www.jhu.edu/: HTTP Error 403: Forbidden",
       "key": "814a8b81730cc79c9674d0da",
@@ -11755,6 +11799,16 @@
       "last_scanned": "2026-08-29",
       "resolved_roles": 0,
       "url": "https://www.pilgrims.com/"
+    },
+    {
+      "boards": [
+        "lever:evrealty-us"
+      ],
+      "company": "EV Realty",
+      "key": "84939d59dcaa7e12474056f9",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.evrealtyus.com/"
     },
     {
       "boards": [],
@@ -13441,6 +13495,16 @@
       "last_scanned": "2026-09-01",
       "resolved_roles": 0,
       "url": "https://pwc.com/"
+    },
+    {
+      "boards": [
+        "oracle:ectf.fa.us2.oraclecloud.com:cx_1"
+      ],
+      "company": "Wave Life Sciences",
+      "key": "998de0097f131fccbbe5040f",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://wavelifesciences.com/"
     },
     {
       "boards": [],
@@ -15821,7 +15885,7 @@
       "boards": [],
       "company": "Langan Engineering & Environmental Services",
       "key": "b3469241d323e0b34c8d7392",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://www.langan.com/"
     },
@@ -18773,6 +18837,16 @@
       "url": "https://www.rassey.com/"
     },
     {
+      "boards": [
+        "workday:vanderlande.wd3.myworkdayjobs.com:vanderlande:talexternalcareers"
+      ],
+      "company": "Toyota Automated Logistics",
+      "key": "d38d33a40e23097a38c2d578",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://toyota-automated-logistics.com/"
+    },
+    {
       "boards": [],
       "company": "VERO Biotech",
       "key": "d3d0579853637e627264683e",
@@ -19738,7 +19812,7 @@
       "boards": [],
       "company": "Specialisterne USA",
       "key": "dec8c2d25d0e2009dbd1d0b5",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://us.specialisterne.com/"
     },
@@ -21342,7 +21416,7 @@
       "company": "Schneider Electric",
       "error": "Invalid IPv6 URL",
       "key": "efc63904d017ad3d103211de",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-02",
       "url": "https://www.se.com/"
     },
     {
@@ -21716,7 +21790,7 @@
       "company": "Regal Rexnord",
       "error": "public request failed for https://www.regalrexnord.com/: HTTP Error 403: Forbidden",
       "key": "f30ce458f1d4d2c142267d7c",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-02",
       "url": "https://www.regalrexnord.com/"
     },
     {
@@ -22481,7 +22555,7 @@
       "company": "CSX",
       "error": "public request failed for https://www.csx.com/: HTTP Error 403: Forbidden",
       "key": "fce12ab6c52584b13f1443f1",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-02",
       "url": "https://www.csx.com/"
     },
     {
