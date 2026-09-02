@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**4,232 internships · 4,621 new-grad roles · 8,853 total openings**
+**4,271 internships · 4,592 new-grad roles · 8,863 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 1,983 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 554 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 225 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 85 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,385 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 1,960 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 551 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 226 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 84 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 1,450 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 883 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,365 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,373 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 882 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,344 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,366 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Blue Origin | 2026 Intern Conversion - Aerospace Software Apps Engineer I | Seattle, WA +8 | Not listed | not available | 2026-09-02 | **[Apply →](https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Aerospace-Software-Apps-Engineer-I_R70306)**<br><sub>blueorigin.wd5.myworkdayjobs.com</sub> |
+| Blue Origin | 2026 Intern Conversion - Software Development Engineer I | Seattle, WA +8 | Not listed | not available | 2026-09-02 | **[Apply →](https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Software-Development-Engineer-I_R70275)**<br><sub>blueorigin.wd5.myworkdayjobs.com</sub> |
 | Boston Scientific | R&D Hardware Engineer Intern - Interns/Graduates | Arden Hills, MN | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813483105)**<br><sub>bostonscientific.eightfold.ai</sub> |
 | Boston Scientific | Research Algorithm & Data Science Intern - Interns/Graduates | Arden Hills, MN | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813483110)**<br><sub>bostonscientific.eightfold.ai</sub> |
 | Boston Scientific | Research Data Science Intern - Active Implantable Systems | Arden Hills, MN | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813483103)**<br><sub>bostonscientific.eightfold.ai</sub> |
 | ByteDance | Research Intern - AI-Native Databases | San Jose, CA | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://jobs.bytedance.com/en/position/7678450462765254965/detail)**<br><sub>jobs.bytedance.com</sub> |
 | ByteDance | Research Intern - AI-Native Databases | Seattle, WA | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://jobs.bytedance.com/en/position/7678451067500529925/detail)**<br><sub>jobs.bytedance.com</sub> |
+| Celonis | Field Marketing Intern | New York, US, New York | Not listed | not stated | 2026-09-02 | **[Apply →](https://job-boards.greenhouse.io/celonis/jobs/7977884003?gh_jid=7977884003)**<br><sub>job-boards.greenhouse.io</sub> |
 | Corning | Digital & IT Intern - Analyst - Enterprise Data Management | Charlotte, NC | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Enterprise-Data-Management-Summer-2027-NC-28216/1425715900/?ats=successfactors)**<br><sub>corningjobs.corning.com</sub> |
 | Formlabs | Hardware Systems Integration Intern - Winter/Spring 2027 | Somerville, MA | Spring 2027 | not available | 2026-09-02 | **[Apply →](https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004)**<br><sub>careers.formlabs.com</sub> |
 | John Deere | Product Engineering Intern | Fargo, ND | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://johndeere.eightfold.ai/careers/job/137482769212)**<br><sub>johndeere.eightfold.ai</sub> |
 | Johns Hopkins Applied Physics Laboratory | Mission Systems Engineering Intern | Laurel, MD | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://careers.jhuapl.edu/jobs/59883?icims=1)**<br><sub>careers.jhuapl.edu</sub> |
-| Panasonic Holdings | Data Engineering Intern | Bridgeton, MO | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://careers.na.panasonic.com/jobs/50772?icims=1)**<br><sub>careers.na.panasonic.com</sub> |
-| Tesla | Machine Learning Engineer Intern - Charging Data Modeling | Palo Alto, CA | Spring 2027 | not available | 2026-09-02 | **[Apply →](https://www.tesla.com/careers/search/job/281940)**<br><sub>www.tesla.com</sub> |
-| Tesla | Physics Engine Development Engineer Intern - Optimus | Palo Alto, CA | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://www.tesla.com/careers/search/job/282147)**<br><sub>www.tesla.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
