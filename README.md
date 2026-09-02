@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**4,126 internships · 4,580 new-grad roles · 8,706 total openings**
+**4,240 internships · 4,639 new-grad roles · 8,879 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 1,888 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 556 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 222 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 82 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,378 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 1,965 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 554 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 227 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 83 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 1,411 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 862 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,356 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,362 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 877 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,376 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,386 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Aechelon Technology Inc | Summer 2027 - Electrical Engineering Co-op (June 2027) | Dallas, Texas | Summer 2027 | Expected 2026 graduation<br><sub>stated</sub> | 2026-09-01 | **[Apply →](https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6)**<br><sub>jobs.lever.co</sub> |
-| Aechelon Technology Inc | Summer 2027 - Electrical Engineering Intern | Dallas, Texas | Summer 2027 | Expected 2026 graduation<br><sub>stated</sub> | 2026-09-01 | **[Apply →](https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7)**<br><sub>jobs.lever.co</sub> |
-| AIG | Summer Intern - Data Office | Charlotte, NC, Jersey City, NJ, NYC, Parsippany-Troy Hills, NJ, Atlanta, GA | Summer 2027 | not available | 2026-09-01 | **[Apply →](https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655)**<br><sub>aig.wd1.myworkdayjobs.com</sub> |
-| AIG | Summer Intern - Data Office | Charlotte, NC, Jersey City, NJ, NYC, Parsippany-Troy Hills, NJ, Atlanta, GA | Summer 2027 | not available | 2026-09-01 | **[Apply →](https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655-1)**<br><sub>aig.wd1.myworkdayjobs.com</sub> |
-| AMD | Compiler Engineer Intern/Co-op | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-09-01 | **[Apply →](https://careers.amd.com/jobs/91865?icims=1)**<br><sub>careers.amd.com</sub> |
-| AMD | Compiler Engineer Intern/Co-op | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-09-01 | **[Apply →](https://careers.amd.com/jobs/91866?icims=1)**<br><sub>careers.amd.com</sub> |
-| AMD | Compiler Engineer Intern/Co-op | Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-09-01 | **[Apply →](https://careers.amd.com/jobs/91864?icims=1)**<br><sub>careers.amd.com</sub> |
-| AMD | Compiler Engineer Intern/Co-op - Masters | Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA | Summer 2027 | not available | 2026-09-01 | **[Apply →](https://careers.amd.com/jobs/91867?icims=1)**<br><sub>careers.amd.com</sub> |
-| American Express | Campus Graduate I Summer Internship Program - 2027 Data Science, Finance - New York, NY | New York, NY, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013190)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Campus Graduate II Summer Internship Program - 2027 Data Science, Finance - New York, NY | New York, NY, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Campus Graduate Masters Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- Charlotte, NC | Charlotte, NC, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>preferred</sub> | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012784)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Campus Graduate Masters Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- New York, NY | New York, NY, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>preferred</sub> | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012783)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| Boston Scientific | R&D Hardware Engineer Intern - Interns/Graduates | Arden Hills, MN | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813483105)**<br><sub>bostonscientific.eightfold.ai</sub> |
+| Boston Scientific | Research Data Science Intern - Active Implantable Systems | Arden Hills, MN | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813483103)**<br><sub>bostonscientific.eightfold.ai</sub> |
+| Corning | Digital & IT Intern - Analyst - Enterprise Data Management | Charlotte, NC | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Enterprise-Data-Management-Summer-2027-NC-28216/1425715900/?ats=successfactors)**<br><sub>corningjobs.corning.com</sub> |
+| Formlabs | Hardware Systems Integration Intern - Winter/Spring 2027 | Somerville, MA | Spring 2027 | not available | 2026-09-02 | **[Apply →](https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004)**<br><sub>careers.formlabs.com</sub> |
+| John Deere | Product Engineering Intern | Fargo, ND | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://johndeere.eightfold.ai/careers/job/137482769212)**<br><sub>johndeere.eightfold.ai</sub> |
+| Panasonic Holdings | Data Engineering Intern | Bridgeton, MO | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://careers.na.panasonic.com/jobs/50772?icims=1)**<br><sub>careers.na.panasonic.com</sub> |
+| Tesla | Machine Learning Engineer Intern - Charging Data Modeling | Palo Alto, CA | Spring 2027 | not available | 2026-09-02 | **[Apply →](https://www.tesla.com/careers/search/job/281940)**<br><sub>www.tesla.com</sub> |
+| Tesla | Physics Engine Development Engineer Intern - Optimus | Palo Alto, CA | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://www.tesla.com/careers/search/job/282147)**<br><sub>www.tesla.com</sub> |
+| Tesla | Robotaxi Simulation Engineer Intern - Systems Modeling & Optimization | Palo Alto, CA | Spring 2027 | not available | 2026-09-02 | **[Apply →](https://www.tesla.com/careers/search/job/281936)**<br><sub>www.tesla.com</sub> |
+| Tesla | Vehicle Software Engineer Intern - Diagnostic User Interface | Palo Alto, CA | Winter 2027 | not available | 2026-09-02 | **[Apply →](https://www.tesla.com/careers/search/job/281921)**<br><sub>www.tesla.com</sub> |
+| Textron | Aftermarket Analyst Intern | Cartersville, GA | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343153)**<br><sub>textron.taleo.net</sub> |
+| Textron | Data Product & Analytics Intern | Augusta, GA | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343181)**<br><sub>textron.taleo.net</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Accenture | Associate Software Engineer - Pega | Washington, DC | Not listed | not available | 2026-09-01 | **[Apply →](https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006)**<br><sub>boards.greenhouse.io</sub> |
-| AIG | Data Scientist Analyst - Generative AI - Data Science | Atlanta, GA | Not listed | not available | 2026-09-01 | **[Apply →](https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Gen-AI---Data-Science---United-States--Atlanta--GA_JR2603656-1)**<br><sub>aig.wd1.myworkdayjobs.com</sub> |
-| AIG | Data Scientist Analyst - Generative AI - Data Science | Atlanta, GA | Not listed | not available | 2026-09-01 | **[Apply →](https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Gen-AI---Data-Science---United-States--Atlanta--GA_JR2603656)**<br><sub>aig.wd1.myworkdayjobs.com</sub> |
-| AIG | Technology Analyst | Houston, TX, Charlotte, NC | Not listed | not available | 2026-09-01 | **[Apply →](https://aig.wd1.myworkdayjobs.com/aig/job/NC-Charlotte/XMLNAME-2027-Early-Careers--Analyst--Technology---United-States--Charlotte--NC---Houston--TX_JR2603640-1)**<br><sub>aig.wd1.myworkdayjobs.com</sub> |
-| AIG | Technology Analyst | Houston, TX, Charlotte, NC | Not listed | not available | 2026-09-01 | **[Apply →](https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/NC-Charlotte/XMLNAME-2027-Early-Careers--Analyst--Technology---United-States--Charlotte--NC---Houston--TX_JR2603640)**<br><sub>aig.wd1.myworkdayjobs.com</sub> |
-| American Express | AI Engineer | Phoenix, AZ | Not listed | not available | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013254)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | AI Engineer 1 - Enterprise Technology Services | Atlanta, GA | Not listed | not available | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013252)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | AI Engineer 1 - Enterprise Technology Services | Palo Alto, CA | Not listed | not available | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013256)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | AI Engineer 1 - Enterprise Technology Services | Atlanta, GA | Not listed | not available | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013258)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | AI Engineer 1 - Enterprise Technology Services | Palo Alto, CA | Not listed | not available | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013253)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | AI Engineer 1 - Graduate | Phoenix, AZ | Not listed | not available | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013255)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Data & Analytics Analyst - Enterprise Technology Services | Phoenix, AZ | Not listed | not available | 2026-09-01 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013281)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | AI Engineer 1 - Enterprise Technology Services | Sunrise, FL | Not listed | not available | 2026-09-02 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012985)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | AI Engineer 1 - Enterprise Technology Services | Sunrise, FL | Not listed | not available | 2026-09-02 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012988)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Data & Analytics Analyst - Enterprise Technology Services | Sunrise, FL | Not listed | not available | 2026-09-02 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013099)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Software Engineer 1 - Enterprise Technology Services | Charlotte, NC | Not listed | not available | 2026-09-02 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012869)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Software Engineer 2 - Enterprise Technology Services | Charlotte, NC | Not listed | not available | 2026-09-02 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012945)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Software Engineer 2 - Enterprise Technology Services | Sunrise, FL | Not listed | not available | 2026-09-02 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012944)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| American Express | Software Engineer Intern - Enterprise Technology Services | Sunrise, FL | Not listed | not available | 2026-09-02 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012801)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| Deloitte | AI and Data Engineering Analyst - Government & Public Services | Austin, TX | Not listed | not available | 2026-09-02 | **[Apply →](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-AI-Data-Engineering-Winter-2027/365230)**<br><sub>apply.deloitte.com</sub> |
+| Deloitte | Software Engineering Analyst - Government & Public Services | Rosslyn, Arlington, VA | Not listed | not available | 2026-09-02 | **[Apply →](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering-Winter-2027/365228)**<br><sub>apply.deloitte.com</sub> |
+| Hawk-Eye Innovations | College Sports Systems Technician - University of Washington | Seattle, WA | Not listed | not available | 2026-09-02 | **[Apply →](https://jobs.ashbyhq.com/hawkeyeinnovations/466edb26-050f-430b-b55c-dafbc5a4c239/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Hot Topic | Junior Systems Analyst - Warehouse Management System | Nashville, TN, La Vergne, TN, Riverside, CA | Not listed | not available | 2026-09-02 | **[Apply →](https://jobs.lever.co/hottopic/b006fecc-6662-4e8d-8f93-eff444c2b6e3/apply)**<br><sub>jobs.lever.co</sub> |
+| Johns Hopkins Applied Physics Laboratory | Applied Algorithms Engineer New Grad | Laurel, MD | Not listed | not available | 2026-09-02 | **[Apply →](https://careers.jhuapl.edu/jobs/59902?icims=1)**<br><sub>careers.jhuapl.edu</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

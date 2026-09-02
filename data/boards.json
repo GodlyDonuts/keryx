@@ -656,6 +656,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Hawk-Eye Innovations",
+      "key": "ashby:hawkeyeinnovations",
+      "slug": "hawkeyeinnovations"
+    },
+    {
+      "ats": "ashby",
       "company": "Heliux",
       "key": "ashby:heliux",
       "slug": "heliux"
@@ -4235,6 +4241,12 @@
     },
     {
       "ats": "lever",
+      "company": "Hot Topic",
+      "key": "lever:hottopic",
+      "slug": "hottopic"
+    },
+    {
+      "ats": "lever",
       "company": "Health Services Advisory Group",
       "key": "lever:hsag",
       "slug": "hsag"
@@ -6364,6 +6376,12 @@
       "company": "United Franchise Group",
       "key": "smartrecruiters:unitedfranchisegroup",
       "slug": "UnitedFranchiseGroup"
+    },
+    {
+      "ats": "smartrecruiters",
+      "company": "Versant",
+      "key": "smartrecruiters:versant3",
+      "slug": "Versant3"
     },
     {
       "ats": "smartrecruiters",
@@ -9997,6 +10015,15 @@
     },
     {
       "ats": "workday",
+      "company": "Gunvor",
+      "host": "gunvor.wd3.myworkdayjobs.com",
+      "key": "workday:gunvor.wd3.myworkdayjobs.com:gunvor:gunvor_careers",
+      "site": "Gunvor_Careers",
+      "slug": "gunvor",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
       "company": "GE Appliances",
       "host": "haier.wd3.myworkdayjobs.com",
       "key": "workday:haier.wd3.myworkdayjobs.com:haier:ge_appliances",
@@ -11662,6 +11689,15 @@
     },
     {
       "ats": "workday",
+      "company": "Niagara Bottling",
+      "host": "niagarawater.wd5.myworkdayjobs.com",
+      "key": "workday:niagarawater.wd5.myworkdayjobs.com:niagarawater:niagara",
+      "site": "Niagara",
+      "slug": "niagarawater",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Nidec",
       "host": "nidec.wd1.myworkdayjobs.com",
       "key": "workday:nidec.wd1.myworkdayjobs.com:nidec:nidec",
@@ -12727,7 +12763,7 @@
       "company": "Rockwell Automation",
       "host": "rockwellautomation.wd1.myworkdayjobs.com",
       "key": "workday:rockwellautomation.wd1.myworkdayjobs.com:rockwellautomation:external_rockwell_automation",
-      "site": "external_rockwell_automation",
+      "site": "External_Rockwell_Automation",
       "slug": "rockwellautomation",
       "wd": "wd1"
     },
@@ -13054,6 +13090,15 @@
       "site": "nebraskastatecareers",
       "slug": "son",
       "wd": "wd108"
+    },
+    {
+      "ats": "workday",
+      "company": "Sonoco",
+      "host": "sonoco.wd1.myworkdayjobs.com",
+      "key": "workday:sonoco.wd1.myworkdayjobs.com:sonoco:corporatecareers",
+      "site": "CorporateCareers",
+      "slug": "sonoco",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
