@@ -1454,6 +1454,12 @@
     },
     {
       "ats": "ashby",
+      "company": "thatgamecompany",
+      "key": "ashby:thatgamecompany",
+      "slug": "thatgamecompany"
+    },
+    {
+      "ats": "ashby",
       "company": "The Browser Company",
       "key": "ashby:the%20browser%20company",
       "slug": "the%20browser%20company"
@@ -1684,6 +1690,13 @@
       "host": "asuresoftware.bamboohr.com",
       "key": "bamboohr:asuresoftware",
       "slug": "asuresoftware"
+    },
+    {
+      "ats": "bamboohr",
+      "company": "Berkshire Grey",
+      "host": "berkshiregrey.bamboohr.com",
+      "key": "bamboohr:berkshiregrey",
+      "slug": "berkshiregrey"
     },
     {
       "ats": "bamboohr",
@@ -5116,6 +5129,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Architecture49 Inc.",
+      "host": "emit.fa.ca3.oraclecloud.com",
+      "key": "oracle:emit.fa.ca3.oraclecloud.com:cx_1004",
+      "site": "CX_1004",
+      "slug": "emit"
+    },
+    {
+      "ats": "oracle",
       "company": "WSP",
       "host": "emit.fa.ca3.oraclecloud.com",
       "key": "oracle:emit.fa.ca3.oraclecloud.com:cx_2001",
@@ -5129,6 +5150,14 @@
       "key": "oracle:emje.fa.us6.oraclecloud.com:cx_1001",
       "site": "CX_1001",
       "slug": "emje"
+    },
+    {
+      "ats": "oracle",
+      "company": "Skidmore College",
+      "host": "eodq.fa.us6.oraclecloud.com",
+      "key": "oracle:eodq.fa.us6.oraclecloud.com:cx",
+      "site": "CX",
+      "slug": "eodq"
     },
     {
       "ats": "oracle",
@@ -6296,6 +6325,12 @@
     },
     {
       "ats": "smartrecruiters",
+      "company": "Syngenta Group",
+      "key": "smartrecruiters:syngentagroup",
+      "slug": "SyngentaGroup"
+    },
+    {
+      "ats": "smartrecruiters",
       "company": "Tech Tammina",
       "key": "smartrecruiters:tectammina",
       "slug": "TecTammina"
@@ -6602,6 +6637,12 @@
     },
     {
       "ats": "workable",
+      "company": "OnLogic",
+      "key": "workable:onlogic-inc",
+      "slug": "onlogic-inc"
+    },
+    {
+      "ats": "workable",
       "company": "OptiTrack",
       "key": "workable:optitrack",
       "slug": "optitrack"
@@ -6761,6 +6802,12 @@
       "company": "Turabify",
       "key": "workable:turabify-co",
       "slug": "turabify-co"
+    },
+    {
+      "ats": "workable",
+      "company": "TWG Global",
+      "key": "workable:twgai",
+      "slug": "twgai"
     },
     {
       "ats": "workable",
@@ -12209,10 +12256,10 @@
     },
     {
       "ats": "workday",
-      "company": "Poet",
+      "company": "POET",
       "host": "poet.wd1.myworkdayjobs.com",
       "key": "workday:poet.wd1.myworkdayjobs.com:poet:poet",
-      "site": "poet",
+      "site": "POET",
       "slug": "poet",
       "wd": "wd1"
     },
@@ -13325,6 +13372,15 @@
     },
     {
       "ats": "workday",
+      "company": "TravisMathew",
+      "host": "tcbrands.wd1.myworkdayjobs.com",
+      "key": "workday:tcbrands.wd1.myworkdayjobs.com:tcbrands:travismathew-careers",
+      "site": "TravisMathew-Careers",
+      "slug": "tcbrands",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "TC Energy",
       "host": "tcenergy.wd3.myworkdayjobs.com",
       "key": "workday:tcenergy.wd3.myworkdayjobs.com:tcenergy:career_site_tc",
@@ -13382,7 +13438,7 @@
       "company": "Texas Capital Bank",
       "host": "texascapitalbank.wd12.myworkdayjobs.com",
       "key": "workday:texascapitalbank.wd12.myworkdayjobs.com:texascapitalbank:careers",
-      "site": "Careers",
+      "site": "careers",
       "slug": "texascapitalbank",
       "wd": "wd12"
     },
@@ -13925,6 +13981,15 @@
       "site": "valeo_jobs",
       "slug": "valeo",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Valmont Industries, Inc.",
+      "host": "valmont.wd1.myworkdayjobs.com",
+      "key": "workday:valmont.wd1.myworkdayjobs.com:valmont:valmontcareers",
+      "site": "ValmontCareers",
+      "slug": "valmont",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
