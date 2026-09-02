@@ -713,7 +713,7 @@
       "company": "Michelin",
       "error": "Invalid IPv6 URL",
       "key": "08f88b5076479643f46443da",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-02",
       "url": "https://www.michelin.com/"
     },
     {
@@ -3788,9 +3788,9 @@
     },
     {
       "boards": [],
-      "company": "Verition Fund Management LLC",
+      "company": "Verition",
       "key": "2f696e7c1e7961fc3b6622fd",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://www.verition.com/"
     },
@@ -4853,6 +4853,14 @@
       "url": "https://insight2profit.com/"
     },
     {
+      "boards": [],
+      "company": "Cheiron",
+      "key": "3aa4eaefc920342dad3011fd",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.cheiron.bio/"
+    },
+    {
       "company": "Textron Systems",
       "error": "public request failed for https://www.textronmarineandland.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.textronmarineandland.com'. (_ssl.c:1000)>",
       "key": "3ab50321e98ea6c2850eb8f2",
@@ -5102,6 +5110,14 @@
       "last_scanned": "2026-08-29",
       "resolved_roles": 0,
       "url": "https://www.vertafore.com/"
+    },
+    {
+      "boards": [],
+      "company": "Corvid Technologies",
+      "key": "3e01fccca114daf6e7a0239b",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://corvidtec.com/"
     },
     {
       "boards": [],
@@ -5897,6 +5913,14 @@
       "url": "https://www.constellationenergy.com/"
     },
     {
+      "boards": [],
+      "company": "K3-Innovations, Inc.",
+      "key": "483a46dd9a65e24c2cf937ed",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://k3-innovations.com/"
+    },
+    {
       "company": "Old Woman Creek National Estuarine Research Reserve",
       "error": "public request failed for https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr: HTTP Error 404: Not Found",
       "key": "484056cd29e7a932d2f9092a",
@@ -6025,7 +6049,7 @@
       "company": "MITRE",
       "error": "public request failed for https://www.mitre.org/: HTTP Error 403: Forbidden",
       "key": "49727d1a44dd2aaff05a26a7",
-      "last_scanned": "2026-08-31",
+      "last_scanned": "2026-09-02",
       "url": "https://www.mitre.org/"
     },
     {
@@ -8671,6 +8695,14 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.oppd.com/"
+    },
+    {
+      "boards": [],
+      "company": "Lambda Capital",
+      "key": "6556f125d1d5953d63b4c683",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.lambdavp.com/"
     },
     {
       "boards": [
@@ -11495,6 +11527,13 @@
       "url": "https://www.voloridge.com/index.aspx"
     },
     {
+      "company": "Altera",
+      "error": "public request failed for https://www.altera.com/: HTTP Error 403: Forbidden",
+      "key": "86b757ddfef1ab2cf7540192",
+      "last_scanned": "2026-09-02",
+      "url": "https://www.altera.com/"
+    },
+    {
       "boards": [],
       "company": "IXL Learning",
       "key": "86b7bf51cc83e0c1e83cc192",
@@ -12666,6 +12705,13 @@
       "url": "https://www.l3harris.com/"
     },
     {
+      "company": "Armadin",
+      "error": "public request failed for https://www.armadin.com/: HTTP Error 403: Forbidden",
+      "key": "9462d1b7d8d043eb6267747a",
+      "last_scanned": "2026-09-02",
+      "url": "https://www.armadin.com/"
+    },
+    {
       "boards": [],
       "company": "Clera",
       "key": "94667932175578b2e4e05d6c",
@@ -13385,7 +13431,7 @@
       "company": "The Global Institute for Health and Human Rights",
       "error": "public request failed for https://www.albany.edu/gihhr/: HTTP Error 404: Not Found",
       "key": "9eb40a2e20d1ea28bb896e0b",
-      "last_scanned": "2026-08-27",
+      "last_scanned": "2026-09-02",
       "url": "https://www.albany.edu/gihhr/"
     },
     {
@@ -14204,6 +14250,14 @@
     },
     {
       "boards": [],
+      "company": "University of Oklahoma",
+      "key": "a6ba023633f727c93c424fbe",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.ou.edu/"
+    },
+    {
+      "boards": [],
       "company": "Civ Robotics",
       "key": "a6d6de20842417c501f3cb99",
       "last_scanned": "2026-08-28",
@@ -14326,7 +14380,7 @@
       "company": "T-Mobile",
       "error": "Invalid IPv6 URL",
       "key": "a8106192bed87328c0610b3f",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-09-02",
       "url": "https://www.t-mobile.com/"
     },
     {
@@ -15626,6 +15680,14 @@
     },
     {
       "boards": [],
+      "company": "Sensiba LLP",
+      "key": "b6c8c597a254a10192d56458",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.sensiba.com/"
+    },
+    {
+      "boards": [],
       "company": "ChenMed",
       "key": "b6dffd9b15814692a07e021f",
       "last_scanned": "2026-08-30",
@@ -15842,6 +15904,14 @@
       "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://www.maximor.ai/"
+    },
+    {
+      "boards": [],
+      "company": "Freudenberg Sealing Technologies",
+      "key": "b98a41f0bdafbf439c56e866",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://www.fst.com/"
     },
     {
       "boards": [
@@ -19930,7 +20000,7 @@
       "company": "Knowesis Inc.",
       "error": "Invalid IPv6 URL",
       "key": "e93b7d34f5e5c97c54372bad",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-02",
       "url": "https://www.knowesis-inc.com/"
     },
     {
@@ -20069,7 +20139,7 @@
       "company": "NetApp",
       "error": "public request failed for https://www.netapp.com/: HTTP Error 403: Forbidden",
       "key": "ea93c2dda51f4733bfae8226",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-02",
       "url": "https://netapp.com/"
     },
     {
@@ -20610,7 +20680,7 @@
       "company": "Gartner",
       "error": "public request failed for https://www.gartner.com/: HTTP Error 403: Forbidden",
       "key": "efd334a875d97b8825f47c8c",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-02",
       "url": "https://www.gartner.com/"
     },
     {
@@ -21093,7 +21163,7 @@
       "company": "Super Micro Computer Spain, S.L.",
       "error": "public request failed for https://www.supermicro.es/: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)>",
       "key": "f45447bf27f7ecbd76dd768e",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-02",
       "url": "https://www.supermicro.es/"
     },
     {
@@ -21371,7 +21441,7 @@
       "company": "IGT",
       "error": "public request failed for https://www.probability.co.uk/: <urlopen error timed out>",
       "key": "f82c3b6c4dee339df97dc9de",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-02",
       "url": "https://www.probability.co.uk/"
     },
     {
@@ -21511,7 +21581,7 @@
       "boards": [],
       "company": "Koch Engineered Solutions",
       "key": "fadab2248ec1eee86e97154f",
-      "last_scanned": "2026-08-20",
+      "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://www.kochengineeredsolutions.com/"
     },
@@ -21572,14 +21642,14 @@
       "company": "Hewlett Packard Enterprise",
       "error": "public request failed for https://www.hpe.com/: The read operation timed out",
       "key": "fb9d829f215a3234760b16c3",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-02",
       "url": "https://www.hpe.com/"
     },
     {
       "company": "Medline",
       "error": "public request failed for https://www.medline.com/home.jsp: HTTP Error 403: Forbidden",
       "key": "fba9f138ac3501568473f595",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-02",
       "url": "https://www.medline.com/home.jsp"
     },
     {
@@ -21824,8 +21894,16 @@
       "company": "Corning Incorporated",
       "error": "public request failed for https://www.corning.com/: HTTP Error 403: Forbidden",
       "key": "fdd9fdefbf94bcc1eb6163ea",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-02",
       "url": "https://www.corning.com/"
+    },
+    {
+      "boards": [],
+      "company": "CIL Strategy Consultants",
+      "key": "fdea35464ad0181e52b6a9b4",
+      "last_scanned": "2026-09-02",
+      "resolved_roles": 0,
+      "url": "https://cil.com/us/home"
     },
     {
       "boards": [],
@@ -21947,7 +22025,7 @@
       "boards": [],
       "company": "GALLO",
       "key": "ff56fb717d1c856eaaf11df0",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://www.gallocareers.com/"
     },

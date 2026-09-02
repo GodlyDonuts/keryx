@@ -6751,7 +6751,7 @@
     },
     {
       "ats": "workable",
-      "company": "talentpluto",
+      "company": "Talentpluto",
       "key": "workable:talentpluto",
       "slug": "talentpluto"
     },
@@ -7204,6 +7204,15 @@
       "site": "allstate_careers",
       "slug": "allstate",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Altera Corporation",
+      "host": "altera.wd1.myworkdayjobs.com",
+      "key": "workday:altera.wd1.myworkdayjobs.com:altera:altera",
+      "site": "altera",
+      "slug": "altera",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -11329,6 +11338,15 @@
     },
     {
       "ats": "workday",
+      "company": "Michelin",
+      "host": "michelinhr.wd3.myworkdayjobs.com",
+      "key": "workday:michelinhr.wd3.myworkdayjobs.com:michelinhr:michelin",
+      "site": "Michelin",
+      "slug": "michelinhr",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
       "company": "Microchip Technology",
       "host": "microchiphr.wd5.myworkdayjobs.com",
       "key": "workday:microchiphr.wd5.myworkdayjobs.com:microchiphr:external",
@@ -12499,10 +12517,10 @@
     },
     {
       "ats": "workday",
-      "company": "Raymond James Financial",
+      "company": "Raymond James",
       "host": "raymondjames.wd1.myworkdayjobs.com",
       "key": "workday:raymondjames.wd1.myworkdayjobs.com:raymondjames:raymondjamesearlycareers",
-      "site": "RaymondJamesEarlyCareers",
+      "site": "raymondjamesearlycareers",
       "slug": "raymondjames",
       "wd": "wd1"
     },
