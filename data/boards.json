@@ -104,6 +104,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Arch",
+      "key": "ashby:arch.co",
+      "slug": "arch.co"
+    },
+    {
+      "ats": "ashby",
       "company": "Architect Labs",
       "key": "ashby:architect",
       "slug": "architect"
@@ -532,7 +538,7 @@
       "ats": "ashby",
       "company": "Flock Safety",
       "key": "ashby:flock%20safety",
-      "slug": "Flock%20Safety"
+      "slug": "flock%20safety"
     },
     {
       "ats": "ashby",
@@ -3114,6 +3120,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "LG Electronics",
+      "key": "greenhouse:lgelectronics",
+      "slug": "lgelectronics"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Lila Sciences",
       "key": "greenhouse:lilasciences",
       "slug": "lilasciences"
@@ -3840,7 +3852,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "Trusted Concepts, Inc.",
+      "company": "Two Six Technologies",
       "key": "greenhouse:twosixtechnologies",
       "slug": "twosixtechnologies"
     },
@@ -3975,6 +3987,12 @@
       "company": "Waymark",
       "key": "greenhouse:waymark",
       "slug": "waymark"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Waymo",
+      "key": "greenhouse:waymo",
+      "slug": "waymo"
     },
     {
       "ats": "greenhouse",
@@ -4707,6 +4725,12 @@
       "company": "Voltus",
       "key": "lever:voltus",
       "slug": "voltus"
+    },
+    {
+      "ats": "lever",
+      "company": "Wade Trim",
+      "key": "lever:wadetrim",
+      "slug": "wadetrim"
     },
     {
       "ats": "lever",
@@ -5846,6 +5870,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Arconic",
+      "host": "hdnn.fa.us6.oraclecloud.com",
+      "key": "oracle:hdnn.fa.us6.oraclecloud.com:cx",
+      "site": "CX",
+      "slug": "hdnn"
+    },
+    {
+      "ats": "oracle",
       "company": "Newmark Group",
       "host": "hdow.fa.us6.oraclecloud.com",
       "key": "oracle:hdow.fa.us6.oraclecloud.com:cx_1001",
@@ -6352,6 +6384,12 @@
     },
     {
       "ats": "smartrecruiters",
+      "company": "MSX International",
+      "key": "smartrecruiters:msxinternational",
+      "slug": "MSXInternational"
+    },
+    {
+      "ats": "smartrecruiters",
       "company": "Myriad Genetics",
       "key": "smartrecruiters:myriadgenetics1",
       "slug": "MyriadGenetics1"
@@ -6583,6 +6621,12 @@
       "company": "Texas Water Development Board",
       "key": "smartrecruiters:texaswaterdevelopmentboardtwdb",
       "slug": "TexasWaterDevelopmentBoardTWDB"
+    },
+    {
+      "ats": "smartrecruiters",
+      "company": "Iteris",
+      "key": "smartrecruiters:trafficcast",
+      "slug": "TrafficCast"
     },
     {
       "ats": "smartrecruiters",
@@ -9160,10 +9204,10 @@
     },
     {
       "ats": "workday",
-      "company": "Cox Automotive",
+      "company": "Cox",
       "host": "cox.wd1.myworkdayjobs.com",
       "key": "workday:cox.wd1.myworkdayjobs.com:cox:cox_external_career_site_1",
-      "site": "Cox_External_Career_Site_1",
+      "site": "cox_external_career_site_1",
       "slug": "cox",
       "wd": "wd1"
     },
@@ -12733,10 +12777,10 @@
     },
     {
       "ats": "workday",
-      "company": "Poet",
+      "company": "POET",
       "host": "poet.wd1.myworkdayjobs.com",
       "key": "workday:poet.wd1.myworkdayjobs.com:poet:poet",
-      "site": "poet",
+      "site": "POET",
       "slug": "poet",
       "wd": "wd1"
     },
@@ -13729,6 +13773,15 @@
       "site": "stv",
       "slug": "stvinc",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Sulzer",
+      "host": "sulzer.wd502.myworkdayjobs.com",
+      "key": "workday:sulzer.wd502.myworkdayjobs.com:sulzer:sulzerjobs",
+      "site": "SulzerJobs",
+      "slug": "sulzer",
+      "wd": "wd502"
     },
     {
       "ats": "workday",
