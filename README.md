@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**4,391 internships · 4,550 new-grad roles · 8,941 total openings**
+**4,401 internships · 4,551 new-grad roles · 8,952 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,002 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 547 | **[View openings →](internships/fall-2026.md)** |
+| ☀️ Summer 2027 | 2,004 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 548 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 239 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 86 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,517 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 1,524 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 888 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,321 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,341 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 1,334 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,329 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -45,10 +45,10 @@ Recent internship and co-op listings that open the employer's application page d
 | Allied Solutions | Software Delivery Management Intern | Carmel, IN | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086)**<br><sub>alliedsolutions.wd501.myworkdayjobs.com</sub> |
 | Allied Solutions | Software Engineering Intern | Carmel, IN | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Engineering-Intern_R-011087)**<br><sub>alliedsolutions.wd501.myworkdayjobs.com</sub> |
 | Blue Cross Blue Shield of Michigan | 2027 Summer Intern-Information Technology | Detroit, MI, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-09-02 | **[Apply →](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14706)**<br><sub>ejko.fa.us2.oraclecloud.com</sub> |
+| Bosch | Intern- Plastics Process Engineer | Albion, IN, us | Not listed | not available | 2026-09-02 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000147075639)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Boston Scientific | R&D Hardware Engineer Intern - Interns/Graduates | Arden Hills, MN | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813483105)**<br><sub>bostonscientific.eightfold.ai</sub> |
 | Boston Scientific | Research Algorithm & Data Science Intern - Interns/Graduates | Arden Hills, MN | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813483110)**<br><sub>bostonscientific.eightfold.ai</sub> |
 | Boston Scientific | Research Data Science Intern - Active Implantable Systems | Arden Hills, MN | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813483103)**<br><sub>bostonscientific.eightfold.ai</sub> |
-| ByteDance | Research Intern - AI-Native Databases | San Jose, CA | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://jobs.bytedance.com/en/position/7678450462765254965/detail)**<br><sub>jobs.bytedance.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
