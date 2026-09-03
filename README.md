@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**4,403 internships · 4,567 new-grad roles · 8,970 total openings**
+**4,488 internships · 4,619 new-grad roles · 9,107 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,003 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 550 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 239 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 2,056 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 576 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 250 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 86 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,525 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 1,520 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 888 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,327 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,352 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 890 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,334 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,395 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Hermeus | Software Engineering Intern (Command & Control) - Spring/Summer 2027 | Atlanta, GA | Summer 2027 | Current student status<br><sub>required</sub> | 2026-09-03 | **[Apply →](https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796)**<br><sub>jobs.lever.co</sub> |
-| Vertiv | Mechanical Engineering Intern (Summer 2027) | Westerville, OH, United States | Summer 2027 | not stated | 2026-09-03 | **[Apply →](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279242)**<br><sub>egup.fa.us2.oraclecloud.com</sub> |
-| Allied Solutions | AI Solutions Intern | Carmel, IN | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/AI-Solutions-Intern_R-011074)**<br><sub>alliedsolutions.wd501.myworkdayjobs.com</sub> |
-| Allied Solutions | Data Governance Intern | St. Paul, MN | Not listed | not available | 2026-09-02 | **[Apply →](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Data-Governance-Intern_R-011076)**<br><sub>alliedsolutions.wd501.myworkdayjobs.com</sub> |
-| Allied Solutions | Data Science Intern | Carmel, IN | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-Science-Intern_R-011077)**<br><sub>alliedsolutions.wd501.myworkdayjobs.com</sub> |
-| Allied Solutions | IT Performance Analyst Intern | Carmel, IN | Not listed | not available | 2026-09-02 | **[Apply →](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/IT-Performance-Analyst-Intern_R-011082)**<br><sub>alliedsolutions.wd501.myworkdayjobs.com</sub> |
-| Allied Solutions | Product Management Intern - Risk Management | St. Paul, MN | Not listed | not available | 2026-09-02 | **[Apply →](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083)**<br><sub>alliedsolutions.wd501.myworkdayjobs.com</sub> |
-| Allied Solutions | Software Delivery Management Intern | Carmel, IN | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086)**<br><sub>alliedsolutions.wd501.myworkdayjobs.com</sub> |
-| Allied Solutions | Software Engineering Intern | Carmel, IN | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Engineering-Intern_R-011087)**<br><sub>alliedsolutions.wd501.myworkdayjobs.com</sub> |
-| Blue Cross Blue Shield of Michigan | 2027 Summer Intern-Information Technology | Detroit, MI, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-09-02 | **[Apply →](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14706)**<br><sub>ejko.fa.us2.oraclecloud.com</sub> |
-| Bosch | Intern- Plastics Process Engineer | Albion, IN, us | Not listed | not available | 2026-09-02 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000147075639)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Boston Scientific | R&D Hardware Engineer Intern - Interns/Graduates | Arden Hills, MN | Summer 2027 | not available | 2026-09-02 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813483105)**<br><sub>bostonscientific.eightfold.ai</sub> |
+| Apex | Software Engineer Intern - Embedded Systems | LA | Summer 2027 | not available | 2026-09-03 | **[Apply →](https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Hermeus | Software Engineer Intern - Command & Control | Atlanta, GA | Summer 2027 | Current student status<br><sub>required</sub> | 2026-09-03 | **[Apply →](https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796/apply)**<br><sub>jobs.lever.co</sub> |
+| Johns Hopkins Applied Physics Laboratory | Acoustic Algorithm Development Engineer Intern | Laurel, MD | Summer 2027 | not available | 2026-09-03 | **[Apply →](https://careers.jhuapl.edu/jobs/59784?icims=1)**<br><sub>careers.jhuapl.edu</sub> |
+| Kinder Morgan | Intern - IT | Colorado Springs, CO | Summer 2027 | not available | 2026-09-03 | **[Apply →](https://careers.kindermorgan.com/jobs/6171?icims=1)**<br><sub>careers.kindermorgan.com</sub> |
+| National Information Solutions Cooperative | Data Engineer Intern | Lake St Louis, MO | Summer 2027 | not available | 2026-09-03 | **[Apply →](https://job-boards.greenhouse.io/testnisc/jobs/8167884)**<br><sub>job-boards.greenhouse.io</sub> |
+| National Information Solutions Cooperative | Data Engineer Intern | Lake St Louis, MO, Mandan, ND, Cedar Rapids, IA | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-03 | **[Apply →](https://job-boards.greenhouse.io/nisc/jobs/8167858)**<br><sub>job-boards.greenhouse.io</sub> |
+| National Information Solutions Cooperative | Data Engineer Intern | Lake St Louis, MO, Mandan, ND, Cedar Rapids, IA | Summer 2027 | not available | 2026-09-03 | **[Apply →](https://job-boards.greenhouse.io/testnisc/jobs/8167883)**<br><sub>job-boards.greenhouse.io</sub> |
+| National Information Solutions Cooperative | Software Development Intern | Lake St Louis, MO, Mandan, ND, Cedar Rapids, IA | Summer 2027 | not stated | 2026-09-03 | **[Apply →](https://job-boards.greenhouse.io/nisc/jobs/8092699)**<br><sub>job-boards.greenhouse.io</sub> |
+| National Information Solutions Cooperative | Software Development Intern | Lake St Louis, MO | Summer 2027 | not available | 2026-09-03 | **[Apply →](https://job-boards.greenhouse.io/testnisc/jobs/8174090)**<br><sub>job-boards.greenhouse.io</sub> |
+| National Information Solutions Cooperative | Software Development Intern | Lake St Louis, MO, Mandan, ND, Cedar Rapids, IA | Summer 2027 | not available | 2026-09-03 | **[Apply →](https://job-boards.greenhouse.io/testnisc/jobs/8174088)**<br><sub>job-boards.greenhouse.io</sub> |
+| Oceanus Marine Technologies | Software Engineer Intern | El Segundo, CA | Fall 2026 | not available | 2026-09-03 | **[Apply →](https://jobs.ashbyhq.com/oceanus/c16078ab-131c-461e-9049-b094633ae41b/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| RSM | Enterprise Data Integration and Migration Consulting Intern - Summer 2027 | USA-TX-Dallas-13155 Noel Road | Summer 2027 | not available | 2026-09-03 | **[Apply →](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/USA-TX-Dallas-13155-Noel-Road/Enterprise-Data-Integration-and-Migration-Consulting-Intern---Summer-2027_JR116784)**<br><sub>rsm.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Rivian | Software Engineer - Enterprise Software | Normal, IL, Plymouth, MI, Atlanta, GA | Not listed | not available | 2026-09-03 | **[Apply →](https://careers.rivian.com/jobs/30795?icims=1)**<br><sub>careers.rivian.com</sub> |
-| Amentum | C/C++ Software Developer | Dahlgren, VA | 2027 | not available | 2026-09-02 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C-C---Software-Developer_R0168336)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
-| American Express | AI Engineer 1 - Enterprise Technology Services | Sunrise, FL | Not listed | not available | 2026-09-02 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012985)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | AI Engineer 1 - Enterprise Technology Services | Sunrise, FL | Not listed | not available | 2026-09-02 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012988)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Data & Analytics Analyst - Enterprise Technology Services | Sunrise, FL | Not listed | not available | 2026-09-02 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013099)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Software Engineer 1 - Enterprise Technology Services | Charlotte, NC | Not listed | not available | 2026-09-02 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012869)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Software Engineer 2 - Enterprise Technology Services | Charlotte, NC | Not listed | not available | 2026-09-02 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012945)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Software Engineer 2 - Enterprise Technology Services | Sunrise, FL | Not listed | not available | 2026-09-02 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012944)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Software Engineer Intern - Enterprise Technology Services | Sunrise, FL | Not listed | not available | 2026-09-02 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012801)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| Anduril | 2027 Early Career Flight Software Engineer | Costa Mesa, California, United States | 2027 | not stated | 2026-09-02 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007)**<br><sub>boards.greenhouse.io</sub> |
-| Bluehawk | Exploitation Specialist - Data Scientist | Springfield, VA | Not listed | not available | 2026-09-02 | **[Apply →](https://careers-bluehawk.icims.com/jobs/2898/job?mobile=true&needsRedirect=false)**<br><sub>careers-bluehawk.icims.com</sub> |
-| Boeing | Software Engineer - Associate or Experienced | Seal Beach, CA | 2027 | not available | 2026-09-02 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Seal-Beach-CA/Software-Engineer--Associate-or-Experienced-_JR2026520956-1)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
+| Accenture | Data Engineer | Tampa, FL | Not listed | not available | 2026-09-03 | **[Apply →](https://boards.greenhouse.io/accenturefederalservices/jobs/4710646006)**<br><sub>boards.greenhouse.io</sub> |
+| Anduril | Early Career Flight Software Engineer | Costa Mesa, CA | Not listed | not stated | 2026-09-03 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5228868007)**<br><sub>boards.greenhouse.io</sub> |
+| Applied Intuition | Forward Deployed Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-09-03 | **[Apply →](https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Aramark | Junior Data Engineer | Rockville, MD | Not listed | not available | 2026-09-03 | **[Apply →](https://aramarkcareers.com/UnitedStates/job/Rockville-Jr_-Data-Engineer-MD-20850/1426145000/?ats=successfactors)**<br><sub>aramarkcareers.com</sub> |
+| Boston Scientific | Software Engineer 1 - Engineering | Arden Hills, MN | Not listed | not available | 2026-09-03 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813508995)**<br><sub>bostonscientific.eightfold.ai</sub> |
+| CTG | Data Modeler / Data Architect - Snowflake & Data Warehousing | Remote in USA | Not listed | not available | 2026-09-03 | **[Apply →](https://careers.ctg.com/jobs/17509?icims=1)**<br><sub>careers.ctg.com</sub> |
+| General Dynamics Mission Systems | Engineering Leadership Program Engineer - Class of 2027 | Orlando, FL | 2027 | not available | 2026-09-03 | **[Apply →](https://careers-gdms.icims.com/jobs/74727/job?mobile=true&needsRedirect=false)**<br><sub>careers-gdms.icims.com</sub> |
+| Handshake | AI Model Policy Trainer - Image Evaluation | Seattle, WA | Not listed | not available | 2026-09-03 | **[Apply →](https://jobs.ashbyhq.com/handshake/2c10a785-ad18-4fd7-8148-995ad76f3e7d/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| L3Harris Technologies | Software Engineer | Salt Lake City, UT | Not listed | not available | 2026-09-03 | **[Apply →](https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-UT-84116/1425935000/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
+| Lyte AI | Optical System Integration Engineer - System Optics | Sunnyvale, CA | Not listed | not available | 2026-09-03 | **[Apply →](https://ats.rippling.com/lyte/jobs/6136b8d2-90a9-449e-94b2-716f30cf8e3a)**<br><sub>ats.rippling.com</sub> |
+| Opiniion | Analytics Platform Developer | Lehi, UT | Not listed | not available | 2026-09-03 | **[Apply →](https://ats.rippling.com/opiniion/jobs/2a03df8c-16d2-4e92-be4c-7fabc4773e4a)**<br><sub>ats.rippling.com</sub> |
+| PQ | AI-Augmented Software Engineer | Malvern, PA | Not listed | not available | 2026-09-03 | **[Apply →](https://jobs.smartrecruiters.com/PQ/744000147064769)**<br><sub>jobs.smartrecruiters.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

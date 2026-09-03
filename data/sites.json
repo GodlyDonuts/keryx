@@ -3476,7 +3476,7 @@
       "boards": [],
       "company": "Bobcat Company",
       "key": "2b20bee94376b0d846bb59a4",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-09-03",
       "resolved_roles": 0,
       "url": "https://www.bobcat.com/"
     },
@@ -5329,6 +5329,14 @@
     },
     {
       "boards": [],
+      "company": "Siemens Digital Industries Software",
+      "key": "3df96d1466910b4200059b5a",
+      "last_scanned": "2026-09-03",
+      "resolved_roles": 0,
+      "url": "https://www.sw.siemens.com/"
+    },
+    {
+      "boards": [],
       "company": "Vertafore",
       "key": "3dffc49a64e43151d38e211b",
       "last_scanned": "2026-08-29",
@@ -6078,7 +6086,7 @@
       "boards": [],
       "company": "Castle Megastore Group, Inc.",
       "key": "46d00850ab064c0ca8243026",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-09-03",
       "resolved_roles": 0,
       "url": "https://www.castlemegastore.com/"
     },
@@ -6560,7 +6568,7 @@
       "company": "American Structurepoint",
       "error": "Invalid IPv6 URL",
       "key": "4b810c5048a171d53eacfe30",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-03",
       "url": "https://structurepoint.com/"
     },
     {
@@ -8292,7 +8300,7 @@
       "company": "The Lubrizol Corporation",
       "error": "public request failed for https://www.lubrizol.com/: HTTP Error 403: Forbidden",
       "key": "5c5018f56c6e0ced813da282",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-09-03",
       "url": "https://www.lubrizol.com/"
     },
     {
@@ -12394,7 +12402,7 @@
       ],
       "company": "Ria Money Transfer",
       "key": "8a04db612815b747e7249712",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-09-03",
       "resolved_roles": 0,
       "url": "https://in.riafinancial.com/home"
     },
@@ -13622,6 +13630,16 @@
       "url": "https://www.grantthornton.co.im/"
     },
     {
+      "boards": [
+        "workday:cambiahealth.wd504.myworkdayjobs.com:cambiahealth:external"
+      ],
+      "company": "Cambia Health Solutions",
+      "key": "9917aa04893451db78a88155",
+      "last_scanned": "2026-09-03",
+      "resolved_roles": 0,
+      "url": "https://www.cambiahealth.com/"
+    },
+    {
       "boards": [],
       "company": "iA",
       "key": "991a3a58cda489e6ff69b72d",
@@ -14381,7 +14399,7 @@
       "boards": [],
       "company": "Pacific Northwest National Laboratory",
       "key": "a195418bdb1e35e9ba623c52",
-      "last_scanned": "2026-08-21",
+      "last_scanned": "2026-09-03",
       "resolved_roles": 0,
       "url": "https://www.pnnl.gov/"
     },
@@ -17164,6 +17182,14 @@
       "url": "https://www.kkr.com/"
     },
     {
+      "boards": [],
+      "company": "BluePill AI",
+      "key": "bfd190d17b6b726bbe30e9c7",
+      "last_scanned": "2026-09-03",
+      "resolved_roles": 0,
+      "url": "https://blue-pill.ai/"
+    },
+    {
       "boards": [
         "workday:cae.wd3.myworkdayjobs.com:cae:career"
       ],
@@ -18915,6 +18941,13 @@
       "url": "https://www.wakehealth.edu/"
     },
     {
+      "company": "Minnesota IT Services",
+      "error": "public requests require HTTPS and a hostname",
+      "key": "d270d2ab1561f686aacc1920",
+      "last_scanned": "2026-09-03",
+      "url": "https://mn.gov/mnit"
+    },
+    {
       "boards": [],
       "company": "Samtec Inc",
       "key": "d28e9cc39dfca5b4b90d6558",
@@ -19340,7 +19373,7 @@
       "company": "ABB",
       "error": "public request failed for https://www.abb.com/global/en: The read operation timed out",
       "key": "d6f42a2109607bc74736215f",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-03",
       "url": "https://global.abb/group/en"
     },
     {
@@ -19577,7 +19610,7 @@
       "boards": [],
       "company": "Mott MacDonald",
       "key": "da123dd2c7202f98e668a26b",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-09-03",
       "resolved_roles": 0,
       "url": "https://www.mottmac.com/hungary"
     },
@@ -20446,6 +20479,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.balfourbeattyus.com/"
+    },
+    {
+      "boards": [],
+      "company": "ingredients PLUS",
+      "key": "e427957c7948207b1fa2f92e",
+      "last_scanned": "2026-09-03",
+      "resolved_roles": 0,
+      "url": "https://www.ingredientsplus.com/"
     },
     {
       "boards": [],
@@ -22168,7 +22209,7 @@
       "company": "Ericsson",
       "error": "public request failed for https://www.ericsson.com/en: HTTP Error 403: Forbidden",
       "key": "f53ce3ad208b14b94c9e584f",
-      "last_scanned": "2026-08-27",
+      "last_scanned": "2026-09-03",
       "url": "https://www.ericsson.com/"
     },
     {
