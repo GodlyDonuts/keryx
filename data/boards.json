@@ -5903,6 +5903,12 @@
     },
     {
       "ats": "smartrecruiters",
+      "company": "Acumatica",
+      "key": "smartrecruiters:acumatica",
+      "slug": "Acumatica"
+    },
+    {
+      "ats": "smartrecruiters",
       "company": "Acumen Solutions",
       "key": "smartrecruiters:acumensolutions",
       "slug": "AcumenSolutions"
@@ -7799,6 +7805,15 @@
     },
     {
       "ats": "workday",
+      "company": "Baird",
+      "host": "baird.wd1.myworkdayjobs.com",
+      "key": "workday:baird.wd1.myworkdayjobs.com:baird:careers",
+      "site": "careers",
+      "slug": "baird",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Baker Hughes",
       "host": "bakerhughes.wd5.myworkdayjobs.com",
       "key": "workday:bakerhughes.wd5.myworkdayjobs.com:bakerhughes:bakerhughes",
@@ -9098,7 +9113,7 @@
       "company": "Danaher Corporation",
       "host": "danaher.wd1.myworkdayjobs.com",
       "key": "workday:danaher.wd1.myworkdayjobs.com:danaher:danaherjobs",
-      "site": "danaherjobs",
+      "site": "DanaherJobs",
       "slug": "danaher",
       "wd": "wd1"
     },
@@ -12434,10 +12449,10 @@
     },
     {
       "ats": "workday",
-      "company": "POET",
+      "company": "Poet",
       "host": "poet.wd1.myworkdayjobs.com",
       "key": "workday:poet.wd1.myworkdayjobs.com:poet:poet",
-      "site": "POET",
+      "site": "poet",
       "slug": "poet",
       "wd": "wd1"
     },
@@ -12722,10 +12737,10 @@
     },
     {
       "ats": "workday",
-      "company": "LexisNexis Risk Solutions",
+      "company": "LexisNexis",
       "host": "relx.wd3.myworkdayjobs.com",
       "key": "workday:relx.wd3.myworkdayjobs.com:relx:lexisnexislegal",
-      "site": "LexisNexisLegal",
+      "site": "lexisnexislegal",
       "slug": "relx",
       "wd": "wd3"
     },
@@ -14231,6 +14246,15 @@
       "site": "veleracareers",
       "slug": "velera",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Millennium Physician Group",
+      "host": "verawholehealth.wd1.myworkdayjobs.com",
+      "key": "workday:verawholehealth.wd1.myworkdayjobs.com:verawholehealth:mpg",
+      "site": "MPG",
+      "slug": "verawholehealth",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
