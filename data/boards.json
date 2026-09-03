@@ -278,6 +278,12 @@
     },
     {
       "ats": "ashby",
+      "company": "CircuitHub",
+      "key": "ashby:circuithub",
+      "slug": "circuithub"
+    },
+    {
+      "ats": "ashby",
       "company": "Clarium",
       "key": "ashby:clarium",
       "slug": "clarium"
@@ -287,6 +293,12 @@
       "company": "Clera",
       "key": "ashby:clera",
       "slug": "clera"
+    },
+    {
+      "ats": "ashby",
+      "company": "Collaborative Robotics",
+      "key": "ashby:cobot",
+      "slug": "cobot"
     },
     {
       "ats": "ashby",
@@ -341,6 +353,12 @@
       "company": "Constellation Space",
       "key": "ashby:constellationspace",
       "slug": "constellationspace"
+    },
+    {
+      "ats": "ashby",
+      "company": "Contoro",
+      "key": "ashby:contoro",
+      "slug": "contoro"
     },
     {
       "ats": "ashby",
@@ -472,7 +490,7 @@
       "ats": "ashby",
       "company": "Etched",
       "key": "ashby:etched",
-      "slug": "etched"
+      "slug": "Etched"
     },
     {
       "ats": "ashby",
@@ -527,6 +545,12 @@
       "company": "Fourth Power",
       "key": "ashby:fourth-power",
       "slug": "fourth-power"
+    },
+    {
+      "ats": "ashby",
+      "company": "FS Studio",
+      "key": "ashby:fs-studio",
+      "slug": "fs-studio"
     },
     {
       "ats": "ashby",
@@ -626,7 +650,7 @@
     },
     {
       "ats": "ashby",
-      "company": "Cubit Capital",
+      "company": "H3X Technologies",
       "key": "ashby:h3x-technologies",
       "slug": "h3x-technologies"
     },
@@ -1043,6 +1067,12 @@
       "company": "Odin Dynamics, Inc",
       "key": "ashby:odin-dynamics",
       "slug": "odin-dynamics"
+    },
+    {
+      "ats": "ashby",
+      "company": "Odys Aviation",
+      "key": "ashby:odys-aviation",
+      "slug": "odys-aviation"
     },
     {
       "ats": "ashby",
@@ -1882,6 +1912,13 @@
       "slug": "upike"
     },
     {
+      "ats": "bamboohr",
+      "company": "Vestal Corporation",
+      "host": "vestalcorporation.bamboohr.com",
+      "key": "bamboohr:vestalcorporation",
+      "slug": "vestalcorporation"
+    },
+    {
       "ats": "greenhouse",
       "company": "10a Labs",
       "key": "greenhouse:10alabs",
@@ -1961,7 +1998,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "Cubit Capital",
+      "company": "Albedo",
       "key": "greenhouse:albedo",
       "slug": "albedo"
     },
@@ -3599,6 +3636,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Space Kinetic",
+      "key": "greenhouse:spacekinetic",
+      "slug": "spacekinetic"
+    },
+    {
+      "ats": "greenhouse",
       "company": "SpaceX",
       "key": "greenhouse:spacex",
       "slug": "spacex"
@@ -4073,7 +4116,7 @@
     },
     {
       "ats": "lever",
-      "company": "Allegiant",
+      "company": "Allegiant Air",
       "key": "lever:allegiantair",
       "slug": "allegiantair"
     },
@@ -4088,6 +4131,12 @@
       "company": "AnaVation",
       "key": "lever:anavationllc",
       "slug": "anavationllc"
+    },
+    {
+      "ats": "lever",
+      "company": "Array Labs",
+      "key": "lever:arraylabs.io",
+      "slug": "arraylabs.io"
     },
     {
       "ats": "lever",
@@ -4481,6 +4530,18 @@
     },
     {
       "ats": "lever",
+      "company": "Purvis Systems",
+      "key": "lever:purvis",
+      "slug": "purvis"
+    },
+    {
+      "ats": "lever",
+      "company": "Pyka",
+      "key": "lever:pyka",
+      "slug": "pyka"
+    },
+    {
+      "ats": "lever",
       "company": "Quantum Workplace",
       "key": "lever:quantumworkplace",
       "slug": "QuantumWorkplace"
@@ -4517,7 +4578,7 @@
     },
     {
       "ats": "lever",
-      "company": "Aechelon Technology Inc.",
+      "company": "Shield AI",
       "key": "lever:shieldai",
       "slug": "shieldai"
     },
@@ -4664,6 +4725,12 @@
       "company": "WeRide",
       "key": "lever:weride",
       "slug": "weride"
+    },
+    {
+      "ats": "lever",
+      "company": "Western Aircraft",
+      "key": "lever:westair",
+      "slug": "westair"
     },
     {
       "ats": "lever",
@@ -5043,6 +5110,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Masimo",
+      "host": "egcu.fa.us6.oraclecloud.com",
+      "key": "oracle:egcu.fa.us6.oraclecloud.com:cx",
+      "site": "CX",
+      "slug": "egcu"
+    },
+    {
+      "ats": "oracle",
       "company": "Loma Linda University Health",
       "host": "egln.fa.us2.oraclecloud.com",
       "key": "oracle:egln.fa.us2.oraclecloud.com:cx",
@@ -5139,6 +5214,14 @@
     },
     {
       "ats": "oracle",
+      "company": "UW Health",
+      "host": "eimy.fa.us6.oraclecloud.com",
+      "key": "oracle:eimy.fa.us6.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "eimy"
+    },
+    {
+      "ats": "oracle",
       "company": "Sherwin-Williams",
       "host": "ejhp.fa.us6.oraclecloud.com",
       "key": "oracle:ejhp.fa.us6.oraclecloud.com:cx_2",
@@ -5224,6 +5307,14 @@
       "key": "oracle:ekkh.fa.us2.oraclecloud.com:cx_2002",
       "site": "CX_2002",
       "slug": "ekkh"
+    },
+    {
+      "ats": "oracle",
+      "company": "EXP",
+      "host": "elcn.fa.us2.oraclecloud.com",
+      "key": "oracle:elcn.fa.us2.oraclecloud.com:cx",
+      "site": "CX",
+      "slug": "elcn"
     },
     {
       "ats": "oracle",
@@ -5328,6 +5419,14 @@
       "key": "oracle:etgi.fa.us8.oraclecloud.com:cx_4005",
       "site": "CX_4005",
       "slug": "etgi"
+    },
+    {
+      "ats": "oracle",
+      "company": "Nevada National Security Site",
+      "host": "ewij.fa.us8.oraclecloud.com",
+      "key": "oracle:ewij.fa.us8.oraclecloud.com:cx_2",
+      "site": "CX_2",
+      "slug": "ewij"
     },
     {
       "ats": "oracle",
@@ -5536,6 +5635,14 @@
       "key": "oracle:fa-eups-saasfaprod1.fa.ocs.oraclecloud.com:ulsolutionscareers",
       "site": "ULSolutionsCareers",
       "slug": "fa-eups-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
+      "company": "Zachry Group",
+      "host": "fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com:cx_1029",
+      "site": "CX_1029",
+      "slug": "fa-evfm-saasfaprod1"
     },
     {
       "ats": "oracle",
@@ -6065,6 +6172,12 @@
     },
     {
       "ats": "smartrecruiters",
+      "company": "Direct Staffing",
+      "key": "smartrecruiters:dstaff",
+      "slug": "dstaff"
+    },
+    {
+      "ats": "smartrecruiters",
       "company": "Dunn Solutions Group",
       "key": "smartrecruiters:dunnsolutionsgroup",
       "slug": "DunnSolutionsGroup"
@@ -6266,6 +6379,12 @@
       "company": "Northwestern Mutual",
       "key": "smartrecruiters:northwesternmutual",
       "slug": "NorthwesternMutual"
+    },
+    {
+      "ats": "smartrecruiters",
+      "company": "Position Imaging",
+      "key": "smartrecruiters:positionimaginginc",
+      "slug": "PositionImagingInc"
     },
     {
       "ats": "smartrecruiters",
@@ -6551,6 +6670,18 @@
     },
     {
       "ats": "workable",
+      "company": "Aerones",
+      "key": "workable:aerones",
+      "slug": "aerones"
+    },
+    {
+      "ats": "workable",
+      "company": "Aetos Systems",
+      "key": "workable:aetos-systems-inc",
+      "slug": "aetos-systems-inc"
+    },
+    {
+      "ats": "workable",
       "company": "AlphaHire",
       "key": "workable:alphax",
       "slug": "alphax"
@@ -6641,6 +6772,12 @@
     },
     {
       "ats": "workable",
+      "company": "Currier Plastics",
+      "key": "workable:currier-plastics",
+      "slug": "currier-plastics"
+    },
+    {
+      "ats": "workable",
       "company": "CVector Energy",
       "key": "workable:cvector",
       "slug": "cvector"
@@ -6695,6 +6832,12 @@
     },
     {
       "ats": "workable",
+      "company": "HOKALI",
+      "key": "workable:hokali",
+      "slug": "hokali"
+    },
+    {
+      "ats": "workable",
       "company": "Idea Entity",
       "key": "workable:idea-entity",
       "slug": "idea-entity"
@@ -6716,6 +6859,12 @@
       "company": "Lovingly",
       "key": "workable:lovingly",
       "slug": "lovingly"
+    },
+    {
+      "ats": "workable",
+      "company": "Luxium Solutions",
+      "key": "workable:luxium-solutions-llc",
+      "slug": "luxium-solutions-llc"
     },
     {
       "ats": "workable",
@@ -6827,6 +6976,18 @@
     },
     {
       "ats": "workable",
+      "company": "RMF Engineering",
+      "key": "workable:rmf-engineering-inc",
+      "slug": "rmf-engineering-inc"
+    },
+    {
+      "ats": "workable",
+      "company": "Rovex Technologies",
+      "key": "workable:rovex-technologies-corporation",
+      "slug": "rovex-technologies-corporation"
+    },
+    {
+      "ats": "workable",
       "company": "Rystad Energy",
       "key": "workable:rystad-energy",
       "slug": "rystad-energy"
@@ -6854,6 +7015,12 @@
       "company": "Stockholm Environment Institute - U.S",
       "key": "workable:sei",
       "slug": "sei"
+    },
+    {
+      "ats": "workable",
+      "company": "Sorting Robotics",
+      "key": "workable:sorting-robotics",
+      "slug": "sorting-robotics"
     },
     {
       "ats": "workable",
@@ -7306,6 +7473,15 @@
       "key": "workday:allegion.wd5.myworkdayjobs.com:allegion:careers",
       "site": "careers",
       "slug": "allegion",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Allegro MicroSystems",
+      "host": "allegromicro.wd5.myworkdayjobs.com",
+      "key": "workday:allegromicro.wd5.myworkdayjobs.com:allegromicro:allegrocareers",
+      "site": "allegrocareers",
+      "slug": "allegromicro",
       "wd": "wd5"
     },
     {
@@ -7988,7 +8164,7 @@
       "company": "BlackRock",
       "host": "blackrock.wd1.myworkdayjobs.com",
       "key": "workday:blackrock.wd1.myworkdayjobs.com:blackrock:blackrock_professional",
-      "site": "BlackRock_Professional",
+      "site": "blackrock_professional",
       "slug": "blackrock",
       "wd": "wd1"
     },
@@ -8342,6 +8518,15 @@
       "site": "computer_aid",
       "slug": "cai",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Protech Automotive Solutions",
+      "host": "calibercollision.wd1.myworkdayjobs.com",
+      "key": "workday:calibercollision.wd1.myworkdayjobs.com:calibercollision:protech",
+      "site": "protech",
+      "slug": "calibercollision",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -9110,6 +9295,15 @@
     },
     {
       "ats": "workday",
+      "company": "Cushman & Wakefield",
+      "host": "cw.wd1.myworkdayjobs.com",
+      "key": "workday:cw.wd1.myworkdayjobs.com:cw:external",
+      "site": "external",
+      "slug": "cw",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "America's Poison Centers",
       "host": "cwi.wd1.myworkdayjobs.com",
       "key": "workday:cwi.wd1.myworkdayjobs.com:cwi:cw_careers",
@@ -9650,6 +9844,15 @@
     },
     {
       "ats": "workday",
+      "company": "Fermilab",
+      "host": "fermilab.wd5.myworkdayjobs.com",
+      "key": "workday:fermilab.wd5.myworkdayjobs.com:fermilab:fermilabcareers",
+      "site": "FermilabCareers",
+      "slug": "fermilab",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Ferrovial",
       "host": "ferrovial.wd3.myworkdayjobs.com",
       "key": "workday:ferrovial.wd3.myworkdayjobs.com:ferrovial:ferrovial_career_site",
@@ -9728,6 +9931,15 @@
       "site": "ext",
       "slug": "fiserv",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Flex",
+      "host": "flextronics.wd1.myworkdayjobs.com",
+      "key": "workday:flextronics.wd1.myworkdayjobs.com:flextronics:careers",
+      "site": "Careers",
+      "slug": "flextronics",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -10856,6 +11068,15 @@
     },
     {
       "ats": "workday",
+      "company": "Jones Lang LaSalle",
+      "host": "jll.wd1.myworkdayjobs.com",
+      "key": "workday:jll.wd1.myworkdayjobs.com:jll:jllcareers",
+      "site": "jllcareers",
+      "slug": "jll",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Johns Manville",
       "host": "jm.wd103.myworkdayjobs.com",
       "key": "workday:jm.wd103.myworkdayjobs.com:jm:external",
@@ -11015,6 +11236,15 @@
       "site": "KyndrylProfessionalCareers",
       "slug": "kyndryl",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "LabCorp",
+      "host": "labcorp.wd1.myworkdayjobs.com",
+      "key": "workday:labcorp.wd1.myworkdayjobs.com:labcorp:external",
+      "site": "external",
+      "slug": "labcorp",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -11561,7 +11791,7 @@
       "company": "MiTek",
       "host": "mii.wd5.myworkdayjobs.com",
       "key": "workday:mii.wd5.myworkdayjobs.com:mii:mitek",
-      "site": "MiTek",
+      "site": "mitek",
       "slug": "mii",
       "wd": "wd5"
     },
@@ -13034,6 +13264,15 @@
     },
     {
       "ats": "workday",
+      "company": "Saab",
+      "host": "saabusa.wd1.myworkdayjobs.com",
+      "key": "workday:saabusa.wd1.myworkdayjobs.com:saabusa:saab_careers",
+      "site": "saab_careers",
+      "slug": "saabusa",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Salesforce",
       "host": "salesforce.wd12.myworkdayjobs.com",
       "key": "workday:salesforce.wd12.myworkdayjobs.com:salesforce:external_career_site",
@@ -13991,13 +14230,13 @@
       "company": "Milwaukee Tool",
       "host": "tti.wd1.myworkdayjobs.com",
       "key": "workday:tti.wd1.myworkdayjobs.com:tti:milwaukee",
-      "site": "milwaukee",
+      "site": "Milwaukee",
       "slug": "tti",
       "wd": "wd1"
     },
     {
       "ats": "workday",
-      "company": "Techtronic Industries",
+      "company": "Techtronic Industries (TTI)",
       "host": "tti.wd1.myworkdayjobs.com",
       "key": "workday:tti.wd1.myworkdayjobs.com:tti:tti_pe",
       "site": "tti_pe",
