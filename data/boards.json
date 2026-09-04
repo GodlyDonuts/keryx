@@ -2492,6 +2492,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Clearway Energy",
+      "key": "greenhouse:clearwayjobs",
+      "slug": "clearwayjobs"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Climavision",
       "key": "greenhouse:climavision",
       "slug": "climavision"
@@ -4109,6 +4115,12 @@
       "company": "Vestmark",
       "key": "greenhouse:vestmark",
       "slug": "vestmark"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Vestwell",
+      "key": "greenhouse:vestwell",
+      "slug": "vestwell"
     },
     {
       "ats": "greenhouse",
@@ -8464,6 +8476,15 @@
     },
     {
       "ats": "workday",
+      "company": "Barclays",
+      "host": "barclays.wd3.myworkdayjobs.com",
+      "key": "workday:barclays.wd3.myworkdayjobs.com:barclays:external_career_site_barclays",
+      "site": "External_Career_Site_Barclays",
+      "slug": "barclays",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
       "company": "Barr",
       "host": "barr.wd1.myworkdayjobs.com",
       "key": "workday:barr.wd1.myworkdayjobs.com:barr:barrcareers",
@@ -9427,6 +9448,15 @@
     },
     {
       "ats": "workday",
+      "company": "CNA Insurance",
+      "host": "cna.wd1.myworkdayjobs.com",
+      "key": "workday:cna.wd1.myworkdayjobs.com:cna:cna_careers",
+      "site": "CNA_Careers",
+      "slug": "cna",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Chickasaw Nation Industries",
       "host": "cni.wd503.myworkdayjobs.com",
       "key": "workday:cni.wd503.myworkdayjobs.com:cni:cni",
@@ -9619,7 +9649,7 @@
       "company": "Cox",
       "host": "cox.wd1.myworkdayjobs.com",
       "key": "workday:cox.wd1.myworkdayjobs.com:cox:cox_external_career_site_1",
-      "site": "cox_external_career_site_1",
+      "site": "Cox_External_Career_Site_1",
       "slug": "cox",
       "wd": "wd1"
     },
@@ -9973,6 +10003,15 @@
       "site": "dma",
       "slug": "dmainc",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "doTERRA",
+      "host": "doterra.wd1.myworkdayjobs.com",
+      "key": "workday:doterra.wd1.myworkdayjobs.com:doterra:doterracareers",
+      "site": "doTERRACareers",
+      "slug": "doterra",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -10948,6 +10987,15 @@
     },
     {
       "ats": "workday",
+      "company": "Halma",
+      "host": "halma.wd3.myworkdayjobs.com",
+      "key": "workday:halma.wd3.myworkdayjobs.com:halma:halma",
+      "site": "halma",
+      "slug": "halma",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
       "company": "Harris Computer",
       "host": "harriscomputer.wd3.myworkdayjobs.com",
       "key": "workday:harriscomputer.wd3.myworkdayjobs.com:harriscomputer:1",
@@ -11043,6 +11091,15 @@
       "key": "workday:hitachi.wd1.myworkdayjobs.com:hitachi:hitachi",
       "site": "hitachi",
       "slug": "hitachi",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Houlihan Lokey",
+      "host": "hl.wd1.myworkdayjobs.com",
+      "key": "workday:hl.wd1.myworkdayjobs.com:hl:campus",
+      "site": "Campus",
+      "slug": "hl",
       "wd": "wd1"
     },
     {
@@ -11206,6 +11263,15 @@
       "site": "Hyperion_External",
       "slug": "hyperiongrp",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Hy-Vee",
+      "host": "hyvee.wd1.myworkdayjobs.com",
+      "key": "workday:hyvee.wd1.myworkdayjobs.com:hyvee:hyveecareers",
+      "site": "HyVeeCareers",
+      "slug": "hyvee",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -12193,7 +12259,7 @@
       "company": "Mastercard",
       "host": "mastercard.wd1.myworkdayjobs.com",
       "key": "workday:mastercard.wd1.myworkdayjobs.com:mastercard:corporatecareers",
-      "site": "corporatecareers",
+      "site": "CorporateCareers",
       "slug": "mastercard",
       "wd": "wd1"
     },
