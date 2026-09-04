@@ -454,6 +454,16 @@
       "url": "https://www.monolithicpower.com/"
     },
     {
+      "boards": [
+        "bamboohr:pelotonwellfocused"
+      ],
+      "company": "Peloton",
+      "key": "055094c6887dfd0ac7861bfb",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://www.peloton.com/"
+    },
+    {
       "boards": [],
       "company": "TRC Companies, Inc.",
       "key": "055a76f82d2f8151a864d62e",
@@ -996,6 +1006,16 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://www.heinens.com/"
+    },
+    {
+      "boards": [
+        "oracle:eevd.fa.us6.oraclecloud.com:cx_4"
+      ],
+      "company": "FDB (First Databank, Inc.)",
+      "key": "0b1e043e41aea7afb3911d0b",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://fdbhealth.com/"
     },
     {
       "boards": [],
@@ -3727,6 +3747,14 @@
     },
     {
       "boards": [],
+      "company": "Spectrum News",
+      "key": "2b9e48643f733ac230204712",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://spectrumlocalnews.com/"
+    },
+    {
+      "boards": [],
       "company": "Leavitt Partners",
       "key": "2bc46d17cdf88410853205d5",
       "last_scanned": "2026-09-02",
@@ -4710,7 +4738,7 @@
       ],
       "company": "Mill",
       "key": "3451e63e8e608f40daa4fdbe",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://mill.com/"
     },
@@ -6910,6 +6938,17 @@
       "url": "https://www.roboforce.ai/"
     },
     {
+      "boards": [
+        "oracle:eevd.fa.us6.oraclecloud.com:cx_8007",
+        "oracle:eevd.fa.us6.oraclecloud.com:cx_8010"
+      ],
+      "company": "Hearst Newspapers",
+      "key": "4b5a99c13569226ee8d56279",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15"
+    },
+    {
       "company": "Palmdale Regional Medical Center",
       "error": "public request failed for https://www.palmdaleregional.com/: HTTP Error 403: Forbidden",
       "key": "4b7cc6708dbb5eb6c6af9e16",
@@ -7046,7 +7085,7 @@
       "company": "Crowe",
       "error": "public request failed for https://www.crowe.com/: HTTP Error 403: Forbidden",
       "key": "4d0beeea761d31adbc5dcf65",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-04",
       "url": "https://www.crowe.com/"
     },
     {
@@ -7513,7 +7552,7 @@
       "boards": [],
       "company": "Helen of Troy",
       "key": "515678f43abb97d48cf166b0",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://www.helenoftroy.com/"
     },
@@ -8587,6 +8626,14 @@
       "url": "https://www.rdindustries.com/"
     },
     {
+      "boards": [],
+      "company": "Signal Corps Regimental Association",
+      "key": "5b457cce849f005e1f645fd7",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://signalcorps.org/"
+    },
+    {
       "boards": [
         "ashby:qa"
       ],
@@ -9483,7 +9530,7 @@
       "boards": [],
       "company": "Affirm",
       "key": "651cc3f594cc355b33b77a65",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://www.affirm.com/"
     },
@@ -10175,6 +10222,14 @@
     },
     {
       "boards": [],
+      "company": "TMO Group",
+      "key": "6be5da394467a74c64a7d673",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://www.tmogroup.asia/"
+    },
+    {
+      "boards": [],
       "company": "The Church of Jesus Christ of Latter-day Saints",
       "key": "6beb3aca92f9517406de5a09",
       "last_scanned": "2026-09-01",
@@ -10518,7 +10573,7 @@
       "boards": [],
       "company": "Dollar Tree Stores",
       "key": "6f9f4e3f4e4546706b8e0b4b",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://dollartree.com/"
     },
@@ -11158,7 +11213,7 @@
       "boards": [],
       "company": "Novo Nordisk",
       "key": "764fe6bd4ab0ac1022f62d9a",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://www.novonordisk.com/"
     },
@@ -12419,7 +12474,7 @@
       ],
       "company": "iCrossing",
       "key": "83bd424025dc14a31b8d4210",
-      "last_scanned": "2026-08-21",
+      "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://www.icrossing.com/"
     },
@@ -12921,6 +12976,14 @@
     },
     {
       "boards": [],
+      "company": "IPG",
+      "key": "894ac9ea4404e1dd529c1c5b",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://www.itape.com/"
+    },
+    {
+      "boards": [],
       "company": "Persistent Systems, LLC",
       "key": "89557c713afdab2b3f86bfa9",
       "last_scanned": "2026-08-26",
@@ -13340,7 +13403,7 @@
       "company": "Cushman & Wakefield",
       "error": "public request failed for https://www.cushmanwakefield.com/: HTTP Error 403: Forbidden",
       "key": "8d37c9ef521fadd30b574bd7",
-      "last_scanned": "2026-09-02",
+      "last_scanned": "2026-09-04",
       "url": "https://www.cushmanwakefield.com/"
     },
     {
@@ -13837,7 +13900,7 @@
       "boards": [],
       "company": "Quantifind",
       "key": "926ade58bbc0348e68467844",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://quantifind.com/"
     },
@@ -14595,6 +14658,13 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.williams.com/"
+    },
+    {
+      "company": "Foxconn Industrial Internet",
+      "error": "public request failed for https://fii-foxconn.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'fii-foxconn.com'. (_ssl.c:1000)>",
+      "key": "9c7c2fe9042825da2a63a2ce",
+      "last_scanned": "2026-09-04",
+      "url": "https://fii-foxconn.com/"
     },
     {
       "company": "The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)",
@@ -15487,6 +15557,13 @@
       "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://sycamore.so/"
+    },
+    {
+      "company": "Spectrum Business",
+      "error": "public request failed for https://www.spectrum.com/business: The read operation timed out",
+      "key": "a52233d3bc79248603c40b64",
+      "last_scanned": "2026-09-04",
+      "url": "https://www.spectrum.com/business"
     },
     {
       "boards": [],
@@ -16396,6 +16473,16 @@
       "url": "https://www.waystar.com/"
     },
     {
+      "boards": [
+        "workday:swinerton.wd1.myworkdayjobs.com:swinerton:timberlab"
+      ],
+      "company": "Timberlab",
+      "key": "aee4da7f03a79ed81fde0f09",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://timberlab.com/"
+    },
+    {
       "boards": [],
       "company": "Barry-Wehmiller",
       "key": "aefe49f4e05d49762f3e4a87",
@@ -16415,7 +16502,7 @@
       "company": "Lochner",
       "error": "public request failed for https://hwlochner.com/: <urlopen error [Errno 104] Connection reset by peer>",
       "key": "af19397e70ebce7022d056a7",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-09-04",
       "url": "https://hwlochner.com/"
     },
     {
@@ -21209,6 +21296,16 @@
       "url": "https://www.lcra.org/"
     },
     {
+      "boards": [
+        "oracle:eevd.fa.us6.oraclecloud.com:cx_5"
+      ],
+      "company": "Homecare Homebase",
+      "key": "e095c1095e9ba6f1908f517d",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://www.hchb.com/"
+    },
+    {
       "boards": [],
       "company": "ASM",
       "key": "e0b00c05782fb9b5420d3be5",
@@ -21299,6 +21396,13 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://northwindgrp.com/"
+    },
+    {
+      "company": "Hearst Television",
+      "error": "public request failed for https://www.hearsttelevision.com/: <urlopen error [Errno 111] Connection refused>",
+      "key": "e1c09e5e0635ef7a738d4986",
+      "last_scanned": "2026-09-04",
+      "url": "https://www.hearsttelevision.com/"
     },
     {
       "boards": [
@@ -22942,7 +23046,7 @@
       "boards": [],
       "company": "Berkeley Industrial Engineering & Operations Research",
       "key": "f10b22802ddf6de95d455fd9",
-      "last_scanned": "2026-08-23",
+      "last_scanned": "2026-09-04",
       "resolved_roles": 1,
       "url": "https://ieor.berkeley.edu/"
     },

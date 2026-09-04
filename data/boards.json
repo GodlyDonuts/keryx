@@ -814,7 +814,7 @@
       "ats": "ashby",
       "company": "Kognitos",
       "key": "ashby:kognitos",
-      "slug": "Kognitos"
+      "slug": "kognitos"
     },
     {
       "ats": "ashby",
@@ -1070,6 +1070,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Obvio",
+      "key": "ashby:obvio",
+      "slug": "obvio"
+    },
+    {
+      "ats": "ashby",
       "company": "Oceanus Marine Technologies",
       "key": "ashby:oceanus",
       "slug": "oceanus"
@@ -1109,6 +1115,12 @@
       "company": "Ontic",
       "key": "ashby:ontic",
       "slug": "Ontic"
+    },
+    {
+      "ats": "ashby",
+      "company": "OpenLoop",
+      "key": "ashby:openloophealth",
+      "slug": "openloophealth"
     },
     {
       "ats": "ashby",
@@ -1884,6 +1896,13 @@
       "host": "nexthopai.bamboohr.com",
       "key": "bamboohr:nexthopai",
       "slug": "nexthopai"
+    },
+    {
+      "ats": "bamboohr",
+      "company": "Peloton",
+      "host": "pelotonwellfocused.bamboohr.com",
+      "key": "bamboohr:pelotonwellfocused",
+      "slug": "pelotonwellfocused"
     },
     {
       "ats": "bamboohr",
@@ -5152,6 +5171,38 @@
       "host": "eevd.fa.us6.oraclecloud.com",
       "key": "oracle:eevd.fa.us6.oraclecloud.com:cx_18",
       "site": "CX_18",
+      "slug": "eevd"
+    },
+    {
+      "ats": "oracle",
+      "company": "FDB (First Databank, Inc.)",
+      "host": "eevd.fa.us6.oraclecloud.com",
+      "key": "oracle:eevd.fa.us6.oraclecloud.com:cx_4",
+      "site": "CX_4",
+      "slug": "eevd"
+    },
+    {
+      "ats": "oracle",
+      "company": "Homecare Homebase",
+      "host": "eevd.fa.us6.oraclecloud.com",
+      "key": "oracle:eevd.fa.us6.oraclecloud.com:cx_5",
+      "site": "CX_5",
+      "slug": "eevd"
+    },
+    {
+      "ats": "oracle",
+      "company": "Hearst Newspapers",
+      "host": "eevd.fa.us6.oraclecloud.com",
+      "key": "oracle:eevd.fa.us6.oraclecloud.com:cx_8007",
+      "site": "CX_8007",
+      "slug": "eevd"
+    },
+    {
+      "ats": "oracle",
+      "company": "Hearst Newspapers",
+      "host": "eevd.fa.us6.oraclecloud.com",
+      "key": "oracle:eevd.fa.us6.oraclecloud.com:cx_8010",
+      "site": "CX_8010",
       "slug": "eevd"
     },
     {
@@ -8940,10 +8991,10 @@
     },
     {
       "ats": "workday",
-      "company": "Solar Turbines",
+      "company": "Solar Turbines (Caterpillar)",
       "host": "cat.wd5.myworkdayjobs.com",
       "key": "workday:cat.wd5.myworkdayjobs.com:cat:solarturbines",
-      "site": "solarturbines",
+      "site": "SolarTurbines",
       "slug": "cat",
       "wd": "wd5"
     },
@@ -9066,10 +9117,10 @@
     },
     {
       "ats": "workday",
-      "company": "Chevron",
+      "company": "Chevron Corporation",
       "host": "chevron.wd5.myworkdayjobs.com",
       "key": "workday:chevron.wd5.myworkdayjobs.com:chevron:university",
-      "site": "university",
+      "site": "University",
       "slug": "chevron",
       "wd": "wd5"
     },
@@ -11919,6 +11970,15 @@
     },
     {
       "ats": "workday",
+      "company": "Mary Free Bed Rehabilitation Hospital",
+      "host": "maryfreebed.wd12.myworkdayjobs.com",
+      "key": "workday:maryfreebed.wd12.myworkdayjobs.com:maryfreebed:mfb",
+      "site": "mfb",
+      "slug": "maryfreebed",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
       "company": "Masco",
       "host": "masco.wd1.myworkdayjobs.com",
       "key": "workday:masco.wd1.myworkdayjobs.com:masco:masco",
@@ -13089,10 +13149,10 @@
     },
     {
       "ats": "workday",
-      "company": "POET",
+      "company": "Poet",
       "host": "poet.wd1.myworkdayjobs.com",
       "key": "workday:poet.wd1.myworkdayjobs.com:poet:poet",
-      "site": "POET",
+      "site": "poet",
       "slug": "poet",
       "wd": "wd1"
     },
@@ -14214,6 +14274,15 @@
     },
     {
       "ats": "workday",
+      "company": "Timberlab",
+      "host": "swinerton.wd1.myworkdayjobs.com",
+      "key": "workday:swinerton.wd1.myworkdayjobs.com:swinerton:timberlab",
+      "site": "timberlab",
+      "slug": "swinerton",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Symbotic",
       "host": "symbotic.wd504.myworkdayjobs.com",
       "key": "workday:symbotic.wd504.myworkdayjobs.com:symbotic:symbotic",
@@ -14804,6 +14873,15 @@
       "key": "workday:ummc.wd5.myworkdayjobs.com:ummc:umccareers",
       "site": "UMCCareers",
       "slug": "ummc",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Unisys",
+      "host": "unisys.wd5.myworkdayjobs.com",
+      "key": "workday:unisys.wd5.myworkdayjobs.com:unisys:external",
+      "site": "External",
+      "slug": "unisys",
       "wd": "wd5"
     },
     {
