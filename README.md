@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**4,807 internships · 4,523 new-grad roles · 9,330 total openings**
+**4,872 internships · 4,463 new-grad roles · 9,335 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,281 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 557 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 281 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 95 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,593 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 2,294 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 552 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 289 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 92 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 1,645 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 929 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,324 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,270 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 881 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,332 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,250 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -44,11 +44,11 @@ Recent internship and co-op listings that open the employer's application page d
 | CesiumAstro | Test Engineer Intern | Austin, TX | Spring 2027 | Current student status<br><sub>required</sub> | 2026-09-04 | **[Apply →](https://jobs.lever.co/CesiumAstro/a8f6548c-e941-48cb-9e52-596d110556c0/apply)**<br><sub>jobs.lever.co</sub> |
 | Clarios | Category Analyst Intern | Milwaukee, WI | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Category-Analyst-Intern--Summer-2027-_WD50036)**<br><sub>clarios.wd5.myworkdayjobs.com</sub> |
 | Compeer Financial | Intern Communications | MN-Mankato | Not listed | Current student status<br><sub>stated</sub> | 2026-09-04 | **[Apply →](https://job-boards.greenhouse.io/compeerfinancial/jobs/5415866008)**<br><sub>job-boards.greenhouse.io</sub> |
-| CSX | Sales & Marketing Analytics Intern - Paid | Jacksonville, FL | Summer 2027 | Dec 2027–May 2028<br><sub>required</sub> | 2026-09-04 | **[Apply →](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54839)**<br><sub>fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
+| CSX | Mechanical Engineering Internship - Summer 2027 (Paid) | Jacksonville, FL, United States | Summer 2027 | Dec 2027–May 2028<br><sub>required</sub> | 2026-09-04 | **[Apply →](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54844)**<br><sub>fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
+| CSX | Sales & Marketing Analytics Internship - Summer 2027 (Paid) | Jacksonville, FL, United States | Summer 2027 | Dec 2027–May 2028<br><sub>required</sub> | 2026-09-04 | **[Apply →](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54839)**<br><sub>fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
+| Direct Supply | AI Engineer Intern | Milwaukee, WI | Not listed | not available | 2026-09-04 | **[Apply →](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553)**<br><sub>directsupply.wd501.myworkdayjobs.com</sub> |
 | DIRECTV | DIRECTV for Business Product Development Intern | Clarksburg, MD | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://directv.wd1.myworkdayjobs.com/careers/job/Clarksburg-MD/DIRECTV-for-Business-Product-Development-Intern_R260276)**<br><sub>directv.wd1.myworkdayjobs.com</sub> |
 | Ecolab | Research and Development Intern | Naperville, IL, Eagan, MN | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Eagan/Research-and-Development-Intern_R00304540)**<br><sub>ecolab.wd1.myworkdayjobs.com</sub> |
-| Entergy | Engineering Intern | New Orleans, LA | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://jobs.entergy.com/job/New-Orleans-Student,-Intern-Engineering-Summer-2027-Loui/1426672400/?ats=successfactors)**<br><sub>jobs.entergy.com</sub> |
-| Ernst & Young | Data and Technology Intern - Multiple Teams | Miami, FL, Dallas, TX, Chicago, IL, NYC | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://eyglobal.yello.co/jobs/gqy0pJfAkXrlECgDBjqcIw?job_board_id=c1riT--B2O-KySgYWsZO1Q)**<br><sub>eyglobal.yello.co</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -69,7 +69,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Johns Hopkins Applied Physics Laboratory | Systems Engineer/Analyst - Multi-Mission Planning Development | Laurel, MD | Not listed | not available | 2026-09-04 | **[Apply →](https://careers.jhuapl.edu/jobs/59909?icims=1)**<br><sub>careers.jhuapl.edu</sub> |
 | Olsson | Entry-Level Rail Water Resources Engineer | Lincoln, NE; Omaha, NE | Not listed | not stated | 2026-09-04 | **[Apply →](https://job-boards.greenhouse.io/olsson/jobs/4674853008)**<br><sub>job-boards.greenhouse.io</sub> |
 | Paccar | Aftermarket Purchasing Data Analyst | Renton, WA | 2026 | not available | 2026-09-04 | **[Apply →](https://jobs.paccar.com/job/Renton-Aftermarket-Purchasing-Data-Analyst-WA-98055/1434078533/?ats=successfactors)**<br><sub>jobs.paccar.com</sub> |
-| University of Louisville | Institutional Research Analyst 1 | Louisville, KY | Not listed | not available | 2026-09-04 | **[Apply →](https://uofl.wd1.myworkdayjobs.com/UofLCareerSite/job/Belknap-Campus/Institutional-Research-Analyst-I_R109275)**<br><sub>uofl.wd1.myworkdayjobs.com</sub> |
+| Scale AI | Software Engineer - New Grad | San Francisco, CA | 2027 | Fall 2026–Spring 2027<br><sub>stated</sub> | 2026-09-04 | **[Apply →](https://job-boards.greenhouse.io/scaleai/jobs/4730836005)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

@@ -3007,6 +3007,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "ID.me",
+      "key": "greenhouse:idmeuniversityrecruiting",
+      "slug": "idmeuniversityrecruiting"
+    },
+    {
+      "ats": "greenhouse",
       "company": "iHerb",
       "key": "greenhouse:iherb",
       "slug": "iherb"
@@ -3640,6 +3646,18 @@
       "company": "S&B USA Construction & Fay",
       "key": "greenhouse:sbusa",
       "slug": "sbusa"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Scale AI",
+      "key": "greenhouse:scaleai",
+      "slug": "scaleai"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Schonfeld",
+      "key": "greenhouse:schonfeld",
+      "slug": "schonfeld"
     },
     {
       "ats": "greenhouse",
@@ -5101,6 +5119,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Texas Instruments",
+      "host": "edbz.fa.us2.oraclecloud.com",
+      "key": "oracle:edbz.fa.us2.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "edbz"
+    },
+    {
+      "ats": "oracle",
       "company": "Fortinet",
       "host": "edel.fa.us2.oraclecloud.com",
       "key": "oracle:edel.fa.us2.oraclecloud.com:cx_2001",
@@ -5666,6 +5692,14 @@
       "key": "oracle:fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com:csxcareers",
       "site": "CSXCareers",
       "slug": "fa-eowa-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
+      "company": "Hunt Oil Company",
+      "host": "fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "fa-eqcd-saasfaprod1"
     },
     {
       "ats": "oracle",
@@ -7110,6 +7144,12 @@
       "company": "Elevate Semiconductor",
       "key": "workable:elevate-semiconductor",
       "slug": "elevate-semiconductor"
+    },
+    {
+      "ats": "workable",
+      "company": "ENFOS",
+      "key": "workable:enfos-inc",
+      "slug": "enfos-inc"
     },
     {
       "ats": "workable",
@@ -9849,6 +9889,15 @@
     },
     {
       "ats": "workday",
+      "company": "Direct Supply",
+      "host": "directsupply.wd501.myworkdayjobs.com",
+      "key": "workday:directsupply.wd501.myworkdayjobs.com:directsupply:direct-supply-careers",
+      "site": "direct-supply-careers",
+      "slug": "directsupply",
+      "wd": "wd501"
+    },
+    {
+      "ats": "workday",
       "company": "DIRECTV",
       "host": "directv.wd1.myworkdayjobs.com",
       "key": "workday:directv.wd1.myworkdayjobs.com:directv:careers",
@@ -9872,6 +9921,15 @@
       "key": "workday:disney.wd5.myworkdayjobs.com:disney:disneycareerdc",
       "site": "disneycareerdc",
       "slug": "disney",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Zeno Group",
+      "host": "djeholdings.wd5.myworkdayjobs.com",
+      "key": "workday:djeholdings.wd5.myworkdayjobs.com:djeholdings:zenocareers",
+      "site": "ZenoCareers",
+      "slug": "djeholdings",
       "wd": "wd5"
     },
     {
@@ -11793,6 +11851,15 @@
     },
     {
       "ats": "workday",
+      "company": "Lozier Corporation",
+      "host": "lozier.wd5.myworkdayjobs.com",
+      "key": "workday:lozier.wd5.myworkdayjobs.com:lozier:lozier_careers",
+      "site": "lozier_careers",
+      "slug": "lozier",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "LPL Financial Holdings",
       "host": "lplfinancial.wd1.myworkdayjobs.com",
       "key": "workday:lplfinancial.wd1.myworkdayjobs.com:lplfinancial:university",
@@ -12132,6 +12199,15 @@
       "site": "ExternalCareers",
       "slug": "mcw",
       "wd": "wd503"
+    },
+    {
+      "ats": "workday",
+      "company": "MiniMed",
+      "host": "mdtkangaroo.wd108.myworkdayjobs.com",
+      "key": "workday:mdtkangaroo.wd108.myworkdayjobs.com:mdtkangaroo:minimedcareers",
+      "site": "MiniMedCareers",
+      "slug": "mdtkangaroo",
+      "wd": "wd108"
     },
     {
       "ats": "workday",
@@ -12906,6 +12982,15 @@
       "site": "MagniteCareers",
       "slug": "osv-rubicon",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Otis Elevator Co.",
+      "host": "otis.wd504.myworkdayjobs.com",
+      "key": "workday:otis.wd504.myworkdayjobs.com:otis:rec_ext_gateway",
+      "site": "REC_Ext_Gateway",
+      "slug": "otis",
+      "wd": "wd504"
     },
     {
       "ats": "workday",
@@ -13958,6 +14043,15 @@
       "key": "workday:silabs.wd1.myworkdayjobs.com:silabs:siliconlabscareers",
       "site": "SiliconlabsCareers",
       "slug": "silabs",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Simon Property Group",
+      "host": "simon.wd1.myworkdayjobs.com",
+      "key": "workday:simon.wd1.myworkdayjobs.com:simon:simon",
+      "site": "Simon",
+      "slug": "simon",
       "wd": "wd1"
     },
     {
@@ -15378,6 +15472,14 @@
       "key": "workday:wd5.myworkdaysite.com:microchiphr:external",
       "site": "External",
       "slug": "microchiphr"
+    },
+    {
+      "ats": "workday",
+      "company": "Oatey Company",
+      "host": "wd5.myworkdaysite.com",
+      "key": "workday:wd5.myworkdaysite.com:oatey:oatey_external_",
+      "site": "Oatey_External_",
+      "slug": "oatey"
     },
     {
       "ats": "workday",
