@@ -1082,6 +1082,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Ode with Anthropic",
+      "key": "ashby:odewithanthropic",
+      "slug": "odewithanthropic"
+    },
+    {
+      "ats": "ashby",
       "company": "Odin Dynamics, Inc",
       "key": "ashby:odin-dynamics",
       "slug": "odin-dynamics"
@@ -7095,6 +7101,12 @@
     },
     {
       "ats": "workable",
+      "company": "Diversified Services Network",
+      "key": "workable:dsn",
+      "slug": "dsn"
+    },
+    {
+      "ats": "workable",
       "company": "Elevate Semiconductor",
       "key": "workable:elevate-semiconductor",
       "slug": "elevate-semiconductor"
@@ -7746,6 +7758,15 @@
       "site": "ExternalSite",
       "slug": "alation",
       "wd": "wd503"
+    },
+    {
+      "ats": "workday",
+      "company": "Alcon",
+      "host": "alcon.wd5.myworkdayjobs.com",
+      "key": "workday:alcon.wd5.myworkdayjobs.com:alcon:careers_alcon",
+      "site": "careers_alcon",
+      "slug": "alcon",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
@@ -8499,7 +8520,7 @@
       "company": "BlackRock",
       "host": "blackrock.wd1.myworkdayjobs.com",
       "key": "workday:blackrock.wd1.myworkdayjobs.com:blackrock:blackrock_professional",
-      "site": "blackrock_professional",
+      "site": "BlackRock_Professional",
       "slug": "blackrock",
       "wd": "wd1"
     },
@@ -9642,7 +9663,7 @@
       "company": "CVS Health",
       "host": "cvshealth.wd1.myworkdayjobs.com",
       "key": "workday:cvshealth.wd1.myworkdayjobs.com:cvshealth:cvs_health_careers",
-      "site": "cvs_health_careers",
+      "site": "CVS_Health_Careers",
       "slug": "cvshealth",
       "wd": "wd1"
     },
@@ -9783,10 +9804,10 @@
     },
     {
       "ats": "workday",
-      "company": "Dentsu",
+      "company": "dentsu",
       "host": "dentsuaegis.wd3.myworkdayjobs.com",
       "key": "workday:dentsuaegis.wd3.myworkdayjobs.com:dentsuaegis:dan_global",
-      "site": "DAN_GLOBAL",
+      "site": "dan_global",
       "slug": "dentsuaegis",
       "wd": "wd3"
     },
@@ -9825,6 +9846,15 @@
       "site": "dfa_careers",
       "slug": "dimensional",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "DIRECTV",
+      "host": "directv.wd1.myworkdayjobs.com",
+      "key": "workday:directv.wd1.myworkdayjobs.com:directv:careers",
+      "site": "careers",
+      "slug": "directv",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -12333,7 +12363,7 @@
       "company": "Morgan Stanley",
       "host": "ms.wd5.myworkdayjobs.com",
       "key": "workday:ms.wd5.myworkdayjobs.com:ms:external",
-      "site": "External",
+      "site": "external",
       "slug": "ms",
       "wd": "wd5"
     },
