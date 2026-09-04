@@ -185,6 +185,14 @@
     },
     {
       "boards": [],
+      "company": "Envisioneering Inc",
+      "key": "024c012472c675626ec8d386",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 1,
+      "url": "https://envisioneeringinc.com/"
+    },
+    {
+      "boards": [],
       "company": "Atlantic City Electric",
       "key": "024d8e29dcdf48d3597c0614",
       "last_scanned": "2026-08-31",
@@ -270,7 +278,7 @@
       "boards": [],
       "company": "Auto-Chlor System",
       "key": "035bcf4d1ce3f6b37793c8c2",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://www.autochlor.com/"
     },
@@ -608,7 +616,7 @@
       "boards": [],
       "company": "The Amatriot Group",
       "key": "0670104eda403407a0da0752",
-      "last_scanned": "2026-08-23",
+      "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://amatriot.com/"
     },
@@ -2422,10 +2430,10 @@
       "url": "https://skanska.com/"
     },
     {
-      "company": "Mayo Clinic Rochester",
+      "company": "Mayo Clinic",
       "error": "public request failed for https://www.mayoclinic.org/: HTTP Error 403: Forbidden",
       "key": "19affc59acf2df264a06b2b1",
-      "last_scanned": "2026-09-02",
+      "last_scanned": "2026-09-04",
       "url": "https://www.mayoclinic.org/"
     },
     {
@@ -2884,6 +2892,16 @@
       "last_scanned": "2026-08-31",
       "resolved_roles": 0,
       "url": "https://www.exeloncorp.com/"
+    },
+    {
+      "boards": [
+        "workday:flextronics.wd1.myworkdayjobs.com:flextronics:anord_mardix_careers"
+      ],
+      "company": "Anord Mardix",
+      "key": "1f784bbdc7f07d084f000de9",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://anordmardix.com/"
     },
     {
       "boards": [
@@ -3390,6 +3408,16 @@
       "last_scanned": "2026-08-31",
       "resolved_roles": 0,
       "url": "https://www.zebra.com/"
+    },
+    {
+      "boards": [
+        "greenhouse:hydritechemicalco"
+      ],
+      "company": "Hydrite",
+      "key": "269848388a9ed7ea6e5a0665",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://www.hydrite.com/"
     },
     {
       "boards": [],
@@ -3901,6 +3929,16 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://x.ai/"
+    },
+    {
+      "boards": [
+        "bamboohr:massago"
+      ],
+      "company": "Massachusetts Attorney General's Office",
+      "key": "2c8891cef27f931728fe41db",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://www.mass.gov/ago"
     },
     {
       "boards": [],
@@ -4811,6 +4849,16 @@
       "url": "https://boomsupersonic.com/"
     },
     {
+      "boards": [
+        "greenhouse:graviticsinc"
+      ],
+      "company": "Gravitics Inc",
+      "key": "3463085a2ecb19a4b61df542",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://gravitics.com/"
+    },
+    {
       "company": "Leonardo DRS",
       "error": "public request failed for https://www.leonardodrs.com/: HTTP Error 403: Forbidden",
       "key": "346929349ac8137adba333b2",
@@ -5301,7 +5349,7 @@
       "boards": [],
       "company": "Arc'teryx Equipment",
       "key": "3965b2279a893d467c34b5d2",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://arcteryx.com/"
     },
@@ -5804,7 +5852,7 @@
       "boards": [],
       "company": "Principal Financial Group",
       "key": "3eb5982b95d488614a20a2c8",
-      "last_scanned": "2026-08-21",
+      "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://www.principalam.com/"
     },
@@ -5959,6 +6007,14 @@
       "key": "402b3c74b76212235bffcd36",
       "last_scanned": "2026-09-01",
       "url": "https://www.amd.com/"
+    },
+    {
+      "boards": [],
+      "company": "Forum Mobility",
+      "key": "402ef707a4e0f150f150d764",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://forummobility.com/"
     },
     {
       "boards": [],
@@ -6816,6 +6872,14 @@
     },
     {
       "boards": [],
+      "company": "Trimont",
+      "key": "494947b777f5d3344d97c53c",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://trimont.com/"
+    },
+    {
+      "boards": [],
       "company": "Anti-Defamation League",
       "key": "4950cecb298220b75e65a827",
       "last_scanned": "2026-09-04",
@@ -7195,7 +7259,7 @@
       "company": "Chime",
       "error": "public request failed for https://www.chime.com/: HTTP Error 403: Forbidden",
       "key": "4d1ceb939bca2840c568207e",
-      "last_scanned": "2026-08-27",
+      "last_scanned": "2026-09-04",
       "url": "https://www.chime.com/"
     },
     {
@@ -9524,7 +9588,7 @@
       "boards": [],
       "company": "Syska Hennessy Group",
       "key": "6332bc89beff75e6fddc4e99",
-      "last_scanned": "2026-08-21",
+      "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://www.syska.com/"
     },
@@ -11688,7 +11752,7 @@
       "boards": [],
       "company": "Progress Rail, A Caterpillar Company",
       "key": "78fe5c8d76bf36c0d55e9107",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://www.progressrail.com/"
     },
@@ -11837,7 +11901,7 @@
       "company": "Mayo Clinic Healthcare London",
       "error": "public request failed for https://www.mayoclinic.org/uk: HTTP Error 403: Forbidden",
       "key": "7ac988bf4c81feb7758eeabe",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-04",
       "url": "https://mayoclinichealthcare.co.uk/"
     },
     {
@@ -11903,7 +11967,7 @@
       "company": "Citadel",
       "error": "public request failed for https://www.citadel.com/: HTTP Error 403: Forbidden",
       "key": "7b436ef8b89ee85c4a6535e9",
-      "last_scanned": "2026-08-30",
+      "last_scanned": "2026-09-04",
       "url": "https://www.citadel.com/"
     },
     {
@@ -12169,6 +12233,16 @@
       "last_scanned": "2026-08-21",
       "resolved_roles": 0,
       "url": "https://blueseagull.org/"
+    },
+    {
+      "boards": [
+        "oracle:fa-exbd-saasfaprod1.fa.ocs.oraclecloud.com:cx_1"
+      ],
+      "company": "Tri-State Generation and Transmission Association, Inc.",
+      "key": "7f01d477bd4e89670b2f783f",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://tristate.coop/"
     },
     {
       "boards": [],
@@ -12804,6 +12878,14 @@
     },
     {
       "boards": [],
+      "company": "R&H Construction",
+      "key": "8541d712b0f219460940a33f",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://rhconst.com/"
+    },
+    {
+      "boards": [],
       "company": "Granules Pharmaceuticals, Inc.",
       "key": "85450e38885f432791ba01df",
       "last_scanned": "2026-08-15",
@@ -13395,6 +13477,14 @@
       "last_scanned": "2026-09-01",
       "resolved_roles": 0,
       "url": "https://vhchealthfoundation.org/"
+    },
+    {
+      "boards": [],
+      "company": "fairlife, LLC",
+      "key": "8a93f572615a5d747705497e",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://www.fairlife.com/"
     },
     {
       "boards": [],
@@ -14236,6 +14326,13 @@
       "url": "https://awardspring.com/"
     },
     {
+      "company": "Patterns-India\u00ae",
+      "error": "public hostname did not resolve: patternsindia.in",
+      "key": "93c9260f786063849ededb23",
+      "last_scanned": "2026-09-04",
+      "url": "https://patternsindia.in/"
+    },
+    {
       "boards": [],
       "company": "In-Depth Engineering Corporation",
       "key": "93d0f14aa700594511cd74a9",
@@ -14493,6 +14590,14 @@
       "last_scanned": "2026-08-21",
       "resolved_roles": 0,
       "url": "https://www.sehinc.com/"
+    },
+    {
+      "boards": [],
+      "company": "Applied Concepts, Inc.",
+      "key": "970c3cee418aacf36e2f0320",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://www.stalkerradar.com/"
     },
     {
       "boards": [],
@@ -15724,6 +15829,14 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.novartis.com/"
+    },
+    {
+      "boards": [],
+      "company": "Winchester Ammunition",
+      "key": "a4185ab6a9baf9cda07ef48c",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://www.winchester.com/"
     },
     {
       "boards": [],
@@ -17321,6 +17434,14 @@
       "url": "https://www.ctinnovations.com/"
     },
     {
+      "boards": [],
+      "company": "The Brewer-Garrett Company",
+      "key": "b4c386d0d73915cae345a215",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://www.brewer-garrett.com/"
+    },
+    {
       "boards": [
         "workday:srsdistribution.wd1.myworkdayjobs.com:srsdistribution:srs"
       ],
@@ -17568,7 +17689,7 @@
       "company": "MidwayUSA",
       "error": "public request failed for https://midwayusa.com/: HTTP Error 403: Forbidden",
       "key": "b6f61e781abe106ee0f5e2c9",
-      "last_scanned": "2026-08-23",
+      "last_scanned": "2026-09-04",
       "url": "https://midwayusa.com/"
     },
     {
@@ -18376,7 +18497,7 @@
       "boards": [],
       "company": "Two Sigma",
       "key": "bfa2dbe165fec3763140fc85",
-      "last_scanned": "2026-08-23",
+      "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://www.twosigma.com/"
     },
@@ -18816,7 +18937,7 @@
       "boards": [],
       "company": "Government Tactical Solutions, LLC",
       "key": "c3c6a9d7fae25874d45e45ff",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://www.govtact.com/"
     },
@@ -19096,6 +19217,13 @@
       "last_scanned": "2026-08-31",
       "resolved_roles": 0,
       "url": "https://www.ti.com/"
+    },
+    {
+      "company": "Edgehog Trading",
+      "error": "public request failed for https://www.edgehogtrading.com/: HTTP Error 429: Too Many Requests",
+      "key": "c70ccbef972a5e29dd8e692e",
+      "last_scanned": "2026-09-04",
+      "url": "https://www.edgehogtrading.com/"
     },
     {
       "boards": [],
@@ -19448,7 +19576,7 @@
       "boards": [],
       "company": "Oak Ridge Institute for Science and Education",
       "key": "ca7ddd2fbd08e0c901abc093",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://orise.orau.gov/"
     },
@@ -20206,6 +20334,14 @@
     },
     {
       "boards": [],
+      "company": "Yext",
+      "key": "d1ac2724db976e6ec81e0f51",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://www.yext.com/"
+    },
+    {
+      "boards": [],
       "company": "Marshall+Sterling",
       "key": "d1c9b3dee5e5d0e67cfbc852",
       "last_scanned": "2026-08-30",
@@ -20493,6 +20629,14 @@
       "last_scanned": "2026-08-28",
       "resolved_roles": 0,
       "url": "https://www.ascendantbrands.com/"
+    },
+    {
+      "boards": [],
+      "company": "QTS Medical Device Outsourcing",
+      "key": "d47c42fdb79bec5034918d07",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://qtspackage.com/"
     },
     {
       "boards": [],
@@ -21315,6 +21459,14 @@
       "url": "https://www.jcrewfactory.com/"
     },
     {
+      "boards": [],
+      "company": "Tata Elxsi",
+      "key": "dd36ddf475d913875d6e9f36",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://www.tataelxsi.com/"
+    },
+    {
       "boards": [
         "workday:swinerton.wd1.myworkdayjobs.com:swinerton:swinerton_external_career"
       ],
@@ -21536,7 +21688,7 @@
       "boards": [],
       "company": "Venmo",
       "key": "df3f23ad51d8d54d5080f70f",
-      "last_scanned": "2026-08-20",
+      "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://venmo.com/"
     },
@@ -22179,6 +22331,17 @@
     },
     {
       "boards": [
+        "greenhouse:bgeinc",
+        "greenhouse:bgeinccampus"
+      ],
+      "company": "BGE, Inc.",
+      "key": "e6abad0469f1a742163cb574",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://browngay.com/"
+    },
+    {
+      "boards": [
         "workday:ssrmining.wd108.myworkdayjobs.com:ssrmining:ssr_mining_careers"
       ],
       "company": "SSR Mining Inc.",
@@ -22305,6 +22468,16 @@
       "key": "e76619ad9660a1c181a33522",
       "last_scanned": "2026-09-04",
       "url": "https://www.servicenow.com/"
+    },
+    {
+      "boards": [
+        "workday:novozymes.wd103.myworkdayjobs.com:novozymes:novonesis_careers"
+      ],
+      "company": "Novonesis",
+      "key": "e77d948db9098b13b76bc64c",
+      "last_scanned": "2026-09-04",
+      "resolved_roles": 0,
+      "url": "https://www.novonesis.com/"
     },
     {
       "company": "Pembroke Hospital",
@@ -22840,7 +23013,7 @@
       "company": "The State University of New York",
       "error": "public request failed for https://www.suny.edu/: HTTP Error 403: Forbidden",
       "key": "ecbff3cf84f1626dbfe6489e",
-      "last_scanned": "2026-08-23",
+      "last_scanned": "2026-09-04",
       "url": "https://www.suny.edu/"
     },
     {
@@ -24112,7 +24285,7 @@
       "company": "WSP",
       "error": "public request failed for https://www.wsp.com/: HTTP Error 403: Forbidden",
       "key": "f87ce539e493ffa8dd66c10d",
-      "last_scanned": "2026-09-03",
+      "last_scanned": "2026-09-04",
       "url": "https://www.wsp.com/"
     },
     {

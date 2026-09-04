@@ -1891,6 +1891,13 @@
     },
     {
       "ats": "bamboohr",
+      "company": "Massachusetts Attorney General's Office",
+      "host": "massago.bamboohr.com",
+      "key": "bamboohr:massago",
+      "slug": "massago"
+    },
+    {
+      "ats": "bamboohr",
       "company": "Mujin",
       "host": "mujin.bamboohr.com",
       "key": "bamboohr:mujin",
@@ -2296,6 +2303,18 @@
       "company": "Becker Friedman Institute for Economics",
       "key": "greenhouse:bfiprep",
       "slug": "bfiprep"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "BGE, Inc.",
+      "key": "greenhouse:bgeinc",
+      "slug": "bgeinc"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "BGE, Inc.",
+      "key": "greenhouse:bgeinccampus",
+      "slug": "bgeinccampus"
     },
     {
       "ats": "greenhouse",
@@ -2920,6 +2939,12 @@
       "company": "Graphcore",
       "key": "greenhouse:graphcore",
       "slug": "graphcore"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Gravitics Inc",
+      "key": "greenhouse:graviticsinc",
+      "slug": "graviticsinc"
     },
     {
       "ats": "greenhouse",
@@ -5932,6 +5957,14 @@
       "key": "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
       "site": "CX_1",
       "slug": "fa-ewmy-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
+      "company": "Tri-State Generation and Transmission Association, Inc.",
+      "host": "fa-exbd-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-exbd-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "fa-exbd-saasfaprod1"
     },
     {
       "ats": "oracle",
@@ -10402,6 +10435,15 @@
     },
     {
       "ats": "workday",
+      "company": "Anord Mardix",
+      "host": "flextronics.wd1.myworkdayjobs.com",
+      "key": "workday:flextronics.wd1.myworkdayjobs.com:flextronics:anord_mardix_careers",
+      "site": "Anord_Mardix_Careers",
+      "slug": "flextronics",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Flex",
       "host": "flextronics.wd1.myworkdayjobs.com",
       "key": "workday:flextronics.wd1.myworkdayjobs.com:flextronics:careers",
@@ -12748,6 +12790,15 @@
       "site": "Novogradac",
       "slug": "novoco",
       "wd": "wd108"
+    },
+    {
+      "ats": "workday",
+      "company": "Novonesis",
+      "host": "novozymes.wd103.myworkdayjobs.com",
+      "key": "workday:novozymes.wd103.myworkdayjobs.com:novozymes:novonesis_careers",
+      "site": "Novonesis_Careers",
+      "slug": "novozymes",
+      "wd": "wd103"
     },
     {
       "ats": "workday",
