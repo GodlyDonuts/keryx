@@ -782,6 +782,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Juicebox",
+      "key": "ashby:juicebox",
+      "slug": "juicebox"
+    },
+    {
+      "ats": "ashby",
       "company": "Julius",
       "key": "ashby:julius",
       "slug": "julius"
@@ -3830,6 +3836,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Stoke Space",
+      "key": "greenhouse:stokespacetechnologies",
+      "slug": "stokespacetechnologies"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Strata Decision Technology",
       "key": "greenhouse:stratacareers",
       "slug": "stratacareers"
@@ -4259,6 +4271,12 @@
       "company": "XPENG Motors",
       "key": "greenhouse:xpengmotors",
       "slug": "xpengmotors"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Yext",
+      "key": "greenhouse:yext",
+      "slug": "yext"
     },
     {
       "ats": "greenhouse",
@@ -10726,10 +10744,10 @@
     },
     {
       "ats": "workday",
-      "company": "Geico",
+      "company": "GEICO",
       "host": "geico.wd1.myworkdayjobs.com",
       "key": "workday:geico.wd1.myworkdayjobs.com:geico:external",
-      "site": "External",
+      "site": "external",
       "slug": "geico",
       "wd": "wd1"
     },
@@ -13996,7 +14014,7 @@
       "company": "RSM",
       "host": "rsm.wd1.myworkdayjobs.com",
       "key": "workday:rsm.wd1.myworkdayjobs.com:rsm:rsmcareers",
-      "site": "RSMCareers",
+      "site": "rsmcareers",
       "slug": "rsm",
       "wd": "wd1"
     },

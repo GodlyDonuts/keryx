@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**4,946 internships · 4,540 new-grad roles · 9,486 total openings**
+**5,006 internships · 4,567 new-grad roles · 9,573 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,303 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 2,305 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 545 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 284 | **[View openings →](internships/spring-2027.md)** |
+| 🌱 Spring 2027 | 282 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 101 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,713 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 1,773 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 906 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,373 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,261 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 936 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,366 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,265 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,17 +38,17 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Enclos | Structural Engineering Internship | Bloomington, MN, United States | Not listed | not available | 2026-09-05 | **[Apply →](https://enclos.com/applicantpro/job/Minnesota/Bloomington/Structural-Engineering-Internship/4196614)**<br><sub>enclos.com</sub> |
+| HNTB | Construction Engineering & Inspection Intern (Co-Op) | Houston, TX (Fannin) | Not listed | not available | 2026-09-05 | **[Apply →](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Houston-TX-Fannin/Construction-Engineering---Inspection-Intern--Co-Op-_R-31474)**<br><sub>hntb.wd5.myworkdayjobs.com</sub> |
 | Loram Maintenance of Way, Inc. | Machine Learning / Artificial Intelligence (AI) Intern | Hamel, MN, United States | Not listed | not available | 2026-09-05 | **[Apply →](https://jobs.loram.com/job/23818519/machine-learning-artificial-intelligence-ai-intern-hamel-mn/)**<br><sub>jobs.loram.com</sub> |
 | Micron Technology | Intern - Process Development Engineer, Planar DRAM CMP | Boise, ID - Main Site | Not listed | not available | 2026-09-05 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Planar-DRAM-CMP_JR108060)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
+| Microsoft | Firmware Engineering INTERN | Washington, DC +1 | Not listed | not available | 2026-09-05 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393556981972)**<br><sub>apply.careers.microsoft.com</sub> |
+| Notion | Software Engineer Intern - Winter 2027 | San Francisco, CA +1 | Winter 2027 | By Dec 2027<br><sub>required / stated</sub> | 2026-09-05 | **[Apply →](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8)**<br><sub>jobs.ashbyhq.com</sub> |
 | Solidigm | Hardware & Product Development Engineering Intern | Rancho Cordova, CA | Summer 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.smartrecruiters.com/Solidigm/744000147613839)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Solidigm | Hardware, Electrical Validation and Product Engineering Intern - Validation | Rancho Cordova, CA | Summer 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.smartrecruiters.com/Solidigm/744000147613779)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Solidigm | Software Development & Firmware Engineering Intern - Multiple Teams | Rancho Cordova, CA, Longmont, CO, Sacramento, CA | Summer 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.smartrecruiters.com/Solidigm/744000147613629)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Solidigm | Software Engineering Intern - Firmware & AI Engineering | Rancho Cordova, CA | Summer 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.smartrecruiters.com/Solidigm/744000147613769)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Tesla | Software Engineer Intern - Code Hardening & Framework Resilience - Robotaxi | Palo Alto, CA | Spring 2027 | not available | 2026-09-05 | **[Apply →](https://www.tesla.com/careers/search/job/282598)**<br><sub>www.tesla.com</sub> |
 | AArete | Business Analytics Intern - Summer 2027 | Chicago, IL | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false)**<br><sub>jobs.jobvite.com</sub> |
-| ABB | Manufacturing Engineering/Documentation Intern - Fall 2026 | USA, AR, Jonesboro | Fall 2026 | not available | 2026-09-04 | **[Apply →](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298)**<br><sub>abb.wd3.myworkdayjobs.com</sub> |
-| Allegion | Summer Intern - Engineering - OpEx Distribution | Olathe, KS | Not listed | not available | 2026-09-04 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Olathe-KS/Summer-Intern---Engineering---OpEx-Distribution_JR37417-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
-| Allegion | Summer Intern - Manufacturing Engineering | Indianapolis, IN - Tobey Dr | Not listed | not available | 2026-09-04 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Manufacturing-Engineering_JR37477-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -59,17 +59,17 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | AiPrise | Software Engineer 1 | San Jose, CA | Not listed | not available | 2026-09-05 | **[Apply →](https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Applied Intuition | Embedded Test Engineer - New Grad - December 2026 | Sunnyvale, CA | 2026 | not available | 2026-09-05 | **[Apply →](https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c)**<br><sub>jobs.ashbyhq.com</sub> |
 | General Dynamics Mission Systems | Software Engineer | Scottsdale, AZ | Not listed | not available | 2026-09-05 | **[Apply →](https://careers-gdms.icims.com/jobs/74823/job?mobile=true&needsRedirect=false)**<br><sub>careers-gdms.icims.com</sub> |
+| Mass General Brigham | Data Analyst 1 | Somerville, MA | Not listed | not available | 2026-09-05 | **[Apply →](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Data-Analyst-I_RQ4078299)**<br><sub>massgeneralbrigham.wd1.myworkdayjobs.com</sub> |
+| Notion | Software Engineer - New Grad - Dec 2026 | San Francisco, CA | 2026 | Dec 2026–Feb 2027<br><sub>required / stated</sub> | 2026-09-05 | **[Apply →](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816)**<br><sub>jobs.ashbyhq.com</sub> |
+| Roblox | Software Engineer - Creator Business | San Mateo, CA | 2027 | not available | 2026-09-05 | **[Apply →](https://careers.roblox.com/jobs/8113334?gh_jid=8113334)**<br><sub>careers.roblox.com</sub> |
+| Twitch | Software Engineer I - Payments | San Francisco, CA | 2027 | not available | 2026-09-05 | **[Apply →](https://job-boards.greenhouse.io/twitch/jobs/8700578002)**<br><sub>job-boards.greenhouse.io</sub> |
+| Tyson Foods | Analytics Analyst | Springdale, AR | Not listed | not available | 2026-09-05 | **[Apply →](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Analytics-Analyst---Walmart_R0483678-1)**<br><sub>tysonfoods.wd5.myworkdayjobs.com</sub> |
+| Tyson Foods | Customer Category Analyst - Costco | Springdale, AR | Not listed | not available | 2026-09-05 | **[Apply →](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Customer-Category-Analyst---Costco_R0483651-1)**<br><sub>tysonfoods.wd5.myworkdayjobs.com</sub> |
+| Verkada | Backend Engineer - Connectivity | San Mateo, CA | 2027 | not available | 2026-09-05 | **[Apply →](https://job-boards.greenhouse.io/verkada/jobs/5194598007)**<br><sub>job-boards.greenhouse.io</sub> |
 | WHOOP | Software Engineer I - Frontend - Growth | Boston, MA | 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.ashbyhq.com/whoop/ede8ba03-c763-49a1-9e6c-4a296fefd087)**<br><sub>jobs.ashbyhq.com</sub> |
 | Abbott | Senior Master Data Analyst | Abbott Park, Green Oaks, IL | Not listed | not available | 2026-09-04 | **[Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Abbott-Park/Senior-Master-Data-Analyst_31160329-2)**<br><sub>abbott.wd5.myworkdayjobs.com</sub> |
-| Abbott | Senior Master Data Analyst | Abbott Park, Green Oaks, IL | Not listed | not available | 2026-09-04 | **[Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Senior-Master-Data-Analyst_31160329)**<br><sub>abbott.wd5.myworkdayjobs.com</sub> |
-| Accenture | Associate Software Engineer - Pega | Washington, DC | 2027 | not available | 2026-09-04 | **[Apply →](https://boards.greenhouse.io/accenturefederalservices/jobs/4711147006)**<br><sub>boards.greenhouse.io</sub> |
-| Aerotech | Software Engineer - Application Development | Pittsburgh, PA | Not listed | not available | 2026-09-04 | **[Apply →](https://aerotech.applytojob.com/apply/F6xsydip1r/Software-Engineer-Application-Development)**<br><sub>aerotech.applytojob.com</sub> |
-| Aerotech | Software Engineer - Enterprise Development | Pittsburgh, PA | Not listed | not available | 2026-09-04 | **[Apply →](https://aerotech.applytojob.com/apply/K8ctztnPW6/Software-Engineer-Enterprise-Development)**<br><sub>aerotech.applytojob.com</sub> |
-| AeroVironment | Firmware Engineer - Phased Array Communication Ground Systems | Albuquerque, NM | Not listed | not available | 2026-09-04 | **[Apply →](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/Firmware-Engineer-for-Phased-Array-Communication-Ground-Systems_8663)**<br><sub>avav.wd1.myworkdayjobs.com</sub> |
-| Amazon | Software Development Engineer - Amazon Dedicated Cloud - Early Career - 2026 | Seattle, WA | 2026 | not available | 2026-09-04 | **[Apply →](https://www.amazon.jobs/jobs/10529546/apply)**<br><sub>www.amazon.jobs</sub> |
-| Arcfield | Data Scientist 1 | Chantilly, VA | Not listed | not available | 2026-09-04 | **[Apply →](https://careers.arcfield.com/jobs/8614?icims=1)**<br><sub>careers.arcfield.com</sub> |
-| Barclays | Technology Developer Graduate Program | Hanover, NJ | Not listed | not available | 2026-09-04 | **[Apply →](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244)**<br><sub>barclays.wd3.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
