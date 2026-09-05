@@ -15,7 +15,7 @@
       ],
       "company": "Fab2",
       "key": "001809edbf4cb4e67fcb2ad7",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-05",
       "resolved_roles": 0,
       "url": "https://atomicsemi.com/"
     },
@@ -5685,6 +5685,14 @@
     },
     {
       "boards": [],
+      "company": "Nakupuna Companies",
+      "key": "3b3b0c5a6678c68c2e708e47",
+      "last_scanned": "2026-09-05",
+      "resolved_roles": 0,
+      "url": "https://www.nakupuna.com/"
+    },
+    {
+      "boards": [],
       "company": "Novateur Research Solutions",
       "key": "3b473db75ac0573514c84c71",
       "last_scanned": "2026-08-20",
@@ -8731,7 +8739,7 @@
       "company": "NASA Jet Propulsion Laboratory",
       "error": "public request failed for https://www.jpl.nasa.gov/: HTTP Error 403: Forbidden",
       "key": "58b401ed83d58197e22370b9",
-      "last_scanned": "2026-09-03",
+      "last_scanned": "2026-09-05",
       "url": "https://www.jpl.nasa.gov/"
     },
     {
@@ -9604,6 +9612,14 @@
       "last_scanned": "2026-08-27",
       "resolved_roles": 0,
       "url": "https://www.schoolspring.com/"
+    },
+    {
+      "boards": [],
+      "company": "Navi Operations",
+      "key": "613b25a3c0877575b7ef80a5",
+      "last_scanned": "2026-09-05",
+      "resolved_roles": 0,
+      "url": "https://naviops.ai/"
     },
     {
       "boards": [],
@@ -12740,7 +12756,7 @@
       "boards": [],
       "company": "Yank Technologies, Inc.",
       "key": "80cf7818f71af7b08bc389ef",
-      "last_scanned": "2026-08-20",
+      "last_scanned": "2026-09-05",
       "resolved_roles": 0,
       "url": "https://www.yanktechnologies.com/"
     },
@@ -13494,7 +13510,7 @@
       "boards": [],
       "company": "Infineon Technologies",
       "key": "886663a480c269e2dcbfe0ce",
-      "last_scanned": "2026-08-29",
+      "last_scanned": "2026-09-05",
       "resolved_roles": 0,
       "url": "https://www.infineon.com/"
     },
@@ -13507,6 +13523,14 @@
       "last_scanned": "2026-08-30",
       "resolved_roles": 0,
       "url": "https://www.baxter.com/"
+    },
+    {
+      "boards": [],
+      "company": "CyOpsPath",
+      "key": "88b4fb41c3f88f157ee6df49",
+      "last_scanned": "2026-09-05",
+      "resolved_roles": 0,
+      "url": "https://www.cyopspath.com/"
     },
     {
       "boards": [],
@@ -16772,7 +16796,7 @@
       "boards": [],
       "company": "Simpson Gumpertz & Heger (SGH)",
       "key": "aa3f72e21296485b6ca44311",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-05",
       "resolved_roles": 0,
       "url": "https://www.sgh.com/"
     },
@@ -18163,6 +18187,14 @@
       "last_scanned": "2026-08-21",
       "resolved_roles": 0,
       "url": "https://mackieconsult.com/"
+    },
+    {
+      "boards": [],
+      "company": "Leviton",
+      "key": "b854266289bf463068b3ecf6",
+      "last_scanned": "2026-09-05",
+      "resolved_roles": 0,
+      "url": "https://www.leviton.com/"
     },
     {
       "boards": [],
@@ -20761,7 +20793,7 @@
       "boards": [],
       "company": "LG Electronics",
       "key": "d1969c88a763a49135dc78b7",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-09-05",
       "resolved_roles": 0,
       "url": "https://www.lg.com/"
     },
@@ -20788,6 +20820,17 @@
       "last_scanned": "2026-08-26",
       "resolved_roles": 0,
       "url": "https://www.cox.com/"
+    },
+    {
+      "boards": [
+        "workday:hexcel.wd5.myworkdayjobs.com:hexcel:earlyhexcelcareers",
+        "workday:hexcel.wd5.myworkdayjobs.com:hexcel:hexcelcareers"
+      ],
+      "company": "Hexcel Corporation",
+      "key": "d1da6eefb1c4049cb4733b8d",
+      "last_scanned": "2026-09-05",
+      "resolved_roles": 0,
+      "url": "https://hexcel.com/"
     },
     {
       "boards": [
@@ -22424,6 +22467,14 @@
       "last_scanned": "2026-08-21",
       "resolved_roles": 0,
       "url": "https://baystatefinancial.com/"
+    },
+    {
+      "boards": [],
+      "company": "Drive Medical",
+      "key": "e283e074092fb3592cb2845d",
+      "last_scanned": "2026-09-05",
+      "resolved_roles": 0,
+      "url": "https://www.drivemedical.com/"
     },
     {
       "boards": [],

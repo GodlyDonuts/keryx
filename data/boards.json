@@ -11122,6 +11122,24 @@
     },
     {
       "ats": "workday",
+      "company": "Hexcel Corporation",
+      "host": "hexcel.wd5.myworkdayjobs.com",
+      "key": "workday:hexcel.wd5.myworkdayjobs.com:hexcel:earlyhexcelcareers",
+      "site": "EarlyHexcelCareers",
+      "slug": "hexcel",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Hexcel Corporation",
+      "host": "hexcel.wd5.myworkdayjobs.com",
+      "key": "workday:hexcel.wd5.myworkdayjobs.com:hexcel:hexcelcareers",
+      "site": "HexcelCareers",
+      "slug": "hexcel",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Emory Healthcare",
       "host": "hhc.wd5.myworkdayjobs.com",
       "key": "workday:hhc.wd5.myworkdayjobs.com:hhc:hhc",

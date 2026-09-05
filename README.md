@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**4,996 internships · 4,539 new-grad roles · 9,535 total openings**
+**4,977 internships · 4,544 new-grad roles · 9,521 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,296 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 2,300 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 543 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 280 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 101 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,776 | **[View openings →](internships/unscheduled.md)** |
+| 🌱 Spring 2027 | 281 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 100 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 1,753 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 905 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,360 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,274 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 907 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,370 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,267 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -47,8 +47,8 @@ Recent internship and co-op listings that open the employer's application page d
 | Solidigm | Software Engineering Intern - Firmware & AI Engineering | Rancho Cordova, CA | Summer 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.smartrecruiters.com/Solidigm/744000147613769)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Tesla | Software Engineer Intern - Code Hardening & Framework Resilience - Robotaxi | Palo Alto, CA | Spring 2027 | not available | 2026-09-05 | **[Apply →](https://www.tesla.com/careers/search/job/282598)**<br><sub>www.tesla.com</sub> |
 | AArete | Business Analytics Intern - Summer 2027 | Chicago, IL | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false)**<br><sub>jobs.jobvite.com</sub> |
-| ABB | Manufacturing Engineering/Documentation Intern - Fall 2026 | USA, AR, Jonesboro | Fall 2026 | not available | 2026-09-04 | **[Apply →](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298)**<br><sub>abb.wd3.myworkdayjobs.com</sub> |
 | Allegion | Summer Intern - Engineering - OpEx Distribution | Olathe, KS | Not listed | not available | 2026-09-04 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Olathe-KS/Summer-Intern---Engineering---OpEx-Distribution_JR37417-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
+| Allegion | Summer Intern - Manufacturing Engineering | Indianapolis, IN - Tobey Dr | Not listed | not available | 2026-09-04 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Manufacturing-Engineering_JR37477-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -59,6 +59,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | AiPrise | Software Engineer 1 | San Jose, CA | Not listed | not available | 2026-09-05 | **[Apply →](https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Amentum | Software Developer | Dahlgren, VA | 2027 | not available | 2026-09-05 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Software-Developer_R0168140)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
 | Applied Intuition | Embedded Test Engineer - New Grad - December 2026 | Sunnyvale, CA | 2026 | not available | 2026-09-05 | **[Apply →](https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c)**<br><sub>jobs.ashbyhq.com</sub> |
 | Barclays | 2027 Quantitative Analytics Analyst Graduate Program New York | New York, 745 7th Avenue | 2027 | not available | 2026-09-05 | **[Apply →](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/XMLNAME-2027-Quantitative-Analytics-Analyst-Graduate-Program-New-York_JR-0000131452)**<br><sub>barclays.wd3.myworkdayjobs.com</sub> |
 | General Dynamics Mission Systems | Software Engineer | Scottsdale, AZ | Not listed | not available | 2026-09-05 | **[Apply →](https://careers-gdms.icims.com/jobs/74823/job?mobile=true&needsRedirect=false)**<br><sub>careers-gdms.icims.com</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Tyson Foods | Analytics Analyst | Springdale, AR | Not listed | not available | 2026-09-05 | **[Apply →](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Analytics-Analyst---Walmart_R0483678-1)**<br><sub>tysonfoods.wd5.myworkdayjobs.com</sub> |
 | Tyson Foods | Customer Category Analyst - Costco | Springdale, AR | Not listed | not available | 2026-09-05 | **[Apply →](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Customer-Category-Analyst---Costco_R0483651-1)**<br><sub>tysonfoods.wd5.myworkdayjobs.com</sub> |
 | Verkada | Backend Engineer - Connectivity | San Mateo, CA | 2027 | not available | 2026-09-05 | **[Apply →](https://job-boards.greenhouse.io/verkada/jobs/5194598007)**<br><sub>job-boards.greenhouse.io</sub> |
-| WHOOP | Software Engineer I - Frontend - Growth | Boston, MA | 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.ashbyhq.com/whoop/ede8ba03-c763-49a1-9e6c-4a296fefd087)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
