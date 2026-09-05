@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**4,932 internships · 4,547 new-grad roles · 9,479 total openings**
+**4,951 internships · 4,545 new-grad roles · 9,496 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,296 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 2,300 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 541 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 280 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 101 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,714 | **[View openings →](internships/unscheduled.md)** |
+| 🌱 Spring 2027 | 281 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 104 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 1,725 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 904 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,373 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,270 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 908 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,372 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,265 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -69,7 +69,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Twitch | Software Engineer I - Payments | San Francisco, CA | 2027 | not available | 2026-09-05 | **[Apply →](https://job-boards.greenhouse.io/twitch/jobs/8700578002)**<br><sub>job-boards.greenhouse.io</sub> |
 | Tyson Foods | Analytics Analyst | Springdale, AR | Not listed | not available | 2026-09-05 | **[Apply →](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Analytics-Analyst---Walmart_R0483678-1)**<br><sub>tysonfoods.wd5.myworkdayjobs.com</sub> |
 | Tyson Foods | Customer Category Analyst - Costco | Springdale, AR | Not listed | not available | 2026-09-05 | **[Apply →](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Customer-Category-Analyst---Costco_R0483651-1)**<br><sub>tysonfoods.wd5.myworkdayjobs.com</sub> |
-| Verkada | Backend Engineer - Connectivity | San Mateo, CA | 2027 | not available | 2026-09-05 | **[Apply →](https://job-boards.greenhouse.io/verkada/jobs/5194598007)**<br><sub>job-boards.greenhouse.io</sub> |
+| Valmont | IT Associate Programmer Analyst | Carrollton, TX, Omaha, NE | Not listed | not available | 2026-09-05 | **[Apply →](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/IT-Associate-Programmer-Analyst_R28670)**<br><sub>valmont.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
