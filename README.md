@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**4,968 internships · 4,570 new-grad roles · 9,538 total openings**
+**4,946 internships · 4,540 new-grad roles · 9,486 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,311 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 544 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 285 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 99 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,729 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 2,303 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 545 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 284 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 101 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 1,713 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 892 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,410 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,268 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 906 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,373 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,261 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,9 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Enclos | Structural Engineering Internship | Bloomington, MN, United States | Not listed | not available | 2026-09-05 | **[Apply →](https://enclos.com/applicantpro/job/Minnesota/Bloomington/Structural-Engineering-Internship/4196614)**<br><sub>enclos.com</sub> |
+| Loram Maintenance of Way, Inc. | Machine Learning / Artificial Intelligence (AI) Intern | Hamel, MN, United States | Not listed | not available | 2026-09-05 | **[Apply →](https://jobs.loram.com/job/23818519/machine-learning-artificial-intelligence-ai-intern-hamel-mn/)**<br><sub>jobs.loram.com</sub> |
+| Micron Technology | Intern - Process Development Engineer, Planar DRAM CMP | Boise, ID - Main Site | Not listed | not available | 2026-09-05 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Planar-DRAM-CMP_JR108060)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
 | Solidigm | Hardware & Product Development Engineering Intern | Rancho Cordova, CA | Summer 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.smartrecruiters.com/Solidigm/744000147613839)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Solidigm | Hardware, Electrical Validation and Product Engineering Intern - Validation | Rancho Cordova, CA | Summer 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.smartrecruiters.com/Solidigm/744000147613779)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Solidigm | Software Development & Firmware Engineering Intern - Multiple Teams | Rancho Cordova, CA, Longmont, CO, Sacramento, CA | Summer 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.smartrecruiters.com/Solidigm/744000147613629)**<br><sub>jobs.smartrecruiters.com</sub> |
@@ -46,9 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | ABB | Manufacturing Engineering/Documentation Intern - Fall 2026 | USA, AR, Jonesboro | Fall 2026 | not available | 2026-09-04 | **[Apply →](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298)**<br><sub>abb.wd3.myworkdayjobs.com</sub> |
 | Allegion | Summer Intern - Engineering - OpEx Distribution | Olathe, KS | Not listed | not available | 2026-09-04 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Olathe-KS/Summer-Intern---Engineering---OpEx-Distribution_JR37417-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
 | Allegion | Summer Intern - Manufacturing Engineering | Indianapolis, IN - Tobey Dr | Not listed | not available | 2026-09-04 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Manufacturing-Engineering_JR37477-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
-| Allied Solutions | Sales Analytics Intern | Carmel, IN | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Sales-Analytics-Intern_R-011098)**<br><sub>alliedsolutions.wd501.myworkdayjobs.com</sub> |
-| Amazon | Software Development Engineer Intern - Robotics | Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington County, Arlington, VA, Bellevue, WA, Westborough, MA | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027)**<br><sub>amazon.jobs</sub> |
-| Amazon | Software Development Engineer Intern, ROBOTICS - 2027 | North Reading, Massachusetts, USA | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027)**<br><sub>www.amazon.jobs</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -60,6 +60,7 @@ Recent full-time opportunities that open the employer's application page directl
 |---|---|---|---|---|---:|---|
 | AiPrise | Software Engineer 1 | San Jose, CA | Not listed | not available | 2026-09-05 | **[Apply →](https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | General Dynamics Mission Systems | Software Engineer | Scottsdale, AZ | Not listed | not available | 2026-09-05 | **[Apply →](https://careers-gdms.icims.com/jobs/74823/job?mobile=true&needsRedirect=false)**<br><sub>careers-gdms.icims.com</sub> |
+| WHOOP | Software Engineer I - Frontend - Growth | Boston, MA | 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.ashbyhq.com/whoop/ede8ba03-c763-49a1-9e6c-4a296fefd087)**<br><sub>jobs.ashbyhq.com</sub> |
 | Abbott | Senior Master Data Analyst | Abbott Park, Green Oaks, IL | Not listed | not available | 2026-09-04 | **[Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Abbott-Park/Senior-Master-Data-Analyst_31160329-2)**<br><sub>abbott.wd5.myworkdayjobs.com</sub> |
 | Abbott | Senior Master Data Analyst | Abbott Park, Green Oaks, IL | Not listed | not available | 2026-09-04 | **[Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Senior-Master-Data-Analyst_31160329)**<br><sub>abbott.wd5.myworkdayjobs.com</sub> |
 | Accenture | Associate Software Engineer - Pega | Washington, DC | 2027 | not available | 2026-09-04 | **[Apply →](https://boards.greenhouse.io/accenturefederalservices/jobs/4711147006)**<br><sub>boards.greenhouse.io</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Amazon | Software Development Engineer - Amazon Dedicated Cloud - Early Career - 2026 | Seattle, WA | 2026 | not available | 2026-09-04 | **[Apply →](https://www.amazon.jobs/jobs/10529546/apply)**<br><sub>www.amazon.jobs</sub> |
 | Arcfield | Data Scientist 1 | Chantilly, VA | Not listed | not available | 2026-09-04 | **[Apply →](https://careers.arcfield.com/jobs/8614?icims=1)**<br><sub>careers.arcfield.com</sub> |
 | Barclays | Technology Developer Graduate Program | Hanover, NJ | Not listed | not available | 2026-09-04 | **[Apply →](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244)**<br><sub>barclays.wd3.myworkdayjobs.com</sub> |
-| Barclays | Technology Developer Graduate Program - Expert Program | Wilmington, DE | Not listed | not available | 2026-09-04 | **[Apply →](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Expert-Graduate-Program-Wilmington_JR-0000123440)**<br><sub>barclays.wd3.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

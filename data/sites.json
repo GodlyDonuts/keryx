@@ -386,7 +386,7 @@
       "company": "Tennessee Valley Authority",
       "error": "public request failed for https://www.tva.com/: HTTP Error 403: Forbidden",
       "key": "047caff15764e0d014a0901c",
-      "last_scanned": "2026-09-03",
+      "last_scanned": "2026-09-05",
       "url": "https://www.tva.com/"
     },
     {
@@ -1555,6 +1555,17 @@
       "last_scanned": "2026-09-01",
       "resolved_roles": 0,
       "url": "https://onecallcm.com/"
+    },
+    {
+      "boards": [
+        "workday:bridgestone.wd5.myworkdayjobs.com:bridgestone:canadaexternalcareers",
+        "workday:bridgestone.wd5.myworkdayjobs.com:bridgestone:latamexternalcareers"
+      ],
+      "company": "Bridgestone Americas",
+      "key": "10a8816c13193c809571dfaa",
+      "last_scanned": "2026-09-05",
+      "resolved_roles": 0,
+      "url": "https://www.bridgestoneamericas.com/"
     },
     {
       "boards": [],
@@ -3039,7 +3050,7 @@
       "company": "WHOOP",
       "error": "public request failed for https://www.whoop.com/: HTTP Error 403: Forbidden",
       "key": "208af606069f130189efa0d5",
-      "last_scanned": "2026-09-03",
+      "last_scanned": "2026-09-05",
       "url": "https://www.whoop.com/"
     },
     {
@@ -6338,6 +6349,14 @@
     },
     {
       "boards": [],
+      "company": "Loram Maintenance of Way, Inc.",
+      "key": "4306898763f22f20278d936c",
+      "last_scanned": "2026-09-05",
+      "resolved_roles": 1,
+      "url": "https://jobs.loram.com/"
+    },
+    {
+      "boards": [],
       "company": "University of Kentucky",
       "key": "43389f9bd0896791a4cb7098",
       "last_scanned": "2026-08-31",
@@ -7542,7 +7561,7 @@
       ],
       "company": "Cherokee Federal",
       "key": "4f0ce3460608f52311e7fe46",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-09-05",
       "resolved_roles": 0,
       "url": "https://cherokee-federal.com/"
     },
@@ -14652,7 +14671,7 @@
       ],
       "company": "Enviva",
       "key": "94d8090ad21380bacdb3ad43",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-05",
       "resolved_roles": 0,
       "url": "https://www.envivabiomass.com/"
     },
@@ -16894,6 +16913,14 @@
     },
     {
       "boards": [],
+      "company": "BNSF Railway",
+      "key": "ac6eb95f002ded811a17571d",
+      "last_scanned": "2026-09-05",
+      "resolved_roles": 0,
+      "url": "https://www.bnsf.com/"
+    },
+    {
+      "boards": [],
       "company": "Rich Earth Institute",
       "key": "ac8bcbb586bb28b22465f790",
       "last_scanned": "2026-08-19",
@@ -18230,7 +18257,7 @@
       "boards": [],
       "company": "Zipline",
       "key": "ba6a68ee31e63b0e77c38c53",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-09-05",
       "resolved_roles": 0,
       "url": "https://www.getzipline.com/"
     },
@@ -19898,7 +19925,7 @@
       "boards": [],
       "company": "The Nuclear Company",
       "key": "ca793ff99952b0acf0c96c8f",
-      "last_scanned": "2026-08-29",
+      "last_scanned": "2026-09-05",
       "resolved_roles": 0,
       "url": "https://www.thenuclearcompany.com/"
     },
@@ -24032,7 +24059,7 @@
       "boards": [],
       "company": "Mizuho OSI",
       "key": "f19518d93304bd6771915e93",
-      "last_scanned": "2026-08-29",
+      "last_scanned": "2026-09-05",
       "resolved_roles": 0,
       "url": "https://mizuhosi.com/"
     },
@@ -24588,6 +24615,14 @@
     },
     {
       "boards": [],
+      "company": "US Pharmacopeia",
+      "key": "f719e3a0e70cb929e3080511",
+      "last_scanned": "2026-09-05",
+      "resolved_roles": 0,
+      "url": "https://www.usp.org/"
+    },
+    {
+      "boards": [],
       "company": "National Futures Association",
       "key": "f72400b00d2f990894ddb4f1",
       "last_scanned": "2026-09-02",
@@ -24817,6 +24852,14 @@
       "last_scanned": "2026-08-28",
       "resolved_roles": 0,
       "url": "https://www.landisgyr.com/"
+    },
+    {
+      "boards": [],
+      "company": "Enclos",
+      "key": "fab5a4351d0b1961ad71ece9",
+      "last_scanned": "2026-09-05",
+      "resolved_roles": 1,
+      "url": "https://enclos.com/"
     },
     {
       "boards": [],
