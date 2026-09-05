@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**5,015 internships · 4,575 new-grad roles · 9,590 total openings**
+**4,968 internships · 4,570 new-grad roles · 9,538 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,334 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 545 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 289 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 101 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,746 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 2,311 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 544 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 285 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 99 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 1,729 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 894 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,418 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,263 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 892 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,410 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,268 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -43,12 +43,12 @@ Recent internship and co-op listings that open the employer's application page d
 | Solidigm | Software Engineering Intern - Firmware & AI Engineering | Rancho Cordova, CA | Summer 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.smartrecruiters.com/Solidigm/744000147613769)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Tesla | Software Engineer Intern - Code Hardening & Framework Resilience - Robotaxi | Palo Alto, CA | Spring 2027 | not available | 2026-09-05 | **[Apply →](https://www.tesla.com/careers/search/job/282598)**<br><sub>www.tesla.com</sub> |
 | AArete | Business Analytics Intern - Summer 2027 | Chicago, IL | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false)**<br><sub>jobs.jobvite.com</sub> |
+| ABB | Manufacturing Engineering/Documentation Intern - Fall 2026 | USA, AR, Jonesboro | Fall 2026 | not available | 2026-09-04 | **[Apply →](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298)**<br><sub>abb.wd3.myworkdayjobs.com</sub> |
 | Allegion | Summer Intern - Engineering - OpEx Distribution | Olathe, KS | Not listed | not available | 2026-09-04 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Olathe-KS/Summer-Intern---Engineering---OpEx-Distribution_JR37417-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
 | Allegion | Summer Intern - Manufacturing Engineering | Indianapolis, IN - Tobey Dr | Not listed | not available | 2026-09-04 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Manufacturing-Engineering_JR37477-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
 | Allied Solutions | Sales Analytics Intern | Carmel, IN | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Sales-Analytics-Intern_R-011098)**<br><sub>alliedsolutions.wd501.myworkdayjobs.com</sub> |
 | Amazon | Software Development Engineer Intern - Robotics | Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington County, Arlington, VA, Bellevue, WA, Westborough, MA | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027)**<br><sub>amazon.jobs</sub> |
 | Amazon | Software Development Engineer Intern, ROBOTICS - 2027 | North Reading, Massachusetts, USA | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027)**<br><sub>www.amazon.jobs</sub> |
-| Apex | Simulation Software Engineering Intern | LA | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://jobs.ashbyhq.com/apex-technology-inc/d3e21f84-3637-4521-833d-fd07b3ca5f2e/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,6 +58,7 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| AiPrise | Software Engineer 1 | San Jose, CA | Not listed | not available | 2026-09-05 | **[Apply →](https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | General Dynamics Mission Systems | Software Engineer | Scottsdale, AZ | Not listed | not available | 2026-09-05 | **[Apply →](https://careers-gdms.icims.com/jobs/74823/job?mobile=true&needsRedirect=false)**<br><sub>careers-gdms.icims.com</sub> |
 | Abbott | Senior Master Data Analyst | Abbott Park, Green Oaks, IL | Not listed | not available | 2026-09-04 | **[Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Abbott-Park/Senior-Master-Data-Analyst_31160329-2)**<br><sub>abbott.wd5.myworkdayjobs.com</sub> |
 | Abbott | Senior Master Data Analyst | Abbott Park, Green Oaks, IL | Not listed | not available | 2026-09-04 | **[Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Senior-Master-Data-Analyst_31160329)**<br><sub>abbott.wd5.myworkdayjobs.com</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Arcfield | Data Scientist 1 | Chantilly, VA | Not listed | not available | 2026-09-04 | **[Apply →](https://careers.arcfield.com/jobs/8614?icims=1)**<br><sub>careers.arcfield.com</sub> |
 | Barclays | Technology Developer Graduate Program | Hanover, NJ | Not listed | not available | 2026-09-04 | **[Apply →](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244)**<br><sub>barclays.wd3.myworkdayjobs.com</sub> |
 | Barclays | Technology Developer Graduate Program - Expert Program | Wilmington, DE | Not listed | not available | 2026-09-04 | **[Apply →](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Expert-Graduate-Program-Wilmington_JR-0000123440)**<br><sub>barclays.wd3.myworkdayjobs.com</sub> |
-| BGE, Inc | AUSTIN - Electrical Engineer, New Grad | 101 W Louis Henna Blvd, Suite 400, Austin, Texas 78728 | Not listed | not stated | 2026-09-04 | **[Apply →](https://job-boards.greenhouse.io/bgeinccampus/jobs/5416970008)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
