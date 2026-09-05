@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**4,971 internships · 4,551 new-grad roles · 9,522 total openings**
+**4,947 internships · 4,554 new-grad roles · 9,501 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,311 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 2,295 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 549 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 290 | **[View openings →](internships/spring-2027.md)** |
+| 🌱 Spring 2027 | 287 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 96 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,725 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 1,720 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 890 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,379 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,282 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 1,396 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,268 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,6 +38,8 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | AArete | Business Analytics Intern - Summer 2027 | Chicago, IL | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false)**<br><sub>jobs.jobvite.com</sub> |
+| Allegion | Summer Intern - Engineering - OpEx Distribution | Olathe, KS | Not listed | not available | 2026-09-04 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Olathe-KS/Summer-Intern---Engineering---OpEx-Distribution_JR37417-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
+| Allegion | Summer Intern - Manufacturing Engineering | Indianapolis, IN - Tobey Dr | Not listed | not available | 2026-09-04 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Manufacturing-Engineering_JR37477-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
 | Amazon | Software Development Engineer Intern - Robotics | Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington County, Arlington, VA, Bellevue, WA, Westborough, MA | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027)**<br><sub>amazon.jobs</sub> |
 | Amazon | Software Development Engineer Intern, ROBOTICS - 2027 | North Reading, Massachusetts, USA | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027)**<br><sub>www.amazon.jobs</sub> |
 | Apex | Simulation Software Engineering Intern | LA | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://jobs.ashbyhq.com/apex-technology-inc/d3e21f84-3637-4521-833d-fd07b3ca5f2e/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
@@ -47,8 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | Berkeley Industrial Engineering & Operations Research | Quantitative Development Intern at DL Trading | Indiana, United States | Not listed | not available | 2026-09-04 | **[Apply →](https://berkeley.joinhandshake.com/jobs/11307049/share_preview)**<br><sub>berkeley.joinhandshake.com</sub> |
 | BGE, Inc | HOUSTON - Electrical Engineer, Internship | 10777 Westheimer Road, Suite 400, Houston, Texas 77042 | Not listed | not stated | 2026-09-04 | **[Apply →](https://job-boards.greenhouse.io/bgeinc/jobs/5416858008)**<br><sub>job-boards.greenhouse.io</sub> |
 | BGE, Inc | HOUSTON - Electrical Engineer, Internship | 10777 Westheimer Road, Suite 400, Houston, Texas 77042 | Not listed | not stated | 2026-09-04 | **[Apply →](https://job-boards.greenhouse.io/bgeinccampus/jobs/5416857008)**<br><sub>job-boards.greenhouse.io</sub> |
-| Bosch | Treasury Analyst Intern | Mount Prospect, IL, us | Not listed | not available | 2026-09-04 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000147506529)**<br><sub>jobs.smartrecruiters.com</sub> |
-| CACI | Software Engineer Intern | Ypsilanti, MI | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
