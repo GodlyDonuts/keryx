@@ -6886,6 +6886,12 @@
     },
     {
       "ats": "smartrecruiters",
+      "company": "Solidigm",
+      "key": "smartrecruiters:solidigm",
+      "slug": "Solidigm"
+    },
+    {
+      "ats": "smartrecruiters",
       "company": "Sopra Steria",
       "key": "smartrecruiters:soprasteria1",
       "slug": "SopraSteria1"
@@ -11272,10 +11278,64 @@
     },
     {
       "ats": "workday",
+      "company": "Hy-Vee, Inc.",
+      "host": "hyvee.wd1.myworkdayjobs.com",
+      "key": "workday:hyvee.wd1.myworkdayjobs.com:hyvee:ddfoodscareers",
+      "site": "DDFoodsCareers",
+      "slug": "hyvee",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Hy-Vee, Inc.",
+      "host": "hyvee.wd1.myworkdayjobs.com",
+      "key": "workday:hyvee.wd1.myworkdayjobs.com:hyvee:dollarfresh",
+      "site": "DollarFresh",
+      "slug": "hyvee",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Hy-Vee, Inc.",
+      "host": "hyvee.wd1.myworkdayjobs.com",
+      "key": "workday:hyvee.wd1.myworkdayjobs.com:hyvee:fdicareers",
+      "site": "FDICareers",
+      "slug": "hyvee",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Hy-Vee",
       "host": "hyvee.wd1.myworkdayjobs.com",
       "key": "workday:hyvee.wd1.myworkdayjobs.com:hyvee:hyveecareers",
       "site": "HyVeeCareers",
+      "slug": "hyvee",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Hy-Vee, Inc.",
+      "host": "hyvee.wd1.myworkdayjobs.com",
+      "key": "workday:hyvee.wd1.myworkdayjobs.com:hyvee:midwestheritagecareers",
+      "site": "MidwestHeritageCareers",
+      "slug": "hyvee",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Hy-Vee, Inc.",
+      "host": "hyvee.wd1.myworkdayjobs.com",
+      "key": "workday:hyvee.wd1.myworkdayjobs.com:hyvee:pdicareers",
+      "site": "PDICareers",
+      "slug": "hyvee",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Hy-Vee, Inc.",
+      "host": "hyvee.wd1.myworkdayjobs.com",
+      "key": "workday:hyvee.wd1.myworkdayjobs.com:hyvee:vividclearrxcareers",
+      "site": "VividClearRxCareers",
       "slug": "hyvee",
       "wd": "wd1"
     },

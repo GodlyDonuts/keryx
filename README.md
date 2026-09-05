@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**4,947 internships · 4,554 new-grad roles · 9,501 total openings**
+**5,015 internships · 4,575 new-grad roles · 9,590 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,295 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 549 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 287 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 96 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,720 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 2,334 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 545 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 289 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 101 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 1,746 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 890 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,396 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,268 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 894 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,418 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,263 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Solidigm | Hardware & Product Development Engineering Intern | Rancho Cordova, CA | Summer 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.smartrecruiters.com/Solidigm/744000147613839)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Solidigm | Hardware, Electrical Validation and Product Engineering Intern - Validation | Rancho Cordova, CA | Summer 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.smartrecruiters.com/Solidigm/744000147613779)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Solidigm | Software Development & Firmware Engineering Intern - Multiple Teams | Rancho Cordova, CA, Longmont, CO, Sacramento, CA | Summer 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.smartrecruiters.com/Solidigm/744000147613629)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Solidigm | Software Engineering Intern - Firmware & AI Engineering | Rancho Cordova, CA | Summer 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.smartrecruiters.com/Solidigm/744000147613769)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Tesla | Software Engineer Intern - Code Hardening & Framework Resilience - Robotaxi | Palo Alto, CA | Spring 2027 | not available | 2026-09-05 | **[Apply →](https://www.tesla.com/careers/search/job/282598)**<br><sub>www.tesla.com</sub> |
 | AArete | Business Analytics Intern - Summer 2027 | Chicago, IL | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://jobs.jobvite.com/aarete/job/oBXLAfwD?nl=1&nl=1&fr=false)**<br><sub>jobs.jobvite.com</sub> |
 | Allegion | Summer Intern - Engineering - OpEx Distribution | Olathe, KS | Not listed | not available | 2026-09-04 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Olathe-KS/Summer-Intern---Engineering---OpEx-Distribution_JR37417-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
 | Allegion | Summer Intern - Manufacturing Engineering | Indianapolis, IN - Tobey Dr | Not listed | not available | 2026-09-04 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Manufacturing-Engineering_JR37477-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
+| Allied Solutions | Sales Analytics Intern | Carmel, IN | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Sales-Analytics-Intern_R-011098)**<br><sub>alliedsolutions.wd501.myworkdayjobs.com</sub> |
 | Amazon | Software Development Engineer Intern - Robotics | Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington County, Arlington, VA, Bellevue, WA, Westborough, MA | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027)**<br><sub>amazon.jobs</sub> |
 | Amazon | Software Development Engineer Intern, ROBOTICS - 2027 | North Reading, Massachusetts, USA | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027)**<br><sub>www.amazon.jobs</sub> |
 | Apex | Simulation Software Engineering Intern | LA | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://jobs.ashbyhq.com/apex-technology-inc/d3e21f84-3637-4521-833d-fd07b3ca5f2e/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Arconic | IT Infrastructure Observability Intern | Davenport, IA, United States | Summer 2027 | Expected Fall 2027 graduation<br><sub>required</sub> | 2026-09-04 | **[Apply →](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114157)**<br><sub>hdnn.fa.us6.oraclecloud.com</sub> |
-| Barclays | Technology Developer Intern | Wilmington, DE | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Wilmington_JR-0000123236)**<br><sub>barclays.wd3.myworkdayjobs.com</sub> |
-| Barclays | Technology Developer Intern - Technology | Hanover, NJ | Summer 2027 | not available | 2026-09-04 | **[Apply →](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Whippany_JR-0000123234)**<br><sub>barclays.wd3.myworkdayjobs.com</sub> |
-| Berkeley Industrial Engineering & Operations Research | Quantitative Development Intern at DL Trading | Indiana, United States | Not listed | not available | 2026-09-04 | **[Apply →](https://berkeley.joinhandshake.com/jobs/11307049/share_preview)**<br><sub>berkeley.joinhandshake.com</sub> |
-| BGE, Inc | HOUSTON - Electrical Engineer, Internship | 10777 Westheimer Road, Suite 400, Houston, Texas 77042 | Not listed | not stated | 2026-09-04 | **[Apply →](https://job-boards.greenhouse.io/bgeinc/jobs/5416858008)**<br><sub>job-boards.greenhouse.io</sub> |
-| BGE, Inc | HOUSTON - Electrical Engineer, Internship | 10777 Westheimer Road, Suite 400, Houston, Texas 77042 | Not listed | not stated | 2026-09-04 | **[Apply →](https://job-boards.greenhouse.io/bgeinccampus/jobs/5416857008)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,6 +58,7 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| General Dynamics Mission Systems | Software Engineer | Scottsdale, AZ | Not listed | not available | 2026-09-05 | **[Apply →](https://careers-gdms.icims.com/jobs/74823/job?mobile=true&needsRedirect=false)**<br><sub>careers-gdms.icims.com</sub> |
 | Abbott | Senior Master Data Analyst | Abbott Park, Green Oaks, IL | Not listed | not available | 2026-09-04 | **[Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Abbott-Park/Senior-Master-Data-Analyst_31160329-2)**<br><sub>abbott.wd5.myworkdayjobs.com</sub> |
 | Abbott | Senior Master Data Analyst | Abbott Park, Green Oaks, IL | Not listed | not available | 2026-09-04 | **[Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Senior-Master-Data-Analyst_31160329)**<br><sub>abbott.wd5.myworkdayjobs.com</sub> |
 | Accenture | Associate Software Engineer - Pega | Washington, DC | 2027 | not available | 2026-09-04 | **[Apply →](https://boards.greenhouse.io/accenturefederalservices/jobs/4711147006)**<br><sub>boards.greenhouse.io</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Barclays | Technology Developer Graduate Program | Hanover, NJ | Not listed | not available | 2026-09-04 | **[Apply →](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244)**<br><sub>barclays.wd3.myworkdayjobs.com</sub> |
 | Barclays | Technology Developer Graduate Program - Expert Program | Wilmington, DE | Not listed | not available | 2026-09-04 | **[Apply →](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Expert-Graduate-Program-Wilmington_JR-0000123440)**<br><sub>barclays.wd3.myworkdayjobs.com</sub> |
 | BGE, Inc | AUSTIN - Electrical Engineer, New Grad | 101 W Louis Henna Blvd, Suite 400, Austin, Texas 78728 | Not listed | not stated | 2026-09-04 | **[Apply →](https://job-boards.greenhouse.io/bgeinccampus/jobs/5416970008)**<br><sub>job-boards.greenhouse.io</sub> |
-| BGE, Inc | AUSTIN - Electrical Engineer, New Grad | 101 W Louis Henna Blvd, Suite 400, Austin, Texas 78728 | Not listed | not stated | 2026-09-04 | **[Apply →](https://job-boards.greenhouse.io/bgeinc/jobs/5416971008)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
