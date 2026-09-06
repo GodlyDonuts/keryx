@@ -4,13 +4,12 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**280 open roles**
+**279 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
 | Dana Incorporated | Engineering Co-Op - Spring 2027 | Maumee, OH, United States | not available<br><sub>posting text not indexed</sub> | 2026-09-06 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a91f729c12c90443efc9051?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
 | Marathon Petroleum Corporation | Intern/Co-op - Midstream Logistics and Storage Mechanical/Civil/Electrical Engineering (Spring 2027) | Findlay, Ohio, United States of America | not available<br><sub>posting text not indexed</sub> | 2026-09-06 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a53d37a8576ec69c0151155?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
-| The Mosaic Company | Electrical Engineer Co-Op/Intern - Spring 2027 | Bartow, FL, United States of America | not available<br><sub>posting text not indexed</sub> | 2026-09-06 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a5fd2476e0c3c7c7d3d9307?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
 | Pegasystems | Software Engineer Intern, Platform Security - Spring 2027 | Waltham, MA, United States | not available<br><sub>posting text not indexed</sub> | 2026-09-05 | [Employer careers](https://www.pega.com/), [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-Internship) | [apply · www.pega.com](https://www.pega.com/about/careers/22704/software-engineer-intern-platform-security-spring-2027)<br><sub>cross-checked</sub> |
 | Tesla | Software Engineer Intern - Code Hardening & Framework Resilience - Robotaxi | Palo Alto, CA | not available<br><sub>posting text not indexed</sub> | 2026-09-05 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · www.tesla.com](https://www.tesla.com/careers/search/job/282598)<br><sub>source reported</sub> |
 | Entergy | Student, Intern, Power Delivery Performance & Analytics, Spring 2027 | The Woodlands, TX, United States | not available<br><sub>posting text not indexed</sub> | 2026-09-04 | [Jobright · Data Analysis](https://github.com/jobright-ai/2026-Data-Analysis-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a9b1a5f9c24314c35f97c63?utm_campaign=1066&utm_source=git)<br><sub>discovery listing</sub> |
