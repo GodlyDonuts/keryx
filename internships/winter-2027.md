@@ -4,12 +4,11 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**104 open roles**
+**103 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
-| Keurig Dr Pepper Inc. | Winter 2027 Co-op - Manufacturing Engineering (Houston, TX) | Houston, TX, United States | not available<br><sub>posting text not indexed</sub> | 2026-09-05 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a874f074afae74a08347db5?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
-| Keurig Dr Pepper Inc. | Winter 2027 Co-op - Quality Systems | Burlington, MA, United States | not available<br><sub>posting text not indexed</sub> | 2026-09-05 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a8dbec147679c68bf5e4489?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
+| Cohere | Software Engineer Intern (Winter 2027) | United States | not available<br><sub>posting text not indexed</sub> | 2026-09-06 | [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a559a6c13cd7d29d5e32d4b?utm_campaign=1079&utm_source=git)<br><sub>discovery listing</sub> |
 | Kodiak Robotics | Data Engineering Intern | Mountain View, CA | not stated<br><sub>direct ATS text · checked 2026-09-06</sub> | 2026-09-04 | [Greenhouse direct](https://job-boards.greenhouse.io/kodiak), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/kodiak/jobs/4396622009)<br><sub>ATS checked</sub> |
 | Susquehanna International Group | Technology Co-op | Bala Cynwyd, PA | not available<br><sub>posting text not indexed</sub> | 2026-09-04 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · careers-sig.icims.com](https://careers-sig.icims.com/jobs/11379/job?mobile=true&needsRedirect=false)<br><sub>recognized recruiting platform</sub> |
 | Susquehanna International Group | Technology Co-op - Northeastern University | Bala Cynwyd, PA | not available<br><sub>posting text not indexed</sub> | 2026-09-04 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · careers-sig.icims.com](https://careers-sig.icims.com/jobs/11377/job?mobile=true&needsRedirect=false)<br><sub>recognized recruiting platform</sub> |

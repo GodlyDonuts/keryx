@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**4,965 internships · 4,560 new-grad roles · 9,525 total openings**
+**4,935 internships · 4,555 new-grad roles · 9,490 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,306 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 2,299 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 543 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 282 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 104 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,730 | **[View openings →](internships/unscheduled.md)** |
+| 🌱 Spring 2027 | 281 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 103 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 1,709 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 904 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,391 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,265 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 907 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,392 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,256 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Amgen | Undergrad Co-op - Automation Engineer, Drug Product Assembly & Packaging | US - Massachusetts - Cambridge | Not listed | not available | 2026-09-06 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/US---Massachusetts---Cambridge/Undergrad-Co-op---Automation-Engineer--Drug-Product-Assembly---Packaging_R-254530)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
+| Citadel | Software Engineer - Intern - US | Houston, TX +2 | Not listed | not available | 2026-09-06 | **[Apply →](https://www.citadel.com/careers/details/software-engineer-intern-us/)**<br><sub>www.citadel.com</sub> |
+| Genworth Financial | Genworth IT Development Program Intern – Summer 2027 | Richmond, Virginia | Summer 2027 | not available | 2026-09-06 | **[Apply →](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1)**<br><sub>gnw.wd1.myworkdayjobs.com</sub> |
 | Monolithic Power Systems | Application Engineer Intern | San Jose, CA | Not listed | not available | 2026-09-06 | **[Apply →](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890)**<br><sub>monolithicpower.wd12.myworkdayjobs.com</sub> |
 | The Campbell's Company | Data Engineer – Agentic AI & ML Ops (Co-op) | USA - NJ - Camden | Not listed | not available | 2026-09-06 | **[Apply →](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer---Agentic-AI---ML-Ops--Co-op-_Req-65843)**<br><sub>campbellsoup.wd5.myworkdayjobs.com</sub> |
 | Enclos | Structural Engineering Internship | Bloomington, MN, United States | Not listed | not available | 2026-09-05 | **[Apply →](https://enclos.com/applicantpro/job/Minnesota/Bloomington/Structural-Engineering-Internship/4196614)**<br><sub>enclos.com</sub> |
 | Loram Maintenance of Way, Inc. | Machine Learning / Artificial Intelligence (AI) Intern | Hamel, MN, United States | Not listed | not available | 2026-09-05 | **[Apply →](https://jobs.loram.com/job/23818519/machine-learning-artificial-intelligence-ai-intern-hamel-mn/)**<br><sub>jobs.loram.com</sub> |
 | LotusWorks | Electrical & Instrumentation Technician - Full Time Internship | Rio Rancho, NM, United States | Not listed | not available | 2026-09-05 | **[Apply →](https://careers.lotusworks.com/job/opportunity%20/ei-technician-full-time-internship/?gh_jid=4912220101)**<br><sub>careers.lotusworks.com</sub> |
 | Microsoft | Firmware Engineering INTERN | Washington, DC +1 | Not listed | not available | 2026-09-05 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393556981972)**<br><sub>apply.careers.microsoft.com</sub> |
-| Northrop Grumman | 2027 Intern - Electronics (Avionics) Engineering | United States-Florida-Melbourne | Not listed | not available | 2026-09-05 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Electronics--Avionics--Engineering_R10249640)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
 | Pegasystems | Software Engineer Intern, Platform Security - Spring 2027 | Waltham, MA, United States | Spring 2027 | not available | 2026-09-05 | **[Apply →](https://www.pega.com/about/careers/22704/software-engineer-intern-platform-security-spring-2027)**<br><sub>www.pega.com</sub> |
 | Solidigm | Hardware & Product Development Engineering Intern | Rancho Cordova, CA | Summer 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.smartrecruiters.com/Solidigm/744000147613839)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Solidigm | Hardware, Electrical Validation and Product Engineering Intern - Validation | Rancho Cordova, CA | Summer 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.smartrecruiters.com/Solidigm/744000147613779)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Solidigm | Software Development & Firmware Engineering Intern - Multiple Teams | Rancho Cordova, CA, Longmont, CO, Sacramento, CA | Summer 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.smartrecruiters.com/Solidigm/744000147613629)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Solidigm | Software Engineering Intern - Firmware & AI Engineering | Rancho Cordova, CA | Summer 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.smartrecruiters.com/Solidigm/744000147613769)**<br><sub>jobs.smartrecruiters.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links

@@ -362,7 +362,7 @@
       "company": "Black & Veatch",
       "error": "public request failed for https://www.bv.com/en-US/Home: HTTP Error 404: Not Found",
       "key": "045274256e4fdb25278f972a",
-      "last_scanned": "2026-09-05",
+      "last_scanned": "2026-09-06",
       "url": "https://bv.com/Home"
     },
     {
@@ -6320,7 +6320,7 @@
       "boards": [],
       "company": "Mobile Communications America",
       "key": "41fe5438e1f42738dd2d18bf",
-      "last_scanned": "2026-08-16",
+      "last_scanned": "2026-09-06",
       "resolved_roles": 0,
       "url": "https://callmc.com/"
     },
@@ -10570,6 +10570,16 @@
       "url": "https://www.fffenterprises.com/"
     },
     {
+      "boards": [
+        "workday:gnw.wd1.myworkdayjobs.com:gnw:gnw"
+      ],
+      "company": "Genworth",
+      "key": "6aaccc23f52e5e21804f469e",
+      "last_scanned": "2026-09-06",
+      "resolved_roles": 0,
+      "url": "https://www.genworth.com/"
+    },
+    {
       "boards": [],
       "company": "ZURU Edge",
       "key": "6aaceb5d2bc597f9db5c2eed",
@@ -11684,7 +11694,7 @@
       ],
       "company": "Oxy",
       "key": "7552b78058f1417017aad4bc",
-      "last_scanned": "2026-08-16",
+      "last_scanned": "2026-09-06",
       "resolved_roles": 0,
       "url": "https://www.oxy.com/"
     },
@@ -12855,6 +12865,16 @@
       "key": "814a8b81730cc79c9674d0da",
       "last_scanned": "2026-08-25",
       "url": "https://www.jhu.edu/"
+    },
+    {
+      "boards": [
+        "greenhouse:rise8"
+      ],
+      "company": "Rise8",
+      "key": "81583e105887ad6e1bec4953",
+      "last_scanned": "2026-09-06",
+      "resolved_roles": 0,
+      "url": "https://rise8.us/"
     },
     {
       "boards": [
@@ -23298,7 +23318,7 @@
       ],
       "company": "GHD",
       "key": "e938e11ff3491737b7eab63f",
-      "last_scanned": "2026-08-29",
+      "last_scanned": "2026-09-06",
       "resolved_roles": 0,
       "url": "https://www.ghd.com/"
     },
@@ -25412,7 +25432,7 @@
       "boards": [],
       "company": "Nextiva",
       "key": "fd41b222e941b7e81605f753",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-09-06",
       "resolved_roles": 0,
       "url": "https://www.nextiva.com/"
     },
