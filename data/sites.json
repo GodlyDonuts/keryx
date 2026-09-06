@@ -2346,6 +2346,14 @@
     },
     {
       "boards": [],
+      "company": "Dana Incorporated",
+      "key": "175e3b5bad7eacdd17911e97",
+      "last_scanned": "2026-09-06",
+      "resolved_roles": 0,
+      "url": "https://www.dana.com/"
+    },
+    {
+      "boards": [],
       "company": "Kenworth Truck Co.",
       "key": "176cd7af74105d207e91b278",
       "last_scanned": "2026-09-03",
@@ -4514,7 +4522,7 @@
       ],
       "company": "Gotion Inc.",
       "key": "2ff602938ef1435c5a35ab8a",
-      "last_scanned": "2026-08-29",
+      "last_scanned": "2026-09-06",
       "resolved_roles": 0,
       "url": "https://www.gotion.com/"
     },
@@ -5025,7 +5033,7 @@
       "company": "KeyBank",
       "error": "public request failed for https://www.key.com/about/corporate-responsibility/keybank-foundation.jsp: The read operation timed out",
       "key": "34de0ca95e7cf403fe31a68d",
-      "last_scanned": "2026-09-02",
+      "last_scanned": "2026-09-06",
       "url": "https://www.key.com/about/corporate-responsibility/keybank-foundation.jsp"
     },
     {
@@ -7082,7 +7090,7 @@
       "boards": [],
       "company": "Traylor Bros., Inc.",
       "key": "49c25545ced15fc9ede48c7e",
-      "last_scanned": "2026-08-16",
+      "last_scanned": "2026-09-06",
       "resolved_roles": 0,
       "url": "https://traylor.com/"
     },
@@ -15220,7 +15228,7 @@
       "boards": [],
       "company": "Skild AI",
       "key": "9a718759ea04e911036385b8",
-      "last_scanned": "2026-08-23",
+      "last_scanned": "2026-09-06",
       "resolved_roles": 0,
       "url": "https://www.skild.ai/"
     },
@@ -16499,7 +16507,7 @@
       "company": "Tempus AI",
       "error": "public request failed for https://www.tempus.com/: HTTP Error 429: Too Many Requests",
       "key": "a6625643cb6c0bce844602cc",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-09-06",
       "url": "https://www.tempus.com/"
     },
     {
@@ -16794,6 +16802,14 @@
       "key": "a92881062fc44e6185eb99cb",
       "last_scanned": "2026-08-29",
       "url": "https://graco.com/in/en/"
+    },
+    {
+      "boards": [],
+      "company": "Paramount Pictures",
+      "key": "a9880649772425c50289239d",
+      "last_scanned": "2026-09-06",
+      "resolved_roles": 0,
+      "url": "https://www.paramountpictures.com/"
     },
     {
       "boards": [],
@@ -19428,7 +19444,7 @@
       ],
       "company": "Giga",
       "key": "c3937850f71b32334961872a",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-09-06",
       "resolved_roles": 0,
       "url": "https://giga.ai/"
     },
@@ -21637,7 +21653,7 @@
       ],
       "company": "The Campbell's Company",
       "key": "d86e538a40088f096b629ab3",
-      "last_scanned": "2026-08-16",
+      "last_scanned": "2026-09-06",
       "resolved_roles": 0,
       "url": "https://www.thecampbellscompany.com/"
     },
@@ -22482,6 +22498,16 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.cbiz.com/"
+    },
+    {
+      "boards": [
+        "lever:aisafety"
+      ],
+      "company": "Center for AI Safety",
+      "key": "e14ccef54cf8c84fd0e41bbb",
+      "last_scanned": "2026-09-06",
+      "resolved_roles": 0,
+      "url": "https://safe.ai/"
     },
     {
       "boards": [
@@ -24589,7 +24615,7 @@
       "company": "Hasana, Inc.",
       "error": "public request failed for https://shophasana.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
       "key": "f41bc632df0b0a99b7efa38a",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-09-06",
       "url": "https://shophasana.com/"
     },
     {
