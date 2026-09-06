@@ -9,24 +9,24 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**4,935 internships · 4,555 new-grad roles · 9,490 total openings**
+**4,929 internships · 4,564 new-grad roles · 9,493 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,299 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 543 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 281 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 2,293 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 541 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 280 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 103 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,709 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 1,712 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 907 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,392 | **[View openings →](new-grad/2026.md)** |
+| 2026 | 1,401 | **[View openings →](new-grad/2026.md)** |
 | Year not listed | 2,256 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
@@ -42,13 +42,13 @@ Recent internship and co-op listings that open the employer's application page d
 | Genworth Financial | Genworth IT Development Program Intern – Summer 2027 | Richmond, Virginia | Summer 2027 | not available | 2026-09-06 | **[Apply →](https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1)**<br><sub>gnw.wd1.myworkdayjobs.com</sub> |
 | Monolithic Power Systems | Application Engineer Intern | San Jose, CA | Not listed | not available | 2026-09-06 | **[Apply →](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890)**<br><sub>monolithicpower.wd12.myworkdayjobs.com</sub> |
 | The Campbell's Company | Data Engineer – Agentic AI & ML Ops (Co-op) | USA - NJ - Camden | Not listed | not available | 2026-09-06 | **[Apply →](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer---Agentic-AI---ML-Ops--Co-op-_Req-65843)**<br><sub>campbellsoup.wd5.myworkdayjobs.com</sub> |
+| TikTok | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure - 2027 Fall | Seattle, WA | Not listed | not available | 2026-09-06 | **[Apply →](https://lifeattiktok.com/search/7674029284224092421)**<br><sub>lifeattiktok.com</sub> |
+| TikTok | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure - 2027 Fall | San Jose, CA | Not listed | not available | 2026-09-06 | **[Apply →](https://lifeattiktok.com/search/7672934842451577141)**<br><sub>lifeattiktok.com</sub> |
 | Enclos | Structural Engineering Internship | Bloomington, MN, United States | Not listed | not available | 2026-09-05 | **[Apply →](https://enclos.com/applicantpro/job/Minnesota/Bloomington/Structural-Engineering-Internship/4196614)**<br><sub>enclos.com</sub> |
 | Loram Maintenance of Way, Inc. | Machine Learning / Artificial Intelligence (AI) Intern | Hamel, MN, United States | Not listed | not available | 2026-09-05 | **[Apply →](https://jobs.loram.com/job/23818519/machine-learning-artificial-intelligence-ai-intern-hamel-mn/)**<br><sub>jobs.loram.com</sub> |
 | LotusWorks | Electrical & Instrumentation Technician - Full Time Internship | Rio Rancho, NM, United States | Not listed | not available | 2026-09-05 | **[Apply →](https://careers.lotusworks.com/job/opportunity%20/ei-technician-full-time-internship/?gh_jid=4912220101)**<br><sub>careers.lotusworks.com</sub> |
 | Microsoft | Firmware Engineering INTERN | Washington, DC +1 | Not listed | not available | 2026-09-05 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393556981972)**<br><sub>apply.careers.microsoft.com</sub> |
 | Pegasystems | Software Engineer Intern, Platform Security - Spring 2027 | Waltham, MA, United States | Spring 2027 | not available | 2026-09-05 | **[Apply →](https://www.pega.com/about/careers/22704/software-engineer-intern-platform-security-spring-2027)**<br><sub>www.pega.com</sub> |
-| Solidigm | Hardware & Product Development Engineering Intern | Rancho Cordova, CA | Summer 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.smartrecruiters.com/Solidigm/744000147613839)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Solidigm | Hardware, Electrical Validation and Product Engineering Intern - Validation | Rancho Cordova, CA | Summer 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.smartrecruiters.com/Solidigm/744000147613779)**<br><sub>jobs.smartrecruiters.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,6 +58,7 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| CHAOS Industries | Field Software Engineer | Los Angeles, CA +1 | 2027 | not available | 2026-09-06 | **[Apply →](https://job-boards.greenhouse.io/chaosindustries/jobs/5162754007)**<br><sub>job-boards.greenhouse.io</sub> |
 | Relativity | Software Engineer | Illinois, USA | 2027 | not available | 2026-09-06 | **[Apply →](https://kcura.wd1.myworkdayjobs.com/en-US/external_career_site/job/Illinois/Software-Engineer_26-0317)**<br><sub>kcura.wd1.myworkdayjobs.com</sub> |
 | WHOOP | Software Engineer I - Backend | Boston, MA | 2027 | not available | 2026-09-06 | **[Apply →](https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133)**<br><sub>jobs.ashbyhq.com</sub> |
 | AiPrise | Software Engineer 1 | San Jose, CA | 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Mass General Brigham | Data Analyst 1 | Somerville, MA | Not listed | not available | 2026-09-05 | **[Apply →](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Data-Analyst-I_RQ4078299)**<br><sub>massgeneralbrigham.wd1.myworkdayjobs.com</sub> |
 | Roblox | Software Engineer - Creator Business | San Mateo, CA | 2027 | not available | 2026-09-05 | **[Apply →](https://careers.roblox.com/jobs/8113334?gh_jid=8113334)**<br><sub>careers.roblox.com</sub> |
 | Twitch | Software Engineer I - Payments | San Francisco, CA | 2027 | not available | 2026-09-05 | **[Apply →](https://job-boards.greenhouse.io/twitch/jobs/8700578002)**<br><sub>job-boards.greenhouse.io</sub> |
-| Tyson Foods | Analytics Analyst | Springdale, AR | Not listed | not available | 2026-09-05 | **[Apply →](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Analytics-Analyst---Walmart_R0483678-1)**<br><sub>tysonfoods.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

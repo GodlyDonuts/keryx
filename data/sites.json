@@ -506,7 +506,7 @@
       "boards": [],
       "company": "Roche",
       "key": "057843d763d118baca22b546",
-      "last_scanned": "2026-08-16",
+      "last_scanned": "2026-09-06",
       "resolved_roles": 0,
       "url": "https://www.roche.com/"
     },
@@ -1317,6 +1317,14 @@
       "last_scanned": "2026-08-28",
       "resolved_roles": 0,
       "url": "https://www.andersenwindows.com/"
+    },
+    {
+      "boards": [],
+      "company": "Joby Aviation",
+      "key": "0de5dd1a6512c16f0a9239c9",
+      "last_scanned": "2026-09-06",
+      "resolved_roles": 0,
+      "url": "https://www.jobyaviation.com/"
     },
     {
       "boards": [],
@@ -4992,7 +5000,7 @@
       "company": "Leonardo DRS",
       "error": "public request failed for https://www.leonardodrs.com/: HTTP Error 403: Forbidden",
       "key": "346929349ac8137adba333b2",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-06",
       "url": "https://www.leonardodrs.com/"
     },
     {
@@ -6009,6 +6017,17 @@
     },
     {
       "boards": [
+        "greenhouse:ai_opt_out_request",
+        "greenhouse:xtxmarketstechnologies"
+      ],
+      "company": "XTX Markets",
+      "key": "3e705b2708e5243dcd69edc8",
+      "last_scanned": "2026-09-06",
+      "resolved_roles": 0,
+      "url": "https://www.xtxmarkets.com/"
+    },
+    {
+      "boards": [
         "ashby:thatgamecompany"
       ],
       "company": "thatgamecompany",
@@ -6918,7 +6937,7 @@
       "boards": [],
       "company": "Constellation",
       "key": "48299d0b73e7b38ab53e3552",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-09-06",
       "resolved_roles": 0,
       "url": "https://www.constellationenergy.com/"
     },
@@ -13551,9 +13570,17 @@
       "boards": [],
       "company": "Innovative Defense Technologies (IDT)",
       "key": "88180ff8c9128dfb09caa5dc",
-      "last_scanned": "2026-08-29",
+      "last_scanned": "2026-09-06",
       "resolved_roles": 0,
       "url": "https://idtus.com/"
+    },
+    {
+      "boards": [],
+      "company": "moss",
+      "key": "884db0604bbce840a94c435b",
+      "last_scanned": "2026-09-06",
+      "resolved_roles": 0,
+      "url": "https://www.moss.ag/"
     },
     {
       "boards": [],
@@ -17257,7 +17284,7 @@
       "boards": [],
       "company": "Ultra Clean Technology",
       "key": "ae45143837b64479acbab332",
-      "last_scanned": "2026-08-16",
+      "last_scanned": "2026-09-06",
       "resolved_roles": 0,
       "url": "https://www.uct.com/"
     },

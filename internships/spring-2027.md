@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**281 open roles**
+**280 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -133,7 +133,6 @@
 | Specter Aerospace | Front-End Software Developer Co-op | Boston, MA, Peabody, MA | not stated<br><sub>direct ATS text · checked 2026-09-05</sub> | 2026-08-13 | [Bamboohr direct](https://specteraerospace.bamboohr.com/careers), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · specteraerospace.bamboohr.com](https://specteraerospace.bamboohr.com/careers/120/)<br><sub>ATS checked</sub> |
 | Tesla | Firmware Engineer Intern - New Programs Engineering | Fremont, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-13 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · www.tesla.com](https://www.tesla.com/careers/search/job/279991)<br><sub>source reported</sub> |
 | Tesla | Systems Architecture & Integration Engineer Intern - LV Architecture | Palo Alto, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-12 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · www.tesla.com](https://www.tesla.com/careers/search/job/279766)<br><sub>source reported</sub> |
-| TMEIC | Intern - Applications, AI and Machine Learning (Spring 2027) (ET26075) | Roanoke, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-12 | [Workable direct](https://apply.workable.com/tmeic-corporation-americas), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · apply.workable.com](https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/)<br><sub>ATS checked</sub> |
 | TMEIC | Intern - Engineer (Spring 2027) EIS (ET26076) | Houston, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-12 | [Workable direct](https://apply.workable.com/tmeic-corporation-americas), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · apply.workable.com](https://apply.workable.com/tmeic-corporation-americas/j/68E556E5CA/)<br><sub>ATS checked</sub> |
 | TMEIC | Intern - Engineer (Spring 2027) EIS (ET26077) | Roanoke, United States | not available<br><sub>posting text not indexed</sub> | 2026-08-12 | [Workable direct](https://apply.workable.com/tmeic-corporation-americas), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · apply.workable.com](https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/)<br><sub>ATS checked</sub> |
 | Medpace | Data Engineer Intern - Spring 2027 | Cincinnati, OH | not available<br><sub>posting text not indexed</sub> | 2026-08-10 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · careers.medpace.com](https://careers.medpace.com/jobs/12921?icims=1)<br><sub>source reported</sub> |
