@@ -1270,6 +1270,14 @@
       "url": "https://hhaexchange.com/"
     },
     {
+      "boards": [],
+      "company": "State of Missouri",
+      "key": "0d44c27a0f123f5a7ba0154d",
+      "last_scanned": "2026-09-07",
+      "resolved_roles": 0,
+      "url": "https://mo.gov/"
+    },
+    {
       "boards": [
         "workday:genpact.wd108.myworkdayjobs.com:genpact:external_careers",
         "workday:genpact.wd108.myworkdayjobs.com:genpact:external_careers%22%7d%7d"
@@ -2793,7 +2801,7 @@
       "boards": [],
       "company": "Jensen Hughes",
       "key": "1d3767e0a1951415c6ed6582",
-      "last_scanned": "2026-08-27",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.jensenhughes.com/"
     },
@@ -4988,7 +4996,7 @@
       "boards": [],
       "company": "Love's Travel Stops",
       "key": "340a29ba22742755d8f10e46",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.loves.com/"
     },
@@ -5014,7 +5022,7 @@
       "boards": [],
       "company": "Boom Supersonic",
       "key": "3459c40a4012227b799fe1ae",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://boomsupersonic.com/"
     },
@@ -6382,7 +6390,7 @@
       "boards": [],
       "company": "Modine Manufacturing Company",
       "key": "41ec669ff5550a4f4e5df2ad",
-      "last_scanned": "2026-08-21",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.modine.com/"
     },
@@ -7103,6 +7111,20 @@
       "url": "https://www.daikinapplied.com/"
     },
     {
+      "boards": [
+        "workday:tel.wd3.myworkdayjobs.com:tel:tee_careers",
+        "workday:tel.wd3.myworkdayjobs.com:tel:tes_career",
+        "workday:tel.wd3.myworkdayjobs.com:tel:tet_career",
+        "workday:tel.wd3.myworkdayjobs.com:tel:tmy_career",
+        "workday:tel.wd3.myworkdayjobs.com:tel:tsi_career"
+      ],
+      "company": "Tokyo Electron US",
+      "key": "49036bbf47173ae4fc0e5dcb",
+      "last_scanned": "2026-09-07",
+      "resolved_roles": 0,
+      "url": "https://www.tel.com/"
+    },
+    {
       "company": "Element Solutions Inc",
       "error": "public request failed for https://www.elementsolutionsinc.com/: HTTP Error 403: Forbidden",
       "key": "491cccd902b5c074eb4c869b",
@@ -7256,7 +7278,7 @@
       "boards": [],
       "company": "Plymouth Rock Assurance",
       "key": "4add85b3fa88487b36017948",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.plymouthrock.com/"
     },
@@ -8163,7 +8185,7 @@
       ],
       "company": "NXP Semiconductors",
       "key": "5323d5458a13464cff5b26b8",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.nxp.com/"
     },
@@ -9587,6 +9609,14 @@
       "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://www.vsolvit.com/"
+    },
+    {
+      "boards": [],
+      "company": "AngloGold Ashanti",
+      "key": "5f4da979e1adfd76014cce91",
+      "last_scanned": "2026-09-07",
+      "resolved_roles": 0,
+      "url": "https://www.anglogoldashanti.com/"
     },
     {
       "company": "Worthington Enterprises",
@@ -11166,6 +11196,14 @@
     },
     {
       "boards": [],
+      "company": "Rincon Consultants",
+      "key": "6f69732de1d3bd7abf39b019",
+      "last_scanned": "2026-09-07",
+      "resolved_roles": 0,
+      "url": "https://www.rinconconsultants.com/"
+    },
+    {
+      "boards": [],
       "company": "AMETEK",
       "key": "6f7a496616e23cc98021694f",
       "last_scanned": "2026-08-18",
@@ -11950,7 +11988,7 @@
       "boards": [],
       "company": "Constellis",
       "key": "77045f5de8e16a69751890e5",
-      "last_scanned": "2026-08-31",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.constellis.com/"
     },
@@ -12456,6 +12494,17 @@
       "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://www.alphaomegaintegration.com/"
+    },
+    {
+      "boards": [
+        "greenhouse:internrecruiting",
+        "greenhouse:vestmark"
+      ],
+      "company": "Vestmark",
+      "key": "7bf09d12ef150f4b899017bb",
+      "last_scanned": "2026-09-07",
+      "resolved_roles": 0,
+      "url": "https://www.vestmark.com/"
     },
     {
       "boards": [
@@ -14039,7 +14088,7 @@
       "company": "Bayer",
       "error": "public request failed for https://www.bayer.com/: HTTP Error 403: Forbidden",
       "key": "8b5594d80182d9b6054a3c69",
-      "last_scanned": "2026-09-04",
+      "last_scanned": "2026-09-07",
       "url": "https://www.bayer.com/"
     },
     {
@@ -14505,6 +14554,16 @@
       "last_scanned": "2026-09-06",
       "resolved_roles": 0,
       "url": "https://thehive.ai/"
+    },
+    {
+      "boards": [
+        "lever:arsiem"
+      ],
+      "company": "ARSIEM Corporation",
+      "key": "8fbbc634487708f2496340fa",
+      "last_scanned": "2026-09-07",
+      "resolved_roles": 0,
+      "url": "https://www.arsiem.com/"
     },
     {
       "boards": [],
@@ -15071,7 +15130,7 @@
       "company": "Radix Metasystems, Inc.",
       "error": "Invalid IPv6 URL",
       "key": "969b065901c9775699b0b9c2",
-      "last_scanned": "2026-09-02",
+      "last_scanned": "2026-09-07",
       "url": "https://www.radixmeta.com/"
     },
     {
@@ -15641,7 +15700,7 @@
       "boards": [],
       "company": "ACCA Careers",
       "key": "9d721e5757201143b39abc83",
-      "last_scanned": "2026-08-20",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://jobs.accaglobal.com/"
     },
@@ -15722,7 +15781,7 @@
       "boards": [],
       "company": "Tower Research Capital",
       "key": "9e56078ec06ebc0550fd3539",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://tower-research.com/ventures/"
     },
@@ -16129,7 +16188,7 @@
       "boards": [],
       "company": "Allen Control Systems",
       "key": "a1b707684dc359c6b482ba56",
-      "last_scanned": "2026-08-23",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.allencontrolsystems.com/"
     },
@@ -19121,6 +19180,16 @@
     },
     {
       "boards": [
+        "greenhouse:sigmacomputing"
+      ],
+      "company": "Sigma",
+      "key": "bf0f70ab6377c8041e340bdf",
+      "last_scanned": "2026-09-07",
+      "resolved_roles": 0,
+      "url": "https://www.sigmacomputing.com/"
+    },
+    {
+      "boards": [
         "workday:cigna.wd5.myworkdayjobs.com:cigna:cignacareers"
       ],
       "company": "The Cigna Group",
@@ -19241,7 +19310,7 @@
       ],
       "company": "Notability",
       "key": "c00636ceedb2b893bd8ba203",
-      "last_scanned": "2026-08-31",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.gingerlabs.com/"
     },
@@ -19323,7 +19392,7 @@
       "boards": [],
       "company": "BWXT",
       "key": "c0d9e601284cca5e077b0eee",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.bwxt.com/"
     },
@@ -20606,6 +20675,14 @@
       "url": "https://www.cmich.edu/"
     },
     {
+      "boards": [],
+      "company": "LUNARTECH",
+      "key": "cd9ff51fdc6592cb579cf65d",
+      "last_scanned": "2026-09-07",
+      "resolved_roles": 0,
+      "url": "https://lunartech.ai/"
+    },
+    {
       "boards": [
         "workday:mtb.wd5.myworkdayjobs.com:mtb:mtb"
       ],
@@ -21549,6 +21626,14 @@
       "url": "https://riversideresearch.org/"
     },
     {
+      "boards": [],
+      "company": "VT Group (VTG)",
+      "key": "d5e27011a0b8c243c6beb15f",
+      "last_scanned": "2026-09-07",
+      "resolved_roles": 0,
+      "url": "https://vtgdefense.com/"
+    },
+    {
       "company": "Centellic",
       "error": "public request failed for https://www.centellic.com/: HTTP Error 403: Forbidden",
       "key": "d5f4548a85477cf7e5762d46",
@@ -21678,7 +21763,7 @@
       "company": "ABB",
       "error": "public request failed for https://www.abb.com/global/en: The read operation timed out",
       "key": "d6f42a2109607bc74736215f",
-      "last_scanned": "2026-09-05",
+      "last_scanned": "2026-09-07",
       "url": "https://global.abb/group/en"
     },
     {
@@ -22100,7 +22185,7 @@
       ],
       "company": "CLEAR",
       "key": "db4df2c2afb3ec8c85fd8f14",
-      "last_scanned": "2026-08-30",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.clearme.com/"
     },
@@ -22286,6 +22371,14 @@
       "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://www.ga.com/"
+    },
+    {
+      "boards": [],
+      "company": "City of Ann Arbor",
+      "key": "dd884184074de870b41ef888",
+      "last_scanned": "2026-09-07",
+      "resolved_roles": 0,
+      "url": "https://www.a2gov.org/"
     },
     {
       "boards": [],
@@ -23371,7 +23464,7 @@
       "company": "Wonder",
       "error": "public request failed for https://www.wonder.com/: HTTP Error 403: Forbidden",
       "key": "e80cf9f2e20dec5e87d66f27",
-      "last_scanned": "2026-09-05",
+      "last_scanned": "2026-09-07",
       "url": "https://www.wonder.com/"
     },
     {
@@ -25328,6 +25421,14 @@
     },
     {
       "boards": [],
+      "company": "Labelbox",
+      "key": "faeebe79e70226b189f2c8aa",
+      "last_scanned": "2026-09-07",
+      "resolved_roles": 0,
+      "url": "https://labelbox.com/"
+    },
+    {
+      "boards": [],
       "company": "Popular",
       "key": "fafa7a556bddf672523233a2",
       "last_scanned": "2026-08-31",
@@ -25390,14 +25491,14 @@
       "company": "Hewlett Packard Enterprise",
       "error": "public request failed for https://www.hpe.com/: The read operation timed out",
       "key": "fb9d829f215a3234760b16c3",
-      "last_scanned": "2026-09-06",
+      "last_scanned": "2026-09-07",
       "url": "https://www.hpe.com/"
     },
     {
       "company": "Medline",
       "error": "public request failed for https://www.medline.com/home.jsp: HTTP Error 403: Forbidden",
       "key": "fba9f138ac3501568473f595",
-      "last_scanned": "2026-09-06",
+      "last_scanned": "2026-09-07",
       "url": "https://www.medline.com/home.jsp"
     },
     {
@@ -25580,7 +25681,7 @@
       "company": "Yelp",
       "error": "public request failed for https://www.yelp.com/: HTTP Error 403: Forbidden",
       "key": "fd3d9d3a3297279cda076e03",
-      "last_scanned": "2026-09-06",
+      "last_scanned": "2026-09-07",
       "url": "https://www.yelp.com/"
     },
     {
