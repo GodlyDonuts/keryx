@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**5,071 internships · 4,600 new-grad roles · 9,671 total openings**
+**5,081 internships · 4,569 new-grad roles · 9,650 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,337 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 534 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 286 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 100 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,814 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 2,356 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 536 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 282 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 101 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 1,806 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 930 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,392 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,278 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 942 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,366 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,261 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,17 +38,17 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | ABB | Manufacturing Engineering/Documentation Intern - Fall 2026 | USA, AR, Jonesboro | Fall 2026 | not available | 2026-09-07 | **[Apply →](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298)**<br><sub>abb.wd3.myworkdayjobs.com</sub> |
+| Ernst & Young | Data and Intelligence Delivery Intern - Assurance | Salt Lake City, UT, Indianapolis, IN, Houston, TX, Des Moines, IA, Detroit, MI, Tampa, FL, Dallas, TX, Greenville, SC, St. Louis, MO, Alpharetta, GA, Phoenix, AZ, Grandview Heights, OH | Summer 2027 | not available | 2026-09-07 | **[Apply →](https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q)**<br><sub>eyglobal.yello.co</sub> |
 | General Motors | Packaging Engineering Intern | Burton, Michigan, United States of America | Not listed | not available | 2026-09-07 | **[Apply →](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Burton-Michigan-United-States-of-America/Packaging-Engineering-Intern_JR-202618311)**<br><sub>generalmotors.wd5.myworkdayjobs.com</sub> |
+| Huntsman Corporation | Electrical Engineering Intern | USA - Texas - Houston - The Woodlands - Corporate Office | Not listed | not available | 2026-09-07 | **[Apply →](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Electrical-Engineering-Intern_J-020027)**<br><sub>huntsman.wd1.myworkdayjobs.com</sub> |
+| Huntsman Corporation | Mechanical Engineering Intern | USA - Texas - Houston - The Woodlands - Corporate Office | Not listed | not available | 2026-09-07 | **[Apply →](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Mechanical-Engineering-Intern_J-020026)**<br><sub>huntsman.wd1.myworkdayjobs.com</sub> |
 | ICF International | Software Developer Intern | Reston, VA | Summer 2027 | not available | 2026-09-07 | **[Apply →](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002)**<br><sub>icf.wd5.myworkdayjobs.com</sub> |
+| Micron Technology | Intern - DRAM Test Structure Design and Layout Engineering | Boise, ID - Main Site | Not listed | not available | 2026-09-07 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Test-Structure-Design-and-Layout-Engineering_JR110341)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
 | NXP Semiconductors | AI/ML ASIC Design and Implementation Automation Intern - Summer 2027 | San Diego, CA | Summer 2027 | not available | 2026-09-07 | **[Apply →](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Diego-Treena-St/AI-ML-ASIC-Design-and-Implementation-Automation-Intern---Summer-2027_R-10065562)**<br><sub>nxp.wd3.myworkdayjobs.com</sub> |
 | NXP Semiconductors | Data Analytics Engineer Intern - Summer 2027 | Austin, TX | Summer 2027 | not available | 2026-09-07 | **[Apply →](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Data-Analytics-Engineer-Intern---Summer-2027_R-10065538)**<br><sub>nxp.wd3.myworkdayjobs.com</sub> |
 | NXP Semiconductors | Data Science / Structured Problem Solving Intern - Summer 2027 | Austin, TX | Summer 2027 | not available | 2026-09-07 | **[Apply →](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037)**<br><sub>nxp.wd3.myworkdayjobs.com</sub> |
+| NXP Semiconductors | Design for Test Engineer Intern - Summer 2027 | Austin, TX | Summer 2027 | not available | 2026-09-07 | **[Apply →](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065550)**<br><sub>nxp.wd3.myworkdayjobs.com</sub> |
 | NXP Semiconductors | Device Engineering Intern - Summer 2027 | Chandler, AZ | Summer 2027 | not available | 2026-09-07 | **[Apply →](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Device-Engineering-Intern---Summer-2027_R-10064586)**<br><sub>nxp.wd3.myworkdayjobs.com</sub> |
-| NXP Semiconductors | Embedded Machine Learning & Radar Processing Intern - Summer 2027 | San Jose, CA | Summer 2027 | not available | 2026-09-07 | **[Apply →](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/Embedded-Machine-Learning---Radar-Processing-Intern---Summer-2027_R-10065534)**<br><sub>nxp.wd3.myworkdayjobs.com</sub> |
-| NXP Semiconductors | FAB Device Engineer Intern - Summer 2027 | Austin, TX | Summer 2027 | not available | 2026-09-07 | **[Apply →](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/FAB-Device-Engineer-Intern---Summer-2027_R-10064583)**<br><sub>nxp.wd3.myworkdayjobs.com</sub> |
-| NXP Semiconductors | Microcontrollers System Engineering Intern | Austin, TX | Summer 2027 | not available | 2026-09-07 | **[Apply →](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Microcontrollers-System-Engineering-Intern---Summer-2027_R-10066400-1)**<br><sub>nxp.wd3.myworkdayjobs.com</sub> |
-| Tokyo Electron | Automation Developer/Analyst Intern | Austin, TX | Summer 2027 | not available | 2026-09-07 | **[Apply →](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Automation-Developer-Analyst-Intern_R26-01497)**<br><sub>tel.wd3.myworkdayjobs.com</sub> |
-| Tokyo Electron | Business Intelligence Analyst Intern | Austin, TX | Summer 2027 | not available | 2026-09-07 | **[Apply →](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Business-Intelligence-Analyst-Summer-2027-Intern_R26-01504)**<br><sub>tel.wd3.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,6 +58,7 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Ernst & Young | Assurance Analyst - Data and Intelligence Delivery | Salt Lake City, UT, Indianapolis, IN, Houston, TX, Des Moines, IA, Detroit, MI, Tampa, FL, Dallas, TX, Greenville, SC, St. Louis, MO, Alpharetta, GA, Phoenix, AZ, Grandview Heights, OH | Not listed | not available | 2026-09-07 | **[Apply →](https://eyglobal.yello.co/jobs/AZkeE_LpYYLfvoE0TkyIJw?job_board_id=c1riT--B2O-KySgYWsZO1Q)**<br><sub>eyglobal.yello.co</sub> |
 | NXP Semiconductors | Digital Physical Design Engineer | Austin, TX | Not listed | not available | 2026-09-07 | **[Apply →](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Physical-Design-Engineer_R-10065547)**<br><sub>nxp.wd3.myworkdayjobs.com</sub> |
 | NXP Semiconductors | Digital Validation Engineer | Austin, TX | Not listed | not available | 2026-09-07 | **[Apply →](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Validation-Engineer_R-10065559)**<br><sub>nxp.wd3.myworkdayjobs.com</sub> |
 | NXP Semiconductors | Digital Verification Engineer | Austin, TX | Not listed | not available | 2026-09-07 | **[Apply →](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Verification-Engineer_R-10065543)**<br><sub>nxp.wd3.myworkdayjobs.com</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Pipe17 | Junior Software Engineer - SEATTLE ONLY | Seattle, WA | 2027 | not available | 2026-09-06 | **[Apply →](https://job-boards.greenhouse.io/pipe17/jobs/4717950005)**<br><sub>job-boards.greenhouse.io</sub> |
 | Relativity | Software Engineer | Illinois, USA | 2027 | not available | 2026-09-06 | **[Apply →](https://kcura.wd1.myworkdayjobs.com/en-US/external_career_site/job/Illinois/Software-Engineer_26-0317)**<br><sub>kcura.wd1.myworkdayjobs.com</sub> |
 | WHOOP | Software Engineer I - Backend | Boston, MA | 2027 | not available | 2026-09-06 | **[Apply →](https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133)**<br><sub>jobs.ashbyhq.com</sub> |
-| AiPrise | Software Engineer 1 | San Jose, CA | 2027 | not available | 2026-09-05 | **[Apply →](https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

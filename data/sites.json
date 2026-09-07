@@ -343,6 +343,13 @@
       "url": "https://www.manusbio.com/"
     },
     {
+      "company": "RJMedex",
+      "error": "public request failed for https://www.rjmedex.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)>",
+      "key": "03ae01d4678215dc800b289c",
+      "last_scanned": "2026-09-07",
+      "url": "https://www.rjmedex.com/"
+    },
+    {
       "boards": [],
       "company": "CGI",
       "key": "04073a5dac644599f14553d1",
@@ -1265,7 +1272,7 @@
       "boards": [],
       "company": "HHAeXchange",
       "key": "0d3ba5f4e391cd471e370c28",
-      "last_scanned": "2026-08-23",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://hhaexchange.com/"
     },
@@ -1897,6 +1904,13 @@
       "last_scanned": "2026-09-01",
       "resolved_roles": 0,
       "url": "https://www.merrillmfg.com/"
+    },
+    {
+      "company": "ID.me",
+      "error": "public request failed for https://www.ID.me/: HTTP Error 403: Forbidden",
+      "key": "12fc2f13c7b709157eedfb23",
+      "last_scanned": "2026-09-07",
+      "url": "https://www.ID.me/"
     },
     {
       "boards": [
@@ -2608,6 +2622,16 @@
       "url": "https://www.redfin.com/"
     },
     {
+      "boards": [
+        "ashby:siftstack"
+      ],
+      "company": "Sift",
+      "key": "1af4caeb56b6c92a22933740",
+      "last_scanned": "2026-09-07",
+      "resolved_roles": 0,
+      "url": "https://siftstack.com/"
+    },
+    {
       "boards": [],
       "company": "Xaira Therapeutics",
       "key": "1afc67c567d1abcad13555f8",
@@ -2891,7 +2915,7 @@
       "boards": [],
       "company": "Grainger",
       "key": "1e5e61e3bb036d71b1fb393f",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.grainger.com/"
     },
@@ -4679,7 +4703,7 @@
       ],
       "company": "Riveron",
       "key": "3088fbb0ad01e1ea287eddd9",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://riveron.com/"
     },
@@ -5754,7 +5778,7 @@
       "boards": [],
       "company": "Westinghouse Electric Company",
       "key": "3b0586246df973523763ffec",
-      "last_scanned": "2026-08-31",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.westinghousenuclear.com/"
     },
@@ -6549,7 +6573,7 @@
       "company": "QBE North America",
       "error": "public request failed for https://www.qbe.com/us: HTTP Error 403: Forbidden",
       "key": "43e2d2109e7761da0e62e4ac",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-07",
       "url": "https://www.qbe.com/us"
     },
     {
@@ -9029,7 +9053,7 @@
       "boards": [],
       "company": "DLB Associates",
       "key": "5a200e3c3f164e6df5606b45",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.dlbassociates.com/"
     },
@@ -10187,7 +10211,7 @@
       "company": "SIG SAUER, Inc.",
       "error": "public request failed for https://www.sigsauer.com/: HTTP Error 403: Forbidden",
       "key": "65ab42fdd08766ba5bf90249",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-09-07",
       "url": "https://www.sigsauer.com/"
     },
     {
@@ -10467,7 +10491,7 @@
       "boards": [],
       "company": "Micron Technology",
       "key": "67e9a4a17505214b400b27cb",
-      "last_scanned": "2026-08-30",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.micron.com/"
     },
@@ -11622,6 +11646,14 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://www.nissan-global.com/EN/"
+    },
+    {
+      "boards": [],
+      "company": "Bray International, Inc.",
+      "key": "738c17b4e901fbd0e19fda7d",
+      "last_scanned": "2026-09-07",
+      "resolved_roles": 0,
+      "url": "https://www.bray.com/"
     },
     {
       "boards": [],
@@ -14111,7 +14143,7 @@
       "company": "Marathon Petroleum Corporation",
       "error": "public request failed for https://www.marathonpetroleum.com/: HTTP Error 403: Forbidden",
       "key": "8b96c5fecf4a8c25a350411f",
-      "last_scanned": "2026-09-06",
+      "last_scanned": "2026-09-07",
       "url": "https://www.marathonpetroleum.com/"
     },
     {
@@ -16459,7 +16491,7 @@
       ],
       "company": "Novartis",
       "key": "a3f90fe87272e7b781bea076",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.novartis.com/"
     },
@@ -17657,7 +17689,7 @@
       "company": "Schaeffler",
       "error": "public request failed for https://www.schaeffler.us/: HTTP Error 403: Forbidden",
       "key": "afdd13d82e7381b4164fc147",
-      "last_scanned": "2026-09-03",
+      "last_scanned": "2026-09-07",
       "url": "https://www.schaeffler.us/"
     },
     {
@@ -18784,6 +18816,13 @@
       "url": "https://www.goagilant.com/"
     },
     {
+      "company": "ThinkMarkets",
+      "error": "public request failed for https://www.thinkmarkets.com/en/: HTTP Error 403: Forbidden",
+      "key": "bb66942865ec73f1799faeb8",
+      "last_scanned": "2026-09-07",
+      "url": "https://www.thinkmarkets.com/en/"
+    },
+    {
       "boards": [],
       "company": "R3 Continuum",
       "key": "bb78ad8eecfb944848c94a70",
@@ -19095,6 +19134,13 @@
       "last_scanned": "2026-08-31",
       "resolved_roles": 0,
       "url": "https://www.janssen.com/johnson-johnson-innovative-medicine"
+    },
+    {
+      "company": "Yelp",
+      "error": "public request failed for https://www.yelp.com/: HTTP Error 403: Forbidden",
+      "key": "be55beb4a9ff1f4d656f64e6",
+      "last_scanned": "2026-09-07",
+      "url": "https://yelp.com/"
     },
     {
       "boards": [],
@@ -20103,7 +20149,7 @@
       ],
       "company": "Black Box",
       "key": "c81dea488da41bf45a3686ab",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.blackbox.com/"
     },
@@ -21924,10 +21970,12 @@
       "url": "https://www.bjs.com/"
     },
     {
-      "boards": [],
+      "boards": [
+        "workday:vishay.wd3.myworkdayjobs.com:vishay:vishaycareers"
+      ],
       "company": "Vishay Intertechnology, Inc.",
       "key": "d899154181580109b94e60e3",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.vishay.com/"
     },
@@ -23186,6 +23234,13 @@
       "url": "https://WWW.TOYOTAOFCEDARPARK.COM/"
     },
     {
+      "company": "Cast tours",
+      "error": "public requests require HTTPS and a hostname",
+      "key": "e566dbaeb7eb36092c091d67",
+      "last_scanned": "2026-09-07",
+      "url": "https://cast.tours/"
+    },
+    {
       "boards": [],
       "company": "PROENERGY",
       "key": "e588ce8fcb637108b7db8fd4",
@@ -23573,7 +23628,7 @@
       "boards": [],
       "company": "GE Aerospace",
       "key": "e9533b41cc4eb8410957bf94",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.geaerospace.com/"
     },
