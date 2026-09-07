@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**5,081 internships · 4,569 new-grad roles · 9,650 total openings**
+**5,046 internships · 4,520 new-grad roles · 9,566 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,356 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 536 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 282 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 101 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,806 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 2,343 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 534 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 280 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 100 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 1,789 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 942 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,366 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,261 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 937 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,323 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,260 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,6 +38,8 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | ABB | Manufacturing Engineering/Documentation Intern - Fall 2026 | USA, AR, Jonesboro | Fall 2026 | not available | 2026-09-07 | **[Apply →](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298)**<br><sub>abb.wd3.myworkdayjobs.com</sub> |
+| Astera Labs | System Validation Engineer Intern | San Jose, California, United States | Not listed | not stated | 2026-09-07 | **[Apply →](https://job-boards.greenhouse.io/asteralabs/jobs/4724488005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Dropbox | Software Engineering Intern (Summer 2027) | Remote - US: All locations | Summer 2027 | Winter 2027–Spring 2028<br><sub>stated</sub> | 2026-09-07 | **[Apply →](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224)**<br><sub>jobs.dropbox.com</sub> |
 | Ernst & Young | Data and Intelligence Delivery Intern - Assurance | Salt Lake City, UT, Indianapolis, IN, Houston, TX, Des Moines, IA, Detroit, MI, Tampa, FL, Dallas, TX, Greenville, SC, St. Louis, MO, Alpharetta, GA, Phoenix, AZ, Grandview Heights, OH | Summer 2027 | not available | 2026-09-07 | **[Apply →](https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q)**<br><sub>eyglobal.yello.co</sub> |
 | General Motors | Packaging Engineering Intern | Burton, Michigan, United States of America | Not listed | not available | 2026-09-07 | **[Apply →](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Burton-Michigan-United-States-of-America/Packaging-Engineering-Intern_JR-202618311)**<br><sub>generalmotors.wd5.myworkdayjobs.com</sub> |
 | Huntsman Corporation | Electrical Engineering Intern | USA - Texas - Houston - The Woodlands - Corporate Office | Not listed | not available | 2026-09-07 | **[Apply →](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Electrical-Engineering-Intern_J-020027)**<br><sub>huntsman.wd1.myworkdayjobs.com</sub> |
@@ -47,8 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | NXP Semiconductors | AI/ML ASIC Design and Implementation Automation Intern - Summer 2027 | San Diego, CA | Summer 2027 | not available | 2026-09-07 | **[Apply →](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Diego-Treena-St/AI-ML-ASIC-Design-and-Implementation-Automation-Intern---Summer-2027_R-10065562)**<br><sub>nxp.wd3.myworkdayjobs.com</sub> |
 | NXP Semiconductors | Data Analytics Engineer Intern - Summer 2027 | Austin, TX | Summer 2027 | not available | 2026-09-07 | **[Apply →](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Data-Analytics-Engineer-Intern---Summer-2027_R-10065538)**<br><sub>nxp.wd3.myworkdayjobs.com</sub> |
 | NXP Semiconductors | Data Science / Structured Problem Solving Intern - Summer 2027 | Austin, TX | Summer 2027 | not available | 2026-09-07 | **[Apply →](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037)**<br><sub>nxp.wd3.myworkdayjobs.com</sub> |
-| NXP Semiconductors | Design for Test Engineer Intern - Summer 2027 | Austin, TX | Summer 2027 | not available | 2026-09-07 | **[Apply →](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Summer-2027_R-10065550)**<br><sub>nxp.wd3.myworkdayjobs.com</sub> |
-| NXP Semiconductors | Device Engineering Intern - Summer 2027 | Chandler, AZ | Summer 2027 | not available | 2026-09-07 | **[Apply →](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Chandler-Office/Device-Engineering-Intern---Summer-2027_R-10064586)**<br><sub>nxp.wd3.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links

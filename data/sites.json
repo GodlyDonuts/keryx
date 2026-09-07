@@ -1337,7 +1337,7 @@
       ],
       "company": "Andersen Corporation",
       "key": "0dde1c25f608ae090b3d53ca",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.andersenwindows.com/"
     },
@@ -3050,6 +3050,14 @@
       "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://anordmardix.com/"
+    },
+    {
+      "boards": [],
+      "company": "Leaf Health",
+      "key": "1f823cb06e052b65345e6860",
+      "last_scanned": "2026-09-07",
+      "resolved_roles": 0,
+      "url": "https://www.leafhealth.net/"
     },
     {
       "boards": [
@@ -5274,6 +5282,14 @@
     },
     {
       "boards": [],
+      "company": "MOOV",
+      "key": "366683635dab5c62c6836ea0",
+      "last_scanned": "2026-09-07",
+      "resolved_roles": 0,
+      "url": "https://www.joinmoov.com/"
+    },
+    {
+      "boards": [],
       "company": "Procter & Gamble",
       "key": "3670fb2ffd852345681a233e",
       "last_scanned": "2026-09-05",
@@ -5563,6 +5579,16 @@
       "last_scanned": "2026-09-03",
       "resolved_roles": 0,
       "url": "https://www.weyerhaeuser.com/"
+    },
+    {
+      "boards": [
+        "greenhouse:gridmaticinc"
+      ],
+      "company": "Gridmatic",
+      "key": "395780701cfd916090c7d0a4",
+      "last_scanned": "2026-09-07",
+      "resolved_roles": 0,
+      "url": "https://www.gridmatic.com/"
     },
     {
       "boards": [],
@@ -7749,6 +7775,13 @@
       "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://hyannisportresearch.com/"
+    },
+    {
+      "company": "BarkleyOKRP",
+      "error": "public requests require HTTPS and a hostname",
+      "key": "4ef50111c98a32d56e62d2d9",
+      "last_scanned": "2026-09-07",
+      "url": "https://barkleyevergreen.com/"
     },
     {
       "boards": [
@@ -10795,7 +10828,7 @@
       ],
       "company": "Airtech Vacuum",
       "key": "6b19c14970a9d2f7604ac9b1",
-      "last_scanned": "2026-08-17",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.airtechusa.com/"
     },
@@ -11416,7 +11449,7 @@
       "boards": [],
       "company": "VECARIUS, Inc.",
       "key": "7175e044b21bb8fd5d50a476",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.vecarius.com/"
     },
@@ -11646,6 +11679,14 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://www.nissan-global.com/EN/"
+    },
+    {
+      "boards": [],
+      "company": "Sentient Digital, Inc.",
+      "key": "736d3cf12ad773dce74d7b62",
+      "last_scanned": "2026-09-07",
+      "resolved_roles": 0,
+      "url": "https://sdi.ai/"
     },
     {
       "boards": [],
@@ -14329,7 +14370,7 @@
       "company": "Cushman & Wakefield",
       "error": "public request failed for https://www.cushmanwakefield.com/: HTTP Error 403: Forbidden",
       "key": "8d37c9ef521fadd30b574bd7",
-      "last_scanned": "2026-09-04",
+      "last_scanned": "2026-09-07",
       "url": "https://www.cushmanwakefield.com/"
     },
     {
@@ -14636,6 +14677,14 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.lmi.org/"
+    },
+    {
+      "boards": [],
+      "company": "Ardent Principles",
+      "key": "902480d33ad0978e32859a12",
+      "last_scanned": "2026-09-07",
+      "resolved_roles": 0,
+      "url": "https://ardentprinciples.com/"
     },
     {
       "boards": [],
@@ -16282,6 +16331,16 @@
       "url": "https://www.wilson.com/"
     },
     {
+      "boards": [
+        "workday:ferrovial.wd3.myworkdayjobs.com:ferrovial:ferrovial_career_site"
+      ],
+      "company": "Webber, a Ferrovial company",
+      "key": "a21d3cd08bd854b07bd51453",
+      "last_scanned": "2026-09-07",
+      "resolved_roles": 0,
+      "url": "https://wwebber.com/"
+    },
+    {
       "boards": [],
       "company": "UC San Diego",
       "key": "a2330540d8415bd1daba2004",
@@ -16695,7 +16754,7 @@
       "boards": [],
       "company": "Alef",
       "key": "a5b83a9292d3ef5eec8b007c",
-      "last_scanned": "2026-08-20",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://alef.aero/"
     },
@@ -19083,6 +19142,14 @@
       "url": "https://www.primer.com/"
     },
     {
+      "boards": [],
+      "company": "Astera Labs",
+      "key": "bdad71b09275e2a3b39ac071",
+      "last_scanned": "2026-09-07",
+      "resolved_roles": 0,
+      "url": "https://www.asteralabs.com/"
+    },
+    {
       "boards": [
         "workday:heidelbergmaterials.wd3.myworkdayjobs.com:heidelbergmaterials:global_hm_career_site",
         "workday:heidelbergmaterials.wd3.myworkdayjobs.com:heidelbergmaterials:heidelberg_materials_uk_career_site"
@@ -19551,6 +19618,13 @@
       "url": "https://www.minthgroup.com/en/"
     },
     {
+      "company": "Mercedes-Benz Group AG",
+      "error": "public request failed for https://www.mercedes-benz.com/: HTTP Error 403: Forbidden",
+      "key": "c1a145049df78b61085fc116",
+      "last_scanned": "2026-09-07",
+      "url": "https://www.mercedes-benz.com/"
+    },
+    {
       "boards": [],
       "company": "AMERICAN SYSTEMS",
       "key": "c1afa585e3594b498553b5ca",
@@ -19996,7 +20070,7 @@
       ],
       "company": "Sage",
       "key": "c687244456098ec8445c153a",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.sagehealth.com/"
     },
@@ -21393,7 +21467,7 @@
       ],
       "company": "PIMCO",
       "key": "d3244cb16286341f11d732a1",
-      "last_scanned": "2026-08-31",
+      "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.pimco.com/"
     },
@@ -23903,7 +23977,7 @@
       "company": "Infosys",
       "error": "public request failed for https://www.infosys.com/: HTTP Error 403: Forbidden",
       "key": "eb401d2139ce32943d9ce970",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-07",
       "url": "https://www.infosys.com/"
     },
     {
@@ -23941,7 +24015,7 @@
       "company": "Kelvolta",
       "error": "Invalid IPv6 URL",
       "key": "ebe0e152a0d08a0cb5422f9b",
-      "last_scanned": "2026-08-20",
+      "last_scanned": "2026-09-07",
       "url": "https://www.kelvolta.com/"
     },
     {
