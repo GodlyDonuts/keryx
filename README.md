@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**4,925 internships · 4,555 new-grad roles · 9,480 total openings**
+**4,921 internships · 4,550 new-grad roles · 9,471 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,291 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 2,283 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 541 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 280 | **[View openings →](internships/spring-2027.md)** |
+| 🌱 Spring 2027 | 281 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 101 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,712 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 1,715 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 908 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,380 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,267 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 1,379 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,263 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,8 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| WSP | Civil Engineering Intern - Summer 2027 | Fort Worth, TX, United States | Summer 2027 | Aug 2027 or later<br><sub>required / stated</sub> | 2026-09-07 | **[Apply →](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94212)**<br><sub>emit.fa.ca3.oraclecloud.com</sub> |
+| WSP | Electrical Engineering Intern - Summer 2027 | Fort Worth, TX, United States | Summer 2027 | Aug 2027 or later<br><sub>required / stated</sub> | 2026-09-07 | **[Apply →](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94207)**<br><sub>emit.fa.ca3.oraclecloud.com</sub> |
 | Amgen | Undergrad Co-op - Automation Engineer, Drug Product Assembly & Packaging | US - Massachusetts - Cambridge | Not listed | not available | 2026-09-06 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/US---Massachusetts---Cambridge/Undergrad-Co-op---Automation-Engineer--Drug-Product-Assembly---Packaging_R-254530)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
 | Applied Materials | 2026-2027 Process Engineer Co-op - Doctorate (Gloucester, MA) | Gloucester,MA | Not listed | not available | 2026-09-06 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-2027-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2626230)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
 | Charles Schwab | 2027 Technology Intern - Software Engineering | Austin, TX +5 | Not listed | not available | 2026-09-06 | **[Apply →](https://career-schwab.icims.com/jobs/126228/2027-technology-intern---software-engineering/job)**<br><sub>career-schwab.icims.com</sub> |
@@ -47,8 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | TikTok | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure - 2027 Fall | Seattle, WA | Not listed | not available | 2026-09-06 | **[Apply →](https://lifeattiktok.com/search/7674029284224092421)**<br><sub>lifeattiktok.com</sub> |
 | TikTok | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure - 2027 Fall | San Jose, CA | Not listed | not available | 2026-09-06 | **[Apply →](https://lifeattiktok.com/search/7672934842451577141)**<br><sub>lifeattiktok.com</sub> |
 | Enclos | Structural Engineering Internship | Bloomington, MN, United States | Not listed | not available | 2026-09-05 | **[Apply →](https://enclos.com/applicantpro/job/Minnesota/Bloomington/Structural-Engineering-Internship/4196614)**<br><sub>enclos.com</sub> |
-| Loram Maintenance of Way, Inc. | Machine Learning / Artificial Intelligence (AI) Intern | Hamel, MN, United States | Not listed | not available | 2026-09-05 | **[Apply →](https://jobs.loram.com/job/23818519/machine-learning-artificial-intelligence-ai-intern-hamel-mn/)**<br><sub>jobs.loram.com</sub> |
-| LotusWorks | Electrical & Instrumentation Technician - Full Time Internship | Rio Rancho, NM, United States | Not listed | not available | 2026-09-05 | **[Apply →](https://careers.lotusworks.com/job/opportunity%20/ei-technician-full-time-internship/?gh_jid=4912220101)**<br><sub>careers.lotusworks.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
