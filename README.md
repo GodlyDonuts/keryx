@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**4,921 internships · 4,550 new-grad roles · 9,471 total openings**
+**5,042 internships · 4,599 new-grad roles · 9,641 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,283 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 541 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 281 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 101 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,715 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 2,301 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 539 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 283 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 102 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 1,817 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 908 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,379 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,263 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 943 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,399 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,257 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| WSP | Civil Engineering Intern - Summer 2027 | Fort Worth, TX, United States | Summer 2027 | Aug 2027 or later<br><sub>required / stated</sub> | 2026-09-07 | **[Apply →](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94212)**<br><sub>emit.fa.ca3.oraclecloud.com</sub> |
-| WSP | Electrical Engineering Intern - Summer 2027 | Fort Worth, TX, United States | Summer 2027 | Aug 2027 or later<br><sub>required / stated</sub> | 2026-09-07 | **[Apply →](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94207)**<br><sub>emit.fa.ca3.oraclecloud.com</sub> |
 | Amgen | Undergrad Co-op - Automation Engineer, Drug Product Assembly & Packaging | US - Massachusetts - Cambridge | Not listed | not available | 2026-09-06 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/US---Massachusetts---Cambridge/Undergrad-Co-op---Automation-Engineer--Drug-Product-Assembly---Packaging_R-254530)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
 | Applied Materials | 2026-2027 Process Engineer Co-op - Doctorate (Gloucester, MA) | Gloucester,MA | Not listed | not available | 2026-09-06 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-2027-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2626230)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
+| Charles Schwab | 2027 Technology Intern - Site Reliability Engineering | Austin, TX | Not listed | not available | 2026-09-06 | **[Apply →](https://career-schwab.icims.com/jobs/126229/2027-technology-intern---site-reliability-engineering/job)**<br><sub>career-schwab.icims.com</sub> |
 | Charles Schwab | 2027 Technology Intern - Software Engineering | Austin, TX +5 | Not listed | not available | 2026-09-06 | **[Apply →](https://career-schwab.icims.com/jobs/126228/2027-technology-intern---software-engineering/job)**<br><sub>career-schwab.icims.com</sub> |
 | Citadel | Software Engineer - Intern - US | Houston, TX +2 | Not listed | not available | 2026-09-06 | **[Apply →](https://www.citadel.com/careers/details/software-engineer-intern-us/)**<br><sub>www.citadel.com</sub> |
+| GE Vernova | GE Vernova Electrical Intern - Summer 2027 | Salem VA USA | Summer 2027 | not available | 2026-09-06 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Salem-VA-USA/GE-Vernova-Electrical-Intern---Summer-2027_R5051964-1)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
+| ICF | 2027 Summer Intern, Software Developer (Reston, VA) | Reston, VA | Summer 2027 | not available | 2026-09-06 | **[Apply →](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002)**<br><sub>icf.wd5.myworkdayjobs.com</sub> |
 | Jump Trading | Campus Software Engineer - Intern | Chicago, IL | Not listed | not available | 2026-09-06 | **[Apply →](https://www.jumptrading.com/hr/job?gh_jid=8002989)**<br><sub>www.jumptrading.com</sub> |
-| Monolithic Power Systems | Application Engineer Intern | San Jose, CA | Not listed | not available | 2026-09-06 | **[Apply →](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890)**<br><sub>monolithicpower.wd12.myworkdayjobs.com</sub> |
-| The Campbell's Company | Data Engineer – Agentic AI & ML Ops (Co-op) | USA - NJ - Camden | Not listed | not available | 2026-09-06 | **[Apply →](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer---Agentic-AI---ML-Ops--Co-op-_Req-65843)**<br><sub>campbellsoup.wd5.myworkdayjobs.com</sub> |
+| The Blue Venture Fund | Software Engineer Intern, Monitoring | Plano, TX, United States | Not listed | not available | 2026-09-06 | **[Apply →](https://jobs.blueventurefund.com/companies/smartdata-solutions/jobs/92362346-software-engineer-intern-monitoring#content)**<br><sub>jobs.blueventurefund.com</sub> |
+| The Blue Venture Fund | Software Engineer Intern, Support | Dallas, TX, United States | Not listed | not available | 2026-09-06 | **[Apply →](https://jobs.blueventurefund.com/companies/smartdata-solutions/jobs/92362343-software-engineer-intern-support#content)**<br><sub>jobs.blueventurefund.com</sub> |
 | TikTok | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure - 2027 Fall | Seattle, WA | Not listed | not available | 2026-09-06 | **[Apply →](https://lifeattiktok.com/search/7674029284224092421)**<br><sub>lifeattiktok.com</sub> |
 | TikTok | Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure - 2027 Fall | San Jose, CA | Not listed | not available | 2026-09-06 | **[Apply →](https://lifeattiktok.com/search/7672934842451577141)**<br><sub>lifeattiktok.com</sub> |
-| Enclos | Structural Engineering Internship | Bloomington, MN, United States | Not listed | not available | 2026-09-05 | **[Apply →](https://enclos.com/applicantpro/job/Minnesota/Bloomington/Structural-Engineering-Internship/4196614)**<br><sub>enclos.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
