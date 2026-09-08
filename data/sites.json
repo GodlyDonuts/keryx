@@ -1464,6 +1464,14 @@
       "url": "https://www.digest.pro/"
     },
     {
+      "boards": [],
+      "company": "Workato",
+      "key": "0eb06b4463e1587c519d9934",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.workato.com/"
+    },
+    {
       "boards": [
         "ashby:dedalus-labs"
       ],
@@ -1566,7 +1574,7 @@
       "company": "AtkinsR\u00e9alis",
       "error": "public request failed for https://www.atkinsrealis.com/: HTTP Error 403: Forbidden",
       "key": "0fd47b58cc44aa68dc5a8df2",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-08",
       "url": "https://www.atkinsrealis.com/"
     },
     {
@@ -2946,6 +2954,14 @@
       "url": "https://www.db.com/"
     },
     {
+      "boards": [],
+      "company": "Revel",
+      "key": "1e31897e667ce64db0654b55",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://revel.io/"
+    },
+    {
       "company": "Trilon",
       "error": "Invalid IPv6 URL",
       "key": "1e573591798e50f4ee8a46aa",
@@ -4043,6 +4059,14 @@
       "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://atoms.co/"
+    },
+    {
+      "boards": [],
+      "company": "PayIt",
+      "key": "2b6f52c5e15ffd0cb6c28856",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.payitgov.com/"
     },
     {
       "boards": [],
@@ -5267,7 +5291,7 @@
       "boards": [],
       "company": "Prometheum",
       "key": "358380ef028ceca63d094da8",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.prometheum.com/"
     },
@@ -5958,6 +5982,14 @@
     },
     {
       "boards": [],
+      "company": "Directors Guild of America",
+      "key": "3bec32c8e9cdd25f7e50a8b1",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.dga.org/"
+    },
+    {
+      "boards": [],
       "company": "Granger Construction",
       "key": "3bf37df0a2a3636053ea41dd",
       "last_scanned": "2026-08-20",
@@ -6613,6 +6645,14 @@
     },
     {
       "boards": [],
+      "company": "Talos",
+      "key": "42dc9d8fb116587e7e0bd68a",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://talos.com/"
+    },
+    {
+      "boards": [],
       "company": "Loram Maintenance of Way, Inc.",
       "key": "4306898763f22f20278d936c",
       "last_scanned": "2026-09-05",
@@ -6741,6 +6781,14 @@
       "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://bowman.com/"
+    },
+    {
+      "boards": [],
+      "company": "Goldbelt Professional Services",
+      "key": "443639c72ec5770e598a9deb",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.goldbeltproservices.com/"
     },
     {
       "boards": [],
@@ -6900,6 +6948,16 @@
       "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.ai2.it/"
+    },
+    {
+      "boards": [
+        "lever:grantstreet"
+      ],
+      "company": "Grant Street Group",
+      "key": "46025e1c59f97d760b5f5520",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.grantstreet.com/"
     },
     {
       "boards": [],
@@ -7530,6 +7588,14 @@
       "key": "4b810c5048a171d53eacfe30",
       "last_scanned": "2026-09-04",
       "url": "https://structurepoint.com/"
+    },
+    {
+      "boards": [],
+      "company": "Dimensional Fund Advisors",
+      "key": "4b84276c9db9618a7c7d03b2",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://us.dimensional.com/"
     },
     {
       "boards": [
@@ -10545,6 +10611,14 @@
     },
     {
       "boards": [],
+      "company": "S&B",
+      "key": "66d5ab71b361dac9ffa5f8f6",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.sbec.com/"
+    },
+    {
+      "boards": [],
       "company": "Cicero\u2122, part of MGT",
       "key": "66f7dc58a659dacc00cf6bb3",
       "last_scanned": "2026-09-08",
@@ -11143,7 +11217,7 @@
       "boards": [],
       "company": "Canon Financial Services, Inc.",
       "key": "6ce9f2a13c988abf2362b010",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.cfs.canon.com/"
     },
@@ -11269,7 +11343,7 @@
       "company": "Ipsos in US",
       "error": "public request failed for https://ipsos-na.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ipsos-na.com'. (_ssl.c:1000)>",
       "key": "6dec96f49534b008cf989eae",
-      "last_scanned": "2026-09-04",
+      "last_scanned": "2026-09-08",
       "url": "https://ipsos-na.com/"
     },
     {
@@ -12787,6 +12861,14 @@
     },
     {
       "boards": [],
+      "company": "Carmeuse",
+      "key": "7c7e6f708ba0478bd8636f3f",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.carmeuseoverseas.com/carmeuse-tunisie/"
+    },
+    {
+      "boards": [],
       "company": "ISN",
       "key": "7ca4bed98bddc81131e249cf",
       "last_scanned": "2026-08-31",
@@ -14086,6 +14168,14 @@
     },
     {
       "boards": [],
+      "company": "dbHMS",
+      "key": "88f52cbf6e65b71d864fc946",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://dbhms.com/"
+    },
+    {
+      "boards": [],
       "company": "ASUS",
       "key": "8911bc597d69ad10c896205f",
       "last_scanned": "2026-08-31",
@@ -14609,7 +14699,7 @@
       "company": "Abercrombie & Fitch Co.",
       "error": "public request failed for https://www.abercrombie.com/shop/us: HTTP Error 403: Forbidden",
       "key": "8d636b9fb3a994b0c4c9e010",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-09-08",
       "url": "https://abercrombie.com/"
     },
     {
@@ -14939,6 +15029,14 @@
       "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.popupbagels.com/"
+    },
+    {
+      "boards": [],
+      "company": "Asphalt Green",
+      "key": "908d8354fa379704b0fe0fef",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.asphaltgreen.org/ues"
     },
     {
       "company": "NYC Department of Environmental Protection (NYC DEP)",
@@ -15598,6 +15696,13 @@
       "key": "98cd49c074ca5d759be4f500",
       "last_scanned": "2026-09-07",
       "url": "https://www.blueorigin.com/"
+    },
+    {
+      "company": "Meijer",
+      "error": "public request failed for https://www.meijer.com/: HTTP Error 403: Forbidden",
+      "key": "98d54458ad464986308c6906",
+      "last_scanned": "2026-09-08",
+      "url": "https://www.meijer.com/"
     },
     {
       "boards": [
@@ -16458,7 +16563,7 @@
       "boards": [],
       "company": "Southern Company",
       "key": "a161c54dec65abfe3ddb9c78",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.southerncompany.com/"
     },
@@ -16644,7 +16749,7 @@
       "boards": [],
       "company": "Publix Super Markets",
       "key": "a26696e6216fbdbfadb52375",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.publix.com/"
     },
@@ -16675,7 +16780,7 @@
       "boards": [],
       "company": "Hometap",
       "key": "a2912b72f1ea1980e16f1868",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.hometap.com/"
     },
@@ -16777,6 +16882,14 @@
       "key": "a3bebc2fe85708c99fb96c69",
       "last_scanned": "2026-08-31",
       "url": "https://www.studyfetch.com/"
+    },
+    {
+      "boards": [],
+      "company": "Englewood Hospital",
+      "key": "a3ca7c6ca876e7c0f470f094",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.englewoodhealth.org/"
     },
     {
       "boards": [
@@ -17104,7 +17217,7 @@
       "boards": [],
       "company": "Advanced Space",
       "key": "a6a8b8b7740b290a4bb2aebc",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://advancedspace.com/"
     },
@@ -17908,7 +18021,7 @@
       "company": "MacDermid Alpha Electronics Solutions",
       "error": "public request failed for https://www.macdermidalpha.com/: HTTP Error 403: Forbidden",
       "key": "ae9d3ce4bbc95bdcf7d8c197",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-09-08",
       "url": "https://www.macdermidalpha.com/"
     },
     {
@@ -17959,7 +18072,7 @@
       ],
       "company": "Hormel Foods",
       "key": "af19de0e20149817d741d1c8",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.hormelfoods.com/"
     },
@@ -20509,7 +20622,7 @@
       "boards": [],
       "company": "LCPtracker, Inc.",
       "key": "c7ec72bfc658104482b28e0f",
-      "last_scanned": "2026-08-29",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://lcptracker.com/"
     },
@@ -21118,7 +21231,7 @@
       "boards": [],
       "company": "Lynker",
       "key": "cd46b98c1ec1943ef86f022d",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://lynker.com/"
     },
@@ -21565,7 +21678,7 @@
       "boards": [],
       "company": "Telios Corporation",
       "key": "d131c18cb660aabd3417d167",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://teliospc.com/"
     },
@@ -22395,7 +22508,7 @@
       "company": "Steve Madden",
       "error": "Invalid IPv6 URL",
       "key": "d882e407f1c787ad33151f3b",
-      "last_scanned": "2026-09-03",
+      "last_scanned": "2026-09-08",
       "url": "https://www.stevemadden.com/"
     },
     {
@@ -23640,6 +23753,16 @@
     },
     {
       "boards": [
+        "ashby:semgrep"
+      ],
+      "company": "Semgrep",
+      "key": "e5277db834ecc4d37395d96e",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://semgrep.dev/"
+    },
+    {
+      "boards": [
         "oracle:etgi.fa.us8.oraclecloud.com:cx_4005"
       ],
       "company": "Virginia Department of Transportation",
@@ -23987,6 +24110,16 @@
       "url": "https://www.fashionphile.com/"
     },
     {
+      "boards": [
+        "ashby:retell-ai"
+      ],
+      "company": "Retell",
+      "key": "e81f018c9967ae368f8ba002",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://retellai.com/"
+    },
+    {
       "company": "York Space Systems",
       "error": "Invalid IPv6 URL",
       "key": "e87802ee652eaaf7376fbeb6",
@@ -24031,7 +24164,7 @@
       "boards": [],
       "company": "Southern Farm Bureau Life Insurance Company",
       "key": "e8efcaeb2d56359eb2b22936",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.sfbli.com/"
     },
@@ -24385,6 +24518,14 @@
       "url": "https://www.fticonsulting.com/"
     },
     {
+      "boards": [],
+      "company": "Addepar",
+      "key": "eba02ea29255ba8fe3eff5f3",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://addepar.com/"
+    },
+    {
       "company": "Newport News Behavioral Health Center",
       "error": "public request failed for https://newportnewsbhc.com/: HTTP Error 403: Forbidden",
       "key": "ebaf7a87d4efa479d9f679d1",
@@ -24510,6 +24651,13 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://echeloninsights.com/"
+    },
+    {
+      "company": "Fisher Investments",
+      "error": "public request failed for https://www.fisherinvestments.com/en-us: HTTP Error 403: Forbidden",
+      "key": "ed0b53388ca7e35be37716eb",
+      "last_scanned": "2026-09-08",
+      "url": "https://www.fisherinvestments.com/en-us"
     },
     {
       "boards": [
@@ -24668,6 +24816,14 @@
       "url": "https://crusoe.ai/"
     },
     {
+      "boards": [],
+      "company": "Johnsonville",
+      "key": "ee3f9f672a91ca767f613101",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.johnsonville.com/"
+    },
+    {
       "boards": [
         "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:healthpartners",
         "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:healthpartners-clinic-stillwater",
@@ -24744,7 +24900,7 @@
       "company": "Burns & McDonnell",
       "error": "Invalid IPv6 URL",
       "key": "eec8917d7550e69bd17e19be",
-      "last_scanned": "2026-09-05",
+      "last_scanned": "2026-09-08",
       "url": "https://www.burnsmcd.com/"
     },
     {
@@ -25428,6 +25584,14 @@
       "url": "https://www.ebiconsulting.com/"
     },
     {
+      "boards": [],
+      "company": "Flagship Pioneering",
+      "key": "f43996f4b844ec5bafbd980a",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://flagshippioneering.com/"
+    },
+    {
       "company": "Parrish and Partners, LLC",
       "error": "public request failed for https://www.parrishandpartners.com/: <urlopen error timed out>",
       "key": "f43f47a69df244f0c64f7220",
@@ -25497,6 +25661,14 @@
       "key": "f53ce3ad208b14b94c9e584f",
       "last_scanned": "2026-09-03",
       "url": "https://www.ericsson.com/"
+    },
+    {
+      "boards": [],
+      "company": "The Cadmus Group",
+      "key": "f5471e9360add3a263b89110",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.cadmusgroup.com/"
     },
     {
       "boards": [],
@@ -25887,6 +26059,13 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://clr.com/"
+    },
+    {
+      "company": "Buildertrend",
+      "error": "public request failed for https://buildertrend.com/: HTTP Error 403: Forbidden",
+      "key": "f9df59a5350fb5bae1d9691d",
+      "last_scanned": "2026-09-08",
+      "url": "https://buildertrend.com/"
     },
     {
       "boards": [],
