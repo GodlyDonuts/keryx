@@ -99,7 +99,7 @@
       ],
       "company": "KoBold Metals",
       "key": "00c933b80d12230320a76c3a",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.koboldmetals.com/"
     },
@@ -1486,8 +1486,9 @@
     {
       "boards": [],
       "company": "Fervo Energy",
+      "error": "public request failed for https://www.fervoenergy.com/: HTTP Error 403: Forbidden",
       "key": "0ede4c71031b4ca2cb8f54f3",
-      "last_scanned": "2026-08-31",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.fervoenergy.com/"
     },
@@ -1953,7 +1954,7 @@
       ],
       "company": "Insurity",
       "key": "131cc65574b39b9bc5d466ba",
-      "last_scanned": "2026-08-30",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.insurity.com/"
     },
@@ -2507,6 +2508,16 @@
       "last_scanned": "2026-08-27",
       "resolved_roles": 0,
       "url": "https://www.dhl.com/au-en/home/express.html"
+    },
+    {
+      "boards": [
+        "workday:gilead.wd1.myworkdayjobs.com:gilead:gileadcareers"
+      ],
+      "company": "Gilead Sciences",
+      "key": "182296bffa31b5933b1fd2a5",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.gilead.com/"
     },
     {
       "boards": [],
@@ -5228,6 +5239,14 @@
       "url": "https://thecommonsxr.com/"
     },
     {
+      "boards": [],
+      "company": "Midcontinent Independent System Operator (MISO)",
+      "key": "354f75efa4dcd676d6912f1f",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.misoenergy.org/"
+    },
+    {
       "boards": [
         "ashby:chartahealth"
       ],
@@ -5392,7 +5411,7 @@
       "boards": [],
       "company": "Veeva Systems",
       "key": "37b7b29287c381b80194b894",
-      "last_scanned": "2026-08-31",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.veeva.com/"
     },
@@ -5427,6 +5446,14 @@
       "last_scanned": "2026-08-29",
       "resolved_roles": 0,
       "url": "https://www.psiquantum.com/"
+    },
+    {
+      "boards": [],
+      "company": "Maven Securities",
+      "key": "37f600f51d89ca719b05692f",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.mavensecurities.com/"
     },
     {
       "boards": [],
@@ -7346,7 +7373,7 @@
       "company": "Serco",
       "error": "public request failed for https://www.serco.com/: HTTP Error 403: Forbidden",
       "key": "4a471fe2a3be82abf04cf615",
-      "last_scanned": "2026-09-07",
+      "last_scanned": "2026-09-08",
       "url": "https://www.serco.com/"
     },
     {
@@ -8525,7 +8552,7 @@
       ],
       "company": "Chainlink Labs",
       "key": "550d63cb47c4fbe76e267f2c",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://chainlinklabs.com/"
     },
@@ -9938,7 +9965,7 @@
       ],
       "company": "MatX",
       "key": "61a26f1db2071803ff408257",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://matx.com/"
     },
@@ -11669,6 +11696,13 @@
       "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.icf.com/"
+    },
+    {
+      "company": "DICK'S Sporting Goods",
+      "error": "public request failed for https://www.dickssportinggoods.com/: HTTP Error 403: Forbidden",
+      "key": "72d2c1890a70d035be51374a",
+      "last_scanned": "2026-09-08",
+      "url": "https://www.dickssportinggoods.com/"
     },
     {
       "boards": [],
@@ -15177,7 +15211,7 @@
       ],
       "company": "Intel",
       "key": "94bf1975c9fc7ec9ea3ad42e",
-      "last_scanned": "2026-08-29",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.intel.com/"
     },
@@ -15407,7 +15441,7 @@
       "company": "Best Buy",
       "error": "public request failed for https://www.bestbuy.com/: The read operation timed out",
       "key": "98024e21f1f95892a4893270",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-08",
       "url": "https://www.bestbuy.com/"
     },
     {
@@ -16025,6 +16059,14 @@
     },
     {
       "boards": [],
+      "company": "Soft Tech Consulting",
+      "key": "9edacd8802097e37a4bc6f75",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://softtechconsulting.com/"
+    },
+    {
+      "boards": [],
       "company": "Maryland Oncology Hematology",
       "key": "9f33d0ba6e03a44092378e3c",
       "last_scanned": "2026-08-15",
@@ -16275,7 +16317,7 @@
       "boards": [],
       "company": "WR Systems",
       "key": "a0e4aba20df0b063d31c5faf",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.wrsystems.com/"
     },
@@ -18222,6 +18264,14 @@
     },
     {
       "boards": [],
+      "company": "Quadeye",
+      "key": "b374a11ea24ce3653401bcc3",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.quadeye.com/"
+    },
+    {
+      "boards": [],
       "company": "Southwest Airlines",
       "key": "b3772d81283effbcbc60d9f0",
       "last_scanned": "2026-09-08",
@@ -18935,7 +18985,7 @@
       "boards": [],
       "company": "Meta",
       "key": "ba98b741dc977433833e60f1",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.meta.com/"
     },
@@ -19760,7 +19810,7 @@
       "boards": [],
       "company": "Minth North America, Inc.",
       "key": "c1903d53c3b0a1bbfd52944a",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.minthgroup.com/en/"
     },
@@ -20248,7 +20298,7 @@
       "boards": [],
       "company": "Texas Instruments",
       "key": "c6d4cb77fac08ee830d58d69",
-      "last_scanned": "2026-08-31",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.ti.com/"
     },
@@ -21556,7 +21606,7 @@
       "boards": [],
       "company": "Arthrex",
       "key": "d2a2c2a50a1433d3b28e4818",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.arthrex.com/"
     },
@@ -21640,6 +21690,14 @@
       "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.ncsu.edu/"
+    },
+    {
+      "boards": [],
+      "company": "Acentra Health",
+      "key": "d35539d8a1b8c5481d2bfb21",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://acentra.com/"
     },
     {
       "boards": [],
@@ -22749,7 +22807,7 @@
       "boards": [],
       "company": "Trucker Path",
       "key": "de94198bb7643b682b62cb60",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://truckerpath.com/"
     },
@@ -23144,11 +23202,13 @@
       "url": "https://www.drivemedical.com/"
     },
     {
-      "boards": [],
+      "boards": [
+        "workday:magnitudesoftware.wd1.myworkdayjobs.com:magnitudesoftware:external"
+      ],
       "company": "insightsoftware",
       "key": "e2902091e4b560dfe0972fef",
-      "last_scanned": "2026-08-24",
-      "resolved_roles": 0,
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 1,
       "url": "https://www.insightsoftware.com/"
     },
     {
@@ -24796,7 +24856,7 @@
       "boards": [],
       "company": "Applied Systems",
       "key": "f099c030a33ac7193580dbe3",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www1.appliedsystems.com/"
     },
@@ -25276,7 +25336,7 @@
       "company": "Hilton",
       "error": "public request failed for https://www.hilton.com/en/: HTTP Error 403: Forbidden",
       "key": "f565ba7cf3843ea931c463ef",
-      "last_scanned": "2026-09-03",
+      "last_scanned": "2026-09-08",
       "url": "https://www.hilton.com/en/"
     },
     {
@@ -25537,6 +25597,13 @@
       "last_scanned": "2026-09-01",
       "resolved_roles": 0,
       "url": "https://www.nera.com/"
+    },
+    {
+      "company": "E.S. Wagner Company",
+      "error": "public requests require HTTPS and a hostname",
+      "key": "f7ed150c49e2fea85bf51426",
+      "last_scanned": "2026-09-08",
+      "url": "https://eswagner.com/"
     },
     {
       "boards": [],
@@ -25893,7 +25960,7 @@
       "boards": [],
       "company": "Skorpios Technologies, Inc.",
       "key": "fc6256e3f4cf965b3284ef72",
-      "last_scanned": "2026-08-31",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.skorpiosinc.com/"
     },
