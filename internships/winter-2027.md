@@ -4,10 +4,13 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**100 open roles**
+**103 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
+| Accelevation | Manufacturing Engineering Intern - Fall/Winter 2027 | Miamisburg, OH, United States | not available<br><sub>posting text not indexed</sub> | 2026-09-08 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a988b8edef18223c85500e1?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
+| Acxiom | Data Scientist Intern | Conway, AR | not available<br><sub>posting text not indexed</sub> | 2026-09-08 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · acxiomllc.wd5.myworkdayjobs.com](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Scientist_JR014459)<br><sub>recognized recruiting platform</sub> |
+| J.D. Irving, Limited | Manufacturing Engineering Co-op - Winter 2027 | Macon, GA, United States | not available<br><sub>posting text not indexed</sub> | 2026-09-08 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6aa06ab6ea127c3794696efa?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
 | Zions Bank | Process Automation Developer Intern | United States | not available<br><sub>posting text not indexed</sub> | 2026-09-08 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · zionsbancorp.taleo.net](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071580)<br><sub>recognized recruiting platform</sub> |
 | Kodiak Robotics | Data Engineering Intern | Mountain View, CA | not stated<br><sub>direct ATS text · checked 2026-09-08</sub> | 2026-09-04 | [Greenhouse direct](https://job-boards.greenhouse.io/kodiak), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/kodiak/jobs/4396622009)<br><sub>ATS checked</sub> |
 | Susquehanna International Group | Technology Co-op | Bala Cynwyd, PA | not available<br><sub>posting text not indexed</sub> | 2026-09-04 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · careers-sig.icims.com](https://careers-sig.icims.com/jobs/11379/job?mobile=true&needsRedirect=false)<br><sub>recognized recruiting platform</sub> |

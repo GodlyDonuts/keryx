@@ -1245,7 +1245,7 @@
       "boards": [],
       "company": "ADS Environmental Services",
       "key": "0cc97ca34d2d5a7be84f2a3a",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.adsenv.com/"
     },
@@ -1301,6 +1301,14 @@
       "last_scanned": "2026-09-03",
       "resolved_roles": 0,
       "url": "https://www.genpact.com/"
+    },
+    {
+      "boards": [],
+      "company": "IEWC",
+      "key": "0d622b78b5b690a7d1675f4b",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://iewc.com/"
     },
     {
       "boards": [
@@ -3347,7 +3355,7 @@
       "boards": [],
       "company": "BuyWander",
       "key": "21b5c0fc756a27e2c8e433c3",
-      "last_scanned": "2026-08-27",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://buywander.com/"
     },
@@ -3969,7 +3977,7 @@
       ],
       "company": "Nelnet",
       "key": "29ebc7fb4c5a84ccf7f19717",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://nelnetinc.com/"
     },
@@ -5257,9 +5265,16 @@
       ],
       "company": "Momentive",
       "key": "3524b4769fc37b42841d499a",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.momentive.com/"
+    },
+    {
+      "company": "Rowe Professional Services Company",
+      "error": "public requests require HTTPS and a hostname",
+      "key": "3542b44346da1b85c22109be",
+      "last_scanned": "2026-09-08",
+      "url": "https://rowepsc.com/"
     },
     {
       "boards": [],
@@ -5773,6 +5788,14 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://hruckus.com/"
+    },
+    {
+      "boards": [],
+      "company": "Wize Solutions",
+      "key": "39b546dc8c66f13b5ff9fe74",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://wizesolutions.com/"
     },
     {
       "boards": [],
@@ -9690,7 +9713,7 @@
       "company": "AE2S (Advanced Engineering and Environmental Services, LLC)",
       "error": "public request failed for https://www.ae2s.com/: HTTP Error 403: Forbidden",
       "key": "5e309f5a9106891cfcc8d051",
-      "last_scanned": "2026-09-07",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 1,
       "url": "https://ae2s.com/"
     },
@@ -10340,7 +10363,7 @@
       "boards": [],
       "company": "Cerris",
       "key": "64cbdb033dc4fda04c08d268",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.cerris.com/"
     },
@@ -10934,7 +10957,7 @@
       ],
       "company": "Eudia",
       "key": "6a39e609859f6487432d45fb",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.eudia.com/"
     },
@@ -11487,6 +11510,13 @@
       "key": "6f24e9e811b5ccfdd599c2d6",
       "last_scanned": "2026-09-02",
       "url": "https://vialindabehavioral.com/"
+    },
+    {
+      "company": "Noctua Technology",
+      "error": "Invalid IPv6 URL",
+      "key": "6f5b9c628587d01b5abb0b15",
+      "last_scanned": "2026-09-08",
+      "url": "https://www.noctuatech.com/"
     },
     {
       "boards": [],
@@ -13581,7 +13611,7 @@
       "boards": [],
       "company": "HNI Corporation",
       "key": "837dc4bab91e9d667fb9b706",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.hnicorp.com/"
     },
@@ -13820,6 +13850,16 @@
       "url": "https://www.akina.health/"
     },
     {
+      "boards": [
+        "ashby:kustomer"
+      ],
+      "company": "Kustomer",
+      "key": "85b0bc824afbcdf2d05f445e",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.kustomer.com/"
+    },
+    {
       "company": "STMicroelectronics",
       "error": "public request failed for https://www.st.com/: The read operation timed out",
       "key": "85b10e90effac9ef17410d42",
@@ -14047,7 +14087,7 @@
       "boards": [],
       "company": "Dominion Energy",
       "key": "87eb10210fd0ed9f435e4ffd",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.dominionenergy.com/"
     },
@@ -14149,6 +14189,14 @@
       "last_scanned": "2026-08-30",
       "resolved_roles": 0,
       "url": "https://www.baxter.com/"
+    },
+    {
+      "boards": [],
+      "company": "Ohio's Electric Cooperatives",
+      "key": "88a7819b7f784c6e6781341f",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.ohioec.org/"
     },
     {
       "boards": [],
@@ -14490,6 +14538,14 @@
       "key": "8b96c5fecf4a8c25a350411f",
       "last_scanned": "2026-09-07",
       "url": "https://www.marathonpetroleum.com/"
+    },
+    {
+      "boards": [],
+      "company": "Toshiba International Corporation",
+      "key": "8ba2361b6a903986b0e6a74a",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.toshiba.com/tic"
     },
     {
       "company": "Salt River Project",
@@ -15088,7 +15144,7 @@
       "boards": [],
       "company": "Benesch",
       "key": "90db692358dce8ccf23709b5",
-      "last_scanned": "2026-08-31",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.benesch.com/"
     },
@@ -15466,7 +15522,7 @@
       ],
       "company": "AnaVation LLC",
       "key": "9568d255f003071f949cd841",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://anavationllc.com/"
     },
@@ -16508,6 +16564,14 @@
       "url": "https://www.xantium.co.uk/"
     },
     {
+      "boards": [],
+      "company": "Daylit",
+      "key": "a0c66fefaa04be2e02aeb022",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.daylit.com/"
+    },
+    {
       "boards": [
         "greenhouse:judihealth"
       ],
@@ -17296,7 +17360,7 @@
       "company": "Motorola Solutions",
       "error": "public request failed for https://www.motorolasolutions.com/: HTTP Error 403: Forbidden",
       "key": "a7500527db6f2598ec09839b",
-      "last_scanned": "2026-09-05",
+      "last_scanned": "2026-09-08",
       "url": "https://www.motorolasolutions.com/"
     },
     {
@@ -20241,6 +20305,14 @@
     },
     {
       "boards": [],
+      "company": "Public Service Company of New Mexico (PNM)",
+      "key": "c3b3f1785ce44ab2457f7e19",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.pnm.com/"
+    },
+    {
+      "boards": [],
       "company": "Government Tactical Solutions, LLC",
       "key": "c3c6a9d7fae25874d45e45ff",
       "last_scanned": "2026-09-04",
@@ -21118,6 +21190,14 @@
       "url": "https://www.rsandh.com/"
     },
     {
+      "boards": [],
+      "company": "LJA",
+      "key": "cc0bee59813b25dacebf61e0",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.lja.com/"
+    },
+    {
       "company": "DENSO",
       "error": "public request failed for https://www.denso.com/: HTTP Error 403: Forbidden",
       "key": "cc1e38f3db59bbb005f3828d",
@@ -21245,6 +21325,14 @@
     },
     {
       "boards": [],
+      "company": "EPC Power Corp.",
+      "key": "cd65dfcd96bf9ea7b7a816f6",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.epcpower.com/"
+    },
+    {
+      "boards": [],
       "company": "Central Michigan University",
       "key": "cd817e493bc09f818cb9e5f3",
       "last_scanned": "2026-08-25",
@@ -21315,6 +21403,16 @@
       "last_scanned": "2026-09-03",
       "resolved_roles": 0,
       "url": "https://block.xyz/"
+    },
+    {
+      "boards": [
+        "greenhouse:viamrobotics"
+      ],
+      "company": "Viam",
+      "key": "ce41c47d621dcf0388860cf8",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.viam.com/"
     },
     {
       "company": "WTW",
@@ -21576,7 +21674,7 @@
       "boards": [],
       "company": "Martin Marietta",
       "key": "d0757664226db4378c3ccc03",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://martinmarietta.com/"
     },
@@ -21872,6 +21970,14 @@
       "last_scanned": "2026-09-05",
       "resolved_roles": 0,
       "url": "https://brierleyassociates.com/"
+    },
+    {
+      "boards": [],
+      "company": "MarketEQ",
+      "key": "d2c7e9e7aae83182ba480e71",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.linkedin.com/company/77759425"
     },
     {
       "boards": [
@@ -22309,7 +22415,7 @@
       "boards": [],
       "company": "Axon",
       "key": "d6a5abf47b84616dd2379fa7",
-      "last_scanned": "2026-08-27",
+      "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.axon.com/"
     },
@@ -22327,6 +22433,14 @@
       "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://www.sargentlundy.com/"
+    },
+    {
+      "boards": [],
+      "company": "Nox Group",
+      "key": "d6c38723ba176c10d95309d3",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://noxgroup.us/"
     },
     {
       "boards": [],
@@ -22383,6 +22497,16 @@
       "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://www.paramount.com/"
+    },
+    {
+      "boards": [
+        "workday:danaher.wd1.myworkdayjobs.com:danaher:danaherjobs"
+      ],
+      "company": "Beckman Coulter Diagnostics",
+      "key": "d73bd6eb1fcbb638808c7f94",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.beckmancoulter.com/"
     },
     {
       "boards": [
@@ -23308,6 +23432,14 @@
     },
     {
       "boards": [],
+      "company": "RF-SMART",
+      "key": "e0d96af1cdb598984f063f20",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://rfsmart.com/"
+    },
+    {
+      "boards": [],
       "company": "Minimally Invasive Procedure Specialists",
       "key": "e0dcd184fc4923b5bae3deb6",
       "last_scanned": "2026-08-15",
@@ -24057,6 +24189,14 @@
       "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://www.iatinsurancegroup.com/"
+    },
+    {
+      "boards": [],
+      "company": "LiftedViz",
+      "key": "e7cb8eb30e4a82a61e21c5e8",
+      "last_scanned": "2026-09-08",
+      "resolved_roles": 0,
+      "url": "https://www.liftedviz.com/"
     },
     {
       "boards": [],
