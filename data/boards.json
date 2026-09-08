@@ -518,6 +518,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Extropic",
+      "key": "ashby:extropic",
+      "slug": "extropic"
+    },
+    {
+      "ats": "ashby",
       "company": "Fab2",
       "key": "ashby:fab2",
       "slug": "fab2"
@@ -3455,6 +3461,12 @@
       "company": "Obsidian Security",
       "key": "greenhouse:obsidiansecurity",
       "slug": "obsidiansecurity"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Octus",
+      "key": "greenhouse:octus",
+      "slug": "octus"
     },
     {
       "ats": "greenhouse",
@@ -10936,6 +10948,15 @@
     },
     {
       "ats": "workday",
+      "company": "Gilead Sciences",
+      "host": "gilead.wd1.myworkdayjobs.com",
+      "key": "workday:gilead.wd1.myworkdayjobs.com:gilead:gileadcareers",
+      "site": "gileadcareers",
+      "slug": "gilead",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Global Partners",
       "host": "global.wd1.myworkdayjobs.com",
       "key": "workday:global.wd1.myworkdayjobs.com:global:globalpartnerscareers",
@@ -12649,7 +12670,7 @@
       "company": "Marsh",
       "host": "mmc.wd1.myworkdayjobs.com",
       "key": "workday:mmc.wd1.myworkdayjobs.com:mmc:mmc",
-      "site": "mmc",
+      "site": "MMC",
       "slug": "mmc",
       "wd": "wd1"
     },
