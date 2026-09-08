@@ -10075,6 +10075,15 @@
     },
     {
       "ats": "workday",
+      "company": "Dick's Sporting Goods",
+      "host": "dickssportinggoods.wd1.myworkdayjobs.com",
+      "key": "workday:dickssportinggoods.wd1.myworkdayjobs.com:dickssportinggoods:dsg",
+      "site": "DSG",
+      "slug": "dickssportinggoods",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Dimensional Fund Advisors",
       "host": "dimensional.wd5.myworkdayjobs.com",
       "key": "workday:dimensional.wd5.myworkdayjobs.com:dimensional:dfa_careers",
@@ -10952,6 +10961,15 @@
       "host": "gilead.wd1.myworkdayjobs.com",
       "key": "workday:gilead.wd1.myworkdayjobs.com:gilead:gileadcareers",
       "site": "gileadcareers",
+      "slug": "gilead",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Kite Pharma",
+      "host": "gilead.wd1.myworkdayjobs.com",
+      "key": "workday:gilead.wd1.myworkdayjobs.com:gilead:kitepharmacareers",
+      "site": "kitepharmacareers",
       "slug": "gilead",
       "wd": "wd1"
     },
@@ -15028,7 +15046,7 @@
       "company": "Thermo Fisher Scientific",
       "host": "thermofisher.wd5.myworkdayjobs.com",
       "key": "workday:thermofisher.wd5.myworkdayjobs.com:thermofisher:thermofishercareers",
-      "site": "thermofishercareers",
+      "site": "ThermoFisherCareers",
       "slug": "thermofisher",
       "wd": "wd5"
     },
