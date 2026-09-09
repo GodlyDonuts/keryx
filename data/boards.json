@@ -788,6 +788,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Internship",
+      "key": "ashby:interplay",
+      "slug": "interplay"
+    },
+    {
+      "ats": "ashby",
       "company": "IRIS Software Group",
       "key": "ashby:irissoftwaregroup",
       "slug": "irissoftwaregroup"
@@ -4466,7 +4472,7 @@
     },
     {
       "ats": "lever",
-      "company": "ACDS",
+      "company": "Arkansas Center for Data Sciences",
       "key": "lever:acds",
       "slug": "acds"
     },
@@ -4619,6 +4625,12 @@
       "company": "NRI North America",
       "key": "lever:corebts",
       "slug": "corebts"
+    },
+    {
+      "ats": "lever",
+      "company": "Crest Industries",
+      "key": "lever:crestoperations",
+      "slug": "crestoperations"
     },
     {
       "ats": "lever",
@@ -7600,7 +7612,7 @@
     },
     {
       "ats": "workable",
-      "company": "Pony.ai",
+      "company": "pony.ai",
       "key": "workable:pony-dot-ai",
       "slug": "pony-dot-ai"
     },
