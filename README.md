@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**5,360 internships · 4,494 new-grad roles · 9,854 total openings**
+**5,347 internships · 4,492 new-grad roles · 9,839 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,490 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 523 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 298 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 2,478 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 525 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 292 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 103 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,946 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 1,949 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 919 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,285 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,290 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 917 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,288 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,287 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,8 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Allen Control Systems | Manufacturing Engineering Co-op / Intern, 2027 | Austin, TX | Not listed | Current student status<br><sub>stated</sub> | 2026-09-09 | **[Apply →](https://jobs.ashbyhq.com/allen-control-systems/e7cefcf6-7322-43ba-861e-22e76f8186bd)**<br><sub>jobs.ashbyhq.com</sub> |
+| Allen Control Systems | Supply Chain Intern, 2027 | Austin, TX | Not listed | Current student status<br><sub>stated</sub> | 2026-09-09 | **[Apply →](https://jobs.ashbyhq.com/allen-control-systems/5191c00d-dfc8-4de3-82c7-f62785a05576)**<br><sub>jobs.ashbyhq.com</sub> |
 | AArete | Data Architecture & Engineering Intern | Chicago, IL | Summer 2027 | not available | 2026-09-08 | **[Apply →](https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false)**<br><sub>jobs.jobvite.com</sub> |
 | ABB | Application Engineering Intern | Lombard, IL, Alpharetta, GA | Spring 2027 | not available | 2026-09-08 | **[Apply →](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Spring-2027_JR00045705)**<br><sub>abb.wd3.myworkdayjobs.com</sub> |
 | ABB | Application Engineering Intern - Summer 2027 | Lombard, IL, Alpharetta, GA | Summer 2027 | not available | 2026-09-08 | **[Apply →](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Summer-2027_JR00045706)**<br><sub>abb.wd3.myworkdayjobs.com</sub> |
@@ -47,8 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | Allegion | Summer Intern – Hardware Engineer (Advanced Development) | Indianapolis, IN - Hague Rd | Not listed | not available | 2026-09-08 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineer--Advanced-Development-_JR37459-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
 | Allen Control Systems | Computer Vision/Machine Learning Intern, 2027 | Austin, TX | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-08 | **[Apply →](https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037)**<br><sub>jobs.ashbyhq.com</sub> |
 | Allen Control Systems | Electrical Engineering Intern, 2027 | Austin, TX | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-08 | **[Apply →](https://jobs.ashbyhq.com/allen-control-systems/cc1618f1-e4b8-4dcb-88fd-9771da972220)**<br><sub>jobs.ashbyhq.com</sub> |
-| Allen Control Systems | Mechanical Engineering Intern, 2027 | Austin, TX | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-08 | **[Apply →](https://jobs.ashbyhq.com/allen-control-systems/ad41a645-7b94-407d-a579-003fba1b8e68)**<br><sub>jobs.ashbyhq.com</sub> |
-| Allen Control Systems | Systems Engineering Intern, 2027 | Austin, TX | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-08 | **[Apply →](https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
