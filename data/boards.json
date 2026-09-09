@@ -2378,6 +2378,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Bertram Capital Management",
+      "key": "greenhouse:bertramcapitalmanagement",
+      "slug": "bertramcapitalmanagement"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Becker Friedman Institute for Economics",
       "key": "greenhouse:bfiprep",
       "slug": "bfiprep"
@@ -3287,6 +3293,12 @@
       "company": "Jump Trading",
       "key": "greenhouse:jumptrading",
       "slug": "jumptrading"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Justworks",
+      "key": "greenhouse:justworks",
+      "slug": "justworks"
     },
     {
       "ats": "greenhouse",
@@ -5048,6 +5060,12 @@
     },
     {
       "ats": "lever",
+      "company": "SpawGlass",
+      "key": "lever:spawglass",
+      "slug": "spawglass"
+    },
+    {
+      "ats": "lever",
       "company": "Spry Methods",
       "key": "lever:sprymethods",
       "slug": "sprymethods"
@@ -5159,6 +5177,12 @@
       "company": "Versana",
       "key": "lever:versana",
       "slug": "Versana"
+    },
+    {
+      "ats": "lever",
+      "company": "Vitana Pediatric & Orthodontic Partners",
+      "key": "lever:vitana-pediatric",
+      "slug": "vitana-pediatric"
     },
     {
       "ats": "lever",
@@ -5947,6 +5971,14 @@
       "key": "oracle:ewvl.fa.us8.oraclecloud.com:cx_1",
       "site": "CX_1",
       "slug": "ewvl"
+    },
+    {
+      "ats": "oracle",
+      "company": "Kent",
+      "host": "fa-emqh-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-emqh-saasfaprod1.fa.ocs.oraclecloud.com:cx_1001",
+      "site": "CX_1001",
+      "slug": "fa-emqh-saasfaprod1"
     },
     {
       "ats": "oracle",
@@ -6979,6 +7011,12 @@
       "company": "Northwestern Mutual",
       "key": "smartrecruiters:northwesternmutual",
       "slug": "NorthwesternMutual"
+    },
+    {
+      "ats": "smartrecruiters",
+      "company": "Pilot Company",
+      "key": "smartrecruiters:pilotcompany",
+      "slug": "PilotCompany"
     },
     {
       "ats": "smartrecruiters",
@@ -13591,6 +13629,15 @@
     },
     {
       "ats": "workday",
+      "company": "Ovintiv",
+      "host": "ovintiv.wd3.myworkdayjobs.com",
+      "key": "workday:ovintiv.wd3.myworkdayjobs.com:ovintiv:ovintivcareers",
+      "site": "ovintivcareers",
+      "slug": "ovintiv",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
       "company": "Owens & Minor",
       "host": "owensminor.wd1.myworkdayjobs.com",
       "key": "workday:owensminor.wd1.myworkdayjobs.com:owensminor:omcareers",
@@ -15400,10 +15447,37 @@
     },
     {
       "ats": "workday",
+      "company": "The Heritage Group",
+      "host": "thgrp.wd12.myworkdayjobs.com",
+      "key": "workday:thgrp.wd12.myworkdayjobs.com:thgrp:envita",
+      "site": "envita",
+      "slug": "thgrp",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
+      "company": "The Heritage Group",
+      "host": "thgrp.wd12.myworkdayjobs.com",
+      "key": "workday:thgrp.wd12.myworkdayjobs.com:thgrp:heritageconstructionmaterials",
+      "site": "heritageconstructionmaterials",
+      "slug": "thgrp",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
       "company": "Monument Chemical",
       "host": "thgrp.wd12.myworkdayjobs.com",
       "key": "workday:thgrp.wd12.myworkdayjobs.com:thgrp:monumentchemical",
       "site": "monumentchemical",
+      "slug": "thgrp",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
+      "company": "The Heritage Group",
+      "host": "thgrp.wd12.myworkdayjobs.com",
+      "key": "workday:thgrp.wd12.myworkdayjobs.com:thgrp:theheritagegroup",
+      "site": "theheritagegroup",
       "slug": "thgrp",
       "wd": "wd12"
     },
@@ -16012,6 +16086,15 @@
     },
     {
       "ats": "workday",
+      "company": "VF Corporation",
+      "host": "vfc.wd5.myworkdayjobs.com",
+      "key": "workday:vfc.wd5.myworkdayjobs.com:vfc:vfc_careers",
+      "site": "vfc_careers",
+      "slug": "vfc",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Viavi Solutions",
       "host": "viavisolutions.wd1.myworkdayjobs.com",
       "key": "workday:viavisolutions.wd1.myworkdayjobs.com:viavisolutions:careers",
@@ -16265,6 +16348,15 @@
       "site": "WebsterExternalCareerSite",
       "slug": "websteronline",
       "wd": "wd12"
+    },
+    {
+      "ats": "workday",
+      "company": "Wellington Management",
+      "host": "wellington.wd5.myworkdayjobs.com",
+      "key": "workday:wellington.wd5.myworkdayjobs.com:wellington:campus",
+      "site": "Campus",
+      "slug": "wellington",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
