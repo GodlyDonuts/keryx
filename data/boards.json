@@ -2960,6 +2960,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Gallup",
+      "key": "greenhouse:gallup",
+      "slug": "gallup"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Garda Capital Partners",
       "key": "greenhouse:gardacp",
       "slug": "gardacp"
@@ -7114,6 +7120,12 @@
     },
     {
       "ats": "smartrecruiters",
+      "company": "Stratas Foods",
+      "key": "smartrecruiters:stratasfoods",
+      "slug": "stratasfoods"
+    },
+    {
+      "ats": "smartrecruiters",
       "company": "Sutherland",
       "key": "smartrecruiters:sutherland",
       "slug": "Sutherland"
@@ -7540,7 +7552,7 @@
     },
     {
       "ats": "workable",
-      "company": "pony.ai",
+      "company": "Pony.ai",
       "key": "workable:pony-dot-ai",
       "slug": "pony-dot-ai"
     },
