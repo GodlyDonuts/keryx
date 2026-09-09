@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**5,427 internships · 4,469 new-grad roles · 9,896 total openings**
+**5,546 internships · 4,490 new-grad roles · 10,036 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,530 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 523 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 298 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 101 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,975 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 2,573 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 526 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 297 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 105 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 2,045 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 912 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,270 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,287 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 944 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,262 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,284 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,17 +38,17 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Allen Control Systems | Supply Chain Intern, 2027 | Austin, TX | Not listed | Current student status<br><sub>stated</sub> | 2026-09-09 | **[Apply →](https://jobs.ashbyhq.com/allen-control-systems/5191c00d-dfc8-4de3-82c7-f62785a05576)**<br><sub>jobs.ashbyhq.com</sub> |
+| Allen Control Systems | Systems Engineering Intern | Austin, TX | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-09 | **[Apply →](https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Applied Materials | Electrical Engineer Co-op | Gloucester, MA | Spring 2027 | not available | 2026-09-09 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op-BS-or-MS--Gloucester--MA-_R2628288-1)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
 | ARCO a Family of Construction Companies | Superintendent Co-op (Spring/Summer 2027) | Richmond Heights, MO, US | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-09 | **[Apply →](https://job-boards.greenhouse.io/arco/jobs/4399457009)**<br><sub>job-boards.greenhouse.io</sub> |
-| CACI | Software Engineer Intern - Summer 2027 | Lisle, IL | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/Lisle-IL-US/Software-Engineering-Intern---Summer-2027_331742)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
-| Emerson Electric | Mechanical Engineering Internship - Summer 2027 | Austin, TX, United States | Summer 2027 | not stated | 2026-09-09 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009934)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
-| Gallup | Data Engineering Intern | Omaha, NE | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://job-boards.greenhouse.io/gallup/jobs/4395454009)**<br><sub>job-boards.greenhouse.io</sub> |
-| GE Vernova | Energy Optimization Software Engineer Intern - Summer 2027 | Bellevue, WA | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-1)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
-| GE Vernova | Energy Optimization Software Engineer Intern - Summer 2027 | Bellevue, WA | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-2)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
-| GHD | Civil Engineering Intern | HYANNIS, MA, United States | Not listed | Current student status<br><sub>required</sub> | 2026-09-09 | **[Apply →](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28677)**<br><sub>ejov.fa.ca2.oraclecloud.com</sub> |
-| K2 Space | Simulation Software Engineering Intern | LA | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008)**<br><sub>job-boards.greenhouse.io</sub> |
-| Leidos | Software Developer Intern | Annapolis Junction, MD | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00191713)**<br><sub>leidos.wd5.myworkdayjobs.com</sub> |
-| Marvell | Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation | Burlington, VT | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835)**<br><sub>marvell.wd1.myworkdayjobs.com</sub> |
+| Auto-Owners Insurance | Intelligent Automation Developer Internship - Summer 2027 | Lansing, MI | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Intelligent-Automation-Developer-Internship---Summer-2027_R_14474)**<br><sub>aoins.wd5.myworkdayjobs.com</sub> |
+| Auto-Owners Insurance | IT Document Automation Developer Internship - Summer 2027 | Lansing, MI | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/IT-Document-Automation-Developer-Internship---Summer-2027_R_14471)**<br><sub>aoins.wd5.myworkdayjobs.com</sub> |
+| Avery Dennison | RFID New Product Development Engineering Intern Summer 2027 | Fletcher, NC, us | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://jobs.smartrecruiters.com/AveryDennison/744000148579064)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Bosch | ERP/IT Intern- Summer 2027 | Lincolnshire, IL, us | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000148540185)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Bosch | Manufacturing Engineer Intern - Summer 2027 | Lincolnshire, IL, us | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000148542054)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Bosch | Manufacturing Engineer Intern - Summer 2027 | Lincolnshire, IL, us | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000148518808)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Bosch | Product Management AI-Tool Intern (8 months/40hrs per week) | Farmington Hills, MI, us | Not listed | not available | 2026-09-09 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000148575999)**<br><sub>jobs.smartrecruiters.com</sub> |
+| CACI | Software Engineering Intern – Summer 2027 | Lisle, IL, US | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/Lisle-IL-US/Software-Engineering-Intern---Summer-2027_331742)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links

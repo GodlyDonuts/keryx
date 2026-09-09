@@ -862,7 +862,7 @@
       "ats": "ashby",
       "company": "Kustomer",
       "key": "ashby:kustomer",
-      "slug": "Kustomer"
+      "slug": "kustomer"
     },
     {
       "ats": "ashby",
@@ -1556,6 +1556,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Swarm Aero",
+      "key": "ashby:swarmaero",
+      "slug": "swarmaero"
+    },
+    {
+      "ats": "ashby",
       "company": "Tabs",
       "key": "ashby:tabs",
       "slug": "tabs"
@@ -2051,6 +2057,12 @@
       "company": "Abacus Insights",
       "key": "greenhouse:abacusinsights",
       "slug": "abacusinsights"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Abaka AI",
+      "key": "greenhouse:abakaai",
+      "slug": "abakaai"
     },
     {
       "ats": "greenhouse",
@@ -3356,6 +3368,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Lexington Medical",
+      "key": "greenhouse:lexingtonmedical",
+      "slug": "lexingtonmedical"
+    },
+    {
+      "ats": "greenhouse",
       "company": "LG Electronics",
       "key": "greenhouse:lgelectronics",
       "slug": "lgelectronics"
@@ -3902,7 +3920,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "skillz",
+      "company": "Skillz",
       "key": "greenhouse:skillzinc",
       "slug": "skillzinc"
     },
@@ -4313,6 +4331,12 @@
       "company": "Walleye Capital",
       "key": "greenhouse:walleyecapital-external-students",
       "slug": "walleyecapital-external-students"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Wasabi",
+      "key": "greenhouse:wasabi",
+      "slug": "wasabi"
     },
     {
       "ats": "greenhouse",
@@ -4892,6 +4916,12 @@
     },
     {
       "ats": "lever",
+      "company": "National Journal",
+      "key": "lever:nationaljournal",
+      "slug": "nationaljournal"
+    },
+    {
+      "ats": "lever",
       "company": "Neighbor",
       "key": "lever:neighbor",
       "slug": "neighbor"
@@ -5033,6 +5063,12 @@
       "company": "Tevora",
       "key": "lever:tevora",
       "slug": "tevora"
+    },
+    {
+      "ats": "lever",
+      "company": "The Battery Network",
+      "key": "lever:the-battery-network",
+      "slug": "The-Battery-Network"
     },
     {
       "ats": "lever",
@@ -7324,6 +7360,12 @@
     },
     {
       "ats": "workable",
+      "company": "BIP Ventures",
+      "key": "workable:bipventures",
+      "slug": "bipventures"
+    },
+    {
+      "ats": "workable",
       "company": "CATHEXIS",
       "key": "workable:cathexis",
       "slug": "cathexis"
@@ -7357,6 +7399,12 @@
       "company": "Control Risks",
       "key": "workable:control-risks-6",
       "slug": "control-risks-6"
+    },
+    {
+      "ats": "workable",
+      "company": "Coretek Services",
+      "key": "workable:coretek-services",
+      "slug": "coretek-services"
     },
     {
       "ats": "workable",
@@ -7624,9 +7672,21 @@
     },
     {
       "ats": "workable",
+      "company": "SmartFlower Solar",
+      "key": "workable:smartflower-solar-llc",
+      "slug": "smartflower-solar-llc"
+    },
+    {
+      "ats": "workable",
       "company": "Sorting Robotics",
       "key": "workable:sorting-robotics",
       "slug": "sorting-robotics"
+    },
+    {
+      "ats": "workable",
+      "company": "Syntiant",
+      "key": "workable:syntiant",
+      "slug": "syntiant"
     },
     {
       "ats": "workable",
@@ -9118,6 +9178,15 @@
     },
     {
       "ats": "workday",
+      "company": "Buildertrend",
+      "host": "buildertrend.wd108.myworkdayjobs.com",
+      "key": "workday:buildertrend.wd108.myworkdayjobs.com:buildertrend:external_careers",
+      "site": "External_Careers",
+      "slug": "buildertrend",
+      "wd": "wd108"
+    },
+    {
+      "ats": "workday",
       "company": "Busey Bank",
       "host": "busey.wd503.myworkdayjobs.com",
       "key": "workday:busey.wd503.myworkdayjobs.com:busey:busey",
@@ -9361,10 +9430,10 @@
     },
     {
       "ats": "workday",
-      "company": "Cboe",
+      "company": "Cboe Global Markets",
       "host": "cboe.wd1.myworkdayjobs.com",
       "key": "workday:cboe.wd1.myworkdayjobs.com:cboe:external_career_cboe",
-      "site": "External_Career_CBOE",
+      "site": "external_career_cboe",
       "slug": "cboe",
       "wd": "wd1"
     },
@@ -12343,7 +12412,7 @@
       "company": "LSEG",
       "host": "lseg.wd3.myworkdayjobs.com",
       "key": "workday:lseg.wd3.myworkdayjobs.com:lseg:careers",
-      "site": "Careers",
+      "site": "careers",
       "slug": "lseg",
       "wd": "wd3"
     },
@@ -14986,7 +15055,7 @@
     },
     {
       "ats": "workday",
-      "company": "SWIVEL",
+      "company": "Swivel",
       "host": "swbc.wd1.myworkdayjobs.com",
       "key": "workday:swbc.wd1.myworkdayjobs.com:swbc:swivel",
       "site": "swivel",

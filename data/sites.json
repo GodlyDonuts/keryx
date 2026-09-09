@@ -2601,6 +2601,16 @@
       "url": "https://wright-pierce.com/"
     },
     {
+      "boards": [
+        "greenhouse:abakaai"
+      ],
+      "company": "Abaka AI",
+      "key": "184df83695eadd4c93f604b2",
+      "last_scanned": "2026-09-09",
+      "resolved_roles": 0,
+      "url": "https://www.abaka.ai/"
+    },
+    {
       "boards": [],
       "company": "Milliman",
       "key": "18ad1214311c0d253d3db2e0",
@@ -2935,6 +2945,14 @@
       "last_scanned": "2026-09-01",
       "resolved_roles": 0,
       "url": "https://identity.digital/"
+    },
+    {
+      "boards": [],
+      "company": "Smartleaf",
+      "key": "1d4a6d0bac39d529fdcf15c6",
+      "last_scanned": "2026-09-09",
+      "resolved_roles": 0,
+      "url": "https://www.smartleaf.com/"
     },
     {
       "boards": [],
@@ -3436,7 +3454,7 @@
       "boards": [],
       "company": "Marshall Wace",
       "key": "226d76e77df8b6416a338e3f",
-      "last_scanned": "2026-09-02",
+      "last_scanned": "2026-09-09",
       "resolved_roles": 0,
       "url": "https://www.mwam.com/"
     },
@@ -4349,6 +4367,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://www.pioneerprod.net/"
+    },
+    {
+      "boards": [],
+      "company": "Bechtel Plant Machinery, Inc. (BPMI)",
+      "key": "2d322d6651c6a08d31a4f76b",
+      "last_scanned": "2026-09-09",
+      "resolved_roles": 0,
+      "url": "https://bpmionline.com/"
     },
     {
       "boards": [
@@ -5331,7 +5357,7 @@
       "company": "Rowe Professional Services Company",
       "error": "public requests require HTTPS and a hostname",
       "key": "3542b44346da1b85c22109be",
-      "last_scanned": "2026-09-08",
+      "last_scanned": "2026-09-09",
       "url": "https://rowepsc.com/"
     },
     {
@@ -6212,7 +6238,7 @@
       ],
       "company": "Rochester Institute of Technology",
       "key": "3d111fe7f335576bc1e15a70",
-      "last_scanned": "2026-08-30",
+      "last_scanned": "2026-09-09",
       "resolved_roles": 0,
       "url": "https://www.rit.edu/"
     },
@@ -7258,7 +7284,7 @@
       ],
       "company": "Moog Inc.",
       "key": "47e98d102869c43701d37508",
-      "last_scanned": "2026-08-21",
+      "last_scanned": "2026-09-09",
       "resolved_roles": 0,
       "url": "https://www.moog.com/"
     },
@@ -8585,6 +8611,14 @@
       "last_scanned": "2026-09-05",
       "resolved_roles": 0,
       "url": "https://www.usc.edu/"
+    },
+    {
+      "boards": [],
+      "company": "One Trading",
+      "key": "53ea859300dc0f259ab21dcd",
+      "last_scanned": "2026-09-09",
+      "resolved_roles": 0,
+      "url": "https://onetrading.com/"
     },
     {
       "boards": [
@@ -10049,6 +10083,14 @@
     },
     {
       "boards": [],
+      "company": "Filevine",
+      "key": "60355dd62e9dcc5e2f89ff39",
+      "last_scanned": "2026-09-09",
+      "resolved_roles": 0,
+      "url": "https://filevine.com/"
+    },
+    {
+      "boards": [],
       "company": "iSoftStone",
       "key": "604a4fa4aa49d90d00377182",
       "last_scanned": "2026-08-21",
@@ -10984,7 +11026,7 @@
       "boards": [],
       "company": "Wells Fargo",
       "key": "68de7de79f1a289fabfe18d1",
-      "last_scanned": "2026-08-29",
+      "last_scanned": "2026-09-09",
       "resolved_roles": 0,
       "url": "https://www.wellsfargo.com/"
     },
@@ -11553,7 +11595,7 @@
       "company": "DV Trading LLC",
       "error": "public request failed for https://www.dvtrading.co/: HTTP Error 526: <none>",
       "key": "6e1dbefdee0f362023608d2e",
-      "last_scanned": "2026-09-08",
+      "last_scanned": "2026-09-09",
       "url": "https://www.dvtrading.co/"
     },
     {
@@ -12264,6 +12306,14 @@
       "last_scanned": "2026-08-23",
       "resolved_roles": 0,
       "url": "https://www.zuru.com/"
+    },
+    {
+      "boards": [],
+      "company": "Squarepoint",
+      "key": "74a025e9725d9eddfccd3240",
+      "last_scanned": "2026-09-09",
+      "resolved_roles": 0,
+      "url": "https://www.squarepoint-capital.com/"
     },
     {
       "boards": [],
@@ -14477,6 +14527,14 @@
       "url": "https://genesis.ml/"
     },
     {
+      "boards": [],
+      "company": "Group One Trading",
+      "key": "89a399775503b73931ede4ae",
+      "last_scanned": "2026-09-09",
+      "resolved_roles": 1,
+      "url": "https://group1.com/"
+    },
+    {
       "company": "Pieper Automation",
       "error": "public request failed for https://pieperautomation.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
       "key": "89a995193f2d157a3787655f",
@@ -14741,8 +14799,16 @@
       "company": "Salt River Project",
       "error": "public request failed for https://www.srpnet.com/: HTTP Error 403: Forbidden",
       "key": "8be39d0fbc5b3c08fd9927a2",
-      "last_scanned": "2026-08-31",
+      "last_scanned": "2026-09-09",
       "url": "https://www.srpnet.com/"
+    },
+    {
+      "boards": [],
+      "company": "Hex",
+      "key": "8bef66db9a8b6adc2404a72f",
+      "last_scanned": "2026-09-09",
+      "resolved_roles": 0,
+      "url": "https://hex.tech/"
     },
     {
       "boards": [],
@@ -15715,6 +15781,16 @@
       "url": "https://www.ama-inc.com/"
     },
     {
+      "boards": [
+        "workday:chrobinson.wd5.myworkdayjobs.com:chrobinson:chrobinson"
+      ],
+      "company": "C.H. Robinson",
+      "key": "95587b7d39c9a059d99ba5a2",
+      "last_scanned": "2026-09-09",
+      "resolved_roles": 0,
+      "url": "https://www.chrobinson.com/"
+    },
+    {
       "boards": [],
       "company": "Resolution Economics",
       "key": "955edb4c0f282713c1a348c6",
@@ -16315,6 +16391,13 @@
       "url": "https://garverusa.com/"
     },
     {
+      "company": "Austin Commercial",
+      "error": "public request failed for https://www.austincommercial.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.austincommercial.com'. (_ssl.c:1000)>",
+      "key": "9c46e7a6f755675bf9534504",
+      "last_scanned": "2026-09-09",
+      "url": "https://www.austincommercial.com/"
+    },
+    {
       "boards": [],
       "company": "SAIC",
       "key": "9c567208044b897eb7dc5684",
@@ -16607,7 +16690,7 @@
       "company": "Rehlko",
       "error": "public request failed for https://www.powersystems.rehlko.com/in-en/: HTTP Error 403: Forbidden",
       "key": "9f644b28ef9a79a563782c56",
-      "last_scanned": "2026-09-08",
+      "last_scanned": "2026-09-09",
       "url": "https://www.kohlerpower.in/"
     },
     {
@@ -18117,6 +18200,14 @@
     },
     {
       "boards": [],
+      "company": "Belden Inc.",
+      "key": "acb66dce967ff9a9f17165f3",
+      "last_scanned": "2026-09-09",
+      "resolved_roles": 0,
+      "url": "https://belden.com/"
+    },
+    {
+      "boards": [],
       "company": "Atrium Hospitality",
       "key": "ace6d6bc09753574d9e363b6",
       "last_scanned": "2026-08-18",
@@ -18796,6 +18887,16 @@
       "url": "https://www.trysela.com/"
     },
     {
+      "boards": [
+        "ashby:swarmaero"
+      ],
+      "company": "Swarm Aero",
+      "key": "b371afc4610a636c29c795ed",
+      "last_scanned": "2026-09-09",
+      "resolved_roles": 0,
+      "url": "https://www.swarm.aero/"
+    },
+    {
       "boards": [],
       "company": "Quadeye",
       "key": "b374a11ea24ce3653401bcc3",
@@ -19243,7 +19344,7 @@
       "company": "Rincon Research Corporation",
       "error": "public request failed for https://www.rincon.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
       "key": "b778f03c623330c5d2cd3b15",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-09",
       "url": "https://www.rincon.com/"
     },
     {
@@ -20319,7 +20420,7 @@
       "boards": [],
       "company": "CEC",
       "key": "c1793febf3489b708bb0edaa",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-09",
       "resolved_roles": 0,
       "url": "https://cecfg.com/"
     },
@@ -23841,7 +23942,7 @@
       "boards": [],
       "company": "North Wind Group",
       "key": "e1ad5c44e1c0ac593899d30d",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-09-09",
       "resolved_roles": 0,
       "url": "https://northwindgrp.com/"
     },
@@ -24425,7 +24526,7 @@
       "boards": [],
       "company": "Sanmina",
       "key": "e6faad9cfec9d53c13bd362d",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-09",
       "resolved_roles": 0,
       "url": "https://www.sanmina.com/"
     },
@@ -24627,7 +24728,7 @@
       "boards": [],
       "company": "BioSpace",
       "key": "e8e1b7b03af783689151443e",
-      "last_scanned": "2026-08-30",
+      "last_scanned": "2026-09-09",
       "resolved_roles": 0,
       "url": "https://www.biospace.com/"
     },
@@ -26346,6 +26447,14 @@
       "last_scanned": "2026-09-05",
       "resolved_roles": 4,
       "url": "https://www.achieve.com/"
+    },
+    {
+      "boards": [],
+      "company": "Skender",
+      "key": "f6fa5aeee6ce94a92895b337",
+      "last_scanned": "2026-09-09",
+      "resolved_roles": 0,
+      "url": "https://www.skender.com/"
     },
     {
       "company": "Providence Infrastructure Consultants",
