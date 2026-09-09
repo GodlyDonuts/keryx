@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**5,388 internships · 4,510 new-grad roles · 9,898 total openings**
+**5,461 internships · 4,506 new-grad roles · 9,967 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,519 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 524 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 293 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 107 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 1,945 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 2,532 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 522 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 300 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 104 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 2,003 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 912 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,310 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,288 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 919 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,311 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,276 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Allen Control Systems | Manufacturing Engineering Co-op / Intern, 2027 | Austin, TX | Not listed | Current student status<br><sub>stated</sub> | 2026-09-09 | **[Apply →](https://jobs.ashbyhq.com/allen-control-systems/e7cefcf6-7322-43ba-861e-22e76f8186bd)**<br><sub>jobs.ashbyhq.com</sub> |
 | Allen Control Systems | Supply Chain Intern, 2027 | Austin, TX | Not listed | Current student status<br><sub>stated</sub> | 2026-09-09 | **[Apply →](https://jobs.ashbyhq.com/allen-control-systems/5191c00d-dfc8-4de3-82c7-f62785a05576)**<br><sub>jobs.ashbyhq.com</sub> |
+| Emerson Electric | Mechanical Engineering Internship - Summer 2027 | Austin, TX, United States | Summer 2027 | not stated | 2026-09-09 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009934)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
 | Gallup | Data Engineering Intern | Omaha, NE | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://job-boards.greenhouse.io/gallup/jobs/4395454009)**<br><sub>job-boards.greenhouse.io</sub> |
+| K2 Space | Simulation Software Engineering Intern | LA | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008)**<br><sub>job-boards.greenhouse.io</sub> |
+| Moog | Hardware Design Engineering Intern | Mineral Wells, TX | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Design-Engineering_R-26-19887)**<br><sub>moog.wd5.myworkdayjobs.com</sub> |
+| Moog | Software Engineer Intern - Military Aircraft | Mineral Wells, TX | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1)**<br><sub>moog.wd5.myworkdayjobs.com</sub> |
+| Plexus | Intern - Product Engineer (Summer 2027) | Nampa, ID | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://plexus.wd504.myworkdayjobs.com/plexus_careers/job/Nampa-ID/Intern---Product-Engineer--Summer-2027-_R041356)**<br><sub>plexus.wd504.myworkdayjobs.com</sub> |
+| Tesla | Software Engineer Intern - Service Engineering | Palo Alto, CA | Spring 2027 | not available | 2026-09-09 | **[Apply →](https://www.tesla.com/careers/search/job/282233)**<br><sub>www.tesla.com</sub> |
+| Wells Fargo | Quantitative Analytics Intern - Applied Computational Intelligence | Charlotte, NC | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Applied-Computational-Intelligence--ACI-PhD----Early-Careers_R-574032)**<br><sub>wd1.myworkdaysite.com</sub> |
+| Wells Fargo | Quantitative Analytics Intern - Applied Computational Intelligence | Charlotte, NC | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Applied-Computational-Intelligence--ACI-Masters----Early-Careers_R-574030)**<br><sub>wd1.myworkdaysite.com</sub> |
 | AArete | Data Architecture & Engineering Intern | Chicago, IL | Summer 2027 | not available | 2026-09-08 | **[Apply →](https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false)**<br><sub>jobs.jobvite.com</sub> |
 | ABB | Application Engineering Intern | Lombard, IL, Alpharetta, GA | Spring 2027 | not available | 2026-09-08 | **[Apply →](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Spring-2027_JR00045705)**<br><sub>abb.wd3.myworkdayjobs.com</sub> |
-| ABB | Application Engineering Intern - Summer 2027 | Lombard, IL, Alpharetta, GA | Summer 2027 | not available | 2026-09-08 | **[Apply →](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Summer-2027_JR00045706)**<br><sub>abb.wd3.myworkdayjobs.com</sub> |
-| Acxiom | Data Scientist Intern | Conway, AR | Winter 2027 | not available | 2026-09-08 | **[Apply →](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Scientist_JR014459)**<br><sub>acxiomllc.wd5.myworkdayjobs.com</sub> |
-| AEG | Fall Intern, Integrated Marketing Global Partnerships – AEG Presents (New York) | New York, NY | Not listed | Current student status<br><sub>stated</sub> | 2026-09-08 | **[Apply →](https://job-boards.greenhouse.io/aegworldwide/jobs/8784257002)**<br><sub>job-boards.greenhouse.io</sub> |
-| Allegion | Summer Intern - Firmware Engineer | Farmington, CT | Not listed | not available | 2026-09-08 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Farmington-CT/Firmware-Engineer-Intern_JR37449-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
-| Allegion | Summer Intern - Product Manager for Allegion Home | Carmel, IN | Not listed | not available | 2026-09-08 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Product-Manager-for-Allegion-Home_JR37493-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
-| Allegion | Summer Intern – Firmware Engineer (Advanced Development) – Indianapolis, IN | Indianapolis, IN - Hague Rd | Not listed | not available | 2026-09-08 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Advanced-Development----Indianapolis--IN_JR37458-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
-| Allen Control Systems | Computer Vision Intern - Machine Learning | Austin, TX | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-08 | **[Apply →](https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links

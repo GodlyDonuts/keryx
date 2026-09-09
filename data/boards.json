@@ -14889,8 +14889,98 @@
       "ats": "workday",
       "company": "SWBC",
       "host": "swbc.wd1.myworkdayjobs.com",
+      "key": "workday:swbc.wd1.myworkdayjobs.com:swbc:accounting",
+      "site": "Accounting",
+      "slug": "swbc",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "SWBC",
+      "host": "swbc.wd1.myworkdayjobs.com",
+      "key": "workday:swbc.wd1.myworkdayjobs.com:swbc:collections",
+      "site": "Collections",
+      "slug": "swbc",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "SWBC",
+      "host": "swbc.wd1.myworkdayjobs.com",
+      "key": "workday:swbc.wd1.myworkdayjobs.com:swbc:collegeinternships",
+      "site": "CollegeInternships",
+      "slug": "swbc",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "SWBC",
+      "host": "swbc.wd1.myworkdayjobs.com",
+      "key": "workday:swbc.wd1.myworkdayjobs.com:swbc:customerservice-customersupport",
+      "site": "CustomerService-CustomerSupport",
+      "slug": "swbc",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "SWBC",
+      "host": "swbc.wd1.myworkdayjobs.com",
+      "key": "workday:swbc.wd1.myworkdayjobs.com:swbc:informationtechnology",
+      "site": "InformationTechnology",
+      "slug": "swbc",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "SWBC",
+      "host": "swbc.wd1.myworkdayjobs.com",
+      "key": "workday:swbc.wd1.myworkdayjobs.com:swbc:investments",
+      "site": "Investments",
+      "slug": "swbc",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "SWBC",
+      "host": "swbc.wd1.myworkdayjobs.com",
+      "key": "workday:swbc.wd1.myworkdayjobs.com:swbc:marketing",
+      "site": "Marketing",
+      "slug": "swbc",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "SWBC",
+      "host": "swbc.wd1.myworkdayjobs.com",
       "key": "workday:swbc.wd1.myworkdayjobs.com:swbc:swbccareers",
       "site": "swbccareers",
+      "slug": "swbc",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "SWBC",
+      "host": "swbc.wd1.myworkdayjobs.com",
+      "key": "workday:swbc.wd1.myworkdayjobs.com:swbc:swbcmexico",
+      "site": "SWBCMexico",
+      "slug": "swbc",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "SWBC",
+      "host": "swbc.wd1.myworkdayjobs.com",
+      "key": "workday:swbc.wd1.myworkdayjobs.com:swbc:swbcmortgagecareers",
+      "site": "swbcmortgagecareers",
+      "slug": "swbc",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "SWIVEL",
+      "host": "swbc.wd1.myworkdayjobs.com",
+      "key": "workday:swbc.wd1.myworkdayjobs.com:swbc:swivel",
+      "site": "swivel",
       "slug": "swbc",
       "wd": "wd1"
     },
@@ -15517,10 +15607,10 @@
     },
     {
       "ats": "workday",
-      "company": "Uhaul",
+      "company": "U-Haul",
       "host": "uhaul.wd1.myworkdayjobs.com",
       "key": "workday:uhaul.wd1.myworkdayjobs.com:uhaul:uhauljobs",
-      "site": "UhaulJobs",
+      "site": "uhauljobs",
       "slug": "uhaul",
       "wd": "wd1"
     },
