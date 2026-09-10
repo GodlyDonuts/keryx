@@ -1490,6 +1490,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Sequence Holdings",
+      "key": "ashby:seqholdings",
+      "slug": "seqholdings"
+    },
+    {
+      "ats": "ashby",
       "company": "Serval",
       "key": "ashby:serval",
       "slug": "serval"
@@ -8496,6 +8502,15 @@
     },
     {
       "ats": "workday",
+      "company": "The Andersons, Inc.",
+      "host": "andersonsinc.wd1.myworkdayjobs.com",
+      "key": "workday:andersonsinc.wd1.myworkdayjobs.com:andersonsinc:theandersonscareers",
+      "site": "TheAndersonsCareers",
+      "slug": "andersonsinc",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Auto-Owners Insurance",
       "host": "aoins.wd5.myworkdayjobs.com",
       "key": "workday:aoins.wd5.myworkdayjobs.com:aoins:autoowners",
@@ -10398,7 +10413,7 @@
       "company": "Dexcom",
       "host": "dexcom.wd1.myworkdayjobs.com",
       "key": "workday:dexcom.wd1.myworkdayjobs.com:dexcom:dexcom",
-      "site": "Dexcom",
+      "site": "dexcom",
       "slug": "dexcom",
       "wd": "wd1"
     },
@@ -11412,7 +11427,7 @@
     },
     {
       "ats": "workday",
-      "company": "GreatAmerica",
+      "company": "GreatAmerica Financial Services",
       "host": "greatamerica.wd12.myworkdayjobs.com",
       "key": "workday:greatamerica.wd12.myworkdayjobs.com:greatamerica:greatamericacareers",
       "site": "greatamericacareers",
@@ -13314,7 +13329,7 @@
       "company": "Nelnet",
       "host": "nelnet.wd1.myworkdayjobs.com",
       "key": "workday:nelnet.wd1.myworkdayjobs.com:nelnet:mynelnet",
-      "site": "mynelnet",
+      "site": "MyNelnet",
       "slug": "nelnet",
       "wd": "wd1"
     },

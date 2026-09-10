@@ -79,7 +79,7 @@
       "boards": [],
       "company": "Autoliv",
       "key": "00a62aec15df9bcce80f2ffa",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-09-10",
       "resolved_roles": 0,
       "url": "https://autoliv.com/"
     },
@@ -1150,7 +1150,7 @@
       "boards": [],
       "company": "Formlabs",
       "key": "0b314073423010fdb11b4680",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-10",
       "resolved_roles": 0,
       "url": "https://www.formlabs.com/"
     },
@@ -3578,6 +3578,14 @@
     },
     {
       "boards": [],
+      "company": "Gravitate",
+      "key": "22a34458c80ba2053943ce73",
+      "last_scanned": "2026-09-10",
+      "resolved_roles": 0,
+      "url": "https://gravitate.energy/"
+    },
+    {
+      "boards": [],
       "company": "Allergan Aesthetics, an AbbVie Company",
       "key": "22b386686dfa0bf4bdfded31",
       "last_scanned": "2026-09-09",
@@ -3681,10 +3689,11 @@
       "url": "https://www.hbs.net/"
     },
     {
+      "boards": [],
       "company": "MKS Inc.",
-      "error": "Invalid IPv6 URL",
       "key": "2402c0a34e52eb5afe5f918e",
-      "last_scanned": "2026-09-09",
+      "last_scanned": "2026-09-10",
+      "resolved_roles": 0,
       "url": "https://www.mks.com/"
     },
     {
@@ -6918,7 +6927,7 @@
       ],
       "company": "American Electric Power",
       "key": "426c7991abe245f155912928",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-09-10",
       "resolved_roles": 0,
       "url": "https://aep.com/"
     },
@@ -9889,7 +9898,7 @@
       "boards": [],
       "company": "Arcadis",
       "key": "5bf84ccfb650dd5d1dc5ba22",
-      "last_scanned": "2026-09-03",
+      "last_scanned": "2026-09-10",
       "resolved_roles": 0,
       "url": "https://www.arcadis.com/"
     },
@@ -10150,6 +10159,16 @@
       "last_scanned": "2026-08-29",
       "resolved_roles": 0,
       "url": "https://www.polaris.com/"
+    },
+    {
+      "boards": [
+        "workday:andersonsinc.wd1.myworkdayjobs.com:andersonsinc:theandersonscareers"
+      ],
+      "company": "The Andersons, Inc.",
+      "key": "5e5662c5f7d4df908959f814",
+      "last_scanned": "2026-09-10",
+      "resolved_roles": 0,
+      "url": "https://www.andersonsinc.com/"
     },
     {
       "boards": [
@@ -11701,7 +11720,7 @@
       ],
       "company": "Denver Health",
       "key": "6caa756ec691ac59affecd79",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-09-10",
       "resolved_roles": 0,
       "url": "https://www.denverhealth.org/"
     },
@@ -15298,7 +15317,7 @@
       "boards": [],
       "company": "Boston Scientific",
       "key": "8cad03c0dee964cc6231d71d",
-      "last_scanned": "2026-09-02",
+      "last_scanned": "2026-09-10",
       "resolved_roles": 0,
       "url": "https://www.bostonscientific.com/"
     },
@@ -17005,7 +17024,7 @@
       "company": "Cargill",
       "error": "public request failed for https://www.cargill.com/home: HTTP Error 403: Forbidden",
       "key": "9e7dda2c8ca43af9dc7d8a18",
-      "last_scanned": "2026-09-09",
+      "last_scanned": "2026-09-10",
       "url": "https://www.cargill.com/home"
     },
     {
@@ -18342,7 +18361,7 @@
       "boards": [],
       "company": "Marmon Foodservice Technologies",
       "key": "a98b5d2710845245c6250ade",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-09-10",
       "resolved_roles": 0,
       "url": "https://marmonfoodservice.com/"
     },
@@ -21575,7 +21594,7 @@
       "company": "Molex",
       "error": "public request failed for https://www.molex.com/: The read operation timed out",
       "key": "c7886cc4c4d4c31dab9d7608",
-      "last_scanned": "2026-08-20",
+      "last_scanned": "2026-09-10",
       "url": "https://www.molex.com/"
     },
     {
@@ -24519,7 +24538,7 @@
       "boards": [],
       "company": "Federal Signal",
       "key": "e0bc4f3b250d6fe3963eb3de",
-      "last_scanned": "2026-09-03",
+      "last_scanned": "2026-09-10",
       "resolved_roles": 0,
       "url": "https://www.fedsig.com/"
     },
@@ -27151,7 +27170,7 @@
       "company": "Tetra Pak",
       "error": "public request failed for https://www.tetrapak.com/: HTTP Error 403: Forbidden",
       "key": "f6cdb29686c41445f0b80f08",
-      "last_scanned": "2026-09-08",
+      "last_scanned": "2026-09-10",
       "url": "https://www.tetrapak.com/"
     },
     {
