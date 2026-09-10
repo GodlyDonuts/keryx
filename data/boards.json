@@ -2198,6 +2198,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Amperesand",
+      "key": "greenhouse:amperesand",
+      "slug": "amperesand"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Anduril",
       "key": "greenhouse:andurilindustries",
       "slug": "andurilindustries"
@@ -4670,6 +4676,12 @@
     },
     {
       "ats": "lever",
+      "company": "CIM Group",
+      "key": "lever:cimgroup",
+      "slug": "cimgroup"
+    },
+    {
+      "ats": "lever",
       "company": "Cologix",
       "key": "lever:cologix",
       "slug": "cologix"
@@ -5382,6 +5394,22 @@
     },
     {
       "ats": "oracle",
+      "company": "Macy's Retail Holdings, Inc.",
+      "host": "ebwh.fa.us2.oraclecloud.com",
+      "key": "oracle:ebwh.fa.us2.oraclecloud.com:cx_1001",
+      "site": "CX_1001",
+      "slug": "ebwh"
+    },
+    {
+      "ats": "oracle",
+      "company": "Macy's Retail Holdings, Inc.",
+      "host": "ebwh.fa.us2.oraclecloud.com",
+      "key": "oracle:ebwh.fa.us2.oraclecloud.com:cx_1002",
+      "site": "CX_1002",
+      "slug": "ebwh"
+    },
+    {
+      "ats": "oracle",
       "company": "DTCC",
       "host": "ebxr.fa.us2.oraclecloud.com",
       "key": "oracle:ebxr.fa.us2.oraclecloud.com:cx_1",
@@ -5411,6 +5439,14 @@
       "key": "oracle:ecge.fa.us2.oraclecloud.com:cx_1003",
       "site": "CX_1003",
       "slug": "ecge"
+    },
+    {
+      "ats": "oracle",
+      "company": "Tradeweb",
+      "host": "ecnf.fa.us2.oraclecloud.com",
+      "key": "oracle:ecnf.fa.us2.oraclecloud.com:cx",
+      "site": "CX",
+      "slug": "ecnf"
     },
     {
       "ats": "oracle",
@@ -7797,6 +7833,12 @@
       "company": "Talentpluto",
       "key": "workable:talentpluto",
       "slug": "talentpluto"
+    },
+    {
+      "ats": "workable",
+      "company": "TechFlow, Inc.",
+      "key": "workable:techflow",
+      "slug": "techflow"
     },
     {
       "ats": "workable",
@@ -11748,6 +11790,15 @@
       "site": "Hyperion_External",
       "slug": "hyperiongrp",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Hypertherm Associates",
+      "host": "hypertherm.wd503.myworkdayjobs.com",
+      "key": "workday:hypertherm.wd503.myworkdayjobs.com:hypertherm:hypertherm-careers",
+      "site": "hypertherm-careers",
+      "slug": "hypertherm",
+      "wd": "wd503"
     },
     {
       "ats": "workday",
@@ -15726,6 +15777,15 @@
       "site": "TRUMPF_Students",
       "slug": "trumpf",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "TruStage",
+      "host": "trustage.wd1.myworkdayjobs.com",
+      "key": "workday:trustage.wd1.myworkdayjobs.com:trustage:trustage",
+      "site": "TruStage",
+      "slug": "trustage",
+      "wd": "wd1"
     },
     {
       "ats": "workday",

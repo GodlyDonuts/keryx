@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**5,691 internships · 4,607 new-grad roles · 10,298 total openings**
+**5,880 internships · 4,628 new-grad roles · 10,508 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,681 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 518 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 322 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 101 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,069 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 2,751 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 517 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 326 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 102 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 2,184 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 945 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,342 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,320 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 953 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,348 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,327 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Wade Trim | Engineer Summer Intern - #3055 | Taylor, MI | Not listed | Current student status<br><sub>required</sub> | 2026-09-10 | **[Apply →](https://jobs.lever.co/wadetrim/ee355c3b-45d4-45d8-94a1-d394fe7af258)**<br><sub>jobs.lever.co</sub> |
-| Wade Trim | Engineer Summer Intern - #3056 | Taylor, MI | Not listed | Current student status<br><sub>required</sub> | 2026-09-10 | **[Apply →](https://jobs.lever.co/wadetrim/2d2a0593-7e26-4cbc-aabe-db6ce0cd351e)**<br><sub>jobs.lever.co</sub> |
-| Airbus | Summer Internship - Digital/AI Transformation | Herndon Area, VA | Not listed | not available | 2026-09-09 | **[Apply →](https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Summer-Internship---Digital-AI-Transformation_JR10437881)**<br><sub>ag.wd3.myworkdayjobs.com</sub> |
-| Allen Control Systems | Manufacturing Engineering Co-op / Intern, 2027 | Austin, TX | Not listed | Current student status<br><sub>stated</sub> | 2026-09-09 | **[Apply →](https://jobs.ashbyhq.com/allen-control-systems/e7cefcf6-7322-43ba-861e-22e76f8186bd)**<br><sub>jobs.ashbyhq.com</sub> |
-| Allen Control Systems | Supply Chain Intern, 2027 | Austin, TX | Not listed | Current student status<br><sub>stated</sub> | 2026-09-09 | **[Apply →](https://jobs.ashbyhq.com/allen-control-systems/5191c00d-dfc8-4de3-82c7-f62785a05576)**<br><sub>jobs.ashbyhq.com</sub> |
-| Allen Control Systems | Systems Engineering Intern | Austin, TX | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-09 | **[Apply →](https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Applied Materials | 2027 Spring Electrical Engineer Co-op BS or MS (Gloucester, MA) | Gloucester,MA | Spring 2027 | not available | 2026-09-09 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op-BS-or-MS--Gloucester--MA-_R2628288-1)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
-| ARCO a Family of Construction Companies | Superintendent Co-op (Spring/Summer 2027) | Richmond Heights, MO, US | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-09 | **[Apply →](https://job-boards.greenhouse.io/arco/jobs/4399457009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Auto-Owners Insurance | Intelligent Automation Developer Intern | Lansing, MI | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Intelligent-Automation-Developer-Internship---Summer-2027_R_14474)**<br><sub>aoins.wd5.myworkdayjobs.com</sub> |
-| Auto-Owners Insurance | IT Document Automation Developer Intern | Lansing, MI | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/IT-Document-Automation-Developer-Internship---Summer-2027_R_14471)**<br><sub>aoins.wd5.myworkdayjobs.com</sub> |
-| Avery Dennison | RFID New Product Development Engineering Intern Summer 2027 | Fletcher, NC, us | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://jobs.smartrecruiters.com/AveryDennison/744000148579064)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Barnes & Thornburg | Information Technology AI Intern | Indianapolis, IN | Summer 2027 | not available | 2026-09-09 | **[Apply →](https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Charles Schwab | Product Management Intern - Thinkorswim | Austin, TX | Summer 2027 | not available | 2026-09-10 | **[Apply →](https://career-schwab.icims.com/jobs/126266/job?mobile=true&needsRedirect=false)**<br><sub>career-schwab.icims.com</sub> |
+| CIM Group | Project Coordinator Intern | Los Angeles, CA | Not listed | Current student status<br><sub>stated</sub> | 2026-09-10 | **[Apply →](https://jobs.lever.co/cimgroup/184b9af5-0307-4cfb-9d6a-2dd0e8c9fa80)**<br><sub>jobs.lever.co</sub> |
+| Dell Technologies | Hardware Engineering Intern - Client Solutions Group Engineering | Austin, TX | Summer 2027 | not available | 2026-09-10 | **[Apply →](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298216)**<br><sub>iawmqy.fa.ocs.oraclecloud.com</sub> |
+| Dell Technologies | Software Engineer Intern - Client Solutions Group Engineering | Austin, TX | Summer 2027 | not available | 2026-09-10 | **[Apply →](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217)**<br><sub>iawmqy.fa.ocs.oraclecloud.com</sub> |
+| Johns Hopkins Applied Physics Laboratory | Electrical/Computer Engineer Intern - Intelligence Surveillance & Reconnaissance | Laurel, MD | Summer 2027 | not available | 2026-09-10 | **[Apply →](https://careers.jhuapl.edu/jobs/59764?icims=1)**<br><sub>careers.jhuapl.edu</sub> |
+| Tradeweb | 2027 Summer Internship – Distributed Ledger Technology (DLT) Engineering | Jersey City, NJ, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-10 | **[Apply →](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301905)**<br><sub>ecnf.fa.us2.oraclecloud.com</sub> |
+| Tradeweb | Summer 2027 AI Software Engineering Internship | Jersey City, NJ, United States | Summer 2027 | not stated | 2026-09-10 | **[Apply →](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301902)**<br><sub>ecnf.fa.us2.oraclecloud.com</sub> |
+| Tradeweb | Summer 2027 C++ Distributed Systems Developer Internship | Jersey City, NJ, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-10 | **[Apply →](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301903)**<br><sub>ecnf.fa.us2.oraclecloud.com</sub> |
+| Tradeweb | Summer 2027 Data Platform Internship | Jersey City, NJ, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-10 | **[Apply →](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301904)**<br><sub>ecnf.fa.us2.oraclecloud.com</sub> |
+| Tradeweb | Summer 2027 IFI Application Software Engineering Internship | Jersey City, NJ, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-10 | **[Apply →](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301906)**<br><sub>ecnf.fa.us2.oraclecloud.com</sub> |
+| Tradeweb | Summer 2027 Java Software Engineering Internship | Jersey City, NJ, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-10 | **[Apply →](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301907)**<br><sub>ecnf.fa.us2.oraclecloud.com</sub> |
+| Tradeweb | Summer 2027 Market Data Developer Internship | Jersey City, NJ, United States | Summer 2027 | not stated | 2026-09-10 | **[Apply →](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301910)**<br><sub>ecnf.fa.us2.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Dell Technologies | Software Engineer 1 - IT | Texas | Not listed | not available | 2026-09-10 | **[Apply →](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298784)**<br><sub>iawmqy.fa.ocs.oraclecloud.com</sub> |
+| Emerson Electric | Electrical Engineer | Chanhassen, MN | Not listed | not available | 2026-09-10 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009564)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
+| Emerson Electric | Embedded Firmware Development Engineer | Eden Prairie, MN | Not listed | not available | 2026-09-10 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009554)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
+| Emerson Electric | Software Engineer | Shakopee, MN | Not listed | not available | 2026-09-10 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009560)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
+| General Dynamics Mission Systems | Systems Engineer - FCSWG Process Master | Pittsfield, MA | Not listed | not available | 2026-09-10 | **[Apply →](https://careers-gdms.icims.com/jobs/74801/job?mobile=true&needsRedirect=false)**<br><sub>careers-gdms.icims.com</sub> |
+| GovCIO | Information Technology Specialist/Multimedia Designer 1 | Pensacola, FL | Not listed | not available | 2026-09-10 | **[Apply →](https://careers.govcio.com/jobs/8870?icims=1)**<br><sub>careers.govcio.com</sub> |
+| Johns Hopkins Applied Physics Laboratory | Autonomous Systems Computer Engineer - 2027 Graduate | Laurel, MD | 2027 | not available | 2026-09-10 | **[Apply →](https://careers.jhuapl.edu/jobs/59762?icims=1)**<br><sub>careers.jhuapl.edu</sub> |
+| Mach Industries | May 2027 New Graduate Engineer, Mechanical | Huntington Beach, California, United States | 2027 | By Summer 2027<br><sub>required</sub> | 2026-09-10 | **[Apply →](https://job-boards.greenhouse.io/machindustries/jobs/4401437009)**<br><sub>job-boards.greenhouse.io</sub> |
+| Zoox | Data Analyst - Hrs/wk | Seattle, WA | Not listed | not available | 2026-09-10 | **[Apply →](https://jobs.lever.co/zoox/ae2785ae-dfee-484b-8add-3cf32ca2d10e/apply)**<br><sub>jobs.lever.co</sub> |
 | Amazon | Software Dev Engineer I - Graviton Software - Annapurna Labs | Austin, TX | 2027 | not available | 2026-09-09 | **[Apply →](https://www.amazon.jobs/jobs/10526808/apply)**<br><sub>www.amazon.jobs</sub> |
 | Amazon | Software Development Engineer | Cambridge, MA | 2027 | not available | 2026-09-09 | **[Apply →](https://www.amazon.jobs/jobs/10489298/apply)**<br><sub>www.amazon.jobs</sub> |
-| AMERICAN SYSTEMS | NAVAIR Software Engineer/Developer | California, MD | 2027 | not available | 2026-09-09 | **[Apply →](https://careers-americansystems.icims.com/jobs/4813/navair-software-engineer-developer/job)**<br><sub>careers-americansystems.icims.com</sub> |
-| Apple | Silicon Validation Engineer | Cupertino, CA | Not listed | not available | 2026-09-09 | **[Apply →](https://jobs.apple.com/en-us/details/200682718)**<br><sub>jobs.apple.com</sub> |
-| Apple | Silicon Validation Engineer | Cupertino, CA | Not listed | not available | 2026-09-09 | **[Apply →](https://jobs.apple.com/en-us/details/200682708)**<br><sub>jobs.apple.com</sub> |
-| Applied Intuition | Electrical Engineer New Grad | Sunnyvale, CA | Not listed | not available | 2026-09-09 | **[Apply →](https://jobs.ashbyhq.com/applied/e698dd47-7515-4c1c-a71d-dd7e33adfc78/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Arista Networks | Hardware NPI / Debug Engineer | Santa Clara, CA | Not listed | not available | 2026-09-09 | **[Apply →](https://jobs.smartrecruiters.com/AristaNetworks/744000148585799)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Bertram Capital Management | Forward Deployed AI Engineer | Foster City, CA | Not listed | not available | 2026-09-09 | **[Apply →](https://job-boards.greenhouse.io/bertramcapitalmanagement/jobs/8789855002)**<br><sub>job-boards.greenhouse.io</sub> |
-| Boeing | Software Engineer - Associate - Bixby | Seal Beach, CA, El Segundo, CA | Not listed | not available | 2026-09-09 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Software-Engineer--Associate--Experienced-or-Senior----Bixby_JR2026524250)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
-| CACI | Software Developer | San Antonio, TX | Not listed | not available | 2026-09-09 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/San-Antonio-TX-US/Software-Developer_331710)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
-| Cigna Group | Software Engineer Program - Software Engineering Track | Bloomington, MN, Morris Plains, NJ | Not listed | not available | 2026-09-09 | **[Apply →](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NJ-Morris-Plains-115-Tabor-Rd/Technology-Development-Program--TECDP----Software-Engineering-Track---Start-Date--July-12--2027_26010470)**<br><sub>cigna.wd5.myworkdayjobs.com</sub> |
-| Cigna Group | Technology Development Program Associate - Artificial Intelligence Track | Austin, TX, Morris Plains, NJ, St. Louis, MO, Bloomfield, CT | Not listed | not available | 2026-09-09 | **[Apply →](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Artificial-Intelligence-Track---Start-Date--July-12--2027_26010465)**<br><sub>cigna.wd5.myworkdayjobs.com</sub> |
+| Amazon | Software Development Engineer - iOS | Newark, NJ | 2027 | not available | 2026-09-09 | **[Apply →](https://www.amazon.jobs/jobs/10505107/apply)**<br><sub>www.amazon.jobs</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
