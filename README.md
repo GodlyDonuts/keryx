@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**5,831 internships · 4,585 new-grad roles · 10,416 total openings**
+**5,835 internships · 4,412 new-grad roles · 10,247 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,715 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 517 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 312 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 101 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,186 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 2,708 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 518 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 311 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 100 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 2,198 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 953 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,290 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,342 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 996 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,089 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,327 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,8 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Ameriprise Financial | Data Analytics & AI Intern - RiverSource | Minneapolis, Minnesota | Fall 2026 | not available | 2026-09-10 | **[Apply →](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Data-Analytics---AI-Intern---RiverSource_R26_3595)**<br><sub>ameriprise.wd5.myworkdayjobs.com</sub> |
+| Brevan Howard | 2027 Summer Internship Program – Systematic Trading Technology Software Engineer, New York | New York | Summer 2027 | not available | 2026-09-10 | **[Apply →](https://wd3.myworkdaysite.com/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597)**<br><sub>wd3.myworkdaysite.com</sub> |
 | CACI | Configuration Control/Data Management Co-op - Engineering Department | Danbury, CT | Summer 2027 | not available | 2026-09-10 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
 | CACI | Software Engineer Intern | Denver, CO | Summer 2027 | not available | 2026-09-10 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
 | Charles Schwab | Product Management Intern - Thinkorswim | Austin, TX | Summer 2027 | not available | 2026-09-10 | **[Apply →](https://career-schwab.icims.com/jobs/126266/job?mobile=true&needsRedirect=false)**<br><sub>career-schwab.icims.com</sub> |
@@ -45,10 +47,8 @@ Recent internship and co-op listings that open the employer's application page d
 | Dell Technologies | Hardware Engineering Intern - Client Solutions Group Engineering | Austin, TX | Summer 2027 | not available | 2026-09-10 | **[Apply →](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298216)**<br><sub>iawmqy.fa.ocs.oraclecloud.com</sub> |
 | Dell Technologies | Software Engineer Intern - Client Solutions Group Engineering | Austin, TX | Summer 2027 | not available | 2026-09-10 | **[Apply →](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217)**<br><sub>iawmqy.fa.ocs.oraclecloud.com</sub> |
 | DV Trading | Client Platforms Engineer Intern - Summer 2027 | New York | Summer 2027 | By Summer 2028<br><sub>stated</sub> | 2026-09-10 | **[Apply →](https://job-boards.greenhouse.io/dvtrading/jobs/4732697005)**<br><sub>job-boards.greenhouse.io</sub> |
-| Entegris | Lab Automation & AI Engineering Co-Op | Billerica, MA | Spring 2027 | not available | 2026-09-10 | **[Apply →](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1)**<br><sub>entegris.wd1.myworkdayjobs.com</sub> |
-| Eurofins | 6-month paid internship - AI & Automation | Barcelona, CT, International (ES) | Fall 2026 | not available | 2026-09-10 | **[Apply →](https://jobs.smartrecruiters.com/Eurofins/744000148712379)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Flagship Pioneering | Flagship Labs 111: Cell Biology Co-Op | Cambridge, MA USA | Not listed | not stated | 2026-09-10 | **[Apply →](https://job-boards.greenhouse.io/fspco-op012325/jobs/8786276002)**<br><sub>job-boards.greenhouse.io</sub> |
-| Grant Thornton Isle of Man | Audit IT Assurance Intern - Summer 2027 | Houston, TX, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-10 | **[Apply →](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GrantThorntonIsleOfMan/job/115894)**<br><sub>ehzq.fa.us2.oraclecloud.com</sub> |
+| Elanco | Engineering Intern – Clinton, Indiana (Summer 2027) | Clinton, IN | Summer 2027 | not available | 2026-09-10 | **[Apply →](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Clinton-IN/Engineering-Intern---Clinton--Indiana--Summer-2027-_R0026868)**<br><sub>elanco.wd5.myworkdayjobs.com</sub> |
+| Entegris | Lab Automation & AI Engineering Co-op | Billerica, MA | Spring 2027 | not available | 2026-09-10 | **[Apply →](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1)**<br><sub>entegris.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links

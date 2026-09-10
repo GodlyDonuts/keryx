@@ -682,7 +682,7 @@
       "ats": "ashby",
       "company": "Greenboard",
       "key": "ashby:greenboard",
-      "slug": "Greenboard"
+      "slug": "greenboard"
     },
     {
       "ats": "ashby",
@@ -3182,6 +3182,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Hudl",
+      "key": "greenhouse:hudl",
+      "slug": "hudl"
+    },
+    {
+      "ats": "greenhouse",
       "company": "HumanSignal",
       "key": "greenhouse:humansignal",
       "slug": "humansignal"
@@ -5587,6 +5593,14 @@
       "key": "oracle:eeho.fa.us2.oraclecloud.com:cx_45001",
       "site": "CX_45001",
       "slug": "eeho"
+    },
+    {
+      "ats": "oracle",
+      "company": "Hearst",
+      "host": "eevd.fa.us6.oraclecloud.com",
+      "key": "oracle:eevd.fa.us6.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "eevd"
     },
     {
       "ats": "oracle",
@@ -11526,6 +11540,15 @@
     },
     {
       "ats": "workday",
+      "company": "Atlanta Hawks",
+      "host": "hawks.wd1.myworkdayjobs.com",
+      "key": "workday:hawks.wd1.myworkdayjobs.com:hawks:external",
+      "site": "external",
+      "slug": "hawks",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Electric Battery Adhesives",
       "host": "hbfuller.wd1.myworkdayjobs.com",
       "key": "workday:hbfuller.wd1.myworkdayjobs.com:hbfuller:careers",
@@ -13596,6 +13619,15 @@
     },
     {
       "ats": "workday",
+      "company": "Ochsner Health",
+      "host": "ochsner.wd1.myworkdayjobs.com",
+      "key": "workday:ochsner.wd1.myworkdayjobs.com:ochsner:ochsner",
+      "site": "ochsner",
+      "slug": "ochsner",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "OCLC",
       "host": "oclc.wd1.myworkdayjobs.com",
       "key": "workday:oclc.wd1.myworkdayjobs.com:oclc:oclc_careers",
@@ -13731,10 +13763,10 @@
     },
     {
       "ats": "workday",
-      "company": "Otis Elevator Co.",
+      "company": "Otis",
       "host": "otis.wd504.myworkdayjobs.com",
       "key": "workday:otis.wd504.myworkdayjobs.com:otis:rec_ext_gateway",
-      "site": "REC_Ext_Gateway",
+      "site": "rec_ext_gateway",
       "slug": "otis",
       "wd": "wd504"
     },
@@ -14914,6 +14946,15 @@
       "host": "snapchat.wd1.myworkdayjobs.com",
       "key": "workday:snapchat.wd1.myworkdayjobs.com:snapchat:snap",
       "site": "snap",
+      "slug": "snapchat",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Snap",
+      "host": "snapchat.wd1.myworkdayjobs.com",
+      "key": "workday:snapchat.wd1.myworkdayjobs.com:snapchat:sourced",
+      "site": "sourced",
       "slug": "snapchat",
       "wd": "wd1"
     },
@@ -16170,6 +16211,15 @@
     },
     {
       "ats": "workday",
+      "company": "Varex Imaging",
+      "host": "vareximaging.wd103.myworkdayjobs.com",
+      "key": "workday:vareximaging.wd103.myworkdayjobs.com:vareximaging:external_career_site",
+      "site": "external_career_site",
+      "slug": "vareximaging",
+      "wd": "wd103"
+    },
+    {
+      "ats": "workday",
       "company": "Varsity Brands",
       "host": "varsitybrands.wd503.myworkdayjobs.com",
       "key": "workday:varsitybrands.wd503.myworkdayjobs.com:varsitybrands:externalcareersite",
@@ -16422,6 +16472,14 @@
       "key": "workday:wd12.myworkdaysite.com:carislifesciences:cls",
       "site": "CLS",
       "slug": "carislifesciences"
+    },
+    {
+      "ats": "workday",
+      "company": "Brevan Howard",
+      "host": "wd3.myworkdaysite.com",
+      "key": "workday:wd3.myworkdaysite.com:brevanhoward:bh_externalcareers",
+      "site": "BH_ExternalCareers",
+      "slug": "brevanhoward"
     },
     {
       "ats": "workday",
