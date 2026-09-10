@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**102 open roles**
+**101 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -13,7 +13,6 @@
 | Acxiom | Data Scientist Intern | Conway, AR | not available<br><sub>posting text not indexed</sub> | 2026-09-08 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · acxiomllc.wd5.myworkdayjobs.com](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Scientist_JR014459)<br><sub>recognized recruiting platform</sub> |
 | Zions Bank | Process Automation Developer Intern | United States | not available<br><sub>posting text not indexed</sub> | 2026-09-08 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · zionsbancorp.taleo.net](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071580)<br><sub>recognized recruiting platform</sub> |
 | Kodiak Robotics | Data Engineering Intern | Mountain View, CA | not stated<br><sub>direct ATS text · checked 2026-09-09</sub> | 2026-09-04 | [Greenhouse direct](https://job-boards.greenhouse.io/kodiak), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/kodiak/jobs/4396622009)<br><sub>ATS checked</sub> |
-| Susquehanna International Group | Technology Co-op | Bala Cynwyd, PA | not available<br><sub>posting text not indexed</sub> | 2026-09-04 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · careers-sig.icims.com](https://careers-sig.icims.com/jobs/11379/job?mobile=true&needsRedirect=false)<br><sub>recognized recruiting platform</sub> |
 | Geotab | DataOps Developer Intern, Atlanta (Winter/January 2027, 8+ Months) | Atlanta, Georgia - USA | not stated<br><sub>direct ATS text · checked 2026-09-10</sub> | 2026-09-02 | [Greenhouse direct](https://job-boards.greenhouse.io/internshiplist2000), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/internshiplist2000/jobs/5389379008)<br><sub>ATS checked</sub> |
 | Tesla | Vehicle Software Engineer Intern - Diagnostic User Interface | Palo Alto, CA | not available<br><sub>posting text not indexed</sub> | 2026-09-02 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · www.tesla.com](https://www.tesla.com/careers/search/job/281921)<br><sub>source reported</sub> |
 | Verkada | Hardware Engineer Co-op | San Mateo, CA | 2027–2028<br><sub>graduation: stated · direct ATS text · checked 2026-09-09</sub> | 2026-09-02 | [Greenhouse direct](https://job-boards.greenhouse.io/verkada), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/verkada/jobs/4321158007)<br><sub>ATS checked</sub> |

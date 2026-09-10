@@ -14,6 +14,12 @@
     },
     {
       "ats": "ashby",
+      "company": "42dot",
+      "key": "ashby:42dot",
+      "slug": "42dot"
+    },
+    {
+      "ats": "ashby",
       "company": "Abridge",
       "key": "ashby:abridge",
       "slug": "abridge"
@@ -1166,7 +1172,7 @@
     },
     {
       "ats": "ashby",
-      "company": "ONE Finance",
+      "company": "OnePay",
       "key": "ashby:oneapp",
       "slug": "oneapp"
     },
@@ -5618,7 +5624,7 @@
     },
     {
       "ats": "oracle",
-      "company": "Sundt Construction",
+      "company": "Sundt",
       "host": "eewl.fa.us6.oraclecloud.com",
       "key": "oracle:eewl.fa.us6.oraclecloud.com:cx",
       "site": "CX",
@@ -14880,7 +14886,7 @@
     },
     {
       "ats": "workday",
-      "company": "The J.M. Smucker Co.",
+      "company": "J.M. Smucker",
       "host": "smucker.wd5.myworkdayjobs.com",
       "key": "workday:smucker.wd5.myworkdayjobs.com:smucker:us_external_careers",
       "site": "US_External_Careers",
