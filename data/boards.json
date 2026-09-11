@@ -1022,6 +1022,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Maxima",
+      "key": "ashby:maxima",
+      "slug": "maxima"
+    },
+    {
+      "ats": "ashby",
       "company": "Maximor AI",
       "key": "ashby:maximor",
       "slug": "maximor"
@@ -7702,6 +7708,12 @@
     },
     {
       "ats": "workable",
+      "company": "EarthCam",
+      "key": "workable:earthcam",
+      "slug": "earthcam"
+    },
+    {
+      "ats": "workable",
       "company": "Elevate Semiconductor",
       "key": "workable:elevate-semiconductor",
       "slug": "elevate-semiconductor"
@@ -7858,7 +7870,7 @@
     },
     {
       "ats": "workable",
-      "company": "Pony.ai",
+      "company": "pony.ai",
       "key": "workable:pony-dot-ai",
       "slug": "pony-dot-ai"
     },
@@ -8157,6 +8169,15 @@
       "key": "workday:abcsupply.wd1.myworkdayjobs.com:abcsupply:abcsupplycareers",
       "site": "abcsupplycareers",
       "slug": "abcsupply",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "AllianceBernstein",
+      "host": "abglobal.wd1.myworkdayjobs.com",
+      "key": "workday:abglobal.wd1.myworkdayjobs.com:abglobal:abcampuscareers",
+      "site": "abcampuscareers",
+      "slug": "abglobal",
       "wd": "wd1"
     },
     {
@@ -9394,6 +9415,15 @@
     },
     {
       "ats": "workday",
+      "company": "Bracco",
+      "host": "bracco.wd103.myworkdayjobs.com",
+      "key": "workday:bracco.wd103.myworkdayjobs.com:bracco:braccocareers",
+      "site": "braccocareers",
+      "slug": "bracco",
+      "wd": "wd103"
+    },
+    {
+      "ats": "workday",
       "company": "CHEP",
       "host": "brambles.wd5.myworkdayjobs.com",
       "key": "workday:brambles.wd5.myworkdayjobs.com:brambles:brambles_careers",
@@ -9497,6 +9527,15 @@
       "host": "btisolutions.wd12.myworkdayjobs.com",
       "key": "workday:btisolutions.wd12.myworkdayjobs.com:btisolutions:external",
       "site": "External",
+      "slug": "btisolutions",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
+      "company": "BTI Solutions",
+      "host": "btisolutions.wd12.myworkdayjobs.com",
+      "key": "workday:btisolutions.wd12.myworkdayjobs.com:btisolutions:jobposting",
+      "site": "jobposting",
       "slug": "btisolutions",
       "wd": "wd12"
     },
@@ -11887,6 +11926,15 @@
     },
     {
       "ats": "workday",
+      "company": "Horizon Media",
+      "host": "horizonmedia.wd1.myworkdayjobs.com",
+      "key": "workday:horizonmedia.wd1.myworkdayjobs.com:horizonmedia:careeropportunities",
+      "site": "careeropportunities",
+      "slug": "horizonmedia",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Hewlett Packard (HP)",
       "host": "hp.wd5.myworkdayjobs.com",
       "key": "workday:hp.wd5.myworkdayjobs.com:hp:externalcareersite",
@@ -12022,7 +12070,7 @@
     },
     {
       "ats": "workday",
-      "company": "Hypertherm Associates",
+      "company": "Hypertherm",
       "host": "hypertherm.wd503.myworkdayjobs.com",
       "key": "workday:hypertherm.wd503.myworkdayjobs.com:hypertherm:hypertherm-careers",
       "site": "hypertherm-careers",
@@ -14650,10 +14698,10 @@
     },
     {
       "ats": "workday",
-      "company": "Resmed",
+      "company": "ResMed",
       "host": "resmed.wd3.myworkdayjobs.com",
       "key": "workday:resmed.wd3.myworkdayjobs.com:resmed:resmed_external_careers",
-      "site": "ResMed_External_Careers",
+      "site": "resmed_external_careers",
       "slug": "resmed",
       "wd": "wd3"
     },
@@ -15397,6 +15445,15 @@
     },
     {
       "ats": "workday",
+      "company": "Sunbelt Rentals, Inc.",
+      "host": "sunbeltrentals.wd1.myworkdayjobs.com",
+      "key": "workday:sunbeltrentals.wd1.myworkdayjobs.com:sunbeltrentals:sbcareers",
+      "site": "sbcareers",
+      "slug": "sunbeltrentals",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Sun Life",
       "host": "sunlife.wd3.myworkdayjobs.com",
       "key": "workday:sunlife.wd3.myworkdayjobs.com:sunlife:experienced",
@@ -15897,6 +15954,15 @@
       "key": "workday:thinkbrg.wd5.myworkdayjobs.com:thinkbrg:brg_external_career_site",
       "site": "BRG_External_Career_Site",
       "slug": "thinkbrg",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Thomson Reuters",
+      "host": "thomsonreuters.wd5.myworkdayjobs.com",
+      "key": "workday:thomsonreuters.wd5.myworkdayjobs.com:thomsonreuters:external_career_site",
+      "site": "external_career_site",
+      "slug": "thomsonreuters",
       "wd": "wd5"
     },
     {
