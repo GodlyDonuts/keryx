@@ -2528,6 +2528,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Businessolver",
+      "key": "greenhouse:businessolverinvitationonly",
+      "slug": "businessolverinvitationonly"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Buyers Edge Platform",
       "key": "greenhouse:buyersedgeplatformrecruiting",
       "slug": "buyersedgeplatformrecruiting"
@@ -9866,6 +9872,15 @@
     },
     {
       "ats": "workday",
+      "company": "Central Hudson",
+      "host": "cenhud.wd5.myworkdayjobs.com",
+      "key": "workday:cenhud.wd5.myworkdayjobs.com:cenhud:cenhud",
+      "site": "cenhud",
+      "slug": "cenhud",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Centene",
       "host": "centene.wd5.myworkdayjobs.com",
       "key": "workday:centene.wd5.myworkdayjobs.com:centene:centene_external",
@@ -10943,6 +10958,15 @@
       "site": "External",
       "slug": "embryriddle",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "EMC Insurance",
+      "host": "emcins.wd5.myworkdayjobs.com",
+      "key": "workday:emcins.wd5.myworkdayjobs.com:emcins:emc_careers",
+      "site": "EMC_Careers",
+      "slug": "emcins",
+      "wd": "wd5"
     },
     {
       "ats": "workday",

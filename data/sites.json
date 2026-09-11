@@ -626,6 +626,14 @@
     },
     {
       "boards": [],
+      "company": "Unstoppable AI",
+      "key": "05e042d105c2f22f3d09f1c3",
+      "last_scanned": "2026-09-11",
+      "resolved_roles": 0,
+      "url": "https://unstoppabledomains.com/"
+    },
+    {
+      "boards": [],
       "company": "Koch",
       "key": "05f85cbf323a534ba7ae5543",
       "last_scanned": "2026-09-10",
@@ -784,6 +792,16 @@
       "last_scanned": "2026-09-10",
       "resolved_roles": 0,
       "url": "https://www.aqr.com/"
+    },
+    {
+      "boards": [
+        "bamboohr:vestalcorporation"
+      ],
+      "company": "Vestal Corporation",
+      "key": "0724af0fea853bb7396175d0",
+      "last_scanned": "2026-09-11",
+      "resolved_roles": 0,
+      "url": "https://vestalcorporation.com/"
     },
     {
       "company": "Johnson & Johnson MedTech",
@@ -2043,7 +2061,7 @@
       "boards": [],
       "company": "talentpluto",
       "key": "1284e7c14d1191e20066d150",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-09-11",
       "resolved_roles": 0,
       "url": "https://talentpluto.com/"
     },
@@ -2335,7 +2353,7 @@
       "boards": [],
       "company": "Scientific Research Corporation",
       "key": "14b9ebd730e163c03240c3eb",
-      "last_scanned": "2026-09-02",
+      "last_scanned": "2026-09-11",
       "resolved_roles": 0,
       "url": "https://www.scires.com/"
     },
@@ -2801,6 +2819,13 @@
       "url": "https://regalboats.com/"
     },
     {
+      "company": "Tesla",
+      "error": "public request failed for https://www.tesla.com/powerwall: HTTP Error 403: Forbidden",
+      "key": "190f2e75bb63a00d8c56a000",
+      "last_scanned": "2026-09-11",
+      "url": "https://enrg.com/"
+    },
+    {
       "boards": [],
       "company": "Aventia",
       "key": "1947d6ebc92ccbcb9c5cc2cb",
@@ -3120,6 +3145,13 @@
       "url": "https://ntt-research.com/"
     },
     {
+      "company": "Northern Tool + Equipment",
+      "error": "public request failed for https://www.northerntool.com/: HTTP Error 403: Forbidden",
+      "key": "1d04ccbf4219ece19afc4611",
+      "last_scanned": "2026-09-11",
+      "url": "https://www.northerntool.com/"
+    },
+    {
       "company": "Horrocks",
       "error": "Invalid IPv6 URL",
       "key": "1d0e1fba155fa3539bd52470",
@@ -3224,6 +3256,14 @@
       "last_scanned": "2026-09-09",
       "resolved_roles": 0,
       "url": "https://www.db.com/"
+    },
+    {
+      "boards": [],
+      "company": "DiligenceVault",
+      "key": "1dfcdea7586bfe8a59ac3855",
+      "last_scanned": "2026-09-11",
+      "resolved_roles": 0,
+      "url": "https://www.diligencevault.com/"
     },
     {
       "boards": [],
@@ -4656,7 +4696,7 @@
       "company": "Nokia",
       "error": "public request failed for https://www.nokia.com/: HTTP Error 403: Forbidden",
       "key": "2ced4544077d31a1eecf34ba",
-      "last_scanned": "2026-09-03",
+      "last_scanned": "2026-09-11",
       "url": "https://www.nokia.com/"
     },
     {
@@ -5317,6 +5357,14 @@
     },
     {
       "boards": [],
+      "company": "Turner Construction Company",
+      "key": "314dd6f0781db020c2395b14",
+      "last_scanned": "2026-09-11",
+      "resolved_roles": 0,
+      "url": "https://www.turnerconstruction.com/"
+    },
+    {
+      "boards": [],
       "company": "Stearns Bank N.A.",
       "key": "3151196423f16c1c1e713c8a",
       "last_scanned": "2026-08-15",
@@ -5435,6 +5483,14 @@
       "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://www.continental.com/"
+    },
+    {
+      "boards": [],
+      "company": "Weis Builders",
+      "key": "326972b75385f7cef9e84160",
+      "last_scanned": "2026-09-11",
+      "resolved_roles": 0,
+      "url": "https://weisbuilders.com/"
     },
     {
       "boards": [],
@@ -5561,6 +5617,14 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://cretecarrier.com/"
+    },
+    {
+      "boards": [],
+      "company": "HKA",
+      "key": "3400e2c7c749aa1886ed1320",
+      "last_scanned": "2026-09-11",
+      "resolved_roles": 0,
+      "url": "https://www.hka.com/"
     },
     {
       "boards": [],
@@ -6074,6 +6138,16 @@
       "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://gene.com/"
+    },
+    {
+      "boards": [
+        "workday:chartermfg.wd5.myworkdayjobs.com:chartermfg:charter_careers"
+      ],
+      "company": "Charter Steel",
+      "key": "385299934be93f94321c3e84",
+      "last_scanned": "2026-09-11",
+      "resolved_roles": 0,
+      "url": "https://www.chartersteel.com/"
     },
     {
       "boards": [],
@@ -6660,7 +6734,7 @@
       "company": "BD",
       "error": "public request failed for https://www.bd.com/: HTTP Error 403: Forbidden",
       "key": "3db54dad98416b8cf85d695b",
-      "last_scanned": "2026-09-06",
+      "last_scanned": "2026-09-11",
       "url": "https://www.bd.com/"
     },
     {
@@ -6698,7 +6772,7 @@
       "boards": [],
       "company": "Corvid Technologies",
       "key": "3e01fccca114daf6e7a0239b",
-      "last_scanned": "2026-09-02",
+      "last_scanned": "2026-09-11",
       "resolved_roles": 0,
       "url": "https://corvidtec.com/"
     },
@@ -10497,7 +10571,7 @@
       "boards": [],
       "company": "V2X Inc",
       "key": "5e4f62b772a4eee1073fc3cc",
-      "last_scanned": "2026-09-03",
+      "last_scanned": "2026-09-11",
       "resolved_roles": 0,
       "url": "https://gov2x.com/"
     },
@@ -11396,7 +11470,7 @@
       "boards": [],
       "company": "Liebherr USA",
       "key": "665c3c0c3ae216d05b15b7cb",
-      "last_scanned": "2026-08-27",
+      "last_scanned": "2026-09-11",
       "resolved_roles": 0,
       "url": "https://www.liebherr.us/"
     },
@@ -13855,6 +13929,14 @@
       "url": "https://adulteducation.esuhsd.org/"
     },
     {
+      "boards": [],
+      "company": "City of South Haven",
+      "key": "7b3b2fe40058597846100fe7",
+      "last_scanned": "2026-09-11",
+      "resolved_roles": 0,
+      "url": "https://www.southhavenmi.gov/"
+    },
+    {
       "boards": [
         "ashby:pluralis-research"
       ],
@@ -15558,7 +15640,7 @@
       "boards": [],
       "company": "MSA Professional Services",
       "key": "8a2077dd912d41daa362da51",
-      "last_scanned": "2026-09-03",
+      "last_scanned": "2026-09-11",
       "resolved_roles": 0,
       "url": "https://msa-ps.com/"
     },
@@ -18826,7 +18908,7 @@
       "company": "Motorola Solutions",
       "error": "public request failed for https://www.motorolasolutions.com/: HTTP Error 403: Forbidden",
       "key": "a7500527db6f2598ec09839b",
-      "last_scanned": "2026-09-10",
+      "last_scanned": "2026-09-11",
       "url": "https://www.motorolasolutions.com/"
     },
     {
@@ -19041,7 +19123,7 @@
       "company": "Graco",
       "error": "public hostname did not resolve: www.graco.comhttps",
       "key": "a92881062fc44e6185eb99cb",
-      "last_scanned": "2026-08-29",
+      "last_scanned": "2026-09-11",
       "url": "https://graco.com/in/en/"
     },
     {
@@ -23277,6 +23359,14 @@
       "url": "https://www.trwd.com/"
     },
     {
+      "boards": [],
+      "company": "CFS Brands",
+      "key": "ce9f60c4f67457789c7d1565",
+      "last_scanned": "2026-09-11",
+      "resolved_roles": 0,
+      "url": "https://www.cfsbrands.com/"
+    },
+    {
       "company": "Solar Turbines",
       "error": "public request failed for https://www.solarturbines.com/: The read operation timed out",
       "key": "cea5c5bef940afaa674ce18f",
@@ -26424,6 +26514,14 @@
     },
     {
       "boards": [],
+      "company": "FSB Architects + Engineers",
+      "key": "e962a96c8cd5d02fdad31fd0",
+      "last_scanned": "2026-09-11",
+      "resolved_roles": 0,
+      "url": "https://fsb-ae.com/"
+    },
+    {
+      "boards": [],
       "company": "Volvo Group",
       "key": "e988452d8e5551c1f626a1d8",
       "last_scanned": "2026-09-11",
@@ -27158,6 +27256,16 @@
     },
     {
       "boards": [
+        "workday:cenhud.wd5.myworkdayjobs.com:cenhud:cenhud"
+      ],
+      "company": "Central Hudson",
+      "key": "eecca97b617217eb41182ce4",
+      "last_scanned": "2026-09-11",
+      "resolved_roles": 0,
+      "url": "https://www.cenhud.com/"
+    },
+    {
+      "boards": [
         "workday:nrel.wd5.myworkdayjobs.com:nrel:nlr"
       ],
       "company": "National Laboratory of the Rockies",
@@ -27297,7 +27405,7 @@
       "company": "Schneider Electric",
       "error": "Invalid IPv6 URL",
       "key": "efc63904d017ad3d103211de",
-      "last_scanned": "2026-09-09",
+      "last_scanned": "2026-09-11",
       "url": "https://www.se.com/"
     },
     {
@@ -27514,6 +27622,14 @@
       "key": "f137e6cfa348ee2f27624d66",
       "last_scanned": "2026-09-11",
       "url": "https://www.alkira.com/"
+    },
+    {
+      "boards": [],
+      "company": "Fortune Brands Innovations",
+      "key": "f14da9587cd30eb4351c9cd4",
+      "last_scanned": "2026-09-11",
+      "resolved_roles": 0,
+      "url": "https://www.fbin.com/"
     },
     {
       "company": "California Department of Social Services",
@@ -28051,6 +28167,14 @@
       "last_scanned": "2026-09-09",
       "resolved_roles": 0,
       "url": "https://spacekinetic.com/"
+    },
+    {
+      "boards": [],
+      "company": "Datum Engineers",
+      "key": "f5aaa75fb71be5718ad79986",
+      "last_scanned": "2026-09-11",
+      "resolved_roles": 0,
+      "url": "https://www.datumengineers.com/"
     },
     {
       "boards": [
@@ -28596,7 +28720,7 @@
       "boards": [],
       "company": "Amcor",
       "key": "fb61d665d71a4cdd9432fc88",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-11",
       "resolved_roles": 0,
       "url": "https://www.amcor.com/"
     },
@@ -28657,7 +28781,7 @@
       "boards": [],
       "company": "GigFinder.ai",
       "key": "fc1973c8405177efd39cc6d1",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-11",
       "resolved_roles": 0,
       "url": "https://www.GigFinder.ai/"
     },

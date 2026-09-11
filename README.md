@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**6,216 internships · 4,253 new-grad roles · 10,469 total openings**
+**6,228 internships · 4,248 new-grad roles · 10,476 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,916 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 518 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 333 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 115 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,334 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 2,903 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 515 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 337 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 113 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 2,360 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 969 | **[View openings →](new-grad/2027.md)** |
+| 2027 | 961 | **[View openings →](new-grad/2027.md)** |
 | 2026 | 895 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,389 | **[View openings →](new-grad/unscheduled.md)** |
+| Year not listed | 2,392 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| AEG | Fall Intern, Sustainability | Los Angeles, CA | Not listed | not stated | 2026-09-11 | **[Apply →](https://job-boards.greenhouse.io/aegworldwide/jobs/8787702002)**<br><sub>job-boards.greenhouse.io</sub> |
+| Amcor | Business Analytics & Technology Intern | CORP Evansville Head Division Office IN | Not listed | not available | 2026-09-11 | **[Apply →](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/CORP-Evansville-Head-Division-Office-IN/Business-Analytics---Technology-Intern_REQ_95379)**<br><sub>amcor.wd5.myworkdayjobs.com</sub> |
+| Amgen | Grad Intern – Data Engineer – Amgen’s Technology & Medical Organizations (Summer 2027) | United States - Remote | Summer 2027 | not available | 2026-09-11 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
+| Amgen | Grad Intern – Data Engineer – Amgen’s Technology & Medical Organizations (Summer 2027) | United States - Remote | Summer 2027 | not available | 2026-09-11 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
+| Amgen | Grad Intern – Machine Learning Engineer – Amgen’s Technology & Medical Organizations (Summer 2027) | United States - Remote | Summer 2027 | not available | 2026-09-11 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
+| Amgen | Grad Intern – Software Engineer – Amgen’s Technology & Medical Organizations (Summer 2027) | United States - Remote | Summer 2027 | not available | 2026-09-11 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
+| Amgen | Undergrad Intern – Data Engineer – Amgen’s Technology & Medical Organizations (Summer 2027) | United States - Remote | Summer 2027 | not available | 2026-09-11 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
+| Amgen | Undergrad Intern – Data Scientist – Amgen’s Technology & Medical Organizations (Summer 2027) | United States - Remote | Summer 2027 | not available | 2026-09-11 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
+| Amgen | Undergrad Intern – Machine Learning Engineer – Amgen’s Technology & Medical Organizations (Summer 2027) | United States - Remote | Summer 2027 | not available | 2026-09-11 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
+| Amgen | Undergrad Intern – Software Engineer – Amgen’s Technology & Medical Organizations (Summer 2027) | United States - Remote | Summer 2027 | not available | 2026-09-11 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
 | Brookfield | Intern, Business Analyst | New York, New York | Not listed | not available | 2026-09-11 | **[Apply →](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/New-York-New-York/Intern--Business-Analyst_R2051499)**<br><sub>brookfield.wd5.myworkdayjobs.com</sub> |
-| Citizens Financial Group | Cloud Engineer Summer 2027 Intern / Enterprise Technology & Security Summer Internship Program | United States | Summer 2027 | Expected May 2028 graduation<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49284)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
-| Citizens Financial Group | Corporate Security & Resilience Summer 2027 Intern / Enterprise Technology & Security Summer Internship Program | United States | Summer 2027 | Expected May 2028 graduation<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49289)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
-| Citizens Financial Group | Data Analyst Intern - Multiple Teams | Boston, MA, Johnston, RI, Columbus, OH | Summer 2027 | Dec 2027–Spring 2028<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49278)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
-| Citizens Financial Group | Data Analyst Intern - Multiple Teams | Boston, MA, Johnston, RI, Columbus, OH | Summer 2027 | Dec 2027–Spring 2028<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49282)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
-| Citizens Financial Group | Data Engineer Intern - Enterprise Technology & Security | Plano, TX, Johnston, RI, Phoenix, AZ | Summer 2027 | Expected May 2028 graduation<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
-| Citizens Financial Group | Data Management Intern - Enterprise Data and Analytics | Boston, MA, Johnston, RI, Columbus, OH | Summer 2027 | Dec 2027–Spring 2028<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49281)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
-| Citizens Financial Group | Data Management Intern - Multiple Teams | Boston, MA, Johnston, RI, Columbus, OH | Summer 2027 | Dec 2027–Spring 2028<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49277)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
-| Citizens Financial Group | Data Science Intern - Multiple Teams | Boston, MA, Johnston, RI, Columbus, OH | Summer 2027 | Dec 2027–Spring 2028<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
-| Citizens Financial Group | Data Science Intern - Multiple Teams | Boston, MA, Johnston, RI, Columbus, OH | Summer 2027 | Dec 2027–Spring 2028<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
-| Citizens Financial Group | Network Engineer Summer 2027 Intern / Enterprise Technology & Security Summer Internship Program | United States | Summer 2027 | Expected May 2028 graduation<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49287)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
-| Citizens Financial Group | Software Engineer Intern | Plano, TX, Johnston, RI, Phoenix, AZ | Summer 2027 | Expected May 2028 graduation<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
+| Businessolver | Business Intelligence Analyst Internship (Innovation & Data Science) | United States | Not listed | Current student status<br><sub>required</sub> | 2026-09-11 | **[Apply →](https://job-boards.greenhouse.io/businessolverinvitationonly/jobs/8189738)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
