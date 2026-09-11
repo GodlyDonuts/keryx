@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**6,161 internships · 4,324 new-grad roles · 10,485 total openings**
+**6,216 internships · 4,253 new-grad roles · 10,469 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,897 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 519 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 331 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 117 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,297 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 2,916 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 518 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 333 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 115 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 2,334 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,015 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 921 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,388 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 969 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 895 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,389 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -40,15 +40,15 @@ Recent internship and co-op listings that open the employer's application page d
 | Brookfield | Intern, Business Analyst | New York, New York | Not listed | not available | 2026-09-11 | **[Apply →](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/New-York-New-York/Intern--Business-Analyst_R2051499)**<br><sub>brookfield.wd5.myworkdayjobs.com</sub> |
 | Citizens Financial Group | Cloud Engineer Summer 2027 Intern / Enterprise Technology & Security Summer Internship Program | United States | Summer 2027 | Expected May 2028 graduation<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49284)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
 | Citizens Financial Group | Corporate Security & Resilience Summer 2027 Intern / Enterprise Technology & Security Summer Internship Program | United States | Summer 2027 | Expected May 2028 graduation<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49289)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
-| Citizens Financial Group | Data Analytics Graduate 2027 Summer Intern | United States | Summer 2027 | Dec 2027–Spring 2028<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49282)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
-| Citizens Financial Group | Data Analytics Undergraduate 2027 Summer Intern | United States | Summer 2027 | Dec 2027–Spring 2028<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49278)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
-| Citizens Financial Group | Data Engineer Summer 2027 Intern / Enterprise Technology & Security Summer Internship Program | United States | Summer 2027 | Expected May 2028 graduation<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
-| Citizens Financial Group | Data Management Graduate 2027 Summer Intern | United States | Summer 2027 | Dec 2027–Spring 2028<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49281)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
-| Citizens Financial Group | Data Management Undergraduate 2027 Summer Intern | United States | Summer 2027 | Dec 2027–Spring 2028<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49277)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
-| Citizens Financial Group | Data Science Graduate 2027 Summer Intern | United States | Summer 2027 | Dec 2027–Spring 2028<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
-| Citizens Financial Group | Data Science Undergraduate 2027 Summer Intern | United States | Summer 2027 | Dec 2027–Spring 2028<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
+| Citizens Financial Group | Data Analyst Intern - Multiple Teams | Boston, MA, Johnston, RI, Columbus, OH | Summer 2027 | Dec 2027–Spring 2028<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49278)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
+| Citizens Financial Group | Data Analyst Intern - Multiple Teams | Boston, MA, Johnston, RI, Columbus, OH | Summer 2027 | Dec 2027–Spring 2028<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49282)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
+| Citizens Financial Group | Data Engineer Intern - Enterprise Technology & Security | Plano, TX, Johnston, RI, Phoenix, AZ | Summer 2027 | Expected May 2028 graduation<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
+| Citizens Financial Group | Data Management Intern - Enterprise Data and Analytics | Boston, MA, Johnston, RI, Columbus, OH | Summer 2027 | Dec 2027–Spring 2028<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49281)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
+| Citizens Financial Group | Data Management Intern - Multiple Teams | Boston, MA, Johnston, RI, Columbus, OH | Summer 2027 | Dec 2027–Spring 2028<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49277)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
+| Citizens Financial Group | Data Science Intern - Multiple Teams | Boston, MA, Johnston, RI, Columbus, OH | Summer 2027 | Dec 2027–Spring 2028<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
+| Citizens Financial Group | Data Science Intern - Multiple Teams | Boston, MA, Johnston, RI, Columbus, OH | Summer 2027 | Dec 2027–Spring 2028<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
 | Citizens Financial Group | Network Engineer Summer 2027 Intern / Enterprise Technology & Security Summer Internship Program | United States | Summer 2027 | Expected May 2028 graduation<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49287)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
-| Citizens Financial Group | Software Engineer Summer 2027 Intern / Enterprise Technology & Security Summer Internship Program | United States | Summer 2027 | Expected May 2028 graduation<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
+| Citizens Financial Group | Software Engineer Intern | Plano, TX, Johnston, RI, Phoenix, AZ | Summer 2027 | Expected May 2028 graduation<br><sub>stated / required</sub> | 2026-09-11 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links

@@ -376,7 +376,7 @@
       "ats": "ashby",
       "company": "Commure",
       "key": "ashby:commure",
-      "slug": "Commure"
+      "slug": "commure"
     },
     {
       "ats": "ashby",
@@ -3488,6 +3488,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Lyft",
+      "key": "greenhouse:lyft",
+      "slug": "lyft"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Mach Industries",
       "key": "greenhouse:machindustries",
       "slug": "machindustries"
@@ -5408,6 +5414,12 @@
     },
     {
       "ats": "lever",
+      "company": "Xcimer Energy",
+      "key": "lever:xcimer",
+      "slug": "xcimer"
+    },
+    {
+      "ats": "lever",
       "company": "Xsolla",
       "key": "lever:xsolla",
       "slug": "xsolla"
@@ -5860,6 +5872,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Williams-Sonoma, Inc.",
+      "host": "ehac.fa.us6.oraclecloud.com",
+      "key": "oracle:ehac.fa.us6.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "ehac"
+    },
+    {
+      "ats": "oracle",
       "company": "Resideo",
       "host": "ehtl.fa.us6.oraclecloud.com",
       "key": "oracle:ehtl.fa.us6.oraclecloud.com:cx",
@@ -6097,6 +6117,14 @@
       "key": "oracle:eoje.fa.us2.oraclecloud.com:cx_1001",
       "site": "CX_1001",
       "slug": "eoje"
+    },
+    {
+      "ats": "oracle",
+      "company": "Horizon Farm Credit",
+      "host": "eozs.fa.us6.oraclecloud.com",
+      "key": "oracle:eozs.fa.us6.oraclecloud.com:cx_1001",
+      "site": "CX_1001",
+      "slug": "eozs"
     },
     {
       "ats": "oracle",
@@ -10849,7 +10877,7 @@
       "company": "Echo Global Logistics",
       "host": "echo.wd1.myworkdayjobs.com",
       "key": "workday:echo.wd1.myworkdayjobs.com:echo:echo_logistics",
-      "site": "Echo_Logistics",
+      "site": "echo_logistics",
       "slug": "echo",
       "wd": "wd1"
     },
