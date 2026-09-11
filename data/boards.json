@@ -548,6 +548,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Exegy",
+      "key": "ashby:exegy",
+      "slug": "exegy"
+    },
+    {
+      "ats": "ashby",
       "company": "Extropic",
       "key": "ashby:extropic",
       "slug": "extropic"
@@ -5132,6 +5138,12 @@
     },
     {
       "ats": "lever",
+      "company": "QuantCo",
+      "key": "lever:quantco-",
+      "slug": "quantco-"
+    },
+    {
+      "ats": "lever",
       "company": "Quantum Workplace",
       "key": "lever:quantumworkplace",
       "slug": "QuantumWorkplace"
@@ -6447,6 +6459,30 @@
       "key": "oracle:fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
       "site": "CX_1",
       "slug": "fa-exmi-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
+      "company": "Govan Brown & Associates",
+      "host": "fa-exrr-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-exrr-saasfaprod1.fa.ocs.oraclecloud.com:govanbrown",
+      "site": "govanbrown",
+      "slug": "fa-exrr-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
+      "company": "Layton Construction",
+      "host": "fa-exrr-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-exrr-saasfaprod1.fa.ocs.oraclecloud.com:layton",
+      "site": "layton",
+      "slug": "fa-exrr-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
+      "company": "STO Building Group",
+      "host": "fa-exrr-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-exrr-saasfaprod1.fa.ocs.oraclecloud.com:stobg",
+      "site": "stobg",
+      "slug": "fa-exrr-saasfaprod1"
     },
     {
       "ats": "oracle",
@@ -7822,7 +7858,7 @@
     },
     {
       "ats": "workable",
-      "company": "pony.ai",
+      "company": "Pony.ai",
       "key": "workable:pony-dot-ai",
       "slug": "pony-dot-ai"
     },
@@ -8005,6 +8041,12 @@
       "company": "United Placement Group",
       "key": "workable:unitedplacementgroup",
       "slug": "unitedplacementgroup"
+    },
+    {
+      "ats": "workable",
+      "company": "UpClear",
+      "key": "workable:upclear",
+      "slug": "upclear"
     },
     {
       "ats": "workable",
@@ -8902,6 +8944,15 @@
     },
     {
       "ats": "workday",
+      "company": "ETAP Software",
+      "host": "aveva.wd3.myworkdayjobs.com",
+      "key": "workday:aveva.wd3.myworkdayjobs.com:aveva:etap_careers",
+      "site": "ETAP_Careers",
+      "slug": "aveva",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
       "company": "Avis Budget Group",
       "host": "avisbudget.wd1.myworkdayjobs.com",
       "key": "workday:avisbudget.wd1.myworkdayjobs.com:avisbudget:abg_careers",
@@ -9717,6 +9768,15 @@
       "key": "workday:cccis.wd1.myworkdayjobs.com:cccis:broadbean_external",
       "site": "broadbean_external",
       "slug": "cccis",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Consumer Direct Care Network",
+      "host": "cdcn.wd1.myworkdayjobs.com",
+      "key": "workday:cdcn.wd1.myworkdayjobs.com:cdcn:external",
+      "site": "External",
+      "slug": "cdcn",
       "wd": "wd1"
     },
     {
@@ -12682,6 +12742,15 @@
     },
     {
       "ats": "workday",
+      "company": "Live Nation Entertainment",
+      "host": "livenation.wd503.myworkdayjobs.com",
+      "key": "workday:livenation.wd503.myworkdayjobs.com:livenation:lnexternalsite",
+      "site": "LNExternalSite",
+      "slug": "livenation",
+      "wd": "wd503"
+    },
+    {
+      "ats": "workday",
       "company": "LiveRamp",
       "host": "liveramp.wd5.myworkdayjobs.com",
       "key": "workday:liveramp.wd5.myworkdayjobs.com:liveramp:liverampcareers",
@@ -15592,7 +15661,7 @@
       "company": "TD Bank",
       "host": "td.wd3.myworkdayjobs.com",
       "key": "workday:td.wd3.myworkdayjobs.com:td:td_bank_careers",
-      "site": "td_bank_careers",
+      "site": "TD_Bank_Careers",
       "slug": "td",
       "wd": "wd3"
     },
@@ -15691,7 +15760,7 @@
       "company": "Tencent",
       "host": "tencent.wd1.myworkdayjobs.com",
       "key": "workday:tencent.wd1.myworkdayjobs.com:tencent:tencent_careers",
-      "site": "tencent_careers",
+      "site": "Tencent_Careers",
       "slug": "tencent",
       "wd": "wd1"
     },
