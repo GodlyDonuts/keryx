@@ -380,6 +380,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Commure",
+      "key": "ashby:commure-athelas",
+      "slug": "Commure-Athelas"
+    },
+    {
+      "ats": "ashby",
       "company": "Composio",
       "key": "ashby:composio",
       "slug": "composio"
@@ -6158,6 +6164,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Farm Credit of Florida",
+      "host": "eozs.fa.us6.oraclecloud.com",
+      "key": "oracle:eozs.fa.us6.oraclecloud.com:cx_34",
+      "site": "CX_34",
+      "slug": "eozs"
+    },
+    {
+      "ats": "oracle",
       "company": "Clean Harbors",
       "host": "epyc.fa.us2.oraclecloud.com",
       "key": "oracle:epyc.fa.us2.oraclecloud.com:clh-us",
@@ -8438,6 +8452,15 @@
       "site": "LMC",
       "slug": "agilitas",
       "wd": "wd503"
+    },
+    {
+      "ats": "workday",
+      "company": "Agropur",
+      "host": "agropur.wd3.myworkdayjobs.com",
+      "key": "workday:agropur.wd3.myworkdayjobs.com:agropur:agropur_careers",
+      "site": "Agropur_Careers",
+      "slug": "agropur",
+      "wd": "wd3"
     },
     {
       "ats": "workday",
@@ -11204,6 +11227,69 @@
     },
     {
       "ats": "workday",
+      "company": "FTI",
+      "host": "faithtechnologies.wd1.myworkdayjobs.com",
+      "key": "workday:faithtechnologies.wd1.myworkdayjobs.com:faithtechnologies:fti_apprentice",
+      "site": "FTI_Apprentice",
+      "slug": "faithtechnologies",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "FTI",
+      "host": "faithtechnologies.wd1.myworkdayjobs.com",
+      "key": "workday:faithtechnologies.wd1.myworkdayjobs.com:faithtechnologies:fti_electrician",
+      "site": "FTI_Electrician",
+      "slug": "faithtechnologies",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "FTI",
+      "host": "faithtechnologies.wd1.myworkdayjobs.com",
+      "key": "workday:faithtechnologies.wd1.myworkdayjobs.com:faithtechnologies:fti_engineering",
+      "site": "FTI_Engineering",
+      "slug": "faithtechnologies",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "FTI",
+      "host": "faithtechnologies.wd1.myworkdayjobs.com",
+      "key": "workday:faithtechnologies.wd1.myworkdayjobs.com:faithtechnologies:fti_intern",
+      "site": "FTI_Intern",
+      "slug": "faithtechnologies",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "FTI",
+      "host": "faithtechnologies.wd1.myworkdayjobs.com",
+      "key": "workday:faithtechnologies.wd1.myworkdayjobs.com:faithtechnologies:fti_manufacturing",
+      "site": "FTI_Manufacturing",
+      "slug": "faithtechnologies",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "FTI",
+      "host": "faithtechnologies.wd1.myworkdayjobs.com",
+      "key": "workday:faithtechnologies.wd1.myworkdayjobs.com:faithtechnologies:fti_office",
+      "site": "FTI_Office",
+      "slug": "faithtechnologies",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "FTI",
+      "host": "faithtechnologies.wd1.myworkdayjobs.com",
+      "key": "workday:faithtechnologies.wd1.myworkdayjobs.com:faithtechnologies:fti_pipefitter",
+      "site": "FTI_Pipefitter",
+      "slug": "faithtechnologies",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Fannie Mae",
       "host": "fanniemae.wd1.myworkdayjobs.com",
       "key": "workday:fanniemae.wd1.myworkdayjobs.com:fanniemae:fanniemaecareers",
@@ -11417,6 +11503,15 @@
       "site": "Fortune",
       "slug": "fortune",
       "wd": "wd108"
+    },
+    {
+      "ats": "workday",
+      "company": "Fragomen",
+      "host": "fragomen.wd115.myworkdayjobs.com",
+      "key": "workday:fragomen.wd115.myworkdayjobs.com:fragomen:fragomencareers",
+      "site": "FragomenCareers",
+      "slug": "fragomen",
+      "wd": "wd115"
     },
     {
       "ats": "workday",
@@ -16100,6 +16195,15 @@
     },
     {
       "ats": "workday",
+      "company": "Thrivent",
+      "host": "thrivent.wd5.myworkdayjobs.com",
+      "key": "workday:thrivent.wd5.myworkdayjobs.com:thrivent:external",
+      "site": "external",
+      "slug": "thrivent",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "thyssenkrupp",
       "host": "thyssenkruppmaterialsna.wd12.myworkdayjobs.com",
       "key": "workday:thyssenkruppmaterialsna.wd12.myworkdayjobs.com:thyssenkruppmaterialsna:1",
@@ -16925,6 +17029,14 @@
       "key": "workday:wd3.myworkdaysite.com:magna:magna",
       "site": "Magna",
       "slug": "magna"
+    },
+    {
+      "ats": "workday",
+      "company": "Mondel\u0113z International",
+      "host": "wd3.myworkdaysite.com",
+      "key": "workday:wd3.myworkdaysite.com:mdlz:external",
+      "site": "External",
+      "slug": "mdlz"
     },
     {
       "ats": "workday",
