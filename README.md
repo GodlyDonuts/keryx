@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**6,341 internships · 4,593 new-grad roles · 10,934 total openings**
+**6,330 internships · 4,589 new-grad roles · 10,919 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,967 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 511 | **[View openings →](internships/fall-2026.md)** |
+| ☀️ Summer 2027 | 2,976 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 507 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 348 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 117 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,398 | **[View openings →](internships/unscheduled.md)** |
+| ❄️ Winter 2027 | 118 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 2,381 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 974 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,220 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,399 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 965 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,215 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,409 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -64,12 +64,12 @@ Recent full-time opportunities that open the employer's application page directl
 | Acuity | Software Engineering Specialist - BUILD Leadership Program | Conyers, GA | Not listed | not available | 2026-09-12 | **[Apply →](https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Leadership-Program-GA-30012/1429302100/?ats=successfactors)**<br><sub>careers.acuityinc.com</sub> |
 | Acuity | Software Engineering Specialist - BUILD Leadership Program | Conyers, GA | Not listed | not available | 2026-09-12 | **[Apply →](https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Leadership-Program-GA-30012/1429301900/?ats=successfactors)**<br><sub>careers.acuityinc.com</sub> |
 | Acuity | Software Engineering Specialist - Growth & Transformation - BUILD Leadership Program | Atlanta, GA | Not listed | not available | 2026-09-12 | **[Apply →](https://careers.acuityinc.com/job/Atlanta-Specialist-Growth-&-Transformation-Software-Engineering-BUILD-Leadership-Program-GA-30309/1429282700/?ats=successfactors)**<br><sub>careers.acuityinc.com</sub> |
+| Amazon | Software Development Engineer - Early Career | Newark, NJ | 2027 | not available | 2026-09-12 | **[Apply →](https://www.amazon.jobs/jobs/10529830/apply)**<br><sub>www.amazon.jobs</sub> |
 | Amazon | Software Privacy Engineer - Multiple Teams | Bellevue, WA | Not listed | not available | 2026-09-12 | **[Apply →](https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa)**<br><sub>amazon.jobs</sub> |
 | Blue Cross Blue Shield of Arizona | EDI Technical Analyst - Claims | Phoenix, AZ | Not listed | not available | 2026-09-12 | **[Apply →](https://bcbsaz.wd1.myworkdayjobs.com/en-US/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/EDI-Technical-Analyst--Claims----Hybrid_R6244-1)**<br><sub>bcbsaz.wd1.myworkdayjobs.com</sub> |
 | Boeing | Associate/Experienced Software Engineer-Developer - Development | Kent, WA | 2027 | not available | 2026-09-12 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Kent-WA/Associate-Experienced-Software-Engineer-Developer--Development-_JR2026512185)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
-| Cornerstone Research | Analyst | United States | 2026 | not available | 2026-09-12 | **[Apply →](https://www.cornerstone.com/careers/#careers-apply-analyst)**<br><sub>www.cornerstone.com</sub> |
-| DiDi Global | Software Engineer - Planning Selection Autonomy | San Jose, CA | Not listed | not available | 2026-09-12 | **[Apply →](https://job-boards.greenhouse.io/didi/jobs/8198298)**<br><sub>job-boards.greenhouse.io</sub> |
-| Klaviyo | Software Engineer 1 | Boston, MA | Not listed | not available | 2026-09-12 | **[Apply →](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003)**<br><sub>job-boards.greenhouse.io</sub> |
+| Charles Schwab | Full Stack Developer | Southlake, TX | 2027 | not available | 2026-09-12 | **[Apply →](https://career-schwab.icims.com/jobs/126713/full-stack-developer/job)**<br><sub>career-schwab.icims.com</sub> |
+| Clera | Founding Engineer - Full Stack | San Francisco, CA | 2027 | not available | 2026-09-12 | **[Apply →](https://jobs.ashbyhq.com/clera/cea943d6-817f-441c-baa1-d295916ace46)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

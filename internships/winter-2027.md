@@ -4,10 +4,11 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**117 open roles**
+**118 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
+| Cohere | Software Engineer Intern (Winter 2027) | United States | not available<br><sub>posting text not indexed</sub> | 2026-09-12 | [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a559a6c13cd7d29d5e32d4b?utm_campaign=1079&utm_source=git)<br><sub>discovery listing</sub> |
 | Cone Health | Healthcare Innovation Intern - AI | Greensboro, NC | not available<br><sub>posting text not indexed</sub> | 2026-09-11 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · careers.conehealth.com](https://careers.conehealth.com/us/en/job/JR155166)<br><sub>source reported</sub> |
 | Cone Health | Healthcare Innovation Intern - AI | Salt Lake City, UT | not available<br><sub>posting text not indexed</sub> | 2026-09-11 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · conehealth.wd12.myworkdayjobs.com](https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/White-Box/Healthcare-Innovation--AI--Intern_JR155166)<br><sub>recognized recruiting platform</sub> |
 | PACCAR | 2027 Winter Internship - Cloud Engineer Intern | Renton, WA, United States | not available<br><sub>posting text not indexed</sub> | 2026-09-11 | [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6aa4988c422289703bd6739d?utm_campaign=1079&utm_source=git)<br><sub>discovery listing</sub> |
