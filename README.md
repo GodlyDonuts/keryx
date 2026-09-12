@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**6,392 internships · 4,607 new-grad roles · 10,999 total openings**
+**6,351 internships · 4,585 new-grad roles · 10,936 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,951 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 511 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 352 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 117 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,461 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 2,957 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 509 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 351 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 115 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 2,419 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 995 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,204 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,408 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 963 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,207 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,415 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Accelleron | Engineering Internship | USA: Miramar, FL | Not listed | not available | 2026-09-12 | **[Apply →](https://accelleron.wd3.myworkdayjobs.com/Accelleron/job/USA-Miramar-FL/Engineering-Internship_JR102300)**<br><sub>accelleron.wd3.myworkdayjobs.com</sub> |
+| AnaVation | Computer Science Internship Summer 2027 | Chantilly, VA | Summer 2027 | Expected May 2028 graduation<br><sub>stated</sub> | 2026-09-12 | **[Apply →](https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7)**<br><sub>jobs.lever.co</sub> |
+| Arconic | Electrical Engineer- Co-op | Davenport, IA, United States | Not listed | May 2027–Jun 2029<br><sub>preferred / required</sub> | 2026-09-12 | **[Apply →](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113826)**<br><sub>hdnn.fa.us6.oraclecloud.com</sub> |
+| Arconic | Mechanical Engineer - Co-op | Davenport, IA, United States | Not listed | May 2027–Jun 2029<br><sub>preferred / required</sub> | 2026-09-12 | **[Apply →](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113827)**<br><sub>hdnn.fa.us6.oraclecloud.com</sub> |
 | AtkinsRéalis | Construction Engineering Intern - Summer 2027 | US.TX.Austin.11801 Domain Blvd | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://slihrms.wd3.myworkdayjobs.com/careers/job/USTXAustin11801-Domain-Blvd/Construction-Engineering-Intern---Summer-2027_R-163486-1)**<br><sub>slihrms.wd3.myworkdayjobs.com</sub> |
 | Constellation Energy | Information Technology Software Development Intern | Baltimore, MD | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://jobs.constellationenergy.com/jobs/138708?icims=1)**<br><sub>jobs.constellationenergy.com</sub> |
 | Constellation Energy | IT Data Engineering Intern | Baltimore, MD | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://jobs.constellationenergy.com/jobs/138716?icims=1)**<br><sub>jobs.constellationenergy.com</sub> |
+| Diamondback Energy | Summer 2027 Engineering Intern | Midland, TX | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://diamondbackenergy.wd12.myworkdayjobs.com/DBE/job/Midland-TX/Summer-2027-Engineering-Intern_R100824)**<br><sub>diamondbackenergy.wd12.myworkdayjobs.com</sub> |
+| Elanco | Manufacturing Scientist/Technical Services Intern – Elanco Technology Center (Summer 2027) | Indianapolis, IN | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Manufacturing-Scientist-Technical-Services-Intern---Elanco-Technology-Center--Summer-2027-_R0026897)**<br><sub>elanco.wd5.myworkdayjobs.com</sub> |
 | Energy Transfer Partners | Commodity Trading Analyst Intern | Overland Park, KS | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003520)**<br><sub>energytransfer.taleo.net</sub> |
 | GE Vernova | GE Vernova Nuclear Engineering Co-Op/Intern - Spring 2027 | Wilmington NC USA | Spring 2027 | not available | 2026-09-12 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Engineering-Co-Op-Intern---Spring-2027_R5048552-1)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
 | Intel | Module Engineering PhD Intern 2027 | US, Oregon, Hillsboro | Not listed | not available | 2026-09-12 | **[Apply →](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-2027_JR0286876)**<br><sub>intel.wd1.myworkdayjobs.com</sub> |
-| Klaviyo | Software Engineer Co-op (Spring 2027) | Boston, MA | Spring 2027 | Dec 2027–Jun 2028<br><sub>stated</sub> | 2026-09-12 | **[Apply →](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003)**<br><sub>job-boards.greenhouse.io</sub> |
-| Kulicke & Soffa | Intern, BB Process Engineering | Fort Washington, PA, United States | Not listed | not stated | 2026-09-12 | **[Apply →](https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11659)**<br><sub>etyy.fa.ap2.oraclecloud.com</sub> |
-| Kulicke & Soffa | Intern, Software Engineering | Fort Washington, PA, United States | Not listed | not stated | 2026-09-12 | **[Apply →](https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11649)**<br><sub>etyy.fa.ap2.oraclecloud.com</sub> |
-| LabCorp | Intern - Research & Development - Molecular Assay Development | San Francisco CA | Not listed | not available | 2026-09-12 | **[Apply →](https://labcorp.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/Intern---Research---Development---Molecular-Assay-Development_2630998)**<br><sub>labcorp.wd1.myworkdayjobs.com</sub> |
-| LabCorp | Intern - Research and Development - Oncology | Durham NC | Not listed | not available | 2026-09-12 | **[Apply →](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Research-and-Development---Oncology_2630921)**<br><sub>labcorp.wd1.myworkdayjobs.com</sub> |
-| LabCorp | Intern- Immunology Lab Research Assistant | Burlington NC | Not listed | not available | 2026-09-12 | **[Apply →](https://labcorp.wd1.myworkdayjobs.com/external/job/Burlington-NC/Intern--Immunology-Lab-Research-Assistant_2631589)**<br><sub>labcorp.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -69,7 +69,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Boeing | Associate/Experienced Software Engineer-Developer - Development | Kent, WA | 2027 | not available | 2026-09-12 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Kent-WA/Associate-Experienced-Software-Engineer-Developer--Development-_JR2026512185)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
 | Cornerstone Research | Analyst | United States | 2026 | not available | 2026-09-12 | **[Apply →](https://www.cornerstone.com/careers/#careers-apply-analyst)**<br><sub>www.cornerstone.com</sub> |
 | DiDi Global | Software Engineer - Planning Selection Autonomy | San Jose, CA | Not listed | not available | 2026-09-12 | **[Apply →](https://job-boards.greenhouse.io/didi/jobs/8198298)**<br><sub>job-boards.greenhouse.io</sub> |
-| Parsons | Software Engineer - Secret required | Aberdeen, MD | 2027 | not available | 2026-09-12 | **[Apply →](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Aberdeen/Software-Engineer---Secret-required_R184134)**<br><sub>parsons.wd5.myworkdayjobs.com</sub> |
+| Klaviyo | Software Engineer 1 | Boston, MA | Not listed | not available | 2026-09-12 | **[Apply →](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

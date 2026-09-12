@@ -4221,6 +4221,13 @@
       "url": "https://www.aermor.com/"
     },
     {
+      "company": "Klaviyo",
+      "error": "Invalid IPv6 URL",
+      "key": "2730ebdaa3e210e28c3c9f66",
+      "last_scanned": "2026-09-12",
+      "url": "https://www.klaviyo.com/"
+    },
+    {
       "boards": [],
       "company": "Summit TRC",
       "key": "27502112985abc22dd4fe164",
@@ -4725,7 +4732,7 @@
       ],
       "company": "Diamondback Energy",
       "key": "2c646f697a853e212d0db5b5",
-      "last_scanned": "2026-08-21",
+      "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://www.diamondbackenergy.com/"
     },
@@ -10835,7 +10842,7 @@
       "boards": [],
       "company": "Hitachi Energy",
       "key": "5eb84e283befa4fb670ea267",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://www.hitachienergy.com/in/en"
     },
@@ -13160,7 +13167,7 @@
       ],
       "company": "Bestow",
       "key": "72b09936a62b2f994931bc3a",
-      "last_scanned": "2026-08-29",
+      "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://www.bestow.com/"
     },
@@ -15161,7 +15168,7 @@
       ],
       "company": "iCrossing",
       "key": "83bd424025dc14a31b8d4210",
-      "last_scanned": "2026-09-04",
+      "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://www.icrossing.com/"
     },
@@ -15489,8 +15496,9 @@
     {
       "boards": [],
       "company": "Voloridge Investment Management, LLC",
+      "error": "public request failed for https://www.voloridge.com/index.aspx: HTTP Error 404: Not Found",
       "key": "86952ee27c8c121b726d7b69",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://www.voloridge.com/index.aspx"
     },
@@ -17291,6 +17299,13 @@
       "last_scanned": "2026-09-09",
       "resolved_roles": 0,
       "url": "https://dohertyinc.com/"
+    },
+    {
+      "company": "Ecolab",
+      "error": "public request failed for https://www.ecolab.com/: HTTP Error 403: Forbidden",
+      "key": "95da70e71daa350684db649d",
+      "last_scanned": "2026-09-12",
+      "url": "https://ecolab.com/"
     },
     {
       "boards": [],
@@ -20286,6 +20301,14 @@
     },
     {
       "boards": [],
+      "company": "Ghafari Associates",
+      "key": "b006ea860362d952e5c1ba81",
+      "last_scanned": "2026-09-12",
+      "resolved_roles": 0,
+      "url": "https://www.ghafari.com/"
+    },
+    {
+      "boards": [],
       "company": "Everlaw",
       "key": "b029b7303c437dd368d3a9a6",
       "last_scanned": "2026-09-07",
@@ -21392,6 +21415,14 @@
     },
     {
       "boards": [],
+      "company": "BCT LLC",
+      "key": "ba6ca51afbaeeafae620ec45",
+      "last_scanned": "2026-09-12",
+      "resolved_roles": 0,
+      "url": "https://www.bct-llc.com/"
+    },
+    {
+      "boards": [],
       "company": "Charleston County School District",
       "key": "ba7738bbc7ef83665e12b2e0",
       "last_scanned": "2026-09-09",
@@ -22175,7 +22206,7 @@
       "boards": [],
       "company": "DC INFOTECH CLOUD SOLUTIONS",
       "key": "c0b702b4ed9674947fdafbe0",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://dcinfotech.org.in/"
     },
@@ -23007,7 +23038,7 @@
       ],
       "company": "Zello",
       "key": "c7f5d625ed7ba81f9623578b",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://zello.com/"
     },
@@ -23158,7 +23189,7 @@
       "boards": [],
       "company": "igus Inc.",
       "key": "c92a1d16d19b880ef3d122f8",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://www.igus.com/"
     },
@@ -23490,7 +23521,7 @@
       ],
       "company": "Weave",
       "key": "cbd2a6ad7bce3f79c9927fec",
-      "last_scanned": "2026-08-21",
+      "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://www.getweave.com/"
     },
@@ -24828,6 +24859,14 @@
       "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://www.agtegra.com/"
+    },
+    {
+      "boards": [],
+      "company": "Uline",
+      "key": "d5cbdd82425a73fad7b74f71",
+      "last_scanned": "2026-09-12",
+      "resolved_roles": 0,
+      "url": "https://www.uline.com/"
     },
     {
       "boards": [],
@@ -27818,7 +27857,7 @@
       ],
       "company": "Accelleron",
       "key": "eec15f8c703a5b4f92ac42db",
-      "last_scanned": "2026-08-21",
+      "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://accelleron-industries.com/"
     },
@@ -27853,7 +27892,7 @@
       "company": "City Year",
       "error": "public request failed for https://www.cityyear.org/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
       "key": "eee58aef50989c18febcd9d0",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-09-12",
       "url": "https://www.cityyear.org/"
     },
     {
@@ -28114,7 +28153,7 @@
       "boards": [],
       "company": "Brunswick Corporation",
       "key": "f07caa6a30f10c2ee52155c4",
-      "last_scanned": "2026-09-05",
+      "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://www.brunswick.com/"
     },
