@@ -800,6 +800,12 @@
     },
     {
       "ats": "ashby",
+      "company": "ibotta",
+      "key": "ashby:ibotta",
+      "slug": "ibotta"
+    },
+    {
+      "ats": "ashby",
       "company": "Inclined Technologies",
       "key": "ashby:inclined",
       "slug": "Inclined"
@@ -1037,6 +1043,12 @@
       "company": "Maxinsights",
       "key": "ashby:maxinsights",
       "slug": "maxinsights"
+    },
+    {
+      "ats": "ashby",
+      "company": "MegazoneCloud",
+      "key": "ashby:megazone",
+      "slug": "megazone"
     },
     {
       "ats": "ashby",
@@ -3680,6 +3692,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "OneImaging",
+      "key": "greenhouse:oneimaging",
+      "slug": "oneimaging"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Orbital Operations",
       "key": "greenhouse:orbitaloperations",
       "slug": "orbitaloperations"
@@ -4397,6 +4415,12 @@
       "company": "Vast",
       "key": "greenhouse:vast",
       "slug": "vast"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Veeam Software",
+      "key": "greenhouse:veeamsoftware",
+      "slug": "veeamsoftware"
     },
     {
       "ats": "greenhouse",
@@ -6854,6 +6878,12 @@
     },
     {
       "ats": "smartrecruiters",
+      "company": "Achieve",
+      "key": "smartrecruiters:achieve1",
+      "slug": "Achieve1"
+    },
+    {
+      "ats": "smartrecruiters",
       "company": "Acumatica",
       "key": "smartrecruiters:acumatica",
       "slug": "Acumatica"
@@ -7217,6 +7247,12 @@
       "company": "Mesotech International",
       "key": "smartrecruiters:mesotechinternationalinc",
       "slug": "MesotechInternationalInc"
+    },
+    {
+      "ats": "smartrecruiters",
+      "company": "Mirantis",
+      "key": "smartrecruiters:mirantis",
+      "slug": "Mirantis"
     },
     {
       "ats": "smartrecruiters",
@@ -8339,6 +8375,33 @@
       "site": "external",
       "slug": "aero",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "The AES Corporation",
+      "host": "aes.wd1.myworkdayjobs.com",
+      "key": "workday:aes.wd1.myworkdayjobs.com:aes:aes_andes",
+      "site": "AES_Andes",
+      "slug": "aes",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "The AES Corporation",
+      "host": "aes.wd1.myworkdayjobs.com",
+      "key": "workday:aes.wd1.myworkdayjobs.com:aes:aes_mcac",
+      "site": "AES_MCAC",
+      "slug": "aes",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "AES",
+      "host": "aes.wd1.myworkdayjobs.com",
+      "key": "workday:aes.wd1.myworkdayjobs.com:aes:aes_us",
+      "site": "AES_US",
+      "slug": "aes",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -10277,6 +10340,15 @@
     },
     {
       "ats": "workday",
+      "company": "Cone Health",
+      "host": "conehealth.wd12.myworkdayjobs.com",
+      "key": "workday:conehealth.wd12.myworkdayjobs.com:conehealth:cone_health-careers",
+      "site": "cone_health-careers",
+      "slug": "conehealth",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
       "company": "ZT Systems",
       "host": "connect.wd1.myworkdayjobs.com",
       "key": "workday:connect.wd1.myworkdayjobs.com:connect:ztsystemscareers",
@@ -11228,6 +11300,15 @@
       "site": "first_orion",
       "slug": "firstorion",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Fidelity National Information Services",
+      "host": "fis.wd5.myworkdayjobs.com",
+      "key": "workday:fis.wd5.myworkdayjobs.com:fis:searchjobs",
+      "site": "searchjobs",
+      "slug": "fis",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
