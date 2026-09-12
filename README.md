@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**6,337 internships · 4,333 new-grad roles · 10,670 total openings**
+**6,392 internships · 4,607 new-grad roles · 10,999 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,970 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 2,951 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 511 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 350 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 116 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,390 | **[View openings →](internships/unscheduled.md)** |
+| 🌱 Spring 2027 | 352 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 117 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 2,461 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 965 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 973 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,395 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 995 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,204 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,408 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -41,14 +41,14 @@ Recent internship and co-op listings that open the employer's application page d
 | Constellation Energy | Information Technology Software Development Intern | Baltimore, MD | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://jobs.constellationenergy.com/jobs/138708?icims=1)**<br><sub>jobs.constellationenergy.com</sub> |
 | Constellation Energy | IT Data Engineering Intern | Baltimore, MD | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://jobs.constellationenergy.com/jobs/138716?icims=1)**<br><sub>jobs.constellationenergy.com</sub> |
 | Energy Transfer Partners | Commodity Trading Analyst Intern | Overland Park, KS | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003520)**<br><sub>energytransfer.taleo.net</sub> |
+| GE Vernova | GE Vernova Nuclear Engineering Co-Op/Intern - Spring 2027 | Wilmington NC USA | Spring 2027 | not available | 2026-09-12 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Engineering-Co-Op-Intern---Spring-2027_R5048552-1)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
+| Intel | Module Engineering PhD Intern 2027 | US, Oregon, Hillsboro | Not listed | not available | 2026-09-12 | **[Apply →](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-2027_JR0286876)**<br><sub>intel.wd1.myworkdayjobs.com</sub> |
+| Klaviyo | Software Engineer Co-op (Spring 2027) | Boston, MA | Spring 2027 | Dec 2027–Jun 2028<br><sub>stated</sub> | 2026-09-12 | **[Apply →](https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003)**<br><sub>job-boards.greenhouse.io</sub> |
 | Kulicke & Soffa | Intern, BB Process Engineering | Fort Washington, PA, United States | Not listed | not stated | 2026-09-12 | **[Apply →](https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11659)**<br><sub>etyy.fa.ap2.oraclecloud.com</sub> |
 | Kulicke & Soffa | Intern, Software Engineering | Fort Washington, PA, United States | Not listed | not stated | 2026-09-12 | **[Apply →](https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11649)**<br><sub>etyy.fa.ap2.oraclecloud.com</sub> |
-| LabCorp | Intern - Diagnostics Research Assays | Calabasas Hills CA | Not listed | not available | 2026-09-12 | **[Apply →](https://labcorp.wd1.myworkdayjobs.com/external/job/Calabasas-Hills-CA/Intern---Diagnostics-Research-Assays_2631095)**<br><sub>labcorp.wd1.myworkdayjobs.com</sub> |
-| LabCorp | Intern - Quality Engineer - Oncology | Baltimore MD | Not listed | not available | 2026-09-12 | **[Apply →](https://labcorp.wd1.myworkdayjobs.com/external/job/Baltimore-MD/Intern---Quality-Engineer_2630918)**<br><sub>labcorp.wd1.myworkdayjobs.com</sub> |
-| LabCorp | Intern - Research & Development - Noninvasive Prenatal Diagnostics | San Diego CA | Not listed | not available | 2026-09-12 | **[Apply →](https://labcorp.wd1.myworkdayjobs.com/external/job/San-Diego-CA/Intern---Research---Development---Noninvasive-Prenatal-Diagnostics_2631120)**<br><sub>labcorp.wd1.myworkdayjobs.com</sub> |
-| LabCorp | Intern - Research and Development - Molecular Genetics | Durham NC | Not listed | not available | 2026-09-12 | **[Apply →](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Research-and-Development---Molecular-Genetics_2630075-1)**<br><sub>labcorp.wd1.myworkdayjobs.com</sub> |
-| Micron Technology | Intern - Photomask Wet Process Engineering | Boise, ID - Main Site | Not listed | not available | 2026-09-12 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Photomask-Wet-Process-Engineering_JR108464)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
-| Micron Technology | Intern - Yield Technology Equipment | Boise, ID - Main Site | Not listed | not available | 2026-09-12 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Yield-Technology-Equipment_JR109069)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
+| LabCorp | Intern - Research & Development - Molecular Assay Development | San Francisco CA | Not listed | not available | 2026-09-12 | **[Apply →](https://labcorp.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/Intern---Research---Development---Molecular-Assay-Development_2630998)**<br><sub>labcorp.wd1.myworkdayjobs.com</sub> |
+| LabCorp | Intern - Research and Development - Oncology | Durham NC | Not listed | not available | 2026-09-12 | **[Apply →](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Research-and-Development---Oncology_2630921)**<br><sub>labcorp.wd1.myworkdayjobs.com</sub> |
+| LabCorp | Intern- Immunology Lab Research Assistant | Burlington NC | Not listed | not available | 2026-09-12 | **[Apply →](https://labcorp.wd1.myworkdayjobs.com/external/job/Burlington-NC/Intern--Immunology-Lab-Research-Assistant_2631589)**<br><sub>labcorp.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -65,11 +65,11 @@ Recent full-time opportunities that open the employer's application page directl
 | Acuity | Software Engineering Specialist - BUILD Leadership Program | Conyers, GA | Not listed | not available | 2026-09-12 | **[Apply →](https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Leadership-Program-GA-30012/1429301900/?ats=successfactors)**<br><sub>careers.acuityinc.com</sub> |
 | Acuity | Software Engineering Specialist - Growth & Transformation - BUILD Leadership Program | Atlanta, GA | Not listed | not available | 2026-09-12 | **[Apply →](https://careers.acuityinc.com/job/Atlanta-Specialist-Growth-&-Transformation-Software-Engineering-BUILD-Leadership-Program-GA-30309/1429282700/?ats=successfactors)**<br><sub>careers.acuityinc.com</sub> |
 | Amazon | Software Privacy Engineer - Multiple Teams | Bellevue, WA | Not listed | not available | 2026-09-12 | **[Apply →](https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa)**<br><sub>amazon.jobs</sub> |
+| Blue Cross Blue Shield of Arizona | EDI Technical Analyst - Claims | Phoenix, AZ | Not listed | not available | 2026-09-12 | **[Apply →](https://bcbsaz.wd1.myworkdayjobs.com/en-US/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/EDI-Technical-Analyst--Claims----Hybrid_R6244-1)**<br><sub>bcbsaz.wd1.myworkdayjobs.com</sub> |
+| Boeing | Associate/Experienced Software Engineer-Developer - Development | Kent, WA | 2027 | not available | 2026-09-12 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Kent-WA/Associate-Experienced-Software-Engineer-Developer--Development-_JR2026512185)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
+| Cornerstone Research | Analyst | United States | 2026 | not available | 2026-09-12 | **[Apply →](https://www.cornerstone.com/careers/#careers-apply-analyst)**<br><sub>www.cornerstone.com</sub> |
 | DiDi Global | Software Engineer - Planning Selection Autonomy | San Jose, CA | Not listed | not available | 2026-09-12 | **[Apply →](https://job-boards.greenhouse.io/didi/jobs/8198298)**<br><sub>job-boards.greenhouse.io</sub> |
 | Parsons | Software Engineer - Secret required | Aberdeen, MD | 2027 | not available | 2026-09-12 | **[Apply →](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Aberdeen/Software-Engineer---Secret-required_R184134)**<br><sub>parsons.wd5.myworkdayjobs.com</sub> |
-| Retell AI | Forward Deployed Engineer New Grad | Redwood City, CA | Not listed | not available | 2026-09-12 | **[Apply →](https://jobs.ashbyhq.com/retell-ai/161bcfc9-56dd-4d0c-869d-e5de1431a940/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Achieve | Associate AI Solutions Engineer | Tempe, AZ | Not listed | not available | 2026-09-11 | **[Apply →](https://jobs.smartrecruiters.com/Achieve1/3743990015218506)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Acuity | Firmware Engineer Specialist - BUILD Leadership Program | Atlanta, GA | Not listed | not available | 2026-09-11 | **[Apply →](https://careers.acuityinc.com/job/Atlanta-Specialist-Firmware-Engineering-BUILD-Leadership-Program-GA-30309/1428876800/?ats=successfactors)**<br><sub>careers.acuityinc.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

@@ -1076,7 +1076,7 @@
       ],
       "company": "Pylon",
       "key": "0a3f85b082af455d58ab1ac5",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://www.usepylon.com/"
     },
@@ -1947,6 +1947,13 @@
       "url": "https://gdmissionsystems.ca/"
     },
     {
+      "company": "Kaiser Permanente",
+      "error": "too many public redirects: https://healthy.kaiserpermanente.org/",
+      "key": "1179036c3bc29c6576f52cf2",
+      "last_scanned": "2026-09-12",
+      "url": "https://healthy.kaiserpermanente.org/"
+    },
+    {
       "boards": [
         "lever:extremenetworks"
       ],
@@ -2104,7 +2111,7 @@
       "company": "Acosta",
       "error": "public request failed for https://www.acosta.com/Home.aspx: HTTP Error 404: Not Found",
       "key": "129351d34458837e7052c9d6",
-      "last_scanned": "2026-09-10",
+      "last_scanned": "2026-09-12",
       "url": "https://www.acosta.com/Home.aspx"
     },
     {
@@ -5779,6 +5786,14 @@
       "url": "https://www.loves.com/"
     },
     {
+      "boards": [],
+      "company": "Kingland",
+      "key": "344d4fca9e8046a40492900d",
+      "last_scanned": "2026-09-12",
+      "resolved_roles": 0,
+      "url": "https://kingland.com/"
+    },
+    {
       "boards": [
         "greenhouse:mill"
       ],
@@ -7523,7 +7538,7 @@
       "boards": [],
       "company": "Northwestern University",
       "key": "441aa302ff60a0f66165c859",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://www.northwestern.edu/"
     },
@@ -13726,7 +13741,7 @@
       ],
       "company": "Vertiv",
       "key": "772d8e8d47102a396c5bc5c1",
-      "last_scanned": "2026-09-05",
+      "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://www.Vertiv.com/"
     },
@@ -15429,7 +15444,7 @@
       "boards": [],
       "company": "Two Chairs",
       "key": "85e3594ea811b27f03a6cc81",
-      "last_scanned": "2026-09-04",
+      "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://www.twochairs.com/"
     },
@@ -16073,7 +16088,7 @@
       "company": "DV Trading A/S",
       "error": "public requests require HTTPS and a hostname",
       "key": "8aba020e11e277c75eff0594",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-09-12",
       "url": "https://www.dvtrading.com/"
     },
     {
@@ -16335,6 +16350,13 @@
       "url": "https://intercotradingco.com/"
     },
     {
+      "company": "Tesla",
+      "error": "public request failed for https://tesla.com/: HTTP Error 403: Forbidden",
+      "key": "8d1faff29ee2be55ea913a9e",
+      "last_scanned": "2026-09-12",
+      "url": "https://tesla.com/"
+    },
+    {
       "boards": [],
       "company": "Daikin Austria",
       "key": "8d34d588aa1c0a42f9ad918d",
@@ -16358,6 +16380,14 @@
       "last_scanned": "2026-08-18",
       "resolved_roles": 0,
       "url": "https://www.sherwin-williams.com/"
+    },
+    {
+      "boards": [],
+      "company": "Indotronix",
+      "key": "8d5ca46f6c04122b4782ac90",
+      "last_scanned": "2026-09-12",
+      "resolved_roles": 0,
+      "url": "https://www.iic.com/"
     },
     {
       "company": "Abercrombie & Fitch Co.",
@@ -17761,7 +17791,7 @@
       "boards": [],
       "company": "B. Braun Medical Inc. (US)",
       "key": "9b3127384be64cf90663a2a5",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://www.bbraunusa.com/"
     },
@@ -18857,6 +18887,14 @@
     },
     {
       "boards": [],
+      "company": "PathAI",
+      "key": "a3f9e381ae0a3c3eba799984",
+      "last_scanned": "2026-09-12",
+      "resolved_roles": 0,
+      "url": "https://www.pathai.com/"
+    },
+    {
+      "boards": [],
       "company": "Winchester Ammunition",
       "key": "a4185ab6a9baf9cda07ef48c",
       "last_scanned": "2026-09-04",
@@ -19653,7 +19691,7 @@
       "boards": [],
       "company": "CALSTART",
       "key": "aabc57e4f50170aefba2d98d",
-      "last_scanned": "2026-08-21",
+      "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://www.calstart.org/"
     },
@@ -20697,7 +20735,7 @@
       "boards": [],
       "company": "New York Life",
       "key": "b494332ac5eb1f5c95512e77",
-      "last_scanned": "2026-08-29",
+      "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://www.newyorklife.com/"
     },
@@ -23228,7 +23266,7 @@
       "boards": [],
       "company": "iCapital",
       "key": "ca080f1af40114d381d3bcc9",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://icapital.com/"
     },
@@ -24072,7 +24110,7 @@
       "boards": [],
       "company": "Advanced Energy",
       "key": "d087573e05d843a0b24efb09",
-      "last_scanned": "2026-08-29",
+      "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://www.advancedenergy.com/"
     },
@@ -26683,8 +26721,8 @@
       ],
       "company": "Cornerstone Research",
       "key": "e6a4695df787cfa569d13439",
-      "last_scanned": "2026-08-30",
-      "resolved_roles": 0,
+      "last_scanned": "2026-09-12",
+      "resolved_roles": 1,
       "url": "https://www.cornerstone.com/"
     },
     {
@@ -28574,7 +28612,7 @@
       "company": "Hasana, Inc.",
       "error": "public request failed for https://shophasana.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
       "key": "f41bc632df0b0a99b7efa38a",
-      "last_scanned": "2026-09-07",
+      "last_scanned": "2026-09-12",
       "url": "https://shophasana.com/"
     },
     {
@@ -28701,7 +28739,7 @@
       "boards": [],
       "company": "The Timken Company",
       "key": "f5714a4488adcfa3389c2043",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://www.timken.com/"
     },

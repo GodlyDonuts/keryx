@@ -2162,6 +2162,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Adyen",
+      "key": "greenhouse:adyen",
+      "slug": "adyen"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Aechelon Technology Inc.",
       "key": "greenhouse:aechelontechnology",
       "slug": "aechelontechnology"
@@ -3425,6 +3431,12 @@
       "company": "KHAITE",
       "key": "greenhouse:khaite",
       "slug": "khaite"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Klaviyo",
+      "key": "greenhouse:klaviyocampus",
+      "slug": "klaviyocampus"
     },
     {
       "ats": "greenhouse",
@@ -5111,6 +5123,12 @@
       "company": "Milltown Partners",
       "key": "lever:milltownpartners",
       "slug": "milltownpartners"
+    },
+    {
+      "ats": "lever",
+      "company": "Modern Intelligence",
+      "key": "lever:modernintelligence",
+      "slug": "ModernIntelligence"
     },
     {
       "ats": "lever",
@@ -17114,6 +17132,15 @@
       "key": "workday:wd5.myworkdaysite.com:westernalliancebank:wab",
       "site": "WAB",
       "slug": "westernalliancebank"
+    },
+    {
+      "ats": "workday",
+      "company": "Newfold Digital",
+      "host": "web.wd1.myworkdayjobs.com",
+      "key": "workday:web.wd1.myworkdayjobs.com:web:externalcareersite",
+      "site": "externalcareersite",
+      "slug": "web",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
