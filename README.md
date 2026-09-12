@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**6,351 internships · 4,585 new-grad roles · 10,936 total openings**
+**6,341 internships · 4,593 new-grad roles · 10,934 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,957 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 509 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 351 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 115 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,419 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 2,967 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 511 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 348 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 117 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 2,398 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 963 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,207 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,415 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 974 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,220 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,399 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Abridge | Software Engineer - Intern | San Francisco, CA | Not listed | not available | 2026-09-12 | **[Apply →](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883)**<br><sub>jobs.ashbyhq.com</sub> |
 | Accelleron | Engineering Internship | USA: Miramar, FL | Not listed | not available | 2026-09-12 | **[Apply →](https://accelleron.wd3.myworkdayjobs.com/Accelleron/job/USA-Miramar-FL/Engineering-Internship_JR102300)**<br><sub>accelleron.wd3.myworkdayjobs.com</sub> |
+| Amgen | Grad Intern - Operations - Engineering (Summer 2027) | US - California - Thousand Oaks | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
+| Amgen | Undergrad Intern - Operations – Engineering (Summer 2027) | US - California - Thousand Oaks | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Engineering--Summer-2027-_R-255335)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
 | AnaVation | Computer Science Internship Summer 2027 | Chantilly, VA | Summer 2027 | Expected May 2028 graduation<br><sub>stated</sub> | 2026-09-12 | **[Apply →](https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7)**<br><sub>jobs.lever.co</sub> |
 | Arconic | Electrical Engineer- Co-op | Davenport, IA, United States | Not listed | May 2027–Jun 2029<br><sub>preferred / required</sub> | 2026-09-12 | **[Apply →](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113826)**<br><sub>hdnn.fa.us6.oraclecloud.com</sub> |
 | Arconic | Mechanical Engineer - Co-op | Davenport, IA, United States | Not listed | May 2027–Jun 2029<br><sub>preferred / required</sub> | 2026-09-12 | **[Apply →](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113827)**<br><sub>hdnn.fa.us6.oraclecloud.com</sub> |
 | AtkinsRéalis | Construction Engineering Intern - Summer 2027 | US.TX.Austin.11801 Domain Blvd | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://slihrms.wd3.myworkdayjobs.com/careers/job/USTXAustin11801-Domain-Blvd/Construction-Engineering-Intern---Summer-2027_R-163486-1)**<br><sub>slihrms.wd3.myworkdayjobs.com</sub> |
+| BRG | Chicago Office Health Analytics Practice Intern | Chicago, IL | Not listed | not available | 2026-09-12 | **[Apply →](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039)**<br><sub>thinkbrg.wd5.myworkdayjobs.com</sub> |
 | Constellation Energy | Information Technology Software Development Intern | Baltimore, MD | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://jobs.constellationenergy.com/jobs/138708?icims=1)**<br><sub>jobs.constellationenergy.com</sub> |
 | Constellation Energy | IT Data Engineering Intern | Baltimore, MD | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://jobs.constellationenergy.com/jobs/138716?icims=1)**<br><sub>jobs.constellationenergy.com</sub> |
-| Diamondback Energy | Summer 2027 Engineering Intern | Midland, TX | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://diamondbackenergy.wd12.myworkdayjobs.com/DBE/job/Midland-TX/Summer-2027-Engineering-Intern_R100824)**<br><sub>diamondbackenergy.wd12.myworkdayjobs.com</sub> |
-| Elanco | Manufacturing Scientist/Technical Services Intern – Elanco Technology Center (Summer 2027) | Indianapolis, IN | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Manufacturing-Scientist-Technical-Services-Intern---Elanco-Technology-Center--Summer-2027-_R0026897)**<br><sub>elanco.wd5.myworkdayjobs.com</sub> |
-| Energy Transfer Partners | Commodity Trading Analyst Intern | Overland Park, KS | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003520)**<br><sub>energytransfer.taleo.net</sub> |
-| GE Vernova | GE Vernova Nuclear Engineering Co-Op/Intern - Spring 2027 | Wilmington NC USA | Spring 2027 | not available | 2026-09-12 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Engineering-Co-Op-Intern---Spring-2027_R5048552-1)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
-| Intel | Module Engineering PhD Intern 2027 | US, Oregon, Hillsboro | Not listed | not available | 2026-09-12 | **[Apply →](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-2027_JR0286876)**<br><sub>intel.wd1.myworkdayjobs.com</sub> |
+| Copart | QA Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-09-12 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/QA-Engineering-Intern_JR109671)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
