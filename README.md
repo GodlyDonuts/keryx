@@ -9,24 +9,24 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**6,303 internships · 4,606 new-grad roles · 10,909 total openings**
+**6,381 internships · 4,585 new-grad roles · 10,966 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,942 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 2,938 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 502 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 352 | **[View openings →](internships/spring-2027.md)** |
+| 🌱 Spring 2027 | 351 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 120 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,387 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 2,470 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 961 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,248 | **[View openings →](new-grad/2026.md)** |
+| 2027 | 960 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,228 | **[View openings →](new-grad/2026.md)** |
 | Year not listed | 2,397 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
@@ -37,12 +37,12 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Pylon | Software Engineer - Intern | San Francisco, CA | Not listed | not available | 2026-09-13 | **[Apply →](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d)**<br><sub>jobs.ashbyhq.com</sub> |
 | Abridge | Software Engineer - Intern | San Francisco, CA | Not listed | not available | 2026-09-12 | **[Apply →](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883)**<br><sub>jobs.ashbyhq.com</sub> |
 | AnaVation | Computer Science Intern - Summer 2027 | Chantilly, VA | Summer 2027 | Expected May 2028 graduation<br><sub>stated</sub> | 2026-09-12 | **[Apply →](https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7/apply)**<br><sub>jobs.lever.co</sub> |
 | Arconic | Electrical Engineer- Co-op | Davenport, IA, United States | Not listed | May 2027–Jun 2029<br><sub>preferred / required</sub> | 2026-09-12 | **[Apply →](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113826)**<br><sub>hdnn.fa.us6.oraclecloud.com</sub> |
 | Arconic | Mechanical Engineer - Co-op | Davenport, IA, United States | Not listed | May 2027–Jun 2029<br><sub>preferred / required</sub> | 2026-09-12 | **[Apply →](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113827)**<br><sub>hdnn.fa.us6.oraclecloud.com</sub> |
 | BRG | Chicago Office Health Analytics Practice Intern | Chicago, IL | Not listed | not available | 2026-09-12 | **[Apply →](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039)**<br><sub>thinkbrg.wd5.myworkdayjobs.com</sub> |
-| Charles Schwab | 2027 Technology Intern - Site Reliability Engineering | Austin, TX | Not listed | not available | 2026-09-12 | **[Apply →](https://career-schwab.icims.com/jobs/126229/2027-technology-intern---site-reliability-engineering/job)**<br><sub>career-schwab.icims.com</sub> |
 | Constellation Energy | Information Technology Software Development Intern | Baltimore, MD | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://jobs.constellationenergy.com/jobs/138708?icims=1)**<br><sub>jobs.constellationenergy.com</sub> |
 | Constellation Energy | IT Data Engineering Intern | Baltimore, MD | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://jobs.constellationenergy.com/jobs/138716?icims=1)**<br><sub>jobs.constellationenergy.com</sub> |
 | Copart | QA Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-09-12 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/QA-Engineering-Intern_JR109671)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
@@ -58,6 +58,7 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Chime | Full-Stack Engineer - Human Agent Tooling | San Francisco, CA | 2027 | not available | 2026-09-13 | **[Apply →](https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002)**<br><sub>boards.greenhouse.io</sub> |
 | Kitware | Software Developer | Clifton Park, NY | Not listed | not available | 2026-09-13 | **[Apply →](https://jobs.lever.co/kitware/dbaac56b-26b2-43b9-8ae3-354b6662ea89/apply)**<br><sub>jobs.lever.co</sub> |
 | Acuity | AI Product Management Specialist - Business Analyst | Atlanta, GA | Not listed | not available | 2026-09-12 | **[Apply →](https://careers.acuityinc.com/job/Atlanta-BUILD-Leadership-Program-Business-Analyst-Tech-Product-Management-Specialist-GA-30309/1429284000/?ats=successfactors)**<br><sub>careers.acuityinc.com</sub> |
 | Acuity | Data & AI Specialist - BUILD Leadership Program | Atlanta, GA | Not listed | not available | 2026-09-12 | **[Apply →](https://careers.acuityinc.com/job/Atlanta-Specialist-Data-&-AI-BUILD-Leadership-Program-GA-30309/1429285300/?ats=successfactors)**<br><sub>careers.acuityinc.com</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Amazon | Software Privacy Engineer - Multiple Teams | Bellevue, WA | Not listed | not available | 2026-09-12 | **[Apply →](https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa)**<br><sub>amazon.jobs</sub> |
 | Blue Cross Blue Shield of Arizona | EDI Technical Analyst - Claims | Phoenix, AZ | Not listed | not available | 2026-09-12 | **[Apply →](https://bcbsaz.wd1.myworkdayjobs.com/en-US/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/EDI-Technical-Analyst--Claims----Hybrid_R6244-1)**<br><sub>bcbsaz.wd1.myworkdayjobs.com</sub> |
 | Boeing | Associate/Experienced Software Engineer-Developer - Development | Kent, WA | 2027 | not available | 2026-09-12 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Kent-WA/Associate-Experienced-Software-Engineer-Developer--Development-_JR2026512185)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
-| Clera | Founding Engineer - Full Stack | San Francisco, CA | 2027 | not available | 2026-09-12 | **[Apply →](https://jobs.ashbyhq.com/clera/cea943d6-817f-441c-baa1-d295916ace46)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

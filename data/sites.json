@@ -5859,7 +5859,7 @@
       "boards": [],
       "company": "Springs Window Fashions",
       "key": "3455ec6ce50c1879af77614d",
-      "last_scanned": "2026-09-05",
+      "last_scanned": "2026-09-13",
       "resolved_roles": 0,
       "url": "https://www.springswindowfashions.com/"
     },
@@ -5926,7 +5926,7 @@
       "company": "KeyBank",
       "error": "public request failed for https://www.key.com/about/corporate-responsibility/keybank-foundation.jsp: The read operation timed out",
       "key": "34de0ca95e7cf403fe31a68d",
-      "last_scanned": "2026-09-12",
+      "last_scanned": "2026-09-13",
       "url": "https://www.key.com/about/corporate-responsibility/keybank-foundation.jsp"
     },
     {
@@ -8695,7 +8695,7 @@
       "company": "Chime",
       "error": "public request failed for https://www.chime.com/: HTTP Error 403: Forbidden",
       "key": "4d1ceb939bca2840c568207e",
-      "last_scanned": "2026-09-11",
+      "last_scanned": "2026-09-13",
       "url": "https://www.chime.com/"
     },
     {
@@ -11177,6 +11177,13 @@
       "last_scanned": "2026-08-26",
       "resolved_roles": 1,
       "url": "https://www.hbfuller.com/ev"
+    },
+    {
+      "company": "Noctua Technology",
+      "error": "Invalid IPv6 URL",
+      "key": "610c8c790f2b353bc767bbc4",
+      "last_scanned": "2026-09-13",
+      "url": "https://noctuatech.com/"
     },
     {
       "boards": [],
@@ -14044,7 +14051,7 @@
       "company": "National Football League (NFL)",
       "error": "public response exceeded 3145728 bytes",
       "key": "78e56cef78a49a57cbf23aaa",
-      "last_scanned": "2026-08-27",
+      "last_scanned": "2026-09-13",
       "url": "https://www.nfl.com/"
     },
     {
@@ -21792,6 +21799,16 @@
       "url": "https://www.muonspace.com/"
     },
     {
+      "boards": [
+        "greenhouse:yesenergy"
+      ],
+      "company": "Yes Energy",
+      "key": "bcc35a34bb8b00a07848d14f",
+      "last_scanned": "2026-09-13",
+      "resolved_roles": 0,
+      "url": "https://www.yesenergy.com/"
+    },
+    {
       "boards": [],
       "company": "The Energy Authority",
       "key": "bcc4de269d5add3b51d3ddbc",
@@ -25961,7 +25978,7 @@
       "company": "United States Olympic & Paralympic Committee",
       "error": "public request failed for https://www.teamusa.org/: The read operation timed out",
       "key": "de7cf812d567341d8543b5c7",
-      "last_scanned": "2026-09-12",
+      "last_scanned": "2026-09-13",
       "url": "https://www.teamusa.org/"
     },
     {
