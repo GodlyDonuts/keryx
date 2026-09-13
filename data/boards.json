@@ -5294,6 +5294,12 @@
     },
     {
       "ats": "lever",
+      "company": "Stanley Consultants",
+      "key": "lever:stanleygroup",
+      "slug": "stanleygroup"
+    },
+    {
+      "ats": "lever",
       "company": "SteerBridge",
       "key": "lever:steerbridge",
       "slug": "steerbridge"
@@ -17329,6 +17335,15 @@
       "key": "workday:wk.wd3.myworkdayjobs.com:wk:external",
       "site": "External",
       "slug": "wk",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "WNC Corporation",
+      "host": "wnc.wd3.myworkdayjobs.com",
+      "key": "workday:wnc.wd3.myworkdayjobs.com:wnc:wnc_external",
+      "site": "WNC_External",
+      "slug": "wnc",
       "wd": "wd3"
     },
     {
