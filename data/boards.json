@@ -9339,6 +9339,15 @@
     },
     {
       "ats": "workday",
+      "company": "Blue Cross and Blue Shield of Kansas",
+      "host": "bcbsks.wd1.myworkdayjobs.com",
+      "key": "workday:bcbsks.wd1.myworkdayjobs.com:bcbsks:external",
+      "site": "External",
+      "slug": "bcbsks",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Louisiana Blue",
       "host": "bcbsla.wd1.myworkdayjobs.com",
       "key": "workday:bcbsla.wd1.myworkdayjobs.com:bcbsla:generation_blue",

@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**6,356 internships · 4,586 new-grad roles · 10,942 total openings**
+**6,353 internships · 4,586 new-grad roles · 10,939 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,933 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 2,939 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 502 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 348 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 120 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,453 | **[View openings →](internships/unscheduled.md)** |
+| ❄️ Winter 2027 | 118 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 2,446 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 973 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,228 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,385 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 976 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,234 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,376 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,7 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Allegion | Summer Intern, Process Engineer | Princeton, IL | Not listed | not available | 2026-09-13 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Princeton-IL/Process-Engineer-Summer-Intern_JR37403-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
 | Autostore | Co-Op - Software Engineering | Atlanta, GA, USA | Not listed | not available | 2026-09-13 | **[Apply →](https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692)**<br><sub>autostore.wd3.myworkdayjobs.com</sub> |
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-09-13 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | Pylon | Software Engineer - Intern | San Francisco, CA | Not listed | not available | 2026-09-13 | **[Apply →](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d)**<br><sub>jobs.ashbyhq.com</sub> |
@@ -48,7 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | Constellation Energy | Information Technology Software Development Intern | Baltimore, MD | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://jobs.constellationenergy.com/jobs/138708?icims=1)**<br><sub>jobs.constellationenergy.com</sub> |
 | Constellation Energy | IT Data Engineering Intern | Baltimore, MD | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://jobs.constellationenergy.com/jobs/138716?icims=1)**<br><sub>jobs.constellationenergy.com</sub> |
 | Copart | QA Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-09-12 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/QA-Engineering-Intern_JR109671)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
-| Databricks | Software Engineering Intern - 2027 Start - Winter | Mountain View, CA +2 | Winter 2027 | Fall 2027–Spring 2028<br><sub>stated</sub> | 2026-09-12 | **[Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002)**<br><sub>databricks.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,6 +58,7 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Autostore | Entry Level Software Engineer | Atlanta, GA | Not listed | not available | 2026-09-13 | **[Apply →](https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Entry-Level-Software-Engineer_JR102691)**<br><sub>autostore.wd3.myworkdayjobs.com</sub> |
 | Chime | Full-Stack Engineer - Human Agent Tooling | San Francisco, CA | 2027 | not available | 2026-09-13 | **[Apply →](https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002)**<br><sub>boards.greenhouse.io</sub> |
 | Kitware | Software Developer | Clifton Park, NY | Not listed | not available | 2026-09-13 | **[Apply →](https://jobs.lever.co/kitware/dbaac56b-26b2-43b9-8ae3-354b6662ea89/apply)**<br><sub>jobs.lever.co</sub> |
 | Acuity | AI Product Management Specialist - Business Analyst | Atlanta, GA | Not listed | not available | 2026-09-12 | **[Apply →](https://careers.acuityinc.com/job/Atlanta-BUILD-Leadership-Program-Business-Analyst-Tech-Product-Management-Specialist-GA-30309/1429284000/?ats=successfactors)**<br><sub>careers.acuityinc.com</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Amazon | Software Development Engineer - Early Career | Newark, NJ | 2027 | not available | 2026-09-12 | **[Apply →](https://www.amazon.jobs/jobs/10529830/apply)**<br><sub>www.amazon.jobs</sub> |
 | Amazon | Software Privacy Engineer - Multiple Teams | Bellevue, WA | Not listed | not available | 2026-09-12 | **[Apply →](https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa)**<br><sub>amazon.jobs</sub> |
 | Blue Cross Blue Shield of Arizona | EDI Technical Analyst - Claims | Phoenix, AZ | Not listed | not available | 2026-09-12 | **[Apply →](https://bcbsaz.wd1.myworkdayjobs.com/en-US/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/EDI-Technical-Analyst--Claims----Hybrid_R6244-1)**<br><sub>bcbsaz.wd1.myworkdayjobs.com</sub> |
-| Boeing | Associate/Experienced Software Engineer-Developer - Development | Kent, WA | 2027 | not available | 2026-09-12 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Kent-WA/Associate-Experienced-Software-Engineer-Developer--Development-_JR2026512185-1)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
