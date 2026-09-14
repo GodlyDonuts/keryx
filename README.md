@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**6,432 internships · 4,572 new-grad roles · 11,004 total openings**
+**6,564 internships · 4,649 new-grad roles · 11,213 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,042 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 3,139 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 507 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 353 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 125 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,405 | **[View openings →](internships/unscheduled.md)** |
+| 🌱 Spring 2027 | 356 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 119 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 2,443 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 954 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,229 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,389 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 965 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,248 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,436 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Acron Aviation | Avionics Certification Engineering Intern - Phoenix Site | Phoenix, AZ | Not listed | Current student status<br><sub>required</sub> | 2026-09-14 | **[Apply →](https://jobs.lever.co/acronaviation/ad4a75ee-4247-4f71-afe5-174f16832edf)**<br><sub>jobs.lever.co</sub> |
+| Acron Aviation | Electrical Engineer Intern - Phoenix Site | Phoenix, AZ | Not listed | Current student status<br><sub>required</sub> | 2026-09-14 | **[Apply →](https://jobs.lever.co/acronaviation/69dcdf12-38f2-41ab-81fb-9af7903e7329)**<br><sub>jobs.lever.co</sub> |
+| Acron Aviation | Electrical Engineer Intern - St. Pete Site | St Petersburg, FL | Not listed | Current student status<br><sub>required</sub> | 2026-09-14 | **[Apply →](https://jobs.lever.co/acronaviation/0cd327f1-0f91-41d0-8b88-093a084fb082)**<br><sub>jobs.lever.co</sub> |
 | Acron Aviation | Software Engineer Intern - Phoenix Site | Phoenix, AZ | Not listed | Current student status<br><sub>required</sub> | 2026-09-14 | **[Apply →](https://jobs.lever.co/acronaviation/34cf5ad0-840a-4c1b-8231-02a433d0479e)**<br><sub>jobs.lever.co</sub> |
+| AI Intern to the CEO | Engineering Intern - Software (SWE)/Machine Learning (ML) | Boston, Massachusetts | Not listed | Current student status<br><sub>stated</sub> | 2026-09-14 | **[Apply →](https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328)**<br><sub>jobs.ashbyhq.com</sub> |
+| AI Intern to the CEO | Hardware Engineering Intern | Boston, Massachusetts | Not listed | Current student status<br><sub>stated</sub> | 2026-09-14 | **[Apply →](https://jobs.ashbyhq.com/cyvl/3590960d-4d02-48bb-a335-cb82e121a01e)**<br><sub>jobs.ashbyhq.com</sub> |
+| Allegion | Summer Intern - Product Assurance Test Engineer | Colorado Springs, CO | Not listed | not available | 2026-09-14 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Product-Assurance-Test-Engineer_JR37380-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
 | Antares Nuclear | Nuclear Operations & Licensing Engineering Intern - Summer 2027 | Idaho Falls | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-14 | **[Apply →](https://jobs.ashbyhq.com/Antares/ec96a761-509f-44e9-90aa-e1fee5388aa1)**<br><sub>jobs.ashbyhq.com</sub> |
-| Boston Scientific | Software Engineer Intern - Interns/Graduates | Maple Grove, MN | Summer 2027 | not available | 2026-09-14 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813549535)**<br><sub>bostonscientific.eightfold.ai</sub> |
-| Dark Wolf Solutions | Virginia Tech College Fair - Internship | Herndon, VA | Not listed | Current student status<br><sub>stated</sub> | 2026-09-14 | **[Apply →](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7994056003)**<br><sub>job-boards.greenhouse.io</sub> |
-| Flagship Pioneering | Flagship Labs 127: Marketing & Creative Co-Op | Cambridge, MA USA | Not listed | Current student status<br><sub>stated</sub> | 2026-09-14 | **[Apply →](https://job-boards.greenhouse.io/fspco-op012325/jobs/8805765002)**<br><sub>job-boards.greenhouse.io</sub> |
-| Flagship Pioneering | Flagship Pioneering: AI Automation Engineering Co-Op | Cambridge, MA USA | Not listed | not stated | 2026-09-14 | **[Apply →](https://job-boards.greenhouse.io/fspco-op012325/jobs/8796996002)**<br><sub>job-boards.greenhouse.io</sub> |
-| Grant Thornton Isle of Man | Audit IT Assurance Intern - Summer 2027 | Charlotte, NC, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-14 | **[Apply →](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GrantThorntonIsleOfMan/job/115542)**<br><sub>ehzq.fa.us2.oraclecloud.com</sub> |
-| Guardian Life | Application Development Intern - Digital & Technology | Holmdel, NJ, NYC, Bethlehem, PA | Summer 2027 | not available | 2026-09-14 | **[Apply →](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Application-Development_R000110209)**<br><sub>guardianlife.wd5.myworkdayjobs.com</sub> |
-| Guardian Life | Data Engineering Intern - Digital & Technology | Holmdel, NJ, NYC, Bethlehem, PA | Summer 2027 | not available | 2026-09-14 | **[Apply →](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202)**<br><sub>guardianlife.wd5.myworkdayjobs.com</sub> |
-| Guardian Life | Summer Intern - Digital & Technology - AI & Machine Learning | Holmdel, NJ, NYC, Bethlehem, PA | Summer 2027 | not available | 2026-09-14 | **[Apply →](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205)**<br><sub>guardianlife.wd5.myworkdayjobs.com</sub> |
-| Interstates | Data Analyst Intern | Sioux Center, IA, Sioux Falls, SD | Spring 2027 | not available | 2026-09-14 | **[Apply →](https://www.interstates.com/careers/jobs?gh_jid=4056077009&gh_jid=4056077009)**<br><sub>www.interstates.com</sub> |
-| Michael Baker International | Electrical Engineering Intern, Summer 2027 | San Diego, CA, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-09-14 | **[Apply →](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309857)**<br><sub>ebxs.fa.us2.oraclecloud.com</sub> |
+| Arconic | Corrosion Scientist / Engineer Intern - ATC | New Kensington, PA, United States | Not listed | Aug 2027–May 2028<br><sub>required</sub> | 2026-09-14 | **[Apply →](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114185)**<br><sub>hdnn.fa.us6.oraclecloud.com</sub> |
+| Arconic | Data Engineering Intern - ATC | New Kensington, PA, United States | Not listed | Aug 2027–May 2028<br><sub>required</sub> | 2026-09-14 | **[Apply →](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114184)**<br><sub>hdnn.fa.us6.oraclecloud.com</sub> |
+| Arconic | Electrical Engineer Intern - MTE | Alcoa, TN, United States | Not listed | Aug 2027–May 2028<br><sub>required</sub> | 2026-09-14 | **[Apply →](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114186)**<br><sub>hdnn.fa.us6.oraclecloud.com</sub> |
+| Arconic | Purdue Applications Engineering Co-op | Lafayette, IN, United States | Not listed | not stated | 2026-09-14 | **[Apply →](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114195)**<br><sub>hdnn.fa.us6.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Robinhood | Associate Product Manager (New Grad) | Menlo Park, CA; New York, NY | 2027 | Winter 2026–Summer 2027<br><sub>stated</sub> | 2026-09-14 | **[Apply →](https://boards.greenhouse.io/robinhood/jobs/8199973?t=gh_src=&gh_jid=8199973)**<br><sub>boards.greenhouse.io</sub> |
-| Wade Trim | Entry Level Civil/Environmental Engineer - #3042 | Pittsburgh, PA | Not listed | not stated | 2026-09-14 | **[Apply →](https://jobs.lever.co/wadetrim/c28b77ff-c888-43ee-9f0d-a5bc69e9ad33)**<br><sub>jobs.lever.co</sub> |
-| Wade Trim | Entry Level Civil/Environmental Engineer - #3044 | Flint, MI | Not listed | not stated | 2026-09-14 | **[Apply →](https://jobs.lever.co/wadetrim/512dc8a8-d3a2-4ecd-8667-3e6f5518f40d)**<br><sub>jobs.lever.co</sub> |
-| Wade Trim | Entry Level Civil/Mechanical Engineer - #3043 | Fort Worth, TX | Not listed | not stated | 2026-09-14 | **[Apply →](https://jobs.lever.co/wadetrim/31517226-8d05-4221-a6db-43b6f75b8503)**<br><sub>jobs.lever.co</sub> |
-| Wade Trim | Entry Level Substation Electrical Engineer - #3041 | Detroit, MI | Not listed | not stated | 2026-09-14 | **[Apply →](https://jobs.lever.co/wadetrim/fc699822-162f-4d0c-9f35-1590cf7f06fa)**<br><sub>jobs.lever.co</sub> |
-| Autostore | Entry Level Software Engineer | Atlanta, GA, USA | Not listed | not available | 2026-09-13 | **[Apply →](https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Entry-Level-Software-Engineer_JR102691)**<br><sub>autostore.wd3.myworkdayjobs.com</sub> |
-| Chime | Full-Stack Engineer - Human Agent Tooling | San Francisco, CA | 2027 | not available | 2026-09-13 | **[Apply →](https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002)**<br><sub>boards.greenhouse.io</sub> |
-| Kitware | Software Developer | Clifton Park, NY | Not listed | not available | 2026-09-13 | **[Apply →](https://jobs.lever.co/kitware/dbaac56b-26b2-43b9-8ae3-354b6662ea89/apply)**<br><sub>jobs.lever.co</sub> |
-| Acuity | AI Product Management Specialist - Business Analyst | Atlanta, GA | Not listed | not available | 2026-09-12 | **[Apply →](https://careers.acuityinc.com/job/Atlanta-BUILD-Leadership-Program-Business-Analyst-Tech-Product-Management-Specialist-GA-30309/1429284000/?ats=successfactors)**<br><sub>careers.acuityinc.com</sub> |
-| Acuity | Data & AI Specialist - BUILD Leadership Program | Atlanta, GA | Not listed | not available | 2026-09-12 | **[Apply →](https://careers.acuityinc.com/job/Atlanta-Specialist-Data-&-AI-BUILD-Leadership-Program-GA-30309/1429285300/?ats=successfactors)**<br><sub>careers.acuityinc.com</sub> |
-| Acuity | Software Engineering Specialist - BUILD Leadership Program | Conyers, GA | Not listed | not available | 2026-09-12 | **[Apply →](https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Leadership-Program-GA-30012/1429301800/?ats=successfactors)**<br><sub>careers.acuityinc.com</sub> |
-| Acuity | Software Engineering Specialist - BUILD Leadership Program | Conyers, GA | Not listed | not available | 2026-09-12 | **[Apply →](https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Leadership-Program-GA-30012/1429302100/?ats=successfactors)**<br><sub>careers.acuityinc.com</sub> |
+| C3.ai | Forward Deployed Engineer New Grad - 2027 | Redwood City, CA | 2027 | not available | 2026-09-14 | **[Apply →](https://c3.ai/job-description/8804558002?gh_jid=8804558002)**<br><sub>c3.ai</sub> |
+| C3.ai | Platform Full-Stack Engineer New Grad | Redwood City, CA | Not listed | not available | 2026-09-14 | **[Apply →](https://c3.ai/job-description/8801434002?gh_jid=8801434002)**<br><sub>c3.ai</sub> |
+| Capital One | Technology Development Program Associate | Plano, TX, McLean, VA, Richmond, VA | Not listed | not available | 2026-09-14 | **[Apply →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Development-Program-Associate---August-2027_R244385-1)**<br><sub>capitalone.wd12.myworkdayjobs.com</sub> |
+| CarGurus | Associate Marketing Data Analyst | Boston, MA | Not listed | not available | 2026-09-14 | **[Apply →](https://careers.cargurus.com/us/en/job/8195874?gh_jid=8195874)**<br><sub>careers.cargurus.com</sub> |
+| CoStar Group | Associate Software Engineer | Richmond, VA | Not listed | not available | 2026-09-14 | **[Apply →](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Associate-Software-Engineer---Richmond--VA_R39667)**<br><sub>costar.wd1.myworkdayjobs.com</sub> |
+| CoStar Group | Associate Software Engineer | Arlington County, Arlington, VA | Not listed | not available | 2026-09-14 | **[Apply →](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Associate-Software-Engineer---Arlington--VA_R39668)**<br><sub>costar.wd1.myworkdayjobs.com</sub> |
+| Da Vinci | Quant Graduate | Miami, FL | Not listed | not available | 2026-09-14 | **[Apply →](https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4241558101)**<br><sub>job-boards.eu.greenhouse.io</sub> |
+| DecisionPoint | Entry-level Software Developer | Remote in USA | Not listed | not available | 2026-09-14 | **[Apply →](https://careers-decisionpointcorp.icims.com/jobs/3766/job?mobile=true&needsRedirect=false)**<br><sub>careers-decisionpointcorp.icims.com</sub> |
+| Freedom Technology Solutions Group, LLC | Junior Software Engineer 744 | Annapolis Junction, MD, United States | 2026 | not available | 2026-09-14 | **[Apply →](https://goftsg.com/open-positions/position/?job_id=5199607007#job)**<br><sub>goftsg.com</sub> |
+| Johns Hopkins Applied Physics Laboratory | Developer Cyber-Physical Systems New Grad | Laurel, MD | Not listed | not available | 2026-09-14 | **[Apply →](https://careers.jhuapl.edu/jobs/60022?icims=1)**<br><sub>careers.jhuapl.edu</sub> |
+| Johns Hopkins Applied Physics Laboratory | Engineer Graduate - Space Science Electronics | Laurel, MD | Not listed | not available | 2026-09-14 | **[Apply →](https://careers.jhuapl.edu/jobs/60047?icims=1)**<br><sub>careers.jhuapl.edu</sub> |
+| Johns Hopkins Applied Physics Laboratory | Engineer/Analyst Graduate | Laurel, MD | Not listed | not available | 2026-09-14 | **[Apply →](https://careers.jhuapl.edu/jobs/59998?icims=1)**<br><sub>careers.jhuapl.edu</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

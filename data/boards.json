@@ -176,7 +176,7 @@
     },
     {
       "ats": "ashby",
-      "company": "Base Power Company",
+      "company": "Base Power",
       "key": "ashby:base-power",
       "slug": "base-power"
     },
@@ -443,6 +443,12 @@
       "company": "Cylake",
       "key": "ashby:cylake-inc",
       "slug": "cylake-inc"
+    },
+    {
+      "ats": "ashby",
+      "company": "AI Intern to the CEO",
+      "key": "ashby:cyvl",
+      "slug": "cyvl"
     },
     {
       "ats": "ashby",
@@ -2795,6 +2801,12 @@
       "company": "Datadog",
       "key": "greenhouse:datadog",
       "slug": "datadog"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Da Vinci",
+      "key": "greenhouse:davinciderivatives",
+      "slug": "davinciderivatives"
     },
     {
       "ats": "greenhouse",
@@ -5270,6 +5282,12 @@
     },
     {
       "ats": "lever",
+      "company": "SEP",
+      "key": "lever:sep",
+      "slug": "sep"
+    },
+    {
+      "ats": "lever",
       "company": "Shield AI",
       "key": "lever:shieldai",
       "slug": "shieldai"
@@ -6732,6 +6750,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Rust-Oleum Corporation",
+      "host": "hcwx.fa.us2.oraclecloud.com",
+      "key": "oracle:hcwx.fa.us2.oraclecloud.com:cx_15",
+      "site": "CX_15",
+      "slug": "hcwx"
+    },
+    {
+      "ats": "oracle",
       "company": "Kroll",
       "host": "hcxs.fa.us2.oraclecloud.com",
       "key": "oracle:hcxs.fa.us2.oraclecloud.com:cx_1",
@@ -8010,7 +8036,7 @@
     },
     {
       "ats": "workable",
-      "company": "pony.ai",
+      "company": "Pony.ai",
       "key": "workable:pony-dot-ai",
       "slug": "pony-dot-ai"
     },
@@ -8061,6 +8087,12 @@
       "company": "Saalex",
       "key": "workable:saalex",
       "slug": "saalex"
+    },
+    {
+      "ats": "workable",
+      "company": "SciTec",
+      "key": "workable:scitec",
+      "slug": "scitec"
     },
     {
       "ats": "workable",
@@ -9132,7 +9164,7 @@
     },
     {
       "ats": "workday",
-      "company": "AeroVironment",
+      "company": "Avav",
       "host": "avav.wd1.myworkdayjobs.com",
       "key": "workday:avav.wd1.myworkdayjobs.com:avav:avav",
       "site": "avav",
@@ -9255,6 +9287,15 @@
       "site": "BTCareers",
       "slug": "bakertilly",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "MSI",
+      "host": "baldwin.wd1.myworkdayjobs.com",
+      "key": "workday:baldwin.wd1.myworkdayjobs.com:baldwin:msi",
+      "site": "MSI",
+      "slug": "baldwin",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -9559,6 +9600,15 @@
       "host": "boeing.wd1.myworkdayjobs.com",
       "key": "workday:boeing.wd1.myworkdayjobs.com:boeing:intern",
       "site": "INTERN",
+      "slug": "boeing",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Boeing",
+      "host": "boeing.wd1.myworkdayjobs.com",
+      "key": "workday:boeing.wd1.myworkdayjobs.com:boeing:tap2",
+      "site": "tap2",
       "slug": "boeing",
       "wd": "wd1"
     },
@@ -10529,6 +10579,15 @@
       "ats": "workday",
       "company": "CoStar Group",
       "host": "costar.wd1.myworkdayjobs.com",
+      "key": "workday:costar.wd1.myworkdayjobs.com:costar:costar_campus",
+      "site": "Costar_Campus",
+      "slug": "costar",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "CoStar Group",
+      "host": "costar.wd1.myworkdayjobs.com",
       "key": "workday:costar.wd1.myworkdayjobs.com:costar:costarcareers",
       "site": "CoStarCareers",
       "slug": "costar",
@@ -11445,6 +11504,15 @@
     },
     {
       "ats": "workday",
+      "company": "FNBO",
+      "host": "firstnational.wd12.myworkdayjobs.com",
+      "key": "workday:firstnational.wd12.myworkdayjobs.com:firstnational:fnbocareers",
+      "site": "fnbocareers",
+      "slug": "firstnational",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
       "company": "First Orion",
       "host": "firstorion.wd1.myworkdayjobs.com",
       "key": "workday:firstorion.wd1.myworkdayjobs.com:firstorion:first_orion",
@@ -11892,6 +11960,15 @@
       "site": "GMED_Careers",
       "slug": "globusmedical",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Enact Mortgage Insurance",
+      "host": "gnw.wd1.myworkdayjobs.com",
+      "key": "workday:gnw.wd1.myworkdayjobs.com:gnw:enact_mi",
+      "site": "enact_mi",
+      "slug": "gnw",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -13176,7 +13253,16 @@
       "company": "LSEG",
       "host": "lseg.wd3.myworkdayjobs.com",
       "key": "workday:lseg.wd3.myworkdayjobs.com:lseg:careers",
-      "site": "careers",
+      "site": "Careers",
+      "slug": "lseg",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "LSEG",
+      "host": "lseg.wd3.myworkdayjobs.com",
+      "key": "workday:lseg.wd3.myworkdayjobs.com:lseg:graduate_careers",
+      "site": "Graduate_Careers",
       "slug": "lseg",
       "wd": "wd3"
     },
@@ -13617,7 +13703,7 @@
       "company": "Mimecast",
       "host": "mimecast.wd5.myworkdayjobs.com",
       "key": "workday:mimecast.wd5.myworkdayjobs.com:mimecast:mimecast-careers",
-      "site": "mimecast-careers",
+      "site": "Mimecast-Careers",
       "slug": "mimecast",
       "wd": "wd5"
     },
@@ -14856,10 +14942,10 @@
     },
     {
       "ats": "workday",
-      "company": "Raymond James",
+      "company": "Raymond James Financial",
       "host": "raymondjames.wd1.myworkdayjobs.com",
       "key": "workday:raymondjames.wd1.myworkdayjobs.com:raymondjames:raymondjamesearlycareers",
-      "site": "raymondjamesearlycareers",
+      "site": "RaymondJamesEarlyCareers",
       "slug": "raymondjames",
       "wd": "wd1"
     },
@@ -15419,6 +15505,33 @@
       "key": "workday:signetjewelers.wd1.myworkdayjobs.com:signetjewelers:signetcorporatecareers",
       "site": "SignetCorporateCareers",
       "slug": "signetjewelers",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Silicon Labs",
+      "host": "silabs.wd1.myworkdayjobs.com",
+      "key": "workday:silabs.wd1.myworkdayjobs.com:silabs:experiencedjobs",
+      "site": "ExperiencedJobs",
+      "slug": "silabs",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Silicon Labs",
+      "host": "silabs.wd1.myworkdayjobs.com",
+      "key": "workday:silabs.wd1.myworkdayjobs.com:silabs:internships",
+      "site": "Internships",
+      "slug": "silabs",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Silicon Labs",
+      "host": "silabs.wd1.myworkdayjobs.com",
+      "key": "workday:silabs.wd1.myworkdayjobs.com:silabs:newcollegegraduates",
+      "site": "NewCollegeGraduates",
+      "slug": "silabs",
       "wd": "wd1"
     },
     {
