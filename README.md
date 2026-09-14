@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**6,564 internships · 4,649 new-grad roles · 11,213 total openings**
+**6,654 internships · 4,693 new-grad roles · 11,347 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,139 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 507 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 356 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 119 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,443 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 3,194 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 505 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 365 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 125 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 2,465 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 965 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,248 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,436 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 948 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,290 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,455 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Agile Defense | Watchfloor Analyst | McLean, VA | Not listed | not available | 2026-09-14 | **[Apply →](https://jobs.lever.co/agile-defense/9b915990-f813-4c96-a8c9-a02e8d82bc42/apply)**<br><sub>jobs.lever.co</sub> |
+| Applied Materials | Business Intelligence Analyst 1 | Santa Clara, CA | Not listed | not available | 2026-09-14 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Business-Intelligence-Analyst-I--New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626650)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
+| Applied Materials | Product Line Management New Grad - Master's | Santa Clara, CA | Not listed | not available | 2026-09-14 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-II-New-College-Grad--Master-s--Santa-Clara--CA-_R2627412)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
+| Aramark | Financial Analyst - Refreshments | Philadelphia, PA | Not listed | not available | 2026-09-14 | **[Apply →](https://aramarkcareers.com/UnitedStates/job/Philadelphia-MAP-Functional-Refreshments-Philadelphia-PA-PA-19103/1429819400/?ats=successfactors)**<br><sub>aramarkcareers.com</sub> |
+| Arena Investors I Quaestor Advisors | Trading Operations Analyst | Jacksonville, FL | Not listed | not available | 2026-09-14 | **[Apply →](https://apply.workable.com/arena-investors-lp/j/AA08A73D44/apply)**<br><sub>apply.workable.com</sub> |
+| BlackEdge Capital | Graduate Quantitative Researcher | Chicago, IL | Not listed | not available | 2026-09-14 | **[Apply →](https://job-boards.greenhouse.io/blackedgecapital/jobs/4732320005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Boeing | Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer - Space Digital Products & Electronics | El Segundo, CA | Not listed | not available | 2026-09-14 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-level-Digital-Electronics-Circuit---Unit-Hardware-Design-Engineer_JR2026523829-1)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
+| Boeing | Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer - Space Digital Products & Electronics | El Segundo, CA | Not listed | not available | 2026-09-14 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-level-Digital-Electronics-Circuit---Unit-Hardware-Design-Engineer_JR2026523829-2)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
+| Broadridge | Product Analyst | Newark, NJ | Not listed | not available | 2026-09-14 | **[Apply →](https://broadridge.wd5.myworkdayjobs.com/careers/job/Newark-NJ/Product-Analyst--Hybrid-_JR1085596)**<br><sub>broadridge.wd5.myworkdayjobs.com</sub> |
 | C3.ai | Forward Deployed Engineer New Grad - 2027 | Redwood City, CA | 2027 | not available | 2026-09-14 | **[Apply →](https://c3.ai/job-description/8804558002?gh_jid=8804558002)**<br><sub>c3.ai</sub> |
 | C3.ai | Platform Full-Stack Engineer New Grad | Redwood City, CA | Not listed | not available | 2026-09-14 | **[Apply →](https://c3.ai/job-description/8801434002?gh_jid=8801434002)**<br><sub>c3.ai</sub> |
-| Capital One | Technology Development Program Associate | Plano, TX, McLean, VA, Richmond, VA | Not listed | not available | 2026-09-14 | **[Apply →](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Development-Program-Associate---August-2027_R244385-1)**<br><sub>capitalone.wd12.myworkdayjobs.com</sub> |
-| CarGurus | Associate Marketing Data Analyst | Boston, MA | Not listed | not available | 2026-09-14 | **[Apply →](https://careers.cargurus.com/us/en/job/8195874?gh_jid=8195874)**<br><sub>careers.cargurus.com</sub> |
-| CoStar Group | Associate Software Engineer | Richmond, VA | Not listed | not available | 2026-09-14 | **[Apply →](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Associate-Software-Engineer---Richmond--VA_R39667)**<br><sub>costar.wd1.myworkdayjobs.com</sub> |
-| CoStar Group | Associate Software Engineer | Arlington County, Arlington, VA | Not listed | not available | 2026-09-14 | **[Apply →](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Associate-Software-Engineer---Arlington--VA_R39668)**<br><sub>costar.wd1.myworkdayjobs.com</sub> |
-| Da Vinci | Quant Graduate | Miami, FL | Not listed | not available | 2026-09-14 | **[Apply →](https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4241558101)**<br><sub>job-boards.eu.greenhouse.io</sub> |
-| DecisionPoint | Entry-level Software Developer | Remote in USA | Not listed | not available | 2026-09-14 | **[Apply →](https://careers-decisionpointcorp.icims.com/jobs/3766/job?mobile=true&needsRedirect=false)**<br><sub>careers-decisionpointcorp.icims.com</sub> |
-| Freedom Technology Solutions Group, LLC | Junior Software Engineer 744 | Annapolis Junction, MD, United States | 2026 | not available | 2026-09-14 | **[Apply →](https://goftsg.com/open-positions/position/?job_id=5199607007#job)**<br><sub>goftsg.com</sub> |
-| Johns Hopkins Applied Physics Laboratory | Developer Cyber-Physical Systems New Grad | Laurel, MD | Not listed | not available | 2026-09-14 | **[Apply →](https://careers.jhuapl.edu/jobs/60022?icims=1)**<br><sub>careers.jhuapl.edu</sub> |
-| Johns Hopkins Applied Physics Laboratory | Engineer Graduate - Space Science Electronics | Laurel, MD | Not listed | not available | 2026-09-14 | **[Apply →](https://careers.jhuapl.edu/jobs/60047?icims=1)**<br><sub>careers.jhuapl.edu</sub> |
-| Johns Hopkins Applied Physics Laboratory | Engineer/Analyst Graduate | Laurel, MD | Not listed | not available | 2026-09-14 | **[Apply →](https://careers.jhuapl.edu/jobs/59998?icims=1)**<br><sub>careers.jhuapl.edu</sub> |
+| CACI | Software Developer | San Antonio, TX | Not listed | not available | 2026-09-14 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/San-Antonio-TX-US/Software-Developer_332051)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
