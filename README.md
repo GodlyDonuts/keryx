@@ -9,24 +9,24 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**6,348 internships · 4,557 new-grad roles · 10,905 total openings**
+**6,343 internships · 4,559 new-grad roles · 10,902 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 2,936 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 2,950 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 502 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 348 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 120 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,442 | **[View openings →](internships/unscheduled.md)** |
+| 🌱 Spring 2027 | 351 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 119 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 2,421 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 953 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,216 | **[View openings →](new-grad/2026.md)** |
+| 2026 | 1,218 | **[View openings →](new-grad/2026.md)** |
 | Year not listed | 2,388 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
@@ -40,15 +40,15 @@ Recent internship and co-op listings that open the employer's application page d
 | Allegion | Summer Intern, Process Engineer | Princeton, IL | Not listed | not available | 2026-09-13 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Princeton-IL/Process-Engineer-Summer-Intern_JR37403-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
 | Autostore | Co-Op - Software Engineering | Atlanta, GA, USA | Not listed | not available | 2026-09-13 | **[Apply →](https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692)**<br><sub>autostore.wd3.myworkdayjobs.com</sub> |
 | Base Power Company | Supply Chain Tooling Engineer Intern | Austin, TX | Not listed | Current student status<br><sub>stated</sub> | 2026-09-13 | **[Apply →](https://jobs.ashbyhq.com/base-power/7fce3b16-c132-453b-a836-a3bcbd21abd2)**<br><sub>jobs.ashbyhq.com</sub> |
+| Berkeley Industrial Engineering & Operations Research | Computer Vision Intern at Simbe Robotics | Indiana, United States | Not listed | not available | 2026-09-13 | **[Apply →](https://berkeley.joinhandshake.com/jobs/11336177/share_preview)**<br><sub>berkeley.joinhandshake.com</sub> |
+| Berkeley Industrial Engineering & Operations Research | Robotic Software Intern at Simbe Robotics | Indiana, United States | Not listed | not available | 2026-09-13 | **[Apply →](https://berkeley.joinhandshake.com/jobs/11336228/share_preview)**<br><sub>berkeley.joinhandshake.com</sub> |
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-09-13 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | NVIDIA | Research Intern | Santa Clara, CA | Summer 2027 | not available | 2026-09-13 | **[Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171)**<br><sub>nvidia.wd5.myworkdayjobs.com</sub> |
 | Pylon | Software Engineer - Intern | San Francisco, CA | Not listed | not available | 2026-09-13 | **[Apply →](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d)**<br><sub>jobs.ashbyhq.com</sub> |
-| Abridge | Software Engineer - Intern | San Francisco, CA | Not listed | not available | 2026-09-12 | **[Apply →](https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883)**<br><sub>jobs.ashbyhq.com</sub> |
-| AnaVation | Computer Science Intern - Summer 2027 | Chantilly, VA | Summer 2027 | Expected May 2028 graduation<br><sub>stated</sub> | 2026-09-12 | **[Apply →](https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7/apply)**<br><sub>jobs.lever.co</sub> |
-| Arconic | Electrical Engineer- Co-op | Davenport, IA, United States | Not listed | May 2027–Jun 2029<br><sub>preferred / required</sub> | 2026-09-12 | **[Apply →](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113826)**<br><sub>hdnn.fa.us6.oraclecloud.com</sub> |
-| Arconic | Mechanical Engineer - Co-op | Davenport, IA, United States | Not listed | May 2027–Jun 2029<br><sub>preferred / required</sub> | 2026-09-12 | **[Apply →](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113827)**<br><sub>hdnn.fa.us6.oraclecloud.com</sub> |
-| BRG | Chicago Office Health Analytics Practice Intern | Chicago, IL | Not listed | not available | 2026-09-12 | **[Apply →](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039)**<br><sub>thinkbrg.wd5.myworkdayjobs.com</sub> |
-| Constellation Energy | Information Technology Software Development Intern | Baltimore, MD | Summer 2027 | not available | 2026-09-12 | **[Apply →](https://jobs.constellationenergy.com/jobs/138708?icims=1)**<br><sub>jobs.constellationenergy.com</sub> |
+| TD Bank | 2027 Summer Internship Program - Global Technology & Solutions - Cloud/DevOps | Mount Laurel, New Jersey | Summer 2027 | not available | 2026-09-13 | **[Apply →](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cloud-DevOps_R_1510799)**<br><sub>td.wd3.myworkdayjobs.com</sub> |
+| TD Bank | 2027 Summer Internship Program - Global Technology & Solutions - Cyber Security | Mount Laurel, New Jersey | Summer 2027 | not available | 2026-09-13 | **[Apply →](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cyber-Security_R_1510795)**<br><sub>td.wd3.myworkdayjobs.com</sub> |
+| TD Bank | Data Engineer Intern - Global Technology & Solutions | Mt Laurel Township, NJ | Summer 2027 | not available | 2026-09-13 | **[Apply →](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797)**<br><sub>td.wd3.myworkdayjobs.com</sub> |
+| TD Bank | Software Engineer Intern - Global Technology & Solutions | Mt Laurel Township, NJ | Summer 2027 | not available | 2026-09-13 | **[Apply →](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1)**<br><sub>td.wd3.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
