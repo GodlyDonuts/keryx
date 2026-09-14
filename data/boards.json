@@ -14748,7 +14748,7 @@
     },
     {
       "ats": "workday",
-      "company": "PennState University",
+      "company": "Pennsylvania State University",
       "host": "psu.wd1.myworkdayjobs.com",
       "key": "workday:psu.wd1.myworkdayjobs.com:psu:psu_staff",
       "site": "PSU_Staff",
@@ -16023,6 +16023,15 @@
       "site": "targetcareers",
       "slug": "target",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Tarkett",
+      "host": "tarkett.wd3.myworkdayjobs.com",
+      "key": "workday:tarkett.wd3.myworkdayjobs.com:tarkett:tarkett_careers",
+      "site": "Tarkett_Careers",
+      "slug": "tarkett",
+      "wd": "wd3"
     },
     {
       "ats": "workday",

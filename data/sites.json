@@ -2762,7 +2762,7 @@
       "boards": [],
       "company": "Kenworth Truck Co.",
       "key": "176cd7af74105d207e91b278",
-      "last_scanned": "2026-09-03",
+      "last_scanned": "2026-09-14",
       "resolved_roles": 0,
       "url": "https://www.kenworth.com/"
     },
@@ -3673,7 +3673,7 @@
       "company": "Amtrak",
       "error": "public request failed for https://www.amtrak.com/: HTTP Error 403: Forbidden",
       "key": "2026f42fd24d743be2742e0f",
-      "last_scanned": "2026-09-03",
+      "last_scanned": "2026-09-14",
       "url": "https://www.amtrak.com/"
     },
     {
@@ -5896,7 +5896,7 @@
       ],
       "company": "Mill",
       "key": "3451e63e8e608f40daa4fdbe",
-      "last_scanned": "2026-09-04",
+      "last_scanned": "2026-09-14",
       "resolved_roles": 0,
       "url": "https://mill.com/"
     },
@@ -6356,7 +6356,7 @@
       "company": "KeyBank",
       "error": "public request failed for https://www.key.com/businesses-institutions/industry-expertise/commercial-real-estate/capital-community-development-banking.html: The read operation timed out",
       "key": "3827cb1f0855d6d03dbfd1fd",
-      "last_scanned": "2026-09-13",
+      "last_scanned": "2026-09-14",
       "url": "https://www.key.com/businesses-institutions/industry-expertise/commercial-real-estate/capital-community-development-banking.html"
     },
     {
@@ -7409,6 +7409,14 @@
     },
     {
       "boards": [],
+      "company": "Puck",
+      "key": "41732da3dd5cafe64d809728",
+      "last_scanned": "2026-09-14",
+      "resolved_roles": 0,
+      "url": "https://www.careerpuck.com/"
+    },
+    {
+      "boards": [],
       "company": "Everlane",
       "key": "419f69da4c3b031f40106959",
       "last_scanned": "2026-08-28",
@@ -8315,7 +8323,7 @@
       "boards": [],
       "company": "BAE Systems, Inc.",
       "key": "49922fa080815ee525e54c77",
-      "last_scanned": "2026-09-05",
+      "last_scanned": "2026-09-14",
       "resolved_roles": 0,
       "url": "https://jobs.baesystems.com/global/en"
     },
@@ -11555,6 +11563,16 @@
       "url": "https://www.pepcoholdings.com/"
     },
     {
+      "boards": [
+        "workday:guardianlife.wd5.myworkdayjobs.com:guardianlife:guardian-life-careers"
+      ],
+      "company": "Guardian Life",
+      "key": "63fb8b364fffaa155abd7dcc",
+      "last_scanned": "2026-09-14",
+      "resolved_roles": 0,
+      "url": "https://www.guardianlife.com/"
+    },
+    {
       "boards": [],
       "company": "Herzog",
       "key": "6415e729bb43b02480694b24",
@@ -14407,7 +14425,7 @@
       ],
       "company": "Barr Engineering Co.",
       "key": "7b65e6e780f2269307629b56",
-      "last_scanned": "2026-09-04",
+      "last_scanned": "2026-09-14",
       "resolved_roles": 0,
       "url": "https://www.barr.com/"
     },
@@ -15133,6 +15151,14 @@
       "last_scanned": "2026-08-15",
       "resolved_roles": 0,
       "url": "https://codevertexinnovations.com/careers"
+    },
+    {
+      "boards": [],
+      "company": "Business Innovation & IT Consulting Services",
+      "key": "82168f8f3a607b5378168c85",
+      "last_scanned": "2026-09-14",
+      "resolved_roles": 0,
+      "url": "https://biics.ca/"
     },
     {
       "boards": [],
@@ -16892,7 +16918,7 @@
       "boards": [],
       "company": "Eagle Eye Networks",
       "key": "901a58079023460727631706",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-09-14",
       "resolved_roles": 0,
       "url": "https://www.een.com/"
     },
@@ -19559,7 +19585,7 @@
       "company": "National Security Agency",
       "error": "public request failed for https://www.nsa.gov/: HTTP Error 403: Forbidden",
       "key": "a7ee24a3e54a5678bf7e6d56",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-09-14",
       "url": "https://www.nsa.gov/"
     },
     {
@@ -22443,7 +22469,7 @@
       "boards": [],
       "company": "Xsolla",
       "key": "c0e29fe88b9a85401a17bb4a",
-      "last_scanned": "2026-08-23",
+      "last_scanned": "2026-09-14",
       "resolved_roles": 0,
       "url": "https://www.xsolla.com/"
     },
@@ -27423,6 +27449,16 @@
       "url": "https://driveempower.com/"
     },
     {
+      "boards": [
+        "workday:tarkett.wd3.myworkdayjobs.com:tarkett:tarkett_careers"
+      ],
+      "company": "Tarkett",
+      "key": "e9f3cbf606a69f175355087f",
+      "last_scanned": "2026-09-14",
+      "resolved_roles": 0,
+      "url": "https://www.tarkett-group.com/en/"
+    },
+    {
       "company": "Port of Seattle",
       "error": "public request failed for https://www.portseattle.org/Pages/default.aspx: HTTP Error 404: Not Found",
       "key": "e9f6f06029a15a885474fd00",
@@ -29221,6 +29257,14 @@
       "url": "https://www.skender.com/"
     },
     {
+      "boards": [],
+      "company": "Premier Golf",
+      "key": "f7001915def6967c7a8a4164",
+      "last_scanned": "2026-09-14",
+      "resolved_roles": 0,
+      "url": "https://www.premiergolf.com/"
+    },
+    {
       "company": "Providence Infrastructure Consultants",
       "error": "public requests require HTTPS and a hostname",
       "key": "f7072a2ed300439285d7dd6b",
@@ -29826,6 +29870,14 @@
       "url": "https://montcure.com/"
     },
     {
+      "boards": [],
+      "company": "United States Olympic & Paralympic Committee",
+      "key": "fd0d82c5b0efb0d983adccad",
+      "last_scanned": "2026-09-14",
+      "resolved_roles": 0,
+      "url": "https://www.usopc.org/"
+    },
+    {
       "boards": [
         "workday:otis.wd504.myworkdayjobs.com:otis:rec_ext_gateway"
       ],
@@ -29871,6 +29923,14 @@
       "key": "fd4d8c8dd6a08354c9878e52",
       "last_scanned": "2026-08-31",
       "url": "https://spacebourne.com/"
+    },
+    {
+      "boards": [],
+      "company": "Ahern",
+      "key": "fd6536469d3c4ed652613b9a",
+      "last_scanned": "2026-09-14",
+      "resolved_roles": 0,
+      "url": "https://www.jfahern.com/"
     },
     {
       "boards": [],
@@ -30011,7 +30071,7 @@
       "boards": [],
       "company": "Daktronics",
       "key": "fe7f0cf91ff87ffc7ec26658",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-09-14",
       "resolved_roles": 0,
       "url": "https://www.daktronics.com/en-us"
     },
@@ -30149,7 +30209,7 @@
       "boards": [],
       "company": "Phillips 66",
       "key": "ffa1600b02f2844d0967a3bf",
-      "last_scanned": "2026-08-19",
+      "last_scanned": "2026-09-14",
       "resolved_roles": 0,
       "url": "https://www.phillips66.com/"
     },

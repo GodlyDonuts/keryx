@@ -4,10 +4,12 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**123 open roles**
+**125 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
+| Kenworth Truck Co. | 2027 Winter Internship - Cloud Engineer Intern Job Details / PACCAR | Renton, WA, United States | not available<br><sub>posting text not indexed</sub> | 2026-09-14 | [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6aa7b86b2ed333b4ea5cbd35?utm_campaign=1079&utm_source=git)<br><sub>discovery listing</sub> |
+| Kenworth Truck Co. | 2027 Winter Internship - Software Developer Intern Job Details / PACCAR | Renton, WA, United States | not available<br><sub>posting text not indexed</sub> | 2026-09-14 | [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6aa7b86c82e82a31997c25fc?utm_campaign=1079&utm_source=git)<br><sub>discovery listing</sub> |
 | Keurig Dr Pepper Inc. | Winter 2027 Co-op - Maintenance Excellence Data Analyst/Industrial Engineer | Essex Junction, VT, United States | not available<br><sub>posting text not indexed</sub> | 2026-09-13 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6aa4f2a8930bff471a29c3b2?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
 | Keurig Dr Pepper Inc. | Winter 2027 Co-op - Process Engineer | Knoxville, TN, United States | not available<br><sub>posting text not indexed</sub> | 2026-09-13 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6a8c60a31d96e6541c8c0629?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
 | Keurig Dr Pepper Inc. | Winter 2027 Co-op - Process Engineer | Essex Junction, VT, United States | not available<br><sub>posting text not indexed</sub> | 2026-09-13 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6aa4936ef7baf881567cf3cb?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
