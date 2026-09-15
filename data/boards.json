@@ -5325,6 +5325,12 @@
     },
     {
       "ats": "lever",
+      "company": "Rigetti Computing",
+      "key": "lever:rigetti",
+      "slug": "rigetti"
+    },
+    {
+      "ats": "lever",
       "company": "Rover",
       "key": "lever:rover",
       "slug": "rover"
@@ -11064,7 +11070,7 @@
     },
     {
       "ats": "workday",
-      "company": "Walt Disney",
+      "company": "The Walt Disney Company",
       "host": "disney.wd5.myworkdayjobs.com",
       "key": "workday:disney.wd5.myworkdayjobs.com:disney:disneycareerdc",
       "site": "disneycareerdc",
@@ -13398,7 +13404,7 @@
       "company": "LSEG",
       "host": "lseg.wd3.myworkdayjobs.com",
       "key": "workday:lseg.wd3.myworkdayjobs.com:lseg:careers",
-      "site": "Careers",
+      "site": "careers",
       "slug": "lseg",
       "wd": "wd3"
     },
