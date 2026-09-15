@@ -892,7 +892,7 @@
       "ats": "ashby",
       "company": "KAYAK",
       "key": "ashby:kayak",
-      "slug": "KAYAK"
+      "slug": "kayak"
     },
     {
       "ats": "ashby",
@@ -1901,6 +1901,12 @@
       "company": "WindBorne Systems",
       "key": "ashby:windborne-systems",
       "slug": "windborne-systems"
+    },
+    {
+      "ats": "ashby",
+      "company": "Cherry Technologies",
+      "key": "ashby:withcherry",
+      "slug": "withcherry"
     },
     {
       "ats": "ashby",
@@ -2940,6 +2946,12 @@
       "company": "Enova",
       "key": "greenhouse:enova",
       "slug": "enova"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "ENSCO",
+      "key": "greenhouse:ensco",
+      "slug": "ensco"
     },
     {
       "ats": "greenhouse",
@@ -15030,7 +15042,7 @@
     },
     {
       "ats": "workday",
-      "company": "Pennsylvania State University",
+      "company": "PennState University",
       "host": "psu.wd1.myworkdayjobs.com",
       "key": "workday:psu.wd1.myworkdayjobs.com:psu:psu_staff",
       "site": "PSU_Staff",
@@ -17564,7 +17576,7 @@
       "company": "WellSky",
       "host": "wellsky.wd1.myworkdayjobs.com",
       "key": "workday:wellsky.wd1.myworkdayjobs.com:wellsky:wellskycareers",
-      "site": "WellSkyCareers",
+      "site": "wellskycareers",
       "slug": "wellsky",
       "wd": "wd1"
     },
