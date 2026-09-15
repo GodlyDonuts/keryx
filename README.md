@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**6,921 internships · 4,729 new-grad roles · 11,650 total openings**
+**6,925 internships · 4,666 new-grad roles · 11,591 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,289 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 499 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 382 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 119 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,632 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 3,294 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 509 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 381 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 123 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 2,618 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 985 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,290 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,454 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 952 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,269 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,445 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -39,16 +39,16 @@ Recent internship and co-op listings that open the employer's application page d
 |---|---|---|---|---|---:|---|
 | Airbus | 2027 Summer Internship - Manufacturing Engineer | Kinston, NC | Summer 2027 | not available | 2026-09-15 | **[Apply →](https://ag.wd3.myworkdayjobs.com/Airbus/job/Kinston-NC/XMLNAME-2027-Summer-Internship---Manufacturing-Engineer_JR10441369)**<br><sub>ag.wd3.myworkdayjobs.com</sub> |
 | APEX Analytix | Data Analyst Intern (Summer 2027) | Greensboro, NC | Summer 2027 | not available | 2026-09-15 | **[Apply →](https://ats.rippling.com/apexanalytix-careers/jobs/e275fd70-45a3-4a64-8688-cace8a3f87ef)**<br><sub>ats.rippling.com</sub> |
+| APEX Analytix | Data Science Intern (Summer 2027) | Greensboro, NC | Summer 2027 | not available | 2026-09-15 | **[Apply →](https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53)**<br><sub>ats.rippling.com</sub> |
 | Arconic | Data Governance Specialist Intern | Davenport, IA, United States | Not listed | Aug 2027–May 2028<br><sub>required</sub> | 2026-09-15 | **[Apply →](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114192)**<br><sub>hdnn.fa.us6.oraclecloud.com</sub> |
+| AspenTech | Data Science Intern - Summer 2027 - Bedford, MA | Bedford, Massachusetts | Summer 2027 | not available | 2026-09-15 | **[Apply →](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459)**<br><sub>aspentech.wd5.myworkdayjobs.com</sub> |
 | Base Power | Business Operations, MBA Intern | Austin, TX | Not listed | Current student status<br><sub>stated</sub> | 2026-09-15 | **[Apply →](https://jobs.ashbyhq.com/base-power/35b85c17-d6bc-4645-83f0-782049febce7)**<br><sub>jobs.ashbyhq.com</sub> |
 | Base Power | Content Intern | Austin, TX | Not listed | not stated | 2026-09-15 | **[Apply →](https://jobs.ashbyhq.com/base-power/d4ce943e-42e9-4d12-a041-5c40e8bb9f17)**<br><sub>jobs.ashbyhq.com</sub> |
 | Base Power | Deployments Engineering Intern | Austin, TX | Not listed | not stated | 2026-09-15 | **[Apply →](https://jobs.ashbyhq.com/base-power/0f7fefdb-7218-40c6-893f-859b08fb3935)**<br><sub>jobs.ashbyhq.com</sub> |
 | Base Power | Deployments Operations Intern | Austin, TX | Not listed | not stated | 2026-09-15 | **[Apply →](https://jobs.ashbyhq.com/base-power/7be0dc29-e42c-4a1f-8512-fd94c13aabf2)**<br><sub>jobs.ashbyhq.com</sub> |
 | Base Power | Design Intern | Austin, TX | Not listed | not stated | 2026-09-15 | **[Apply →](https://jobs.ashbyhq.com/base-power/5edd4bd5-ed18-4bb6-bad4-ab67d95f00bd)**<br><sub>jobs.ashbyhq.com</sub> |
 | Base Power | Marketing Intern | Austin, TX | Not listed | not stated | 2026-09-15 | **[Apply →](https://jobs.ashbyhq.com/base-power/0bf4aae8-95fa-49d8-89c9-10c3784770ad)**<br><sub>jobs.ashbyhq.com</sub> |
-| Berkshire Hathaway Energy | Intern -Substation Engineering | Davenport, IA, United States | Summer 2027 | Dec 2027 or later<br><sub>stated</sub> | 2026-09-15 | **[Apply →](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005785)**<br><sub>fa-essf-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
-| BlackRock | Quantitative Master’s Intern - Investments - Portfolio Management | Atlanta, GA | Summer 2027 | not available | 2026-09-15 | **[Apply →](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Atlanta-GA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---Atlanta_R266470)**<br><sub>blackrock.wd1.myworkdayjobs.com</sub> |
-| CAI | Cybersecurity Analyst Intern | California | Summer 2027 | not available | 2026-09-15 | **[Apply →](https://cai.wd5.myworkdayjobs.com/computer_aid/job/California/Cybersecurity-Analyst-Intern_R8488)**<br><sub>cai.wd5.myworkdayjobs.com</sub> |
+| Berkshire Hathaway Energy | Intern -Substation Engineering | Davenport, IA, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-15 | **[Apply →](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005785)**<br><sub>fa-essf-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links

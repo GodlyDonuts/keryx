@@ -2925,6 +2925,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Duolingo",
+      "key": "greenhouse:duolingo",
+      "slug": "duolingo"
+    },
+    {
+      "ats": "greenhouse",
       "company": "DV Trading",
       "key": "greenhouse:dvtrading",
       "slug": "dvtrading"
@@ -3687,6 +3693,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Mitratech",
+      "key": "greenhouse:mitratech",
+      "slug": "mitratech"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Momentum",
       "key": "greenhouse:momentumcompany3",
       "slug": "momentumcompany3"
@@ -4098,6 +4110,12 @@
       "company": "Sage",
       "key": "greenhouse:sage49",
       "slug": "sage49"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Samsung Next",
+      "key": "greenhouse:samsungnext",
+      "slug": "samsungnext"
     },
     {
       "ats": "greenhouse",
@@ -5607,7 +5625,7 @@
     },
     {
       "ats": "lever",
-      "company": "Woven",
+      "company": "Woven by Toyota",
       "key": "lever:woven-by-toyota",
       "slug": "woven-by-toyota"
     },
@@ -6032,6 +6050,14 @@
       "key": "oracle:efuf.fa.em2.oraclecloud.com:cx_1",
       "site": "CX_1",
       "slug": "efuf"
+    },
+    {
+      "ats": "oracle",
+      "company": "NOV",
+      "host": "egay.fa.us6.oraclecloud.com",
+      "key": "oracle:egay.fa.us6.oraclecloud.com:cx_2001",
+      "site": "CX_2001",
+      "slug": "egay"
     },
     {
       "ats": "oracle",
@@ -9194,6 +9220,15 @@
       "site": "asmlext1",
       "slug": "asml",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "AspenTech",
+      "host": "aspentech.wd5.myworkdayjobs.com",
+      "key": "workday:aspentech.wd5.myworkdayjobs.com:aspentech:aspentech",
+      "site": "aspentech",
+      "slug": "aspentech",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
@@ -12455,7 +12490,7 @@
     },
     {
       "ats": "workday",
-      "company": "Hitachi",
+      "company": "Hitachi Energy",
       "host": "hitachi.wd1.myworkdayjobs.com",
       "key": "workday:hitachi.wd1.myworkdayjobs.com:hitachi:hitachi",
       "site": "hitachi",
@@ -14966,6 +15001,15 @@
     },
     {
       "ats": "workday",
+      "company": "Plastipak",
+      "host": "plastipak.wd1.myworkdayjobs.com",
+      "key": "workday:plastipak.wd1.myworkdayjobs.com:plastipak:plastipak",
+      "site": "Plastipak",
+      "slug": "plastipak",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Plexus",
       "host": "plexus.wd504.myworkdayjobs.com",
       "key": "workday:plexus.wd504.myworkdayjobs.com:plexus:plexus_careers",
@@ -15989,6 +16033,15 @@
       "site": "PMS_Careers",
       "slug": "spectris",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Spectrum Control",
+      "host": "spectrumcontrol.wd1.myworkdayjobs.com",
+      "key": "workday:spectrumcontrol.wd1.myworkdayjobs.com:spectrumcontrol:spectrumcontrol",
+      "site": "SpectrumControl",
+      "slug": "spectrumcontrol",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
