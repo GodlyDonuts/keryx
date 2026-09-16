@@ -326,6 +326,12 @@
     },
     {
       "ats": "ashby",
+      "company": "CivilGrid",
+      "key": "ashby:civilgrid",
+      "slug": "civilgrid"
+    },
+    {
+      "ats": "ashby",
       "company": "Clarium",
       "key": "ashby:clarium",
       "slug": "clarium"
@@ -2860,6 +2866,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "CoVar",
+      "key": "greenhouse:covar",
+      "slug": "covar"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Cresco Labs",
       "key": "greenhouse:crescolabs",
       "slug": "crescolabs"
@@ -3811,6 +3823,12 @@
       "company": "Muon Space",
       "key": "greenhouse:muonspace",
       "slug": "muonspace"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Nanopath",
+      "key": "greenhouse:nanopathinc",
+      "slug": "nanopathinc"
     },
     {
       "ats": "greenhouse",
@@ -4939,6 +4957,12 @@
       "company": "Allegiant Air",
       "key": "lever:allegiantair",
       "slug": "allegiantair"
+    },
+    {
+      "ats": "lever",
+      "company": "AMT Engineering",
+      "key": "lever:amtengineering",
+      "slug": "amtengineering"
     },
     {
       "ats": "lever",
@@ -13262,7 +13286,7 @@
       "company": "Itron",
       "host": "itron.wd5.myworkdayjobs.com",
       "key": "workday:itron.wd5.myworkdayjobs.com:itron:early_careers",
-      "site": "early_careers",
+      "site": "Early_Careers",
       "slug": "itron",
       "wd": "wd5"
     },
@@ -13271,7 +13295,7 @@
       "company": "Itron",
       "host": "itron.wd5.myworkdayjobs.com",
       "key": "workday:itron.wd5.myworkdayjobs.com:itron:itron",
-      "site": "itron",
+      "site": "Itron",
       "slug": "itron",
       "wd": "wd5"
     },
@@ -13283,6 +13307,15 @@
       "site": "Itron_Production",
       "slug": "itron",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Indorama Ventures: Indovinya",
+      "host": "ivlglobaliod.wd1.myworkdayjobs.com",
+      "key": "workday:ivlglobaliod.wd1.myworkdayjobs.com:ivlglobaliod:indovinya",
+      "site": "Indovinya",
+      "slug": "ivlglobaliod",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -14333,7 +14366,7 @@
       "company": "Marathon Petroleum",
       "host": "mpc.wd1.myworkdayjobs.com",
       "key": "workday:mpc.wd1.myworkdayjobs.com:mpc:mpccareers",
-      "site": "mpccareers",
+      "site": "MPCCareers",
       "slug": "mpc",
       "wd": "wd1"
     },
@@ -16523,6 +16556,15 @@
       "site": "sbcareers",
       "slug": "sunbeltrentals",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Sun Life",
+      "host": "sunlife.wd3.myworkdayjobs.com",
+      "key": "workday:sunlife.wd3.myworkdayjobs.com:sunlife:campus",
+      "site": "Campus",
+      "slug": "sunlife",
+      "wd": "wd3"
     },
     {
       "ats": "workday",
