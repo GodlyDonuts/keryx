@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**7,154 internships · 4,753 new-grad roles · 11,907 total openings**
+**7,213 internships · 4,726 new-grad roles · 11,939 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,348 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 493 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 388 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 138 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,787 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 3,360 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 492 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 389 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 136 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 2,836 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 948 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,308 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,497 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 982 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,250 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,494 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Antares | Software Intern - Summer 2027 | Los Angeles, CA | Summer 2027 | not available | 2026-09-16 | **[Apply →](https://jobs.ashbyhq.com/antares/922a527d-9826-446d-9aba-ffc611995830)**<br><sub>jobs.ashbyhq.com</sub> |
 | Antares Nuclear | Software Engineer Intern | Torrance, CA | Summer 2027 | not available | 2026-09-16 | **[Apply →](https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Bass Pro Shops | IT Developer Intern | Springfield, MO | Summer 2027 | not available | 2026-09-16 | **[Apply →](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1)**<br><sub>basspro.wd1.myworkdayjobs.com</sub> |
+| Bedrock Robotics | Internship 2027 Software Engineer, Fleet Platform | New York, NY | Summer 2027 | Current student status<br><sub>required</sub> | 2026-09-16 | **[Apply →](https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4)**<br><sub>jobs.ashbyhq.com</sub> |
+| Cartesian | IAP Software Engineering Intern 2027 | Cambridge, MA | Summer 2027 | not stated | 2026-09-16 | **[Apply →](https://job-boards.greenhouse.io/cartesiansystems/jobs/4408204009)**<br><sub>job-boards.greenhouse.io</sub> |
 | CesiumAstro | Electrical Engineer Intern - FPGA | Westminster, CO | Summer 2027 | not available | 2026-09-16 | **[Apply →](https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply)**<br><sub>jobs.lever.co</sub> |
 | CesiumAstro | Electrical Engineer Intern - Hardware | Austin, TX | Summer 2027 | not available | 2026-09-16 | **[Apply →](https://jobs.lever.co/CesiumAstro/6a953cbc-af69-452c-b357-1a0a3db80bbf/apply)**<br><sub>jobs.lever.co</sub> |
 | CesiumAstro | Electrical Engineer Intern - Hardware | Westminster, CO | Summer 2027 | not available | 2026-09-16 | **[Apply →](https://jobs.lever.co/CesiumAstro/ccb0f99f-0cc7-4517-8d1c-faeca53b5e5c/apply)**<br><sub>jobs.lever.co</sub> |
 | CesiumAstro | Embedded Software Engineer Intern | Austin, TX | Summer 2027 | not available | 2026-09-16 | **[Apply →](https://jobs.lever.co/CesiumAstro/d25bf640-2b2b-48d6-ab79-8a06b246caaa/apply)**<br><sub>jobs.lever.co</sub> |
 | CesiumAstro | Embedded Software Engineer Intern | Westminster, CO | Summer 2027 | not available | 2026-09-16 | **[Apply →](https://jobs.lever.co/CesiumAstro/96e97f22-a5b2-4e95-af84-b4f765343663/apply)**<br><sub>jobs.lever.co</sub> |
 | Clarendale West End | IT Service Desk Intern | Des Moines, IA, United States | Not listed | Current student status<br><sub>stated</sub> | 2026-09-16 | **[Apply →](https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/clarendalewestend/job/40000)**<br><sub>eexs.fa.us2.oraclecloud.com</sub> |
-| Crowe | Business Analyst Intern | Chicago IL USA | Not listed | not available | 2026-09-16 | **[Apply →](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Business-Analyst-Intern_R-71638)**<br><sub>crowe.wd12.myworkdayjobs.com</sub> |
-| DRW | Software Developer Intern | Chicago, IL | Not listed | not available | 2026-09-16 | **[Apply →](https://job-boards.greenhouse.io/drweng/jobs/7992936)**<br><sub>job-boards.greenhouse.io</sub> |
-| Enterprise Holdings | Software Engineer Intern - Summer 2027 | St. Louis, MO | Summer 2027 | not available | 2026-09-16 | **[Apply →](https://us-erac.icims.com/jobs/566721/job?mobile=true&needsRedirect=false)**<br><sub>us-erac.icims.com</sub> |
-| General Dynamics | Information Technology Intern - Software Engineering - Computer Science | Newport, RI, New London, CT, North Kingstown, RI, North Stonington, CT, Groton, CT | Summer 2027 | not available | 2026-09-16 | **[Apply →](https://careers-gdeb.icims.com/jobs/20341/job?mobile=true&needsRedirect=false)**<br><sub>careers-gdeb.icims.com</sub> |
-| Illinois Tool Works | Product Management Intern | San Luis Obispo, CA | Winter 2027 | not available | 2026-09-16 | **[Apply →](https://careers.itw.com/global/en/job/JR10112)**<br><sub>careers.itw.com</sub> |
+| Clockwork Systems, Inc | Software Engineer Intern | Palo Alto, CA | Not listed | not stated | 2026-09-16 | **[Apply →](https://job-boards.greenhouse.io/clockworksystems/jobs/6174230004)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Allen Control Systems | Software Engineer - Enterprise Applications | Austin, TX | Not listed | not available | 2026-09-16 | **[Apply →](https://jobs.ashbyhq.com/allen-control-systems/87abef03-ff94-4a7f-a944-5fad20f23daa/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Addepar | Software Engineer - Client Experience Frameworks | Remote - New York City, NY | 2027 | not available | 2026-09-16 | **[Apply →](https://job-boards.greenhouse.io/addepar1/jobs/8733680002)**<br><sub>job-boards.greenhouse.io</sub> |
+| Allen Control Systems | Software Engineer - Enterprise Applications | Austin, TX | 2027 | not available | 2026-09-16 | **[Apply →](https://jobs.ashbyhq.com/allen-control-systems/87abef03-ff94-4a7f-a944-5fad20f23daa/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Amazon | Jr. Software Development Engineer - San Luis Obispo - CA - Jr. Developer Program | San Luis Obispo, CA | 2027 | not available | 2026-09-16 | **[Apply →](https://www.amazon.jobs/jobs/10544071/apply)**<br><sub>www.amazon.jobs</sub> |
+| Auto-Owners Insurance | Business Intelligence Developer | Lansing, MI | Not listed | not available | 2026-09-16 | **[Apply →](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_14525)**<br><sub>aoins.wd5.myworkdayjobs.com</sub> |
 | BNY | Data Science Analyst - Engineering | Pittsburgh, PA | Not listed | not available | 2026-09-16 | **[Apply →](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82246)**<br><sub>eofe.fa.us2.oraclecloud.com</sub> |
 | BNY | Product Management Analyst Program - Product Management | Boston, MA, Pittsburgh, PA, Lake Mary, FL, Jersey City, NJ, NYC | Not listed | not available | 2026-09-16 | **[Apply →](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80895)**<br><sub>eofe.fa.us2.oraclecloud.com</sub> |
 | BNY | Software Engineer Analyst - Engineering - Developer | Pittsburgh, PA | Not listed | not available | 2026-09-16 | **[Apply →](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82248)**<br><sub>eofe.fa.us2.oraclecloud.com</sub> |
 | Cheiron | Associate Product Manager - Technical | Los Altos, CA | Not listed | not available | 2026-09-16 | **[Apply →](https://jobs.ashbyhq.com/cheiron/a8514f9b-17d9-40a0-8674-a07543bb86d0/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Emerson Electric | Software Engineer | Austin, TX | Not listed | not available | 2026-09-16 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010937)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
-| L3Harris Technologies | Business Intelligence Analyst | Palm Bay, FL | Not listed | not available | 2026-09-16 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Senior-Associate,-Business-Intelligence-Analyst-FL-32905/1430419400/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| Microchip | Engineer I - Software | Santa Rosa, CA | 2027 | not available | 2026-09-16 | **[Apply →](https://microchiphr.wd5.myworkdayjobs.com/en-US/external/job/CA---Santa-Rosa---Westwind/Engineer-I---Software_R2844-26)**<br><sub>microchiphr.wd5.myworkdayjobs.com</sub> |
-| Nidec | Sales & Pricing Analyst | Eden Prairie, MN | Not listed | not available | 2026-09-16 | **[Apply →](https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMinnesotaEden-Prairie-MN/Sales---Pricing-Analyst_R0013020)**<br><sub>nidec.wd1.myworkdayjobs.com</sub> |
-| Nokia | Senior Product Test Capability Engineer | Allentown, PA | Not listed | not available | 2026-09-16 | **[Apply →](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40456)**<br><sub>fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
-| Starbucks | Application Developer - Application Development | Seattle, WA | Not listed | not available | 2026-09-16 | **[Apply →](https://starbucks.eightfold.ai/careers/job/481079150478)**<br><sub>starbucks.eightfold.ai</sub> |
-| Texas Instruments | Systems Engineer - Career Accelerator Program | Dallas, TX | Not listed | not available | 2026-09-16 | **[Apply →](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017998)**<br><sub>edbz.fa.us2.oraclecloud.com</sub> |
+| Empower | Business Analyst | United States | 2026 | not available | 2026-09-16 | **[Apply →](https://www.linkedin.com/jobs/view/4382065637)**<br><sub>www.linkedin.com</sub> |
+| Foot Locker | Associate Software Engineer - Merchandise Technology | Remote in USA | Not listed | not available | 2026-09-16 | **[Apply →](https://careers.footlocker.com/jobs/71916?icims=1)**<br><sub>careers.footlocker.com</sub> |
+| GuideStone | Associate Software Developer | Dallas, TX | Not listed | not available | 2026-09-16 | **[Apply →](https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Associate-Software-Developer_R1989)**<br><sub>guidestone.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

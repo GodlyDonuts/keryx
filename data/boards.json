@@ -1220,6 +1220,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Oden Technologies",
+      "key": "ashby:oden-technologies",
+      "slug": "oden-technologies"
+    },
+    {
+      "ats": "ashby",
       "company": "Ode with Anthropic",
       "key": "ashby:odewithanthropic",
       "slug": "odewithanthropic"
@@ -1493,6 +1499,12 @@
       "company": "Rhoda AI",
       "key": "ashby:rhoda-ai",
       "slug": "rhoda-ai"
+    },
+    {
+      "ats": "ashby",
+      "company": "Rilla",
+      "key": "ashby:rilla",
+      "slug": "rilla"
     },
     {
       "ats": "ashby",
@@ -2692,6 +2704,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Cartesian",
+      "key": "greenhouse:cartesiansystems",
+      "slug": "cartesiansystems"
+    },
+    {
+      "ats": "greenhouse",
       "company": "CaseGuard",
       "key": "greenhouse:caseguard",
       "slug": "caseguard"
@@ -2773,6 +2791,12 @@
       "company": "Climavision",
       "key": "greenhouse:climavision",
       "slug": "climavision"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Clockwork Systems, Inc.",
+      "key": "greenhouse:clockworksystems",
+      "slug": "clockworksystems"
     },
     {
       "ats": "greenhouse",
@@ -3502,7 +3526,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "Vestmark",
+      "company": "Vestmark Internship Program",
       "key": "greenhouse:internrecruiting",
       "slug": "internrecruiting"
     },
@@ -4411,6 +4435,12 @@
       "company": "TeleTracking Technologies",
       "key": "greenhouse:teletrackingtechnologiesinc",
       "slug": "teletrackingtechnologiesinc"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Tenet3",
+      "key": "greenhouse:tenet3",
+      "slug": "tenet3"
     },
     {
       "ats": "greenhouse",
@@ -5452,6 +5482,12 @@
     },
     {
       "ats": "lever",
+      "company": "Riverdale Country School",
+      "key": "lever:riverdale",
+      "slug": "riverdale"
+    },
+    {
+      "ats": "lever",
       "company": "Rover",
       "key": "lever:rover",
       "slug": "rover"
@@ -6314,6 +6350,14 @@
     },
     {
       "ats": "oracle",
+      "company": "S&C Electric Company",
+      "host": "ejia.fa.us6.oraclecloud.com",
+      "key": "oracle:ejia.fa.us6.oraclecloud.com:cx_1001",
+      "site": "CX_1001",
+      "slug": "ejia"
+    },
+    {
+      "ats": "oracle",
       "company": "The Mount Sinai Hospital",
       "host": "ejis.fa.us6.oraclecloud.com",
       "key": "oracle:ejis.fa.us6.oraclecloud.com:cx",
@@ -6839,6 +6883,14 @@
       "key": "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
       "site": "CX_1",
       "slug": "fa-ewmy-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
+      "company": "The Duracell Company",
+      "host": "fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com:cx_26",
+      "site": "CX_26",
+      "slug": "fa-ewub-saasfaprod1"
     },
     {
       "ats": "oracle",
@@ -13195,19 +13247,19 @@
     },
     {
       "ats": "workday",
-      "company": "Itron, Inc.",
+      "company": "Itron",
       "host": "itron.wd5.myworkdayjobs.com",
       "key": "workday:itron.wd5.myworkdayjobs.com:itron:early_careers",
-      "site": "Early_Careers",
+      "site": "early_careers",
       "slug": "itron",
       "wd": "wd5"
     },
     {
       "ats": "workday",
-      "company": "Itron, Inc.",
+      "company": "Itron",
       "host": "itron.wd5.myworkdayjobs.com",
       "key": "workday:itron.wd5.myworkdayjobs.com:itron:itron",
-      "site": "Itron",
+      "site": "itron",
       "slug": "itron",
       "wd": "wd5"
     },
@@ -14389,6 +14441,15 @@
       "site": "NAMSA",
       "slug": "namsa",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Nasdaq",
+      "host": "nasdaq.wd1.myworkdayjobs.com",
+      "key": "workday:nasdaq.wd1.myworkdayjobs.com:nasdaq:global_external_site",
+      "site": "Global_External_Site",
+      "slug": "nasdaq",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -16912,6 +16973,15 @@
     },
     {
       "ats": "workday",
+      "company": "The Mutual Group",
+      "host": "themutualgroup.wd108.myworkdayjobs.com",
+      "key": "workday:themutualgroup.wd108.myworkdayjobs.com:themutualgroup:tmg",
+      "site": "TMG",
+      "slug": "themutualgroup",
+      "wd": "wd108"
+    },
+    {
+      "ats": "workday",
       "company": "Thermo Fisher Scientific",
       "host": "thermofisher.wd5.myworkdayjobs.com",
       "key": "workday:thermofisher.wd5.myworkdayjobs.com:thermofisher:thermofishercareers",
@@ -16993,7 +17063,7 @@
     },
     {
       "ats": "workday",
-      "company": "CRC Group",
+      "company": "Tihinsurance",
       "host": "tihinsurance.wd1.myworkdayjobs.com",
       "key": "workday:tihinsurance.wd1.myworkdayjobs.com:tihinsurance:crc_careers",
       "site": "crc_careers",
