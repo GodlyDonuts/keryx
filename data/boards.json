@@ -308,6 +308,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Cheiron",
+      "key": "ashby:cheiron",
+      "slug": "cheiron"
+    },
+    {
+      "ats": "ashby",
       "company": "Circleback",
       "key": "ashby:circleback",
       "slug": "circleback"
@@ -1283,6 +1289,12 @@
       "company": "OpusClip",
       "key": "ashby:opusclip",
       "slug": "opusclip"
+    },
+    {
+      "ats": "ashby",
+      "company": "Oratomic",
+      "key": "ashby:oratomic",
+      "slug": "oratomic"
     },
     {
       "ats": "ashby",
@@ -8326,7 +8338,7 @@
     },
     {
       "ats": "workable",
-      "company": "pony.ai",
+      "company": "Pony.ai",
       "key": "workable:pony-dot-ai",
       "slug": "pony-dot-ai"
     },
@@ -13171,6 +13183,33 @@
     },
     {
       "ats": "workday",
+      "company": "Itron, Inc.",
+      "host": "itron.wd5.myworkdayjobs.com",
+      "key": "workday:itron.wd5.myworkdayjobs.com:itron:early_careers",
+      "site": "Early_Careers",
+      "slug": "itron",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Itron, Inc.",
+      "host": "itron.wd5.myworkdayjobs.com",
+      "key": "workday:itron.wd5.myworkdayjobs.com:itron:itron",
+      "site": "Itron",
+      "slug": "itron",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Itron, Inc.",
+      "host": "itron.wd5.myworkdayjobs.com",
+      "key": "workday:itron.wd5.myworkdayjobs.com:itron:itron_production",
+      "site": "Itron_Production",
+      "slug": "itron",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Ivy Tech Community College",
       "host": "ivytech.wd1.myworkdayjobs.com",
       "key": "workday:ivytech.wd1.myworkdayjobs.com:ivytech:ivy_tech_careers",
@@ -13582,6 +13621,15 @@
       "site": "LNExternalSite",
       "slug": "livenation",
       "wd": "wd503"
+    },
+    {
+      "ats": "workday",
+      "company": "Live Oak Bank",
+      "host": "liveoakbancshares.wd1.myworkdayjobs.com",
+      "key": "workday:liveoakbancshares.wd1.myworkdayjobs.com:liveoakbancshares:live_oak",
+      "site": "Live_Oak",
+      "slug": "liveoakbancshares",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
