@@ -5602,6 +5602,12 @@
     },
     {
       "ats": "lever",
+      "company": "Valdes Architecture & Engineering",
+      "key": "lever:valdeseng",
+      "slug": "valdeseng"
+    },
+    {
+      "ats": "lever",
       "company": "Veeva Systems",
       "key": "lever:veeva",
       "slug": "veeva"
@@ -8338,7 +8344,7 @@
     },
     {
       "ats": "workable",
-      "company": "Pony.ai",
+      "company": "pony.ai",
       "key": "workable:pony-dot-ai",
       "slug": "pony-dot-ai"
     },
@@ -8365,6 +8371,12 @@
       "company": "Quadric",
       "key": "workable:quadric-dot-i-o-inc",
       "slug": "quadric-dot-i-o-inc"
+    },
+    {
+      "ats": "workable",
+      "company": "RAVE Aerospace",
+      "key": "workable:raveaerospace",
+      "slug": "raveaerospace"
     },
     {
       "ats": "workable",
@@ -13978,7 +13990,7 @@
       "company": "Mastercard",
       "host": "mastercard.wd1.myworkdayjobs.com",
       "key": "workday:mastercard.wd1.myworkdayjobs.com:mastercard:corporatecareers",
-      "site": "CorporateCareers",
+      "site": "corporatecareers",
       "slug": "mastercard",
       "wd": "wd1"
     },

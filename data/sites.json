@@ -3457,7 +3457,7 @@
       ],
       "company": "The Voleon Group",
       "key": "1c0a6fdfc51787c94865f21d",
-      "last_scanned": "2026-09-08",
+      "last_scanned": "2026-09-16",
       "resolved_roles": 0,
       "url": "https://voleon.com/"
     },
@@ -7364,7 +7364,7 @@
       "boards": [],
       "company": "Legence",
       "key": "3b30f0597d772e535b57bc9b",
-      "last_scanned": "2026-08-26",
+      "last_scanned": "2026-09-16",
       "resolved_roles": 0,
       "url": "https://www.wearelegence.com/"
     },
@@ -9553,7 +9553,7 @@
       "company": "Crowe",
       "error": "public request failed for https://www.crowe.com/: HTTP Error 403: Forbidden",
       "key": "4d0beeea761d31adbc5dcf65",
-      "last_scanned": "2026-09-11",
+      "last_scanned": "2026-09-16",
       "url": "https://www.crowe.com/"
     },
     {
@@ -12519,7 +12519,7 @@
       "boards": [],
       "company": "Five Star Bank",
       "key": "637efa8b51da46c3b693c363",
-      "last_scanned": "2026-09-02",
+      "last_scanned": "2026-09-16",
       "resolved_roles": 0,
       "url": "https://www.five-starbank.com/"
     },
@@ -13898,7 +13898,7 @@
       "company": "Microchip Technology Inc.",
       "error": "public request failed for https://www.microchip.com/: HTTP Error 403: Forbidden",
       "key": "6e4442d676256fc2044633d6",
-      "last_scanned": "2026-09-10",
+      "last_scanned": "2026-09-16",
       "url": "https://www.microchip.com/"
     },
     {
@@ -14649,7 +14649,7 @@
       ],
       "company": "Persona AI",
       "key": "7450d7da015d6508c882e404",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-09-16",
       "resolved_roles": 0,
       "url": "https://personainc.ai/"
     },
@@ -14980,6 +14980,13 @@
       "last_scanned": "2026-09-14",
       "resolved_roles": 0,
       "url": "https://www.markanthony.com/"
+    },
+    {
+      "company": "StoneX Group Inc.",
+      "error": "public request failed for https://www.stonex.com/en-us/: HTTP Error 403: Forbidden",
+      "key": "772c1d76f82723f3c2a9e3e1",
+      "last_scanned": "2026-09-16",
+      "url": "https://www.stonex.com/"
     },
     {
       "boards": [
@@ -16862,7 +16869,7 @@
       "boards": [],
       "company": "Textron Specialized Vehicles",
       "key": "864f0e0d28a5efec17fdc000",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-16",
       "resolved_roles": 0,
       "url": "https://www.ezgo.txtsv.com/"
     },
@@ -18394,7 +18401,7 @@
       ],
       "company": "Garage",
       "key": "917663a6dec2119bf3e9fd2b",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-16",
       "resolved_roles": 0,
       "url": "https://www.shopgarage.com/"
     },
@@ -18848,7 +18855,7 @@
       "boards": [],
       "company": "Doherty Enterprises",
       "key": "95bdf1cfa5b6e5b7d0092ebc",
-      "last_scanned": "2026-09-09",
+      "last_scanned": "2026-09-16",
       "resolved_roles": 0,
       "url": "https://dohertyinc.com/"
     },
@@ -21616,7 +21623,7 @@
       ],
       "company": "Gupta Media",
       "key": "abf36f2e10fc50276e23d5c9",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-09-16",
       "resolved_roles": 0,
       "url": "https://guptamedia.com/"
     },
@@ -22400,7 +22407,7 @@
       ],
       "company": "Transamerica",
       "key": "b235fcd362cada808babd979",
-      "last_scanned": "2026-08-29",
+      "last_scanned": "2026-09-16",
       "resolved_roles": 0,
       "url": "https://www.transamerica.com/"
     },
@@ -24903,7 +24910,7 @@
       "boards": [],
       "company": "Yamaha Motor Corporation, USA",
       "key": "c55601e940bd1e7d182c0035",
-      "last_scanned": "2026-08-20",
+      "last_scanned": "2026-09-16",
       "resolved_roles": 0,
       "url": "https://yamaha-motor.com/"
     },
@@ -25044,7 +25051,7 @@
       "boards": [],
       "company": "O-I",
       "key": "c6aed7a395bc2ec40095f251",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-09-16",
       "resolved_roles": 0,
       "url": "https://www.o-i.com/"
     },
@@ -25413,6 +25420,16 @@
       "last_scanned": "2026-08-22",
       "resolved_roles": 0,
       "url": "https://greptile.com/"
+    },
+    {
+      "boards": [
+        "lever:valdeseng"
+      ],
+      "company": "Valdes Architecture & Engineering",
+      "key": "c982a9dce708c5691534fc72",
+      "last_scanned": "2026-09-16",
+      "resolved_roles": 0,
+      "url": "https://valdeseng.com/"
     },
     {
       "boards": [],
@@ -25796,7 +25813,7 @@
       "company": "DENSO",
       "error": "public request failed for https://www.denso.com/: HTTP Error 403: Forbidden",
       "key": "cc1e38f3db59bbb005f3828d",
-      "last_scanned": "2026-09-01",
+      "last_scanned": "2026-09-16",
       "url": "https://www.denso.com/"
     },
     {
@@ -28604,7 +28621,7 @@
       "company": "Parker Hannifin",
       "error": "public request failed for https://www.parker.com/: HTTP Error 403: Forbidden",
       "key": "e119a7f6379a58ca0c779bf4",
-      "last_scanned": "2026-09-15",
+      "last_scanned": "2026-09-16",
       "url": "https://www.parker.com/"
     },
     {
@@ -28706,7 +28723,7 @@
       "company": "General Dynamics Electric Boat",
       "error": "public request failed for https://www.gdeb.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
       "key": "e1f3afd126424c0ba926147f",
-      "last_scanned": "2026-09-15",
+      "last_scanned": "2026-09-16",
       "url": "https://www.gdeb.com/"
     },
     {
@@ -29212,7 +29229,7 @@
       "company": "Bain Capital",
       "error": "public hostname did not resolve: www.bian.capital",
       "key": "e67cc4e835492a976253783b",
-      "last_scanned": "2026-09-15",
+      "last_scanned": "2026-09-16",
       "url": "https://www.bian.capital/"
     },
     {
@@ -29964,7 +29981,7 @@
       "company": "Infosys",
       "error": "public request failed for https://www.infosys.com/: HTTP Error 403: Forbidden",
       "key": "eb401d2139ce32943d9ce970",
-      "last_scanned": "2026-09-15",
+      "last_scanned": "2026-09-16",
       "url": "https://www.infosys.com/"
     },
     {
@@ -30450,7 +30467,7 @@
       "company": "City Year",
       "error": "public request failed for https://www.cityyear.org/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
       "key": "eee58aef50989c18febcd9d0",
-      "last_scanned": "2026-09-15",
+      "last_scanned": "2026-09-16",
       "url": "https://www.cityyear.org/"
     },
     {
@@ -31339,7 +31356,7 @@
       "company": "Super Micro Computer Spain, S.L.",
       "error": "public request failed for https://www.supermicro.es/: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1000)>",
       "key": "f45447bf27f7ecbd76dd768e",
-      "last_scanned": "2026-09-15",
+      "last_scanned": "2026-09-16",
       "url": "https://www.supermicro.es/"
     },
     {
@@ -32106,7 +32123,7 @@
       "company": "Hewlett Packard Enterprise",
       "error": "public request failed for https://www.hpe.com/: The read operation timed out",
       "key": "fb9d829f215a3234760b16c3",
-      "last_scanned": "2026-09-15",
+      "last_scanned": "2026-09-16",
       "url": "https://www.hpe.com/"
     },
     {
@@ -32469,14 +32486,14 @@
       "company": "Rockefeller Capital Management",
       "error": "public request failed for https://www.rockco.com/: HTTP Error 403: Forbidden",
       "key": "fdce2ad7fe22f8b57ee3776a",
-      "last_scanned": "2026-09-15",
+      "last_scanned": "2026-09-16",
       "url": "https://www.rockco.com/"
     },
     {
       "company": "Corning Incorporated",
       "error": "public request failed for https://www.corning.com/: HTTP Error 403: Forbidden",
       "key": "fdd9fdefbf94bcc1eb6163ea",
-      "last_scanned": "2026-09-13",
+      "last_scanned": "2026-09-16",
       "url": "https://www.corning.com/"
     },
     {
@@ -32662,7 +32679,7 @@
       "boards": [],
       "company": "Oak Ridge National Laboratory",
       "key": "ff612cfcb0d505730515f4b9",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-09-16",
       "resolved_roles": 0,
       "url": "https://www.ornl.gov/"
     },
