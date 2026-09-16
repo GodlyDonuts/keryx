@@ -3094,6 +3094,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Farmers Mutual Hail Insurance",
+      "key": "greenhouse:farmersmutualhailinsurancecompany",
+      "slug": "farmersmutualhailinsurancecompany"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Fashion Nova",
       "key": "greenhouse:fashionnova",
       "slug": "fashionnova"
@@ -6026,10 +6032,58 @@
     },
     {
       "ats": "oracle",
+      "company": "Bellingham at West Chester",
+      "host": "eexs.fa.us2.oraclecloud.com",
+      "key": "oracle:eexs.fa.us2.oraclecloud.com:bellinghamatwestchester",
+      "site": "BellinghamatWestChester",
+      "slug": "eexs"
+    },
+    {
+      "ats": "oracle",
+      "company": "Casa de las Campanas",
+      "host": "eexs.fa.us2.oraclecloud.com",
+      "key": "oracle:eexs.fa.us2.oraclecloud.com:casadelascampanas",
+      "site": "CasaDeLasCampanas",
+      "slug": "eexs"
+    },
+    {
+      "ats": "oracle",
+      "company": "Clarendale West End",
+      "host": "eexs.fa.us2.oraclecloud.com",
+      "key": "oracle:eexs.fa.us2.oraclecloud.com:clarendalewestend",
+      "site": "clarendalewestend",
+      "slug": "eexs"
+    },
+    {
+      "ats": "oracle",
+      "company": "The Delaney at The Green",
+      "host": "eexs.fa.us2.oraclecloud.com",
+      "key": "oracle:eexs.fa.us2.oraclecloud.com:delaneyatthegreen",
+      "site": "DelaneyattheGreen",
+      "slug": "eexs"
+    },
+    {
+      "ats": "oracle",
+      "company": "The Delaney at The Vale",
+      "host": "eexs.fa.us2.oraclecloud.com",
+      "key": "oracle:eexs.fa.us2.oraclecloud.com:delaneyatthevale",
+      "site": "DelaneyattheVale",
+      "slug": "eexs"
+    },
+    {
+      "ats": "oracle",
       "company": "Greenwood Village South",
       "host": "eexs.fa.us2.oraclecloud.com",
       "key": "oracle:eexs.fa.us2.oraclecloud.com:greenwoodvillagesouth",
       "site": "GreenwoodVillageSouth",
+      "slug": "eexs"
+    },
+    {
+      "ats": "oracle",
+      "company": "StoneRidge Senior Living Community",
+      "host": "eexs.fa.us2.oraclecloud.com",
+      "key": "oracle:eexs.fa.us2.oraclecloud.com:stoneridge",
+      "site": "Stoneridge",
       "slug": "eexs"
     },
     {
@@ -15661,6 +15715,15 @@
       "site": "professional",
       "slug": "rollsroyce",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Rosendin",
+      "host": "rosendin.wd1.myworkdayjobs.com",
+      "key": "workday:rosendin.wd1.myworkdayjobs.com:rosendin:careers",
+      "site": "Careers",
+      "slug": "rosendin",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
