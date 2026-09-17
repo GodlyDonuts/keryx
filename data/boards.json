@@ -1472,6 +1472,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Radiant",
+      "key": "ashby:radiant-industries",
+      "slug": "radiant-industries"
+    },
+    {
+      "ats": "ashby",
       "company": "RapDev",
       "key": "ashby:rapdev",
       "slug": "rapdev"
@@ -8602,6 +8608,12 @@
     },
     {
       "ats": "workable",
+      "company": "Stafford Gray",
+      "key": "workable:staffordgray",
+      "slug": "staffordgray"
+    },
+    {
+      "ats": "workable",
       "company": "Syntiant",
       "key": "workable:syntiant",
       "slug": "syntiant"
@@ -10234,6 +10246,15 @@
     },
     {
       "ats": "workday",
+      "company": "Argo Group",
+      "host": "brookfield.wd5.myworkdayjobs.com",
+      "key": "workday:brookfield.wd5.myworkdayjobs.com:brookfield:bpandc",
+      "site": "bpandc",
+      "slug": "brookfield",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Brookfield",
       "host": "brookfield.wd5.myworkdayjobs.com",
       "key": "workday:brookfield.wd5.myworkdayjobs.com:brookfield:brookfield",
@@ -10726,6 +10747,15 @@
       "site": "CHRobinson",
       "slug": "chrobinson",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Church & Dwight",
+      "host": "churchdwight.wd1.myworkdayjobs.com",
+      "key": "workday:churchdwight.wd1.myworkdayjobs.com:churchdwight:chdcareers",
+      "site": "chdcareers",
+      "slug": "churchdwight",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -13918,7 +13948,7 @@
       "company": "LSEG",
       "host": "lseg.wd3.myworkdayjobs.com",
       "key": "workday:lseg.wd3.myworkdayjobs.com:lseg:careers",
-      "site": "careers",
+      "site": "Careers",
       "slug": "lseg",
       "wd": "wd3"
     },
@@ -15913,6 +15943,15 @@
     },
     {
       "ats": "workday",
+      "company": "Republic Airways",
+      "host": "rjet.wd108.myworkdayjobs.com",
+      "key": "workday:rjet.wd108.myworkdayjobs.com:rjet:external_career_site",
+      "site": "External_Career_Site",
+      "slug": "rjet",
+      "wd": "wd108"
+    },
+    {
+      "ats": "workday",
       "company": "Protiviti",
       "host": "roberthalf.wd1.myworkdayjobs.com",
       "key": "workday:roberthalf.wd1.myworkdayjobs.com:roberthalf:protivitiexperiencedcareers",
@@ -16948,6 +16987,15 @@
     },
     {
       "ats": "workday",
+      "company": "Tandem Diabetes Care",
+      "host": "tandemdiabetes.wd12.myworkdayjobs.com",
+      "key": "workday:tandemdiabetes.wd12.myworkdayjobs.com:tandemdiabetes:tandemdiabetes",
+      "site": "tandemdiabetes",
+      "slug": "tandemdiabetes",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
       "company": "Tapestry",
       "host": "tapestry.wd108.myworkdayjobs.com",
       "key": "workday:tapestry.wd108.myworkdayjobs.com:tapestry:tapestry_careers",
@@ -17170,6 +17218,15 @@
       "site": "TMG",
       "slug": "themutualgroup",
       "wd": "wd108"
+    },
+    {
+      "ats": "workday",
+      "company": "OCC",
+      "host": "theocc.wd5.myworkdayjobs.com",
+      "key": "workday:theocc.wd5.myworkdayjobs.com:theocc:careers",
+      "site": "careers",
+      "slug": "theocc",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
@@ -18001,6 +18058,15 @@
     },
     {
       "ats": "workday",
+      "company": "Watts Water",
+      "host": "wattswater.wd5.myworkdayjobs.com",
+      "key": "workday:wattswater.wd5.myworkdayjobs.com:wattswater:intern-external",
+      "site": "Intern-External",
+      "slug": "wattswater",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Waukesha County Health & Human Services",
       "host": "waukeshacounty.wd12.myworkdayjobs.com",
       "key": "workday:waukeshacounty.wd12.myworkdayjobs.com:waukeshacounty:careers",
@@ -18024,6 +18090,14 @@
       "key": "workday:wd1.myworkdaysite.com:avnet:external",
       "site": "External",
       "slug": "avnet"
+    },
+    {
+      "ats": "workday",
+      "company": "The Clorox Company",
+      "host": "wd1.myworkdaysite.com",
+      "key": "workday:wd1.myworkdaysite.com:clorox:clorox",
+      "site": "Clorox",
+      "slug": "clorox"
     },
     {
       "ats": "workday",
