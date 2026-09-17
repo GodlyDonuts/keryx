@@ -1100,6 +1100,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Mercor",
+      "key": "ashby:mercor",
+      "slug": "mercor"
+    },
+    {
+      "ats": "ashby",
       "company": "Miovision",
       "key": "ashby:miovision",
       "slug": "miovision"
@@ -3034,6 +3040,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Emergent Labs",
+      "key": "greenhouse:emergentlabsinc",
+      "slug": "emergentlabsinc"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Maven Securities",
       "key": "greenhouse:emergingtalent",
       "slug": "emergingtalent"
@@ -3739,6 +3751,12 @@
       "company": "Man Group",
       "key": "greenhouse:mangroup",
       "slug": "mangroup"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "VML",
+      "key": "greenhouse:map",
+      "slug": "map"
     },
     {
       "ats": "greenhouse",
@@ -6691,6 +6709,14 @@
       "key": "oracle:fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
       "site": "CX_1",
       "slug": "fa-eqcd-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
+      "company": "SKYGEN",
+      "host": "fa-eqhn-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-eqhn-saasfaprod1.fa.ocs.oraclecloud.com:cx_2",
+      "site": "CX_2",
+      "slug": "fa-eqhn-saasfaprod1"
     },
     {
       "ats": "oracle",
@@ -11570,6 +11596,15 @@
     },
     {
       "ats": "workday",
+      "company": "AFB International",
+      "host": "ebi.wd5.myworkdayjobs.com",
+      "key": "workday:ebi.wd5.myworkdayjobs.com:ebi:afbcareers",
+      "site": "afbcareers",
+      "slug": "ebi",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Ensign-Bickford Aerospace & Defense Company",
       "host": "ebi.wd5.myworkdayjobs.com",
       "key": "workday:ebi.wd5.myworkdayjobs.com:ebi:ebadcareers",
@@ -14531,6 +14566,15 @@
     },
     {
       "ats": "workday",
+      "company": "Cencora",
+      "host": "myhrabc.wd5.myworkdayjobs.com",
+      "key": "workday:myhrabc.wd5.myworkdayjobs.com:myhrabc:global",
+      "site": "Global",
+      "slug": "myhrabc",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "OneMain Financial",
       "host": "myhrhome.wd1.myworkdayjobs.com",
       "key": "workday:myhrhome.wd1.myworkdayjobs.com:myhrhome:onemaincareers",
@@ -16540,6 +16584,15 @@
       "ats": "workday",
       "company": "State Street",
       "host": "statestreet.wd1.myworkdayjobs.com",
+      "key": "workday:statestreet.wd1.myworkdayjobs.com:statestreet:equest",
+      "site": "equest",
+      "slug": "statestreet",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "State Street",
+      "host": "statestreet.wd1.myworkdayjobs.com",
       "key": "workday:statestreet.wd1.myworkdayjobs.com:statestreet:global",
       "site": "Global",
       "slug": "statestreet",
@@ -17820,6 +17873,15 @@
       "host": "visa.wd5.myworkdayjobs.com",
       "key": "workday:visa.wd5.myworkdayjobs.com:visa:visa",
       "site": "Visa",
+      "slug": "visa",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Visa",
+      "host": "visa.wd5.myworkdayjobs.com",
+      "key": "workday:visa.wd5.myworkdayjobs.com:visa:visa_early_careers",
+      "site": "visa_early_careers",
       "slug": "visa",
       "wd": "wd5"
     },
