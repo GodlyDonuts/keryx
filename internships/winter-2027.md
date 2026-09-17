@@ -4,10 +4,11 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**150 open roles**
+**151 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
+| The Walt Disney Company | Show Control Software Intern | Lake Buena Vista, FL, Glendale, CA | not available<br><sub>posting text not indexed</sub> | 2026-09-17 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · disney.wd5.myworkdayjobs.com](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Show-Control-Software-Internship--Spring-2027_10160946)<br><sub>recognized recruiting platform</sub> |
 | Databricks | Software Engineering Intern - 2027 Start - Winter | Mountain View, CA +2 | Fall 2027–Spring 2028<br><sub>graduation: stated · direct ATS text · checked 2026-09-16</sub> | 2026-09-16 | [Greenhouse direct](https://job-boards.greenhouse.io/databricks), [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-Internship), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · databricks.com](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002)<br><sub>ATS checked</sub> |
 | Illinois Tool Works | Product Management Intern | San Luis Obispo, CA | not available<br><sub>posting text not indexed</sub> | 2026-09-16 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · careers.itw.com](https://careers.itw.com/global/en/job/JR10112)<br><sub>source reported</sub> |
 | Itron | Firmware Engineer Intern | West Union, SC | not available<br><sub>posting text not indexed</sub> | 2026-09-16 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · itron.wd5.myworkdayjobs.com](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920)<br><sub>recognized recruiting platform</sub> |
