@@ -9,15 +9,15 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**7,277 internships · 4,710 new-grad roles · 11,987 total openings**
+**7,264 internships · 4,698 new-grad roles · 11,962 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,434 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 3,418 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 491 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 401 | **[View openings →](internships/spring-2027.md)** |
+| 🌱 Spring 2027 | 404 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 151 | **[View openings →](internships/winter-2027.md)** |
 | 📅 Season not listed | 2,800 | **[View openings →](internships/unscheduled.md)** |
 
@@ -25,9 +25,9 @@
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 949 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,271 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,490 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 957 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,245 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,496 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| The Walt Disney Company | Show Control Software Intern | Lake Buena Vista, FL, Glendale, CA | Winter 2027 | not available | 2026-09-17 | **[Apply →](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Show-Control-Software-Internship--Spring-2027_10160946)**<br><sub>disney.wd5.myworkdayjobs.com</sub> |
-| Visa | Associate Product Manager (APM) Intern - Summer 2027 | US - Austin, TX | Summer 2027 | not available | 2026-09-17 | **[Apply →](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W)**<br><sub>visa.wd5.myworkdayjobs.com</sub> |
-| AEG | Global Partnerships Intern - Data & Research | LA | Fall 2026 | not available | 2026-09-16 | **[Apply →](https://job-boards.greenhouse.io/aegworldwide/jobs/8811721002)**<br><sub>job-boards.greenhouse.io</sub> |
-| AeroVironment | Software Engineer Intern | Melbourne, FL | Summer 2027 | not available | 2026-09-16 | **[Apply →](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Melbourne-FL/Summer-2027-Software-Engineering-Intern_8550)**<br><sub>avav.wd1.myworkdayjobs.com</sub> |
-| Altar'd State | Spring 2027 IT Data Intern | Knoxville, TN | Spring 2027 | not available | 2026-09-16 | **[Apply →](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Data-Intern_SOSJ12488-1)**<br><sub>standoutforgood.wd12.myworkdayjobs.com</sub> |
-| Altar'd State | Spring 2027 IT Ecommerce Product Owner Intern | Knoxville, TN | Spring 2027 | not available | 2026-09-16 | **[Apply →](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Ecommerce-Product-Owner-Intern_SOSJ12489)**<br><sub>standoutforgood.wd12.myworkdayjobs.com</sub> |
-| AMD | AI Model Optimization & Software Engineer Intern/Co-op | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-09-16 | **[Apply →](https://careers.amd.com/jobs/92522?icims=1)**<br><sub>careers.amd.com</sub> |
-| AMD | AI Model Optimization & Software Engineer Intern/Co-op | Austin, TX | Summer 2027 | not available | 2026-09-16 | **[Apply →](https://careers.amd.com/jobs/92526?icims=1)**<br><sub>careers.amd.com</sub> |
-| Amgen | Undergrad Co-op – DSTS – Chemical Engineering - (January – June 2027) | US - Massachusetts - Cambridge | Not listed | not available | 2026-09-16 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/US---Massachusetts---Cambridge/Undergrad-Co-op---DSTS---Chemical-Engineering----January---June-2027-_R-255684)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
-| Amperesand | Software Engineering Intern | Reno, Nevada, United States | Not listed | not available | 2026-09-16 | **[Apply →](https://job-boards.greenhouse.io/amperesand/jobs/4409254009)**<br><sub>job-boards.greenhouse.io</sub> |
-| AMT Engineering | Structural Engineer Intern - May 2027 | Columbus, OH | Not listed | Expected Aug 2027 graduation<br><sub>stated</sub> | 2026-09-16 | **[Apply →](https://jobs.lever.co/amtengineering/30b54897-bf01-4f2b-83c0-4587a5f0ff0b)**<br><sub>jobs.lever.co</sub> |
-| AMT Engineering | Structural Engineer Intern - May 2027 | Pittsburgh, Pennsylvania | Not listed | Expected Aug 2027 graduation<br><sub>stated</sub> | 2026-09-16 | **[Apply →](https://jobs.lever.co/amtengineering/3cf68be4-f1dc-4a61-a88b-a6d719f43cf4)**<br><sub>jobs.lever.co</sub> |
+| ABB | Electrical Design Engineer Intern- Summer 2027 | Fort Smith, Arkansas, United States of America | Summer 2027 | not available | 2026-09-17 | **[Apply →](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Electrical-Design-Engineer-Intern--Summer-2027_JR00045726)**<br><sub>abb.wd3.myworkdayjobs.com</sub> |
+| ABB | Quality Engineering Intern - Summer 2027 | New Berlin, Wisconsin, United States of America | Summer 2027 | not available | 2026-09-17 | **[Apply →](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Quality-Engineering-Intern---Summer-2027_JR00047273)**<br><sub>abb.wd3.myworkdayjobs.com</sub> |
+| Bee Sweet Citrus, Inc. | Data Processing Intern | Fowler, California, United States | Not listed | not available | 2026-09-17 | **[Apply →](https://beesweetcitrus.applytojob.com/apply/MMbyNj6r3a/Data-Processing-Intern)**<br><sub>beesweetcitrus.applytojob.com</sub> |
+| Covestro | Operations Engineering Intern | Wilmington, MA | Not listed | not available | 2026-09-17 | **[Apply →](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Wilmington-MA/Operations-Engineering-Intern_JR-2026-01803-1)**<br><sub>covestro.wd3.myworkdayjobs.com</sub> |
+| Draper | Embedded Quality & Fielded Systems Intern | Cambridge, MA | Not listed | not available | 2026-09-17 | **[Apply →](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718)**<br><sub>draper.wd5.myworkdayjobs.com</sub> |
+| General Mills | Internship - Research & Development Food Scientist | Minneapolis, MN | Not listed | not available | 2026-09-17 | **[Apply →](https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Internship---Research---Development-Food-Scientist_10128712)**<br><sub>genmills.wd1.myworkdayjobs.com</sub> |
+| IMEG | Electrical Engineering Intern / Columbus, OH | Columbus, OH | Not listed | not available | 2026-09-17 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Columbus-OH/Electrical-Engineering-Intern---Columbus--OH_R-16684)**<br><sub>wd1.myworkdaysite.com</sub> |
+| IMEG | Mechanical Engineering Intern / Columbus, OH | Columbus, OH | Not listed | not available | 2026-09-17 | **[Apply →](https://wd1.myworkdaysite.com/Imeg_Careers/job/Columbus-OH/Mechanical-Engineering-Intern---Columbus--OH_R-16523)**<br><sub>wd1.myworkdaysite.com</sub> |
+| Micron Technology | Intern - Process Development Engineer, 3D DRAM Photo | Boise, ID - Main Site | Not listed | not available | 2026-09-17 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-Photo_JR107312)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
+| Micron Technology | Intern - Process Development Engineer, Dry Etch | Boise, ID - Main Site | Not listed | not available | 2026-09-17 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Dry-Etch_JR107326)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
+| Sanofi | 2027 Spring Co-Op Engineering & Maintenance, Swiftwater, PA | Swiftwater, PA | Spring 2027 | not available | 2026-09-17 | **[Apply →](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/XMLNAME-2027-Spring-Co-Op-Engineering---Maintenance--Swiftwater--PA_R2853860)**<br><sub>sanofi.wd3.myworkdayjobs.com</sub> |
+| Smith+Nephew | Intern AI Center of Excellence Data Science | US - Pittsburgh, PA | Summer 2027 | not available | 2026-09-17 | **[Apply →](https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1)**<br><sub>smithnephew.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -66,10 +66,10 @@ Recent full-time opportunities that open the employer's application page directl
 | Prolific | AI Trainer | Remote in USA | Not listed | not available | 2026-09-17 | **[Apply →](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4848668101)**<br><sub>job-boards.eu.greenhouse.io</sub> |
 | Prolific | AI Trainer - Bosnian | Remote in USA | Not listed | not available | 2026-09-17 | **[Apply →](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4974797101)**<br><sub>job-boards.eu.greenhouse.io</sub> |
 | Prolific | Computer Science Specialist - AI Training | Remote in USA | Not listed | not available | 2026-09-17 | **[Apply →](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4853457101)**<br><sub>job-boards.eu.greenhouse.io</sub> |
+| Visa | Associate Product Manager (APM), New College Graduate Rotational Program, 2027 | US - Foster City, CA | 2027 | not available | 2026-09-17 | **[Apply →](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088600W)**<br><sub>visa.wd5.myworkdayjobs.com</sub> |
+| Visa | Software Engineer, New College Grad, Bellevue - 2027 | US - Bellevue, WA | 2027 | not available | 2026-09-17 | **[Apply →](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Software-Engineer--New-College-Grad--Bellevue---2027_REF088530W-3)**<br><sub>visa.wd5.myworkdayjobs.com</sub> |
 | Addepar | Software Engineer - Client Experience Frameworks | Remote - New York City, NY | 2027 | not available | 2026-09-16 | **[Apply →](https://job-boards.greenhouse.io/addepar1/jobs/8733680002)**<br><sub>job-boards.greenhouse.io</sub> |
 | Airbus | HMI/Desktop Applications Software Engineer | Bingen, WA | 2026 | not available | 2026-09-16 | **[Apply →](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bingen-WA/HMI-Desktop-Applications-Software-Engineer_JR10439506)**<br><sub>ag.wd3.myworkdayjobs.com</sub> |
-| Amazon | Jr. Software Development Engineer - San Luis Obispo - CA - Jr. Developer Program | San Luis Obispo, CA | 2027 | not available | 2026-09-16 | **[Apply →](https://www.amazon.jobs/jobs/10544071/apply)**<br><sub>www.amazon.jobs</sub> |
-| Amazon | Software Development Engineer - Amazon Leo - Early Career - 2026 | Redmond, WA | 2026 | not available | 2026-09-16 | **[Apply →](https://www.amazon.jobs/jobs/10513110/apply)**<br><sub>www.amazon.jobs</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
