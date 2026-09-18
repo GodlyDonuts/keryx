@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**7,704 internships · 4,738 new-grad roles · 12,442 total openings**
+**7,725 internships · 4,734 new-grad roles · 12,459 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,610 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 3,663 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 496 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 464 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 162 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,972 | **[View openings →](internships/unscheduled.md)** |
+| 🌱 Spring 2027 | 456 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 161 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 2,949 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 996 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,243 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,499 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 1,251 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,487 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,7 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Acron Aviation | Software Engineer Intern - St. Pete Site | St Petersburg, FL | Not listed | not available | 2026-09-18 | **[Apply →](https://jobs.lever.co/acronaviation/19dbac7d-b4fb-4d21-9247-dc610bf55fed)**<br><sub>jobs.lever.co</sub> |
 | Air Products | Summer Intern- IT/Digital Technology (2027) | Allentown, Pennsylvania | Not listed | not available | 2026-09-18 | **[Apply →](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT-Digital-Technology--2027-_JR-2026-21953)**<br><sub>airproducts.wd5.myworkdayjobs.com</sub> |
 | Altar'd State | Spring 2027 IT Analytics Intern | Knoxville, TN | Spring 2027 | not available | 2026-09-18 | **[Apply →](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499)**<br><sub>standoutforgood.wd12.myworkdayjobs.com</sub> |
 | Amazon | Software Development Engineer Intern - Summer | Seattle, WA, Arlington County, Arlington, VA | Summer 2027 | not available | 2026-09-18 | **[Apply →](https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa)**<br><sub>amazon.jobs</sub> |
@@ -45,10 +46,9 @@ Recent internship and co-op listings that open the employer's application page d
 | Brookfield | Intern, Business Analyst | New York, New York | Not listed | not available | 2026-09-18 | **[Apply →](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/New-York-New-York/Intern--Business-Analyst_R2051499)**<br><sub>brookfield.wd5.myworkdayjobs.com</sub> |
 | Casa de las Campanas | Market Research Internship | Des Moines, IA, United States | Not listed | not stated | 2026-09-18 | **[Apply →](https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CasaDeLasCampanas/job/40077)**<br><sub>eexs.fa.us2.oraclecloud.com</sub> |
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-09-18 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
+| Corning | Imaging Sciences Engineer Intern | Keene, NH | Summer 2027 | not available | 2026-09-18 | **[Apply →](https://corningjobs.corning.com/job/Keene-Imaging-Sciences-Engineering-Intern-Summer-2027-NH-03431/1431391900/?ats=successfactors)**<br><sub>corningjobs.corning.com</sub> |
 | Databricks | Software Engineering Intern - 2027 Start - Winter | Mountain View, CA +2 | Winter 2027 | Fall 2027–Spring 2028<br><sub>stated</sub> | 2026-09-18 | **[Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002)**<br><sub>databricks.com</sub> |
-| Grant Thornton | Technology Transformation Intern - Summer 2027 | Dallas, TX, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-18 | **[Apply →](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115666)**<br><sub>ehzq.fa.us2.oraclecloud.com</sub> |
-| GreatAmerica Financial Services | Platform Engineering Intern | Cedar Rapids, IA | Not listed | not available | 2026-09-18 | **[Apply →](https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1)**<br><sub>greatamerica.wd12.myworkdayjobs.com</sub> |
-| Johnson & Johnson | (PALM) and Artificial Intelligence Co-Op | Titusville, New Jersey, United States of America | Not listed | not available | 2026-09-18 | **[Apply →](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/XMLNAME--PALM--and-Artificial-Intelligence-Co-Op_R-099389)**<br><sub>jj.wd5.myworkdayjobs.com</sub> |
+| Debut | Technology Scout Intern – Part-time | San Diego, CA | Not listed | Current student status<br><sub>stated</sub> | 2026-09-18 | **[Apply →](https://job-boards.greenhouse.io/debutbiotech25/jobs/5242236007)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -61,15 +61,15 @@ Recent full-time opportunities that open the employer's application page directl
 | Boeing | Software Systems Engineer - Associate or Experienced | Colorado Springs, CO | 2027 | not available | 2026-09-18 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/en-US/tap2/job/USA---Colorado-Springs-CO/Software-Systems-Engineer--Associate-or-Experienced-_JR2026520215-3)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
 | Brady Martz | AI Prototyping Engineer | Remote in USA, St. Louis, MO | Not listed | not available | 2026-09-18 | **[Apply →](https://apply.workable.com/brady-martz/j/39C6A58F26/apply)**<br><sub>apply.workable.com</sub> |
 | Esri | Software Development Engineer I | St. Louis, MO +1 | 2027 | not available | 2026-09-18 | **[Apply →](https://www.esri.com/careers/5173239007?gh_jid=5173239007)**<br><sub>www.esri.com</sub> |
+| EXL | Data Engineer | Jersey City, NJ | Not listed | not available | 2026-09-18 | **[Apply →](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/20370)**<br><sub>fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 | Global Engineering & Technology, Inc. (GET) | Analyst | Washington, DC | Not listed | not available | 2026-09-18 | **[Apply →](https://apply.workable.com/get-career-site/j/F5E119065E/apply)**<br><sub>apply.workable.com</sub> |
 | Highmark Residential | Operations Data Analyst | Addison, TX | Not listed | not available | 2026-09-18 | **[Apply →](https://careers-highmarkres.icims.com/jobs/10049/job?mobile=true&needsRedirect=false)**<br><sub>careers-highmarkres.icims.com</sub> |
 | Impact | Full Stack Software Engineer | Seattle, WA | 2027 | not available | 2026-09-18 | **[Apply →](https://job-boards.greenhouse.io/impact/jobs/8465838002)**<br><sub>job-boards.greenhouse.io</sub> |
+| NORC at the University of Chicago | Statistician I - survey research and analytic projects - Chicago Loop Office | Greater Chicago Area, United States | 2026 | not available | 2026-09-18 | **[Apply →](https://careers.norc.org/en-us/job/503956/statistician-i-survey-research-and-analytic-projects-chicago-loop-office)**<br><sub>careers.norc.org</sub> |
+| NORC at the University of Chicago | Statistician I - survey research and analytic projects - Washington DC Office | Washington, DC, United States | 2026 | not available | 2026-09-18 | **[Apply →](https://careers.norc.org/en-us/job/503957/statistician-i-survey-research-and-analytic-projects-washington-dc-office)**<br><sub>careers.norc.org</sub> |
 | Stripe | Software Engineer - Early Career - Immediate Start | Seattle, WA, SF, NYC | Not listed | not available | 2026-09-18 | **[Apply →](https://stripe.com/jobs/search?gh_jid=8212508)**<br><sub>stripe.com</sub> |
 | Twitch | Software Engineer I - Discovery | San Francisco, CA | 2027 | not available | 2026-09-18 | **[Apply →](https://job-boards.greenhouse.io/twitch/jobs/8623578002)**<br><sub>job-boards.greenhouse.io</sub> |
 | Accenture Federal Services | Jr. Software Engineer | Annapolis Junction, MD | 2027 | not available | 2026-09-17 | **[Apply →](https://boards.greenhouse.io/accenturefederalservices/jobs/4689025006?gh_jid=4689025006)**<br><sub>boards.greenhouse.io</sub> |
-| ALTEN Mexico | HIL Testing Engineer | Troy, MI | Not listed | not available | 2026-09-17 | **[Apply →](https://jobs.smartrecruiters.com/ALTEN/744000150043430)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Amazon | Software Engineer - AWS SageMaker Unified Studio | Arlington, VA | 2027 | not available | 2026-09-17 | **[Apply →](https://www.amazon.jobs/jobs/10551396/apply)**<br><sub>www.amazon.jobs</sub> |
-| AMT Engineering | Entry Level Site / Civil Engineer - May 2027 | Herndon, Virginia | 2027 | Expected May 2027 graduation<br><sub>stated</sub> | 2026-09-17 | **[Apply →](https://jobs.lever.co/amtengineering/b559acc0-71af-411f-ad70-862cf00bdfab)**<br><sub>jobs.lever.co</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

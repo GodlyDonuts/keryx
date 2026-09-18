@@ -1514,6 +1514,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Render",
+      "key": "ashby:render",
+      "slug": "render"
+    },
+    {
+      "ats": "ashby",
       "company": "Replit",
       "key": "ashby:replit",
       "slug": "replit"
@@ -2977,6 +2983,12 @@
       "company": "DataDome",
       "key": "greenhouse:ddome",
       "slug": "ddome"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Debut",
+      "key": "greenhouse:debutbiotech25",
+      "slug": "debutbiotech25"
     },
     {
       "ats": "greenhouse",
@@ -7380,6 +7392,22 @@
     },
     {
       "ats": "oracle",
+      "company": "Lazard",
+      "host": "icbpjb.fa.ocs.oraclecloud.com",
+      "key": "oracle:icbpjb.fa.ocs.oraclecloud.com:lazardprofessionalcareers",
+      "site": "LazardProfessionalCareers",
+      "slug": "icbpjb"
+    },
+    {
+      "ats": "oracle",
+      "company": "Lazard",
+      "host": "icbpjb.fa.ocs.oraclecloud.com",
+      "key": "oracle:icbpjb.fa.ocs.oraclecloud.com:lazardstudentcareers",
+      "site": "LazardStudentCareers",
+      "slug": "icbpjb"
+    },
+    {
+      "ats": "oracle",
       "company": "Honeywell Aerospace",
       "host": "icfcjb.fa.ocs.oraclecloud.com",
       "key": "oracle:icfcjb.fa.ocs.oraclecloud.com:aerospace",
@@ -11687,6 +11715,15 @@
       "key": "workday:dutchbros.wd1.myworkdayjobs.com:dutchbros:dbshops",
       "site": "DBShops",
       "slug": "dutchbros",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "DXC Technology",
+      "host": "dxctechnology.wd1.myworkdayjobs.com",
+      "key": "workday:dxctechnology.wd1.myworkdayjobs.com:dxctechnology:dxcjobs",
+      "site": "DXCJobs",
+      "slug": "dxctechnology",
       "wd": "wd1"
     },
     {
