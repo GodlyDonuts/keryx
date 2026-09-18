@@ -9,24 +9,24 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**7,469 internships · 4,744 new-grad roles · 12,213 total openings**
+**7,516 internships · 4,741 new-grad roles · 12,257 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,523 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 492 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 413 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 3,537 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 495 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 412 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 158 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,883 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 2,914 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 985 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,264 | **[View openings →](new-grad/2026.md)** |
+| 2027 | 986 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,260 | **[View openings →](new-grad/2026.md)** |
 | Year not listed | 2,495 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
@@ -37,6 +37,8 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Amazon | Software Development Engineer Intern - Summer | Seattle, WA, Arlington County, Arlington, VA | Summer 2027 | not available | 2026-09-18 | **[Apply →](https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa)**<br><sub>amazon.jobs</sub> |
+| TikTok | Machine Learning Engineer Intern - E-Commerce Recommendation Mall | San Jose, CA | Summer 2027 | not available | 2026-09-18 | **[Apply →](https://lifeattiktok.com/search/7686283601340369205)**<br><sub>lifeattiktok.com</sub> |
 | Acxiom | Product Operations Intern | Conway, AR | Winter 2027 | not available | 2026-09-17 | **[Apply →](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014478)**<br><sub>acxiomllc.wd5.myworkdayjobs.com</sub> |
 | Acxiom | Product Operations Intern | Conway, AR | Winter 2027 | not available | 2026-09-17 | **[Apply →](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014480)**<br><sub>acxiomllc.wd5.myworkdayjobs.com</sub> |
 | Acxiom | Product Operations Intern | Conway, AR | Winter 2027 | not available | 2026-09-17 | **[Apply →](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014479-1)**<br><sub>acxiomllc.wd5.myworkdayjobs.com</sub> |
@@ -44,11 +46,9 @@ Recent internship and co-op listings that open the employer's application page d
 | AFB International | Research & Development Intern | St. Charles, MO | Not listed | not available | 2026-09-17 | **[Apply →](https://ebi.wd5.myworkdayjobs.com/afbcareers/job/St-Charles-MO/Research---Development-Intern_REQ107708-1)**<br><sub>ebi.wd5.myworkdayjobs.com</sub> |
 | Akuna Capital | Accounting Intern (Term-Time, Part-Time) | Chicago, IL | Not listed | Current student status<br><sub>stated</sub> | 2026-09-17 | **[Apply →](https://www.akunacapital.com/careers/job/8109370/?gh_jid=8109370)**<br><sub>www.akunacapital.com</sub> |
 | Amazon | Software Development Engineer Internship - Summer -2027 (USA) | Seattle, Washington, USA | Summer 2027 | not available | 2026-09-17 | **[Apply →](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa)**<br><sub>www.amazon.jobs</sub> |
+| Amperesand | Software Engineering Intern | Reno, Nevada, United States | Not listed | not available | 2026-09-17 | **[Apply →](https://job-boards.greenhouse.io/amperesand/jobs/4409254009)**<br><sub>job-boards.greenhouse.io</sub> |
 | Avis Budget Group | Data Analytics Intern | Parsippany-Troy Hills, NJ | Summer 2027 | not available | 2026-09-17 | **[Apply →](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Data-Analytics-Intern-Summer-2027_R0190389)**<br><sub>avisbudget.wd1.myworkdayjobs.com</sub> |
 | Avis Budget Group | IT Engineering Intern - Accelerate | Parsippany-Troy Hills, NJ | Summer 2027 | not available | 2026-09-17 | **[Apply →](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---IT-Engineering-Intern-Summer-2027_R0190463)**<br><sub>avisbudget.wd1.myworkdayjobs.com</sub> |
-| Axcelis Technologies | Manufacturing Software Development Co-op | Beverly, MA | Spring 2027 | not available | 2026-09-17 | **[Apply →](https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Co-Op---Manufacturing-Software-Development-_12019)**<br><sub>axcelis.wd1.myworkdayjobs.com</sub> |
-| BDO USA | Advisory Intern, Cyber, Compliance & Assessment - Summer 2027 (Multiple Locations) | McLean, VA, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-09-17 | **[Apply →](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/14074)**<br><sub>ebqb.fa.us2.oraclecloud.com</sub> |
-| BDO USA | Advisory Intern, Cyber, Compliance & Assessment - Summer 2027 (Multiple Locations) | McLean, VA, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-09-17 | **[Apply →](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOExperiencedCareers/job/14074)**<br><sub>ebqb.fa.us2.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,6 +58,8 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Fortinet | Software Development Engineer - Gui | Sunnyvale, CA | Not listed | not available | 2026-09-18 | **[Apply →](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24399)**<br><sub>edel.fa.us2.oraclecloud.com</sub> |
+| Global Engineering & Technology, Inc. (GET) | Analyst | Washington, DC | Not listed | not available | 2026-09-18 | **[Apply →](https://apply.workable.com/get-career-site/j/F5E119065E/apply)**<br><sub>apply.workable.com</sub> |
 | Accenture Federal Services | Jr. Software Engineer | Annapolis Junction, MD | 2027 | not available | 2026-09-17 | **[Apply →](https://boards.greenhouse.io/accenturefederalservices/jobs/4689025006?gh_jid=4689025006)**<br><sub>boards.greenhouse.io</sub> |
 | ALTEN Mexico | HIL Testing Engineer | Troy, MI | Not listed | not available | 2026-09-17 | **[Apply →](https://jobs.smartrecruiters.com/ALTEN/744000150043430)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Amazon | Software Engineer - AWS SageMaker Unified Studio | Arlington, VA | 2027 | not available | 2026-09-17 | **[Apply →](https://www.amazon.jobs/jobs/10551396/apply)**<br><sub>www.amazon.jobs</sub> |
@@ -68,8 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | ASSA ABLOY | Associate Engineer | Berlin, CT | Not listed | not available | 2026-09-17 | **[Apply →](https://assaabloy.jobs2web.com/job/Berlin-Associate-Engineer-CT-06037/1438188233/?ats=successfactors)**<br><sub>assaabloy.jobs2web.com</sub> |
 | Badger Meter | Engineer 1 - Hydro Lab | Milwaukee, WI | Not listed | not available | 2026-09-17 | **[Apply →](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Engineer-I--Hydro-Lab_4456)**<br><sub>badgermeter.wd5.myworkdayjobs.com</sub> |
 | Boeing | Space Electronics Test Systems Design Engineer - Special Test Equipment - Space Electronics | El Segundo, CA | Not listed | not available | 2026-09-17 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Space-Electronics-Test-Systems-Design-Engineer--Experienced-Lead-_JR2026524763-1)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
-| Boeing | Space Electronics Test Systems Design Engineer - Special Test Equipment - Space Electronics | El Segundo, CA | Not listed | not available | 2026-09-17 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Space-Electronics-Test-Systems-Design-Engineer--Experienced-Lead-_JR2026524763)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
-| CACI | Software Engineer | Lisle, IL | Not listed | not available | 2026-09-17 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/Lisle-IL-US/Software-Engineer_332202)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
