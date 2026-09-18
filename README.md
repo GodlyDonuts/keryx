@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**7,569 internships · 4,761 new-grad roles · 12,330 total openings**
+**7,533 internships · 4,750 new-grad roles · 12,283 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,577 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 3,556 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 496 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 421 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 162 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,913 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 2,898 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 986 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,279 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,496 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 985 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,264 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,501 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,17 +38,17 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Amazon | Software Development Engineer Intern - Summer | Seattle, WA, Arlington County, Arlington, VA | Summer 2027 | not available | 2026-09-18 | **[Apply →](https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa)**<br><sub>amazon.jobs</sub> |
+| LabCorp | Intern - Research and Development - Molecular | Westborough MA | Not listed | not available | 2026-09-18 | **[Apply →](https://labcorp.wd1.myworkdayjobs.com/external/job/Westborough-MA/Intern---Research-and-Development---Molecular_2632163-1)**<br><sub>labcorp.wd1.myworkdayjobs.com</sub> |
 | Microsoft | Electrical Engineer Intern - 6-Month Program | Seattle, WA, San Jose, CA, Raleigh, NC | Winter 2027 | not available | 2026-09-18 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393556982262)**<br><sub>apply.careers.microsoft.com</sub> |
 | Microsoft | Silicon Engineering Intern - 6-month Program | Hillsboro, OR, Mountain View, CA | Winter 2027 | not available | 2026-09-18 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393556982259)**<br><sub>apply.careers.microsoft.com</sub> |
 | Microsoft | Software Engineer Intern | Redmond, WA, Santa Clara, CA | Winter 2027 | not available | 2026-09-18 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393556982258)**<br><sub>apply.careers.microsoft.com</sub> |
-| Tesla | Internship - Electrical Engineer - Power Electronics - Optimus - Winter/Spring 2027 | Palo Alto, CA | Spring 2027 | not available | 2026-09-18 | **[Apply →](https://www.tesla.com/careers/search/job/284009)**<br><sub>www.tesla.com</sub> |
+| Netsmart | IT System Administrator Intern (Summer 2027 Internship) | Overland Park, KS | Summer 2027 | not available | 2026-09-18 | **[Apply →](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/IT-System-Administrator-Intern---Summer-2027-Internship-_R015666)**<br><sub>ntst.wd1.myworkdayjobs.com</sub> |
+| Netsmart | Security Analyst Future (Summer 2027 Internship) | Overland Park, KS | Summer 2027 | not available | 2026-09-18 | **[Apply →](https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Security-Analyst-Future--Summer-2027-Internship-_R015669)**<br><sub>ntst.wd1.myworkdayjobs.com</sub> |
 | Tesla | Internship - Electronic Design Engineer - Optimus - Winter/Spring 2027 | Palo Alto, CA | Spring 2027 | not available | 2026-09-18 | **[Apply →](https://www.tesla.com/careers/search/job/284008)**<br><sub>www.tesla.com</sub> |
 | Tesla | Internship - Software Engineering - People Products - Summer 2027 | Palo Alto, CA | Summer 2027 | not available | 2026-09-18 | **[Apply →](https://www.tesla.com/careers/search/job/284004)**<br><sub>www.tesla.com</sub> |
-| Tesla | Internship - Software Engineering - People Products - Winter/Spring 2027 | Palo Alto, CA | Spring 2027 | not available | 2026-09-18 | **[Apply →](https://www.tesla.com/careers/search/job/284003)**<br><sub>www.tesla.com</sub> |
 | Tesla | Internship - System Integration & Test Automation Engineer - Energy Engineering - Winter/Spring 2027 | Palo Alto, CA | Spring 2027 | not available | 2026-09-18 | **[Apply →](https://www.tesla.com/careers/search/job/284026)**<br><sub>www.tesla.com</sub> |
 | Tesla | Product Manager Intern - Residential Energy Engineering | Palo Alto, CA | Winter 2027 | not available | 2026-09-18 | **[Apply →](https://www.tesla.com/careers/search/job/283841)**<br><sub>www.tesla.com</sub> |
 | Tesla | Site Controller Software Engineer Intern - Energy Engineering | Palo Alto, CA | Spring 2027 | not available | 2026-09-18 | **[Apply →](https://www.tesla.com/careers/search/job/283956)**<br><sub>www.tesla.com</sub> |
-| Tesla | Software Engineer Intern - Energy Engineering | Palo Alto, CA | Spring 2027 | not available | 2026-09-18 | **[Apply →](https://www.tesla.com/careers/search/job/283950)**<br><sub>www.tesla.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
