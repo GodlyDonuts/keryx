@@ -1360,7 +1360,7 @@
       ],
       "company": "FDB (First Databank, Inc.)",
       "key": "0b1e043e41aea7afb3911d0b",
-      "last_scanned": "2026-09-04",
+      "last_scanned": "2026-09-18",
       "resolved_roles": 0,
       "url": "https://fdbhealth.com/"
     },
@@ -2498,7 +2498,7 @@
       "boards": [],
       "company": "Synopsys Inc",
       "key": "1338b9bc608d179208580ee9",
-      "last_scanned": "2026-08-27",
+      "last_scanned": "2026-09-18",
       "resolved_roles": 0,
       "url": "https://www.synopsys.com/"
     },
@@ -4276,7 +4276,7 @@
       "company": "WHOOP",
       "error": "public request failed for https://www.whoop.com/: HTTP Error 403: Forbidden",
       "key": "208af606069f130189efa0d5",
-      "last_scanned": "2026-09-13",
+      "last_scanned": "2026-09-18",
       "url": "https://www.whoop.com/"
     },
     {
@@ -5007,6 +5007,14 @@
       "url": "https://borestore.com/"
     },
     {
+      "boards": [],
+      "company": "Vituity",
+      "key": "27df74f843ebccedff4ac102",
+      "last_scanned": "2026-09-18",
+      "resolved_roles": 0,
+      "url": "https://www.vituity.com/"
+    },
+    {
       "boards": [
         "workday:johngore.wd1.myworkdayjobs.com:johngore:careers"
       ],
@@ -5601,7 +5609,7 @@
       "company": "Air Products",
       "error": "public request failed for https://www.airproducts.com/: HTTP Error 403: Forbidden",
       "key": "2c75477d3554390644d82d02",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-18",
       "url": "https://www.airproducts.com/"
     },
     {
@@ -7555,7 +7563,7 @@
       "company": "ZOLL Medical Corporation",
       "error": "public request failed for https://www.lifevest.zoll.com/: HTTP Error 404: Not Found",
       "key": "3981002d65d5397b11bfdb49",
-      "last_scanned": "2026-09-04",
+      "last_scanned": "2026-09-18",
       "url": "https://www.lifevest.zoll.com/"
     },
     {
@@ -8314,7 +8322,7 @@
       "boards": [],
       "company": "NYCM Insurance",
       "key": "3f4cab3e5fe4b2559c388be8",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-09-18",
       "resolved_roles": 0,
       "url": "https://www.nycm.com/"
     },
@@ -10932,7 +10940,7 @@
       ],
       "company": "NXP Semiconductors",
       "key": "5323d5458a13464cff5b26b8",
-      "last_scanned": "2026-09-07",
+      "last_scanned": "2026-09-18",
       "resolved_roles": 0,
       "url": "https://www.nxp.com/"
     },
@@ -11269,6 +11277,14 @@
       "last_scanned": "2026-08-31",
       "resolved_roles": 0,
       "url": "https://www.mariastechnology.com/"
+    },
+    {
+      "boards": [],
+      "company": "Dayton Freight Lines, Inc.",
+      "key": "55452373d93c985b39b82df6",
+      "last_scanned": "2026-09-18",
+      "resolved_roles": 0,
+      "url": "https://www.daytonfreight.com/"
     },
     {
       "boards": [],
@@ -12331,6 +12347,14 @@
       "key": "5c5018f56c6e0ced813da282",
       "last_scanned": "2026-09-03",
       "url": "https://www.lubrizol.com/"
+    },
+    {
+      "boards": [],
+      "company": "Crayola",
+      "key": "5c53ac4bba014470afa2e07b",
+      "last_scanned": "2026-09-18",
+      "resolved_roles": 0,
+      "url": "https://www.crayola.com/"
     },
     {
       "company": "LeadVaultAI",
@@ -18881,7 +18905,7 @@
       "boards": [],
       "company": "ROCKWOOL Group",
       "key": "8cc4556744c69882d58d593b",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-18",
       "resolved_roles": 0,
       "url": "https://www.rockwoolgroup.com/"
     },
@@ -25879,7 +25903,7 @@
       "boards": [],
       "company": "CEC",
       "key": "c1793febf3489b708bb0edaa",
-      "last_scanned": "2026-09-09",
+      "last_scanned": "2026-09-18",
       "resolved_roles": 0,
       "url": "https://cecfg.com/"
     },
@@ -30042,6 +30066,13 @@
       "url": "https://barclaysus.com/"
     },
     {
+      "company": "ID Logistics",
+      "error": "public request failed for https://www.id-logistics.com/fr/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "key": "df29250bf269caa81041d3e0",
+      "last_scanned": "2026-09-18",
+      "url": "https://www.id-logistics.com/fr/"
+    },
+    {
       "boards": [
         "workable:ohm-advisors"
       ],
@@ -30376,7 +30407,7 @@
       "boards": [],
       "company": "Manulife",
       "key": "e1a878f3eee69b784f70e748",
-      "last_scanned": "2026-09-09",
+      "last_scanned": "2026-09-18",
       "resolved_roles": 0,
       "url": "https://www.manulife.com/"
     },
@@ -31339,7 +31370,7 @@
       "company": "Knowesis Inc.",
       "error": "Invalid IPv6 URL",
       "key": "e93b7d34f5e5c97c54372bad",
-      "last_scanned": "2026-09-15",
+      "last_scanned": "2026-09-18",
       "url": "https://www.knowesis-inc.com/"
     },
     {
@@ -32344,6 +32375,14 @@
     },
     {
       "boards": [],
+      "company": "Allison Transmission",
+      "key": "ef506e0e1ac3237079b519ea",
+      "last_scanned": "2026-09-18",
+      "resolved_roles": 0,
+      "url": "https://www.allisontransmission.com/"
+    },
+    {
+      "boards": [],
       "company": "The Walt Disney Company",
       "key": "ef50b4a2b263c847211b567a",
       "last_scanned": "2026-09-15",
@@ -32637,7 +32676,7 @@
       "company": "Iberdrola",
       "error": "public request failed for https://www.iberdrola.com/: HTTP Error 403: Forbidden",
       "key": "f183d9003d28fb9086a7bb3f",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-18",
       "url": "https://www.iberdrola.com/"
     },
     {
