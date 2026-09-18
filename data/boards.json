@@ -602,6 +602,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Fable Security",
+      "key": "ashby:fable",
+      "slug": "fable"
+    },
+    {
+      "ats": "ashby",
       "company": "Faros AI",
       "key": "ashby:faros-ai",
       "slug": "faros-ai"
@@ -2204,6 +2210,13 @@
     },
     {
       "ats": "bamboohr",
+      "company": "Powers & Sons Construction",
+      "host": "powersandsons.bamboohr.com",
+      "key": "bamboohr:powersandsons",
+      "slug": "powersandsons"
+    },
+    {
+      "ats": "bamboohr",
       "company": "Saalt",
       "host": "saalt.bamboohr.com",
       "key": "bamboohr:saalt",
@@ -3421,6 +3434,12 @@
       "company": "GuidePoint Security",
       "key": "greenhouse:guidepointsecurity",
       "slug": "guidepointsecurity"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Habitat Health",
+      "key": "greenhouse:habitathealth",
+      "slug": "habitathealth"
     },
     {
       "ats": "greenhouse",
@@ -8182,6 +8201,12 @@
     },
     {
       "ats": "smartrecruiters",
+      "company": "Veolia",
+      "key": "smartrecruiters:veoliaenvironnementsa",
+      "slug": "VeoliaEnvironnementSA"
+    },
+    {
+      "ats": "smartrecruiters",
       "company": "Versant",
       "key": "smartrecruiters:versant3",
       "slug": "Versant3"
@@ -8584,7 +8609,7 @@
     },
     {
       "ats": "workable",
-      "company": "pony.ai",
+      "company": "Pony.ai",
       "key": "workable:pony-dot-ai",
       "slug": "pony-dot-ai"
     },
@@ -9280,7 +9305,7 @@
     },
     {
       "ats": "workday",
-      "company": "Allstate Insurance Company",
+      "company": "Allstate",
       "host": "allstate.wd5.myworkdayjobs.com",
       "key": "workday:allstate.wd5.myworkdayjobs.com:allstate:allstate_careers",
       "site": "allstate_careers",
