@@ -1370,6 +1370,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Persona",
+      "key": "ashby:persona",
+      "slug": "persona"
+    },
+    {
+      "ats": "ashby",
       "company": "Persona AI",
       "key": "ashby:persona.ai",
       "slug": "persona.ai"
@@ -17022,6 +17028,33 @@
     },
     {
       "ats": "workday",
+      "company": "Texas A&M AgriLife Center for Managed Technology Services",
+      "host": "tamus.wd1.myworkdayjobs.com",
+      "key": "workday:tamus.wd1.myworkdayjobs.com:tamus:agrilife_extension_external",
+      "site": "AgriLife_Extension_External",
+      "slug": "tamus",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Texas A&M AgriLife Center for Managed Technology Services",
+      "host": "tamus.wd1.myworkdayjobs.com",
+      "key": "workday:tamus.wd1.myworkdayjobs.com:tamus:agrilife_research_external",
+      "site": "AgriLife_Research_External",
+      "slug": "tamus",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "East Texas A&M University",
+      "host": "tamus.wd1.myworkdayjobs.com",
+      "key": "workday:tamus.wd1.myworkdayjobs.com:tamus:etamu_external",
+      "site": "ETAMU_External",
+      "slug": "tamus",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Prairie View A&M University",
       "host": "tamus.wd1.myworkdayjobs.com",
       "key": "workday:tamus.wd1.myworkdayjobs.com:tamus:pvamu_external",
@@ -17049,10 +17082,28 @@
     },
     {
       "ats": "workday",
+      "company": "Texas A&M AgriLife Center for Managed Technology Services",
+      "host": "tamus.wd1.myworkdayjobs.com",
+      "key": "workday:tamus.wd1.myworkdayjobs.com:tamus:tfs_external",
+      "site": "TFS_External",
+      "slug": "tamus",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Texas A&M Transportation Institute",
       "host": "tamus.wd1.myworkdayjobs.com",
       "key": "workday:tamus.wd1.myworkdayjobs.com:tamus:tti_external",
       "site": "tti_external",
+      "slug": "tamus",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Texas A&M AgriLife Center for Managed Technology Services",
+      "host": "tamus.wd1.myworkdayjobs.com",
+      "key": "workday:tamus.wd1.myworkdayjobs.com:tamus:tvmdl_external",
+      "site": "TVMDL_External",
       "slug": "tamus",
       "wd": "wd1"
     },
