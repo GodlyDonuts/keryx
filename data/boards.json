@@ -1718,6 +1718,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Starfish Space",
+      "key": "ashby:starfish-space-inc",
+      "slug": "starfish-space-inc"
+    },
+    {
+      "ats": "ashby",
       "company": "Sunday Robotics",
       "key": "ashby:sunday",
       "slug": "sunday"
@@ -3916,6 +3922,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "National Football League (NFL)",
+      "key": "greenhouse:nflcareers",
+      "slug": "nflcareers"
+    },
+    {
+      "ats": "greenhouse",
       "company": "National Information Solutions Cooperative",
       "key": "greenhouse:nisc",
       "slug": "nisc"
@@ -5116,6 +5128,12 @@
     },
     {
       "ats": "lever",
+      "company": "CAMS",
+      "key": "lever:camstex",
+      "slug": "camstex"
+    },
+    {
+      "ats": "lever",
       "company": "Catalist",
       "key": "lever:catalist",
       "slug": "catalist"
@@ -5692,6 +5710,12 @@
     },
     {
       "ats": "lever",
+      "company": "TKDA",
+      "key": "lever:tkda",
+      "slug": "tkda"
+    },
+    {
+      "ats": "lever",
       "company": "Toyota Research Institute",
       "key": "lever:tri",
       "slug": "tri"
@@ -6027,6 +6051,14 @@
       "key": "oracle:edbz.fa.us2.oraclecloud.com:cx_1",
       "site": "CX_1",
       "slug": "edbz"
+    },
+    {
+      "ats": "oracle",
+      "company": "Fortinet",
+      "host": "edel.fa.us2.oraclecloud.com",
+      "key": "oracle:edel.fa.us2.oraclecloud.com:cx",
+      "site": "CX",
+      "slug": "edel"
     },
     {
       "ats": "oracle",
@@ -8260,6 +8292,12 @@
     },
     {
       "ats": "workable",
+      "company": "Brady Martz",
+      "key": "workable:brady-martz",
+      "slug": "brady-martz"
+    },
+    {
+      "ats": "workable",
       "company": "CATHEXIS",
       "key": "workable:cathexis",
       "slug": "cathexis"
@@ -9214,6 +9252,15 @@
       "site": "allstate_careers",
       "slug": "allstate",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "St. Jude Children's Research Hospital - ALSAC",
+      "host": "alsacstjude.wd1.myworkdayjobs.com",
+      "key": "workday:alsacstjude.wd1.myworkdayjobs.com:alsacstjude:careersalsacstjude",
+      "site": "careersalsacstjude",
+      "slug": "alsacstjude",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -14788,6 +14835,15 @@
     },
     {
       "ats": "workday",
+      "company": "Biz Technology Solutions, Inc - Managed IT Services",
+      "host": "newchartertech.wd12.myworkdayjobs.com",
+      "key": "workday:newchartertech.wd12.myworkdayjobs.com:newchartertech:biztechnologysolutions",
+      "site": "BizTechnologySolutions",
+      "slug": "newchartertech",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
       "company": "PerkinElmer",
       "host": "newperkinelmer.wd1.myworkdayjobs.com",
       "key": "workday:newperkinelmer.wd1.myworkdayjobs.com:newperkinelmer:external",
@@ -18584,6 +18640,15 @@
       "site": "Zebra_careers",
       "slug": "zebra",
       "wd": "wd501"
+    },
+    {
+      "ats": "workday",
+      "company": "Zekelman Industries",
+      "host": "zekelman.wd12.myworkdayjobs.com",
+      "key": "workday:zekelman.wd12.myworkdayjobs.com:zekelman:careers",
+      "site": "Careers",
+      "slug": "zekelman",
+      "wd": "wd12"
     },
     {
       "ats": "workday",

@@ -4,10 +4,14 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**158 open roles**
+**162 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
+| Microsoft | Electrical Engineer Intern - 6-Month Program | Seattle, WA, San Jose, CA, Raleigh, NC | not available<br><sub>posting text not indexed</sub> | 2026-09-18 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · apply.careers.microsoft.com](https://apply.careers.microsoft.com/careers/job/1970393556982262)<br><sub>source reported</sub> |
+| Microsoft | Silicon Engineering Intern - 6-month Program | Hillsboro, OR, Mountain View, CA | not available<br><sub>posting text not indexed</sub> | 2026-09-18 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · apply.careers.microsoft.com](https://apply.careers.microsoft.com/careers/job/1970393556982259)<br><sub>source reported</sub> |
+| Microsoft | Software Engineer Intern | Redmond, WA, Santa Clara, CA | not available<br><sub>posting text not indexed</sub> | 2026-09-18 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · apply.careers.microsoft.com](https://apply.careers.microsoft.com/careers/job/1970393556982258)<br><sub>source reported</sub> |
+| Tesla | Product Manager Intern - Residential Energy Engineering | Palo Alto, CA | not available<br><sub>posting text not indexed</sub> | 2026-09-18 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · www.tesla.com](https://www.tesla.com/careers/search/job/283841)<br><sub>source reported</sub> |
 | Acxiom | Product Operations Intern | Conway, AR | not available<br><sub>posting text not indexed</sub> | 2026-09-17 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · acxiomllc.wd5.myworkdayjobs.com](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014478)<br><sub>recognized recruiting platform</sub> |
 | Acxiom | Product Operations Intern | Conway, AR | not available<br><sub>posting text not indexed</sub> | 2026-09-17 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · acxiomllc.wd5.myworkdayjobs.com](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014480)<br><sub>recognized recruiting platform</sub> |
 | Acxiom | Product Operations Intern | Conway, AR | not available<br><sub>posting text not indexed</sub> | 2026-09-17 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · acxiomllc.wd5.myworkdayjobs.com](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Operations_JR014479-1)<br><sub>recognized recruiting platform</sub> |
