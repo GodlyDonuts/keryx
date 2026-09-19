@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**7,740 internships · 4,725 new-grad roles · 12,465 total openings**
+**7,701 internships · 4,727 new-grad roles · 12,428 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,652 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 3,659 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 491 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 470 | **[View openings →](internships/spring-2027.md)** |
+| 🌱 Spring 2027 | 469 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 166 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,961 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 2,916 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 982 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,246 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,497 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 1,244 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,501 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,7 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Analog Devices | Biomedical Engineering Intern | US, MA, Wilmington | Not listed | not available | 2026-09-19 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Brown Brothers Harriman | 2027 Internal Audit - Information Technology & Cybersecurity Summer Internship | New York | Summer 2027 | not available | 2026-09-19 | **[Apply →](https://bbh.wd5.myworkdayjobs.com/BBH/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899)**<br><sub>bbh.wd5.myworkdayjobs.com</sub> |
 | CliquePrize - Local Giveaway Marketing for Small Businesses | Swift iPhone Mobile (Non Paid Academic Credit Only) Developer Internship - USA Interns only | United States | Not listed | not available | 2026-09-19 | **[Apply →](https://app.elly.ai/job-board/cmncw5x9e0003jg02z277er4u/cmu0p7qcb000002jui9mrjeq9)**<br><sub>app.elly.ai</sub> |
 | Copart | Database Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-09-19 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
@@ -48,7 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | Acron Aviation | Software Engineer Intern - St. Pete Site | St Petersburg, FL | Not listed | Current student status<br><sub>required</sub> | 2026-09-18 | **[Apply →](https://jobs.lever.co/acronaviation/19dbac7d-b4fb-4d21-9247-dc610bf55fed)**<br><sub>jobs.lever.co</sub> |
 | Acron Aviation | Systems Engineer Intern - St. Pete Site | St Petersburg, FL | Not listed | Current student status<br><sub>required</sub> | 2026-09-18 | **[Apply →](https://jobs.lever.co/acronaviation/eaebe6c7-a38f-404f-ba93-210861faf184)**<br><sub>jobs.lever.co</sub> |
 | Acron Aviation | Test Engineer Intern - Grand Rapids Site | Grand Rapids, MI | Not listed | Student status conditions<br><sub>required</sub> | 2026-09-18 | **[Apply →](https://jobs.lever.co/acronaviation/efde3e9b-1ea5-45f7-ba1d-e26e084e28c7)**<br><sub>jobs.lever.co</sub> |
-| Agropur | Product Development Intern | USA Wisconsin Appleton | Not listed | not available | 2026-09-18 | **[Apply →](https://agropur.wd3.myworkdayjobs.com/Agropur_Careers/job/USA-Wisconsin-Appleton/Product-Development-Intern_JR34154-1)**<br><sub>agropur.wd3.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
