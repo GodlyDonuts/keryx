@@ -4,10 +4,11 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**170 open roles**
+**171 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
+| Microsoft | Hardware Engineering Intern | Redmond, WA | not available<br><sub>posting text not indexed</sub> | 2026-09-19 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · apply.careers.microsoft.com](https://apply.careers.microsoft.com/careers/job/1970393557002608)<br><sub>source reported</sub> |
 | Astranis Space Technologies | Environmental Test Engineer Intern (Winter 2027) | San Francisco, CA, United States | not available<br><sub>posting text not indexed</sub> | 2026-09-18 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6aade86e2e757fcb5c8baa1a?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
 | Astranis Space Technologies | Network Planning Sales Engineer Intern (Winter 2027) | San Francisco, California | Current student status<br><sub>enrollment: stated · direct ATS text · checked 2026-09-19</sub> | 2026-09-18 | [Greenhouse direct](https://job-boards.greenhouse.io/astranis) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/astranis/jobs/4704276006)<br><sub>ATS checked</sub> |
 | BMO U.S. | Software Developer, Winter 2027 (Internship) - 4 months | San Ramon, CA, United States | not available<br><sub>posting text not indexed</sub> | 2026-09-18 | [Jobright · Software Engineering](https://github.com/jobright-ai/2026-Software-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6aadaa713dbb1f8967ceeebf?utm_campaign=1079&utm_source=git)<br><sub>discovery listing</sub> |

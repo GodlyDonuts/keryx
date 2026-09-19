@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**7,795 internships · 4,775 new-grad roles · 12,570 total openings**
+**7,688 internships · 4,757 new-grad roles · 12,445 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,705 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 499 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 475 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 170 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,946 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 3,651 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 496 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 470 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 171 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 2,900 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 987 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,282 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,506 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 1,276 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,494 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,7 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Microsoft | Hardware Engineering Intern | Redmond, WA | Winter 2027 | not available | 2026-09-19 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393557002608)**<br><sub>apply.careers.microsoft.com</sub> |
 | 1X | Internship - CNC Machine Park | Hayward, CA | Not listed | not stated | 2026-09-18 | **[Apply →](https://jobs.ashbyhq.com/1x/ebc45d87-58d7-40d8-9e3d-5f3c8aa5eb48)**<br><sub>jobs.ashbyhq.com</sub> |
 | Acron Aviation | Software Engineer Intern - St. Pete Site | St Petersburg, FL | Not listed | Current student status<br><sub>required</sub> | 2026-09-18 | **[Apply →](https://jobs.lever.co/acronaviation/19dbac7d-b4fb-4d21-9247-dc610bf55fed)**<br><sub>jobs.lever.co</sub> |
 | Acron Aviation | Systems Engineer Intern - St. Pete Site | St Petersburg, FL | Not listed | Current student status<br><sub>required</sub> | 2026-09-18 | **[Apply →](https://jobs.lever.co/acronaviation/eaebe6c7-a38f-404f-ba93-210861faf184)**<br><sub>jobs.lever.co</sub> |
@@ -48,7 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | American Family Insurance Group | Internal Data and Analytics Intern - Summer 2027 | Madison, WI | Summer 2027 | not available | 2026-09-18 | **[Apply →](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Internal-Data-and-Analytics-Intern---Summer-2027_R39401)**<br><sub>amfam.wd1.myworkdayjobs.com</sub> |
 | Analytical Mechanics Associates | Mechanical Engineering Intern | Hampton, VA | Not listed | not available | 2026-09-18 | **[Apply →](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Mechanical-Engineering-Intern_R-100764)**<br><sub>amainc.wd12.myworkdayjobs.com</sub> |
 | Astranis Space Technologies | Network Planning Sales Engineer Intern (Winter 2027) | San Francisco, California | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-09-18 | **[Apply →](https://job-boards.greenhouse.io/astranis/jobs/4704276006)**<br><sub>job-boards.greenhouse.io</sub> |
-| Athene | Software Developer Internship | West Des Moines, Iowa | Not listed | not available | 2026-09-18 | **[Apply →](https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Internship-_R255125)**<br><sub>athene.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
