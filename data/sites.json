@@ -5,7 +5,7 @@
       "boards": [],
       "company": "Southwire Company",
       "key": "000698aea31635127eed2134",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-19",
       "resolved_roles": 0,
       "url": "https://southwire.com/"
     },
@@ -4498,6 +4498,14 @@
     },
     {
       "boards": [],
+      "company": "Goodfellow Bros.",
+      "key": "21c8056daf7526ae9b4079cf",
+      "last_scanned": "2026-09-19",
+      "resolved_roles": 0,
+      "url": "https://goodfellowbros.com/"
+    },
+    {
+      "boards": [],
       "company": "Jewelers Mutual Group",
       "key": "21d7f285dd91da693bfb378e",
       "last_scanned": "2026-09-17",
@@ -8658,7 +8666,7 @@
       "company": "Pape-Dawson",
       "error": "public requests require HTTPS and a hostname",
       "key": "405f2d38c13aef3c033123d9",
-      "last_scanned": "2026-09-02",
+      "last_scanned": "2026-09-19",
       "url": "https://pape-dawson.com/"
     },
     {
@@ -19043,7 +19051,7 @@
       "company": "Marathon Petroleum Corporation",
       "error": "public request failed for https://www.marathonpetroleum.com/: HTTP Error 403: Forbidden",
       "key": "8b96c5fecf4a8c25a350411f",
-      "last_scanned": "2026-09-17",
+      "last_scanned": "2026-09-19",
       "url": "https://www.marathonpetroleum.com/"
     },
     {
@@ -21339,6 +21347,14 @@
       "url": "https://eci.us/"
     },
     {
+      "boards": [],
+      "company": "Bennett Thrasher",
+      "key": "9e0c47620dd27c3c5a406dc4",
+      "last_scanned": "2026-09-19",
+      "resolved_roles": 0,
+      "url": "https://www.btcpa.net/"
+    },
+    {
       "company": "TWG Global",
       "error": "public request failed for https://www.twgglobal.com/: HTTP Error 403: Forbidden",
       "key": "9e14286a001ed6f4af251d16",
@@ -21421,7 +21437,7 @@
       ],
       "company": "Dematic",
       "key": "9eba7d743fdfdbef4a1d6c19",
-      "last_scanned": "2026-09-11",
+      "last_scanned": "2026-09-19",
       "resolved_roles": 0,
       "url": "https://www.dematic.com/en"
     },
@@ -22233,7 +22249,7 @@
       "boards": [],
       "company": "LSB Industries, Inc.",
       "key": "a3930706ef61facaf350dfc8",
-      "last_scanned": "2026-08-29",
+      "last_scanned": "2026-09-19",
       "resolved_roles": 0,
       "url": "https://lsbindustries.com/"
     },
@@ -22294,7 +22310,7 @@
       "company": "Eaton",
       "error": "public request failed for https://www.eaton.com/br/pt-br.html: The read operation timed out",
       "key": "a3e49c957b1002b4e1106faa",
-      "last_scanned": "2026-09-07",
+      "last_scanned": "2026-09-19",
       "url": "https://www.eaton.com/br/pt-br.html"
     },
     {
@@ -23360,7 +23376,7 @@
       "boards": [],
       "company": "Instawork",
       "key": "abd977e15434d63f73372153",
-      "last_scanned": "2026-09-04",
+      "last_scanned": "2026-09-19",
       "resolved_roles": 0,
       "url": "https://www.instawork.com/"
     },
@@ -26808,6 +26824,13 @@
       "url": "https://www.nordstrom.com/"
     },
     {
+      "company": "Harris Teeter",
+      "error": "public request failed for https://www.harristeeter.com/: The read operation timed out",
+      "key": "c492f5ff67a83258deaadc31",
+      "last_scanned": "2026-09-19",
+      "url": "https://www.harristeeter.com/"
+    },
+    {
       "boards": [
         "oracle:jpmc.fa.oraclecloud.com:cx_1001"
       ],
@@ -27798,7 +27821,7 @@
       "boards": [],
       "company": "LJA",
       "key": "cc0bee59813b25dacebf61e0",
-      "last_scanned": "2026-09-08",
+      "last_scanned": "2026-09-19",
       "resolved_roles": 0,
       "url": "https://www.lja.com/"
     },
@@ -28079,7 +28102,7 @@
       "company": "WSP in the U.S.",
       "error": "public request failed for https://www.wsp.com/en-us: HTTP Error 403: Forbidden",
       "key": "ce26e2f6b0157eb94cc09fde",
-      "last_scanned": "2026-09-18",
+      "last_scanned": "2026-09-19",
       "url": "https://www.wsp.com/en-us"
     },
     {
@@ -28849,7 +28872,7 @@
       "boards": [],
       "company": "Arthrex",
       "key": "d2a2c2a50a1433d3b28e4818",
-      "last_scanned": "2026-09-08",
+      "last_scanned": "2026-09-19",
       "resolved_roles": 0,
       "url": "https://www.arthrex.com/"
     },
@@ -30290,7 +30313,7 @@
       "boards": [],
       "company": "General Atomics",
       "key": "dd78da0cce443ba9cdf19427",
-      "last_scanned": "2026-09-11",
+      "last_scanned": "2026-09-19",
       "resolved_roles": 0,
       "url": "https://www.ga.com/"
     },
@@ -31834,7 +31857,7 @@
       "company": "York Space Systems",
       "error": "Invalid IPv6 URL",
       "key": "e87802ee652eaaf7376fbeb6",
-      "last_scanned": "2026-09-15",
+      "last_scanned": "2026-09-19",
       "url": "https://www.yorkspacesystems.com/"
     },
     {
@@ -33076,13 +33099,11 @@
     },
     {
       "boards": [
-        "greenhouse:anthropic",
-        "lever:palantir",
         "workday:fortune.wd108.myworkdayjobs.com:fortune:fortune"
       ],
       "company": "Fortune",
       "key": "f03cd15d6cad37280fe51d3e",
-      "last_scanned": "2026-09-05",
+      "last_scanned": "2026-09-19",
       "resolved_roles": 0,
       "url": "https://www.fortune.com/"
     },
@@ -34180,7 +34201,7 @@
       ],
       "company": "Cohere",
       "key": "f7a59c043f8227ec0e6a6939",
-      "last_scanned": "2026-09-10",
+      "last_scanned": "2026-09-19",
       "resolved_roles": 0,
       "url": "https://cohere.com/"
     },
@@ -34288,7 +34309,7 @@
       "company": "WSP",
       "error": "public request failed for https://www.wsp.com/: HTTP Error 403: Forbidden",
       "key": "f87ce539e493ffa8dd66c10d",
-      "last_scanned": "2026-09-18",
+      "last_scanned": "2026-09-19",
       "url": "https://www.wsp.com/"
     },
     {
@@ -34576,7 +34597,7 @@
       ],
       "company": "Centerfield",
       "key": "fb4741c7dd50841e7cfc551c",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-09-19",
       "resolved_roles": 0,
       "url": "https://www.centerfield.com/"
     },
@@ -34615,7 +34636,7 @@
       "company": "Medline",
       "error": "public request failed for https://www.medline.com/home.jsp: HTTP Error 403: Forbidden",
       "key": "fba9f138ac3501568473f595",
-      "last_scanned": "2026-09-08",
+      "last_scanned": "2026-09-19",
       "url": "https://www.medline.com/home.jsp"
     },
     {

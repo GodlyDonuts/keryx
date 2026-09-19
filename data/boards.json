@@ -1772,6 +1772,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Sydecar",
+      "key": "ashby:sydecar",
+      "slug": "sydecar"
+    },
+    {
+      "ats": "ashby",
       "company": "Tabs",
       "key": "ashby:tabs",
       "slug": "tabs"
@@ -2750,6 +2756,12 @@
       "company": "Bridgewater Associates",
       "key": "greenhouse:bwaltpostings",
       "slug": "bwaltpostings"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Cala Health",
+      "key": "greenhouse:calahealth",
+      "slug": "calahealth"
     },
     {
       "ats": "greenhouse",
@@ -4400,6 +4412,12 @@
       "company": "Robinhood",
       "key": "greenhouse:sherwoodmedia",
       "slug": "sherwoodmedia"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Showpad",
+      "key": "greenhouse:showpad",
+      "slug": "showpad"
     },
     {
       "ats": "greenhouse",
@@ -8511,6 +8529,12 @@
     },
     {
       "ats": "workable",
+      "company": "Financial Statement Services",
+      "key": "workable:fssi",
+      "slug": "fssi"
+    },
+    {
+      "ats": "workable",
       "company": "Generation West Virginia",
       "key": "workable:generation-west-virginia-1",
       "slug": "generation-west-virginia-1"
@@ -8751,6 +8775,12 @@
     },
     {
       "ats": "workable",
+      "company": "Scientific Systems Company",
+      "key": "workable:ssci",
+      "slug": "ssci"
+    },
+    {
+      "ats": "workable",
       "company": "Stafford Gray",
       "key": "workable:staffordgray",
       "slug": "staffordgray"
@@ -8868,6 +8898,12 @@
       "company": "Valsoft Corporation",
       "key": "workable:valsoft-corp",
       "slug": "valsoft-corp"
+    },
+    {
+      "ats": "workable",
+      "company": "Vanguard EMS",
+      "key": "workable:vanguard-ems-inc",
+      "slug": "vanguard-ems-inc"
     },
     {
       "ats": "workable",
@@ -10044,6 +10080,15 @@
       "site": "baxter",
       "slug": "baxter",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Brown Brothers Harriman",
+      "host": "bbh.wd5.myworkdayjobs.com",
+      "key": "workday:bbh.wd5.myworkdayjobs.com:bbh:bbh",
+      "site": "BBH",
+      "slug": "bbh",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
@@ -15780,6 +15825,15 @@
     },
     {
       "ats": "workday",
+      "company": "Priceline",
+      "host": "priceline.wd1.myworkdayjobs.com",
+      "key": "workday:priceline.wd1.myworkdayjobs.com:priceline:priceline-collegehiring",
+      "site": "priceline-collegehiring",
+      "slug": "priceline",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Procore Technologies",
       "host": "procore.wd12.myworkdayjobs.com",
       "key": "workday:procore.wd12.myworkdayjobs.com:procore:procore_external_careers",
@@ -17184,6 +17238,15 @@
     },
     {
       "ats": "workday",
+      "company": "Perseus Group",
+      "host": "talentmanagementsolution.wd3.myworkdayjobs.com",
+      "key": "workday:talentmanagementsolution.wd3.myworkdayjobs.com:talentmanagementsolution:perseus-careers",
+      "site": "perseus-careers",
+      "slug": "talentmanagementsolution",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
       "company": "Texas A&M AgriLife Center for Managed Technology Services",
       "host": "tamus.wd1.myworkdayjobs.com",
       "key": "workday:tamus.wd1.myworkdayjobs.com:tamus:agrilife_extension_external",
@@ -17694,6 +17757,15 @@
       "site": "External",
       "slug": "travelers",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "TreeHouse Foods",
+      "host": "treehouse.wd1.myworkdayjobs.com",
+      "key": "workday:treehouse.wd1.myworkdayjobs.com:treehouse:treehousecareers",
+      "site": "treehousecareers",
+      "slug": "treehouse",
+      "wd": "wd1"
     },
     {
       "ats": "workday",

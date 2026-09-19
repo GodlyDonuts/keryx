@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**7,770 internships · 4,729 new-grad roles · 12,499 total openings**
+**7,792 internships · 4,752 new-grad roles · 12,544 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,641 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 498 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 468 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 171 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,992 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 3,650 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 492 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 471 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 169 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,010 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 986 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,236 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,507 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,025 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,235 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,492 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Brown Brothers Harriman | 2027 Internal Audit - Information Technology & Cybersecurity Summer Internship | New York | Summer 2027 | not available | 2026-09-19 | **[Apply →](https://bbh.wd5.myworkdayjobs.com/BBH/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899)**<br><sub>bbh.wd5.myworkdayjobs.com</sub> |
+| Copart | Database Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-09-19 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | DatologyAI | Research Intern | San Mateo, CA | Summer 2027 | not available | 2026-09-19 | **[Apply →](https://jobs.ashbyhq.com/DatologyAI/0ced19c2-21ec-4bcc-92d2-68d448279f3f/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Microsoft | Hardware Engineering Intern | Redmond, WA | Winter 2027 | not available | 2026-09-19 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393557002608)**<br><sub>apply.careers.microsoft.com</sub> |
 | RTX | Software Project Engineer Intern (Summer 2027) Onsite | US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1 | Summer 2027 | not available | 2026-09-19 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Project-Engineer-Intern--Summer-2027--Onsite_01872660)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
 | 1X | Internship - CNC Machine Park | Hayward, CA | Not listed | not stated | 2026-09-18 | **[Apply →](https://jobs.ashbyhq.com/1x/ebc45d87-58d7-40d8-9e3d-5f3c8aa5eb48)**<br><sub>jobs.ashbyhq.com</sub> |
-| Acron Aviation | Software Engineer Intern - St. Pete Site | St Petersburg, FL | Not listed | Current student status<br><sub>required</sub> | 2026-09-18 | **[Apply →](https://jobs.lever.co/acronaviation/19dbac7d-b4fb-4d21-9247-dc610bf55fed)**<br><sub>jobs.lever.co</sub> |
+| Acron Aviation | Software Engineer Intern - St. Pete Site | St. Petersburg, FL | Not listed | Current student status<br><sub>required</sub> | 2026-09-18 | **[Apply →](https://jobs.lever.co/acronaviation/19dbac7d-b4fb-4d21-9247-dc610bf55fed)**<br><sub>jobs.lever.co</sub> |
 | Acron Aviation | Systems Engineer Intern - St. Pete Site | St Petersburg, FL | Not listed | Current student status<br><sub>required</sub> | 2026-09-18 | **[Apply →](https://jobs.lever.co/acronaviation/eaebe6c7-a38f-404f-ba93-210861faf184)**<br><sub>jobs.lever.co</sub> |
 | Acron Aviation | Test Engineer Intern - Grand Rapids Site | Grand Rapids, MI | Not listed | Student status conditions<br><sub>required</sub> | 2026-09-18 | **[Apply →](https://jobs.lever.co/acronaviation/efde3e9b-1ea5-45f7-ba1d-e26e084e28c7)**<br><sub>jobs.lever.co</sub> |
 | Agropur | Product Development Intern | USA Wisconsin Appleton | Not listed | not available | 2026-09-18 | **[Apply →](https://agropur.wd3.myworkdayjobs.com/Agropur_Careers/job/USA-Wisconsin-Appleton/Product-Development-Intern_JR34154-1)**<br><sub>agropur.wd3.myworkdayjobs.com</sub> |
 | Altar'd State | Spring 2027 IT Analytics Intern | Knoxville, TN | Spring 2027 | not available | 2026-09-18 | **[Apply →](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499)**<br><sub>standoutforgood.wd12.myworkdayjobs.com</sub> |
 | Amazon | Software Development Engineer Intern - Summer | Seattle, WA, Arlington County, Arlington, VA | Summer 2027 | not available | 2026-09-18 | **[Apply →](https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa)**<br><sub>amazon.jobs</sub> |
-| AMD | PhD HPC & Sovereign AI Intern/Co-op | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-09-18 | **[Apply →](https://careers.amd.com/jobs/92636?icims=1)**<br><sub>careers.amd.com</sub> |
-| American Family Insurance Group | Internal Data and Analytics Intern - Summer 2027 | Madison, WI | Summer 2027 | not available | 2026-09-18 | **[Apply →](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Internal-Data-and-Analytics-Intern---Summer-2027_R39401)**<br><sub>amfam.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,7 +58,11 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Study.com | Software Engineer New Grad - AI-Native | Mountain View, CA | Not listed | not available | 2026-09-19 | **[Apply →](https://study.com/pages/jobApplication.html/?gh_jid=5429313008)**<br><sub>study.com</sub> |
+| Anduril | Embedded Firmware Engineer - Connected Warfare | Costa Mesa, CA | 2027 | not available | 2026-09-19 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5225618007?gh_jid=5225618007)**<br><sub>boards.greenhouse.io</sub> |
+| Perseus Group | Software Engineer 1 | Sharon, PA, Jacksonville, FL | Not listed | not available | 2026-09-19 | **[Apply →](https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Sharon-Pennsylvania---USA/Software-Engineer-I_R54341)**<br><sub>talentmanagementsolution.wd3.myworkdayjobs.com</sub> |
+| Roblox | Software Engineer - Economy Platform | San Mateo, CA | 2027 | not available | 2026-09-19 | **[Apply →](https://careers.roblox.com/jobs/8060254?gh_jid=8060254)**<br><sub>careers.roblox.com</sub> |
+| SharkNinja | Associate Product Developer - Corded/Cordless | Needham, MA | 2027 | not available | 2026-09-19 | **[Apply →](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4707165006)**<br><sub>job-boards.greenhouse.io</sub> |
+| Study.com | Software Engineer New Grad - AI-Native | Mountain View, CA | 2027 | not available | 2026-09-19 | **[Apply →](https://study.com/pages/jobApplication.html/?gh_jid=5429313008)**<br><sub>study.com</sub> |
 | AHEAD | Associate AI Engineer | Chicago, IL | Not listed | not available | 2026-09-18 | **[Apply →](https://jobs.lever.co/thinkahead/1ebcedcb-82ba-4d19-ac88-aa73a812dd81/apply)**<br><sub>jobs.lever.co</sub> |
 | AHEAD | Associate Data Engineer | Chicago, IL | Not listed | not available | 2026-09-18 | **[Apply →](https://jobs.lever.co/thinkahead/14fefcf2-720f-4333-8bcc-ff3ba62d3b8e/apply)**<br><sub>jobs.lever.co</sub> |
 | AIG | Data Office Analyst | Charlotte, NC, NYC, Parsippany-Troy Hills, NJ | Not listed | not available | 2026-09-18 | **[Apply →](https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/NC-Charlotte/XMLNAME-2027-Early-Careers--Analyst--Data-Office---United-States--Charlotte--NC--Jersey-City--Parsippany--NJ----New-York--NY_JR2603619)**<br><sub>aig.wd1.myworkdayjobs.com</sub> |
@@ -66,10 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | AIG | Gen AI Engineering Analyst | Atlanta, GA | Not listed | not available | 2026-09-18 | **[Apply →](https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Gen-AI-Data-Engineering---United-States--Atlanta--GA_JR2603744-1)**<br><sub>aig.wd1.myworkdayjobs.com</sub> |
 | AIG | Gen AI Engineering Analyst | Atlanta, GA | Not listed | not available | 2026-09-18 | **[Apply →](https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Gen-AI-Data-Engineering---United-States--Atlanta--GA_JR2603744)**<br><sub>aig.wd1.myworkdayjobs.com</sub> |
 | American Electric Power | TFS Asset Analyst Associate | San Angelo, TX | Not listed | not available | 2026-09-18 | **[Apply →](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/San-Angelo-TX/TFS-Asset-Analyst-Assc_R18984)**<br><sub>aep.wd1.myworkdayjobs.com</sub> |
-| Applied Materials | Algorithm Developer 2 | Santa Clara, CA | Not listed | not available | 2026-09-18 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer-II--E2-_R2628905)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
-| ASML | System Integration and Test Engineer | San Diego, CA | Not listed | not available | 2026-09-18 | **[Apply →](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/System-Integration-and-Test-Engineer---2nd-Shift_J-00352284)**<br><sub>asml.wd3.myworkdayjobs.com</sub> |
-| Boeing | Software Systems Engineer - Associate or Experienced | Colorado Springs, CO | 2027 | not available | 2026-09-18 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/en-US/tap2/job/USA---Colorado-Springs-CO/Software-Systems-Engineer--Associate-or-Experienced-_JR2026520215-3)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
-| Booz Allen | Hardware Test Engineer | Rome, NY | Not listed | not available | 2026-09-18 | **[Apply →](https://bah.wd1.myworkdayjobs.com/Confidential/job/Rome-NY/Hardware-Test-Engineer_R0249841)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
