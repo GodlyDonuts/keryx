@@ -1904,6 +1904,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Valency",
+      "key": "ashby:valency",
+      "slug": "valency"
+    },
+    {
+      "ats": "ashby",
       "company": "Valerie Health",
       "key": "ashby:valeriehealth",
       "slug": "valeriehealth"
@@ -3851,6 +3857,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "MetOx International",
+      "key": "greenhouse:metoxinternationalinc",
+      "slug": "metoxinternationalinc"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Metron",
       "key": "greenhouse:metron",
       "slug": "metron"
@@ -4640,6 +4652,12 @@
       "company": "ThreatLocker",
       "key": "greenhouse:threatlocker",
       "slug": "threatlocker"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Tint",
+      "key": "greenhouse:tintai",
+      "slug": "tintai"
     },
     {
       "ats": "greenhouse",
@@ -7043,6 +7061,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Chubb",
+      "host": "fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com:cx_2001",
+      "site": "cx_2001",
+      "slug": "fa-ewgu-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
       "company": "EXL",
       "host": "fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com",
       "key": "oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com:cx_2",
@@ -8609,7 +8635,7 @@
     },
     {
       "ats": "workable",
-      "company": "Pony.ai",
+      "company": "pony.ai",
       "key": "workable:pony-dot-ai",
       "slug": "pony-dot-ai"
     },
@@ -9446,6 +9472,15 @@
       "site": "Ameriprise",
       "slug": "ameriprise",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "American Family Insurance Group",
+      "host": "amfam.wd1.myworkdayjobs.com",
+      "key": "workday:amfam.wd1.myworkdayjobs.com:amfam:amfamgroupinterncareers",
+      "site": "AmFamGroupInternCareers",
+      "slug": "amfam",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -11006,6 +11041,15 @@
     },
     {
       "ats": "workday",
+      "company": "CME Group",
+      "host": "cmegroup.wd1.myworkdayjobs.com",
+      "key": "workday:cmegroup.wd1.myworkdayjobs.com:cmegroup:cme_careers",
+      "site": "cme_careers",
+      "slug": "cmegroup",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Carnegie Mellon University",
       "host": "cmu.wd115.myworkdayjobs.com",
       "key": "workday:cmu.wd115.myworkdayjobs.com:cmu:cmu",
@@ -11549,7 +11593,7 @@
       "company": "Dexcom",
       "host": "dexcom.wd1.myworkdayjobs.com",
       "key": "workday:dexcom.wd1.myworkdayjobs.com:dexcom:dexcom",
-      "site": "dexcom",
+      "site": "Dexcom",
       "slug": "dexcom",
       "wd": "wd1"
     },
@@ -11747,7 +11791,7 @@
       "company": "DXC Technology",
       "host": "dxctechnology.wd1.myworkdayjobs.com",
       "key": "workday:dxctechnology.wd1.myworkdayjobs.com:dxctechnology:dxcjobs",
-      "site": "DXCJobs",
+      "site": "dxcjobs",
       "slug": "dxctechnology",
       "wd": "wd1"
     },
@@ -13334,6 +13378,15 @@
       "site": "External_iHM",
       "slug": "iheartmedia",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "IKO North America",
+      "host": "iko.wd3.myworkdayjobs.com",
+      "key": "workday:iko.wd3.myworkdayjobs.com:iko:iko_careers",
+      "site": "IKO_Careers",
+      "slug": "iko",
+      "wd": "wd3"
     },
     {
       "ats": "workday",
@@ -16073,6 +16126,15 @@
     },
     {
       "ats": "workday",
+      "company": "Risepoint",
+      "host": "risepoint.wd503.myworkdayjobs.com",
+      "key": "workday:risepoint.wd503.myworkdayjobs.com:risepoint:risepoint",
+      "site": "Risepoint",
+      "slug": "risepoint",
+      "wd": "wd503"
+    },
+    {
+      "ats": "workday",
       "company": "Rochester Institute of Technology",
       "host": "rit.wd12.myworkdayjobs.com",
       "key": "workday:rit.wd12.myworkdayjobs.com:rit:careers",
@@ -17354,7 +17416,7 @@
       "company": "Thales",
       "host": "thales.wd3.myworkdayjobs.com",
       "key": "workday:thales.wd3.myworkdayjobs.com:thales:careers",
-      "site": "careers",
+      "site": "Careers",
       "slug": "thales",
       "wd": "wd3"
     },
