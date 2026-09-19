@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**2501 open roles**
+**2502 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -971,6 +971,7 @@
 | Applied Intuition | Embedded Software Engineer New Grad | Sunnyvale, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions), [SpeedyApply](https://github.com/speedyapply/2027-SWE-College-Jobs) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application?embed=true)<br><sub>cross-checked</sub> |
 | Applied Intuition | Research Engineer New Grad | Sunnyvale, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application?embed=true)<br><sub>recognized recruiting platform</sub> |
 | Dexmate | Robotics Data Collection Operator | Fremont, CA, Santa Clara, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/dexmate/e92a4b08-1123-47f6-9d3d-3fc67fcdb9df/application?embed=true)<br><sub>recognized recruiting platform</sub> |
+| Goldman Sachs | Engineering New Analyst - Engineering | Salt Lake City, UT | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · higher.gs.com](https://higher.gs.com/roles/171570?type=students)<br><sub>source reported</sub> |
 | LiteLLM | Forward Deployed Engineer (New Grad) | United States | not stated<br><sub>direct ATS text · checked 2026-09-19</sub> | 2026-08-15 | [Ashby direct](https://jobs.ashbyhq.com/litellm), [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · jobs.ashbyhq.com](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3)<br><sub>ATS checked</sub> |
 | TikTok | Data Scientist Graduate - Multimedia | San Jose, CA | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · lifeattiktok.com](https://lifeattiktok.com/search/7673672141010815237)<br><sub>source reported</sub> |
 | Wolverine Trading | Entry Level C++ Software Engineer | Chicago, IL | not available<br><sub>posting text not indexed</sub> | 2026-08-15 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · wolve.pinpointhq.com](https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq)<br><sub>source reported</sub> |

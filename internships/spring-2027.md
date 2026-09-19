@@ -4,13 +4,10 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**469 open roles**
+**466 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
-| Eaton | Manufacturing Engineer Co-op - Spring 2027 | Sumter, SC, United States | not available<br><sub>posting text not indexed</sub> | 2026-09-19 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6aadbf503dbb1f8967cef568?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
-| Eaton | Product Development Engineering Co-op - Spring 2027 | Hodges, SC, United States | not available<br><sub>posting text not indexed</sub> | 2026-09-19 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6aadbf840ebc8fb2313eb58f?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
-| Marathon Petroleum Corporation | Refining Chemical Engineering Intern/Co-op Spring 2027 | Findlay, OH, United States | not available<br><sub>posting text not indexed</sub> | 2026-09-19 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6aa8a357f74328685440f8ca?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
 | Altar'd State | Spring 2027 IT Analytics Intern | Knoxville, TN | not available<br><sub>posting text not indexed</sub> | 2026-09-18 | [Workday direct](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood), [Jobright · Data Analysis](https://github.com/jobright-ai/2026-Data-Analysis-Internship), [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · standoutforgood.wd12.myworkdayjobs.com](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Analytics-Intern_SOSJ12499)<br><sub>ATS checked</sub> |
 | Formlabs | Hardware Test Engineer Intern | Somerville, MA | not available<br><sub>posting text not indexed</sub> | 2026-09-18 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · careers.formlabs.com](https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515)<br><sub>source reported</sub> |
 | Grow Financial Federal Credit Union | Collections Data Analyst Intern | Remote in USA | not available<br><sub>posting text not indexed</sub> | 2026-09-18 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · careers-growfinancial.icims.com](https://careers-growfinancial.icims.com/jobs/2755/job?mobile=true&needsRedirect=false)<br><sub>recognized recruiting platform</sub> |

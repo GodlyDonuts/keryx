@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**7,701 internships · 4,727 new-grad roles · 12,428 total openings**
+**7,686 internships · 4,733 new-grad roles · 12,419 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,659 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 3,657 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 491 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 469 | **[View openings →](internships/spring-2027.md)** |
+| 🌱 Spring 2027 | 466 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 166 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,916 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 2,906 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 982 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,244 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,501 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 983 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,248 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,502 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -59,6 +59,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Anduril | Embedded Firmware Engineer - Connected Warfare | Costa Mesa, CA | 2027 | not available | 2026-09-19 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5225618007?gh_jid=5225618007)**<br><sub>boards.greenhouse.io</sub> |
+| Clera | Founding Engineer - Full Stack | San Francisco, CA | 2027 | not available | 2026-09-19 | **[Apply →](https://jobs.ashbyhq.com/clera/cea943d6-817f-441c-baa1-d295916ace46)**<br><sub>jobs.ashbyhq.com</sub> |
 | Perseus Group | Software Engineer 1 | Sharon, PA, Jacksonville, FL | Not listed | not available | 2026-09-19 | **[Apply →](https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Sharon-Pennsylvania---USA/Software-Engineer-I_R54341)**<br><sub>talentmanagementsolution.wd3.myworkdayjobs.com</sub> |
 | Roblox | Software Engineer - Economy Platform | San Mateo, CA | 2027 | not available | 2026-09-19 | **[Apply →](https://careers.roblox.com/jobs/8060254?gh_jid=8060254)**<br><sub>careers.roblox.com</sub> |
 | SharkNinja | Associate Product Developer - Corded/Cordless | Needham, MA | 2027 | not available | 2026-09-19 | **[Apply →](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4707165006)**<br><sub>job-boards.greenhouse.io</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | AIG | Data Office Analyst | Charlotte, NC, NYC, Parsippany-Troy Hills, NJ | Not listed | not available | 2026-09-18 | **[Apply →](https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/NC-Charlotte/XMLNAME-2027-Early-Careers--Analyst--Data-Office---United-States--Charlotte--NC--Jersey-City--Parsippany--NJ----New-York--NY_JR2603619)**<br><sub>aig.wd1.myworkdayjobs.com</sub> |
 | AIG | Data Office Analyst | Charlotte, NC, NYC, Parsippany-Troy Hills, NJ | Not listed | not available | 2026-09-18 | **[Apply →](https://aig.wd1.myworkdayjobs.com/aig/job/NC-Charlotte/XMLNAME-2027-Early-Careers--Analyst--Data-Office---United-States--Charlotte--NC--Jersey-City--Parsippany--NJ----New-York--NY_JR2603619-1)**<br><sub>aig.wd1.myworkdayjobs.com</sub> |
 | AIG | Gen AI Engineering Analyst | Atlanta, GA | Not listed | not available | 2026-09-18 | **[Apply →](https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Gen-AI-Data-Engineering---United-States--Atlanta--GA_JR2603744-1)**<br><sub>aig.wd1.myworkdayjobs.com</sub> |
-| AIG | Gen AI Engineering Analyst | Atlanta, GA | Not listed | not available | 2026-09-18 | **[Apply →](https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Gen-AI-Data-Engineering---United-States--Atlanta--GA_JR2603744)**<br><sub>aig.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
