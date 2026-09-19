@@ -5933,6 +5933,14 @@
     },
     {
       "ats": "oracle",
+      "company": "StandardAero",
+      "host": "cva.fa.us1.oraclecloud.com",
+      "key": "oracle:cva.fa.us1.oraclecloud.com:cx_3",
+      "site": "CX_3",
+      "slug": "cva"
+    },
+    {
+      "ats": "oracle",
       "company": "CBIZ",
       "host": "ebez.fa.us2.oraclecloud.com",
       "key": "oracle:ebez.fa.us2.oraclecloud.com:cx_1",
