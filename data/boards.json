@@ -608,7 +608,7 @@
     },
     {
       "ats": "ashby",
-      "company": "Fable Security",
+      "company": "Fable",
       "key": "ashby:fable",
       "slug": "fable"
     },
@@ -9885,6 +9885,15 @@
     },
     {
       "ats": "workday",
+      "company": "Axiom Space",
+      "host": "axiomspace.wd5.myworkdayjobs.com",
+      "key": "workday:axiomspace.wd5.myworkdayjobs.com:axiomspace:external_career_site",
+      "site": "External_Career_Site",
+      "slug": "axiomspace",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "AXIS (AXIS Capital)",
       "host": "axiscapital.wd1.myworkdayjobs.com",
       "key": "workday:axiscapital.wd1.myworkdayjobs.com:axiscapital:axiscareers",
@@ -10629,6 +10638,15 @@
       "site": "CanadianSolar",
       "slug": "canadiansolar",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Canadian Tire Corporation",
+      "host": "canadiantirecorporation.wd3.myworkdayjobs.com",
+      "key": "workday:canadiantirecorporation.wd3.myworkdayjobs.com:canadiantirecorporation:enterprise_external_careers_site",
+      "site": "Enterprise_External_Careers_Site",
+      "slug": "canadiantirecorporation",
+      "wd": "wd3"
     },
     {
       "ats": "workday",

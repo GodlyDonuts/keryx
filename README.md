@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**7,688 internships · 4,757 new-grad roles · 12,445 total openings**
+**7,770 internships · 4,729 new-grad roles · 12,499 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,651 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 496 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 470 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 3,641 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 498 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 468 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 171 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,900 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 2,992 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 987 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,276 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,494 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 986 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,236 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,507 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,7 +37,9 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| DatologyAI | Research Intern | San Mateo, CA | Summer 2027 | not available | 2026-09-19 | **[Apply →](https://jobs.ashbyhq.com/DatologyAI/0ced19c2-21ec-4bcc-92d2-68d448279f3f/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Microsoft | Hardware Engineering Intern | Redmond, WA | Winter 2027 | not available | 2026-09-19 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393557002608)**<br><sub>apply.careers.microsoft.com</sub> |
+| RTX | Software Project Engineer Intern (Summer 2027) Onsite | US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1 | Summer 2027 | not available | 2026-09-19 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Project-Engineer-Intern--Summer-2027--Onsite_01872660)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
 | 1X | Internship - CNC Machine Park | Hayward, CA | Not listed | not stated | 2026-09-18 | **[Apply →](https://jobs.ashbyhq.com/1x/ebc45d87-58d7-40d8-9e3d-5f3c8aa5eb48)**<br><sub>jobs.ashbyhq.com</sub> |
 | Acron Aviation | Software Engineer Intern - St. Pete Site | St Petersburg, FL | Not listed | Current student status<br><sub>required</sub> | 2026-09-18 | **[Apply →](https://jobs.lever.co/acronaviation/19dbac7d-b4fb-4d21-9247-dc610bf55fed)**<br><sub>jobs.lever.co</sub> |
 | Acron Aviation | Systems Engineer Intern - St. Pete Site | St Petersburg, FL | Not listed | Current student status<br><sub>required</sub> | 2026-09-18 | **[Apply →](https://jobs.lever.co/acronaviation/eaebe6c7-a38f-404f-ba93-210861faf184)**<br><sub>jobs.lever.co</sub> |
@@ -47,8 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | Amazon | Software Development Engineer Intern - Summer | Seattle, WA, Arlington County, Arlington, VA | Summer 2027 | not available | 2026-09-18 | **[Apply →](https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa)**<br><sub>amazon.jobs</sub> |
 | AMD | PhD HPC & Sovereign AI Intern/Co-op | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-09-18 | **[Apply →](https://careers.amd.com/jobs/92636?icims=1)**<br><sub>careers.amd.com</sub> |
 | American Family Insurance Group | Internal Data and Analytics Intern - Summer 2027 | Madison, WI | Summer 2027 | not available | 2026-09-18 | **[Apply →](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Internal-Data-and-Analytics-Intern---Summer-2027_R39401)**<br><sub>amfam.wd1.myworkdayjobs.com</sub> |
-| Analytical Mechanics Associates | Mechanical Engineering Intern | Hampton, VA | Not listed | not available | 2026-09-18 | **[Apply →](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Mechanical-Engineering-Intern_R-100764)**<br><sub>amainc.wd12.myworkdayjobs.com</sub> |
-| Astranis Space Technologies | Network Planning Sales Engineer Intern (Winter 2027) | San Francisco, California | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-09-18 | **[Apply →](https://job-boards.greenhouse.io/astranis/jobs/4704276006)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
