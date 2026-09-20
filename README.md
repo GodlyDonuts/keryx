@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**7,699 internships · 4,760 new-grad roles · 12,459 total openings**
+**7,700 internships · 4,737 new-grad roles · 12,437 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,635 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 494 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 474 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 3,638 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 497 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 476 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 167 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,929 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 2,922 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,011 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,276 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,473 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 986 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,279 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,472 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,7 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Citadel | Software Engineer - Intern - US | Houston, TX +2 | Not listed | not available | 2026-09-20 | **[Apply →](https://www.citadel.com/careers/details/software-engineer-intern-us/)**<br><sub>www.citadel.com</sub> |
 | Kittelson & Associates, Inc. | Transportation Engineering and Planning Intern (Summer 2027) | Boston, MA, United States | Summer 2027 | not available | 2026-09-20 | **[Apply →](https://www.kittelson.com/careers/transportation-engineering-and-planning-intern-summer-2027/)**<br><sub>www.kittelson.com</sub> |
 | Amazon | Software Development Engineer Intern - Summer 2027 - USA | Seattle, WA | Summer 2027 | not available | 2026-09-19 | **[Apply →](https://www.amazon.jobs/jobs/10552937/apply)**<br><sub>www.amazon.jobs</sub> |
 | Analog Devices | Biomedical Engineering Intern | US, MA, Wilmington | Not listed | not available | 2026-09-19 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
@@ -48,7 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | Motorola | R&D Intern - Wireless Systems Engineer - 2026 | Los Angeles, CA | Not listed | not available | 2026-09-19 | **[Apply →](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376)**<br><sub>motorolasolutions.wd5.myworkdayjobs.com</sub> |
 | Northrop Grumman | 2027 Facilities Engineering Intern | United States-Utah-Clearfield | Not listed | not available | 2026-09-19 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Facilities-Engineering-Intern_R10251663)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
 | Northrop Grumman | 2027 Manufacturing Engineer Intern | United States-Mississippi-Iuka | Not listed | not available | 2026-09-19 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Manufacturing-Engineer-Intern_R10251750-1)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
-| Northrop Grumman | 2027 Structural Engineer Intern | United States-Utah-Clearfield | Not listed | not available | 2026-09-19 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Structural-Engineer-Intern_R10251781)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
