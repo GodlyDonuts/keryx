@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**7,691 internships · 4,729 new-grad roles · 12,420 total openings**
+**7,719 internships · 4,740 new-grad roles · 12,459 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,654 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 492 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 468 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 168 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,909 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 3,660 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 493 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 469 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 167 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 2,930 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 980 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,236 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,513 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 987 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,253 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,500 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -45,10 +45,10 @@ Recent internship and co-op listings that open the employer's application page d
 | Garuda Ventures | Robotics Intern - Winter 2026 | Brisbane, California, United States | Not listed | not available | 2026-09-19 | **[Apply →](https://jobs.garuda.vc/companies/mytra-2/jobs/93721412-robotics-intern-winter-2026#content)**<br><sub>jobs.garuda.vc</sub> |
 | Microsoft | Hardware Engineering Intern | Redmond, WA | Winter 2027 | not available | 2026-09-19 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393557002608)**<br><sub>apply.careers.microsoft.com</sub> |
 | Motorola | R&D Intern - Wireless Systems Engineer - 2026 | Los Angeles, CA | Not listed | not available | 2026-09-19 | **[Apply →](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/R-D-Intern---Wireless-Systems-Engineer---2026_R62376)**<br><sub>motorolasolutions.wd5.myworkdayjobs.com</sub> |
-| RTX | Software Project Engineer Intern (Summer 2027) Onsite | US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1 | Summer 2027 | not available | 2026-09-19 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Project-Engineer-Intern--Summer-2027--Onsite_01872660)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
-| Tencent | Tencent Cloud CPaaS Product Management Intern | Los Angeles, CA | Not listed | not available | 2026-09-19 | **[Apply →](https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Los-Angeles/Tencent-Cloud-CPaaS-Product-Management-Intern_R108020)**<br><sub>tencent.wd1.myworkdayjobs.com</sub> |
-| 1X | Internship - CNC Machine Park | Hayward, CA | Not listed | not stated | 2026-09-18 | **[Apply →](https://jobs.ashbyhq.com/1x/ebc45d87-58d7-40d8-9e3d-5f3c8aa5eb48)**<br><sub>jobs.ashbyhq.com</sub> |
-| Acron Aviation | Software Engineer Intern - St. Pete Site | St. Petersburg, FL | Not listed | Current student status<br><sub>required</sub> | 2026-09-18 | **[Apply →](https://jobs.lever.co/acronaviation/19dbac7d-b4fb-4d21-9247-dc610bf55fed)**<br><sub>jobs.lever.co</sub> |
+| Northrop Grumman | 2027 Facilities Engineering Intern | United States-Utah-Clearfield | Not listed | not available | 2026-09-19 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Facilities-Engineering-Intern_R10251663)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
+| Northrop Grumman | 2027 Manufacturing Engineer Intern | United States-Mississippi-Iuka | Not listed | not available | 2026-09-19 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Manufacturing-Engineer-Intern_R10251750-1)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
+| Northrop Grumman | 2027 Structural Engineer Intern | United States-Utah-Clearfield | Not listed | not available | 2026-09-19 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Structural-Engineer-Intern_R10251781)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
+| RTX | Software Engineer Intern (Summer 2027) - Onsite | US-MA-CAMBRIDGE-BBN06 ~ 10 & 50 Moulton St ~ MOULTON B6 | Summer 2027 | not available | 2026-09-19 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
