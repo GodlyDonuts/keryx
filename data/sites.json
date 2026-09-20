@@ -1729,7 +1729,7 @@
       ],
       "company": "ASM Global",
       "key": "0dcd1a7a11fc0e4202d8af38",
-      "last_scanned": "2026-08-30",
+      "last_scanned": "2026-09-20",
       "resolved_roles": 0,
       "url": "https://asmglobal.com/"
     },
@@ -3584,6 +3584,14 @@
       "last_scanned": "2026-09-19",
       "resolved_roles": 0,
       "url": "https://bot.auto/"
+    },
+    {
+      "boards": [],
+      "company": "Auria Space",
+      "key": "1b1a7bb9ec709d961b93db00",
+      "last_scanned": "2026-09-20",
+      "resolved_roles": 0,
+      "url": "https://www.auria.space/"
     },
     {
       "boards": [],
@@ -8667,6 +8675,16 @@
       "url": "https://redlattice.com/"
     },
     {
+      "boards": [
+        "greenhouse:iterrasolutions"
+      ],
+      "company": "ITERRA",
+      "key": "402a62b3ba337bd3562c467f",
+      "last_scanned": "2026-09-20",
+      "resolved_roles": 0,
+      "url": "https://iterrasolutions.com/"
+    },
+    {
       "company": "AMD",
       "error": "public request failed for https://www.amd.com/: The read operation timed out",
       "key": "402b3c74b76212235bffcd36",
@@ -9037,6 +9055,19 @@
       "last_scanned": "2026-09-16",
       "resolved_roles": 0,
       "url": "https://www.mlb.com/guardians"
+    },
+    {
+      "boards": [
+        "workday:tamus.wd1.myworkdayjobs.com:tamus:agrilife_extension_external",
+        "workday:tamus.wd1.myworkdayjobs.com:tamus:agrilife_research_external",
+        "workday:tamus.wd1.myworkdayjobs.com:tamus:tfs_external",
+        "workday:tamus.wd1.myworkdayjobs.com:tamus:tvmdl_external"
+      ],
+      "company": "Texas A&M AgriLife Center for Managed Technology Services",
+      "key": "439ec4fccb9de8510a75c87c",
+      "last_scanned": "2026-09-20",
+      "resolved_roles": 0,
+      "url": "https://cmts.tamu.edu/"
     },
     {
       "boards": [],
@@ -11687,7 +11718,7 @@
       "company": "Syensqo",
       "error": "public request failed for https://www.syensqo.com/: HTTP Error 406: Not Acceptable",
       "key": "561b1436b6fc39ecb07f08e4",
-      "last_scanned": "2026-09-19",
+      "last_scanned": "2026-09-20",
       "url": "https://www.syensqo.com/"
     },
     {
@@ -17463,7 +17494,7 @@
       "boards": [],
       "company": "Ruger Firearms",
       "key": "7f8762a5f74c0ac3a4c22e1a",
-      "last_scanned": "2026-08-29",
+      "last_scanned": "2026-09-20",
       "resolved_roles": 0,
       "url": "https://www.ruger.com/"
     },
@@ -18022,7 +18053,7 @@
       "boards": [],
       "company": "Seven Research, LLC",
       "key": "841d48e6b937fc110884f3d3",
-      "last_scanned": "2026-09-06",
+      "last_scanned": "2026-09-20",
       "resolved_roles": 0,
       "url": "https://sevenresearch.com/"
     },
@@ -19128,7 +19159,7 @@
       "company": "Marathon Petroleum Corporation",
       "error": "public request failed for https://www.marathonpetroleum.com/: HTTP Error 403: Forbidden",
       "key": "8b96c5fecf4a8c25a350411f",
-      "last_scanned": "2026-09-19",
+      "last_scanned": "2026-09-20",
       "url": "https://www.marathonpetroleum.com/"
     },
     {
@@ -21351,6 +21382,14 @@
     },
     {
       "boards": [],
+      "company": "Mar-Bal, Inc",
+      "key": "9d93f0408215c5321630d062",
+      "last_scanned": "2026-09-20",
+      "resolved_roles": 0,
+      "url": "https://mar-bal.com/"
+    },
+    {
+      "boards": [],
       "company": "Shiseido",
       "key": "9dac4b5f600cee391f429291",
       "last_scanned": "2026-09-19",
@@ -21403,7 +21442,7 @@
       "boards": [],
       "company": "IEX",
       "key": "9de9d41398cc3e70bbdf7045",
-      "last_scanned": "2026-09-02",
+      "last_scanned": "2026-09-20",
       "resolved_roles": 0,
       "url": "https://iex.io/"
     },
@@ -23982,7 +24021,7 @@
       "company": "Schaeffler",
       "error": "public request failed for https://www.schaeffler.us/: HTTP Error 403: Forbidden",
       "key": "afdd13d82e7381b4164fc147",
-      "last_scanned": "2026-09-13",
+      "last_scanned": "2026-09-20",
       "url": "https://www.schaeffler.us/"
     },
     {
@@ -25477,7 +25516,7 @@
       "boards": [],
       "company": "Helix Electric",
       "key": "bb1274f6ce5192b49854ea91",
-      "last_scanned": "2026-09-11",
+      "last_scanned": "2026-09-20",
       "resolved_roles": 0,
       "url": "https://www.helixelectric.com/"
     },
@@ -28588,7 +28627,7 @@
       "boards": [],
       "company": "Advanced Energy",
       "key": "d087573e05d843a0b24efb09",
-      "last_scanned": "2026-09-12",
+      "last_scanned": "2026-09-20",
       "resolved_roles": 0,
       "url": "https://www.advancedenergy.com/"
     },
@@ -34683,7 +34722,7 @@
       ],
       "company": "Belvedere Trading, LLC",
       "key": "fb2acdbf145d95e2e07dc850",
-      "last_scanned": "2026-08-29",
+      "last_scanned": "2026-09-20",
       "resolved_roles": 0,
       "url": "https://belvederetrading.com/"
     },
@@ -34984,9 +35023,9 @@
     },
     {
       "company": "Epic Games",
-      "error": "public request failed for https://store.epicgames.com/: HTTP Error 403: Forbidden",
+      "error": "public request failed for https://www.epicgames.com:443/: HTTP Error 403: Forbidden",
       "key": "fd2aec6b90163ec9c714ee1b",
-      "last_scanned": "2026-09-12",
+      "last_scanned": "2026-09-20",
       "url": "https://epicgames.com/"
     },
     {

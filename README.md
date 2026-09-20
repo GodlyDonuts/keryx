@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**7,700 internships · 4,731 new-grad roles · 12,431 total openings**
+**7,740 internships · 4,733 new-grad roles · 12,473 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,646 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 494 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 470 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 3,657 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 498 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 473 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 166 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,924 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 2,946 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 988 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,247 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,496 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 987 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,251 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,495 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -59,6 +59,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | TikTok | Software Development Engineer Graduate - TikTok - Testing - Growth - 2027 Start | San Jose, CA | 2027 | not available | 2026-09-20 | **[Apply →](https://lifeattiktok.com/search/7669957922422507781)**<br><sub>lifeattiktok.com</sub> |
+| Zynga | Software Engineer - Game of Thrones Slots | Austin, TX +2 | 2027 | not available | 2026-09-20 | **[Apply →](https://job-boards.greenhouse.io/zyngacareers/jobs/6151865004)**<br><sub>job-boards.greenhouse.io</sub> |
 | Anduril | Embedded Firmware Engineer - Connected Warfare | Costa Mesa, CA | 2027 | not available | 2026-09-19 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5225618007?gh_jid=5225618007)**<br><sub>boards.greenhouse.io</sub> |
 | Clera | Founding Engineer - Full Stack | San Francisco, CA | 2027 | not available | 2026-09-19 | **[Apply →](https://jobs.ashbyhq.com/clera/cea943d6-817f-441c-baa1-d295916ace46)**<br><sub>jobs.ashbyhq.com</sub> |
 | Perseus Group | Software Engineer 1 | Sharon, PA, Jacksonville, FL | Not listed | not available | 2026-09-19 | **[Apply →](https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Sharon-Pennsylvania---USA/Software-Engineer-I_R54341)**<br><sub>talentmanagementsolution.wd3.myworkdayjobs.com</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | AHEAD | Associate AI Engineer | Chicago, IL | Not listed | not available | 2026-09-18 | **[Apply →](https://jobs.lever.co/thinkahead/1ebcedcb-82ba-4d19-ac88-aa73a812dd81/apply)**<br><sub>jobs.lever.co</sub> |
 | AHEAD | Associate Data Engineer | Chicago, IL | Not listed | not available | 2026-09-18 | **[Apply →](https://jobs.lever.co/thinkahead/14fefcf2-720f-4333-8bcc-ff3ba62d3b8e/apply)**<br><sub>jobs.lever.co</sub> |
 | AIG | Data Office Analyst | Charlotte, NC, NYC, Parsippany-Troy Hills, NJ | Not listed | not available | 2026-09-18 | **[Apply →](https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/NC-Charlotte/XMLNAME-2027-Early-Careers--Analyst--Data-Office---United-States--Charlotte--NC--Jersey-City--Parsippany--NJ----New-York--NY_JR2603619)**<br><sub>aig.wd1.myworkdayjobs.com</sub> |
-| AIG | Data Office Analyst | Charlotte, NC, NYC, Parsippany-Troy Hills, NJ | Not listed | not available | 2026-09-18 | **[Apply →](https://aig.wd1.myworkdayjobs.com/aig/job/NC-Charlotte/XMLNAME-2027-Early-Careers--Analyst--Data-Office---United-States--Charlotte--NC--Jersey-City--Parsippany--NJ----New-York--NY_JR2603619-1)**<br><sub>aig.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
