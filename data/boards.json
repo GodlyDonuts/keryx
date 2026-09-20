@@ -6687,6 +6687,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Inova Health",
+      "host": "elar.fa.us2.oraclecloud.com",
+      "key": "oracle:elar.fa.us2.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "elar"
+    },
+    {
+      "ats": "oracle",
       "company": "EXP",
       "host": "elcn.fa.us2.oraclecloud.com",
       "key": "oracle:elcn.fa.us2.oraclecloud.com:cx",

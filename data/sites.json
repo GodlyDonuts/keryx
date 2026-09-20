@@ -1815,6 +1815,16 @@
       "url": "https://www.permobil.com/"
     },
     {
+      "boards": [
+        "oracle:elar.fa.us2.oraclecloud.com:cx_1"
+      ],
+      "company": "Inova Health",
+      "key": "0e56b940c134c275c8ed4205",
+      "last_scanned": "2026-09-20",
+      "resolved_roles": 0,
+      "url": "https://www.inova.org/"
+    },
+    {
       "boards": [],
       "company": "DiPrete Engineering",
       "key": "0e5eb9b4f4fb96f3939cc908",
@@ -2660,6 +2670,14 @@
       "last_scanned": "2026-08-20",
       "resolved_roles": 0,
       "url": "https://www.blueshieldca.com/"
+    },
+    {
+      "boards": [],
+      "company": "Tensor Auto",
+      "key": "13f10b49cb4beb3bd872bffd",
+      "last_scanned": "2026-09-20",
+      "resolved_roles": 0,
+      "url": "https://www.tensor.ai/"
     },
     {
       "boards": [],
@@ -7646,7 +7664,7 @@
       ],
       "company": "Fanatics",
       "key": "3904afc2f48515855cfdf709",
-      "last_scanned": "2026-09-05",
+      "last_scanned": "2026-09-20",
       "resolved_roles": 0,
       "url": "https://www.fanaticsinc.com/"
     },
@@ -11778,6 +11796,14 @@
       "url": "https://www.comed.com/"
     },
     {
+      "boards": [],
+      "company": "RG&T Solutions",
+      "key": "5705254d3510f0724d18caff",
+      "last_scanned": "2026-09-20",
+      "resolved_roles": 0,
+      "url": "https://www.linkedin.com/company/112014533"
+    },
+    {
       "company": "Fuller Hospital",
       "error": "public request failed for https://www.fullerhospital.com/: HTTP Error 403: Forbidden",
       "key": "570a50503f947e121f4499ac",
@@ -15283,6 +15309,13 @@
       "url": "https://www.empower.ai/"
     },
     {
+      "company": "Ingersoll Rand",
+      "error": "public request failed for https://www.irco.com/en-us/: HTTP Error 429: Too Many Requests",
+      "key": "700fc5963bd545df33d05aa0",
+      "last_scanned": "2026-09-20",
+      "url": "https://www.irco.com/en-us/"
+    },
+    {
       "boards": [
         "workday:usbank.wd1.myworkdayjobs.com:usbank:us_bank_careers"
       ],
@@ -16727,7 +16760,7 @@
       "boards": [],
       "company": "Cresta",
       "key": "7a290ad30e86d373f175549f",
-      "last_scanned": "2026-09-13",
+      "last_scanned": "2026-09-20",
       "resolved_roles": 0,
       "url": "https://www.cresta.com/"
     },
@@ -18610,7 +18643,7 @@
       "boards": [],
       "company": "Infineon Technologies",
       "key": "886663a480c269e2dcbfe0ce",
-      "last_scanned": "2026-09-13",
+      "last_scanned": "2026-09-20",
       "resolved_roles": 0,
       "url": "https://www.infineon.com/"
     },
@@ -23343,6 +23376,13 @@
       "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://kamconewyork.com/"
+    },
+    {
+      "company": "Safran Defense & Space, Inc.",
+      "error": "public request failed for https://www.safran-dsi.com/: HTTP Error 403: Forbidden",
+      "key": "aae6e05f7d1abf19a882caee",
+      "last_scanned": "2026-09-20",
+      "url": "https://www.safran-dsi.com/"
     },
     {
       "boards": [],
@@ -28368,7 +28408,7 @@
       "boards": [],
       "company": "Varda Space Industries",
       "key": "cf9447ee11e623947fcb4aff",
-      "last_scanned": "2026-09-06",
+      "last_scanned": "2026-09-20",
       "resolved_roles": 0,
       "url": "https://varda.com/"
     },
@@ -31201,7 +31241,7 @@
       ],
       "company": "Sinclair Inc.",
       "key": "e38ff66d11e3f4f6d0b10db7",
-      "last_scanned": "2026-09-06",
+      "last_scanned": "2026-09-20",
       "resolved_roles": 0,
       "url": "https://sbgi.net/"
     },
