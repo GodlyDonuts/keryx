@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**7,740 internships · 4,733 new-grad roles · 12,473 total openings**
+**7,699 internships · 4,760 new-grad roles · 12,459 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,657 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 498 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 473 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 166 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 2,946 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 3,635 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 494 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 474 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 167 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 2,929 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 987 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,251 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,495 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,011 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,276 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,473 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,7 +37,7 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| RTX | Systems Engineering - Summer Intern 2027 - Onsite | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 | Summer 2027 | not available | 2026-09-20 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering---Summer-Intern-2027---Onsite_01873971)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
+| Kittelson & Associates, Inc. | Transportation Engineering and Planning Intern (Summer 2027) | Boston, MA, United States | Summer 2027 | not available | 2026-09-20 | **[Apply →](https://www.kittelson.com/careers/transportation-engineering-and-planning-intern-summer-2027/)**<br><sub>www.kittelson.com</sub> |
 | Amazon | Software Development Engineer Intern - Summer 2027 - USA | Seattle, WA | Summer 2027 | not available | 2026-09-19 | **[Apply →](https://www.amazon.jobs/jobs/10552937/apply)**<br><sub>www.amazon.jobs</sub> |
 | Analog Devices | Biomedical Engineering Intern | US, MA, Wilmington | Not listed | not available | 2026-09-19 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Brown Brothers Harriman | 2027 Internal Audit - Information Technology & Cybersecurity Summer Internship | New York | Summer 2027 | not available | 2026-09-19 | **[Apply →](https://bbh.wd5.myworkdayjobs.com/BBH/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899)**<br><sub>bbh.wd5.myworkdayjobs.com</sub> |
@@ -62,14 +62,14 @@ Recent full-time opportunities that open the employer's application page directl
 | Zynga | Software Engineer - Game of Thrones Slots | Austin, TX +2 | 2027 | not available | 2026-09-20 | **[Apply →](https://job-boards.greenhouse.io/zyngacareers/jobs/6151865004)**<br><sub>job-boards.greenhouse.io</sub> |
 | Anduril | Embedded Firmware Engineer - Connected Warfare | Costa Mesa, CA | 2027 | not available | 2026-09-19 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5225618007?gh_jid=5225618007)**<br><sub>boards.greenhouse.io</sub> |
 | Clera | Founding Engineer - Full Stack | San Francisco, CA | 2027 | not available | 2026-09-19 | **[Apply →](https://jobs.ashbyhq.com/clera/cea943d6-817f-441c-baa1-d295916ace46)**<br><sub>jobs.ashbyhq.com</sub> |
-| Perseus Group | Software Engineer 1 | Sharon, PA, Jacksonville, FL | Not listed | not available | 2026-09-19 | **[Apply →](https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Sharon-Pennsylvania---USA/Software-Engineer-I_R54341)**<br><sub>talentmanagementsolution.wd3.myworkdayjobs.com</sub> |
+| Perseus Group | Software Engineer 1 | Sharon, PA, Jacksonville, FL | 2027 | not available | 2026-09-19 | **[Apply →](https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Sharon-Pennsylvania---USA/Software-Engineer-I_R54341)**<br><sub>talentmanagementsolution.wd3.myworkdayjobs.com</sub> |
+| Relativity Space | Software Engineer I | Lebanon +1 | 2027 | not available | 2026-09-19 | **[Apply →](https://boards.greenhouse.io/relativity/jobs/8747134002?gh_jid=8747134002)**<br><sub>boards.greenhouse.io</sub> |
 | Roblox | Software Engineer - Economy Platform | San Mateo, CA | 2027 | not available | 2026-09-19 | **[Apply →](https://careers.roblox.com/jobs/8060254?gh_jid=8060254)**<br><sub>careers.roblox.com</sub> |
 | SharkNinja | Associate Product Developer - Corded/Cordless | Needham, MA | 2027 | not available | 2026-09-19 | **[Apply →](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4707165006)**<br><sub>job-boards.greenhouse.io</sub> |
 | Study.com | Software Engineer New Grad - AI-Native | Mountain View, CA | 2027 | not available | 2026-09-19 | **[Apply →](https://study.com/pages/jobApplication.html/?gh_jid=5429313008)**<br><sub>study.com</sub> |
 | Swift | Jr. Software Development Engineer in Test - SDET | Manassas, VA | 2027 | not available | 2026-09-19 | **[Apply →](https://swift.wd3.myworkdayjobs.com/en-US/join-swift/job/Manassas-United-States/Jr-Software-Development-Engineer-in-Test--SDET-_2026-16183-1)**<br><sub>swift.wd3.myworkdayjobs.com</sub> |
 | AHEAD | Associate AI Engineer | Chicago, IL | Not listed | not available | 2026-09-18 | **[Apply →](https://jobs.lever.co/thinkahead/1ebcedcb-82ba-4d19-ac88-aa73a812dd81/apply)**<br><sub>jobs.lever.co</sub> |
 | AHEAD | Associate Data Engineer | Chicago, IL | Not listed | not available | 2026-09-18 | **[Apply →](https://jobs.lever.co/thinkahead/14fefcf2-720f-4333-8bcc-ff3ba62d3b8e/apply)**<br><sub>jobs.lever.co</sub> |
-| AIG | Data Office Analyst | Charlotte, NC, NYC, Parsippany-Troy Hills, NJ | Not listed | not available | 2026-09-18 | **[Apply →](https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/NC-Charlotte/XMLNAME-2027-Early-Careers--Analyst--Data-Office---United-States--Charlotte--NC--Jersey-City--Parsippany--NJ----New-York--NY_JR2603619)**<br><sub>aig.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
