@@ -3097,6 +3097,16 @@
     },
     {
       "boards": [
+        "workday:baldwin.wd1.myworkdayjobs.com:baldwin:baldwin"
+      ],
+      "company": "The Baldwin Group",
+      "key": "16807b45c46a7b95e6074571",
+      "last_scanned": "2026-09-21",
+      "resolved_roles": 0,
+      "url": "https://baldwin.com/"
+    },
+    {
+      "boards": [
         "workday:ambarella.wd108.myworkdayjobs.com:ambarella:ambarella"
       ],
       "company": "VisLab (an Ambarella Inc. company)",
@@ -4886,6 +4896,14 @@
     },
     {
       "boards": [],
+      "company": "AI GridWorks",
+      "key": "24b7c51ab2fb120086de1377",
+      "last_scanned": "2026-09-21",
+      "resolved_roles": 0,
+      "url": "https://aigridworks.ai/"
+    },
+    {
+      "boards": [],
       "company": "KBR Careers",
       "key": "24dbe6f1193eb370eaaf7496",
       "last_scanned": "2026-09-12",
@@ -6317,7 +6335,7 @@
       "company": "Encompass Supply Chain Solutions",
       "error": "public request failed for https://encompass.com/: HTTP Error 403: Forbidden",
       "key": "2f6c52ad187ab2fd57dce176",
-      "last_scanned": "2026-09-19",
+      "last_scanned": "2026-09-21",
       "url": "https://encompass.com/"
     },
     {
@@ -6948,7 +6966,7 @@
       "boards": [],
       "company": "Altec",
       "key": "331242566916125a9cc01086",
-      "last_scanned": "2026-09-14",
+      "last_scanned": "2026-09-21",
       "resolved_roles": 0,
       "url": "https://www.altec.com/altec-capital/"
     },
@@ -7251,6 +7269,13 @@
       "last_scanned": "2026-09-15",
       "resolved_roles": 0,
       "url": "https://www.misoenergy.org/"
+    },
+    {
+      "company": "Somic America Inc.",
+      "error": "public request failed for https://www.somicamerica.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.somicamerica.com'. (_ssl.c:1000)>",
+      "key": "356320426ddc56c2224fd3fb",
+      "last_scanned": "2026-09-21",
+      "url": "https://www.somicamerica.com/"
     },
     {
       "boards": [
@@ -9757,7 +9782,7 @@
       "company": "Old Woman Creek National Estuarine Research Reserve",
       "error": "public request failed for https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr: HTTP Error 404: Not Found",
       "key": "484056cd29e7a932d2f9092a",
-      "last_scanned": "2026-09-20",
+      "last_scanned": "2026-09-21",
       "url": "https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr"
     },
     {
@@ -12295,6 +12320,14 @@
     },
     {
       "boards": [],
+      "company": "Fulcrum Reliability Systems",
+      "key": "59d24b675e519d17dfd4eb8b",
+      "last_scanned": "2026-09-21",
+      "resolved_roles": 0,
+      "url": "https://fulcrumreliability.com/"
+    },
+    {
+      "boards": [],
       "company": "McGill Associates, PA",
       "key": "59e262542c5ded9229397612",
       "last_scanned": "2026-08-25",
@@ -12330,6 +12363,13 @@
       "last_scanned": "2026-09-07",
       "resolved_roles": 0,
       "url": "https://www.dlbassociates.com/"
+    },
+    {
+      "company": "AutoZone",
+      "error": "public request failed for https://www.autozone.com/: HTTP Error 403: Forbidden",
+      "key": "5a29c832d9a6ced37b68c162",
+      "last_scanned": "2026-09-21",
+      "url": "https://www.autozone.com/"
     },
     {
       "boards": [],
@@ -13479,6 +13519,24 @@
       "url": "https://paxai.com/"
     },
     {
+      "boards": [
+        "greenhouse:mercury"
+      ],
+      "company": "Mercury",
+      "key": "61c89e9f9be639f3c40fbf6e",
+      "last_scanned": "2026-09-21",
+      "resolved_roles": 0,
+      "url": "https://mercury.com/"
+    },
+    {
+      "boards": [],
+      "company": "Optimum Media",
+      "key": "61ce51ab3a2f66014e4ada19",
+      "last_scanned": "2026-09-21",
+      "resolved_roles": 0,
+      "url": "https://www.optimum.media/"
+    },
+    {
       "boards": [],
       "company": "Zachary Piper Solutions",
       "key": "61e2461a83abe39303b703e4",
@@ -13862,7 +13920,7 @@
       "boards": [],
       "company": "Affirm",
       "key": "651cc3f594cc355b33b77a65",
-      "last_scanned": "2026-09-11",
+      "last_scanned": "2026-09-21",
       "resolved_roles": 0,
       "url": "https://www.affirm.com/"
     },
@@ -13947,7 +14005,7 @@
       "company": "SIG SAUER, Inc.",
       "error": "public request failed for https://www.sigsauer.com/: HTTP Error 403: Forbidden",
       "key": "65ab42fdd08766ba5bf90249",
-      "last_scanned": "2026-09-07",
+      "last_scanned": "2026-09-21",
       "url": "https://www.sigsauer.com/"
     },
     {
@@ -15381,6 +15439,16 @@
       "url": "https://theswiftgroup.com/"
     },
     {
+      "boards": [
+        "greenhouse:blackedgecapital"
+      ],
+      "company": "BlackEdge Capital",
+      "key": "6fa3fe66097adaf90e25235b",
+      "last_scanned": "2026-09-21",
+      "resolved_roles": 0,
+      "url": "https://www.blackedge.com/"
+    },
+    {
       "boards": [],
       "company": "Cencora",
       "key": "6fc7ab8a1c773f3317efcaf9",
@@ -16373,7 +16441,7 @@
       "boards": [],
       "company": "Constellis",
       "key": "77045f5de8e16a69751890e5",
-      "last_scanned": "2026-09-14",
+      "last_scanned": "2026-09-21",
       "resolved_roles": 0,
       "url": "https://www.constellis.com/"
     },
@@ -16779,6 +16847,14 @@
     },
     {
       "boards": [],
+      "company": "H2M architects + engineers",
+      "key": "7981204787d65218f886cd52",
+      "last_scanned": "2026-09-21",
+      "resolved_roles": 0,
+      "url": "https://h2m.com/"
+    },
+    {
+      "boards": [],
       "company": "John Deere",
       "key": "7990655f8e392d021a5c8c54",
       "last_scanned": "2026-09-21",
@@ -17049,7 +17125,7 @@
       ],
       "company": "Barr Engineering Co.",
       "key": "7b65e6e780f2269307629b56",
-      "last_scanned": "2026-09-14",
+      "last_scanned": "2026-09-21",
       "resolved_roles": 0,
       "url": "https://www.barr.com/"
     },
@@ -19692,6 +19768,13 @@
       "url": "https://groceryoutlet.com/"
     },
     {
+      "company": "Wood",
+      "error": "public request failed for https://www.woodgroup.com/: HTTP Error 403: Forbidden",
+      "key": "8e6a431fc49c833277918832",
+      "last_scanned": "2026-09-21",
+      "url": "https://www.woodgroup.com/"
+    },
+    {
       "boards": [],
       "company": "HAVI",
       "key": "8e70cd9d21b5edb5e2ec1466",
@@ -20150,6 +20233,14 @@
       "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://www.cuimc.columbia.edu/"
+    },
+    {
+      "boards": [],
+      "company": "Sirona Medical",
+      "key": "92608f9a3478a77175f44d8b",
+      "last_scanned": "2026-09-21",
+      "resolved_roles": 0,
+      "url": "https://www.sironamedical.com/"
     },
     {
       "boards": [],
@@ -20665,7 +20756,7 @@
       "company": "Radix Metasystems, Inc.",
       "error": "Invalid IPv6 URL",
       "key": "969b065901c9775699b0b9c2",
-      "last_scanned": "2026-09-17",
+      "last_scanned": "2026-09-21",
       "url": "https://www.radixmeta.com/"
     },
     {
@@ -23437,6 +23528,13 @@
       "last_scanned": "2026-08-25",
       "resolved_roles": 0,
       "url": "https://www.artera.com/"
+    },
+    {
+      "company": "AmeriCorps",
+      "error": "public hostname did not resolve: www.nationalservice.gov",
+      "key": "aa7ae83cbab69bd09f766ef8",
+      "last_scanned": "2026-09-21",
+      "url": "https://www.nationalservice.gov/"
     },
     {
       "boards": [],
@@ -26307,7 +26405,7 @@
       "boards": [],
       "company": "KKR",
       "key": "bfc9394bad9d378a790ae3a9",
-      "last_scanned": "2026-09-12",
+      "last_scanned": "2026-09-21",
       "resolved_roles": 0,
       "url": "https://www.kkr.com/"
     },
@@ -26361,7 +26459,7 @@
       ],
       "company": "Notability",
       "key": "c00636ceedb2b893bd8ba203",
-      "last_scanned": "2026-09-14",
+      "last_scanned": "2026-09-21",
       "resolved_roles": 0,
       "url": "https://www.gingerlabs.com/"
     },
@@ -29506,7 +29604,7 @@
       "company": "Idaho National Laboratory",
       "error": "public request failed for https://inl.gov/: HTTP Error 403: Forbidden",
       "key": "d5c73f56fb739823bf81e20c",
-      "last_scanned": "2026-09-09",
+      "last_scanned": "2026-09-21",
       "url": "https://inl.gov/"
     },
     {
@@ -30195,7 +30293,7 @@
       ],
       "company": "Ensemble Health Partners",
       "key": "dab5fc85fb54fd65b95c3b29",
-      "last_scanned": "2026-08-30",
+      "last_scanned": "2026-09-21",
       "resolved_roles": 0,
       "url": "https://ensemblehp.com/"
     },
@@ -30557,7 +30655,7 @@
       "boards": [],
       "company": "Krones",
       "key": "ddb6a009fea03a5418e868c7",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-09-21",
       "resolved_roles": 0,
       "url": "https://www.krones.com/"
     },
@@ -31119,6 +31217,14 @@
       "last_scanned": "2026-09-20",
       "resolved_roles": 0,
       "url": "https://safe.ai/"
+    },
+    {
+      "boards": [],
+      "company": "Philip Morris International",
+      "key": "e16d97d1a9c366ad9a0ba86e",
+      "last_scanned": "2026-09-21",
+      "resolved_roles": 0,
+      "url": "https://www.pmi.com/"
     },
     {
       "boards": [],
@@ -31941,6 +32047,14 @@
       "last_scanned": "2026-08-26",
       "resolved_roles": 0,
       "url": "https://www.barnhartcrane.com/"
+    },
+    {
+      "boards": [],
+      "company": "Northwestern Mutual",
+      "key": "e74e1c1f2017ccd4c6dd6c6a",
+      "last_scanned": "2026-09-21",
+      "resolved_roles": 0,
+      "url": "https://realestate.northwesternmutual.com/"
     },
     {
       "boards": [],

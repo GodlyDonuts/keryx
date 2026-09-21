@@ -4481,6 +4481,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Sirona Medical",
+      "key": "greenhouse:sironamedical",
+      "slug": "sironamedical"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Skilled Wound Care",
       "key": "greenhouse:skilledwoundcare",
       "slug": "skilledwoundcare"
@@ -6494,6 +6500,14 @@
       "key": "oracle:egua.fa.us2.oraclecloud.com:cx_1",
       "site": "CX_1",
       "slug": "egua"
+    },
+    {
+      "ats": "oracle",
+      "company": "AutoZone",
+      "host": "egud.fa.us2.oraclecloud.com",
+      "key": "oracle:egud.fa.us2.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "egud"
     },
     {
       "ats": "oracle",
@@ -8717,7 +8731,7 @@
     },
     {
       "ats": "workable",
-      "company": "pony.ai",
+      "company": "Pony.ai",
       "key": "workable:pony-dot-ai",
       "slug": "pony-dot-ai"
     },
@@ -10052,6 +10066,15 @@
       "site": "BTCareers",
       "slug": "bakertilly",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "The Baldwin Group",
+      "host": "baldwin.wd1.myworkdayjobs.com",
+      "key": "workday:baldwin.wd1.myworkdayjobs.com:baldwin:baldwin",
+      "site": "Baldwin",
+      "slug": "baldwin",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -15164,6 +15187,15 @@
       "site": "njm",
       "slug": "njm",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Nordson",
+      "host": "nordsonhcm.wd501.myworkdayjobs.com",
+      "key": "workday:nordsonhcm.wd501.myworkdayjobs.com:nordsonhcm:nordsoncareers",
+      "site": "nordsoncareers",
+      "slug": "nordsonhcm",
+      "wd": "wd501"
     },
     {
       "ats": "workday",
