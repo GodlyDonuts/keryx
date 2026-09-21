@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**7,778 internships · 4,751 new-grad roles · 12,529 total openings**
+**7,872 internships · 4,760 new-grad roles · 12,632 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,643 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 3,696 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 490 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 477 | **[View openings →](internships/spring-2027.md)** |
+| 🌱 Spring 2027 | 479 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 167 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,001 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 3,040 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,008 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,265 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,478 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,023 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,255 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,482 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Mercury | Software Engineering Intern - Spring 2027 | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | Spring 2027 | Current student status<br><sub>stated</sub> | 2026-09-21 | **[Apply →](https://job-boards.greenhouse.io/mercury/jobs/6199367004)**<br><sub>job-boards.greenhouse.io</sub> |
-| Northrop Grumman | 2027 Embedded Software Engineer Intern - Camarillo CA | United States-California-Camarillo | Summer 2027 | not available | 2026-09-21 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
-| Workiva | Spring 2027 Intern - Business Systems | USA - Remote | Spring 2027 | not available | 2026-09-21 | **[Apply →](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring-2027-Intern---Business-Systems_R12405)**<br><sub>workiva.wd503.myworkdayjobs.com</sub> |
-| Workiva | Spring 2027 Intern - Technology Services Operations | USA - Remote | Spring 2027 | not available | 2026-09-21 | **[Apply →](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring-2027-Intern---Technology-Services-Operations_R12201)**<br><sub>workiva.wd503.myworkdayjobs.com</sub> |
-| AutoZone | AutoZone 2027 Summer Internship – Data Science | Memphis, TN, United States | Summer 2027 | Summer–2027<br><sub>required / stated</sub> | 2026-09-20 | **[Apply →](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461)**<br><sub>egud.fa.us2.oraclecloud.com</sub> |
-| AutoZone | AutoZone 2027 Summer Internship – Information Technology | Memphis, TN, United States | Summer 2027 | Summer–2027<br><sub>required / stated</sub> | 2026-09-20 | **[Apply →](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451)**<br><sub>egud.fa.us2.oraclecloud.com</sub> |
-| Brookfield | Intern, Business Analyst | New York, New York | Not listed | not available | 2026-09-20 | **[Apply →](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/New-York-New-York/Intern--Business-Analyst_R2051499)**<br><sub>brookfield.wd5.myworkdayjobs.com</sub> |
-| Citadel | Software Engineer - Intern - US | Houston, TX +2 | Not listed | not available | 2026-09-20 | **[Apply →](https://www.citadel.com/careers/details/software-engineer-intern-us/)**<br><sub>www.citadel.com</sub> |
-| Jump Trading | Campus Software Engineer - Intern | Chicago, IL | Not listed | not available | 2026-09-20 | **[Apply →](https://www.jumptrading.com/hr/job?gh_jid=8002989)**<br><sub>www.jumptrading.com</sub> |
-| Kittelson & Associates, Inc. | Transportation Engineering and Planning Intern (Summer 2027) | Boston, MA, United States | Summer 2027 | not available | 2026-09-20 | **[Apply →](https://www.kittelson.com/careers/transportation-engineering-and-planning-intern-summer-2027/)**<br><sub>www.kittelson.com</sub> |
-| Nordson | Electrical Engineering Intern | USA - Minnesota - Minneapolis - 5900 Golden Hills Drive | Not listed | not available | 2026-09-20 | **[Apply →](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Electrical-Engineering-Intern_REQ52913)**<br><sub>nordsonhcm.wd501.myworkdayjobs.com</sub> |
-| Nordson | Intern (Disposables Engineering) | USA - Texas - Allen | Not listed | not available | 2026-09-20 | **[Apply →](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Texas---Allen/Intern--Disposables-Engineering-_REQ52924)**<br><sub>nordsonhcm.wd501.myworkdayjobs.com</sub> |
+| AutoZone | AutoZone 2027 Summer Internship – Data Science | Memphis, TN, United States | Summer 2027 | Summer–2027<br><sub>required / stated</sub> | 2026-09-21 | **[Apply →](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461)**<br><sub>egud.fa.us2.oraclecloud.com</sub> |
+| AutoZone | AutoZone 2027 Summer Internship – Information Technology | Memphis, TN, United States | Summer 2027 | Summer–2027<br><sub>required / stated</sub> | 2026-09-21 | **[Apply →](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451)**<br><sub>egud.fa.us2.oraclecloud.com</sub> |
+| BranchPattern | Engineering Intern - Summer 2027 | Kansas City, Missouri | Summer 2027 | not stated | 2026-09-21 | **[Apply →](https://improvinglife.bamboohr.com/careers/250/)**<br><sub>improvinglife.bamboohr.com</sub> |
+| Clarendale West End | Marketing and Sales Systems Intern | Des Moines, IA, United States | Not listed | Current student status<br><sub>stated</sub> | 2026-09-21 | **[Apply →](https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/clarendalewestend/job/40117)**<br><sub>eexs.fa.us2.oraclecloud.com</sub> |
+| Clean Harbors | Chemist Intern (Chemical Engineer) Industrial Services | Sumter, SC, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-21 | **[Apply →](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CLH-US/job/165145)**<br><sub>epyc.fa.us2.oraclecloud.com</sub> |
+| Dow Jones | Summer 2027 Internship Program – Product Strategy Intern | New York City | Summer 2027 | not available | 2026-09-21 | **[Apply →](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/New-York-City/Summer-2027-Internship-Program---Product-Strategy-Intern_Job_Req_55317)**<br><sub>dowjones.wd1.myworkdayjobs.com</sub> |
+| Fidelity Investments | Undergraduate Internship - Software | Boston, MA, Westlake, TX, Durham, NC | Summer 2027 | not available | 2026-09-21 | **[Apply →](https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524)**<br><sub>fmr.wd1.myworkdayjobs.com</sub> |
+| Figma | PhD Intern, Data Science (2027) | San Francisco, CA • New York, NY | Not listed | Current student status<br><sub>stated</sub> | 2026-09-21 | **[Apply →](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004)**<br><sub>boards.greenhouse.io</sub> |
+| First Citizens BancShares | Quantitative Analysis Intern - Quantitative Analysis | Raleigh, NC | Summer 2027 | not available | 2026-09-21 | **[Apply →](https://firstcitizens.jibeapply.com/jobs/35602?icims=1)**<br><sub>firstcitizens.jibeapply.com</sub> |
+| Intuitive Surgical | Accounting Analyst Intern | Sunnyvale, CA, us | Not listed | not available | 2026-09-21 | **[Apply →](https://jobs.smartrecruiters.com/Intuitive/744000150742000)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Invenergy | Intern, Grid Integration Engineering | Chicago, IL | Not listed | not available | 2026-09-21 | **[Apply →](https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Intern--Grid-Integration-Engineering_R11528-1)**<br><sub>invenergyllc.wd1.myworkdayjobs.com</sub> |
+| Judi Health | Implementation Analytics Fall Intern - Claims Monitoring & Automation (Part Time) | Denver, Colorado, United States; New York, New York, United States | Not listed | Current student status<br><sub>required</sub> | 2026-09-21 | **[Apply →](https://job-boards.greenhouse.io/judihealth/jobs/5429077008)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Arcfield | Model-Based Systems Engineer | Middletown, RI | Not listed | not available | 2026-09-21 | **[Apply →](https://careers.arcfield.com/jobs/8669?icims=1)**<br><sub>careers.arcfield.com</sub> |
+| City of Philadelphia | Junior Cloud Engineer | Philadelphia, PA | 2027 | not available | 2026-09-21 | **[Apply →](https://jobs.smartrecruiters.com/CityofPhiladelphia/744000146469759-junior-cloud-engineer?oga=true)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Hard Rock Digital | Associate Product Manager / Associate Game Producer - Casino Games | Toronto, ON, Canada, Hollywood, FL | Not listed | not available | 2026-09-21 | **[Apply →](https://hardrockdigital.recruitee.com/o/associate-product-manager-associate-game-producer-casino-games)**<br><sub>hardrockdigital.recruitee.com</sub> |
 | Northrop Grumman | Associate Digital Engineer | Baltimore, MD | Not listed | not available | 2026-09-21 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Digital-Engineer---Pathways-Program---Baltimore-MD_R10251163)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
-| Northrop Grumman | Associate Embedded Software Engineer - Pathways Program | Baltimore, MD | Not listed | not available | 2026-09-21 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Embedded-Software-Engineer---Pathways-Program---Baltimore-MD_R10250982)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
 | Northrop Grumman | Digital Engineer | Baltimore, MD | Not listed | not available | 2026-09-21 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027--Digital-Engineer---Pathways-Program---Baltimore-MD_R10251171)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
-| Northrop Grumman | Embedded Software Engineer - Pathways Program | Baltimore, MD | Not listed | not available | 2026-09-21 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer---Pathways-Program---Baltimore-MD_R10251459)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
-| Applied Materials | 2027 Software Engineer New College Grad (Bachelor's) - Gloucester, MA | Gloucester,MA | 2027 | not available | 2026-09-20 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
-| EarthCam | Junior Software Developer | Upper Saddle River, NJ | 2027 | not available | 2026-09-20 | **[Apply →](https://apply.workable.com/earthcam/j/EC1CD84941/)**<br><sub>apply.workable.com</sub> |
-| Leidos | AI/ML Data Scientist | Remote in USA | Not listed | not available | 2026-09-20 | **[Apply →](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-ML-Data-Scientist_R-00192633)**<br><sub>leidos.wd5.myworkdayjobs.com</sub> |
-| Rochester Institute of Technology | Crime Analyst | Rochester, NY | Not listed | not available | 2026-09-20 | **[Apply →](https://rit.wd12.myworkdayjobs.com/careers/job/Rochester-NY/Crime-Analyst_JR103180)**<br><sub>rit.wd12.myworkdayjobs.com</sub> |
-| Sirona Medical | Go-To-Market Engineer | Remote in USA | 2026 | not available | 2026-09-20 | **[Apply →](https://job-boards.greenhouse.io/sironamedical/jobs/4736127005)**<br><sub>job-boards.greenhouse.io</sub> |
-| TikTok | Software Development Engineer Graduate - TikTok - Testing - Growth - 2027 Start | San Jose, CA | 2027 | not available | 2026-09-20 | **[Apply →](https://lifeattiktok.com/search/7669957922422507781)**<br><sub>lifeattiktok.com</sub> |
-| Zynga | Software Engineer - Game of Thrones Slots | Austin, TX +2 | 2027 | not available | 2026-09-20 | **[Apply →](https://job-boards.greenhouse.io/zyngacareers/jobs/6151865004)**<br><sub>job-boards.greenhouse.io</sub> |
+| RTX | Embedded Software Engineer 1 | Cedar Rapids, IA | Not listed | not available | 2026-09-21 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01872627)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
+| Sonepar | Systems Developer 1 | Jonesboro, AR | Not listed | not available | 2026-09-21 | **[Apply →](https://career.sonepar.com/job/Jonesboro-Systems-Developer-I-AR-72401/1439562433/?ats=successfactors)**<br><sub>career.sonepar.com</sub> |
+| Specter Aerospace | Full Stack Developer 1/2 | Boston, MA | Not listed | not available | 2026-09-21 | **[Apply →](https://specteraerospace.bamboohr.com/careers/152/)**<br><sub>specteraerospace.bamboohr.com</sub> |
+| State of North Carolina | Engineering Assistant - Traffic Survey Group | Wake County, NC | Not listed | not available | 2026-09-21 | **[Apply →](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Engineering-Assistant_JR-124577)**<br><sub>nc.wd108.myworkdayjobs.com</sub> |
+| TeleTracking | Software Engineer 1 - Logistics Engineering | Pittsburgh, PA | Not listed | not available | 2026-09-21 | **[Apply →](https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5425154008)**<br><sub>job-boards.greenhouse.io</sub> |
+| The Aerospace Corporation | Communications and Architecture Analyst | Colorado Springs, CO, Chantilly, VA, El Segundo, CA | Not listed | not available | 2026-09-21 | **[Apply →](https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Communications-and-Architecture-Analyst_R016595)**<br><sub>aero.wd5.myworkdayjobs.com</sub> |
+| Applied Materials | Software Engineer New Grad | Gloucester, MA | 2027 | not available | 2026-09-20 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
