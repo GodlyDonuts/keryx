@@ -374,6 +374,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Collinear AI",
+      "key": "ashby:collinear-ai",
+      "slug": "collinear-ai"
+    },
+    {
+      "ats": "ashby",
       "company": "Colonist",
       "key": "ashby:colonist",
       "slug": "colonist"
@@ -689,6 +695,12 @@
       "company": "Fuser",
       "key": "ashby:fuser",
       "slug": "fuser"
+    },
+    {
+      "ats": "ashby",
+      "company": "G2",
+      "key": "ashby:g2",
+      "slug": "g2"
     },
     {
       "ats": "ashby",
@@ -4926,6 +4938,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Viking Global",
+      "key": "greenhouse:vikingglobalinvestors",
+      "slug": "vikingglobalinvestors"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Virtu Financial",
       "key": "greenhouse:virtu",
       "slug": "virtu"
@@ -5304,6 +5322,12 @@
     },
     {
       "ats": "lever",
+      "company": "CSC Generation",
+      "key": "lever:cscgeneration-2",
+      "slug": "cscgeneration-2"
+    },
+    {
+      "ats": "lever",
       "company": "Datalab USA",
       "key": "lever:datalabusa",
       "slug": "datalabusa"
@@ -5403,6 +5427,12 @@
       "company": "FinQuery",
       "key": "lever:finquery",
       "slug": "finquery"
+    },
+    {
+      "ats": "lever",
+      "company": "FiscalNote",
+      "key": "lever:fiscalnote",
+      "slug": "fiscalnote"
     },
     {
       "ats": "lever",
@@ -8138,6 +8168,12 @@
     },
     {
       "ats": "smartrecruiters",
+      "company": "Resultant",
+      "key": "smartrecruiters:resultant",
+      "slug": "Resultant"
+    },
+    {
+      "ats": "smartrecruiters",
       "company": "Retail Information Systems",
       "key": "smartrecruiters:retailinformationsystems",
       "slug": "RetailInformationSystems"
@@ -8783,6 +8819,12 @@
       "company": "RAVE Aerospace",
       "key": "workable:raveaerospace",
       "slug": "raveaerospace"
+    },
+    {
+      "ats": "workable",
+      "company": "RentVision",
+      "key": "workable:rentvision",
+      "slug": "rentvision"
     },
     {
       "ats": "workable",
@@ -9440,6 +9482,15 @@
     },
     {
       "ats": "workday",
+      "company": "Bread Financial",
+      "host": "alliancedata.wd5.myworkdayjobs.com",
+      "key": "workday:alliancedata.wd5.myworkdayjobs.com:alliancedata:breadfinancial_us",
+      "site": "breadfinancial_us",
+      "slug": "alliancedata",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Allied Solutions",
       "host": "alliedsolutions.wd501.myworkdayjobs.com",
       "key": "workday:alliedsolutions.wd501.myworkdayjobs.com:alliedsolutions:allied_external",
@@ -9887,6 +9938,15 @@
       "site": "athene_careers",
       "slug": "athene",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "AT&T",
+      "host": "att.wd1.myworkdayjobs.com",
+      "key": "workday:att.wd1.myworkdayjobs.com:att:attcollege",
+      "site": "attcollege",
+      "slug": "att",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -11654,6 +11714,15 @@
     },
     {
       "ats": "workday",
+      "company": "Dallas College",
+      "host": "dallascollege.wd1.myworkdayjobs.com",
+      "key": "workday:dallascollege.wd1.myworkdayjobs.com:dallascollege:dallas_college_careers",
+      "site": "Dallas_College_Careers",
+      "slug": "dallascollege",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Dana-Farber Cancer Institute",
       "host": "danafarber.wd5.myworkdayjobs.com",
       "key": "workday:danafarber.wd5.myworkdayjobs.com:danafarber:dana-farber",
@@ -12090,6 +12159,15 @@
       "host": "emcins.wd5.myworkdayjobs.com",
       "key": "workday:emcins.wd5.myworkdayjobs.com:emcins:emc_careers",
       "site": "EMC_Careers",
+      "slug": "emcins",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "EMC Insurance",
+      "host": "emcins.wd5.myworkdayjobs.com",
+      "key": "workday:emcins.wd5.myworkdayjobs.com:emcins:emc_internships",
+      "site": "EMC_Internships",
       "slug": "emcins",
       "wd": "wd5"
     },
@@ -14582,7 +14660,7 @@
       "company": "Mastercard",
       "host": "mastercard.wd1.myworkdayjobs.com",
       "key": "workday:mastercard.wd1.myworkdayjobs.com:mastercard:corporatecareers",
-      "site": "corporatecareers",
+      "site": "CorporateCareers",
       "slug": "mastercard",
       "wd": "wd1"
     },
@@ -15080,6 +15158,15 @@
       "site": "BCBSNE",
       "slug": "nebraskablue",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Nebraska Medicine",
+      "host": "nebraskamed.wd5.myworkdayjobs.com",
+      "key": "workday:nebraskamed.wd5.myworkdayjobs.com:nebraskamed:nm",
+      "site": "nm",
+      "slug": "nebraskamed",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
