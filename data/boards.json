@@ -2278,6 +2278,13 @@
     },
     {
       "ats": "bamboohr",
+      "company": "River Valley Power & Sport - Marine",
+      "host": "rivervalleycompanies.bamboohr.com",
+      "key": "bamboohr:rivervalleycompanies",
+      "slug": "rivervalleycompanies"
+    },
+    {
+      "ats": "bamboohr",
       "company": "Saalt",
       "host": "saalt.bamboohr.com",
       "key": "bamboohr:saalt",
@@ -8350,6 +8357,12 @@
     },
     {
       "ats": "smartrecruiters",
+      "company": "Thought Forge",
+      "key": "smartrecruiters:thoughtforge",
+      "slug": "ThoughtForge"
+    },
+    {
+      "ats": "smartrecruiters",
       "company": "Iteris",
       "key": "smartrecruiters:trafficcast",
       "slug": "TrafficCast"
@@ -10315,6 +10328,15 @@
       "site": "Safelite_Careers",
       "slug": "belron",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Biamp",
+      "host": "biamp.wd12.myworkdayjobs.com",
+      "key": "workday:biamp.wd12.myworkdayjobs.com:biamp:biamp",
+      "site": "Biamp",
+      "slug": "biamp",
+      "wd": "wd12"
     },
     {
       "ats": "workday",
@@ -16351,7 +16373,7 @@
       "company": "Repligen",
       "host": "repligen.wd108.myworkdayjobs.com",
       "key": "workday:repligen.wd108.myworkdayjobs.com:repligen:repligen_careers",
-      "site": "Repligen_Careers",
+      "site": "repligen_careers",
       "slug": "repligen",
       "wd": "wd108"
     },
@@ -18523,6 +18545,15 @@
       "site": "vfc_careers",
       "slug": "vfc",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Vialto Partners",
+      "host": "vialto.wd107.myworkdayjobs.com",
+      "key": "workday:vialto.wd107.myworkdayjobs.com:vialto:vialtoexternalcareers",
+      "site": "vialtoexternalcareers",
+      "slug": "vialto",
+      "wd": "wd107"
     },
     {
       "ats": "workday",
