@@ -3529,6 +3529,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "HAI Group",
+      "key": "greenhouse:haigroup",
+      "slug": "haigroup"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Harbor",
       "key": "greenhouse:harborglobal",
       "slug": "harborglobal"
@@ -4114,6 +4120,12 @@
       "company": "OneImaging",
       "key": "greenhouse:oneimaging",
       "slug": "oneimaging"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Optiver",
+      "key": "greenhouse:optiverprivate",
+      "slug": "optiverprivate"
     },
     {
       "ats": "greenhouse",
@@ -5308,6 +5320,12 @@
       "company": "CIM Group",
       "key": "lever:cimgroup",
       "slug": "cimgroup"
+    },
+    {
+      "ats": "lever",
+      "company": "Coalfire",
+      "key": "lever:coalfire",
+      "slug": "coalfire"
     },
     {
       "ats": "lever",
@@ -8438,6 +8456,12 @@
       "company": "Winsupply",
       "key": "smartrecruiters:winsupply1",
       "slug": "Winsupply1"
+    },
+    {
+      "ats": "smartrecruiters",
+      "company": "Wise",
+      "key": "smartrecruiters:wise",
+      "slug": "Wise"
     },
     {
       "ats": "smartrecruiters",
@@ -14672,7 +14696,7 @@
       "company": "MassMutual",
       "host": "massmutual.wd1.myworkdayjobs.com",
       "key": "workday:massmutual.wd1.myworkdayjobs.com:massmutual:mmcareers",
-      "site": "MMCareers",
+      "site": "mmcareers",
       "slug": "massmutual",
       "wd": "wd1"
     },
@@ -18589,6 +18613,15 @@
       "key": "workday:vishay.wd3.myworkdayjobs.com:vishay:vishaycareers",
       "site": "VishayCareers",
       "slug": "vishay",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Bunge",
+      "host": "viterra.wd3.myworkdayjobs.com",
+      "key": "workday:viterra.wd3.myworkdayjobs.com:viterra:external-can",
+      "site": "External-CAN",
+      "slug": "viterra",
       "wd": "wd3"
     },
     {
