@@ -9,15 +9,15 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**8,098 internships · 4,720 new-grad roles · 12,818 total openings**
+**8,098 internships · 4,705 new-grad roles · 12,803 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
 | ☀️ Summer 2027 | 3,830 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 488 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 510 | **[View openings →](internships/spring-2027.md)** |
+| 🍂 Fall 2026 | 490 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 508 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 167 | **[View openings →](internships/winter-2027.md)** |
 | 📅 Season not listed | 3,103 | **[View openings →](internships/unscheduled.md)** |
 
@@ -25,9 +25,9 @@
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,010 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,207 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,503 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,004 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,206 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,495 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,17 +38,17 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Allegion | Summer Intern - Software Engineer | Carmel, IN | Not listed | not available | 2026-09-22 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Engineer_JR37747-2)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
-| Baker Hughes | Intern/Co-op - Field Engineer - Spring 2027 Opportunities | US-TX-MIDLAND-2105 MARKET STREET | Spring 2027 | not available | 2026-09-22 | **[Apply →](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-MIDLAND-2105-MARKET-STREET/Intern-Co-op---Field-Engineer---Spring-2027-Opportunities_R168914)**<br><sub>bakerhughes.wd5.myworkdayjobs.com</sub> |
+| Axis Automation | Welding Engineer Intern | Walker, Michigan, United States | Not listed | Current student status<br><sub>stated</sub> | 2026-09-22 | **[Apply →](https://job-boards.greenhouse.io/axiscompany/jobs/8832086002)**<br><sub>job-boards.greenhouse.io</sub> |
 | BDO USA | Assurance Intern, Technology Risk Assurance - Summer 2027 (San Jose) | San Jose, CA, United States | Summer 2027 | not stated | 2026-09-22 | **[Apply →](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOExperiencedCareers/job/13972)**<br><sub>ebqb.fa.us2.oraclecloud.com</sub> |
 | BDO USA | Assurance Intern, Technology Risk Assurance - Summer 2027 (San Jose) | San Jose, CA, United States | Summer 2027 | not stated | 2026-09-22 | **[Apply →](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/13972)**<br><sub>ebqb.fa.us2.oraclecloud.com</sub> |
 | ByteDance | Product Management Project Intern - Global Payment | San Jose, CA | Summer 2027 | not available | 2026-09-22 | **[Apply →](https://jobs.bytedance.com/en/position/7686394581777631541/detail)**<br><sub>jobs.bytedance.com</sub> |
+| CACI | Software Engineering Intern - Summer 2027 | Sterling, VA, US | Summer 2027 | not available | 2026-09-22 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332386)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
 | Ciena | Verification Engineer Intern | Atlanta, GA | Spring 2027 | not available | 2026-09-22 | **[Apply →](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Verification-Engineer-Intern--Spring-2027-_R031686)**<br><sub>ciena.wd5.myworkdayjobs.com</sub> |
 | Corteva | Data Science Intern | Indianapolis, Indiana, United States | Not listed | not available | 2026-09-22 | **[Apply →](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Data-Science-Intern_248166W)**<br><sub>corteva.wd5.myworkdayjobs.com</sub> |
+| Danaher | Product Management & Marketing Intern (Summer 2027 Intern) | Logan, Utah, United States | Summer 2027 | not available | 2026-09-22 | **[Apply →](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Logan-Utah-United-States/Product-Management---Marketing-Intern--Summer-2027-Intern-_R1317692)**<br><sub>danaher.wd1.myworkdayjobs.com</sub> |
 | Elanco | Junior IT Engineer – Information Technology Intern (Summer 2027) | Indianapolis, IN | Summer 2027 | not available | 2026-09-22 | **[Apply →](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Junior-IT-Engineer---Information-Technology-Intern--Summer-2027-_R0026986-1)**<br><sub>elanco.wd5.myworkdayjobs.com</sub> |
 | Electronic Arts | Analytics Intern | Orlando, FL | Summer 2027 | not available | 2026-09-22 | **[Apply →](https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216252)**<br><sub>jobs.ea.com</sub> |
 | EMC Insurance | Intern - Software Engineering | Iowa | Not listed | not available | 2026-09-22 | **[Apply →](https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Iowa/Intern---Software-Engineering_R6557-1)**<br><sub>emcins.wd5.myworkdayjobs.com</sub> |
-| Eurofins | 6-month paid internship - AI & Automation | Barcelona, CT, International (ES) | Fall 2026 | not available | 2026-09-22 | **[Apply →](https://jobs.smartrecruiters.com/Eurofins/744000150986035)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Figma | Software Engineer Intern - Winter 2027 | San Francisco, CA +1 | Winter 2027 | not stated | 2026-09-22 | **[Apply →](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004)**<br><sub>boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,6 +58,7 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Addepar | Software Engineer - Client Experience Frameworks | Remote - New York City, NY | 2027 | not available | 2026-09-22 | **[Apply →](https://job-boards.greenhouse.io/addepar1/jobs/8733680002)**<br><sub>job-boards.greenhouse.io</sub> |
 | Amazon | Software Development Engineer | Newark, NJ | 2027 | not available | 2026-09-22 | **[Apply →](https://www.amazon.jobs/jobs/10554516/apply)**<br><sub>www.amazon.jobs</sub> |
 | Apple | Firmware Engineer - HID Bluetooth | Cupertino, CA | Not listed | not available | 2026-09-22 | **[Apply →](https://jobs.apple.com/en-us/details/200684986)**<br><sub>jobs.apple.com</sub> |
 | DV Trading | 2027 Graduate Software Engineer - DV Commodities | New York City, NY | 2027 | not available | 2026-09-22 | **[Apply →](https://job-boards.greenhouse.io/dvtrading/jobs/4719126005)**<br><sub>job-boards.greenhouse.io</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Thought Forge | Robotics Lab Technician | Oakland, CA | Not listed | not available | 2026-09-22 | **[Apply →](https://jobs.smartrecruiters.com/ThoughtForge/744000150938759)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Tyson Foods | Data Engineer 1 | Springdale, AR | Not listed | not available | 2026-09-22 | **[Apply →](https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-on-Thompson---Springdale-Arkansas/Data-Engineer-I_R0483830-1)**<br><sub>tysonfoods.wd5.myworkdayjobs.com</sub> |
 | Wise | Graduate Software Engineer | Austin, TX | 2026 | not available | 2026-09-22 | **[Apply →](https://jobs.smartrecruiters.com/Wise/744000151030889)**<br><sub>jobs.smartrecruiters.com</sub> |
-| AbbVie | Associate AI Data Scientist 1 - FAiM Team | North Chicago, IL | Not listed | not available | 2026-09-21 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990015538268)**<br><sub>jobs.smartrecruiters.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
