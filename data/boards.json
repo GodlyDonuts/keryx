@@ -1316,7 +1316,7 @@
     },
     {
       "ats": "ashby",
-      "company": "OnePay",
+      "company": "ONE Finance",
       "key": "ashby:oneapp",
       "slug": "oneapp"
     },
@@ -7231,6 +7231,14 @@
       "key": "oracle:fa-exbd-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
       "site": "CX_1",
       "slug": "fa-exbd-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
+      "company": "Westfield Insurance",
+      "host": "fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-exdv-saasfaprod1.fa.ocs.oraclecloud.com:careers",
+      "site": "Careers",
+      "slug": "fa-exdv-saasfaprod1"
     },
     {
       "ats": "oracle",
@@ -14249,6 +14257,15 @@
       "site": "lu_job_board_staff",
       "slug": "liberty",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Life Fitness / Hammer Strength",
+      "host": "lifefitness.wd1.myworkdayjobs.com",
+      "key": "workday:lifefitness.wd1.myworkdayjobs.com:lifefitness:searchlfn",
+      "site": "searchLFN",
+      "slug": "lifefitness",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
