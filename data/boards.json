@@ -14029,10 +14029,10 @@
     },
     {
       "ats": "workday",
-      "company": "Iowa State University",
+      "company": "Illinois State University",
       "host": "isu.wd1.myworkdayjobs.com",
       "key": "workday:isu.wd1.myworkdayjobs.com:isu:iowastatejobs",
-      "site": "IowaStateJobs",
+      "site": "iowastatejobs",
       "slug": "isu",
       "wd": "wd1"
     },
@@ -19265,6 +19265,15 @@
       "site": "Worldpay_External_Careers_Site",
       "slug": "worldpay",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Worldwide Clinical Trials",
+      "host": "worldwide.wd1.myworkdayjobs.com",
+      "key": "workday:worldwide.wd1.myworkdayjobs.com:worldwide:external",
+      "site": "External",
+      "slug": "worldwide",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
