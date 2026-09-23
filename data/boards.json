@@ -2738,6 +2738,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "AXS",
+      "key": "greenhouse:axs",
+      "slug": "axs"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Babel Street",
       "key": "greenhouse:babelstreet",
       "slug": "babelstreet"
@@ -7514,6 +7520,14 @@
     },
     {
       "ats": "oracle",
+      "company": "The Boston Beer Company",
+      "host": "hcrb.fa.us2.oraclecloud.com",
+      "key": "oracle:hcrb.fa.us2.oraclecloud.com:cx",
+      "site": "CX",
+      "slug": "hcrb"
+    },
+    {
+      "ats": "oracle",
       "company": "onsemi",
       "host": "hctz.fa.us2.oraclecloud.com",
       "key": "oracle:hctz.fa.us2.oraclecloud.com:cx_1001",
@@ -8470,6 +8484,12 @@
     },
     {
       "ats": "smartrecruiters",
+      "company": "TechSur Solutions",
+      "key": "smartrecruiters:techsursolutions",
+      "slug": "TechSurSolutions"
+    },
+    {
+      "ats": "smartrecruiters",
       "company": "Tech Tammina",
       "key": "smartrecruiters:tectammina",
       "slug": "TecTammina"
@@ -8539,6 +8559,12 @@
       "company": "VWH Capital Management",
       "key": "smartrecruiters:vwhcapitalmanagementlp",
       "slug": "VWHCapitalManagementLP"
+    },
+    {
+      "ats": "smartrecruiters",
+      "company": "Wabash Valley Power Alliance",
+      "key": "smartrecruiters:wabashvalleypoweralliance",
+      "slug": "WabashValleyPowerAlliance"
     },
     {
       "ats": "smartrecruiters",
@@ -8956,7 +8982,7 @@
     },
     {
       "ats": "workable",
-      "company": "Pony.ai",
+      "company": "pony.ai",
       "key": "workable:pony-dot-ai",
       "slug": "pony-dot-ai"
     },
@@ -13996,7 +14022,7 @@
     },
     {
       "ats": "workday",
-      "company": "Insulet",
+      "company": "Insulet Corporation",
       "host": "insulet.wd5.myworkdayjobs.com",
       "key": "workday:insulet.wd5.myworkdayjobs.com:insulet:insuletcareers",
       "site": "insuletcareers",
