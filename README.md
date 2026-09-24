@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**8,211 internships · 4,865 new-grad roles · 13,076 total openings**
+**8,285 internships · 4,861 new-grad roles · 13,146 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,914 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 3,928 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 464 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 524 | **[View openings →](internships/spring-2027.md)** |
+| 🌱 Spring 2027 | 530 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 178 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,131 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 3,185 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,053 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,281 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,531 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,054 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,273 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,534 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Atlassian | Data Scientist Intern - Multiple Teams | Seattle, WA | Summer 2027 | not available | 2026-09-24 | **[Apply →](https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job)**<br><sub>globalcareers-atlassian.icims.com</sub> |
+| Arconic | Software Developer Intern | Davenport, IA | Summer 2027 | not available | 2026-09-24 | **[Apply →](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233)**<br><sub>hdnn.fa.us6.oraclecloud.com</sub> |
+| Cummins | Electronic Systems - Co-Op Positions | Columbus, IN, United States | Not listed | Current student status<br><sub>stated</sub> | 2026-09-24 | **[Apply →](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437584)**<br><sub>fa-espx-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
+| Enterprise Holdings | Data Engineer Intern - IT | St. Louis, MO | Summer 2027 | not available | 2026-09-24 | **[Apply →](https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false)**<br><sub>us-erac.icims.com</sub> |
+| Kitware | Computer Vision Co-Op | Clifton Park, New York | Not listed | not stated | 2026-09-24 | **[Apply →](https://jobs.lever.co/kitware/e76197d1-4dc3-4f7c-a30a-597713283bb3)**<br><sub>jobs.lever.co</sub> |
+| Lazard | 2027 AI Engineer Summer Internship | New York, United States | Summer 2027 | not stated | 2026-09-24 | **[Apply →](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6606)**<br><sub>icbpjb.fa.ocs.oraclecloud.com</sub> |
+| Micron Technology | Intern - ID1 Manufacturing Engineer | Boise, ID - ID1 | Not listed | not available | 2026-09-24 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---ID1-Manufacturing-Engineer_JR113287)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
+| PepsiCo | 2027 Summer Intern: Technology Software Development & Engineering | Plano, TX | Summer 2027 | not available | 2026-09-24 | **[Apply →](https://uscampus-pepsico.icims.com/jobs/466510/2027-summer-intern%3a-technology-software-development-%26-engineering/job)**<br><sub>uscampus-pepsico.icims.com</sub> |
 | Reflect Orbital | Mechanical Engineering Intern | Hawthorne, CA | Not listed | not stated | 2026-09-24 | **[Apply →](https://jobs.ashbyhq.com/reflect-orbital/ed0c926a-9a52-4c84-8488-2552b1f0cca6)**<br><sub>jobs.ashbyhq.com</sub> |
+| Stand Together | KIP Spring 2027 - Programs & Events Intern - America's Future Foundation | Washington, DC | Spring 2027 | not stated | 2026-09-24 | **[Apply →](https://jobs.lever.co/standtogether/2880654f-d555-44e6-91fe-aee484184917)**<br><sub>jobs.lever.co</sub> |
 | Tesla | Robotics Electrical Design Engineer Intern - Tactile Sensing | Palo Alto, CA | Spring 2027 | not available | 2026-09-24 | **[Apply →](https://www.tesla.com/careers/search/job/284593)**<br><sub>www.tesla.com</sub> |
 | Tesla | Software Engineer Industrial Firmware Intern - Energy Engineering | Palo Alto, CA | Spring 2027 | not available | 2026-09-24 | **[Apply →](https://www.tesla.com/careers/search/job/284448)**<br><sub>www.tesla.com</sub> |
 | Tesla | Solar Hardware Engineer Intern - PV Cell - Energy Engineering | Palo Alto, CA | Spring 2027 | not available | 2026-09-24 | **[Apply →](https://www.tesla.com/careers/search/job/284489)**<br><sub>www.tesla.com</sub> |
-| Amazon | Software Development Engineer Intern - Summer 2027 - USA | Seattle, WA | Summer 2027 | not available | 2026-09-23 | **[Apply →](https://www.amazon.jobs/jobs/10552937/apply)**<br><sub>www.amazon.jobs</sub> |
-| AMD | AI Engineering Intern | Santa Clara, CA | Summer 2027 | not available | 2026-09-23 | **[Apply →](https://careers.amd.com/jobs/91005?icims=1)**<br><sub>careers.amd.com</sub> |
-| AMD | Applied Artificial Intelligence Engineering Intern - Hardware AI | Santa Clara, CA | Summer 2027 | not available | 2026-09-23 | **[Apply →](https://careers.amd.com/jobs/90997?icims=1)**<br><sub>careers.amd.com</sub> |
-| AMD | ML Systems Research Engineering Intern | Santa Clara, CA | Summer 2027 | not available | 2026-09-23 | **[Apply →](https://careers.amd.com/jobs/90993?icims=1)**<br><sub>careers.amd.com</sub> |
-| AQR Capital Management | Machine Learning Research Associate Intern | Greenwich, CT | Summer 2027 | not available | 2026-09-23 | **[Apply →](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708)**<br><sub>careers.aqr.com</sub> |
-| Ateme | Lab Engineer Intern | Englewood, CO, United States | Not listed | not available | 2026-09-23 | **[Apply →](https://careers.ateme.com/en-GB/jobs/8445632-lab-engineer-intern)**<br><sub>careers.ateme.com</sub> |
-| Audax Group | Financial Planning & Analysis Co-Op | Boston, MA | Spring 2027 | Current student status<br><sub>stated</sub> | 2026-09-23 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4737364005)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -62,14 +62,14 @@ Recent full-time opportunities that open the employer's application page directl
 | Graphcore | Graduate Firmware Engineer | Austin, TX | Not listed | not available | 2026-09-24 | **[Apply →](https://job-boards.greenhouse.io/graphcore/jobs/8841995002)**<br><sub>job-boards.greenhouse.io</sub> |
 | Graphcore | Graduate Performance Engineer | Austin, TX | Not listed | not available | 2026-09-24 | **[Apply →](https://job-boards.greenhouse.io/graphcore/jobs/8841990002)**<br><sub>job-boards.greenhouse.io</sub> |
 | Graphcore | Graduate Systems Engineer | Austin, TX | Not listed | not available | 2026-09-24 | **[Apply →](https://job-boards.greenhouse.io/graphcore/jobs/8842006002)**<br><sub>job-boards.greenhouse.io</sub> |
+| IPT Global | Junior Data Scientist - Petroleum Engineering & Well Integrity | Houston, TX | Not listed | not available | 2026-09-24 | **[Apply →](https://jobs.smartrecruiters.com/IPTGlobal/744000151598799)**<br><sub>jobs.smartrecruiters.com</sub> |
+| JPMorganChase | Product Designer – Private Bank Digital, Early Career | New York, NY, United States | Not listed | not stated | 2026-09-24 | **[Apply →](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210794454)**<br><sub>jpmc.fa.oraclecloud.com</sub> |
+| Kitware | Annotation Specialist - Computer Vision | Clifton Park, NY | Not listed | not available | 2026-09-24 | **[Apply →](https://jobs.lever.co/kitware/5b5accb2-beb3-4f83-8e25-05d91d3bf9dc/apply)**<br><sub>jobs.lever.co</sub> |
 | Parallel Systems | Full Stack Software Engineer 1 - Interfaces | LA | Not listed | not available | 2026-09-24 | **[Apply →](https://boards.greenhouse.io/parallel/jobs/5247800007)**<br><sub>boards.greenhouse.io</sub> |
+| Voloridge | Quantitative Developer - University Graduate | Jupiter, FL | Not listed | not stated | 2026-09-24 | **[Apply →](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4419326009)**<br><sub>job-boards.greenhouse.io</sub> |
 | Advocate Health Care | Advanced Analytics Developer Associate - Enterprise Advanced Analytics | Remote in USA | Not listed | not available | 2026-09-23 | **[Apply →](https://aah.wd5.myworkdayjobs.com/External/job/Remote/IT-Advanced-Analytics-Developer-Associate_R271506)**<br><sub>aah.wd5.myworkdayjobs.com</sub> |
 | Amazon | Software Development Engineer | Newark, NJ | 2027 | not available | 2026-09-23 | **[Apply →](https://www.amazon.jobs/jobs/10554516/apply)**<br><sub>www.amazon.jobs</sub> |
 | Amazon | Software Development Engineer - Early Career | Cambridge, MA | 2027 | not available | 2026-09-23 | **[Apply →](https://www.amazon.jobs/jobs/10530257/apply)**<br><sub>www.amazon.jobs</sub> |
-| Amazon | Software Development Engineer - iOS | Cambridge, MA | 2027 | not available | 2026-09-23 | **[Apply →](https://www.amazon.jobs/jobs/10535234/apply)**<br><sub>www.amazon.jobs</sub> |
-| Amazon | Software Development Engineer - iOS | Newark, NJ | 2027 | not available | 2026-09-23 | **[Apply →](https://www.amazon.jobs/jobs/10505107/apply)**<br><sub>www.amazon.jobs</sub> |
-| American Express | Data & Analytics Analyst - Enterprise Technology Services | Charlotte, NC | Not listed | not available | 2026-09-23 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013679)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| American Express | Senior Analyst - Data & Analytics - Enterprise Technology Services | Charlotte, NC | Not listed | not available | 2026-09-23 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013683)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

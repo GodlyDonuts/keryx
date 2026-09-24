@@ -202,7 +202,7 @@
       "boards": [],
       "company": "Weatherford",
       "key": "0173c400333dd82bd88d29a1",
-      "last_scanned": "2026-09-03",
+      "last_scanned": "2026-09-24",
       "resolved_roles": 0,
       "url": "https://www.weatherford.com/"
     },
@@ -1329,6 +1329,14 @@
       "key": "0a106375d17473c11e596e38",
       "last_scanned": "2026-08-25",
       "url": "https://www.usnews.com/"
+    },
+    {
+      "boards": [],
+      "company": "Westwood Professional Services",
+      "key": "0a17db525b13de45806369fd",
+      "last_scanned": "2026-09-24",
+      "resolved_roles": 0,
+      "url": "https://www.westwoodps.com/"
     },
     {
       "boards": [],
@@ -5811,6 +5819,16 @@
       "url": "https://www.tilderesearch.com/"
     },
     {
+      "boards": [
+        "workday:capgroup.wd1.myworkdayjobs.com:capgroup:capitalgroupcareers"
+      ],
+      "company": "Capital Group",
+      "key": "2a05114481b4ba8b54ec6998",
+      "last_scanned": "2026-09-24",
+      "resolved_roles": 0,
+      "url": "https://www.capitalgroup.com/"
+    },
+    {
       "company": "NTT DATA North America",
       "error": "public response exceeded 3145728 bytes",
       "key": "2a4adaed0baca284eee642d4",
@@ -6381,7 +6399,7 @@
       "boards": [],
       "company": "Merrick & Company",
       "key": "2da5d77f94cd0a1fedd776a2",
-      "last_scanned": "2026-09-03",
+      "last_scanned": "2026-09-24",
       "resolved_roles": 0,
       "url": "https://www.merrick.com/"
     },
@@ -6902,7 +6920,7 @@
       "company": "Wells",
       "error": "public request failed for https://wells.build: HTTP Error 403: Forbidden",
       "key": "3034dc6d0d08c10e1c295d31",
-      "last_scanned": "2026-09-16",
+      "last_scanned": "2026-09-24",
       "url": "https://wellsconcrete.com/"
     },
     {
@@ -7557,7 +7575,7 @@
       "company": "Leonardo DRS",
       "error": "public request failed for https://www.leonardodrs.com/: HTTP Error 403: Forbidden",
       "key": "346929349ac8137adba333b2",
-      "last_scanned": "2026-09-14",
+      "last_scanned": "2026-09-24",
       "url": "https://www.leonardodrs.com/"
     },
     {
@@ -8232,7 +8250,7 @@
       ],
       "company": "Allied Solutions LLC",
       "key": "3961646274eab05c32f2ae88",
-      "last_scanned": "2026-09-02",
+      "last_scanned": "2026-09-24",
       "resolved_roles": 0,
       "url": "https://www.alliedsolutions.net/"
     },
@@ -8853,7 +8871,7 @@
       "boards": [],
       "company": "Siemens Digital Industries Software",
       "key": "3df96d1466910b4200059b5a",
-      "last_scanned": "2026-09-03",
+      "last_scanned": "2026-09-24",
       "resolved_roles": 0,
       "url": "https://www.sw.siemens.com/"
     },
@@ -9190,7 +9208,7 @@
       ],
       "company": "West Yost",
       "key": "3fce26d07c2bc71cd838329f",
-      "last_scanned": "2026-09-02",
+      "last_scanned": "2026-09-24",
       "resolved_roles": 0,
       "url": "https://www.westyost.com/"
     },
@@ -9547,6 +9565,14 @@
       "last_scanned": "2026-09-17",
       "resolved_roles": 0,
       "url": "https://www.draper.com/"
+    },
+    {
+      "boards": [],
+      "company": "Classifiedy",
+      "key": "42866343291c5c6ed6fec0fb",
+      "last_scanned": "2026-09-24",
+      "resolved_roles": 0,
+      "url": "https://classifiedy.com/"
     },
     {
       "boards": [],
@@ -17644,7 +17670,7 @@
       "boards": [],
       "company": "Hubbell Incorporated",
       "key": "782af6d46bdec192f29faaab",
-      "last_scanned": "2026-09-15",
+      "last_scanned": "2026-09-24",
       "resolved_roles": 0,
       "url": "https://www.hubbell.com/"
     },
@@ -18304,7 +18330,7 @@
       "company": "Thornton Tomasetti",
       "error": "public request failed for https://www.thorntontomasetti.com/: HTTP Error 403: Forbidden",
       "key": "7cca0a83d06dbff30ab9278a",
-      "last_scanned": "2026-09-23",
+      "last_scanned": "2026-09-24",
       "url": "https://www.thorntontomasetti.com/"
     },
     {
@@ -18485,7 +18511,7 @@
       "boards": [],
       "company": "Daikin Comfort",
       "key": "7e90ca0e382bb6b1c0f0808c",
-      "last_scanned": "2026-09-02",
+      "last_scanned": "2026-09-24",
       "resolved_roles": 0,
       "url": "https://www.daikincomfort.com/"
     },
@@ -21447,6 +21473,14 @@
       "url": "https://saviynt.com/"
     },
     {
+      "boards": [],
+      "company": "Montana Department of Transportation",
+      "key": "92ccdcdf82d85b79946ea987",
+      "last_scanned": "2026-09-24",
+      "resolved_roles": 0,
+      "url": "https://mdt.mt.gov/"
+    },
+    {
       "company": "Geo Solutions",
       "error": "public request failed for https://www.geosolutions.be/: <urlopen error timed out>",
       "key": "92da1e8d10fa27c3868e7918",
@@ -21517,6 +21551,13 @@
       "last_scanned": "2026-09-17",
       "resolved_roles": 0,
       "url": "https://www.conductorai.co/"
+    },
+    {
+      "company": "City of New York",
+      "error": "public request failed for https://www.nyc.gov:443/: HTTP Error 403: Forbidden",
+      "key": "933f905d11093fc22ee903e2",
+      "last_scanned": "2026-09-24",
+      "url": "https://www1.nyc.gov/"
     },
     {
       "boards": [],
@@ -27537,7 +27578,7 @@
       "boards": [],
       "company": "Olin",
       "key": "bcc77000be8cb3fa84ecdc34",
-      "last_scanned": "2026-09-11",
+      "last_scanned": "2026-09-24",
       "resolved_roles": 0,
       "url": "https://www.olin.com/"
     },
@@ -28538,7 +28579,7 @@
       "company": "ATI",
       "error": "public request failed for https://www.forging.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.forging.com'. (_ssl.c:1000)>",
       "key": "c3559a99e82f78782720f9d5",
-      "last_scanned": "2026-09-23",
+      "last_scanned": "2026-09-24",
       "url": "https://www.forging.com/"
     },
     {
@@ -30595,7 +30636,7 @@
       "boards": [],
       "company": "Worley",
       "key": "d0a7e54c9021c91f2279330c",
-      "last_scanned": "2026-09-15",
+      "last_scanned": "2026-09-24",
       "resolved_roles": 0,
       "url": "https://www.worley.com/"
     },
@@ -30634,7 +30675,7 @@
       "boards": [],
       "company": "Optum",
       "key": "d0ef8490fc0f92c259772f8f",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-09-24",
       "resolved_roles": 0,
       "url": "https://nm.optum.com/"
     },
@@ -32994,7 +33035,7 @@
       "boards": [],
       "company": "LCRA",
       "key": "e08aa316096976876479ab56",
-      "last_scanned": "2026-09-02",
+      "last_scanned": "2026-09-24",
       "resolved_roles": 0,
       "url": "https://www.lcra.org/"
     },
@@ -33589,7 +33630,7 @@
       "company": "PepsiCo",
       "error": "public request failed for https://www.pepsico.com/: HTTP Error 403: Forbidden",
       "key": "e51e87fdbb85e6d5f8a95f56",
-      "last_scanned": "2026-09-15",
+      "last_scanned": "2026-09-24",
       "url": "https://www.pepsico.com/"
     },
     {
@@ -34123,6 +34164,14 @@
       "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://novus-its.com/"
+    },
+    {
+      "boards": [],
+      "company": "General Dynamics Ordnance and Tactical Systems",
+      "key": "e805b77eabdfcb41db821fee",
+      "last_scanned": "2026-09-24",
+      "resolved_roles": 0,
+      "url": "https://www.gd-ots.com/"
     },
     {
       "boards": [
@@ -35065,6 +35114,14 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 1,
       "url": "https://www.convectivecapital.com/"
+    },
+    {
+      "boards": [],
+      "company": "Wurl",
+      "key": "eda49ef2e228aecb65b3ddf0",
+      "last_scanned": "2026-09-24",
+      "resolved_roles": 0,
+      "url": "https://www.wurl.com/"
     },
     {
       "boards": [
