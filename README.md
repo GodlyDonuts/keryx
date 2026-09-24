@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**8,285 internships · 4,861 new-grad roles · 13,146 total openings**
+**8,377 internships · 4,933 new-grad roles · 13,310 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,928 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 464 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 530 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 178 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,185 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 3,967 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 462 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 529 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 179 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,240 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,054 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,273 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,534 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,105 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,288 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,540 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| ABB | IS Common Infrastructure Intern- Summer 2027 | USA, NC, Cary | Summer 2027 | not available | 2026-09-24 | **[Apply →](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125)**<br><sub>abb.wd3.myworkdayjobs.com</sub> |
+| Ameren | Intern (Robotics, AI, OT, Software development) | St. Louis, MO | Not listed | not available | 2026-09-24 | **[Apply →](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1)**<br><sub>ameren.wd1.myworkdayjobs.com</sub> |
 | Arconic | Software Developer Intern | Davenport, IA | Summer 2027 | not available | 2026-09-24 | **[Apply →](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233)**<br><sub>hdnn.fa.us6.oraclecloud.com</sub> |
+| Arista Networks | Hardware Intern | Nashua, NH, us | Not listed | not available | 2026-09-24 | **[Apply →](https://jobs.smartrecruiters.com/AristaNetworks/744000151659973)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Audax Group | IT Operations Co-Op NYC | New York, New York | Not listed | Current student status<br><sub>stated</sub> | 2026-09-24 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4737824005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Ciena | Software Intern - WaveLogic | Atlanta, GA | Summer 2027 | not available | 2026-09-24 | **[Apply →](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern-Spring-2027_R031692)**<br><sub>ciena.wd5.myworkdayjobs.com</sub> |
+| Constellation | Summer 2027 Engineering Internship - Morris, IL | Morris, IL, United States | Summer 2027 | not available | 2026-09-24 | **[Apply →](https://jobs.constellationenergy.com/veterans/jobs/138689?lang=en-us)**<br><sub>jobs.constellationenergy.com</sub> |
+| Constellation | Summer 2027 Engineering Internship - Pottstown, PA | Pottstown, PA, United States | Summer 2027 | not available | 2026-09-24 | **[Apply →](https://jobs.constellationenergy.com/veterans/jobs/138690?lang=en-us)**<br><sub>jobs.constellationenergy.com</sub> |
 | Cummins | Electronic Systems - Co-Op Positions | Columbus, IN, United States | Not listed | Current student status<br><sub>stated</sub> | 2026-09-24 | **[Apply →](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437584)**<br><sub>fa-espx-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 | Enterprise Holdings | Data Engineer Intern - IT | St. Louis, MO | Summer 2027 | not available | 2026-09-24 | **[Apply →](https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false)**<br><sub>us-erac.icims.com</sub> |
-| Kitware | Computer Vision Co-Op | Clifton Park, New York | Not listed | not stated | 2026-09-24 | **[Apply →](https://jobs.lever.co/kitware/e76197d1-4dc3-4f7c-a30a-597713283bb3)**<br><sub>jobs.lever.co</sub> |
-| Lazard | 2027 AI Engineer Summer Internship | New York, United States | Summer 2027 | not stated | 2026-09-24 | **[Apply →](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6606)**<br><sub>icbpjb.fa.ocs.oraclecloud.com</sub> |
-| Micron Technology | Intern - ID1 Manufacturing Engineer | Boise, ID - ID1 | Not listed | not available | 2026-09-24 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---ID1-Manufacturing-Engineer_JR113287)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
-| PepsiCo | 2027 Summer Intern: Technology Software Development & Engineering | Plano, TX | Summer 2027 | not available | 2026-09-24 | **[Apply →](https://uscampus-pepsico.icims.com/jobs/466510/2027-summer-intern%3a-technology-software-development-%26-engineering/job)**<br><sub>uscampus-pepsico.icims.com</sub> |
-| Reflect Orbital | Mechanical Engineering Intern | Hawthorne, CA | Not listed | not stated | 2026-09-24 | **[Apply →](https://jobs.ashbyhq.com/reflect-orbital/ed0c926a-9a52-4c84-8488-2552b1f0cca6)**<br><sub>jobs.ashbyhq.com</sub> |
-| Stand Together | KIP Spring 2027 - Programs & Events Intern - America's Future Foundation | Washington, DC | Spring 2027 | not stated | 2026-09-24 | **[Apply →](https://jobs.lever.co/standtogether/2880654f-d555-44e6-91fe-aee484184917)**<br><sub>jobs.lever.co</sub> |
-| Tesla | Robotics Electrical Design Engineer Intern - Tactile Sensing | Palo Alto, CA | Spring 2027 | not available | 2026-09-24 | **[Apply →](https://www.tesla.com/careers/search/job/284593)**<br><sub>www.tesla.com</sub> |
-| Tesla | Software Engineer Industrial Firmware Intern - Energy Engineering | Palo Alto, CA | Spring 2027 | not available | 2026-09-24 | **[Apply →](https://www.tesla.com/careers/search/job/284448)**<br><sub>www.tesla.com</sub> |
-| Tesla | Solar Hardware Engineer Intern - PV Cell - Energy Engineering | Palo Alto, CA | Spring 2027 | not available | 2026-09-24 | **[Apply →](https://www.tesla.com/careers/search/job/284489)**<br><sub>www.tesla.com</sub> |
+| EQT Corporation | Water Infrastructure Engineering Intern | Canonsburg, PA | Not listed | Current student status<br><sub>stated</sub> | 2026-09-24 | **[Apply →](https://job-boards.greenhouse.io/eqtcorporation/jobs/5424757008)**<br><sub>job-boards.greenhouse.io</sub> |
+| GM financial | Intern - Data Engineer | Arlington, TX, United States | Not listed | not available | 2026-09-24 | **[Apply →](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260821)**<br><sub>fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Acrisure | Software Engineer I | Austin, TX +1 | 2027 | not available | 2026-09-24 | **[Apply →](https://acrisure.wd1.myworkdayjobs.com/en-US/acrisure/job/816-Congress-Ave-Ste-1800----AUSTIN-TX/Software-Engineer-I_JR114404)**<br><sub>acrisure.wd1.myworkdayjobs.com</sub> |
+| Amentum | RTOS / VXWorks developer | Dahlgren, VA | 2027 | not available | 2026-09-24 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/RTOS---VXWorks-developer_R0168163-1)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
+| Amentum | Simulink Software Developer | Dahlgren, VA | 2027 | not available | 2026-09-24 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Simulink-Software-Developer_R0168128-1)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
+| CACI | Software Engineer Early Career - Cloud | Remote in USA, Hanover, MD | Not listed | not available | 2026-09-24 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
+| Caterpillar | Java Engineer | Peoria, IL, Dallas, TX, Chicago, IL | Not listed | not available | 2026-09-24 | **[Apply →](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Java-Engineer_R0000394560)**<br><sub>cat.wd5.myworkdayjobs.com</sub> |
 | Collaborative Robotics | Robotics Data Collection Operator Shift Lead - Seattle | Seattle, WA | Not listed | not available | 2026-09-24 | **[Apply →](https://jobs.ashbyhq.com/cobot/6c6995ec-6a29-46e9-b7c4-e02bc44c1950/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Graphcore | Graduate Firmware Engineer | Austin, TX | Not listed | not available | 2026-09-24 | **[Apply →](https://job-boards.greenhouse.io/graphcore/jobs/8841995002)**<br><sub>job-boards.greenhouse.io</sub> |
+| Graphcore | Graduate Firmware Engineer | Austin, TX | 2027 | not available | 2026-09-24 | **[Apply →](https://job-boards.greenhouse.io/graphcore/jobs/8841995002)**<br><sub>job-boards.greenhouse.io</sub> |
 | Graphcore | Graduate Performance Engineer | Austin, TX | Not listed | not available | 2026-09-24 | **[Apply →](https://job-boards.greenhouse.io/graphcore/jobs/8841990002)**<br><sub>job-boards.greenhouse.io</sub> |
 | Graphcore | Graduate Systems Engineer | Austin, TX | Not listed | not available | 2026-09-24 | **[Apply →](https://job-boards.greenhouse.io/graphcore/jobs/8842006002)**<br><sub>job-boards.greenhouse.io</sub> |
 | IPT Global | Junior Data Scientist - Petroleum Engineering & Well Integrity | Houston, TX | Not listed | not available | 2026-09-24 | **[Apply →](https://jobs.smartrecruiters.com/IPTGlobal/744000151598799)**<br><sub>jobs.smartrecruiters.com</sub> |
+| JP Morgan Chase | Product Designer – Private Bank Digital, Early Career | New York, NY, United States | Not listed | not stated | 2026-09-24 | **[Apply →](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794454)**<br><sub>jpmc.fa.oraclecloud.com</sub> |
 | JPMorganChase | Product Designer – Private Bank Digital, Early Career | New York, NY, United States | Not listed | not stated | 2026-09-24 | **[Apply →](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210794454)**<br><sub>jpmc.fa.oraclecloud.com</sub> |
-| Kitware | Annotation Specialist - Computer Vision | Clifton Park, NY | Not listed | not available | 2026-09-24 | **[Apply →](https://jobs.lever.co/kitware/5b5accb2-beb3-4f83-8e25-05d91d3bf9dc/apply)**<br><sub>jobs.lever.co</sub> |
-| Parallel Systems | Full Stack Software Engineer 1 - Interfaces | LA | Not listed | not available | 2026-09-24 | **[Apply →](https://boards.greenhouse.io/parallel/jobs/5247800007)**<br><sub>boards.greenhouse.io</sub> |
-| Voloridge | Quantitative Developer - University Graduate | Jupiter, FL | Not listed | not stated | 2026-09-24 | **[Apply →](https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4419326009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Advocate Health Care | Advanced Analytics Developer Associate - Enterprise Advanced Analytics | Remote in USA | Not listed | not available | 2026-09-23 | **[Apply →](https://aah.wd5.myworkdayjobs.com/External/job/Remote/IT-Advanced-Analytics-Developer-Associate_R271506)**<br><sub>aah.wd5.myworkdayjobs.com</sub> |
-| Amazon | Software Development Engineer | Newark, NJ | 2027 | not available | 2026-09-23 | **[Apply →](https://www.amazon.jobs/jobs/10554516/apply)**<br><sub>www.amazon.jobs</sub> |
-| Amazon | Software Development Engineer - Early Career | Cambridge, MA | 2027 | not available | 2026-09-23 | **[Apply →](https://www.amazon.jobs/jobs/10530257/apply)**<br><sub>www.amazon.jobs</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
