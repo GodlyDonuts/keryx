@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**8,270 internships · 4,881 new-grad roles · 13,151 total openings**
+**8,211 internships · 4,865 new-grad roles · 13,076 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,939 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 465 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 521 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 3,914 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 464 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 524 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 178 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,167 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 3,131 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,049 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,291 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,541 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,053 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,281 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,531 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,6 +38,7 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Atlassian | Data Scientist Intern - Multiple Teams | Seattle, WA | Summer 2027 | not available | 2026-09-24 | **[Apply →](https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job)**<br><sub>globalcareers-atlassian.icims.com</sub> |
+| Reflect Orbital | Mechanical Engineering Intern | Hawthorne, CA | Not listed | not stated | 2026-09-24 | **[Apply →](https://jobs.ashbyhq.com/reflect-orbital/ed0c926a-9a52-4c84-8488-2552b1f0cca6)**<br><sub>jobs.ashbyhq.com</sub> |
 | Tesla | Robotics Electrical Design Engineer Intern - Tactile Sensing | Palo Alto, CA | Spring 2027 | not available | 2026-09-24 | **[Apply →](https://www.tesla.com/careers/search/job/284593)**<br><sub>www.tesla.com</sub> |
 | Tesla | Software Engineer Industrial Firmware Intern - Energy Engineering | Palo Alto, CA | Spring 2027 | not available | 2026-09-24 | **[Apply →](https://www.tesla.com/careers/search/job/284448)**<br><sub>www.tesla.com</sub> |
 | Tesla | Solar Hardware Engineer Intern - PV Cell - Energy Engineering | Palo Alto, CA | Spring 2027 | not available | 2026-09-24 | **[Apply →](https://www.tesla.com/careers/search/job/284489)**<br><sub>www.tesla.com</sub> |
@@ -48,7 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | AQR Capital Management | Machine Learning Research Associate Intern | Greenwich, CT | Summer 2027 | not available | 2026-09-23 | **[Apply →](https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708)**<br><sub>careers.aqr.com</sub> |
 | Ateme | Lab Engineer Intern | Englewood, CO, United States | Not listed | not available | 2026-09-23 | **[Apply →](https://careers.ateme.com/en-GB/jobs/8445632-lab-engineer-intern)**<br><sub>careers.ateme.com</sub> |
 | Audax Group | Financial Planning & Analysis Co-Op | Boston, MA | Spring 2027 | Current student status<br><sub>stated</sub> | 2026-09-23 | **[Apply →](https://job-boards.greenhouse.io/audaxgroup/jobs/4737364005)**<br><sub>job-boards.greenhouse.io</sub> |
-| AXS | Fall Intern, Data Science (AXS) | Los Angeles, CA | Not listed | not available | 2026-09-23 | **[Apply →](https://job-boards.greenhouse.io/axs/jobs/8797388002)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,6 +58,7 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Collaborative Robotics | Robotics Data Collection Operator Shift Lead - Seattle | Seattle, WA | Not listed | not available | 2026-09-24 | **[Apply →](https://jobs.ashbyhq.com/cobot/6c6995ec-6a29-46e9-b7c4-e02bc44c1950/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Graphcore | Graduate Firmware Engineer | Austin, TX | Not listed | not available | 2026-09-24 | **[Apply →](https://job-boards.greenhouse.io/graphcore/jobs/8841995002)**<br><sub>job-boards.greenhouse.io</sub> |
 | Graphcore | Graduate Performance Engineer | Austin, TX | Not listed | not available | 2026-09-24 | **[Apply →](https://job-boards.greenhouse.io/graphcore/jobs/8841990002)**<br><sub>job-boards.greenhouse.io</sub> |
 | Graphcore | Graduate Systems Engineer | Austin, TX | Not listed | not available | 2026-09-24 | **[Apply →](https://job-boards.greenhouse.io/graphcore/jobs/8842006002)**<br><sub>job-boards.greenhouse.io</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Amazon | Software Development Engineer - iOS | Newark, NJ | 2027 | not available | 2026-09-23 | **[Apply →](https://www.amazon.jobs/jobs/10505107/apply)**<br><sub>www.amazon.jobs</sub> |
 | American Express | Data & Analytics Analyst - Enterprise Technology Services | Charlotte, NC | Not listed | not available | 2026-09-23 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013679)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
 | American Express | Senior Analyst - Data & Analytics - Enterprise Technology Services | Charlotte, NC | Not listed | not available | 2026-09-23 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013683)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| Amgen | Associate AI Engineer - OI&A | Thousand Oaks, CA | Not listed | not available | 2026-09-23 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Associate-AI-Engineer--OI-A_R-255988)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
