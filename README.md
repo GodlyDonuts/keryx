@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**8,357 internships · 4,869 new-grad roles · 13,226 total openings**
+**8,331 internships · 4,833 new-grad roles · 13,164 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,942 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 461 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 546 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 3,945 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 462 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 548 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 176 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,232 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 3,200 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,059 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,243 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,567 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,053 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,216 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,564 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| American Bureau of Shipping | Winter Engineering Intern | Houston, TX, United States | Not listed | Current student status<br><sub>required</sub> | 2026-09-25 | **[Apply →](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4868)**<br><sub>hbbq.fa.us2.oraclecloud.com</sub> |
+| Arconic | Co-Op: Electrical Engineer (UT - Knoxville or Tennessee Tech) | Alcoa, TN, United States | Not listed | Current student status<br><sub>required</sub> | 2026-09-25 | **[Apply →](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114245)**<br><sub>hdnn.fa.us6.oraclecloud.com</sub> |
+| Arconic | Co-Op: Mechanical Engineer (UT - Knoxville or Tennessee Tech) | Alcoa, TN, United States | Not listed | Current student status<br><sub>required</sub> | 2026-09-25 | **[Apply →](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114243)**<br><sub>hdnn.fa.us6.oraclecloud.com</sub> |
+| Arconic | Intern - Electrical Engineer | Alcoa, TN, United States | Spring 2027 | 2027–Spring 2028<br><sub>preferred / required</sub> | 2026-09-25 | **[Apply →](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114240)**<br><sub>hdnn.fa.us6.oraclecloud.com</sub> |
+| Arconic | Intern - Metallurgical Engineer | Alcoa, TN, United States | Spring 2027 | 2027–Spring 2028<br><sub>preferred / required</sub> | 2026-09-25 | **[Apply →](https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114239)**<br><sub>hdnn.fa.us6.oraclecloud.com</sub> |
+| Barrios | Data and Computer Engineering/Computer Science Intern | Houston, TX | Summer 2027 | not available | 2026-09-25 | **[Apply →](https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false)**<br><sub>careers-barrios.icims.com</sub> |
+| Bluestaq | Software Engineering Resident - Multiple Teams | Colorado Springs, CO | Winter 2027 | not available | 2026-09-25 | **[Apply →](https://job-boards.greenhouse.io/bluestaq/jobs/4420189009)**<br><sub>job-boards.greenhouse.io</sub> |
+| DriveTime | Analytics Intern (Summer 2027) | Tempe, AZ, United States | Summer 2027 | not available | 2026-09-25 | **[Apply →](https://jobs.drivetime.com/analytics-intern-summer-2027/job/7C73E6B718E28C7F4F8DB0ED61E1C636)**<br><sub>jobs.drivetime.com</sub> |
 | Electronic Arts | Gameplay Engineer Intern | LA | Summer 2027 | not available | 2026-09-25 | **[Apply →](https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245)**<br><sub>jobs.ea.com</sub> |
+| First Citizens BancShares | IT Intern - Software Developer | Raleigh, NC | Summer 2027 | not available | 2026-09-25 | **[Apply →](https://firstcitizens.jibeapply.com/jobs/35709?icims=1)**<br><sub>firstcitizens.jibeapply.com</sub> |
 | FOTH | Civil Engineering Intern-Airport Construction (Summer 2027) | Cedar Rapids, Iowa | Summer 2027 | Current student status<br><sub>required</sub> | 2026-09-25 | **[Apply →](https://jobs.lever.co/foth/208dd5a2-29b0-4a1a-83b9-b63bd80b1c9c)**<br><sub>jobs.lever.co</sub> |
-| Intuitive Surgical | AI Research Intern | Sunnyvale, CA | Winter 2027 | not available | 2026-09-25 | **[Apply →](https://jobs.smartrecruiters.com/Intuitive/744000151714759)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Snowflake | Software Engineer Intern | Menlo Park, CA, Bellevue, WA | Spring 2027 | not available | 2026-09-25 | **[Apply →](https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Snowflake | Software Engineer Intern - Core, Infrastructure & Security | Menlo Park, CA, Bellevue, WA | Spring 2027 | not available | 2026-09-25 | **[Apply →](https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Snowflake | Software Engineer Intern - Database Engineering | Menlo Park, CA, Bellevue, WA | Spring 2027 | not available | 2026-09-25 | **[Apply →](https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Tesla | Optical Engineer Intern - Electronic Systems | Palo Alto, CA | Spring 2027 | not available | 2026-09-25 | **[Apply →](https://www.tesla.com/careers/search/job/284607)**<br><sub>www.tesla.com</sub> |
-| ABB | IS Common Infrastructure Intern- Summer 2027 | USA, NC, Cary | Summer 2027 | not available | 2026-09-24 | **[Apply →](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125)**<br><sub>abb.wd3.myworkdayjobs.com</sub> |
-| ABB | Product Management Intern - Summer 2027 | New Berlin, Wisconsin, United States of America | Summer 2027 | not available | 2026-09-24 | **[Apply →](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280)**<br><sub>abb.wd3.myworkdayjobs.com</sub> |
-| Amazon | Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC) | Seattle, Washington, USA | Summer 2027 | not available | 2026-09-24 | **[Apply →](https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc)**<br><sub>www.amazon.jobs</sub> |
-| Amazon | Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) | Redmond, Washington, USA | Summer 2027 | not available | 2026-09-24 | **[Apply →](https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa)**<br><sub>www.amazon.jobs</sub> |
-| Ameren | Intern (Robotics, AI, OT, Software development) | St. Louis, MO | Not listed | not available | 2026-09-24 | **[Apply →](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1)**<br><sub>ameren.wd1.myworkdayjobs.com</sub> |
+| General Motors | 2027 Summer Intern – Manufacturing Weld Engineer | Lake Orion, Michigan, United States of America | Summer 2027 | not available | 2026-09-25 | **[Apply →](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Lake-Orion-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Weld-Engineer_JR-202619474)**<br><sub>generalmotors.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -61,15 +61,15 @@ Recent full-time opportunities that open the employer's application page directl
 | ABM Industries | Entry Level Facilities Technician | Houston, TX | Not listed | not stated | 2026-09-25 | **[Apply →](https://jobs.lever.co/ableserve/6349625d-0de2-4203-add4-9654130752c2)**<br><sub>jobs.lever.co</sub> |
 | Apple | SoC Physical Design Engineer - PnR | San Diego, CA | Not listed | not available | 2026-09-25 | **[Apply →](https://jobs.apple.com/en-us/details/200685702)**<br><sub>jobs.apple.com</sub> |
 | Apple | Software Engineer - Applied AI | San Diego, CA | Not listed | not available | 2026-09-25 | **[Apply →](https://jobs.apple.com/en-us/details/200684521)**<br><sub>jobs.apple.com</sub> |
+| Guidehouse | DevSecOps Cloud Engineer | Remote - San Antonio, TX | 2027 | not available | 2026-09-25 | **[Apply →](https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---TX-San-Antonio/DevSecOps-Cloud-Engineer_42321)**<br><sub>guidehouse.wd1.myworkdayjobs.com</sub> |
+| Johns Hopkins Applied Physics Laboratory | Neural Engineer | Laurel, MD | Not listed | not available | 2026-09-25 | **[Apply →](https://careers.jhuapl.edu/jobs/60068?icims=1)**<br><sub>careers.jhuapl.edu</sub> |
+| L3Harris Technologies | Associate Integration/Test Engineering | Melbourne, FL | Not listed | not available | 2026-09-25 | **[Apply →](https://jobs.l3harris.com/job/Melbourne-Associate,-IntegrationTest-Engineering-FL-32901/1433821200/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
 | 84.51 Degrees | Product Manager - Data Domain | Chicago, IL, Cincinnati, OH | Not listed | not available | 2026-09-24 | **[Apply →](https://job-boards.greenhouse.io/8451/jobs/8843248002)**<br><sub>job-boards.greenhouse.io</sub> |
 | Adobe | Machine Learning Engineer New Grad | Seattle, WA, SF, Austin, TX, San Jose, CA, Waltham, MA, NYC, Lehi, UT | Not listed | not available | 2026-09-24 | **[Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085)**<br><sub>adobe.wd5.myworkdayjobs.com</sub> |
 | Adobe | Product Manager | San Jose, CA | Not listed | not available | 2026-09-24 | **[Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Product-Manager_R171844)**<br><sub>adobe.wd5.myworkdayjobs.com</sub> |
 | Adobe | Software Engineer New Grad | Seattle, WA, SF, Austin, TX, San Jose, CA, NYC, Lehi, UT | Not listed | not available | 2026-09-24 | **[Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083)**<br><sub>adobe.wd5.myworkdayjobs.com</sub> |
 | Advantage Solutions | Category Insights Analyst | Bentonville, AR, Charleston, SC, Cincinnati, OH | Not listed | not available | 2026-09-24 | **[Apply →](https://uscareers2-asm.icims.com/jobs/441116/job?mobile=true&needsRedirect=false)**<br><sub>uscareers2-asm.icims.com</sub> |
 | AMD | Engineering Lab Operator | Austin, TX | Not listed | not available | 2026-09-24 | **[Apply →](https://careers.amd.com/jobs/92633?icims=1)**<br><sub>careers.amd.com</sub> |
-| Amentum | RTOS / VXWorks developer | Dahlgren, VA | 2027 | not available | 2026-09-24 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/RTOS---VXWorks-developer_R0168163-1)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
-| Amentum | Simulink Software Developer | Dahlgren, VA | 2027 | not available | 2026-09-24 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Simulink-Software-Developer_R0168128-1)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
-| AMT Engineering | Entry Level Water Resources Engineer - May 2027 | Rockville, Maryland | 2027 | Expected May 2027 graduation<br><sub>stated</sub> | 2026-09-24 | **[Apply →](https://jobs.lever.co/amtengineering/043f322f-ce63-44e1-af6c-c555c4eeaf52)**<br><sub>jobs.lever.co</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
