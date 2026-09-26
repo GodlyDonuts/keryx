@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**8,475 internships · 4,832 new-grad roles · 13,307 total openings**
+**8,434 internships · 4,829 new-grad roles · 13,263 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,993 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 450 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 577 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 179 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,276 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,010 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 449 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 573 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 176 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,226 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,052 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,227 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,553 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,066 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,224 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,539 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| ABB | Manufacturing Engineering Intern - Summer 2027 | USA, NJ, Hackettstown | Summer 2027 | not available | 2026-09-26 | **[Apply →](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NJ-Hackettstown/Manufacturing-Engineering-Intern---Summer-2027_JR00044977)**<br><sub>abb.wd3.myworkdayjobs.com</sub> |
 | Atlassian | Research Intern | Seattle, WA | Summer 2027 | not available | 2026-09-26 | **[Apply →](https://campus-americas.icims.com/jobs/26270/research-intern%2c-2027-summer-u.s./job)**<br><sub>campus-americas.icims.com</sub> |
+| CNA Insurance | Technology Internship Program (Agile Product Design) | Chicago, IL, USA | Not listed | not available | 2026-09-26 | **[Apply →](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Agile-Product-Design-_R-8125)**<br><sub>cna.wd1.myworkdayjobs.com</sub> |
+| CNA Insurance | Technology Internship Program (Data Analytics) | Chicago, IL, USA | Not listed | not available | 2026-09-26 | **[Apply →](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Data-Analytics-_R-8124)**<br><sub>cna.wd1.myworkdayjobs.com</sub> |
 | CSC Generation | Social Commerce Intern | Cottonwood Heights, UT | Not listed | not stated | 2026-09-26 | **[Apply →](https://jobs.lever.co/cscgeneration-2/687984bb-ae2a-4f4a-ac49-0f9d48bcb8a4)**<br><sub>jobs.lever.co</sub> |
+| Ecolab | Research and Development Intern | USA - Minnesota - Eagan | Not listed | not available | 2026-09-26 | **[Apply →](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Eagan/Research-and-Development-Engineering-Intern_R00303255)**<br><sub>ecolab.wd1.myworkdayjobs.com</sub> |
 | First Solar | Data Engineering Intern (Spring 2027) | Perrysburg, OH, United States | Spring 2027 | Current student status<br><sub>stated</sub> | 2026-09-26 | **[Apply →](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1026045)**<br><sub>fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 | First Solar | Development Engineer Intern - Laser (Spring 2027) | Perrysburg, OH, United States | Spring 2027 | Current student status<br><sub>required</sub> | 2026-09-26 | **[Apply →](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1026044)**<br><sub>fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
-| GovSignals | Engineering Intern | Remote in USA | Fall 2026 | not available | 2026-09-26 | **[Apply →](https://jobs.ashbyhq.com/GovSignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Oatey Company | Product Management Intern | Cleveland, OH (Headquarters) | Not listed | not available | 2026-09-26 | **[Apply →](https://wd5.myworkdaysite.com/Oatey_External_/job/Cleveland-OH-Headquarters/Product-Management-Intern_R7185)**<br><sub>wd5.myworkdaysite.com</sub> |
-| Saab | Mechanical Engineer (Summer Intern 2027) | West Lafayette, IN | Summer 2027 | not available | 2026-09-26 | **[Apply →](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/West-Lafayette-IN/Mechanical-Engineer--Summer-Intern-2027-_R-03223)**<br><sub>saabusa.wd1.myworkdayjobs.com</sub> |
-| Tesla | Mobile Application Software Engineer Intern - Energy Engineering | Palo Alto, CA | Spring 2027 | not available | 2026-09-26 | **[Apply →](https://www.tesla.com/careers/search/job/284776)**<br><sub>www.tesla.com</sub> |
-| Tesla | Silicon Validation Engineer Intern - AI Hardware | Palo Alto, CA | Spring 2027 | not available | 2026-09-26 | **[Apply →](https://www.tesla.com/careers/search/job/284821)**<br><sub>www.tesla.com</sub> |
-| The Toro Company | Mechanical Engineer Co Op - BOSS Snowplow | Iron Mountain, MI | Not listed | not available | 2026-09-26 | **[Apply →](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Iron-Mountain-MI/Mechanical-Engineer-Co-Op---BOSS-Snowplow_JR17160)**<br><sub>ttc.wd1.myworkdayjobs.com</sub> |
-| The Toro Company | Mechanical Engineer Intern - The Toro Company | Bloomington, MN | Not listed | not available | 2026-09-26 | **[Apply →](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Mechanical-Engineer-Intern---The-Toro-Company_JR17112)**<br><sub>ttc.wd1.myworkdayjobs.com</sub> |
+| GE Vernova | GE Vernova Nuclear Engineering Intern - Summer 2027 | Wilmington NC USA | Summer 2027 | not available | 2026-09-26 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Engineering-Intern---Summer-2027_R5048563-1)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
+| General Dynamics Information Technology | GDIT Summer Internship Program – Summer 2027 AI/ML Business Intelligence Development Internship | USA LA Bossier City | Summer 2027 | not available | 2026-09-26 | **[Apply →](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935)**<br><sub>gdit.wd5.myworkdayjobs.com</sub> |
+| General Dynamics Information Technology | GDIT Summer Internship Program – Summer 2027 AI/ML Data Science and Engineering Internship | USA LA Bossier City | Summer 2027 | not available | 2026-09-26 | **[Apply →](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Data-Science-and-Engineering-Internship_RQ228938)**<br><sub>gdit.wd5.myworkdayjobs.com</sub> |
+| General Dynamics Information Technology | GDIT Summer Internship Program – Summer 2027 AI/ML Data Science and Engineering Internship | USA LA Bossier City | Summer 2027 | not available | 2026-09-26 | **[Apply →](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Data-Science-and-Engineering-Internship_RQ228936)**<br><sub>gdit.wd5.myworkdayjobs.com</sub> |
+| General Dynamics Information Technology | GDIT Summer Internship Program – Summer 2027 AI/ML Software Development and Engineering Internship | USA LA Bossier City | Summer 2027 | not available | 2026-09-26 | **[Apply →](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939)**<br><sub>gdit.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -60,16 +60,16 @@ Recent full-time opportunities that open the employer's application page directl
 |---|---|---|---|---|---:|---|
 | Amazon | Hardware Development Engineer - AI/ML Server Development | Seattle, WA, Cupertino, CA, Denver, CO | Not listed | not available | 2026-09-26 | **[Apply →](https://amazon.jobs/en/jobs/10482698/hardware-development-engineer-ai-ml-server-development)**<br><sub>amazon.jobs</sub> |
 | Fidelity Investments | January 2027 - Leap Software Engineer | Westlake, TX +2 | 2027 | not available | 2026-09-26 | **[Apply →](https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Westlake-TX/January-2027---Leap-Software-Engineer_2133859)**<br><sub>fmr.wd1.myworkdayjobs.com</sub> |
+| Garner Health | Associate Software Engineer | New York City, NY | 2027 | not available | 2026-09-26 | **[Apply →](https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004)**<br><sub>job-boards.greenhouse.io</sub> |
 | LeanTaaS | Associate GTM Engineer | Remote in USA | Not listed | not available | 2026-09-26 | **[Apply →](https://jobs.lever.co/leantaas/c15b6de5-c2bf-4499-9b53-b41960551719/apply)**<br><sub>jobs.lever.co</sub> |
+| Notion | Software Engineer - New Grad - Dec 2026 | San Francisco, CA | 2026 | Dec 2026–Feb 2027<br><sub>required / stated</sub> | 2026-09-26 | **[Apply →](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816)**<br><sub>jobs.ashbyhq.com</sub> |
 | Quora | Software Engineer New Grad - Machine Learning Platform | Remote in USA, Remote in Canada | Not listed | not available | 2026-09-26 | **[Apply →](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Varsity Brands | Software Engineer 1 - .Net | Memphis, TN | Not listed | not available | 2026-09-26 | **[Apply →](https://careers.varsitybrands.com/global/en/job/JR114518)**<br><sub>careers.varsitybrands.com</sub> |
+| Verkada | Embedded Software Engineer - Access Control | San Mateo, CA | 2027 | not available | 2026-09-26 | **[Apply →](https://job-boards.greenhouse.io/verkada/jobs/5194716007)**<br><sub>job-boards.greenhouse.io</sub> |
 | Abbott | Software Engineer 1 - Multiple Teams | La Jolla, San Diego, CA | Not listed | not available | 2026-09-25 | **[Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---La-Jolla/Software-Engineer-I_31162389)**<br><sub>abbott.wd5.myworkdayjobs.com</sub> |
 | ABM Industries | Entry Level Facilities Technician | Houston, TX | Not listed | not stated | 2026-09-25 | **[Apply →](https://jobs.lever.co/ableserve/6349625d-0de2-4203-add4-9654130752c2)**<br><sub>jobs.lever.co</sub> |
 | Amazon | Software Development Engineer - Amazon Dedicated Cloud - Early Career - 2026 | Seattle, WA | 2026 | not available | 2026-09-25 | **[Apply →](https://www.amazon.jobs/jobs/10529546/apply)**<br><sub>www.amazon.jobs</sub> |
 | American Electric Power | Asset Analyst - TFS | Hurricane, WV, Ashland, KY | Not listed | not available | 2026-09-25 | **[Apply →](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Ashland-KY/TFS-Asset-Analyst_R18618)**<br><sub>aep.wd1.myworkdayjobs.com</sub> |
-| Analytical Mechanics Associates | Data Analyst | Hampton, VA, NYC, Ohio | Not listed | not available | 2026-09-25 | **[Apply →](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Data-Analyst_R-100777-1)**<br><sub>amainc.wd12.myworkdayjobs.com</sub> |
-| Apple | CAD Engineer - Signoff Infrastructure | Austin, TX, San Jose, CA | 2026 | not available | 2026-09-25 | **[Apply →](https://jobs.apple.com/en-us/details/200685871)**<br><sub>jobs.apple.com</sub> |
-| Apple | SoC Physical Design Engineer - PnR | San Diego, CA | Not listed | not available | 2026-09-25 | **[Apply →](https://jobs.apple.com/en-us/details/200685702)**<br><sub>jobs.apple.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

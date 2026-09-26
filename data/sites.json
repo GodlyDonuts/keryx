@@ -594,7 +594,7 @@
       "boards": [],
       "company": "Marvin",
       "key": "04630bf878294c16cd14869c",
-      "last_scanned": "2026-09-04",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.marvin.com/"
     },
@@ -1088,10 +1088,12 @@
       "url": "https://alleninstitute.org/"
     },
     {
-      "boards": [],
+      "boards": [
+        "greenhouse:scaleai"
+      ],
       "company": "Scale AI",
       "key": "07988b08822af96329575969",
-      "last_scanned": "2026-09-04",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://scale.com/"
     },
@@ -2086,9 +2088,8 @@
     {
       "boards": [],
       "company": "Fervo Energy",
-      "error": "public request failed for https://www.fervoenergy.com/: HTTP Error 403: Forbidden",
       "key": "0ede4c71031b4ca2cb8f54f3",
-      "last_scanned": "2026-09-10",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.fervoenergy.com/"
     },
@@ -4694,7 +4695,7 @@
       ],
       "company": "Anord Mardix",
       "key": "1f784bbdc7f07d084f000de9",
-      "last_scanned": "2026-09-18",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://anordmardix.com/"
     },
@@ -5621,7 +5622,7 @@
       "company": "Klaviyo",
       "error": "Invalid IPv6 URL",
       "key": "2730ebdaa3e210e28c3c9f66",
-      "last_scanned": "2026-09-24",
+      "last_scanned": "2026-09-26",
       "url": "https://www.klaviyo.com/"
     },
     {
@@ -5913,7 +5914,7 @@
       "boards": [],
       "company": "Skydio",
       "key": "2982c8699cfb62cf0fbb6d0a",
-      "last_scanned": "2026-09-17",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.skydio.com/"
     },
@@ -7325,7 +7326,7 @@
       "company": "Ecolab",
       "error": "public request failed for https://www.ecolab.com/: HTTP Error 403: Forbidden",
       "key": "310f9a68901ccb666997c890",
-      "last_scanned": "2026-09-04",
+      "last_scanned": "2026-09-26",
       "url": "https://www.ecolab.com/"
     },
     {
@@ -9764,7 +9765,7 @@
       "boards": [],
       "company": "Perry Homes",
       "key": "41a395e86547a6765a9175ce",
-      "last_scanned": "2026-09-04",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.perryhomes.com/"
     },
@@ -11310,7 +11311,7 @@
       "boards": [],
       "company": "Verkada",
       "key": "4b94d009d8ed4cbbb6fe9e3c",
-      "last_scanned": "2026-09-10",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.verkada.com/"
     },
@@ -13419,7 +13420,7 @@
       "boards": [],
       "company": "NinjaOne",
       "key": "58ffa0f83f3edee9a0121364",
-      "last_scanned": "2026-09-05",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.ninjaone.com/"
     },
@@ -14430,7 +14431,7 @@
       "boards": [],
       "company": "Zipline",
       "key": "5f1366af9e0cbf460ade34ec",
-      "last_scanned": "2026-09-16",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.zipline.com/"
     },
@@ -18940,7 +18941,7 @@
       "company": "Thornton Tomasetti",
       "error": "public request failed for https://www.thorntontomasetti.com/: HTTP Error 403: Forbidden",
       "key": "7cca0a83d06dbff30ab9278a",
-      "last_scanned": "2026-09-24",
+      "last_scanned": "2026-09-26",
       "url": "https://www.thorntontomasetti.com/"
     },
     {
@@ -21004,9 +21005,9 @@
     },
     {
       "boards": [],
-      "company": "fairlife, LLC",
+      "company": "fairlife",
       "key": "8a93f572615a5d747705497e",
-      "last_scanned": "2026-09-04",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.fairlife.com/"
     },
@@ -21133,7 +21134,7 @@
       "company": "Marathon Petroleum Corporation",
       "error": "public request failed for https://www.marathonpetroleum.com/: HTTP Error 403: Forbidden",
       "key": "8b96c5fecf4a8c25a350411f",
-      "last_scanned": "2026-09-22",
+      "last_scanned": "2026-09-26",
       "url": "https://www.marathonpetroleum.com/"
     },
     {
@@ -22822,6 +22823,14 @@
       "last_scanned": "2026-09-05",
       "resolved_roles": 0,
       "url": "https://ventures.totalenergies.com/"
+    },
+    {
+      "boards": [],
+      "company": "Ford Credit",
+      "key": "97bbaeb4d6c48d08bbbf056b",
+      "last_scanned": "2026-09-26",
+      "resolved_roles": 0,
+      "url": "https://www.ford.com/finance"
     },
     {
       "boards": [
@@ -25812,6 +25821,14 @@
     },
     {
       "boards": [],
+      "company": "Model 1 Commercial Vehicles",
+      "key": "ab0c703c0e4830688a65e822",
+      "last_scanned": "2026-09-26",
+      "resolved_roles": 0,
+      "url": "https://www.model1.com/"
+    },
+    {
+      "boards": [],
       "company": "RLG Consulting Engineers",
       "key": "ab32608a834910263ed69d17",
       "last_scanned": "2026-08-20",
@@ -26560,7 +26577,7 @@
       ],
       "company": "Notion",
       "key": "b04d19f21678295e26b2d736",
-      "last_scanned": "2026-09-19",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.notion.com/"
     },
@@ -28139,7 +28156,7 @@
       "boards": [],
       "company": "Nicolet National Bank",
       "key": "bb3e4176f691567cea547962",
-      "last_scanned": "2026-09-04",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://nicoletbank.com/"
     },
@@ -31140,7 +31157,7 @@
       "company": "WSP in the U.S.",
       "error": "public request failed for https://www.wsp.com/en-us: HTTP Error 403: Forbidden",
       "key": "ce26e2f6b0157eb94cc09fde",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-09-26",
       "url": "https://www.wsp.com/en-us"
     },
     {
@@ -33239,7 +33256,7 @@
       "boards": [],
       "company": "LyondellBasell",
       "key": "db1751fd70a37e464788b4d4",
-      "last_scanned": "2026-09-17",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://lyondellbasell.com/"
     },
@@ -34143,7 +34160,7 @@
       "company": "Parker Hannifin",
       "error": "public request failed for https://www.parker.com/: HTTP Error 403: Forbidden",
       "key": "e119a7f6379a58ca0c779bf4",
-      "last_scanned": "2026-09-24",
+      "last_scanned": "2026-09-26",
       "url": "https://www.parker.com/"
     },
     {
@@ -34716,9 +34733,9 @@
       "boards": [
         "oracle:etgi.fa.us8.oraclecloud.com:cx_4005"
       ],
-      "company": "Virgina Dept Of Transporation",
+      "company": "Virginia Department of Transportation",
       "key": "e5313a840b6ec842728ce952",
-      "last_scanned": "2026-09-19",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://virginiadot.org/"
     },
@@ -36329,7 +36346,7 @@
       "company": "Burns & McDonnell",
       "error": "Invalid IPv6 URL",
       "key": "eec8917d7550e69bd17e19be",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-09-26",
       "url": "https://www.burnsmcd.com/"
     },
     {
@@ -36798,7 +36815,7 @@
       "boards": [],
       "company": "Owens Corning",
       "key": "f18fdf469167502c3b82e96d",
-      "last_scanned": "2026-09-14",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.owenscorning.com/"
     },
@@ -37291,7 +37308,7 @@
       "company": "Hasana, Inc.",
       "error": "public request failed for https://shophasana.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
       "key": "f41bc632df0b0a99b7efa38a",
-      "last_scanned": "2026-09-21",
+      "last_scanned": "2026-09-26",
       "url": "https://shophasana.com/"
     },
     {
