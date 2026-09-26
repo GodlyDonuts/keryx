@@ -782,6 +782,12 @@
     },
     {
       "ats": "ashby",
+      "company": "GovSignals",
+      "key": "ashby:govsignals",
+      "slug": "GovSignals"
+    },
+    {
+      "ats": "ashby",
       "company": "GovWell Technologies",
       "key": "ashby:govwell",
       "slug": "govwell"
@@ -2278,6 +2284,13 @@
     },
     {
       "ats": "bamboohr",
+      "company": "I.B. Abel, Inc.",
+      "host": "ibabel.bamboohr.com",
+      "key": "bamboohr:ibabel",
+      "slug": "ibabel"
+    },
+    {
+      "ats": "bamboohr",
       "company": "BranchPattern",
       "host": "improvinglife.bamboohr.com",
       "key": "bamboohr:improvinglife",
@@ -2331,6 +2344,13 @@
       "host": "massago.bamboohr.com",
       "key": "bamboohr:massago",
       "slug": "massago"
+    },
+    {
+      "ats": "bamboohr",
+      "company": "McCarthy-Bush Corporation",
+      "host": "mcbcorp.bamboohr.com",
+      "key": "bamboohr:mcbcorp",
+      "slug": "mcbcorp"
     },
     {
       "ats": "bamboohr",
@@ -5831,6 +5851,12 @@
       "company": "Layup Parts",
       "key": "lever:layup",
       "slug": "layup"
+    },
+    {
+      "ats": "lever",
+      "company": "LeanTaaS",
+      "key": "lever:leantaas",
+      "slug": "leantaas"
     },
     {
       "ats": "lever",
