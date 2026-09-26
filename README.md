@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**8,503 internships · 4,873 new-grad roles · 13,376 total openings**
+**8,507 internships · 4,856 new-grad roles · 13,363 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,044 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 461 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 551 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 4,008 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 453 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 571 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 184 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,263 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 3,291 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,058 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,254 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,561 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,062 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,234 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,560 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,17 +38,17 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Atlassian | Research Intern | Seattle, WA | Summer 2027 | not available | 2026-09-26 | **[Apply →](https://campus-americas.icims.com/jobs/26270/research-intern%2c-2027-summer-u.s./job)**<br><sub>campus-americas.icims.com</sub> |
+| CSC Generation | Social Commerce Intern | Cottonwood Heights, UT | Not listed | not stated | 2026-09-26 | **[Apply →](https://jobs.lever.co/cscgeneration-2/687984bb-ae2a-4f4a-ac49-0f9d48bcb8a4)**<br><sub>jobs.lever.co</sub> |
+| GovSignals | Engineering Intern | Remote in USA | Fall 2026 | not available | 2026-09-26 | **[Apply →](https://jobs.ashbyhq.com/GovSignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Tesla | Mobile Application Software Engineer Intern - Energy Engineering | Palo Alto, CA | Spring 2027 | not available | 2026-09-26 | **[Apply →](https://www.tesla.com/careers/search/job/284776)**<br><sub>www.tesla.com</sub> |
 | Tesla | Silicon Validation Engineer Intern - AI Hardware | Palo Alto, CA | Spring 2027 | not available | 2026-09-26 | **[Apply →](https://www.tesla.com/careers/search/job/284821)**<br><sub>www.tesla.com</sub> |
-| AbbVie | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | North Chicago, IL, us | Summer 2027 | not available | 2026-09-25 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990015679346)**<br><sub>jobs.smartrecruiters.com</sub> |
-| AbbVie | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | South San Francisco, CA, us | Summer 2027 | not available | 2026-09-25 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990015684626)**<br><sub>jobs.smartrecruiters.com</sub> |
-| AbbVie | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | Irvine, CA, us | Summer 2027 | not available | 2026-09-25 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990015684556)**<br><sub>jobs.smartrecruiters.com</sub> |
-| AbbVie | 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate) | North Chicago, IL, us | Summer 2027 | not available | 2026-09-25 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990015679246)**<br><sub>jobs.smartrecruiters.com</sub> |
-| AbbVie | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) | Irvine, CA, us | Summer 2027 | not available | 2026-09-25 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990015684476)**<br><sub>jobs.smartrecruiters.com</sub> |
-| AbbVie | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) | North Chicago, IL, us | Summer 2027 | not available | 2026-09-25 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990015679386)**<br><sub>jobs.smartrecruiters.com</sub> |
-| AbbVie | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) | South San Francisco, CA, us | Summer 2027 | not available | 2026-09-25 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990015684516)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Allegion | Summer Intern - Software Engineering | Golden, CO | Not listed | not available | 2026-09-25 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
-| American Bureau of Shipping | Winter Engineering Intern | Houston, TX, United States | Not listed | Current student status<br><sub>required</sub> | 2026-09-25 | **[Apply →](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4868)**<br><sub>hbbq.fa.us2.oraclecloud.com</sub> |
+| AbbVie | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | North Chicago, IL, United States (Hybrid) | Summer 2027 | not available | 2026-09-25 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990015679346)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AbbVie | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | South San Francisco, CA, United States (Hybrid) | Summer 2027 | not available | 2026-09-25 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990015684626)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AbbVie | 2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate) | Irvine, CA, United States (Hybrid) | Summer 2027 | not available | 2026-09-25 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990015684556)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AbbVie | 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate) | North Chicago, IL, United States (Hybrid) | Summer 2027 | not available | 2026-09-25 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990015679246)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AbbVie | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) | North Chicago, IL, United States (Hybrid) | Summer 2027 | not available | 2026-09-25 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990015679386)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AbbVie | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) | South San Francisco, CA, United States (Hybrid) | Summer 2027 | not available | 2026-09-25 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990015684516)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AbbVie | Business Technology Solutions Intern - Data & Software Engineering | Irvine, CA | Summer 2027 | not available | 2026-09-25 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990015684476)**<br><sub>jobs.smartrecruiters.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
