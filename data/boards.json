@@ -6982,6 +6982,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Con Edison",
+      "host": "ejcu.fa.us6.oraclecloud.com",
+      "key": "oracle:ejcu.fa.us6.oraclecloud.com:cx_1033",
+      "site": "CX_1033",
+      "slug": "ejcu"
+    },
+    {
+      "ats": "oracle",
       "company": "Sherwin-Williams",
       "host": "ejhp.fa.us6.oraclecloud.com",
       "key": "oracle:ejhp.fa.us6.oraclecloud.com:cx_2",

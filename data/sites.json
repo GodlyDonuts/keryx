@@ -569,7 +569,7 @@
       "company": "Black & Veatch",
       "error": "public request failed for https://www.bv.com/en-US/Home: HTTP Error 404: Not Found",
       "key": "045274256e4fdb25278f972a",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-09-26",
       "url": "https://bv.com/Home"
     },
     {
@@ -2796,7 +2796,7 @@
       "boards": [],
       "company": "KPFF Consulting Engineers",
       "key": "1323ec853bdfcae16ed7d877",
-      "last_scanned": "2026-09-18",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.kpff.com/"
     },
@@ -5790,7 +5790,7 @@
       "boards": [],
       "company": "FlatironDragados",
       "key": "2871d631964ddca82ed3257f",
-      "last_scanned": "2026-09-16",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.fdcorp.com/"
     },
@@ -11968,7 +11968,7 @@
       "boards": [],
       "company": "Carrier",
       "key": "4fe4ab497bcf222da64498dd",
-      "last_scanned": "2026-09-13",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.corporate.carrier.com/"
     },
@@ -13211,7 +13211,7 @@
       ],
       "company": "Saronic Technologies",
       "key": "57b957802af4cbc1da6a42cf",
-      "last_scanned": "2026-09-10",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.saronic.com/"
     },
@@ -13666,7 +13666,7 @@
       "boards": [],
       "company": "Direct Supply",
       "key": "5aba04f8f4a7988d80b1f0d8",
-      "last_scanned": "2026-09-12",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.directsupply.com/"
     },
@@ -17436,7 +17436,7 @@
       "company": "Los Alamos National Laboratory",
       "error": "public request failed for https://www.lanl.gov/: HTTP Error 404: Not Found",
       "key": "732857a52fb2c0b5ef783e9c",
-      "last_scanned": "2026-09-24",
+      "last_scanned": "2026-09-26",
       "url": "https://www.lanl.gov/"
     },
     {
@@ -18609,6 +18609,16 @@
       "last_scanned": "2026-09-01",
       "resolved_roles": 0,
       "url": "https://www.cornerstoneondemand.com/"
+    },
+    {
+      "boards": [
+        "oracle:ejcu.fa.us6.oraclecloud.com:cx_1033"
+      ],
+      "company": "Con Edison",
+      "key": "7a95562e8401a796a8b22b1a",
+      "last_scanned": "2026-09-26",
+      "resolved_roles": 0,
+      "url": "https://www.coned.com/en"
     },
     {
       "boards": [],
@@ -19807,7 +19817,7 @@
       ],
       "company": "Simon Property Group",
       "key": "8319be884d182765014936cf",
-      "last_scanned": "2026-09-04",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.simon.com/"
     },
@@ -23156,7 +23166,7 @@
       ],
       "company": "iHeartMedia",
       "key": "9a52e0c95e78f570342c0666",
-      "last_scanned": "2026-09-12",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://iheartmedia.com/"
     },
@@ -30579,7 +30589,7 @@
       "boards": [],
       "company": "Ingredion Incorporated",
       "key": "ca9f85eab87868b99a6b53ed",
-      "last_scanned": "2026-09-17",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://ingredion.com/"
     },
@@ -31756,7 +31766,7 @@
       "boards": [],
       "company": "LG Electronics",
       "key": "d1969c88a763a49135dc78b7",
-      "last_scanned": "2026-09-12",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.lg.com/"
     },
@@ -31807,7 +31817,7 @@
       ],
       "company": "Hexcel Corporation",
       "key": "d1da6eefb1c4049cb4733b8d",
-      "last_scanned": "2026-09-05",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://hexcel.com/"
     },
@@ -34552,7 +34562,7 @@
       ],
       "company": "Vistra Corp.",
       "key": "e430af73527d257e4bf3f402",
-      "last_scanned": "2026-09-05",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://vistracorp.com/"
     },
@@ -35144,7 +35154,7 @@
       ],
       "company": "Novonesis",
       "key": "e77d948db9098b13b76bc64c",
-      "last_scanned": "2026-09-15",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.novonesis.com/"
     },
@@ -36372,7 +36382,7 @@
       ],
       "company": "National Laboratory of the Rockies",
       "key": "eecdeef7e74c59d1a34130f8",
-      "last_scanned": "2026-09-19",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.nlr.gov/"
     },
@@ -38125,7 +38135,7 @@
       ],
       "company": "Blue Cross and Blue Shield of Kansas",
       "key": "fa8852fd362114eaf9bc7e30",
-      "last_scanned": "2026-09-13",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.bcbsks.com/"
     },
@@ -38312,7 +38322,7 @@
       "boards": [],
       "company": "DeciBio",
       "key": "fbe659989bdf150548ede61a",
-      "last_scanned": "2026-09-12",
+      "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.decibio.com/"
     },
@@ -38480,7 +38490,7 @@
       "company": "CSX",
       "error": "public request failed for https://www.csx.com/: HTTP Error 403: Forbidden",
       "key": "fce12ab6c52584b13f1443f1",
-      "last_scanned": "2026-09-21",
+      "last_scanned": "2026-09-26",
       "url": "https://www.csx.com/"
     },
     {

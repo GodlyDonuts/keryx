@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**8,434 internships · 4,829 new-grad roles · 13,263 total openings**
+**8,436 internships · 4,819 new-grad roles · 13,255 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,010 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 449 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 573 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 176 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,226 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,004 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 446 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 559 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 175 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,252 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,066 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,224 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,539 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,052 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,244 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,523 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,17 +38,17 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Atlassian | Research Intern | Seattle, WA | Summer 2027 | not available | 2026-09-26 | **[Apply →](https://campus-americas.icims.com/jobs/26270/research-intern%2c-2027-summer-u.s./job)**<br><sub>campus-americas.icims.com</sub> |
+| Blue Cross and Blue Shield of Kansas | Application Developer - Intern | Topeka, KS | Not listed | not available | 2026-09-26 | **[Apply →](https://bcbsks.wd1.myworkdayjobs.com/en-US/external/job/Topeka/Application-Developer---Intern_R2026355)**<br><sub>bcbsks.wd1.myworkdayjobs.com</sub> |
 | CNA Insurance | Technology Internship Program (Agile Product Design) | Chicago, IL, USA | Not listed | not available | 2026-09-26 | **[Apply →](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Agile-Product-Design-_R-8125)**<br><sub>cna.wd1.myworkdayjobs.com</sub> |
 | CNA Insurance | Technology Internship Program (Data Analytics) | Chicago, IL, USA | Not listed | not available | 2026-09-26 | **[Apply →](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Data-Analytics-_R-8124)**<br><sub>cna.wd1.myworkdayjobs.com</sub> |
 | CSC Generation | Social Commerce Intern | Cottonwood Heights, UT | Not listed | not stated | 2026-09-26 | **[Apply →](https://jobs.lever.co/cscgeneration-2/687984bb-ae2a-4f4a-ac49-0f9d48bcb8a4)**<br><sub>jobs.lever.co</sub> |
+| Direct Supply | Product Engineer Intern | Milwaukee, WI | Not listed | not available | 2026-09-26 | **[Apply →](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Product-Engineer-Intern_REQ-2026-2551)**<br><sub>directsupply.wd501.myworkdayjobs.com</sub> |
 | Ecolab | Research and Development Intern | USA - Minnesota - Eagan | Not listed | not available | 2026-09-26 | **[Apply →](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Eagan/Research-and-Development-Engineering-Intern_R00303255)**<br><sub>ecolab.wd1.myworkdayjobs.com</sub> |
 | First Solar | Data Engineering Intern (Spring 2027) | Perrysburg, OH, United States | Spring 2027 | Current student status<br><sub>stated</sub> | 2026-09-26 | **[Apply →](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1026045)**<br><sub>fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 | First Solar | Development Engineer Intern - Laser (Spring 2027) | Perrysburg, OH, United States | Spring 2027 | Current student status<br><sub>required</sub> | 2026-09-26 | **[Apply →](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1026044)**<br><sub>fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 | GE Vernova | GE Vernova Nuclear Engineering Intern - Summer 2027 | Wilmington NC USA | Summer 2027 | not available | 2026-09-26 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Engineering-Intern---Summer-2027_R5048563-1)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
 | General Dynamics Information Technology | GDIT Summer Internship Program – Summer 2027 AI/ML Business Intelligence Development Internship | USA LA Bossier City | Summer 2027 | not available | 2026-09-26 | **[Apply →](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935)**<br><sub>gdit.wd5.myworkdayjobs.com</sub> |
 | General Dynamics Information Technology | GDIT Summer Internship Program – Summer 2027 AI/ML Data Science and Engineering Internship | USA LA Bossier City | Summer 2027 | not available | 2026-09-26 | **[Apply →](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Data-Science-and-Engineering-Internship_RQ228938)**<br><sub>gdit.wd5.myworkdayjobs.com</sub> |
-| General Dynamics Information Technology | GDIT Summer Internship Program – Summer 2027 AI/ML Data Science and Engineering Internship | USA LA Bossier City | Summer 2027 | not available | 2026-09-26 | **[Apply →](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Data-Science-and-Engineering-Internship_RQ228936)**<br><sub>gdit.wd5.myworkdayjobs.com</sub> |
-| General Dynamics Information Technology | GDIT Summer Internship Program – Summer 2027 AI/ML Software Development and Engineering Internship | USA LA Bossier City | Summer 2027 | not available | 2026-09-26 | **[Apply →](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939)**<br><sub>gdit.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
