@@ -4,7 +4,7 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**2530 open roles**
+**2531 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
@@ -1067,6 +1067,7 @@
 | Johns Hopkins Applied Physics Laboratory | Robotics Engineer - Research and Exploratory Development | Laurel, MD | not available<br><sub>posting text not indexed</sub> | 2026-08-14 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · careers.jhuapl.edu](https://careers.jhuapl.edu/jobs/59458?icims=1)<br><sub>source reported</sub> |
 | Johns Hopkins Applied Physics Laboratory | Robotics Researcher - Research and Exploratory Development Department - Robotics Group | Laurel, MD | not available<br><sub>posting text not indexed</sub> | 2026-08-14 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · careers.jhuapl.edu](https://careers.jhuapl.edu/jobs/59459?icims=1)<br><sub>source reported</sub> |
 | Johns Hopkins Applied Physics Laboratory | Subsea Robotics Engineer New Grad | Laurel, MD | not available<br><sub>posting text not indexed</sub> | 2026-08-14 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · careers.jhuapl.edu](https://careers.jhuapl.edu/jobs/59364?icims=1)<br><sub>source reported</sub> |
+| Johns Hopkins Applied Physics Laboratory | Synthetic Aperture Radar Machine Learning Engineer - Imaging Systems | Laurel, MD | not available<br><sub>posting text not indexed</sub> | 2026-08-14 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · careers.jhuapl.edu](https://careers.jhuapl.edu/jobs/58971?icims=1)<br><sub>source reported</sub> |
 | LG Electronics | Product Planning Program Manager | Alpharetta, GA | not available<br><sub>posting text not indexed</sub> | 2026-08-14 | [Jobright · Product Management](https://github.com/jobright-ai/2026-Product-Management-New-Grad), [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/lgelectronics/jobs/5389459008)<br><sub>cross-checked</sub> |
 | M.C. Dean | Systems Specialist - Associate | Monroe, LA | not available<br><sub>posting text not indexed</sub> | 2026-08-14 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · careers.mcdean.com](https://careers.mcdean.com/jobs/31988?icims=1)<br><sub>source reported</sub> |
 | MCI | AI Data Annotator | California | not available<br><sub>posting text not indexed</sub> | 2026-08-14 | [Simplify](https://github.com/SimplifyJobs/New-Grad-Positions) | [apply · careers-mci2.icims.com](https://careers-mci2.icims.com/jobs/50188/job?mobile=true&needsRedirect=false)<br><sub>recognized recruiting platform</sub> |
