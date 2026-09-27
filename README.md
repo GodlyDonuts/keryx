@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**8,376 internships · 4,801 new-grad roles · 13,177 total openings**
+**8,369 internships · 4,804 new-grad roles · 13,173 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,991 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 3,987 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 444 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 559 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 174 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,208 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 3,205 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 1,051 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,231 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,519 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 1,218 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,535 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,10 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Micron Technology | Intern - Process Development Engineer, Planar DRAM CMP | Boise, ID - Main Site | Not listed | not available | 2026-09-27 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Planar-DRAM-CMP_JR108060)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
+| Monolithic Power Systems | Application Engineer Intern | San Jose, CA | Not listed | not available | 2026-09-27 | **[Apply →](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose-CA/Application-Engineer-Intern_R-890)**<br><sub>monolithicpower.wd12.myworkdayjobs.com</sub> |
+| Vertiv | IT Intern (Summer 2027) | Westerville, OH, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-27 | **[Apply →](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279839)**<br><sub>egup.fa.us2.oraclecloud.com</sub> |
+| Vertiv | Software Engineering Test Intern (Summer 2027) | Delaware, OH, United States | Summer 2027 | not stated | 2026-09-27 | **[Apply →](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279305)**<br><sub>egup.fa.us2.oraclecloud.com</sub> |
 | Atlassian | Research Intern | Seattle, WA | Summer 2027 | not available | 2026-09-26 | **[Apply →](https://campus-americas.icims.com/jobs/26270/research-intern%2c-2027-summer-u.s./job)**<br><sub>campus-americas.icims.com</sub> |
 | Blue Cross and Blue Shield of Kansas | Application Developer - Intern | Topeka, KS | Not listed | not available | 2026-09-26 | **[Apply →](https://bcbsks.wd1.myworkdayjobs.com/en-US/external/job/Topeka/Application-Developer---Intern_R2026355)**<br><sub>bcbsks.wd1.myworkdayjobs.com</sub> |
 | CNA Insurance | Technology Internship Program (Agile Product Design) | Chicago, IL, USA | Not listed | not available | 2026-09-26 | **[Apply →](https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Agile-Product-Design-_R-8125)**<br><sub>cna.wd1.myworkdayjobs.com</sub> |
@@ -45,10 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | Direct Supply | Product Engineer Intern | Milwaukee, WI | Not listed | not available | 2026-09-26 | **[Apply →](https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Product-Engineer-Intern_REQ-2026-2551)**<br><sub>directsupply.wd501.myworkdayjobs.com</sub> |
 | Ecolab | Research and Development Intern | USA - Minnesota - Eagan | Not listed | not available | 2026-09-26 | **[Apply →](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Eagan/Research-and-Development-Engineering-Intern_R00303255)**<br><sub>ecolab.wd1.myworkdayjobs.com</sub> |
 | Figma | Software Engineer Intern - Winter 2027 | San Francisco, CA +1 | Winter 2027 | not stated | 2026-09-26 | **[Apply →](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004)**<br><sub>boards.greenhouse.io</sub> |
-| First Solar | Data Engineering Intern (Spring 2027) | Perrysburg, OH, United States | Spring 2027 | Current student status<br><sub>stated</sub> | 2026-09-26 | **[Apply →](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1026045)**<br><sub>fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
-| First Solar | Development Engineer Intern - Laser (Spring 2027) | Perrysburg, OH, United States | Spring 2027 | Current student status<br><sub>required</sub> | 2026-09-26 | **[Apply →](https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1026044)**<br><sub>fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
-| GE Vernova | GE Vernova Nuclear Engineering Intern - Summer 2027 | Wilmington NC USA | Summer 2027 | not available | 2026-09-26 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Engineering-Intern---Summer-2027_R5048563-1)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
-| General Dynamics Information Technology | GDIT Summer Internship Program – Summer 2027 AI/ML Business Intelligence Development Internship | USA LA Bossier City | Summer 2027 | not available | 2026-09-26 | **[Apply →](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935)**<br><sub>gdit.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,6 +58,7 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| WHOOP | Software Engineer I - Backend | Boston, MA | 2027 | not available | 2026-09-27 | **[Apply →](https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133)**<br><sub>jobs.ashbyhq.com</sub> |
 | Amazon | Hardware Development Engineer - AI/ML Server Development | Seattle, WA, Cupertino, CA, Denver, CO | Not listed | not available | 2026-09-26 | **[Apply →](https://amazon.jobs/en/jobs/10482698/hardware-development-engineer-ai-ml-server-development)**<br><sub>amazon.jobs</sub> |
 | Fidelity Investments | January 2027 - Leap Software Engineer | Westlake, TX +2 | 2027 | not available | 2026-09-26 | **[Apply →](https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Westlake-TX/January-2027---Leap-Software-Engineer_2133859)**<br><sub>fmr.wd1.myworkdayjobs.com</sub> |
 | Garner Health | Associate Software Engineer | New York City, NY | 2027 | not available | 2026-09-26 | **[Apply →](https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004)**<br><sub>job-boards.greenhouse.io</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Verkada | Embedded Software Engineer - Access Control | San Mateo, CA | 2027 | not available | 2026-09-26 | **[Apply →](https://job-boards.greenhouse.io/verkada/jobs/5194716007)**<br><sub>job-boards.greenhouse.io</sub> |
 | Zynga | Software Engineer - Game of Thrones Slots | Austin, TX +2 | 2027 | not available | 2026-09-26 | **[Apply →](https://job-boards.greenhouse.io/zyngacareers/jobs/6151865004)**<br><sub>job-boards.greenhouse.io</sub> |
 | Abbott | Software Engineer 1 - Multiple Teams | La Jolla, San Diego, CA | Not listed | not available | 2026-09-25 | **[Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---La-Jolla/Software-Engineer-I_31162389)**<br><sub>abbott.wd5.myworkdayjobs.com</sub> |
-| ABM Industries | Entry Level Facilities Technician | Houston, TX | Not listed | not stated | 2026-09-25 | **[Apply →](https://jobs.lever.co/ableserve/6349625d-0de2-4203-add4-9654130752c2)**<br><sub>jobs.lever.co</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
