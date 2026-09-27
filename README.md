@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**8,375 internships · 4,805 new-grad roles · 13,180 total openings**
+**8,376 internships · 4,801 new-grad roles · 13,177 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,995 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 446 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 558 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 173 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,203 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 3,991 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 444 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 559 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 174 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,208 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,045 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,225 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,535 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,051 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,231 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,519 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -63,13 +63,13 @@ Recent full-time opportunities that open the employer's application page directl
 | Garner Health | Associate Software Engineer | New York City, NY | 2027 | not available | 2026-09-26 | **[Apply →](https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004)**<br><sub>job-boards.greenhouse.io</sub> |
 | LeanTaaS | Associate GTM Engineer | Remote in USA | Not listed | not available | 2026-09-26 | **[Apply →](https://jobs.lever.co/leantaas/c15b6de5-c2bf-4499-9b53-b41960551719/apply)**<br><sub>jobs.lever.co</sub> |
 | Morgan Stanley | Associate - Software Engineer | New York City, NY | 2027 | not available | 2026-09-26 | **[Apply →](https://ms.wd5.myworkdayjobs.com/en-US/external/job/New-York-New-York-United-States-of-America/Associate--Software-Engineer_JR031776)**<br><sub>ms.wd5.myworkdayjobs.com</sub> |
+| Notion | Software Engineer - New Grad - Dec 2026 | San Francisco, CA | 2026 | Dec 2026–Feb 2027<br><sub>required / stated</sub> | 2026-09-26 | **[Apply →](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816)**<br><sub>jobs.ashbyhq.com</sub> |
 | Quora | Software Engineer New Grad - Machine Learning Platform | Remote in USA, Remote in Canada | Not listed | not available | 2026-09-26 | **[Apply →](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Varsity Brands | Software Engineer 1 - .Net | Memphis, TN | Not listed | not available | 2026-09-26 | **[Apply →](https://careers.varsitybrands.com/global/en/job/JR114518)**<br><sub>careers.varsitybrands.com</sub> |
 | Verkada | Embedded Software Engineer - Access Control | San Mateo, CA | 2027 | not available | 2026-09-26 | **[Apply →](https://job-boards.greenhouse.io/verkada/jobs/5194716007)**<br><sub>job-boards.greenhouse.io</sub> |
 | Zynga | Software Engineer - Game of Thrones Slots | Austin, TX +2 | 2027 | not available | 2026-09-26 | **[Apply →](https://job-boards.greenhouse.io/zyngacareers/jobs/6151865004)**<br><sub>job-boards.greenhouse.io</sub> |
 | Abbott | Software Engineer 1 - Multiple Teams | La Jolla, San Diego, CA | Not listed | not available | 2026-09-25 | **[Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---La-Jolla/Software-Engineer-I_31162389)**<br><sub>abbott.wd5.myworkdayjobs.com</sub> |
 | ABM Industries | Entry Level Facilities Technician | Houston, TX | Not listed | not stated | 2026-09-25 | **[Apply →](https://jobs.lever.co/ableserve/6349625d-0de2-4203-add4-9654130752c2)**<br><sub>jobs.lever.co</sub> |
-| Amazon | Software Development Engineer - Amazon Dedicated Cloud - Early Career - 2026 | Seattle, WA | 2026 | not available | 2026-09-25 | **[Apply →](https://www.amazon.jobs/jobs/10529546/apply)**<br><sub>www.amazon.jobs</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
