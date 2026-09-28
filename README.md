@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**8,387 internships · 4,517 new-grad roles · 12,904 total openings**
+**8,397 internships · 4,503 new-grad roles · 12,900 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 3,998 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 445 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 574 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 167 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,203 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,002 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 446 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 575 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 168 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,206 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,042 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 961 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,514 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,046 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 953 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,504 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Databricks | Software Engineering Intern - 2027 Start - Winter | Mountain View, CA +2 | Winter 2027 | Fall 2027–Spring 2028<br><sub>stated</sub> | 2026-09-27 | **[Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002)**<br><sub>databricks.com</sub> |
-| GlobalFoundries | Device Engineering Intern, ULP CMOS (Fall 2026) | USA - New York - Malta | Fall 2026 | not available | 2026-09-27 | **[Apply →](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Product-Business-Unit-Finance-Intern--Summer-2026-_JR-2502830)**<br><sub>globalfoundries.wd1.myworkdayjobs.com</sub> |
-| Great Lakes Water Authority | Research and Innovation Year-Round Internship | 735 Randolph St Detroit, MI 48226 | Not listed | not available | 2026-09-27 | **[Apply →](https://glwater.wd108.myworkdayjobs.com/Careers/job/735-Randolph-St-Detroit-MI-48226/Research-and-Innovation-Year-Round-Internship_R26_0000000203)**<br><sub>glwater.wd108.myworkdayjobs.com</sub> |
-| HNTB | Intern Engineer - Summer 2027 | Minneapolis, MN | Summer 2027 | not available | 2026-09-27 | **[Apply →](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Minneapolis-MN/Intern-Engineer---Summer-2027_R-31319-1)**<br><sub>hntb.wd5.myworkdayjobs.com</sub> |
-| HNTB | Intern Engineer - Summer 2027 | Indianapolis, IN | Summer 2027 | not available | 2026-09-27 | **[Apply →](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Indianapolis-IN/Intern-Engineer---Summer-2027_R-31386-1)**<br><sub>hntb.wd5.myworkdayjobs.com</sub> |
-| HNTB | Intern Engineer - Summer 2027 | Chicago, IL | Summer 2027 | not available | 2026-09-27 | **[Apply →](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Chicago-IL/Intern-Engineer---Summer-2027_R-31344-1)**<br><sub>hntb.wd5.myworkdayjobs.com</sub> |
-| IAT Insurance Group | Data Engineering & Visualization Internship | Raleigh NC | Not listed | not available | 2026-09-27 | **[Apply →](https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Data-Engineering---Visualization-Internship_JR100441)**<br><sub>iatinsurancegroup.wd1.myworkdayjobs.com</sub> |
-| Micron Technology | Intern - Process Development Engineer, Planar DRAM CMP | Boise, ID - Main Site | Not listed | not available | 2026-09-27 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--Planar-DRAM-CMP_JR108060)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
-| Onto Innovation | Mechanical Systems Engineer Intern | Bloomington-MN | Not listed | not available | 2026-09-27 | **[Apply →](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Bloomington-MN/Mechanical-Systems-Engineer-Intern_R-5723)**<br><sub>onto.wd1.myworkdayjobs.com</sub> |
-| QuEra Computing | Internship - Quantum Applications Research | Boston, MA, USA | Not listed | Current student status<br><sub>preferred</sub> | 2026-09-27 | **[Apply →](https://job-boards.greenhouse.io/queracomputinginc/jobs/5435901008)**<br><sub>job-boards.greenhouse.io</sub> |
-| QuEra Computing | Internship - Quantum Error Correction Research | Boston, MA USA | Not listed | Current student status<br><sub>preferred</sub> | 2026-09-27 | **[Apply →](https://job-boards.greenhouse.io/queracomputinginc/jobs/5435899008)**<br><sub>job-boards.greenhouse.io</sub> |
-| QuEra Computing | Internship - Scientific Software and Compilation | Boston, MA USA | Fall 2026 | not stated | 2026-09-27 | **[Apply →](https://job-boards.greenhouse.io/queracomputinginc/jobs/5435902008)**<br><sub>job-boards.greenhouse.io</sub> |
+| Blue Cross Blue Shield of Michigan | 2027 Summer Intern - Data Analytics, HEDIS | Detroit, MI, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-09-28 | **[Apply →](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14838)**<br><sub>ejko.fa.us2.oraclecloud.com</sub> |
+| Blue Cross Blue Shield of Michigan | 2027 Summer Intern - Data Analytics, Program Performance | Detroit, MI, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-09-28 | **[Apply →](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14841)**<br><sub>ejko.fa.us2.oraclecloud.com</sub> |
+| Blue Cross Blue Shield of Michigan | Summer 2027 Intern - Data Science / Biostatistician | Detroit, MI, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-09-28 | **[Apply →](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14837)**<br><sub>ejko.fa.us2.oraclecloud.com</sub> |
+| Dairyland Power Cooperative | Business Analyst Intern | La Crosse, Wisconsin | Not listed | not available | 2026-09-28 | **[Apply →](https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Business-Analyst-Intern_JR101065)**<br><sub>dairynet.wd1.myworkdayjobs.com</sub> |
+| Flagship Pioneering | Flagship Labs 117: Generative Chemistry Co-Op | Cambridge, MA USA | Not listed | not stated | 2026-09-28 | **[Apply →](https://job-boards.greenhouse.io/fspco-op012325/jobs/8845062002)**<br><sub>job-boards.greenhouse.io</sub> |
+| General Motors | Packaging Engineering Intern | Burton, Michigan, United States of America | Not listed | not available | 2026-09-28 | **[Apply →](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Burton-Michigan-United-States-of-America/Packaging-Engineering-Intern_JR-202618311)**<br><sub>generalmotors.wd5.myworkdayjobs.com</sub> |
+| Kite Pharma | Intern - Kite Research - Viral Vector Core | United States - California - Santa Monica | Not listed | not available | 2026-09-28 | **[Apply →](https://gilead.wd1.myworkdayjobs.com/kitepharmacareers/job/United-States---California---Santa-Monica/Intern---Kite-Research---Viral-Vector-Core_R0054552)**<br><sub>gilead.wd1.myworkdayjobs.com</sub> |
+| Luster National | Civil Engineer Intern | Atlanta, Georgia, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-09-28 | **[Apply →](https://job-boards.greenhouse.io/lusternational/jobs/5431241008)**<br><sub>job-boards.greenhouse.io</sub> |
+| Merck | 2027 Future Talent Program - Vaccines Process Research & Development Downstream - Co-Op | USA - Pennsylvania - West Point | Not listed | not available | 2026-09-28 | **[Apply →](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Vaccines-Process-Research---Development-Downstream---Co-Op_R413127)**<br><sub>msd.wd5.myworkdayjobs.com</sub> |
+| Merck | 2027 Future Talent Program - Vaccines Process Research & Development Upstream - Co-Op | USA - Pennsylvania - West Point | Not listed | not available | 2026-09-28 | **[Apply →](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Vaccines-Process-Research---Development-Upstream---Co-Op_R413130)**<br><sub>msd.wd5.myworkdayjobs.com</sub> |
+| Philips | Intern – Embedded Systems Test Automation Engineer – Bothell, WA – Summer 2027 | Bothell, Washington, United States | Summer 2027 | not available | 2026-09-28 | **[Apply →](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Embedded-Systems-Test-Automation-Engineer---Bothell--WA---Summer-2027_592074)**<br><sub>philips.wd3.myworkdayjobs.com</sub> |
+| The Toro Company | Electrical/software Coop | Iron Mountain, MI | Not listed | not available | 2026-09-28 | **[Apply →](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089)**<br><sub>ttc.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,6 +58,7 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| ZT Systems | Sustaining Electrical Validation Engineer | Secaucus, NJ | Not listed | not available | 2026-09-28 | **[Apply →](https://connect.wd1.myworkdayjobs.com/ztsystemscareers/job/Secaucus-NJ/Sustaining-Electrical-Validation-Engineer_R-105431)**<br><sub>connect.wd1.myworkdayjobs.com</sub> |
 | Applied Intuition | Embedded Test Engineer - New Grad - December 2026 | Sunnyvale, CA | 2026 | not available | 2026-09-27 | **[Apply →](https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c)**<br><sub>jobs.ashbyhq.com</sub> |
 | Impact | Associate Software Engineer | Santa Barbara, CA | 2027 | not stated | 2026-09-27 | **[Apply →](https://job-boards.greenhouse.io/impact/jobs/8645964002)**<br><sub>job-boards.greenhouse.io</sub> |
 | Impact | Full Stack Software Engineer | Seattle, WA | 2027 | not available | 2026-09-27 | **[Apply →](https://job-boards.greenhouse.io/impact/jobs/8465838002)**<br><sub>job-boards.greenhouse.io</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Twitch | Software Engineer I - Payments | San Francisco, CA | 2027 | not available | 2026-09-27 | **[Apply →](https://job-boards.greenhouse.io/twitch/jobs/8700578002)**<br><sub>job-boards.greenhouse.io</sub> |
 | Verkada | Backend Engineer - Connectivity | San Mateo, CA | 2027 | not available | 2026-09-27 | **[Apply →](https://job-boards.greenhouse.io/verkada/jobs/5194598007)**<br><sub>job-boards.greenhouse.io</sub> |
 | WHOOP | Software Engineer I - Backend | Boston, MA | 2027 | not available | 2026-09-27 | **[Apply →](https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133)**<br><sub>jobs.ashbyhq.com</sub> |
-| Fidelity Investments | January 2027 - Leap Software Engineer | Westlake, TX +2 | 2027 | not available | 2026-09-26 | **[Apply →](https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Westlake-TX/January-2027---Leap-Software-Engineer_2133859)**<br><sub>fmr.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

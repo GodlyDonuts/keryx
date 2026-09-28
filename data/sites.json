@@ -609,7 +609,7 @@
       "company": "Tennessee Valley Authority",
       "error": "public request failed for https://www.tva.com/: HTTP Error 403: Forbidden",
       "key": "047caff15764e0d014a0901c",
-      "last_scanned": "2026-09-05",
+      "last_scanned": "2026-09-28",
       "url": "https://www.tva.com/"
     },
     {
@@ -4911,7 +4911,7 @@
       "boards": [],
       "company": "Valley Bank",
       "key": "20f9700124084f13e3855904",
-      "last_scanned": "2026-09-07",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://www.valley.com/"
     },
@@ -4927,7 +4927,7 @@
       "boards": [],
       "company": "Chick-fil-A Corporate Support Center",
       "key": "211e2e6b02adf958b6855443",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://www.chick-fil-a.com/"
     },
@@ -5306,7 +5306,7 @@
       "boards": [],
       "company": "Haag, a Salas O'Brien Company",
       "key": "2437fe01654c63c1c4f21dc6",
-      "last_scanned": "2026-09-11",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://haagglobal.com/"
     },
@@ -7533,7 +7533,7 @@
       "boards": [],
       "company": "Tive",
       "key": "3209a6a73f9f1850c44c0caf",
-      "last_scanned": "2026-09-14",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://tive.com/"
     },
@@ -9830,7 +9830,7 @@
       "boards": [],
       "company": "Modine Manufacturing Company",
       "key": "41ec669ff5550a4f4e5df2ad",
-      "last_scanned": "2026-09-07",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://www.modine.com/"
     },
@@ -9838,7 +9838,7 @@
       "boards": [],
       "company": "Mobile Communications America",
       "key": "41fe5438e1f42738dd2d18bf",
-      "last_scanned": "2026-09-06",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://callmc.com/"
     },
@@ -10251,7 +10251,7 @@
       "boards": [],
       "company": "Chick-fil-A Supply",
       "key": "44ab91292edd5f86ddeebc73",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://www.cfa-supply.com/"
     },
@@ -11000,7 +11000,7 @@
       "boards": [],
       "company": "Trimont",
       "key": "494947b777f5d3344d97c53c",
-      "last_scanned": "2026-09-16",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://trimont.com/"
     },
@@ -11986,7 +11986,7 @@
       "boards": [],
       "company": "Yale University",
       "key": "4fbd27a32cf56b37dcc9de5a",
-      "last_scanned": "2026-09-09",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://www.yale.edu/"
     },
@@ -12460,7 +12460,7 @@
       ],
       "company": "NXP Semiconductors",
       "key": "5323d5458a13464cff5b26b8",
-      "last_scanned": "2026-09-18",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://www.nxp.com/"
     },
@@ -12789,7 +12789,7 @@
       "boards": [],
       "company": "1KOMMA5\u00b0",
       "key": "5522b921845a2ea6745f62a7",
-      "last_scanned": "2026-09-17",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://1komma5.com/"
     },
@@ -13769,7 +13769,7 @@
       "boards": [],
       "company": "Terracon",
       "key": "5af3c8198ff247f4aecbce65",
-      "last_scanned": "2026-09-16",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://www.terracon.com/about/foundation/"
     },
@@ -17100,7 +17100,7 @@
       "boards": [],
       "company": "HII",
       "key": "708207a7ad150028e6d26520",
-      "last_scanned": "2026-09-08",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://hii.com/"
     },
@@ -18628,7 +18628,7 @@
       "boards": [],
       "company": "Roush",
       "key": "7a428a546d801b94f1f54d3b",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://www.roush.com/"
     },
@@ -19695,9 +19695,8 @@
         "workday:dairynet.wd1.myworkdayjobs.com:dairynet:dpccareers"
       ],
       "company": "Dairyland Power Cooperative",
-      "error": "public request failed for https://dairylandpower.com/: <urlopen error timed out>",
       "key": "81cd98c4fccb4069a31dcb60",
-      "last_scanned": "2026-09-23",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://dairylandpower.com/"
     },
@@ -20891,8 +20890,16 @@
       "company": "Pieper Automation",
       "error": "public request failed for https://pieperautomation.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
       "key": "89a995193f2d157a3787655f",
-      "last_scanned": "2026-09-19",
+      "last_scanned": "2026-09-28",
       "url": "https://pieperautomation.com/"
+    },
+    {
+      "boards": [],
+      "company": "AJM Packaging Corporation",
+      "key": "89bbce4fd0ada65c5a3fe026",
+      "last_scanned": "2026-09-28",
+      "resolved_roles": 0,
+      "url": "https://www.ajmpack.com/"
     },
     {
       "company": "UAB Medicine",
@@ -23397,6 +23404,14 @@
       "last_scanned": "2026-08-24",
       "resolved_roles": 0,
       "url": "https://www.dallascounty.org/"
+    },
+    {
+      "boards": [],
+      "company": "Bay Center Foods",
+      "key": "9b27b821d3fa387af88d32f2",
+      "last_scanned": "2026-09-28",
+      "resolved_roles": 0,
+      "url": "https://www.baycenterfoods.com/"
     },
     {
       "boards": [],
@@ -29554,7 +29569,7 @@
       "company": "ATI",
       "error": "public request failed for https://www.forging.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.forging.com'. (_ssl.c:1000)>",
       "key": "c3559a99e82f78782720f9d5",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-09-28",
       "url": "https://www.forging.com/"
     },
     {
@@ -29589,7 +29604,7 @@
       ],
       "company": "Giga",
       "key": "c3937850f71b32334961872a",
-      "last_scanned": "2026-09-06",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://giga.ai/"
     },
@@ -29876,7 +29891,7 @@
       "boards": [],
       "company": "RTP Company",
       "key": "c548dc26b337b587196bf7d4",
-      "last_scanned": "2026-08-31",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://rtpcompany.com/"
     },
@@ -31449,7 +31464,7 @@
       ],
       "company": "Beacon Mobility",
       "key": "cf1dfcaaa28096397c7df1dd",
-      "last_scanned": "2026-08-20",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://gobeacon.com/"
     },
@@ -32195,9 +32210,19 @@
       ],
       "company": "PIMCO",
       "key": "d3244cb16286341f11d732a1",
-      "last_scanned": "2026-09-21",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://www.pimco.com/"
+    },
+    {
+      "boards": [
+        "greenhouse:lusternational"
+      ],
+      "company": "Luster National",
+      "key": "d3360a794e25fc9033f092af",
+      "last_scanned": "2026-09-28",
+      "resolved_roles": 0,
+      "url": "https://luster.com/"
     },
     {
       "boards": [],
@@ -33421,7 +33446,7 @@
       ],
       "company": "CLEAR",
       "key": "db4df2c2afb3ec8c85fd8f14",
-      "last_scanned": "2026-09-14",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://www.clearme.com/"
     },
@@ -33490,7 +33515,7 @@
       "company": "DigiKey",
       "error": "public request failed for https://www.digikey.ca/: HTTP Error 403: Forbidden",
       "key": "dba4272324a5b83e12887497",
-      "last_scanned": "2026-09-27",
+      "last_scanned": "2026-09-28",
       "url": "https://www.digikey.ca/"
     },
     {
@@ -34403,7 +34428,7 @@
       "company": "General Dynamics Electric Boat",
       "error": "public request failed for https://www.gdeb.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
       "key": "e1f3afd126424c0ba926147f",
-      "last_scanned": "2026-09-21",
+      "last_scanned": "2026-09-28",
       "url": "https://www.gdeb.com/"
     },
     {
@@ -36534,7 +36559,7 @@
       "boards": [],
       "company": "SmithGroup",
       "key": "eefd89c54300a0b55d1734f2",
-      "last_scanned": "2026-09-16",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://www.smithgroup.com/"
     },
@@ -38152,7 +38177,7 @@
       "company": "Salas O'Brien",
       "error": "public request failed for https://salasobrien.com/about/: HTTP Error 404: Not Found",
       "key": "f9afbd9082e566faa78a1b13",
-      "last_scanned": "2026-09-23",
+      "last_scanned": "2026-09-28",
       "url": "https://www.salasobrien.com/about/"
     },
     {
@@ -39022,7 +39047,7 @@
       "boards": [],
       "company": "GALLO",
       "key": "ff56fb717d1c856eaaf11df0",
-      "last_scanned": "2026-09-19",
+      "last_scanned": "2026-09-28",
       "resolved_roles": 0,
       "url": "https://www.gallocareers.com/"
     },
