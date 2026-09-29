@@ -10157,6 +10157,15 @@
     },
     {
       "ats": "workday",
+      "company": "Amynta Group",
+      "host": "amynta.wd5.myworkdayjobs.com",
+      "key": "workday:amynta.wd5.myworkdayjobs.com:amynta:global",
+      "site": "global",
+      "slug": "amynta",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Analog Devices",
       "host": "analogdevices.wd1.myworkdayjobs.com",
       "key": "workday:analogdevices.wd1.myworkdayjobs.com:analogdevices:external",
@@ -13718,6 +13727,15 @@
       "site": "careers",
       "slug": "group1001wd",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Haleon",
+      "host": "gsknch.wd3.myworkdayjobs.com",
+      "key": "workday:gsknch.wd3.myworkdayjobs.com:gsknch:gskcareers",
+      "site": "GSKCareers",
+      "slug": "gsknch",
+      "wd": "wd3"
     },
     {
       "ats": "workday",
