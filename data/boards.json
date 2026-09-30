@@ -356,6 +356,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Clay",
+      "key": "ashby:claylabs",
+      "slug": "claylabs"
+    },
+    {
+      "ats": "ashby",
       "company": "Clera",
       "key": "ashby:clera",
       "slug": "clera"
@@ -911,6 +917,12 @@
       "company": "Garuda Ventures",
       "key": "ashby:honey%20homes",
       "slug": "Honey%20Homes"
+    },
+    {
+      "ats": "ashby",
+      "company": "Hook",
+      "key": "ashby:hookmusic",
+      "slug": "hookmusic"
     },
     {
       "ats": "ashby",
@@ -3690,6 +3702,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "GenScript",
+      "key": "greenhouse:genscript",
+      "slug": "genscript"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Gensyn",
       "key": "greenhouse:gensyn",
       "slug": "gensyn"
@@ -3825,6 +3843,12 @@
       "company": "The Blue Venture Fund",
       "key": "greenhouse:heartflowinc",
       "slug": "heartflowinc"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "HELLBENDER",
+      "key": "greenhouse:hellbenderinc",
+      "slug": "hellbenderinc"
     },
     {
       "ats": "greenhouse",
@@ -6081,6 +6105,12 @@
       "company": "Palantir",
       "key": "lever:palantir",
       "slug": "palantir"
+    },
+    {
+      "ats": "lever",
+      "company": "Patch My PC",
+      "key": "lever:patchmypc",
+      "slug": "patchmypc"
     },
     {
       "ats": "lever",
@@ -9342,7 +9372,7 @@
     },
     {
       "ats": "workable",
-      "company": "Pony.ai",
+      "company": "pony.ai",
       "key": "workable:pony-dot-ai",
       "slug": "pony-dot-ai"
     },
@@ -9387,6 +9417,12 @@
       "company": "Rentvision",
       "key": "workable:rentvision",
       "slug": "rentvision"
+    },
+    {
+      "ats": "workable",
+      "company": "RHONDOS",
+      "key": "workable:rhondos-inc",
+      "slug": "rhondos-inc"
     },
     {
       "ats": "workable",
@@ -12606,6 +12642,15 @@
     },
     {
       "ats": "workday",
+      "company": "Dow Chemical Company",
+      "host": "dow.wd1.myworkdayjobs.com",
+      "key": "workday:dow.wd1.myworkdayjobs.com:dow:externalcareers",
+      "site": "ExternalCareers",
+      "slug": "dow",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Dow Jones",
       "host": "dowjones.wd1.myworkdayjobs.com",
       "key": "workday:dowjones.wd1.myworkdayjobs.com:dowjones:dow_jones_career",
@@ -15090,7 +15135,7 @@
     },
     {
       "ats": "workday",
-      "company": "Life Fitness / Hammer Strength",
+      "company": "Life Fitness",
       "host": "lifefitness.wd1.myworkdayjobs.com",
       "key": "workday:lifefitness.wd1.myworkdayjobs.com:lifefitness:searchlfn",
       "site": "searchLFN",
@@ -15879,6 +15924,15 @@
       "site": "wtexternal",
       "slug": "mtb",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "MUFG",
+      "host": "mufgub.wd3.myworkdayjobs.com",
+      "key": "workday:mufgub.wd3.myworkdayjobs.com:mufgub:mufg-careers",
+      "site": "mufg-careers",
+      "slug": "mufgub",
+      "wd": "wd3"
     },
     {
       "ats": "workday",
