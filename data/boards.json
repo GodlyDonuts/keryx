@@ -170,6 +170,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Aurelian",
+      "key": "ashby:aurelian",
+      "slug": "aurelian"
+    },
+    {
+      "ats": "ashby",
       "company": "BAGS",
       "key": "ashby:bagsfm",
       "slug": "bagsfm"
@@ -1247,6 +1253,12 @@
       "company": "Monogram",
       "key": "ashby:monogram",
       "slug": "monogram"
+    },
+    {
+      "ats": "ashby",
+      "company": "Morse Micro",
+      "key": "ashby:morse-micro",
+      "slug": "morse-micro"
     },
     {
       "ats": "ashby",
@@ -7840,10 +7852,26 @@
     },
     {
       "ats": "oracle",
+      "company": "Carboline",
+      "host": "hcwx.fa.us2.oraclecloud.com",
+      "key": "oracle:hcwx.fa.us2.oraclecloud.com:cx_12",
+      "site": "CX_12",
+      "slug": "hcwx"
+    },
+    {
+      "ats": "oracle",
       "company": "Rust-Oleum Corporation",
       "host": "hcwx.fa.us2.oraclecloud.com",
       "key": "oracle:hcwx.fa.us2.oraclecloud.com:cx_15",
       "site": "CX_15",
+      "slug": "hcwx"
+    },
+    {
+      "ats": "oracle",
+      "company": "Tremco CPG Inc.",
+      "host": "hcwx.fa.us2.oraclecloud.com",
+      "key": "oracle:hcwx.fa.us2.oraclecloud.com:cx_6",
+      "site": "CX_6",
       "slug": "hcwx"
     },
     {
@@ -13184,7 +13212,7 @@
     },
     {
       "ats": "workday",
-      "company": "Fidelity National Information Services",
+      "company": "FIS",
       "host": "fis.wd5.myworkdayjobs.com",
       "key": "workday:fis.wd5.myworkdayjobs.com:fis:searchjobs",
       "site": "searchjobs",
@@ -15224,6 +15252,15 @@
       "site": "LITE",
       "slug": "lumentum",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Las Vegas Valley Water District",
+      "host": "lvvwd.wd1.myworkdayjobs.com",
+      "key": "workday:lvvwd.wd1.myworkdayjobs.com:lvvwd:lvvwdwaterjobs",
+      "site": "LVVWDWaterJobs",
+      "slug": "lvvwd",
+      "wd": "wd1"
     },
     {
       "ats": "workday",

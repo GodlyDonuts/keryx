@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**8,642 internships · 4,489 new-grad roles · 13,131 total openings**
+**8,731 internships · 4,513 new-grad roles · 13,244 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,112 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 438 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 593 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 159 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,340 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,125 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 435 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 603 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 164 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,404 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,052 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 920 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,517 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,062 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 927 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,524 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| AMCA | Software Engineer Intern | El Segundo, CA | Summer 2027 | Current student status<br><sub>required</sub> | 2026-09-30 | **[Apply →](https://job-boards.greenhouse.io/amca/jobs/4425120009)**<br><sub>job-boards.greenhouse.io</sub> |
+| Graphcore | Digital Twin Engineering Intern | Austin, Texas, United States | Not listed | Current student status<br><sub>stated</sub> | 2026-09-30 | **[Apply →](https://job-boards.greenhouse.io/graphcore/jobs/8857640002)**<br><sub>job-boards.greenhouse.io</sub> |
+| Graphcore | Knowledge Management and Training Project Intern | Austin, Texas, United States | Not listed | Current student status<br><sub>stated</sub> | 2026-09-30 | **[Apply →](https://job-boards.greenhouse.io/graphcore/jobs/8857642002)**<br><sub>job-boards.greenhouse.io</sub> |
+| IKO North America | Engineering Co-Op / Intern | Chester, SC | Not listed | not available | 2026-09-30 | **[Apply →](https://iko.wd3.myworkdayjobs.com/IKO_Careers/job/Chester-SC/Student-Coop-Engineering-2_REQ-13819)**<br><sub>iko.wd3.myworkdayjobs.com</sub> |
+| Nokia | Optical System Engineer Co-Op | United States | Not listed | not stated | 2026-09-30 | **[Apply →](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40648)**<br><sub>fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
+| Northrop Grumman | Embedded Software Engineer Intern | Rolling Meadows, IL | Summer 2027 | not available | 2026-09-30 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
 | Northrop Grumman | Hardware Electronics Engineer Intern | Rolling Meadows, IL | Summer 2027 | not available | 2026-09-30 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Electronics-Engineer-Intern---Rolling-Meadows-IL_R10252779-1)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
+| Northrop Grumman | Software Digital Intern | Rolling Meadows, IL | Summer 2027 | not available | 2026-09-30 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
+| Raytheon | Software Engineer Intern - Summer 2027 | Annapolis, MD | Summer 2027 | not available | 2026-09-30 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineer-Intern--Summer-2027-_01873556)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
+| Red Hat | Software Engineer Intern | Raleigh, NC +2 | Not listed | not available | 2026-09-30 | **[Apply →](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Raleigh/Software-Engineer-Intern_R-059038)**<br><sub>redhat.wd5.myworkdayjobs.com</sub> |
 | Tesla | Embedded Software Developer Intern - Vehicle Suspension | Palo Alto, CA | Spring 2027 | not available | 2026-09-30 | **[Apply →](https://www.tesla.com/careers/search/job/285153)**<br><sub>www.tesla.com</sub> |
 | Tesla | Embedded Software Engineer Intern - Silicon Development | Palo Alto, CA | Spring 2027 | not available | 2026-09-30 | **[Apply →](https://www.tesla.com/careers/search/job/285084)**<br><sub>www.tesla.com</sub> |
-| Tesla | Software Developer Intern - Integration Tools | Palo Alto, CA | Spring 2027 | not available | 2026-09-30 | **[Apply →](https://www.tesla.com/careers/search/job/284924)**<br><sub>www.tesla.com</sub> |
-| Aalo Atomics | Summer 2027 Mechanical Engineering Internship - Idaho Falls, ID | Idaho Falls, ID, United States | Summer 2027 | not available | 2026-09-29 | **[Apply →](https://ats.rippling.com/aalo-atomics/jobs/638c7936-836b-499c-a3eb-30a0dd871ec6)**<br><sub>ats.rippling.com</sub> |
-| Acron Aviation | Production Planning Intern - Grand Rapids Site | Grand Rapids, MI | Not listed | Current student status<br><sub>required</sub> | 2026-09-29 | **[Apply →](https://jobs.lever.co/acronaviation/284a8d3b-8b83-4049-9464-60e91beee3fe)**<br><sub>jobs.lever.co</sub> |
-| Acuity | Finance AI Engineering Intern | Atlanta, GA | Summer 2027 | not available | 2026-09-29 | **[Apply →](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Engineering-Intern-Onsite-GA-30309/1434878900/?ats=successfactors)**<br><sub>careers.acuityinc.com</sub> |
-| Acuity | Finance AI Product Management Intern | Atlanta, GA | Summer 2027 | not available | 2026-09-29 | **[Apply →](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors)**<br><sub>careers.acuityinc.com</sub> |
-| Acuity | Product Management Technology Intern | Conyers, GA | Summer 2027 | not available | 2026-09-29 | **[Apply →](https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors)**<br><sub>careers.acuityinc.com</sub> |
-| AMCA | Engineering Internship, Supply Chain (Summer 2027) | El Segundo, CA | Summer 2027 | Current student status<br><sub>required</sub> | 2026-09-29 | **[Apply →](https://job-boards.greenhouse.io/amca/jobs/4425344009)**<br><sub>job-boards.greenhouse.io</sub> |
-| AMCA | Growth Internship (Summer 2027) | El Segundo, CA | Summer 2027 | not stated | 2026-09-29 | **[Apply →](https://job-boards.greenhouse.io/amca/jobs/4425052009)**<br><sub>job-boards.greenhouse.io</sub> |
-| AMCA | Production Operations Internship (Summer 2027) | El Segundo, CA | Summer 2027 | not stated | 2026-09-29 | **[Apply →](https://job-boards.greenhouse.io/amca/jobs/4425218009)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| General Dynamics Mission Systems | Software Engineer | Middletown, RI | Not listed | not available | 2026-09-30 | **[Apply →](https://careers-gdms.icims.com/jobs/75205/job?mobile=true&needsRedirect=false)**<br><sub>careers-gdms.icims.com</sub> |
+| Morgan Stanley | Associate - Software Engineer | New York City, NY | 2027 | not available | 2026-09-30 | **[Apply →](https://ms.wd5.myworkdayjobs.com/en-US/external/job/New-York-New-York-United-States-of-America/Associate--Software-Engineer_JR031776)**<br><sub>ms.wd5.myworkdayjobs.com</sub> |
+| Northrop Grumman | Associate Embedded Software Engineer | Rolling Meadows, IL | Not listed | not available | 2026-09-30 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Embedded-Software-Engineer_R10252185)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
+| Northrop Grumman | Associate Hardware Electronics Engineer | Rolling Meadows, IL | Not listed | not available | 2026-09-30 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Hardware-Electronics-Engineer---Rolling-Meadows-IL_R10252183)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
+| Positron | ASIC Design Engineer | Canada, Remote in USA | Not listed | not available | 2026-09-30 | **[Apply →](https://ats.rippling.com/positron/jobs/4238837d-83e8-4bab-996e-0702fecb4337)**<br><sub>ats.rippling.com</sub> |
+| Positron | ASIC Physical Design Engineer | Canada, Remote in USA | Not listed | not available | 2026-09-30 | **[Apply →](https://ats.rippling.com/positron/jobs/6ae9b265-03e8-41b7-95fd-8310e324c571)**<br><sub>ats.rippling.com</sub> |
+| TikTok | Software Development Engineer Graduate - TikTok - Testing - Growth - 2027 Start | San Jose, CA | 2027 | not available | 2026-09-30 | **[Apply →](https://lifeattiktok.com/search/7669957922422507781)**<br><sub>lifeattiktok.com</sub> |
+| Trusted Concepts, Inc. | Junior Software Developer | Aurora, CO, United States | 2026 | not available | 2026-09-30 | **[Apply →](https://twosixtech.com/job/?gh_jid=5838068004)**<br><sub>twosixtech.com</sub> |
 | AIG | Data Office: Business Intelligence Analyst | Jersey City, NJ, NYC, Atlanta, GA | Not listed | not available | 2026-09-29 | **[Apply →](https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Data-Office--Business-Intelligence---United-States--Multiple-Cities_JR2604219-1)**<br><sub>aig.wd1.myworkdayjobs.com</sub> |
 | AIG | Data Office: Business Intelligence Analyst | Jersey City, NJ, NYC, Atlanta, GA | Not listed | not available | 2026-09-29 | **[Apply →](https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Data-Office--Business-Intelligence---United-States--Multiple-Cities_JR2604219)**<br><sub>aig.wd1.myworkdayjobs.com</sub> |
 | Analog Devices | Engineer – Reliability Engineering | Wilmington, MA | Not listed | not available | 2026-09-29 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Engineer--Reliability-Engineering_R266604)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Applied Materials | Physicist/Scientist: FEP chamber Optics engineer | Santa Clara, CA | Not listed | not available | 2026-09-29 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Physicist-Scientist--FEP-chamber-Optics-engineer--E3-_R2628769)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
-| Applied Materials | System Engineer New Grad - Material Characterization | Santa Clara, CA | Not listed | not available | 2026-09-29 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-System-Engineer--Material-Characterization--PhD---Santa-Clara--CA-_R2629147)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
-| Applied Systems | Associate Software Engineer / Software Engineer | Chicago, IL +2 | 2027 | not available | 2026-09-29 | **[Apply →](https://careers-appliedsystems.icims.com/jobs/7318/associate-software-engineer---software-engineer/job)**<br><sub>careers-appliedsystems.icims.com</sub> |
-| ASSA ABLOY | Associate Software Engineer | Phoenix, AZ, New Haven, CT | Not listed | not available | 2026-09-29 | **[Apply →](https://assaabloy.jobs2web.com/job/Phoenix-Associate-Software-Engineer-AZ-85044/1442458033/?ats=successfactors)**<br><sub>assaabloy.jobs2web.com</sub> |
-| Boeing | Associate Software Engineer | Hazelwood, MO | 2027 | not available | 2026-09-29 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026511462-1)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
-| Broadcom | Test Engineer - Ate | San Jose, CA | Not listed | not available | 2026-09-29 | **[Apply →](https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA-San-Jose-Innovation-Drive/Test-Engineer--ATE-_R027196-1)**<br><sub>broadcom.wd1.myworkdayjobs.com</sub> |
-| Capgemini | Associate Data Engineer | Philadelphia, PA, Reading, PA | Not listed | not available | 2026-09-29 | **[Apply →](https://careers.capgemini.com/job/Pittsburg-Associate-Data-Engineer-AR/1442511233/?ats=successfactors)**<br><sub>careers.capgemini.com</sub> |
-| ConocoPhillips | Graduate Analyst - Trading Analytics 2027 | Houston, TX | 2027 | not available | 2026-09-29 | **[Apply →](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Graduate-Analyst--Trading-Analytics-2027_REQ-006637)**<br><sub>conocophillips.wd1.myworkdayjobs.com</sub> |
-| Dallas Fort Worth International Airport | Associate Application Developer | United States | Not listed | not available | 2026-09-29 | **[Apply →](https://dfwairport.wd5.myworkdayjobs.com/External/job/Airport-Headquarters/Associate-Application-Developer_JR102118)**<br><sub>dfwairport.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
