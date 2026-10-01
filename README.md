@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**8,855 internships · 4,535 new-grad roles · 13,390 total openings**
+**8,822 internships · 4,508 new-grad roles · 13,330 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,189 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 439 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 604 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 165 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,458 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,180 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 434 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 622 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 168 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,418 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,047 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 940 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,548 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,044 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 903 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,561 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Rivian | Engineer Intern Co-op - Design-for-Test | Palo Alto, CA | Spring 2027 | not available | 2026-10-01 | **[Apply →](https://careers.rivian.com/jobs/33810?icims=1)**<br><sub>careers.rivian.com</sub> |
+| Rivian | Engineer Intern Co-op - ML Compilers | Palo Alto, CA | Spring 2027 | not available | 2026-10-01 | **[Apply →](https://careers.rivian.com/jobs/33829?icims=1)**<br><sub>careers.rivian.com</sub> |
+| Rivian | Software Engineer Intern Co-op - Applied AI | Palo Alto, CA | Spring 2027 | not available | 2026-10-01 | **[Apply →](https://careers.rivian.com/jobs/33984?icims=1)**<br><sub>careers.rivian.com</sub> |
+| Tesla | Commercial UI Software Engineer Intern | Palo Alto, CA | Spring 2027 | not available | 2026-10-01 | **[Apply →](https://www.tesla.com/careers/search/job/285202)**<br><sub>www.tesla.com</sub> |
+| Tesla | Data Engineer Intern - Data Engineer - Applications Engineering | Fremont, CA | Spring 2027 | not available | 2026-10-01 | **[Apply →](https://www.tesla.com/careers/search/job/285179)**<br><sub>www.tesla.com</sub> |
+| Tesla | Data Engineer Intern - Data Engineering & Business Intelligence | Fremont, CA | Spring 2027 | not available | 2026-10-01 | **[Apply →](https://www.tesla.com/careers/search/job/285291)**<br><sub>www.tesla.com</sub> |
 | Abbott | Artificial Intelligence and Machine Learning Co-op - Clinical Affairs - AI/ML | St Paul, MN | Winter 2027 | not available | 2026-09-30 | **[Apply →](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---St-Paul/XMLNAME-2027-Winter-PhD-Co-op---Clinical-Affairs-AI-ML_31163025)**<br><sub>abbott.wd5.myworkdayjobs.com</sub> |
 | AECOM | Internship and Entry-Level Graduate Opportunities - ASCE Civil Engineering Career Fair | Philadelphia, PA, us | Not listed | not available | 2026-09-30 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000152725869)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AECOM | Internship and Entry-Level Graduate Opportunities - Fall 2026 SU Engineering & Computer Science, iSchool, and Architecture Career Fair | Syracuse, NY, United States (Hybrid) | Fall 2026 | not available | 2026-09-30 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000152725659)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AECOM | Internship and Entry-Level Graduate Opportunities - The NC State Engineering Career Fair – Fall 2026 | Raleigh, NC, us | Fall 2026 | not available | 2026-09-30 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000152723356)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Allen Control Systems | Software Engineering Intern, UX/UI 2027 | Austin, TX | Summer 2027 | not available | 2026-09-30 | **[Apply →](https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94)**<br><sub>jobs.ashbyhq.com</sub> |
-| Amazon | Software Development Engineer Intern, AWS Database - 2027 (US) | Seattle, Washington, USA | Summer 2027 | not available | 2026-09-30 | **[Apply →](https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us)**<br><sub>www.amazon.jobs</sub> |
-| Assurant | Software Engineer Intern | Miami, FL, Chicago, IL, Atlanta, GA | Summer 2027 | not available | 2026-09-30 | **[Apply →](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727)**<br><sub>assurant.wd1.myworkdayjobs.com</sub> |
-| Base Power | Electrical Engineering Intern | Austin, TX | Not listed | not stated | 2026-09-30 | **[Apply →](https://jobs.ashbyhq.com/base-power/7284737d-7e04-43e0-af1f-858103f64e97)**<br><sub>jobs.ashbyhq.com</sub> |
-| Base Power | Hardware Reliability & Test Engineering Intern | Austin, TX | Not listed | not stated | 2026-09-30 | **[Apply →](https://jobs.ashbyhq.com/base-power/fbb553e1-5fb8-49a1-b5a5-9c7dde6b4406)**<br><sub>jobs.ashbyhq.com</sub> |
-| Base Power | Mechanical Engineering Intern | Austin, TX | Not listed | not stated | 2026-09-30 | **[Apply →](https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f)**<br><sub>jobs.ashbyhq.com</sub> |
-| Bosch | Commercial Project Management & AI Innovation Intern | Plymouth, MI, us | Not listed | not available | 2026-09-30 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000152706359)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Bosch | Data Analytics Intern - Engineering & SAP Operations | Lincolnshire, IL, us | Not listed | not available | 2026-09-30 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000152737589)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Allegion | Summer Intern - Software Engineering - Quality Assurance | Golden, CO | Not listed | not available | 2026-09-30 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
+| Allen Control Systems | Software Engineering Intern, UX/UI 2027 | Austin, TX | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-09-30 | **[Apply →](https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,6 +58,9 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Amazon | Cloud Hardware Development Engineer 1 – Early Career | Austin, TX, Cupertino, CA | Not listed | not available | 2026-10-01 | **[Apply →](https://amazon.jobs/en/jobs/10558923/cloud-hardware-development-engineer-i-annapurna-labs-early-career-2027)**<br><sub>amazon.jobs</sub> |
+| ByteDance | Software Engineer Graduate | San Jose, CA | Not listed | not available | 2026-10-01 | **[Apply →](https://jobs.bytedance.com/en/position/7689561253011097909/detail)**<br><sub>jobs.bytedance.com</sub> |
+| Texas Sports Academy | Junior AI Software Engineer | Austin, TX | Not listed | not available | 2026-10-01 | **[Apply →](https://apply.workable.com/texas-sports-academy-main/j/A9A9F4A25A/apply)**<br><sub>apply.workable.com</sub> |
 | AECOM | Entry-Level Engineer - Water - Hiring Event with AECOM – Boston, MA | Chelmsford, MA, us | Not listed | not available | 2026-09-30 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000152727409)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AECOM | Entry-Level Engineer - Water - Hiring Event with AECOM – Boston, MA | Boston, MA, us | Not listed | not available | 2026-09-30 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000152726810)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AECOM | Entry-Level Project Controls Analyst - Networking Event with AECOM – New York | New York, NY, us | Not listed | not available | 2026-09-30 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000152662839)**<br><sub>jobs.smartrecruiters.com</sub> |
@@ -67,9 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Anduril | Electrical Engineer - Weapon Systems | Costa Mesa, CA | Not listed | not available | 2026-09-30 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5253515007)**<br><sub>boards.greenhouse.io</sub> |
 | Atlas Energy Solutions | AI Developer | Austin, TX | Not listed | not available | 2026-09-30 | **[Apply →](https://job-boards.greenhouse.io/atlassand/jobs/8858449002)**<br><sub>job-boards.greenhouse.io</sub> |
 | Atlassian | Data Scientist Graduate | Seattle, WA | Not listed | not available | 2026-09-30 | **[Apply →](https://campus-americas.icims.com/jobs/26000/data-scientist%2c-2027-graduate-u.s./job)**<br><sub>campus-americas.icims.com</sub> |
-| Cala Health | Software Test Engineer | Remote - USA | 2027 | not available | 2026-09-30 | **[Apply →](https://job-boards.greenhouse.io/calahealth/jobs/6199439004)**<br><sub>job-boards.greenhouse.io</sub> |
-| Capital Group | Capital Group Rotational Program - Data & Tech Track Associate | LA | Not listed | not available | 2026-09-30 | **[Apply →](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Los-Angeles/CAMPUS--Capital-Group-Rotational-Program---Data---Tech-Track-Associate---US---Los-Angeles_JR7424-1)**<br><sub>capgroup.wd1.myworkdayjobs.com</sub> |
-| Capital Group | Capital Group Rotational Program Associate - Data & Tech Track | Charlotte, NC | Not listed | not available | 2026-09-30 | **[Apply →](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Charlotte/CAMPUS--Capital-Group-Rotational-Program---Data---Tech-Track-Associate---US---Charlotte_JR7430-1)**<br><sub>capgroup.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

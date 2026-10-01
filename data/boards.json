@@ -9372,7 +9372,7 @@
     },
     {
       "ats": "workable",
-      "company": "pony.ai",
+      "company": "Pony.ai",
       "key": "workable:pony-dot-ai",
       "slug": "pony-dot-ai"
     },
@@ -10523,6 +10523,15 @@
       "key": "workday:associatedbank.wd1.myworkdayjobs.com:associatedbank:external_careers",
       "site": "external_careers",
       "slug": "associatedbank",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Assurant",
+      "host": "assurant.wd1.myworkdayjobs.com",
+      "key": "workday:assurant.wd1.myworkdayjobs.com:assurant:assurant_careers",
+      "site": "Assurant_Careers",
+      "slug": "assurant",
       "wd": "wd1"
     },
     {
@@ -19506,6 +19515,15 @@
       "site": "veleracareers",
       "slug": "velera",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Videojet Technologies",
+      "host": "veralto.wd1.myworkdayjobs.com",
+      "key": "workday:veralto.wd1.myworkdayjobs.com:veralto:videojetjobs",
+      "site": "VideojetJobs",
+      "slug": "veralto",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
