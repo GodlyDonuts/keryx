@@ -1970,6 +1970,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Teleskope",
+      "key": "ashby:teleskope",
+      "slug": "teleskope"
+    },
+    {
+      "ats": "ashby",
       "company": "TELUS Digital",
       "key": "ashby:telus-digital",
       "slug": "telus-digital"
@@ -3289,6 +3295,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Datacor",
+      "key": "greenhouse:datacor",
+      "slug": "datacor"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Datadog",
       "key": "greenhouse:datadog",
       "slug": "datadog"
@@ -3691,6 +3703,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Gas South",
+      "key": "greenhouse:gassouth",
+      "slug": "gassouth"
+    },
+    {
+      "ats": "greenhouse",
       "company": "GCM Grosvenor",
       "key": "greenhouse:gcmgrosvenor",
       "slug": "gcmgrosvenor"
@@ -3754,6 +3772,12 @@
       "company": "GITAI",
       "key": "greenhouse:gitai",
       "slug": "gitai"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Glean",
+      "key": "greenhouse:gleanwork",
+      "slug": "gleanwork"
     },
     {
       "ats": "greenhouse",
@@ -4567,6 +4591,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Pinterest",
+      "key": "greenhouse:pinterest",
+      "slug": "pinterest"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Pipe17",
       "key": "greenhouse:pipe17",
       "slug": "pipe17"
@@ -4750,6 +4780,12 @@
       "company": "Ridgeline",
       "key": "greenhouse:ridgeline",
       "slug": "ridgeline"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Riot Games",
+      "key": "greenhouse:riotgamesup",
+      "slug": "riotgamesup"
     },
     {
       "ats": "greenhouse",
@@ -7959,6 +7995,14 @@
     },
     {
       "ats": "oracle",
+      "company": "URUS Group",
+      "host": "hdjm.fa.ca2.oraclecloud.com",
+      "key": "oracle:hdjm.fa.ca2.oraclecloud.com:cx_5",
+      "site": "CX_5",
+      "slug": "hdjm"
+    },
+    {
+      "ats": "oracle",
       "company": "Emerson Electric",
       "host": "hdjq.fa.us2.oraclecloud.com",
       "key": "oracle:hdjq.fa.us2.oraclecloud.com:cx_1",
@@ -9319,6 +9363,12 @@
     },
     {
       "ats": "workable",
+      "company": "Mindex",
+      "key": "workable:mindex",
+      "slug": "mindex"
+    },
+    {
+      "ats": "workable",
       "company": "Multi Media, LLC",
       "key": "workable:multimediallc",
       "slug": "multimediallc"
@@ -10596,6 +10646,15 @@
       "key": "workday:asuep.wd5.myworkdayjobs.com:asuep:asuep",
       "site": "ASUEP",
       "slug": "asuep",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "ATC",
+      "host": "atcllc.wd5.myworkdayjobs.com",
+      "key": "workday:atcllc.wd5.myworkdayjobs.com:atcllc:atcllc",
+      "site": "atcllc",
+      "slug": "atcllc",
       "wd": "wd5"
     },
     {
@@ -16729,6 +16788,15 @@
     },
     {
       "ats": "workday",
+      "company": "Parexel",
+      "host": "parexel.wd1.myworkdayjobs.com",
+      "key": "workday:parexel.wd1.myworkdayjobs.com:parexel:parexel_external_careers",
+      "site": "parexel_external_careers",
+      "slug": "parexel",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Public Consulting Group",
       "host": "pcg.wd1.myworkdayjobs.com",
       "key": "workday:pcg.wd1.myworkdayjobs.com:pcg:pcg_external_careers",
@@ -16963,6 +17031,15 @@
     },
     {
       "ats": "workday",
+      "company": "PPL",
+      "host": "ppluk.wd3.myworkdayjobs.com",
+      "key": "workday:ppluk.wd3.myworkdayjobs.com:ppluk:ppl_external_careers",
+      "site": "PPL_External_Careers",
+      "slug": "ppluk",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
       "company": "Premera",
       "host": "premera.wd5.myworkdayjobs.com",
       "key": "workday:premera.wd5.myworkdayjobs.com:premera:premera",
@@ -17093,6 +17170,15 @@
       "host": "pwc.wd3.myworkdayjobs.com",
       "key": "workday:pwc.wd3.myworkdayjobs.com:pwc:us_entry_level_careers",
       "site": "US_Entry_Level_Careers",
+      "slug": "pwc",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "PwC",
+      "host": "pwc.wd3.myworkdayjobs.com",
+      "key": "workday:pwc.wd3.myworkdayjobs.com:pwc:us_experienced_careers",
+      "site": "us_experienced_careers",
       "slug": "pwc",
       "wd": "wd3"
     },
