@@ -7315,6 +7315,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Waste Management",
+      "host": "emcm.fa.us2.oraclecloud.com",
+      "key": "oracle:emcm.fa.us2.oraclecloud.com:wmcareers",
+      "site": "WMCareers",
+      "slug": "emcm"
+    },
+    {
+      "ats": "oracle",
       "company": "Architecture49 Inc.",
       "host": "emit.fa.ca3.oraclecloud.com",
       "key": "oracle:emit.fa.ca3.oraclecloud.com:cx_1004",
@@ -9441,7 +9449,7 @@
     },
     {
       "ats": "workable",
-      "company": "pony.ai",
+      "company": "Pony.ai",
       "key": "workable:pony-dot-ai",
       "slug": "pony-dot-ai"
     },
@@ -9890,6 +9898,15 @@
       "key": "workday:acs.wd5.myworkdayjobs.com:acs:acscan",
       "site": "ACSCAN",
       "slug": "acs",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Acuity International",
+      "host": "acuityinternational.wd5.myworkdayjobs.com",
+      "key": "workday:acuityinternational.wd5.myworkdayjobs.com:acuityinternational:external",
+      "site": "external",
+      "slug": "acuityinternational",
       "wd": "wd5"
     },
     {
@@ -14556,7 +14573,7 @@
     },
     {
       "ats": "workday",
-      "company": "Intermountain Health",
+      "company": "Intermountain Healthcare",
       "host": "imh.wd108.myworkdayjobs.com",
       "key": "workday:imh.wd108.myworkdayjobs.com:imh:intermountaincareers",
       "site": "IntermountainCareers",
@@ -16007,6 +16024,15 @@
       "ats": "workday",
       "company": "M&T Bank",
       "host": "mtb.wd5.myworkdayjobs.com",
+      "key": "workday:mtb.wd5.myworkdayjobs.com:mtb:campus",
+      "site": "Campus",
+      "slug": "mtb",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "M&T Bank",
+      "host": "mtb.wd5.myworkdayjobs.com",
       "key": "workday:mtb.wd5.myworkdayjobs.com:mtb:mtb",
       "site": "mtb",
       "slug": "mtb",
@@ -17072,6 +17098,15 @@
       "key": "workday:priceline.wd1.myworkdayjobs.com:priceline:priceline-collegehiring",
       "site": "priceline-collegehiring",
       "slug": "priceline",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Primient",
+      "host": "primient.wd1.myworkdayjobs.com",
+      "key": "workday:primient.wd1.myworkdayjobs.com:primient:external_careers",
+      "site": "External_Careers",
+      "slug": "primient",
       "wd": "wd1"
     },
     {
@@ -18296,6 +18331,15 @@
       "key": "workday:stbancorp.wd5.myworkdayjobs.com:stbancorp:st_bank_careers",
       "site": "ST_Bank_Careers",
       "slug": "stbancorp",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Major League Baseball",
+      "host": "sterlingmets.wd5.myworkdayjobs.com",
+      "key": "workday:sterlingmets.wd5.myworkdayjobs.com:sterlingmets:mets",
+      "site": "Mets",
+      "slug": "sterlingmets",
       "wd": "wd5"
     },
     {
