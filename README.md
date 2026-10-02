@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,035 internships · 4,598 new-grad roles · 13,633 total openings**
+**8,993 internships · 4,595 new-grad roles · 13,588 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,318 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 431 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 632 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 172 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,482 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,313 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 428 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 629 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 164 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,459 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,062 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 991 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,545 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,057 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 985 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,553 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,9 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Arlington County VA | PS Information Technology Intern | Arlington, VA, United States | Not listed | Expected 2026 graduation<br><sub>stated / required</sub> | 2026-10-02 | **[Apply →](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1825)**<br><sub>fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
+| Muon Space | Electrical Engineer Intern | San Jose, CA | Summer 2027 | not available | 2026-10-02 | **[Apply →](https://job-boards.greenhouse.io/muonspace/jobs/5255112007)**<br><sub>job-boards.greenhouse.io</sub> |
+| Waymo | AI-driven ML Performance Engineering Intern - MS/PhD | Mountain View, CA | Summer 2027 | not available | 2026-10-02 | **[Apply →](https://careers.withwaymo.com/jobs?gh_jid=8248060)**<br><sub>careers.withwaymo.com</sub> |
 | AECOM | Engineering Intern - Hydraulics - Hiring Event with AECOM – Raleigh | Raleigh, NC, us | Not listed | not available | 2026-10-01 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000152820560)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AECOM | Engineering Intern - Transit/Rail - Hiring Event with AECOM - Philadelphia | Newark, DE, us | Not listed | not available | 2026-10-01 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000152811128)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AECOM | Engineering Intern - Transit/Rail - Hiring Event with AECOM - Philadelphia | Conshohocken, PA, us | Not listed | not available | 2026-10-01 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000152810869)**<br><sub>jobs.smartrecruiters.com</sub> |
@@ -46,9 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | AMCA | Electrical Engineering Internship (Winter Spring 2027) | El Segundo, CA | Spring 2027 | Expected Fall 2027 graduation<br><sub>required</sub> | 2026-10-01 | **[Apply →](https://job-boards.greenhouse.io/amca/jobs/4429132009)**<br><sub>job-boards.greenhouse.io</sub> |
 | ATC | Intern - Cyber Security Summer 2027 | Pewaukee, WI | Summer 2027 | not available | 2026-10-01 | **[Apply →](https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern---Cyber-Security-Summer-2027_R0003307)**<br><sub>atcllc.wd5.myworkdayjobs.com</sub> |
 | Bedrock Robotics | 2027 Internship Product Intern | San Francisco, CA | Not listed | Current student status<br><sub>required</sub> | 2026-10-01 | **[Apply →](https://jobs.ashbyhq.com/bedrock-robotics/e199e72a-0361-40dc-8fd3-e02e534af85a)**<br><sub>jobs.ashbyhq.com</sub> |
-| Bee Sweet Citrus, Inc. | Data Processing Intern | Fowler, California, United States | Not listed | not available | 2026-10-01 | **[Apply →](https://beesweetcitrus.applytojob.com/apply/MMbyNj6r3a/Data-Processing-Intern)**<br><sub>beesweetcitrus.applytojob.com</sub> |
-| BGE, Inc | AUSTIN - Electrical Engineer-Power Systems, Internship | 2595 Dallas Pkwy., Suite 101, Frisco, Texas 75034 | Not listed | not stated | 2026-10-01 | **[Apply →](https://job-boards.greenhouse.io/bgeinc/jobs/5441465008)**<br><sub>job-boards.greenhouse.io</sub> |
-| BNY | 2027 BNY Summer Internship Program - Product Management (Lake Mary, FL) | Lake Mary, FL, United States | Summer 2027 | Dec 2027–May 2028<br><sub>stated</sub> | 2026-10-01 | **[Apply →](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784)**<br><sub>eofe.fa.us2.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -67,9 +67,9 @@ Recent full-time opportunities that open the employer's application page directl
 | Apple | Signal and Power Integrity Engineer - Signal Integrity/Power Integrity | Cupertino, CA | Not listed | not available | 2026-10-01 | **[Apply →](https://jobs.apple.com/en-us/details/200686584)**<br><sub>jobs.apple.com</sub> |
 | Applied Systems | Associate Software Engineer / Software Engineer | Chicago, IL +2 | 2027 | not available | 2026-10-01 | **[Apply →](https://careers-appliedsystems.icims.com/jobs/7318/associate-software-engineer---software-engineer/job)**<br><sub>careers-appliedsystems.icims.com</sub> |
 | Barry-Wehmiller | Entry Level Software Engineer | Raleigh, NC | Not listed | not available | 2026-10-01 | **[Apply →](https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Raleigh-NC/Entry-Level-Software-Engineer---RDU-3_R022993)**<br><sub>barrywehmiller.wd1.myworkdayjobs.com</sub> |
-| Bot Auto | Planning & Control Engineer, Early Career | Houston, TX | Not listed | not stated | 2026-10-01 | **[Apply →](https://job-boards.greenhouse.io/botauto/jobs/5441694008)**<br><sub>job-boards.greenhouse.io</sub> |
+| Bot Auto | Planning & Control Engineer – Early Career | Houston, TX | Not listed | not stated | 2026-10-01 | **[Apply →](https://job-boards.greenhouse.io/botauto/jobs/5441694008)**<br><sub>job-boards.greenhouse.io</sub> |
 | ByteDance | Software Engineer Graduate | San Jose, CA | Not listed | not available | 2026-10-01 | **[Apply →](https://jobs.bytedance.com/en/position/7689561253011097909/detail)**<br><sub>jobs.bytedance.com</sub> |
-| CoStar Group | Associate Software Engineer | Sunnyvale, CA | Not listed | not available | 2026-10-01 | **[Apply →](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942)**<br><sub>costar.wd1.myworkdayjobs.com</sub> |
+| Cincinnati Children’s Hospital and Medical Center | Software Engineer 1 - Web Services | Cincinnati, OH | Not listed | not available | 2026-10-01 | **[Apply →](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Software-Engineer-I---Web-Services_JR225073)**<br><sub>cincinnatichildrens.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
