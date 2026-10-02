@@ -610,7 +610,7 @@
       "company": "Black & Veatch",
       "error": "public request failed for https://www.bv.com/en-US/Home: HTTP Error 404: Not Found",
       "key": "045274256e4fdb25278f972a",
-      "last_scanned": "2026-10-01",
+      "last_scanned": "2026-10-02",
       "url": "https://bv.com/Home"
     },
     {
@@ -1663,7 +1663,7 @@
       "boards": [],
       "company": "Formlabs",
       "key": "0b314073423010fdb11b4680",
-      "last_scanned": "2026-09-17",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.formlabs.com/"
     },
@@ -4181,7 +4181,7 @@
       "company": "Newmark",
       "error": "public request failed for https://www.nmrk.com/: HTTP Error 403: Forbidden",
       "key": "1b011c8b047666af764d2d0f",
-      "last_scanned": "2026-09-11",
+      "last_scanned": "2026-10-02",
       "url": "https://www.nmrk.com/"
     },
     {
@@ -5021,7 +5021,7 @@
       "company": "Epiroc",
       "error": "public request failed for https://www.epirocgroup.com/en: HTTP Error 403: Forbidden",
       "key": "1fa27651d14b7d8e5316dfe2",
-      "last_scanned": "2026-09-15",
+      "last_scanned": "2026-10-02",
       "url": "https://www.epirocgroup.com/en"
     },
     {
@@ -5477,7 +5477,7 @@
       "boards": [],
       "company": "SK hynix memory solutions America Inc.",
       "key": "23106d7b700037cc4e8a559a",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.skhms.com/"
     },
@@ -5814,7 +5814,7 @@
       "boards": [],
       "company": "American Modern Insurance Group",
       "key": "2581785fac86602d3ab5cad3",
-      "last_scanned": "2026-09-11",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.amig.com/"
     },
@@ -5920,6 +5920,14 @@
       "last_scanned": "2026-09-23",
       "resolved_roles": 0,
       "url": "https://www.flatironcorp.com/"
+    },
+    {
+      "boards": [],
+      "company": "Switch and Click",
+      "key": "26ba2a587de9dad0cf963953",
+      "last_scanned": "2026-10-02",
+      "resolved_roles": 0,
+      "url": "https://www.youtube.com/@SwitchandClickOfficial"
     },
     {
       "boards": [],
@@ -6086,7 +6094,7 @@
       ],
       "company": "John Gore Organization",
       "key": "27e2a19e4c7dcd718cd5e2fd",
-      "last_scanned": "2026-09-18",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.johngore.com/"
     },
@@ -6861,7 +6869,7 @@
       ],
       "company": "Dana-Farber Cancer Institute",
       "key": "2cc0bcb543fac2aaeef8b84c",
-      "last_scanned": "2026-09-18",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.dana-farber.org/"
     },
@@ -11041,8 +11049,9 @@
     {
       "boards": [],
       "company": "Costa Farms",
+      "error": "public request failed for https://www.costafarms.com/: HTTP Error 429: Too Many Requests",
       "key": "45435f9396a1a1b96ced35d3",
-      "last_scanned": "2026-09-11",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.costafarms.com/"
     },
@@ -11115,6 +11124,14 @@
       "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://corporate.wyndhamhotels.com/"
+    },
+    {
+      "boards": [],
+      "company": "4G Clinical",
+      "key": "45ca927b800d61928659cb89",
+      "last_scanned": "2026-10-02",
+      "resolved_roles": 0,
+      "url": "https://4gclinical.com/"
     },
     {
       "company": "MJH Life Sciences\u00ae",
@@ -11895,7 +11912,7 @@
       "boards": [],
       "company": "Plymouth Rock Assurance",
       "key": "4add85b3fa88487b36017948",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.plymouthrock.com/"
     },
@@ -14248,7 +14265,7 @@
       ],
       "company": "Great American Insurance Group",
       "key": "581ed692013316f210349c3c",
-      "last_scanned": "2026-09-17",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.greatamericaninsurancegroup.com/"
     },
@@ -15258,7 +15275,7 @@
       "boards": [],
       "company": "Elevate",
       "key": "5e1121893a116368d163fa02",
-      "last_scanned": "2026-09-11",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://elevate.com/"
     },
@@ -15989,6 +16006,16 @@
       "last_scanned": "2026-09-30",
       "resolved_roles": 0,
       "url": "https://www.gehealthcare.com/"
+    },
+    {
+      "boards": [
+        "workday:thomsonreuters.wd5.myworkdayjobs.com:thomsonreuters:external_career_site"
+      ],
+      "company": "Thomson Reuters",
+      "key": "62dc16cbdbe08bfa1b2f003b",
+      "last_scanned": "2026-10-02",
+      "resolved_roles": 0,
+      "url": "https://thomsonreuters.com/"
     },
     {
       "company": "E15 Group",
@@ -16774,6 +16801,16 @@
     },
     {
       "boards": [
+        "workday:sanford.wd5.myworkdayjobs.com:sanford:sanfordhealth"
+      ],
+      "company": "Sanford Health",
+      "key": "677d0b8bdd9e6a2cd2c64f56",
+      "last_scanned": "2026-10-02",
+      "resolved_roles": 0,
+      "url": "https://www.sanfordhealth.org/locations/sanford-childrens-hospital-fargo"
+    },
+    {
+      "boards": [
         "workday:njm.wd1.myworkdayjobs.com:njm:njm"
       ],
       "company": "NJM Insurance Group",
@@ -16892,7 +16929,7 @@
       "boards": [],
       "company": "MS Transverse",
       "key": "6834eb269a19842c4f163c37",
-      "last_scanned": "2026-09-11",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://transverseinsurance.com/"
     },
@@ -17029,7 +17066,7 @@
       ],
       "company": "Magna International",
       "key": "68fac9ab696490d168347de6",
-      "last_scanned": "2026-09-21",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.magna.com/"
     },
@@ -17206,7 +17243,7 @@
       ],
       "company": "Envita Solutions",
       "key": "6a54c8e26bec2624905ea568",
-      "last_scanned": "2026-09-11",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.envitainc.com/"
     },
@@ -17214,7 +17251,7 @@
       "boards": [],
       "company": "ENFRA",
       "key": "6a570ad1e896bf904fb7eaf5",
-      "last_scanned": "2026-09-09",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://enfrasolutions.com/"
     },
@@ -17296,7 +17333,7 @@
       "company": "KAYAK",
       "error": "Invalid IPv6 URL",
       "key": "6aaf571413e3013f3f9e423a",
-      "last_scanned": "2026-09-08",
+      "last_scanned": "2026-10-02",
       "url": "https://www.kayak.com/"
     },
     {
@@ -18485,7 +18522,7 @@
       "company": "Northern Trust",
       "error": "public request failed for https://www.northerntrust.com/: The read operation timed out",
       "key": "729a6714ac01ab49a6f558cd",
-      "last_scanned": "2026-09-24",
+      "last_scanned": "2026-10-02",
       "url": "https://www.northerntrust.com/"
     },
     {
@@ -22567,7 +22604,7 @@
       "boards": [],
       "company": "Toshiba International Corporation",
       "key": "8ba2361b6a903986b0e6a74a",
-      "last_scanned": "2026-09-08",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.toshiba.com/tic"
     },
@@ -23447,7 +23484,7 @@
       "company": "WhiteOptics LLC",
       "error": "public hostname did not resolve: www.whiteoptics.com",
       "key": "90e110efeb8b69eaa349ccb9",
-      "last_scanned": "2026-10-01",
+      "last_scanned": "2026-10-02",
       "url": "https://www.whiteoptics.com/"
     },
     {
@@ -23713,6 +23750,16 @@
       "url": "https://mdt.mt.gov/"
     },
     {
+      "boards": [
+        "greenhouse:impact"
+      ],
+      "company": "impact.com",
+      "key": "92d8b2ba931ea3ad830598d6",
+      "last_scanned": "2026-10-02",
+      "resolved_roles": 0,
+      "url": "https://www.impactradius.com/"
+    },
+    {
       "company": "Geo Solutions",
       "error": "public request failed for https://www.geosolutions.be/: <urlopen error timed out>",
       "key": "92da1e8d10fa27c3868e7918",
@@ -23796,7 +23843,7 @@
       "company": "City of New York",
       "error": "public request failed for https://www.nyc.gov:443/: HTTP Error 403: Forbidden",
       "key": "933f905d11093fc22ee903e2",
-      "last_scanned": "2026-09-24",
+      "last_scanned": "2026-10-02",
       "url": "https://www1.nyc.gov/"
     },
     {
@@ -26917,7 +26964,7 @@
       "company": "Institute for Defense Analyses",
       "error": "public request failed for https://www.ida.org/: HTTP Error 404: Not Found",
       "key": "a6fbf0a10e23c24a42800923",
-      "last_scanned": "2026-10-01",
+      "last_scanned": "2026-10-02",
       "url": "https://www.ida.org/"
     },
     {
@@ -27103,7 +27150,7 @@
       ],
       "company": "Clark Construction Group",
       "key": "a85cf60f266f5c8ed11e1346",
-      "last_scanned": "2026-09-03",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.clarkconstruction.com/"
     },
@@ -27463,7 +27510,7 @@
       "boards": [],
       "company": "Docusign",
       "key": "aa4c2dac5f5675f68d037eb9",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.docusign.com/"
     },
@@ -28098,7 +28145,7 @@
       ],
       "company": "Covestro",
       "key": "ae82ae5fa04fb8e33eaf1627",
-      "last_scanned": "2026-09-23",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.covestro.com/"
     },
@@ -28816,7 +28863,7 @@
       ],
       "company": "Farmers Mutual Hail Insurance",
       "key": "b36cc8d360b3b4d2fd962a56",
-      "last_scanned": "2026-09-16",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.fmh.com/"
     },
@@ -28826,7 +28873,7 @@
       ],
       "company": "Swarm Aero",
       "key": "b371afc4610a636c29c795ed",
-      "last_scanned": "2026-09-09",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.swarm.aero/"
     },
@@ -31724,7 +31771,7 @@
       "boards": [],
       "company": "Quanta Services, Inc.",
       "key": "c55af0520adffdaa097961fb",
-      "last_scanned": "2026-09-10",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.quantaservices.com/"
     },
@@ -31999,7 +32046,7 @@
       "boards": [],
       "company": "Copart",
       "key": "c76d8411f13fcb0c35c7815e",
-      "last_scanned": "2026-09-23",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.copart.com/"
     },
@@ -32051,6 +32098,14 @@
       "last_scanned": "2026-09-17",
       "resolved_roles": 0,
       "url": "https://www.smith-nephew.com/en"
+    },
+    {
+      "boards": [],
+      "company": "Sanborn, Head & Associates, Inc.",
+      "key": "c7be4251f74637c3c972dac8",
+      "last_scanned": "2026-10-02",
+      "resolved_roles": 0,
+      "url": "https://www.sanbornhead.com/"
     },
     {
       "boards": [],
@@ -32845,7 +32900,7 @@
       "boards": [],
       "company": "RS&H",
       "key": "cc0b1739f4660242937c89a8",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.rsandh.com/"
     },
@@ -33196,7 +33251,7 @@
       "company": "WSP in the U.S.",
       "error": "public request failed for https://www.wsp.com/en-us: HTTP Error 403: Forbidden",
       "key": "ce26e2f6b0157eb94cc09fde",
-      "last_scanned": "2026-10-01",
+      "last_scanned": "2026-10-02",
       "url": "https://www.wsp.com/en-us"
     },
     {
@@ -33526,7 +33581,7 @@
       "boards": [],
       "company": "Vanguard",
       "key": "d0234b82d8505ae312e49b95",
-      "last_scanned": "2026-09-17",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://investor.vanguard.com/corporate-portal"
     },
@@ -33972,7 +34027,7 @@
       ],
       "company": "Confido",
       "key": "d219a06dde5059c720253756",
-      "last_scanned": "2026-09-18",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.confidotech.com/"
     },
@@ -35006,6 +35061,14 @@
     },
     {
       "boards": [],
+      "company": "Brevan Howard",
+      "key": "d7e5a5fe02c7a08553505561",
+      "last_scanned": "2026-10-02",
+      "resolved_roles": 0,
+      "url": "https://www.brevanhoward.com/"
+    },
+    {
+      "boards": [],
       "company": "Merakey",
       "key": "d7ed64d4b87366815c5e6222",
       "last_scanned": "2026-08-17",
@@ -35123,7 +35186,7 @@
       ],
       "company": "Vishay Intertechnology, Inc.",
       "key": "d899154181580109b94e60e3",
-      "last_scanned": "2026-09-07",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.vishay.com/"
     },
@@ -36232,7 +36295,7 @@
       "boards": [],
       "company": "Tyler Technologies",
       "key": "dfef6dacf8f9a2430506eb86",
-      "last_scanned": "2026-09-23",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.tylertech.com/"
     },
@@ -36516,7 +36579,7 @@
       "company": "Hearst Television",
       "error": "public request failed for https://www.hearsttelevision.com/: <urlopen error [Errno 111] Connection refused>",
       "key": "e1c09e5e0635ef7a738d4986",
-      "last_scanned": "2026-09-11",
+      "last_scanned": "2026-10-02",
       "url": "https://www.hearsttelevision.com/"
     },
     {
@@ -37943,7 +38006,7 @@
       "boards": [],
       "company": "Cleveland-Cliffs",
       "key": "ea49486e48e4a0f270b8da00",
-      "last_scanned": "2026-09-11",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.clevelandcliffs.com/"
     },
@@ -39829,6 +39892,14 @@
       "url": "https://www.prophet.security/"
     },
     {
+      "boards": [],
+      "company": "Regeneron",
+      "key": "f5248115915ebc763ecaea81",
+      "last_scanned": "2026-10-02",
+      "resolved_roles": 0,
+      "url": "https://www.regeneron.com/"
+    },
+    {
       "company": "Ericsson",
       "error": "public request failed for https://www.ericsson.com/en: HTTP Error 403: Forbidden",
       "key": "f53ce3ad208b14b94c9e584f",
@@ -40522,7 +40593,7 @@
       ],
       "company": "ePlus inc.",
       "key": "f9cbaac975c9ad67c9dcaf2e",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.eplus.com/"
     },
@@ -41060,7 +41131,7 @@
       "boards": [],
       "company": "Hill's Pet Nutrition",
       "key": "fd266ba5606d1d2f9896bfda",
-      "last_scanned": "2026-09-23",
+      "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://www.hillspet.com/"
     },

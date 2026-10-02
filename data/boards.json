@@ -3817,7 +3817,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "Graphcore Early Careers",
+      "company": "Graphcore",
       "key": "greenhouse:graphcore-early-careers",
       "slug": "graphcore-early-careers"
     },
@@ -9788,6 +9788,15 @@
     },
     {
       "ats": "workday",
+      "company": "American Bankers Association",
+      "host": "aba.wd1.myworkdayjobs.com",
+      "key": "workday:aba.wd1.myworkdayjobs.com:aba:aba",
+      "site": "aba",
+      "slug": "aba",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "ABB",
       "host": "abb.wd3.myworkdayjobs.com",
       "key": "workday:abb.wd3.myworkdayjobs.com:abb:external_career_page",
@@ -10739,6 +10748,15 @@
       "site": "uni",
       "slug": "autodesk",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Automation Anywhere",
+      "host": "automationanywhere.wd5.myworkdayjobs.com",
+      "key": "workday:automationanywhere.wd5.myworkdayjobs.com:automationanywhere:automationanywherejobs",
+      "site": "automationanywherejobs",
+      "slug": "automationanywhere",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
@@ -17060,7 +17078,7 @@
     },
     {
       "ats": "workday",
-      "company": "Power Design, Inc",
+      "company": "Power Design",
       "host": "powerdesigninc.wd5.myworkdayjobs.com",
       "key": "workday:powerdesigninc.wd5.myworkdayjobs.com:powerdesigninc:pdi",
       "site": "PDI",
@@ -17101,6 +17119,15 @@
       "key": "workday:premierinc.wd1.myworkdayjobs.com:premierinc:external_resume_drop",
       "site": "External_Resume_Drop",
       "slug": "premierinc",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Priceline",
+      "host": "priceline.wd1.myworkdayjobs.com",
+      "key": "workday:priceline.wd1.myworkdayjobs.com:priceline:priceline",
+      "site": "priceline",
+      "slug": "priceline",
       "wd": "wd1"
     },
     {
@@ -17389,6 +17416,15 @@
       "key": "workday:regalrexnord.wd1.myworkdayjobs.com:regalrexnord:careers",
       "site": "careers",
       "slug": "regalrexnord",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Regeneron Pharmaceuticals",
+      "host": "regeneron.wd1.myworkdayjobs.com",
+      "key": "workday:regeneron.wd1.myworkdayjobs.com:regeneron:careers",
+      "site": "Careers",
+      "slug": "regeneron",
       "wd": "wd1"
     },
     {
@@ -17786,6 +17822,15 @@
       "site": "sandvik-jobs",
       "slug": "sandvik",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Sanford Health",
+      "host": "sanford.wd5.myworkdayjobs.com",
+      "key": "workday:sanford.wd5.myworkdayjobs.com:sanford:sanfordhealth",
+      "site": "SanfordHealth",
+      "slug": "sanford",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
@@ -18209,6 +18254,15 @@
       "site": "external",
       "slug": "southstatebank",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Sony Pictures Entertainment",
+      "host": "spe.wd1.myworkdayjobs.com",
+      "key": "workday:spe.wd1.myworkdayjobs.com:spe:sonypicturesentertainment",
+      "site": "sonypicturesentertainment",
+      "slug": "spe",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
