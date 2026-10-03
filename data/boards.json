@@ -7925,6 +7925,14 @@
     },
     {
       "ats": "oracle",
+      "company": "The Manitowoc Company",
+      "host": "fda.fa.us1.oraclecloud.com",
+      "key": "oracle:fda.fa.us1.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "fda"
+    },
+    {
+      "ats": "oracle",
       "company": "American Bureau of Shipping",
       "host": "hbbq.fa.us2.oraclecloud.com",
       "key": "oracle:hbbq.fa.us2.oraclecloud.com:cx_1",
@@ -9302,6 +9310,12 @@
       "company": "DataVisor",
       "key": "workable:datavisor-jobs",
       "slug": "datavisor-jobs"
+    },
+    {
+      "ats": "workable",
+      "company": "DISA Technologies",
+      "key": "workable:disa-technologies",
+      "slug": "disa-technologies"
     },
     {
       "ats": "workable",

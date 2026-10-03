@@ -1392,6 +1392,16 @@
       "url": "https://www.michelin.com/"
     },
     {
+      "boards": [
+        "oracle:fda.fa.us1.oraclecloud.com:cx_1"
+      ],
+      "company": "The Manitowoc Company",
+      "key": "0918293095abd98ff6a2d29d",
+      "last_scanned": "2026-10-03",
+      "resolved_roles": 0,
+      "url": "https://www.manitowoc.com/"
+    },
+    {
       "boards": [],
       "company": "Brose Group",
       "key": "0920949ce4ed59f3c69cca34",
@@ -2532,7 +2542,7 @@
       "company": "S&P Global",
       "error": "public request failed for https://www.spglobal.com/: HTTP Error 403: Forbidden",
       "key": "10ab135f9d2743b41e66841d",
-      "last_scanned": "2026-10-01",
+      "last_scanned": "2026-10-03",
       "url": "https://www.spglobal.com/"
     },
     {
@@ -8887,7 +8897,7 @@
       "boards": [],
       "company": "Veeva Systems",
       "key": "37b7b29287c381b80194b894",
-      "last_scanned": "2026-09-22",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://www.veeva.com/"
     },
@@ -10033,7 +10043,7 @@
       "boards": [],
       "company": "Comagine Health",
       "key": "3e83f986fce25ba060ad2d72",
-      "last_scanned": "2026-09-15",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://comagine.org/"
     },
@@ -14824,7 +14834,7 @@
       "boards": [],
       "company": "Direct Supply",
       "key": "5aba04f8f4a7988d80b1f0d8",
-      "last_scanned": "2026-09-26",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://www.directsupply.com/"
     },
@@ -18092,7 +18102,7 @@
       "company": "DV Trading LLC",
       "error": "public request failed for https://www.dvtrading.co/: HTTP Error 526: <none>",
       "key": "6e1dbefdee0f362023608d2e",
-      "last_scanned": "2026-10-01",
+      "last_scanned": "2026-10-03",
       "url": "https://www.dvtrading.co/"
     },
     {
@@ -19240,7 +19250,7 @@
       "boards": [],
       "company": "Mass. Electric Construction Co.",
       "key": "75b09dbc739711c4b3b34c66",
-      "last_scanned": "2026-09-04",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://www.masselec.com/"
     },
@@ -20357,7 +20367,7 @@
       "boards": [],
       "company": "Alpha Omega",
       "key": "7bbe018bc3d34f9b6335ac67",
-      "last_scanned": "2026-09-12",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://www.alphaomegaintegration.com/"
     },
@@ -22476,7 +22486,7 @@
       ],
       "company": "Genesis Molecular AI",
       "key": "897e13900f34d41966e64bad",
-      "last_scanned": "2026-09-18",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://genesis.ml/"
     },
@@ -27195,7 +27205,7 @@
       "boards": [],
       "company": "Teledyne Brown Engineering",
       "key": "a6e8b9571cebb9657ae4bd38",
-      "last_scanned": "2026-09-17",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://www.tbe.com/"
     },
@@ -27943,6 +27953,14 @@
       "last_scanned": "2026-09-19",
       "resolved_roles": 1,
       "url": "https://deltagalil.com/"
+    },
+    {
+      "boards": [],
+      "company": "Specialty Equipment Market Association (SEMA)",
+      "key": "abc3c3d25d606d582424256a",
+      "last_scanned": "2026-10-03",
+      "resolved_roles": 0,
+      "url": "https://www.sema.org/"
     },
     {
       "boards": [],
@@ -34382,8 +34400,8 @@
       ],
       "company": "Ibotta",
       "key": "d2849be3c4572c42fedac614",
-      "last_scanned": "2026-09-12",
-      "resolved_roles": 1,
+      "last_scanned": "2026-10-03",
+      "resolved_roles": 0,
       "url": "https://home.ibotta.com/"
     },
     {
@@ -35259,7 +35277,7 @@
       ],
       "company": "Valmont Industries, Inc.",
       "key": "d75a9b9603dd17f3de1f8f22",
-      "last_scanned": "2026-09-11",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://www.valmont.com/"
     },
@@ -39106,7 +39124,7 @@
       ],
       "company": "National Laboratory of the Rockies",
       "key": "eecdeef7e74c59d1a34130f8",
-      "last_scanned": "2026-09-26",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://www.nlr.gov/"
     },
