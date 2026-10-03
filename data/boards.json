@@ -9509,7 +9509,7 @@
     },
     {
       "ats": "workable",
-      "company": "Pony.ai",
+      "company": "pony.ai",
       "key": "workable:pony-dot-ai",
       "slug": "pony-dot-ai"
     },
@@ -11018,6 +11018,15 @@
       "site": "ffb",
       "slug": "bankatfirst",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "First Bank & Trust",
+      "host": "bankeasy.wd5.myworkdayjobs.com",
+      "key": "workday:bankeasy.wd5.myworkdayjobs.com:bankeasy:bank-easy-job-openings",
+      "site": "bank-easy-job-openings",
+      "slug": "bankeasy",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
@@ -16460,7 +16469,7 @@
       "company": "NiSource",
       "host": "nisource.wd1.myworkdayjobs.com",
       "key": "workday:nisource.wd1.myworkdayjobs.com:nisource:nisource",
-      "site": "NiSource",
+      "site": "nisource",
       "slug": "nisource",
       "wd": "wd1"
     },
