@@ -270,6 +270,14 @@
     },
     {
       "boards": [],
+      "company": "Event Source",
+      "key": "021e26ca172a9abd3a0c9734",
+      "last_scanned": "2026-10-03",
+      "resolved_roles": 0,
+      "url": "https://www.eventsource.com/"
+    },
+    {
+      "boards": [],
       "company": "Gourmet Foods International",
       "key": "023d5b5755c507985e264ea5",
       "last_scanned": "2026-09-15",
@@ -497,7 +505,7 @@
       ],
       "company": "Elanco",
       "key": "03708c36c6c204119e614d43",
-      "last_scanned": "2026-09-22",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://www.elanco.com/"
     },
@@ -4275,7 +4283,7 @@
       "boards": [],
       "company": "Shimmick Corporation",
       "key": "1b33d72f2b350614a0ae139b",
-      "last_scanned": "2026-09-23",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://www.shimmick.com/"
     },
@@ -5083,7 +5091,7 @@
       "boards": [],
       "company": "Hitachi Rail",
       "key": "1fa818053c7d9d54711d40b6",
-      "last_scanned": "2026-09-16",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://www.hitachirail.com/"
     },
@@ -6132,7 +6140,7 @@
       "boards": [],
       "company": "Vermeer Corporation",
       "key": "27cf12f1f087e446088a0f16",
-      "last_scanned": "2026-09-21",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://borestore.com/"
     },
@@ -6963,7 +6971,7 @@
       "company": "Nokia",
       "error": "public request failed for https://www.nokia.com/: HTTP Error 403: Forbidden",
       "key": "2ced4544077d31a1eecf34ba",
-      "last_scanned": "2026-09-26",
+      "last_scanned": "2026-10-03",
       "url": "https://www.nokia.com/"
     },
     {
@@ -8209,7 +8217,7 @@
       "boards": [],
       "company": "Altec",
       "key": "331242566916125a9cc01086",
-      "last_scanned": "2026-09-21",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://www.altec.com/altec-capital/"
     },
@@ -10400,7 +10408,7 @@
       "boards": [],
       "company": "Corteva Agriscience",
       "key": "4088901361ca2ea454104b09",
-      "last_scanned": "2026-09-23",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://www.corteva.com/"
     },
@@ -11026,7 +11034,7 @@
       "boards": [],
       "company": "DC Army National Guard",
       "key": "446633faea3e617e9309d270",
-      "last_scanned": "2026-09-07",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://www.nationalguard.com/DC"
     },
@@ -12602,7 +12610,7 @@
       "boards": [],
       "company": "Johnson Financial Group",
       "key": "4de21b31f1306ff41f757d7e",
-      "last_scanned": "2026-09-11",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://www.johnsonfinancialgroup.com/"
     },
@@ -13227,7 +13235,7 @@
       ],
       "company": "Michael Baker International",
       "key": "513fa26f3276c61e32666112",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://mbakerintl.com/"
     },
@@ -18399,7 +18407,7 @@
       "company": "impact.com",
       "error": "public request failed for https://with-impact.com/: <urlopen error [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1000)>",
       "key": "704e13abe652a8593e2a8b3e",
-      "last_scanned": "2026-10-02",
+      "last_scanned": "2026-10-03",
       "url": "https://with-impact.com/"
     },
     {
@@ -20207,8 +20215,9 @@
     {
       "boards": [],
       "company": "Jacques Marie Mage",
+      "error": "public request failed for https://jacquesmariemage.com/: HTTP Error 429: Too Many Requests",
       "key": "7b2a3cd1d23e16c34e29f769",
-      "last_scanned": "2026-09-16",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://jacquesmariemage.com/"
     },
@@ -22571,7 +22580,7 @@
       ],
       "company": "Fragomen",
       "key": "8a1e4258e45557d033eac001",
-      "last_scanned": "2026-09-12",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://www.fragomen.com/"
     },
@@ -23195,7 +23204,7 @@
       "boards": [],
       "company": "Trace3",
       "key": "8d9e656bbb550941d095fff3",
-      "last_scanned": "2026-09-26",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://trace3.com/"
     },
@@ -23681,7 +23690,7 @@
       "boards": [],
       "company": "Watchfire",
       "key": "90d11a47f51c754532d40996",
-      "last_scanned": "2026-09-24",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://www.watchfiresigns.com/"
     },
@@ -24214,7 +24223,7 @@
       ],
       "company": "Live Nation Entertainment",
       "key": "943e1c49fdcf837a6a09d970",
-      "last_scanned": "2026-09-18",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://www.livenationentertainment.com/"
     },
@@ -25334,7 +25343,7 @@
       "company": "Acuity",
       "error": "public request failed for https://www.acuityinc.com/: HTTP Error 403: Forbidden",
       "key": "9c7468a20cc1bbf716d45121",
-      "last_scanned": "2026-10-01",
+      "last_scanned": "2026-10-03",
       "url": "https://www.acuityinc.com/"
     },
     {
@@ -26505,7 +26514,7 @@
       "company": "TreeHouse Foods",
       "error": "public request failed for https://www.treehousefoods.com/what-we-make/meal-solutions/default.aspx: HTTP Error 404: Not Found",
       "key": "a29136486367c7b5268afcd5",
-      "last_scanned": "2026-09-24",
+      "last_scanned": "2026-10-03",
       "url": "https://www.treehousefoods.com/what-we-make/meal-solutions/default.aspx"
     },
     {
@@ -26685,7 +26694,7 @@
       "company": "Eaton",
       "error": "public request failed for https://www.eaton.com/br/pt-br.html: The read operation timed out",
       "key": "a3e49c957b1002b4e1106faa",
-      "last_scanned": "2026-09-23",
+      "last_scanned": "2026-10-03",
       "url": "https://www.eaton.com/br/pt-br.html"
     },
     {
@@ -26702,7 +26711,7 @@
       "boards": [],
       "company": "PathAI",
       "key": "a3f9e381ae0a3c3eba799984",
-      "last_scanned": "2026-09-26",
+      "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://www.pathai.com/"
     },
@@ -32205,6 +32214,14 @@
     },
     {
       "boards": [],
+      "company": "STERIS",
+      "key": "c6bceb305408fc680eb8012a",
+      "last_scanned": "2026-10-03",
+      "resolved_roles": 0,
+      "url": "https://steris.com/"
+    },
+    {
+      "boards": [],
       "company": "Texas Instruments",
       "key": "c6d4cb77fac08ee830d58d69",
       "last_scanned": "2026-09-26",
@@ -33512,7 +33529,7 @@
       "company": "WSP in the U.S.",
       "error": "public request failed for https://www.wsp.com/en-us: HTTP Error 403: Forbidden",
       "key": "ce26e2f6b0157eb94cc09fde",
-      "last_scanned": "2026-10-02",
+      "last_scanned": "2026-10-03",
       "url": "https://www.wsp.com/en-us"
     },
     {
@@ -39063,7 +39080,7 @@
       "company": "Burns & McDonnell",
       "error": "Invalid IPv6 URL",
       "key": "eec8917d7550e69bd17e19be",
-      "last_scanned": "2026-09-29",
+      "last_scanned": "2026-10-03",
       "url": "https://www.burnsmcd.com/"
     },
     {

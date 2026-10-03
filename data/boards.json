@@ -4525,6 +4525,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "OppFi",
+      "key": "greenhouse:opploans",
+      "slug": "opploans"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Optiver",
       "key": "greenhouse:optiverprivate",
       "slug": "optiverprivate"
@@ -5152,6 +5158,12 @@
       "company": "Tenstorrent",
       "key": "greenhouse:tenstorrentuniversity",
       "slug": "tenstorrentuniversity"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "TerraClear",
+      "key": "greenhouse:terraclear",
+      "slug": "terraclear"
     },
     {
       "ats": "greenhouse",
@@ -18356,6 +18368,15 @@
     },
     {
       "ats": "workday",
+      "company": "SpartanNash",
+      "host": "spartannash.wd1.myworkdayjobs.com",
+      "key": "workday:spartannash.wd1.myworkdayjobs.com:spartannash:spartannash_careers",
+      "site": "spartannash_careers",
+      "slug": "spartannash",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Sony Pictures Entertainment",
       "host": "spe.wd1.myworkdayjobs.com",
       "key": "workday:spe.wd1.myworkdayjobs.com:spe:sonypicturesentertainment",
@@ -19055,6 +19076,15 @@
       "site": "TSI_Career",
       "slug": "tel",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Teladoc Health",
+      "host": "teladoc.wd503.myworkdayjobs.com",
+      "key": "workday:teladoc.wd503.myworkdayjobs.com:teladoc:teladochealth_is_hiring",
+      "site": "teladochealth_is_hiring",
+      "slug": "teladoc",
+      "wd": "wd503"
     },
     {
       "ats": "workday",
@@ -20604,6 +20634,15 @@
       "site": "ZelisCareers",
       "slug": "zelis",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Zelis",
+      "host": "zelis.wd115.myworkdayjobs.com",
+      "key": "workday:zelis.wd115.myworkdayjobs.com:zelis:zeliscareers",
+      "site": "zeliscareers",
+      "slug": "zelis",
+      "wd": "wd115"
     },
     {
       "ats": "workday",
