@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**8,989 internships · 4,533 new-grad roles · 13,522 total openings**
+**9,017 internships · 4,540 new-grad roles · 13,557 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,277 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 430 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 625 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 168 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,489 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,275 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 429 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 618 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 170 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,525 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,061 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 914 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,558 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,062 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 927 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,551 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,8 +38,10 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Adobe | 2027 Intern - Enterprise Architecture Analyst | New York | Not listed | not available | 2026-10-03 | **[Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2027-Intern---Enterprise-Architecture-Analyst_R171856)**<br><sub>adobe.wd5.myworkdayjobs.com</sub> |
+| AECOM | Roadway Engineering Intern - Networking Event with AECOM – Atlanta, GA | Atlanta, GA, us | Not listed | not available | 2026-10-03 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000153336639)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AMD | Masters Photonics Design Engineering Co-op | San Jose, CA | Summer 2027 | not available | 2026-10-03 | **[Apply →](https://careers.amd.com/jobs/91633?icims=1)**<br><sub>careers.amd.com</sub> |
 | Axos Bank | Business Analyst Intern | HQ - San Diego, CA | Not listed | not available | 2026-10-03 | **[Apply →](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Business-Analyst-Intern_JR5593)**<br><sub>axos.wd5.myworkdayjobs.com</sub> |
+| BRG | Chicago Office Health Analytics Practice Intern | Chicago, IL | Not listed | not available | 2026-10-03 | **[Apply →](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039)**<br><sub>thinkbrg.wd5.myworkdayjobs.com</sub> |
 | CesiumAstro | Electrical Engineering Intern - FPGA | El Segundo, CA | Summer 2027 | not available | 2026-10-03 | **[Apply →](https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply)**<br><sub>jobs.lever.co</sub> |
 | Direct Supply | Software Engineer Intern | Milwaukee, WI | Not listed | not available | 2026-10-03 | **[Apply →](https://directsupply.wd501.myworkdayjobs.com/en-US/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559)**<br><sub>directsupply.wd501.myworkdayjobs.com</sub> |
 | Elanco | Engineering Intern – Fort Dodge, Iowa (Summer 2027) | Fort Dodge, IA | Summer 2027 | not available | 2026-10-03 | **[Apply →](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/Engineering-Intern---Fort-Dodge--Iowa--Summer-2027-_R0027172)**<br><sub>elanco.wd5.myworkdayjobs.com</sub> |
@@ -47,8 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | Electronic Arts | Software Engineer Intern | Austin, TX | Summer 2027 | not available | 2026-10-03 | **[Apply →](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027/216239)**<br><sub>jobs.ea.com</sub> |
 | First Citizens BancShares | Summer Intern - Sales Performance & Analytics Strategy | Raleigh, NC | Summer 2027 | not available | 2026-10-03 | **[Apply →](https://firstcitizens.jibeapply.com/jobs/35826?icims=1)**<br><sub>firstcitizens.jibeapply.com</sub> |
 | Koch Industries | Product Management Intern | Eden Prairie, MN, Lisle, IL | Summer 2027 | not available | 2026-10-03 | **[Apply →](https://koch.avature.net/en_US/careers/JobDetail/195099)**<br><sub>koch.avature.net</sub> |
-| RTX | Certification Engineer Co-Op (Winter/Spring 2027)(Onsite) | US-NC-WINSTON SALEM-190 ~ 190 Oak Plaza Blvd ~ BLDG 190 | Spring 2027 | not available | 2026-10-03 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-WINSTON-SALEM-190--190-Oak-Plaza-Blvd--BLDG-190/Certification-Engineer-Co-Op--Winter-Spring-2027--Onsite-_01871317-1)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
-| RTX | Systems Engineering Co-Op (2027 Summer/Fall) – SOA CAAS Mainline Platform (Onsite) | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182 | Summer 2027 | not available | 2026-10-03 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineering-Co-Op--2027-Summer-Fall----SOA-CAAS-Mainline-Platform--Onsite-_01879934)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
