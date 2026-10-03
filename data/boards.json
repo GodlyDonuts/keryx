@@ -2605,6 +2605,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Affirm",
+      "key": "greenhouse:affirm",
+      "slug": "affirm"
+    },
+    {
+      "ats": "greenhouse",
       "company": "AffirmedRx",
       "key": "greenhouse:affirmedrxpbc",
       "slug": "affirmedrxpbc"
@@ -2740,6 +2746,12 @@
       "company": "Aquatic Capital Management",
       "key": "greenhouse:aquaticcapitalmanagement",
       "slug": "aquaticcapitalmanagement"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Arc",
+      "key": "greenhouse:arcboatcompany",
+      "slug": "arcboatcompany"
     },
     {
       "ats": "greenhouse",
@@ -4273,6 +4285,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "MasterControl",
+      "key": "greenhouse:mastercontrol",
+      "slug": "mastercontrol"
+    },
+    {
+      "ats": "greenhouse",
       "company": "MatX",
       "key": "greenhouse:matx",
       "slug": "matx"
@@ -5788,6 +5806,12 @@
       "company": "Coalfire",
       "key": "lever:coalfire",
       "slug": "coalfire"
+    },
+    {
+      "ats": "lever",
+      "company": "Colibri Group",
+      "key": "lever:colibrigroup",
+      "slug": "colibrigroup"
     },
     {
       "ats": "lever",
@@ -9143,6 +9167,12 @@
     },
     {
       "ats": "workable",
+      "company": "DISA Uranium",
+      "key": "workable:api",
+      "slug": "api"
+    },
+    {
+      "ats": "workable",
       "company": "Arch Aerial",
       "key": "workable:arch-aerial-llc",
       "slug": "arch-aerial-llc"
@@ -9563,6 +9593,12 @@
     },
     {
       "ats": "workable",
+      "company": "Scout Clean Energy",
+      "key": "workable:scout-clean-energy",
+      "slug": "scout-clean-energy"
+    },
+    {
+      "ats": "workable",
       "company": "Security Risk Advisors",
       "key": "workable:securityriskadvisors",
       "slug": "securityriskadvisors"
@@ -9977,6 +10013,15 @@
       "site": "adtran",
       "slug": "adtran",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "AdventHealth Colorado",
+      "host": "adventhealth.wd12.myworkdayjobs.com",
+      "key": "workday:adventhealth.wd12.myworkdayjobs.com:adventhealth:ah_external_career_site",
+      "site": "AH_External_Career_Site",
+      "slug": "adventhealth",
+      "wd": "wd12"
     },
     {
       "ats": "workday",
@@ -11096,6 +11141,15 @@
     },
     {
       "ats": "workday",
+      "company": "Bexar County Information Technology",
+      "host": "bexar.wd12.myworkdayjobs.com",
+      "key": "workday:bexar.wd12.myworkdayjobs.com:bexar:bexarcountyexternalcareersite",
+      "site": "BexarCountyExternalCareerSite",
+      "slug": "bexar",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
       "company": "Biamp",
       "host": "biamp.wd12.myworkdayjobs.com",
       "key": "workday:biamp.wd12.myworkdayjobs.com:biamp:biamp",
@@ -11291,6 +11345,15 @@
       "site": "tap2",
       "slug": "boeing",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Bose",
+      "host": "boseallaboutme.wd503.myworkdayjobs.com",
+      "key": "workday:boseallaboutme.wd503.myworkdayjobs.com:boseallaboutme:bose_careers",
+      "site": "Bose_Careers",
+      "slug": "boseallaboutme",
+      "wd": "wd503"
     },
     {
       "ats": "workday",
@@ -13022,6 +13085,15 @@
     },
     {
       "ats": "workday",
+      "company": "Elevance Health",
+      "host": "elevancehealth.wd1.myworkdayjobs.com",
+      "key": "workday:elevancehealth.wd1.myworkdayjobs.com:elevancehealth:elv-et",
+      "site": "ELV-ET",
+      "slug": "elevancehealth",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Zurn Elkay Water Solutions",
       "host": "elkay.wd1.myworkdayjobs.com",
       "key": "workday:elkay.wd1.myworkdayjobs.com:elkay:elkay_external",
@@ -14318,7 +14390,7 @@
     },
     {
       "ats": "workday",
-      "company": "Hewlett Packard",
+      "company": "Hewlett Packard (HP)",
       "host": "hp.wd5.myworkdayjobs.com",
       "key": "workday:hp.wd5.myworkdayjobs.com:hp:exteu-ac-careersite",
       "site": "EXTEU-AC-CareerSite",
@@ -20508,6 +20580,15 @@
       "site": "Careers",
       "slug": "zekelman",
       "wd": "wd12"
+    },
+    {
+      "ats": "workday",
+      "company": "Zelis",
+      "host": "zelis.wd1.myworkdayjobs.com",
+      "key": "workday:zelis.wd1.myworkdayjobs.com:zelis:zeliscareers",
+      "site": "ZelisCareers",
+      "slug": "zelis",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
