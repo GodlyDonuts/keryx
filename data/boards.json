@@ -1508,6 +1508,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Parasail",
+      "key": "ashby:parasail",
+      "slug": "parasail"
+    },
+    {
+      "ats": "ashby",
       "company": "Pariveda Solutions",
       "key": "ashby:pariveda",
       "slug": "pariveda"
@@ -9503,7 +9509,7 @@
     },
     {
       "ats": "workable",
-      "company": "pony.ai",
+      "company": "Pony.ai",
       "key": "workable:pony-dot-ai",
       "slug": "pony-dot-ai"
     },
@@ -17531,10 +17537,10 @@
     },
     {
       "ats": "workday",
-      "company": "LexisNexis Legal & Professional",
+      "company": "LexisNexis",
       "host": "relx.wd3.myworkdayjobs.com",
       "key": "workday:relx.wd3.myworkdayjobs.com:relx:lexisnexislegal",
-      "site": "LexisNexisLegal",
+      "site": "lexisnexislegal",
       "slug": "relx",
       "wd": "wd3"
     },
