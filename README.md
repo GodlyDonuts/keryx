@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**8,967 internships · 4,584 new-grad roles · 13,551 total openings**
+**8,956 internships · 4,535 new-grad roles · 13,491 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,270 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 429 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 623 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 170 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,475 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,263 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 426 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 627 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 167 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,473 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,059 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 921 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,604 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,060 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 942 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,533 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -41,7 +41,7 @@ Recent internship and co-op listings that open the employer's application page d
 | AMD | Masters Photonics Design Engineering Co-op | San Jose, CA | Summer 2027 | not available | 2026-10-03 | **[Apply →](https://careers.amd.com/jobs/91633?icims=1)**<br><sub>careers.amd.com</sub> |
 | Axos Bank | Business Analyst Intern | HQ - San Diego, CA | Not listed | not available | 2026-10-03 | **[Apply →](https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Business-Analyst-Intern_JR5593)**<br><sub>axos.wd5.myworkdayjobs.com</sub> |
 | BRG | Chicago Office Health Analytics Practice Intern | Chicago, IL | Not listed | not available | 2026-10-03 | **[Apply →](https://thinkbrg.wd5.myworkdayjobs.com/BRG_External_Career_Site/job/Chicago-IL/Chicago-Office-Health-Analytics-Practice-Intern_JR101039)**<br><sub>thinkbrg.wd5.myworkdayjobs.com</sub> |
-| CesiumAstro | Summer 2027 - Electrical Engineering Internship, FPGA | El Segundo, CA | Summer 2027 | Current student status<br><sub>required</sub> | 2026-10-03 | **[Apply →](https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636)**<br><sub>jobs.lever.co</sub> |
+| CesiumAstro | Electrical Engineering Intern - FPGA | El Segundo, CA | Summer 2027 | Current student status<br><sub>required</sub> | 2026-10-03 | **[Apply →](https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply)**<br><sub>jobs.lever.co</sub> |
 | Cisco | Mechanical Engineer I (Intern) - United States | San Jose, California, US | Not listed | not available | 2026-10-03 | **[Apply →](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Mechanical-Engineer-I--Intern----United-States_2026028)**<br><sub>cisco.wd5.myworkdayjobs.com</sub> |
 | Direct Supply | Software Engineer Intern | Milwaukee, WI | Not listed | not available | 2026-10-03 | **[Apply →](https://directsupply.wd501.myworkdayjobs.com/en-US/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559)**<br><sub>directsupply.wd501.myworkdayjobs.com</sub> |
 | Electronic Arts | Product Manager Intern | LA | Summer 2027 | not available | 2026-10-03 | **[Apply →](https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272)**<br><sub>jobs.ea.com</sub> |
