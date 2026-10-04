@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**8,917 internships · 4,520 new-grad roles · 13,437 total openings**
+**8,954 internships · 4,513 new-grad roles · 13,467 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,226 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 4,245 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 426 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 625 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 170 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,470 | **[View openings →](internships/unscheduled.md)** |
+| ❄️ Winter 2027 | 171 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,487 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,051 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 919 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,550 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,050 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 912 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,551 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -43,12 +43,12 @@ Recent internship and co-op listings that open the employer's application page d
 | Copart | QA Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-10-04 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/QA-Engineering-Intern_JR109671)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | Diversified Energy | Information Technology Intern | Birmingham, AL | Summer 2027 | not available | 2026-10-04 | **[Apply →](https://careers.div.energy/jobs/2734?icims=1)**<br><sub>careers.div.energy</sub> |
 | GE Vernova | GE Vernova Nuclear Engineering Co-Op/Intern - Spring 2027 | Wilmington NC USA | Spring 2027 | not available | 2026-10-04 | **[Apply →](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/GE-Vernova-Nuclear-Engineering-Co-Op-Intern---Spring-2027_R5048552-1)**<br><sub>gevernova.wd5.myworkdayjobs.com</sub> |
-| HNTB | WED - Intern Civil Engineer (Summer 2027) (For Current & Recent HNTB Interns Only) | Salt Lake City, UT | Summer 2027 | not available | 2026-10-04 | **[Apply →](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Salt-Lake-City-UT/WED---Intern-Civil-Engineer--Summer-2027---For-Current---Recent-HNTB-Interns-Only-_R-31435)**<br><sub>hntb.wd5.myworkdayjobs.com</sub> |
 | Ingredion | Process Engineering Intern | Belcamp, MD | Not listed | not available | 2026-10-04 | **[Apply →](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Belcamp-MD/Process-Engineering-Intern_Req-40181-1)**<br><sub>ingredion.wd1.myworkdayjobs.com</sub> |
-| Primient | AI Analyst Intern - Summer 2027 | Schaumburg, IL | Summer 2027 | not available | 2026-10-04 | **[Apply →](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056)**<br><sub>primient.wd1.myworkdayjobs.com</sub> |
+| Jump Trading | Campus Software Engineer - Intern | Chicago, IL | Not listed | not available | 2026-10-04 | **[Apply →](https://www.jumptrading.com/hr/job?gh_jid=8002989)**<br><sub>www.jumptrading.com</sub> |
+| Pangram Labs | AI Research Intern | NYC, Brooklyn, NY | Summer 2027 | not available | 2026-10-04 | **[Apply →](https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Primient | AI Analyst Intern | Schaumburg, IL | Summer 2027 | not available | 2026-10-04 | **[Apply →](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056)**<br><sub>primient.wd1.myworkdayjobs.com</sub> |
 | RTX | Avionics Test Engineering -Systems Engineer Intern (Onsite) | US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112 | Not listed | not available | 2026-10-04 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
 | Thermo Fisher Scientific | Packaging Engineering Co-op | Rochester, New York, USA | Not listed | not available | 2026-10-04 | **[Apply →](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rochester-New-York-USA/Packaging-Engineering-Co-op_R-01366624)**<br><sub>thermofisher.wd5.myworkdayjobs.com</sub> |
-| TikTok | Software Engineer Intern - TikTok Search Architecture - 2027 Fall | San Jose, CA | Not listed | not available | 2026-10-04 | **[Apply →](https://lifeattiktok.com/search/7675524738811218229)**<br><sub>lifeattiktok.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -60,7 +60,6 @@ Recent full-time opportunities that open the employer's application page directl
 |---|---|---|---|---|---:|---|
 | AXQ Capital | Quantitative Developer | New York, NY, United States | 2026 | not available | 2026-10-04 | **[Apply →](https://www.axqcap.com/careers/5575451004.html)**<br><sub>www.axqcap.com</sub> |
 | Chime | Full-Stack Engineer - Human Agent Tooling | San Francisco, CA | 2027 | not available | 2026-10-04 | **[Apply →](https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002)**<br><sub>boards.greenhouse.io</sub> |
-| Citadel | Software Engineer - University Graduate - US | Houston, TX +2 | 2027 | not available | 2026-10-04 | **[Apply →](https://www.citadel.com/careers/details/software-engineer-university-graduate-us/)**<br><sub>www.citadel.com</sub> |
 | Pylon | Software Engineer - New Grad | San Francisco, CA | 2027 | not available | 2026-10-04 | **[Apply →](https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d)**<br><sub>jobs.ashbyhq.com</sub> |
 | Impact | Associate Software Engineer | Santa Barbara, CA | 2027 | not stated | 2026-10-03 | **[Apply →](https://job-boards.greenhouse.io/impact/jobs/8645964002)**<br><sub>job-boards.greenhouse.io</sub> |
 | Impact | Full Stack Software Engineer | Seattle, WA | 2027 | not available | 2026-10-03 | **[Apply →](https://job-boards.greenhouse.io/impact/jobs/8465838002)**<br><sub>job-boards.greenhouse.io</sub> |
@@ -70,6 +69,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Northrop Grumman | Calling all Embedded Software Engineers! | Chandler, AZ | 2027 | not available | 2026-10-03 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Arizona-Chandler/Calling-all-Embedded-Software-Engineers-_R10253219)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
 | Oracle | February 2027 - Undergrad Software Engineer - Oracle Cloud Infrastructure - OCI - Nashville - TN | Nashville, TN | 2027 | not available | 2026-10-03 | **[Apply →](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/346357)**<br><sub>careers.oracle.com</sub> |
 | Parasail | Software Engineer New Grad - Forward Deploy | San Mateo, CA | Not listed | not available | 2026-10-03 | **[Apply →](https://jobs.ashbyhq.com/parasail/da595923-4e35-4ba1-875d-383276069cf7/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| PathAI | Software Development Engineer in Test - SDET | Boston, MA | 2027 | not available | 2026-10-03 | **[Apply →](https://www.pathai.com/careers/8769657002?gh_jid=8769657002)**<br><sub>www.pathai.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

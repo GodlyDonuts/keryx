@@ -4,10 +4,11 @@
 > **Required**, **preferred**, and merely **stated** conditions remain distinct; preferred qualifications are never treated as eligibility gates.
 > **Not stated** means no requirement was detected in available posting text; **not available** means Keryx did not receive the full posting text.
 
-**170 open roles**
+**171 open roles**
 
 | Company | Role | Location | Academic eligibility | Posted | Seen in | Apply |
 |---|---|---|---|---|---|---|
+| Keurig Dr Pepper Inc. | Winter 2027 Co-op - Maintenance Systems & Reliability | Williamson, NY, United States | not available<br><sub>posting text not indexed</sub> | 2026-10-04 | [Jobright · Engineering](https://github.com/jobright-ai/2026-Engineer-Internship) | [view job · Jobright](https://jobright.ai/jobs/info/6ab2a9d030340229a322ed5c?utm_campaign=1048&utm_source=git)<br><sub>discovery listing</sub> |
 | X Development | PhD Resident - AI for Science - Early Stage Project | Mountain View, CA | not available<br><sub>posting text not indexed</sub> | 2026-10-03 | [Simplify](https://github.com/SimplifyJobs/Summer2027-Internships) | [apply · x.company](https://x.company/careers/8865083002?gh_jid=8865083002)<br><sub>source reported</sub> |
 | Figure | Supply Chain Analytics Intern \[Winter 2027\] | San Jose, CA | not stated<br><sub>direct ATS text · checked 2026-10-04</sub> | 2026-10-02 | [Greenhouse direct](https://job-boards.greenhouse.io/figureai) | [apply · job-boards.greenhouse.io](https://job-boards.greenhouse.io/figureai/jobs/4718858006)<br><sub>ATS checked</sub> |
 | Gemini | Brand Design Intern (Winter 2027) | New York, New York | not stated<br><sub>direct ATS text · checked 2026-10-04</sub> | 2026-10-02 | [Greenhouse direct](https://job-boards.greenhouse.io/gemini) | [apply · boards.greenhouse.io](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8243097&gh_jid=8243097)<br><sub>ATS checked</sub> |
