@@ -2012,6 +2012,12 @@
     },
     {
       "ats": "ashby",
+      "company": "TensorWave",
+      "key": "ashby:tensorwave",
+      "slug": "tensorwave"
+    },
+    {
+      "ats": "ashby",
       "company": "Teragen Energy",
       "key": "ashby:teragenenergy",
       "slug": "teragenenergy"
@@ -3631,6 +3637,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Fetch Pet Insurance",
+      "key": "greenhouse:fetch",
+      "slug": "fetch"
+    },
+    {
+      "ats": "greenhouse",
       "company": "FGS Global",
       "key": "greenhouse:fgsglobal",
       "slug": "fgsglobal"
@@ -4180,6 +4192,12 @@
       "company": "KHAITE",
       "key": "greenhouse:khaite",
       "slug": "khaite"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Khan Academy",
+      "key": "greenhouse:khanacademy",
+      "slug": "khanacademy"
     },
     {
       "ats": "greenhouse",
@@ -6082,6 +6100,12 @@
       "company": "InfraServices",
       "key": "lever:infraservices",
       "slug": "infraservices"
+    },
+    {
+      "ats": "lever",
+      "company": "ispace, inc.",
+      "key": "lever:ispace-inc",
+      "slug": "ispace-inc"
     },
     {
       "ats": "lever",
@@ -9100,6 +9124,12 @@
       "company": "United Franchise Group",
       "key": "smartrecruiters:unitedfranchisegroup",
       "slug": "UnitedFranchiseGroup"
+    },
+    {
+      "ats": "smartrecruiters",
+      "company": "University of Notre Dame",
+      "key": "smartrecruiters:universityofnotredame",
+      "slug": "UniversityOfNotreDame"
     },
     {
       "ats": "smartrecruiters",
@@ -12685,7 +12715,7 @@
       "company": "CVS Health",
       "host": "cvshealth.wd1.myworkdayjobs.com",
       "key": "workday:cvshealth.wd1.myworkdayjobs.com:cvshealth:cvs_health_careers",
-      "site": "cvs_health_careers",
+      "site": "CVS_Health_Careers",
       "slug": "cvshealth",
       "wd": "wd1"
     },
@@ -14635,6 +14665,15 @@
     },
     {
       "ats": "workday",
+      "company": "Hypertherm Associates",
+      "host": "hypertherm.wd5.myworkdayjobs.com",
+      "key": "workday:hypertherm.wd5.myworkdayjobs.com:hypertherm:hypertherm-careers",
+      "site": "hypertherm-careers",
+      "slug": "hypertherm",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Hypertherm",
       "host": "hypertherm.wd503.myworkdayjobs.com",
       "key": "workday:hypertherm.wd503.myworkdayjobs.com:hypertherm:hypertherm-careers",
@@ -15126,6 +15165,24 @@
       "key": "workday:jadeglobal.wd5.myworkdayjobs.com:jadeglobal:jade_careers",
       "site": "jade_careers",
       "slug": "jadeglobal",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Jain Global",
+      "host": "jainglobal.wd5.myworkdayjobs.com",
+      "key": "workday:jainglobal.wd5.myworkdayjobs.com:jainglobal:externalsite",
+      "site": "ExternalSite",
+      "slug": "jainglobal",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Jain Global",
+      "host": "jainglobal.wd5.myworkdayjobs.com",
+      "key": "workday:jainglobal.wd5.myworkdayjobs.com:jainglobal:linkedincareersite",
+      "site": "LinkedInCareerSite",
+      "slug": "jainglobal",
       "wd": "wd5"
     },
     {
@@ -16066,6 +16123,15 @@
     },
     {
       "ats": "workday",
+      "company": "Midland States Bank",
+      "host": "midlandsb.wd1.myworkdayjobs.com",
+      "key": "workday:midlandsb.wd1.myworkdayjobs.com:midlandsb:msbcareers",
+      "site": "msbcareers",
+      "slug": "midlandsb",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "MiTek",
       "host": "mii.wd5.myworkdayjobs.com",
       "key": "workday:mii.wd5.myworkdayjobs.com:mii:mitek",
@@ -16565,6 +16631,15 @@
       "host": "nike.wd1.myworkdayjobs.com",
       "key": "workday:nike.wd1.myworkdayjobs.com:nike:nke",
       "site": "nke",
+      "slug": "nike",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Nike",
+      "host": "nike.wd1.myworkdayjobs.com",
+      "key": "workday:nike.wd1.myworkdayjobs.com:nike:nke2",
+      "site": "nke2",
       "slug": "nike",
       "wd": "wd1"
     },
@@ -17650,10 +17725,10 @@
     },
     {
       "ats": "workday",
-      "company": "LexisNexis",
+      "company": "LexisNexis Legal & Professional",
       "host": "relx.wd3.myworkdayjobs.com",
       "key": "workday:relx.wd3.myworkdayjobs.com:relx:lexisnexislegal",
-      "site": "lexisnexislegal",
+      "site": "LexisNexisLegal",
       "slug": "relx",
       "wd": "wd3"
     },
@@ -19486,6 +19561,15 @@
     },
     {
       "ats": "workday",
+      "company": "Travere Therapeutics",
+      "host": "travere.wd1.myworkdayjobs.com",
+      "key": "workday:travere.wd1.myworkdayjobs.com:travere:traverecareers",
+      "site": "TravereCareers",
+      "slug": "travere",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "TreeHouse Foods",
       "host": "treehouse.wd1.myworkdayjobs.com",
       "key": "workday:treehouse.wd1.myworkdayjobs.com:treehouse:treehousecareers",
@@ -19597,7 +19681,7 @@
       "company": "Milwaukee Tool",
       "host": "tti.wd1.myworkdayjobs.com",
       "key": "workday:tti.wd1.myworkdayjobs.com:tti:milwaukee",
-      "site": "milwaukee",
+      "site": "Milwaukee",
       "slug": "tti",
       "wd": "wd1"
     },
