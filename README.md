@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**8,908 internships · 4,517 new-grad roles · 13,425 total openings**
+**8,927 internships · 4,517 new-grad roles · 13,444 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,234 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 4,230 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 428 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 623 | **[View openings →](internships/spring-2027.md)** |
+| 🌱 Spring 2027 | 621 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 171 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,452 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 3,477 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,054 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 913 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,550 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,046 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 926 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,545 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Microsoft | Firmware Engineer Intern | Santa Clara, CA | Winter 2027 | not available | 2026-10-05 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393557023161)**<br><sub>apply.careers.microsoft.com</sub> |
+| Mohawk | Product Management Intern | Calhoun, GA | Summer 2027 | not available | 2026-10-05 | **[Apply →](https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors)**<br><sub>careers.mohawkind.com</sub> |
+| State of North Carolina | Data Analytics Intern | Wake County, NC | Spring 2027 | not available | 2026-10-05 | **[Apply →](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220)**<br><sub>nc.wd108.myworkdayjobs.com</sub> |
+| State of North Carolina | Data Engineering Intern | Wake County, NC | Spring 2027 | not available | 2026-10-05 | **[Apply →](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Engineering-Intern_JR-125224)**<br><sub>nc.wd108.myworkdayjobs.com</sub> |
+| State of North Carolina | Data Science Intern | Wake County, NC | Spring 2027 | not available | 2026-10-05 | **[Apply →](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225)**<br><sub>nc.wd108.myworkdayjobs.com</sub> |
 | Brunswick | Software Engineering Intern | Tulsa, OK | Not listed | not available | 2026-10-04 | **[Apply →](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321)**<br><sub>brunswick.wd1.myworkdayjobs.com</sub> |
 | Citadel | Software Engineer - Intern - US | Houston, TX +2 | Not listed | not available | 2026-10-04 | **[Apply →](https://www.citadel.com/careers/details/software-engineer-intern-us/)**<br><sub>www.citadel.com</sub> |
 | Copart | QA Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-10-04 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/QA-Engineering-Intern_JR109671)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | Databricks | Software Engineering Intern - 2027 Start - Winter | Mountain View, CA +2 | Winter 2027 | Fall 2027–Spring 2028<br><sub>stated</sub> | 2026-10-04 | **[Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002)**<br><sub>databricks.com</sub> |
 | Diversified Energy | Information Technology Intern | Birmingham, AL | Summer 2027 | not available | 2026-10-04 | **[Apply →](https://careers.div.energy/jobs/2734?icims=1)**<br><sub>careers.div.energy</sub> |
-| Ingredion | Process Engineering Intern | Belcamp, MD | Not listed | not available | 2026-10-04 | **[Apply →](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Belcamp-MD/Process-Engineering-Intern_Req-40181-1)**<br><sub>ingredion.wd1.myworkdayjobs.com</sub> |
-| Jump Trading | Campus Software Engineer - Intern | Chicago, IL | Not listed | not available | 2026-10-04 | **[Apply →](https://www.jumptrading.com/hr/job?gh_jid=8002989)**<br><sub>www.jumptrading.com</sub> |
-| Pangram Labs | AI Research Intern | NYC, Brooklyn, NY | Summer 2027 | not available | 2026-10-04 | **[Apply →](https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Primient | AI Analyst Intern | Schaumburg, IL | Summer 2027 | not available | 2026-10-04 | **[Apply →](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056)**<br><sub>primient.wd1.myworkdayjobs.com</sub> |
-| Thermo Fisher Scientific | Packaging Engineering Co-op | Rochester, New York, USA | Not listed | not available | 2026-10-04 | **[Apply →](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Rochester-New-York-USA/Packaging-Engineering-Co-op_R-01366624)**<br><sub>thermofisher.wd5.myworkdayjobs.com</sub> |
-| TikTok | Software Engineer Intern - TikTok Search Architecture - 2027 Fall | San Jose, CA | Not listed | not available | 2026-10-04 | **[Apply →](https://lifeattiktok.com/search/7675524738811218229)**<br><sub>lifeattiktok.com</sub> |
-| Zipline | Software Engineer Intern - Summer 2027 | South San Francisco, CA | Summer 2027 | not available | 2026-10-04 | **[Apply →](https://www.zipline.com/open-roles/7929236003?gh_jid=7929236003)**<br><sub>www.zipline.com</sub> |
+| Hewlett Packard Enterprise | Electric Hardware Engineering Intern | Chippewa Falls, Wisconsin, United States of America | Not listed | not available | 2026-10-04 | **[Apply →](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electric-Hardware-Engineering-Intern_1213414)**<br><sub>hpe.wd5.myworkdayjobs.com</sub> |
+| Hitachi Energy | Applications Engineering Internship/Co-op | Holland, Michigan, United States | Not listed | not available | 2026-10-04 | **[Apply →](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Holland-Michigan-United-States/Applications-Engineering-Internship-Co-op_R0144978)**<br><sub>hitachi.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
