@@ -809,7 +809,7 @@
       "company": "Washington Nationals",
       "error": "public request failed for https://nationals.mlb.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nationals.mlb.com'. (_ssl.c:1000)>",
       "key": "0555d61de4c8ba59b2fc59bc",
-      "last_scanned": "2026-09-17",
+      "last_scanned": "2026-10-05",
       "url": "https://nationals.mlb.com/"
     },
     {
@@ -2285,6 +2285,14 @@
       "last_scanned": "2026-09-23",
       "resolved_roles": 0,
       "url": "https://www.intlrelationsandaffairs.com/"
+    },
+    {
+      "boards": [],
+      "company": "Google DeepMind",
+      "key": "0ef9b0fe0f3c92b4cf35b492",
+      "last_scanned": "2026-10-05",
+      "resolved_roles": 0,
+      "url": "https://deepmind.google/"
     },
     {
       "boards": [],
@@ -9275,7 +9283,7 @@
       "boards": [],
       "company": "Nuro",
       "key": "397bd3d7a667e089e0af7ab3",
-      "last_scanned": "2026-09-24",
+      "last_scanned": "2026-10-05",
       "resolved_roles": 0,
       "url": "https://nuro.ai/"
     },
@@ -14654,7 +14662,7 @@
       "company": "Tesla",
       "error": "public request failed for https://www.tesla.com/: HTTP Error 403: Forbidden",
       "key": "596d5f8ba4114e6c6c07da9e",
-      "last_scanned": "2026-10-04",
+      "last_scanned": "2026-10-05",
       "url": "https://www.tesla.com/"
     },
     {
@@ -16461,7 +16469,7 @@
       ],
       "company": "Guardian Life",
       "key": "63fb8b364fffaa155abd7dcc",
-      "last_scanned": "2026-09-14",
+      "last_scanned": "2026-10-05",
       "resolved_roles": 0,
       "url": "https://www.guardianlife.com/"
     },
@@ -17569,7 +17577,7 @@
       "boards": [],
       "company": "ZURU Edge",
       "key": "6aaceb5d2bc597f9db5c2eed",
-      "last_scanned": "2026-09-13",
+      "last_scanned": "2026-10-05",
       "resolved_roles": 0,
       "url": "https://zuruedge.com/"
     },
@@ -19880,8 +19888,9 @@
         "greenhouse:nflcareers"
       ],
       "company": "National Football League (NFL)",
+      "error": "public response exceeded 3145728 bytes",
       "key": "78e56cef78a49a57cbf23aaa",
-      "last_scanned": "2026-09-18",
+      "last_scanned": "2026-10-05",
       "resolved_roles": 0,
       "url": "https://www.nfl.com/"
     },
@@ -20219,7 +20228,7 @@
       "company": "DoorDash",
       "error": "public request failed for https://www.doordash.com/: HTTP Error 403: Forbidden",
       "key": "7abe6bdcaa1530edecd6b65c",
-      "last_scanned": "2026-10-02",
+      "last_scanned": "2026-10-05",
       "url": "https://www.doordash.com/"
     },
     {
@@ -21546,7 +21555,7 @@
       "boards": [],
       "company": "Netrolynx AI",
       "key": "83acffb23897fa2fc6babaa3",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-10-05",
       "resolved_roles": 0,
       "url": "https://www.bestjobtool.com/"
     },
@@ -22901,7 +22910,7 @@
       "company": "Marathon Petroleum Corporation",
       "error": "public request failed for https://www.marathonpetroleum.com/: HTTP Error 403: Forbidden",
       "key": "8b96c5fecf4a8c25a350411f",
-      "last_scanned": "2026-10-04",
+      "last_scanned": "2026-10-05",
       "url": "https://www.marathonpetroleum.com/"
     },
     {
@@ -24643,7 +24652,7 @@
       "company": "Radix Metasystems, Inc.",
       "error": "Invalid IPv6 URL",
       "key": "969b065901c9775699b0b9c2",
-      "last_scanned": "2026-09-21",
+      "last_scanned": "2026-10-05",
       "url": "https://www.radixmeta.com/"
     },
     {
@@ -25271,7 +25280,7 @@
       "boards": [],
       "company": "B. Braun Medical Inc. (US)",
       "key": "9b3127384be64cf90663a2a5",
-      "last_scanned": "2026-09-19",
+      "last_scanned": "2026-10-05",
       "resolved_roles": 0,
       "url": "https://www.bbraunusa.com/"
     },
@@ -27553,6 +27562,14 @@
       "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://www.trinnex.io/"
+    },
+    {
+      "boards": [],
+      "company": "Raven Software",
+      "key": "a8cb27f93f9c5258dabdb2c3",
+      "last_scanned": "2026-10-05",
+      "resolved_roles": 0,
+      "url": "https://www.ravensoftware.com/"
     },
     {
       "company": "Connector Manufacturing Company",
@@ -31280,7 +31297,7 @@
       ],
       "company": "Notability",
       "key": "c00636ceedb2b893bd8ba203",
-      "last_scanned": "2026-09-28",
+      "last_scanned": "2026-10-05",
       "resolved_roles": 0,
       "url": "https://www.gingerlabs.com/"
     },
@@ -32641,7 +32658,7 @@
       "boards": [],
       "company": "Louisiana Economic Development",
       "key": "c8290783cc24d5052449e391",
-      "last_scanned": "2026-09-22",
+      "last_scanned": "2026-10-05",
       "resolved_roles": 0,
       "url": "https://www.opportunitylouisiana.com/"
     },
@@ -37155,8 +37172,8 @@
       "boards": [],
       "company": "Optiver",
       "key": "e2c613dc715432d84648d717",
-      "last_scanned": "2026-09-26",
-      "resolved_roles": 3,
+      "last_scanned": "2026-10-05",
+      "resolved_roles": 0,
       "url": "https://www.optiver.com/"
     },
     {
@@ -37386,7 +37403,7 @@
       "boards": [],
       "company": "Vistar",
       "key": "e46df01e4341e79431dc3945",
-      "last_scanned": "2026-09-28",
+      "last_scanned": "2026-10-05",
       "resolved_roles": 0,
       "url": "https://www.vistar.com/"
     },
@@ -39712,6 +39729,14 @@
     },
     {
       "boards": [],
+      "company": "MESO SCALE DIAGNOSTICS, LLC.",
+      "key": "f161665fde120677660582c5",
+      "last_scanned": "2026-10-05",
+      "resolved_roles": 0,
+      "url": "https://www.mesoscale.com/"
+    },
+    {
+      "boards": [],
       "company": "Telos Corporation",
       "key": "f1813df5ce75cf86e0e14276",
       "last_scanned": "2026-08-15",
@@ -41586,6 +41611,16 @@
     },
     {
       "boards": [
+        "workday:autostore.wd3.myworkdayjobs.com:autostore:autostore"
+      ],
+      "company": "AutoStore\u2122",
+      "key": "fceda4e3029db23b1931969d",
+      "last_scanned": "2026-10-05",
+      "resolved_roles": 0,
+      "url": "https://www.autostoresystem.com/"
+    },
+    {
+      "boards": [
         "greenhouse:detroitlions",
         "lever:fanatics"
       ],
@@ -41805,7 +41840,7 @@
       "company": "Corning Incorporated",
       "error": "public request failed for https://www.corning.com/: HTTP Error 403: Forbidden",
       "key": "fdd9fdefbf94bcc1eb6163ea",
-      "last_scanned": "2026-09-30",
+      "last_scanned": "2026-10-05",
       "url": "https://www.corning.com/"
     },
     {
