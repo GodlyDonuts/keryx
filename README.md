@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,068 internships · 4,594 new-grad roles · 13,662 total openings**
+**9,052 internships · 4,588 new-grad roles · 13,640 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,272 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 425 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 630 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 173 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,568 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,312 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 423 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 629 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 182 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,506 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,061 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 985 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,548 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,055 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 940 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,593 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Arc | Mechanical Engineering Intern - Powertrain | Torrance, CA | Not listed | not stated | 2026-10-05 | **[Apply →](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442958008)**<br><sub>job-boards.greenhouse.io</sub> |
-| Arc | Vehicle Controls Engineering Intern | Torrance, CA | Not listed | Current student status<br><sub>required</sub> | 2026-10-05 | **[Apply →](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442902008)**<br><sub>job-boards.greenhouse.io</sub> |
-| Atlassian | Data Engineer Intern | Seattle, WA | Summer 2027 | not available | 2026-10-05 | **[Apply →](https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job)**<br><sub>campus-americas.icims.com</sub> |
-| Autodesk | Multimodal AI for Human Experience Intern | Boston, MA, NYC | Summer 2027 | not available | 2026-10-05 | **[Apply →](https://autodesk.wd1.myworkdayjobs.com/uni/job/Boston-MA-USA/PhD-Researcher--Multimodal-AI-for-Human-Experience_26WD101433)**<br><sub>autodesk.wd1.myworkdayjobs.com</sub> |
-| Autodesk | PhD Researcher Intern - Machine Learning for Construction | Boston, MA | Winter 2027 | not available | 2026-10-05 | **[Apply →](https://autodesk.wd1.myworkdayjobs.com/uni/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430)**<br><sub>autodesk.wd1.myworkdayjobs.com</sub> |
-| Autodesk | Research Intern - Multimodal AI for Human Experience | Boston, MA, NYC | Summer 2027 | not available | 2026-10-05 | **[Apply →](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/PhD-Researcher--Multimodal-AI-for-Human-Experience_26WD101433-1)**<br><sub>autodesk.wd1.myworkdayjobs.com</sub> |
-| Autodesk | Researcher Intern - Machine Learning for Construction | Boston, MA | Winter 2027 | not available | 2026-10-05 | **[Apply →](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430-1)**<br><sub>autodesk.wd1.myworkdayjobs.com</sub> |
-| Barge Design Solutions | Digital IT Intern | Nashville, TN, United States | Not listed | not available | 2026-10-05 | **[Apply →](https://www.bargedesign.com/jobs/digital-it-intern-1700)**<br><sub>www.bargedesign.com</sub> |
-| CACI | Software Development Intern | Oklahoma City, OK | Summer 2027 | not available | 2026-10-05 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
-| Citadel | Software Engineer - Intern - US | Houston, TX +2 | Not listed | not available | 2026-10-05 | **[Apply →](https://www.citadel.com/careers/details/software-engineer-intern-us/)**<br><sub>www.citadel.com</sub> |
-| Corning | Engineering Data Analyst Intern | Keller, TX | Summer 2027 | not available | 2026-10-05 | **[Apply →](https://corningjobs.corning.com/job/Keller-Engineering-Data-Analyst-Intern-Summer-2027-TX-76248/1437049900/?ats=successfactors)**<br><sub>corningjobs.corning.com</sub> |
-| Duolingo | Illustrator, Intern | Detroit, MI | Summer 2027 | Fall 2027–Summer 2028<br><sub>stated</sub> | 2026-10-05 | **[Apply →](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8864014002)**<br><sub>job-boards.greenhouse.io</sub> |
+| AMD | PhD Agentic/ML System Co-op | San Jose, CA | Summer 2027 | not available | 2026-10-06 | **[Apply →](https://careers.amd.com/jobs/91767?icims=1)**<br><sub>careers.amd.com</sub> |
+| Tevora | Cybersecurity Internship Winter 2027 - Enterprise Risk Management | Irvine, CA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-10-06 | **[Apply →](https://jobs.lever.co/tevora/6038cf01-750c-44dd-8f8d-86e20b22c73c)**<br><sub>jobs.lever.co</sub> |
+| Tevora | Cybersecurity Internship Winter 2027 - Federal | Fairfax, VA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-10-06 | **[Apply →](https://jobs.lever.co/tevora/6d569b10-339d-4b86-9ae1-17ee462948a1)**<br><sub>jobs.lever.co</sub> |
+| Tevora | Cybersecurity Internship Winter 2027 - Healthcare | Irvine, CA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-10-06 | **[Apply →](https://jobs.lever.co/tevora/8732b469-4b50-4d5f-b75f-cee074ebfb22)**<br><sub>jobs.lever.co</sub> |
+| Tevora | Cybersecurity Internship Winter 2027 - International Organization for Standardization (ISO) | Irvine, CA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-10-06 | **[Apply →](https://jobs.lever.co/tevora/461e8bec-806c-4de1-8ace-0f0246b06def)**<br><sub>jobs.lever.co</sub> |
+| Tevora | Cybersecurity Internship Winter 2027 - Payments | Fairfax, VA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-10-06 | **[Apply →](https://jobs.lever.co/tevora/dfbebff1-fca0-49a4-a06d-f6f18118000a)**<br><sub>jobs.lever.co</sub> |
+| Tevora | Cybersecurity Internship Winter 2027 - Solutions | Irvine, CA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-10-06 | **[Apply →](https://jobs.lever.co/tevora/68afa3e4-7068-418f-858d-2a306795d7d3)**<br><sub>jobs.lever.co</sub> |
+| Tevora | Cybersecurity Internship Winter 2027 - Systems and Organizations Controls (SOC) | Irvine, CA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-10-06 | **[Apply →](https://jobs.lever.co/tevora/f73a1676-ca54-45a5-a657-1fb81bf0dc76)**<br><sub>jobs.lever.co</sub> |
+| Tevora | Cybersecurity Internship Winter 2027 - Threat | Irvine, CA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-10-06 | **[Apply →](https://jobs.lever.co/tevora/1048eaf2-66b6-466d-bb59-8a75d7f5c968)**<br><sub>jobs.lever.co</sub> |
+| Amazon | Software Development Engineer Intern - Embedded Systems - Summer 2027 - USA | Seattle, WA | Summer 2027 | not available | 2026-10-05 | **[Apply →](https://www.amazon.jobs/jobs/10567914/apply)**<br><sub>www.amazon.jobs</sub> |
+| AMD | AI Training Systems and Performance Engineer Intern/Co-op | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-10-05 | **[Apply →](https://careers.amd.com/jobs/93332?icims=1)**<br><sub>careers.amd.com</sub> |
+| AMD | PhD Large Language Model Engineer Co-op | San Jose, CA | Summer 2027 | not available | 2026-10-05 | **[Apply →](https://careers.amd.com/jobs/91764?icims=1)**<br><sub>careers.amd.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Amazon | Software Development Engineer - Consumer Domains | Newark, NJ | 2027 | not available | 2026-10-05 | **[Apply →](https://www.amazon.jobs/jobs/10560727/apply)**<br><sub>www.amazon.jobs</sub> |
-| Amentum | Entry Level Software Engineer | US-VA-Fredericksburg | 2026 | not available | 2026-10-05 | **[Apply →](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0172148)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
+| JP Morgan Chase | Software Engineer 1 | Plano, TX | Not listed | not available | 2026-10-06 | **[Apply →](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794232)**<br><sub>jpmc.fa.oraclecloud.com</sub> |
+| 10Beauty | Software Technician | Burlington, MA | 2026 | not available | 2026-10-05 | **[Apply →](https://job-boards.greenhouse.io/10beauty/jobs/5257278007)**<br><sub>job-boards.greenhouse.io</sub> |
+| Amentum | Entry Level Software Engineer | Fredericksburg, VA | 2026 | not available | 2026-10-05 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0172148)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
 | Atlassian | Data Engineer New Grad | Seattle, WA | Not listed | not available | 2026-10-05 | **[Apply →](https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job)**<br><sub>campus-americas.icims.com</sub> |
+| Auto-Owners Insurance | COBOL Software Developer | Lansing, MI | Not listed | not available | 2026-10-05 | **[Apply →](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/COBOL-Software-Developer_R_14568)**<br><sub>aoins.wd5.myworkdayjobs.com</sub> |
 | Barrios | Data Analytics Developer 1 | Houston, TX | Not listed | not available | 2026-10-05 | **[Apply →](https://careers-barrios.icims.com/jobs/2904/job?mobile=true&needsRedirect=false)**<br><sub>careers-barrios.icims.com</sub> |
 | Barrios | Software Developer 1 - Applications and Data | Houston, TX | Not listed | not available | 2026-10-05 | **[Apply →](https://careers-barrios.icims.com/jobs/2903/job?mobile=true&needsRedirect=false)**<br><sub>careers-barrios.icims.com</sub> |
-| Corning | Software Engineer | Corning, NY | Not listed | not available | 2026-10-05 | **[Apply →](https://corningjobs.corning.com/job/Corning-Engineer,-Software-Developer-NY-14831/1436741900/?ats=successfactors)**<br><sub>corningjobs.corning.com</sub> |
-| CVS Health | Reporting Analyst | New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Michigan, Illinois, Alabama, Idaho | Not listed | not available | 2026-10-05 | **[Apply →](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Arizona/Reporting-Analyst_R1051672-1)**<br><sub>cvshealth.wd1.myworkdayjobs.com</sub> |
-| Demiurge Studios | 2027 Associate Software Engineer | United States | 2027 | not available | 2026-10-05 | **[Apply →](https://demiurgestudios.com/job-details/?jobid=85f401d2-5242-4096-b852-2947492d0035)**<br><sub>demiurgestudios.com</sub> |
-| Freedom Technology Solutions Group, LLC | Junior Software Engineer 744 | Annapolis Junction, MD, United States | 2026 | not available | 2026-10-05 | **[Apply →](https://goftsg.com/open-positions/position/?job_id=5199607007#job)**<br><sub>goftsg.com</sub> |
-| General Dynamics Mission Systems | Electrical Engineer – Entry Level | McLeansville, NC | Not listed | not available | 2026-10-05 | **[Apply →](https://careers-gdms.icims.com/jobs/75339/job?mobile=true&needsRedirect=false)**<br><sub>careers-gdms.icims.com</sub> |
-| General Matter | Financial Analyst (New Grad) | Los Angeles, CA | Not listed | not stated | 2026-10-05 | **[Apply →](https://job-boards.greenhouse.io/generalmatter/jobs/5439284008)**<br><sub>job-boards.greenhouse.io</sub> |
-| HCSC | Early Careers New Grad - Analytics Development Program | Remote in USA | Not listed | not available | 2026-10-05 | **[Apply →](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/National-Remote/Early-Careers-New-Grad---Analytics-Development-Program--REMOTE-_R0059520)**<br><sub>hcsc.wd1.myworkdayjobs.com</sub> |
+| Boeing | Entry Level Equipment Engineer | Heath, OH | Not listed | not available | 2026-10-05 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Heath-OH/Entry-Level-Equipment-Engineer_JR2026517696-1)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
+| Boeing | Entry Level Equipment Engineer | USA - Heath, OH | Not listed | not available | 2026-10-05 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Heath-OH/Entry-Level-Equipment-Engineer_JR2026517696)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
+| Boeing | Entry Level Test & Evaluation Engineer | USA - Heath, OH | Not listed | not available | 2026-10-05 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Heath-OH/Entry-Level-Test---Evaluation-Engineer_JR2026516099)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
+| Boeing | Entry Level Test & Evaluation Engineer | Heath, OH | Not listed | not available | 2026-10-05 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Heath-OH/Entry-Level-Test---Evaluation-Engineer_JR2026516099-1)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
+| Capgemini | Associate Software Engineer | Nashville, TN | Not listed | not available | 2026-10-05 | **[Apply →](https://careers.capgemini.com/job/Nashville,-TN-Associate-Software-Engineer-TN-37201/1444508633/?ats=successfactors)**<br><sub>careers.capgemini.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
