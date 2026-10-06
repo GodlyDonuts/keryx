@@ -1148,6 +1148,12 @@
     },
     {
       "ats": "ashby",
+      "company": "LiveRamp",
+      "key": "ashby:liveramp-inc",
+      "slug": "liveramp-inc"
+    },
+    {
+      "ats": "ashby",
       "company": "Logiqal",
       "key": "ashby:logiqal",
       "slug": "logiqal"
@@ -2234,7 +2240,7 @@
     },
     {
       "ats": "ashby",
-      "company": "WHOOP",
+      "company": "Whoop",
       "key": "ashby:whoop",
       "slug": "whoop"
     },
@@ -2588,6 +2594,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "2K",
+      "key": "greenhouse:2kearlycareers",
+      "slug": "2kearlycareers"
+    },
+    {
+      "ats": "greenhouse",
       "company": "3RedPartners",
       "key": "greenhouse:3redpartners",
       "slug": "3redpartners"
@@ -2861,6 +2873,12 @@
       "company": "Assyst",
       "key": "greenhouse:assystinc",
       "slug": "assystinc"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Astera Labs",
+      "key": "greenhouse:asteraearlycareer2027",
+      "slug": "asteraearlycareer2027"
     },
     {
       "ats": "greenhouse",
@@ -4664,6 +4682,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Panthalassa",
+      "key": "greenhouse:panthalassa",
+      "slug": "panthalassa"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Parallel Systems",
       "key": "greenhouse:parallel",
       "slug": "parallel"
@@ -5132,6 +5156,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Cadence Solutions",
+      "key": "greenhouse:solutions",
+      "slug": "solutions"
+    },
+    {
+      "ats": "greenhouse",
       "company": "PlayStation",
       "key": "greenhouse:sonyinteractiveentertainmentglobal",
       "slug": "sonyinteractiveentertainmentglobal"
@@ -5183,6 +5213,12 @@
       "company": "Striveworks",
       "key": "greenhouse:striveworks",
       "slug": "striveworks"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Veracyte, Inc.",
+      "key": "greenhouse:subscriptions",
+      "slug": "subscriptions"
     },
     {
       "ats": "greenhouse",
@@ -7318,6 +7354,14 @@
     },
     {
       "ats": "oracle",
+      "company": "SAIC",
+      "host": "eihu.fa.us8.oraclecloud.com",
+      "key": "oracle:eihu.fa.us8.oraclecloud.com:cx",
+      "site": "CX",
+      "slug": "eihu"
+    },
+    {
+      "ats": "oracle",
       "company": "UW Health",
       "host": "eimy.fa.us6.oraclecloud.com",
       "key": "oracle:eimy.fa.us6.oraclecloud.com:cx_1",
@@ -7870,6 +7914,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Mayo Clinic",
+      "host": "fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "fa-euwp-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
       "company": "Zachry Group",
       "host": "fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com",
       "key": "oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com:cx_1029",
@@ -8259,6 +8311,14 @@
       "key": "oracle:iaziqy.fa.ocs.oraclecloud.com:ubercareers",
       "site": "UberCareers",
       "slug": "iaziqy"
+    },
+    {
+      "ats": "oracle",
+      "company": "UCSF",
+      "host": "iazuqy.fa.ocs.oraclecloud.com",
+      "key": "oracle:iazuqy.fa.ocs.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "iazuqy"
     },
     {
       "ats": "oracle",
@@ -10765,6 +10825,15 @@
       "site": "EDU_PUB",
       "slug": "argonne",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Aristocrat Interactive",
+      "host": "aristocrat.wd3.myworkdayjobs.com",
+      "key": "workday:aristocrat.wd3.myworkdayjobs.com:aristocrat:aristocratexternalcareerssite",
+      "site": "AristocratExternalCareersSite",
+      "slug": "aristocrat",
+      "wd": "wd3"
     },
     {
       "ats": "workday",
@@ -16099,7 +16168,7 @@
       "company": "Medtronic",
       "host": "medtronic.wd1.myworkdayjobs.com",
       "key": "workday:medtronic.wd1.myworkdayjobs.com:medtronic:medtroniccareers",
-      "site": "medtroniccareers",
+      "site": "MedtronicCareers",
       "slug": "medtronic",
       "wd": "wd1"
     },
@@ -16299,6 +16368,15 @@
       "key": "workday:moog.wd5.myworkdayjobs.com:moog:moog_external_career_site",
       "site": "moog_external_career_site",
       "slug": "moog",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Morningstar",
+      "host": "morningstar.wd5.myworkdayjobs.com",
+      "key": "workday:morningstar.wd5.myworkdayjobs.com:morningstar:morningstar",
+      "site": "Morningstar",
+      "slug": "morningstar",
       "wd": "wd5"
     },
     {

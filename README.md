@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,052 internships · 4,588 new-grad roles · 13,640 total openings**
+**9,134 internships · 4,635 new-grad roles · 13,769 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,312 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 423 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 629 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 182 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,506 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,313 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 422 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 625 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 184 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,590 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,055 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 940 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,593 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,056 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 969 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,610 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,17 +38,17 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | AMD | PhD Agentic/ML System Co-op | San Jose, CA | Summer 2027 | not available | 2026-10-06 | **[Apply →](https://careers.amd.com/jobs/91767?icims=1)**<br><sub>careers.amd.com</sub> |
-| Tevora | Cybersecurity Internship Winter 2027 - Enterprise Risk Management | Irvine, CA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-10-06 | **[Apply →](https://jobs.lever.co/tevora/6038cf01-750c-44dd-8f8d-86e20b22c73c)**<br><sub>jobs.lever.co</sub> |
-| Tevora | Cybersecurity Internship Winter 2027 - Federal | Fairfax, VA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-10-06 | **[Apply →](https://jobs.lever.co/tevora/6d569b10-339d-4b86-9ae1-17ee462948a1)**<br><sub>jobs.lever.co</sub> |
-| Tevora | Cybersecurity Internship Winter 2027 - Healthcare | Irvine, CA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-10-06 | **[Apply →](https://jobs.lever.co/tevora/8732b469-4b50-4d5f-b75f-cee074ebfb22)**<br><sub>jobs.lever.co</sub> |
-| Tevora | Cybersecurity Internship Winter 2027 - International Organization for Standardization (ISO) | Irvine, CA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-10-06 | **[Apply →](https://jobs.lever.co/tevora/461e8bec-806c-4de1-8ace-0f0246b06def)**<br><sub>jobs.lever.co</sub> |
-| Tevora | Cybersecurity Internship Winter 2027 - Payments | Fairfax, VA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-10-06 | **[Apply →](https://jobs.lever.co/tevora/dfbebff1-fca0-49a4-a06d-f6f18118000a)**<br><sub>jobs.lever.co</sub> |
-| Tevora | Cybersecurity Internship Winter 2027 - Solutions | Irvine, CA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-10-06 | **[Apply →](https://jobs.lever.co/tevora/68afa3e4-7068-418f-858d-2a306795d7d3)**<br><sub>jobs.lever.co</sub> |
-| Tevora | Cybersecurity Internship Winter 2027 - Systems and Organizations Controls (SOC) | Irvine, CA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-10-06 | **[Apply →](https://jobs.lever.co/tevora/f73a1676-ca54-45a5-a657-1fb81bf0dc76)**<br><sub>jobs.lever.co</sub> |
-| Tevora | Cybersecurity Internship Winter 2027 - Threat | Irvine, CA | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-10-06 | **[Apply →](https://jobs.lever.co/tevora/1048eaf2-66b6-466d-bb59-8a75d7f5c968)**<br><sub>jobs.lever.co</sub> |
-| Amazon | Software Development Engineer Intern - Embedded Systems - Summer 2027 - USA | Seattle, WA | Summer 2027 | not available | 2026-10-05 | **[Apply →](https://www.amazon.jobs/jobs/10567914/apply)**<br><sub>www.amazon.jobs</sub> |
-| AMD | AI Training Systems and Performance Engineer Intern/Co-op | San Jose, CA, Santa Clara, CA | Summer 2027 | not available | 2026-10-05 | **[Apply →](https://careers.amd.com/jobs/93332?icims=1)**<br><sub>careers.amd.com</sub> |
-| AMD | PhD Large Language Model Engineer Co-op | San Jose, CA | Summer 2027 | not available | 2026-10-05 | **[Apply →](https://careers.amd.com/jobs/91764?icims=1)**<br><sub>careers.amd.com</sub> |
+| Cadence Solutions | Product Management Intern | Remote in USA | Summer 2027 | not available | 2026-10-06 | **[Apply →](https://job-boards.greenhouse.io/solutions/jobs/4715294006)**<br><sub>job-boards.greenhouse.io</sub> |
+| Cadence Solutions | Software Engineer Intern | Remote in USA | Summer 2027 | not available | 2026-10-06 | **[Apply →](https://job-boards.greenhouse.io/solutions/jobs/4711210006)**<br><sub>job-boards.greenhouse.io</sub> |
+| Field AI | Mechanical Engineer Internship, Robotics Hardware | Boston, MA | Not listed | not stated | 2026-10-06 | **[Apply →](https://jobs.lever.co/field-ai/5ae428f8-ac13-49b2-a244-fb97d31bfc79)**<br><sub>jobs.lever.co</sub> |
+| Innovative Defense Technologies | Software Engineer Intern | Mt Laurel Township, NJ, Arlington County, Arlington, VA, San Diego, CA | Summer 2027 | not available | 2026-10-06 | **[Apply →](https://idtus.pinpointhq.com/en/postings/0900a5f2-65d5-4cfa-8b14-b2a58d156d53?ats=pinpointhq)**<br><sub>idtus.pinpointhq.com</sub> |
+| Innovative Defense Technologies | Software Engineer Intern | Mt Laurel Township, NJ | Summer 2027 | not available | 2026-10-06 | **[Apply →](https://idtus.pinpointhq.com/en/postings/20817d1b-bd0e-4aa8-a3d5-78e4614b52a3?ats=pinpointhq)**<br><sub>idtus.pinpointhq.com</sub> |
+| Innovative Defense Technologies | Software Engineer Intern | Mt Laurel Township, NJ, Arlington County, Arlington, VA, San Diego, CA | Summer 2027 | not available | 2026-10-06 | **[Apply →](https://idtus.pinpointhq.com/en/postings/eac7d1ca-2dbd-4c60-8f65-979f0a9e3f33?ats=pinpointhq)**<br><sub>idtus.pinpointhq.com</sub> |
+| Judi Health | MBA Analytics Intern - Clinical Programs | NYC, Denver, CO | Fall 2026 | Current student status<br><sub>required</sub> | 2026-10-06 | **[Apply →](https://job-boards.greenhouse.io/judihealth/jobs/5427074008)**<br><sub>job-boards.greenhouse.io</sub> |
+| Legrand | Electrical Engineer Co-op | Middletown, PA | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-10-06 | **[Apply →](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1345)**<br><sub>iadugs.fa.ocs.oraclecloud.com</sub> |
+| Liberty Mutual | Data Science Co-op | Boston, MA | Summer 2027 | not available | 2026-10-06 | **[Apply →](https://campus-libertymutual.icims.com/jobs/261811/job?mobile=true&needsRedirect=false)**<br><sub>campus-libertymutual.icims.com</sub> |
+| Liberty Mutual | Data Science Intern | Boston, MA | Summer 2027 | not available | 2026-10-06 | **[Apply →](https://campus-libertymutual.icims.com/jobs/95486/job?mobile=true&needsRedirect=false)**<br><sub>campus-libertymutual.icims.com</sub> |
+| Liberty Mutual | Software Development Co-op | Boston, MA | Summer 2027 | not available | 2026-10-06 | **[Apply →](https://campus-libertymutual.icims.com/jobs/261797/job?mobile=true&needsRedirect=false)**<br><sub>campus-libertymutual.icims.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| JP Morgan Chase | Software Engineer 1 | Plano, TX | Not listed | not available | 2026-10-06 | **[Apply →](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794232)**<br><sub>jpmc.fa.oraclecloud.com</sub> |
-| 10Beauty | Software Technician | Burlington, MA | 2026 | not available | 2026-10-05 | **[Apply →](https://job-boards.greenhouse.io/10beauty/jobs/5257278007)**<br><sub>job-boards.greenhouse.io</sub> |
-| Amentum | Entry Level Software Engineer | Fredericksburg, VA | 2026 | not available | 2026-10-05 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0172148)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
-| Atlassian | Data Engineer New Grad | Seattle, WA | Not listed | not available | 2026-10-05 | **[Apply →](https://campus-americas.icims.com/jobs/25998/data-engineer%2c-2027-graduate-u.s/job)**<br><sub>campus-americas.icims.com</sub> |
-| Auto-Owners Insurance | COBOL Software Developer | Lansing, MI | Not listed | not available | 2026-10-05 | **[Apply →](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/COBOL-Software-Developer_R_14568)**<br><sub>aoins.wd5.myworkdayjobs.com</sub> |
-| Barrios | Data Analytics Developer 1 | Houston, TX | Not listed | not available | 2026-10-05 | **[Apply →](https://careers-barrios.icims.com/jobs/2904/job?mobile=true&needsRedirect=false)**<br><sub>careers-barrios.icims.com</sub> |
-| Barrios | Software Developer 1 - Applications and Data | Houston, TX | Not listed | not available | 2026-10-05 | **[Apply →](https://careers-barrios.icims.com/jobs/2903/job?mobile=true&needsRedirect=false)**<br><sub>careers-barrios.icims.com</sub> |
-| Boeing | Entry Level Equipment Engineer | Heath, OH | Not listed | not available | 2026-10-05 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Heath-OH/Entry-Level-Equipment-Engineer_JR2026517696-1)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
-| Boeing | Entry Level Equipment Engineer | USA - Heath, OH | Not listed | not available | 2026-10-05 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Heath-OH/Entry-Level-Equipment-Engineer_JR2026517696)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
-| Boeing | Entry Level Test & Evaluation Engineer | USA - Heath, OH | Not listed | not available | 2026-10-05 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Heath-OH/Entry-Level-Test---Evaluation-Engineer_JR2026516099)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
-| Boeing | Entry Level Test & Evaluation Engineer | Heath, OH | Not listed | not available | 2026-10-05 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Heath-OH/Entry-Level-Test---Evaluation-Engineer_JR2026516099-1)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
-| Capgemini | Associate Software Engineer | Nashville, TN | Not listed | not available | 2026-10-05 | **[Apply →](https://careers.capgemini.com/job/Nashville,-TN-Associate-Software-Engineer-TN-37201/1444508633/?ats=successfactors)**<br><sub>careers.capgemini.com</sub> |
+| 2K | Engineering Graduate Program | Vancouver, BC, Canada, Dublin, Ireland, United States | Not listed | not available | 2026-10-06 | **[Apply →](https://job-boards.greenhouse.io/2kearlycareers/jobs/7992140003)**<br><sub>job-boards.greenhouse.io</sub> |
+| AECOM | Entry-Level Civil Engineer - Networking Event with AECOM – Boston, MA | Boston, MA, us | Not listed | not available | 2026-10-06 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000153655029)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Astera Labs | Applied AI New Grad - Non Silicon | San Jose, CA | Not listed | not available | 2026-10-06 | **[Apply →](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Astera Labs | Data Analyst New Grad | San Jose, CA | Not listed | not available | 2026-10-06 | **[Apply →](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731994005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Astera Labs | Platform Solutions Engineer - Computer Engineering | Cary, NC | Not listed | not available | 2026-10-06 | **[Apply →](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731637005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Astera Labs | Platform Solutions Engineer - Electrical Engineering | Cary, NC | Not listed | not available | 2026-10-06 | **[Apply →](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731598005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Astera Labs | Product Applications Engineer | San Jose, CA | Not listed | not available | 2026-10-06 | **[Apply →](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739405005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Astera Labs | Product Quality Engineer New Grad | San Jose, CA | Not listed | not available | 2026-10-06 | **[Apply →](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733438005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Avum Inc. | Java Developer | Malibu, CA, United States | 2026 | not available | 2026-10-06 | **[Apply →](https://www.avum.com/careers/4562092)**<br><sub>www.avum.com</sub> |
+| Fanatics | Quantitative Analyst 1 | Denver, CO | Not listed | not available | 2026-10-06 | **[Apply →](https://job-boards.greenhouse.io/fanaticsfbg/jobs/4426177009)**<br><sub>job-boards.greenhouse.io</sub> |
+| Fireworks AI | Associate Product Manager | San Mateo, CA | Not listed | not available | 2026-10-06 | **[Apply →](https://jobs.ashbyhq.com/fireworks/69375f41-258a-4c25-ad78-5985606c438a/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Fireworks AI | Member of Technical Staff New Grad - Research | San Mateo, CA, NYC | Not listed | not available | 2026-10-06 | **[Apply →](https://jobs.ashbyhq.com/fireworks/82b41f4a-a945-4aee-a1fd-1ef9ab513e58/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
