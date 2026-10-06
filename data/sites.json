@@ -216,7 +216,7 @@
       "boards": [],
       "company": "PING",
       "key": "0165227d93e36ca96ae7c085",
-      "last_scanned": "2026-09-12",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://ping.com/"
     },
@@ -363,7 +363,7 @@
       ],
       "company": "LSEG",
       "key": "02b8813466da039772903d28",
-      "last_scanned": "2026-09-29",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://www.lseg.com/"
     },
@@ -1837,6 +1837,13 @@
       "last_scanned": "2026-10-05",
       "resolved_roles": 0,
       "url": "https://www.selinc.com/"
+    },
+    {
+      "company": "Ergotron",
+      "error": "public request failed for https://www.ergotron.com/: HTTP Error 403: Forbidden",
+      "key": "0c6155cadc5b980c6f217aed",
+      "last_scanned": "2026-10-06",
+      "url": "https://www.ergotron.com/"
     },
     {
       "boards": [],
@@ -3543,7 +3550,7 @@
       "company": "United Airlines",
       "error": "public request failed for https://www.united.com/: The read operation timed out",
       "key": "15c9c7cc00095b88622bc47e",
-      "last_scanned": "2026-10-01",
+      "last_scanned": "2026-10-06",
       "url": "https://www.united.com/"
     },
     {
@@ -4341,7 +4348,7 @@
       "company": "Eli Lilly and Company",
       "error": "public request failed for https://www.lilly.com/: HTTP Error 403: Forbidden",
       "key": "1b301cebcf8cc48e9b899383",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-10-06",
       "url": "https://www.lilly.com/"
     },
     {
@@ -4455,7 +4462,7 @@
       ],
       "company": "Etched",
       "key": "1c0580cbcf3299fcaaaae54f",
-      "last_scanned": "2026-09-22",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://www.etched.com/"
     },
@@ -5374,6 +5381,13 @@
       "url": "https://juicebox.ai/"
     },
     {
+      "company": "Horizon Health Services",
+      "error": "public request failed for https://www.horizon-health.org/: HTTP Error 403: Forbidden",
+      "key": "216faa0df5f703120612ec6e",
+      "last_scanned": "2026-10-06",
+      "url": "https://www.horizon-health.org/"
+    },
+    {
       "boards": [],
       "company": "Quicken Loans",
       "key": "21819ff87eb8291bd8ade5b4",
@@ -6196,7 +6210,7 @@
       ],
       "company": "Public Consulting Group",
       "key": "27b21c948a6b90fe713cd865",
-      "last_scanned": "2026-09-28",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://www.publicconsultinggroup.com/"
     },
@@ -6406,7 +6420,7 @@
       ],
       "company": "NCR Atleos",
       "key": "2920e749f2afd82b64a96b5f",
-      "last_scanned": "2026-09-21",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://www.ncratleos.com/"
     },
@@ -6641,7 +6655,7 @@
       "boards": [],
       "company": "United Wholesale Mortgage",
       "key": "2a7ff7d2e2dd05ea95361bc6",
-      "last_scanned": "2026-09-14",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://uwm.com/"
     },
@@ -6661,6 +6675,14 @@
       "key": "2abf06641d66244af328caef",
       "last_scanned": "2026-10-06",
       "url": "https://www.globalpayments.com/"
+    },
+    {
+      "boards": [],
+      "company": "Choate, Hall & Stewart LLP",
+      "key": "2ac35106cc7fcdb25c49dbad",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 0,
+      "url": "https://www.choate.com/"
     },
     {
       "company": "Subaru of Indiana Automotive",
@@ -7743,7 +7765,7 @@
       ],
       "company": "Gotion Inc.",
       "key": "2ff602938ef1435c5a35ab8a",
-      "last_scanned": "2026-09-29",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://www.gotion.com/"
     },
@@ -8887,10 +8909,11 @@
       "url": "https://4theweb.com/"
     },
     {
+      "boards": [],
       "company": "Beth Israel Lahey Health",
-      "error": "public request failed for https://www.bilh.org/: <urlopen error [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1000)>",
       "key": "3661d2ac676c5b4bff8944b8",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 0,
       "url": "https://www.bilh.org/"
     },
     {
@@ -9546,6 +9569,14 @@
       "last_scanned": "2026-08-17",
       "resolved_roles": 0,
       "url": "https://geco.com/"
+    },
+    {
+      "boards": [],
+      "company": "Wingz",
+      "key": "3a5e4896798f790c9b653e82",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 0,
+      "url": "https://www.wingz.com/"
     },
     {
       "boards": [],
@@ -11545,7 +11576,7 @@
       "company": "TransUnion",
       "error": "public request failed for https://www.transunion.com/: HTTP Error 403: Forbidden",
       "key": "46847de6ac1f3f79d587377b",
-      "last_scanned": "2026-09-21",
+      "last_scanned": "2026-10-06",
       "url": "https://www.transunion.com/"
     },
     {
@@ -11592,7 +11623,7 @@
       "company": "Gulfstream Aerospace",
       "error": "public request failed for https://www.gulfstream.com/: HTTP Error 403: Forbidden",
       "key": "46cae11f77039a80f1b4f16b",
-      "last_scanned": "2026-09-24",
+      "last_scanned": "2026-10-06",
       "url": "https://www.gulfstream.com/"
     },
     {
@@ -11973,7 +12004,7 @@
       "boards": [],
       "company": "Relativity Space",
       "key": "48f0f854ec43ac9899bc2635",
-      "last_scanned": "2026-09-19",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://relativityspace.com/"
     },
@@ -12143,8 +12174,9 @@
     {
       "boards": [],
       "company": "Rippling",
+      "error": "public request failed for https://www.rippling.com/: HTTP Error 429: Too Many Requests",
       "key": "49f89780293baa1f31c4eefe",
-      "last_scanned": "2026-09-22",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://www.rippling.com/"
     },
@@ -12492,6 +12524,14 @@
       "last_scanned": "2026-10-01",
       "resolved_roles": 1,
       "url": "https://www.pplweb.com/"
+    },
+    {
+      "boards": [],
+      "company": "Pure Storage",
+      "key": "4c129d2d667c3e7e5262e5f7",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 0,
+      "url": "https://www.everpuredata.com/"
     },
     {
       "company": "WGI",
@@ -13376,7 +13416,7 @@
       ],
       "company": "Airbus",
       "key": "50d60f3d36df11c62ec10869",
-      "last_scanned": "2026-09-29",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://us.airbus.com/"
     },
@@ -14679,7 +14719,7 @@
       "company": "Ascensus",
       "error": "public request failed for https://www.ascensus.com/: HTTP Error 403: Forbidden",
       "key": "584fa5f6d482d69dae71eb53",
-      "last_scanned": "2026-09-22",
+      "last_scanned": "2026-10-06",
       "url": "https://www.ascensus.com/"
     },
     {
@@ -15478,7 +15518,7 @@
       "boards": [],
       "company": "Commonwealth Associates, Inc.",
       "key": "5cdbaf1a93bd0318e34adf78",
-      "last_scanned": "2026-09-21",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://www.cai-engr.com/"
     },
@@ -15677,6 +15717,14 @@
       "last_scanned": "2026-10-02",
       "resolved_roles": 0,
       "url": "https://elevate.com/"
+    },
+    {
+      "boards": [],
+      "company": "A Cut Above Uniforms",
+      "key": "5e1b20d033d885261ceb4607",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 0,
+      "url": "https://www.acutaboveuniforms.com/"
     },
     {
       "company": "Zahner",
@@ -16691,6 +16739,14 @@
       "url": "https://www.hmsa.com/"
     },
     {
+      "boards": [],
+      "company": "JSR Tech Consulting",
+      "key": "644558a6fd498d8cbcb1b783",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 0,
+      "url": "https://www.jsrtechconsulting.com/"
+    },
+    {
       "company": "Upbound Group",
       "error": "public request failed for https://www.upbound.com/: HTTP Error 403: Forbidden",
       "key": "644c808b568deb5479244617",
@@ -16777,7 +16833,7 @@
       "boards": [],
       "company": "Affirm",
       "key": "651cc3f594cc355b33b77a65",
-      "last_scanned": "2026-09-28",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://www.affirm.com/"
     },
@@ -18091,6 +18147,16 @@
       "last_scanned": "2026-09-23",
       "resolved_roles": 0,
       "url": "https://www.denverhealth.org/"
+    },
+    {
+      "boards": [
+        "greenhouse:taxrise"
+      ],
+      "company": "TaxRise",
+      "key": "6cad6225eeb645872aa793e4",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 0,
+      "url": "https://www.taxrise.com/"
     },
     {
       "boards": [],
@@ -20271,6 +20337,14 @@
     },
     {
       "boards": [],
+      "company": "Pampered Chef",
+      "key": "79b23dbb5884e8db048a07b2",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 0,
+      "url": "https://www.pamperedchef.com/"
+    },
+    {
+      "boards": [],
       "company": "Qualcomm",
       "key": "79b2997f5c0472c8d3a9690d",
       "last_scanned": "2026-10-03",
@@ -20892,6 +20966,14 @@
       "last_scanned": "2026-09-19",
       "resolved_roles": 0,
       "url": "https://7brew.com/"
+    },
+    {
+      "boards": [],
+      "company": "TriNet",
+      "key": "7d512ea9f7b14b8c0acbcd67",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 0,
+      "url": "https://trinet.com/"
     },
     {
       "company": "ioFortress",
@@ -22597,7 +22679,7 @@
       ],
       "company": "OneFourTwo Design Group",
       "key": "884ffcaa9e19361370ebba6e",
-      "last_scanned": "2026-09-15",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://www.142designgroup.com/"
     },
@@ -22747,7 +22829,7 @@
       ],
       "company": "Rhoda AI",
       "key": "8911fabbd5db05e543371637",
-      "last_scanned": "2026-09-29",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://www.rhoda.ai/"
     },
@@ -23478,6 +23560,14 @@
       "last_scanned": "2026-09-24",
       "resolved_roles": 0,
       "url": "https://www.argogroup.com/"
+    },
+    {
+      "boards": [],
+      "company": "New England Asset Management, Inc. (NEAM, Inc.)",
+      "key": "8cdbb3333545cdb24a443949",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 0,
+      "url": "https://www.neamgroup.com/"
     },
     {
       "boards": [
@@ -24399,7 +24489,7 @@
       "boards": [],
       "company": "Saviynt",
       "key": "92cb03a71f493648e7b9f1a5",
-      "last_scanned": "2026-09-22",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://saviynt.com/"
     },
@@ -24515,6 +24605,14 @@
       "last_scanned": "2026-09-02",
       "resolved_roles": 0,
       "url": "https://www.aegon.com/"
+    },
+    {
+      "boards": [],
+      "company": "Wilson Elser",
+      "key": "93581ad817da069bade776dd",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 0,
+      "url": "https://www.wilsonelser.com/"
     },
     {
       "boards": [],
@@ -24953,6 +25051,14 @@
     },
     {
       "boards": [],
+      "company": "Courier Health",
+      "key": "9626817e2bd3a334f6ef525c",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 0,
+      "url": "https://www.courierhealth.com/"
+    },
+    {
+      "boards": [],
       "company": "Excel Sports Management",
       "key": "962d4fb0ddf42cd4e886dfd0",
       "last_scanned": "2026-08-15",
@@ -25086,6 +25192,14 @@
     },
     {
       "boards": [],
+      "company": "Mytra",
+      "key": "974c6602fb5b1f1603cabd21",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 1,
+      "url": "https://mytra.ai/"
+    },
+    {
+      "boards": [],
       "company": "Dhaka Technologies Limited Company",
       "key": "9777a78c460fc4b2feb6f900",
       "last_scanned": "2026-08-20",
@@ -25187,6 +25301,14 @@
       "key": "9834116ab23187904b9ae3e6",
       "last_scanned": "2026-10-06",
       "url": "https://www.honda.com/"
+    },
+    {
+      "boards": [],
+      "company": "SS&C Technologies",
+      "key": "984d08b24013a143610d47cb",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 0,
+      "url": "https://www.ssctech.com/"
     },
     {
       "boards": [],
@@ -26279,7 +26401,7 @@
       "boards": [],
       "company": "Point",
       "key": "9f2845c53757146ff83cd38f",
-      "last_scanned": "2026-09-29",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://point.com/"
     },
@@ -27168,6 +27290,14 @@
       "key": "a3b2648349a5e560cd61741b",
       "last_scanned": "2026-09-29",
       "url": "https://www.lids.com/"
+    },
+    {
+      "boards": [],
+      "company": "Fortitude Re",
+      "key": "a3b8414f5e8740f74b82e9d8",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 0,
+      "url": "https://fortitude-re.com/"
     },
     {
       "company": "StudyFetch",
@@ -28111,6 +28241,14 @@
     },
     {
       "boards": [],
+      "company": "Arbor Research Collaborative for Health",
+      "key": "a957843ebe69ee1bfa609e24",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 0,
+      "url": "https://www.arborresearch.org/"
+    },
+    {
+      "boards": [],
       "company": "Mercury Systems",
       "key": "a95c2772fff499d5e2740f8c",
       "last_scanned": "2026-10-06",
@@ -28836,6 +28974,14 @@
     },
     {
       "boards": [],
+      "company": "Sunflower Health Plan",
+      "key": "ade6892cac8d6e97cd16cdec",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 0,
+      "url": "https://www.sunflowerhealthplan.com/"
+    },
+    {
+      "boards": [],
       "company": "Morgan Stanley",
       "key": "ade9abef1e457214375b6f6d",
       "last_scanned": "2026-10-05",
@@ -29091,6 +29237,14 @@
       "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://www.linkedin.com/company/113149050"
+    },
+    {
+      "boards": [],
+      "company": "Aurora",
+      "key": "af9c72e85856ddc028464e43",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 0,
+      "url": "https://aurora.tech/"
     },
     {
       "boards": [],
@@ -31865,7 +32019,7 @@
       ],
       "company": "Jerry",
       "key": "c0f87b27120c09da8748607f",
-      "last_scanned": "2026-09-21",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://jerry.ai/"
     },
@@ -32068,7 +32222,7 @@
       ],
       "company": "Centene Corporation",
       "key": "c213e2b0c48455a8e2356be3",
-      "last_scanned": "2026-09-29",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://centene.com/"
     },
@@ -32693,6 +32847,16 @@
       "last_scanned": "2026-08-26",
       "resolved_roles": 0,
       "url": "https://www.rushenterprises.com/"
+    },
+    {
+      "boards": [
+        "ashby:niantic-spatial"
+      ],
+      "company": "Niantic Spatial, Inc.",
+      "key": "c5e0096c2306f1e57a3f8607",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 0,
+      "url": "https://www.nianticspatial.com/en"
     },
     {
       "boards": [
@@ -33551,7 +33715,7 @@
       "boards": [],
       "company": "Mindsize",
       "key": "ca85bd1e383a99716bc81200",
-      "last_scanned": "2026-09-29",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://mindsize.com/"
     },
@@ -33666,7 +33830,7 @@
       "company": "Tata Consultancy Services",
       "error": "public request failed for https://www.tcs.com/: HTTP Error 403: Forbidden",
       "key": "cb1b4f4fb4ca317c8023b438",
-      "last_scanned": "2026-10-05",
+      "last_scanned": "2026-10-06",
       "url": "https://www.tcs.com/"
     },
     {
@@ -34185,7 +34349,7 @@
       "company": "WSP in the U.S.",
       "error": "public request failed for https://www.wsp.com/en-us: HTTP Error 403: Forbidden",
       "key": "ce26e2f6b0157eb94cc09fde",
-      "last_scanned": "2026-10-05",
+      "last_scanned": "2026-10-06",
       "url": "https://www.wsp.com/en-us"
     },
     {
@@ -34848,6 +35012,14 @@
     },
     {
       "boards": [],
+      "company": "Twilio",
+      "key": "d1ae070a1f231ebcf5481980",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 0,
+      "url": "https://www.twilio.com/"
+    },
+    {
+      "boards": [],
       "company": "Baird, Hampton & Brown",
       "key": "d1aea57e32c0b04f1b334b52",
       "last_scanned": "2026-09-17",
@@ -35132,6 +35304,16 @@
       "url": "https://www.breakthroughfuel.com/"
     },
     {
+      "boards": [
+        "ashby:dryft"
+      ],
+      "company": "Dryft",
+      "key": "d2ce2605867b9637e2c779c2",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 0,
+      "url": "https://dryft.ai/"
+    },
+    {
       "company": "HRI Hospital",
       "error": "public request failed for https://hrihospital.com/: HTTP Error 403: Forbidden",
       "key": "d2dbe75be8c4eedc1d8b4241",
@@ -35281,6 +35463,14 @@
       "last_scanned": "2026-10-03",
       "resolved_roles": 0,
       "url": "https://www.omvrti.ai/"
+    },
+    {
+      "boards": [],
+      "company": "Iowa Soybean Association",
+      "key": "d37beccf4c6a05c9c5638166",
+      "last_scanned": "2026-10-06",
+      "resolved_roles": 0,
+      "url": "https://www.iasoybeans.com/"
     },
     {
       "boards": [
@@ -37284,7 +37474,7 @@
       "boards": [],
       "company": "Trexquant Investment LP",
       "key": "dfcedf46afbcee6a63acd26f",
-      "last_scanned": "2026-09-22",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://trexquant.com/"
     },
@@ -37526,7 +37716,7 @@
       "boards": [],
       "company": "Awardco",
       "key": "e17bba4c3ebeb5b2d1a55705",
-      "last_scanned": "2026-09-29",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://www.awardco.com/"
     },
@@ -40070,7 +40260,7 @@
       "boards": [],
       "company": "EquipmentShare",
       "key": "f01cb350f6989ae36e6134b4",
-      "last_scanned": "2026-09-14",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://www.equipmentshare.com/"
     },
@@ -41081,7 +41271,7 @@
       "company": "Rubrik",
       "error": "public request failed for https://www.rubrik.com/: HTTP Error 403: Forbidden",
       "key": "f61cf0c24b28035366bfaa16",
-      "last_scanned": "2026-10-05",
+      "last_scanned": "2026-10-06",
       "url": "https://rubrik.com/"
     },
     {
@@ -42659,7 +42849,7 @@
       "boards": [],
       "company": "Alliance Laundry Systems LLC",
       "key": "ff84b340cdef74e34fb686a9",
-      "last_scanned": "2026-09-28",
+      "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://alliancelaundry.com/"
     },

@@ -554,6 +554,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Dryft",
+      "key": "ashby:dryft",
+      "slug": "dryft"
+    },
+    {
+      "ats": "ashby",
       "company": "Dyna Robotics",
       "key": "ashby:dyna-robotics",
       "slug": "dyna-robotics"
@@ -1343,6 +1349,12 @@
       "company": "Nexxen",
       "key": "ashby:nexxen",
       "slug": "nexxen"
+    },
+    {
+      "ats": "ashby",
+      "company": "Niantic Spatial",
+      "key": "ashby:niantic-spatial",
+      "slug": "niantic-spatial"
     },
     {
       "ats": "ashby",
@@ -2739,6 +2751,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Alo Yoga",
+      "key": "greenhouse:aloyoga",
+      "slug": "aloyoga"
+    },
+    {
+      "ats": "greenhouse",
       "company": "AlphaSense",
       "key": "greenhouse:alphasense",
       "slug": "alphasense"
@@ -3342,6 +3360,12 @@
       "company": "Cook Systems",
       "key": "greenhouse:cooksys",
       "slug": "cooksys"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Courier Health",
+      "key": "greenhouse:courierhealth",
+      "slug": "courierhealth"
     },
     {
       "ats": "greenhouse",
@@ -4095,6 +4119,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "IEX",
+      "key": "greenhouse:iex-interns",
+      "slug": "iex-interns"
+    },
+    {
+      "ats": "greenhouse",
       "company": "iHerb",
       "key": "greenhouse:iherb",
       "slug": "iherb"
@@ -4434,6 +4464,12 @@
       "company": "McMaster-Carr",
       "key": "greenhouse:mcmastercarr",
       "slug": "mcmastercarr"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "MEMX",
+      "key": "greenhouse:memx",
+      "slug": "memx"
     },
     {
       "ats": "greenhouse",
@@ -5271,6 +5307,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "TaxRise",
+      "key": "greenhouse:taxrise",
+      "slug": "taxrise"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Tebra",
       "key": "greenhouse:tebra",
       "slug": "tebra"
@@ -5829,7 +5871,7 @@
     },
     {
       "ats": "lever",
-      "company": "Allegiant Air",
+      "company": "Allegiant",
       "key": "lever:allegiantair",
       "slug": "allegiantair"
     },
@@ -16229,6 +16271,15 @@
       "site": "MFS-Careers",
       "slug": "mfs",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "MGM Resorts",
+      "host": "mgmresorts.wd5.myworkdayjobs.com",
+      "key": "workday:mgmresorts.wd5.myworkdayjobs.com:mgmresorts:mgmcareers",
+      "site": "mgmcareers",
+      "slug": "mgmresorts",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
