@@ -1964,6 +1964,12 @@
     },
     {
       "ats": "ashby",
+      "company": "SpruceID",
+      "key": "ashby:spruceid",
+      "slug": "spruceid"
+    },
+    {
+      "ats": "ashby",
       "company": "Convective",
       "key": "ashby:standinsurance",
       "slug": "StandInsurance"
@@ -1973,6 +1979,12 @@
       "company": "Starfish Space",
       "key": "ashby:starfish-space-inc",
       "slug": "starfish-space-inc"
+    },
+    {
+      "ats": "ashby",
+      "company": "Strada",
+      "key": "ashby:stradahq",
+      "slug": "stradahq"
     },
     {
       "ats": "ashby",
@@ -2338,6 +2350,13 @@
       "host": "asuresoftware.bamboohr.com",
       "key": "bamboohr:asuresoftware",
       "slug": "asuresoftware"
+    },
+    {
+      "ats": "bamboohr",
+      "company": "Ausland Group",
+      "host": "ausland.bamboohr.com",
+      "key": "bamboohr:ausland",
+      "slug": "ausland"
     },
     {
       "ats": "bamboohr",
@@ -2901,7 +2920,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "Assyst",
+      "company": "ASSYST",
       "key": "greenhouse:assystinc",
       "slug": "assystinc"
     },
@@ -3957,6 +3976,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Graham Capital Management",
+      "key": "greenhouse:grahamcapitalmanagement",
+      "slug": "grahamcapitalmanagement"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Superhuman",
       "key": "greenhouse:grammarly",
       "slug": "grammarly"
@@ -4737,6 +4762,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Otter.ai",
+      "key": "greenhouse:otterai",
+      "slug": "otterai"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Convective",
       "key": "greenhouse:overstory",
       "slug": "overstory"
@@ -5256,6 +5287,12 @@
       "company": "SpaceX",
       "key": "greenhouse:spacex",
       "slug": "spacex"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "State Affairs",
+      "key": "greenhouse:stateaffairs",
+      "slug": "stateaffairs"
     },
     {
       "ats": "greenhouse",
@@ -7189,6 +7226,22 @@
     },
     {
       "ats": "oracle",
+      "company": "LCS",
+      "host": "eexs.fa.us2.oraclecloud.com",
+      "key": "oracle:eexs.fa.us2.oraclecloud.com:allcommunityjobs",
+      "site": "allcommunityjobs",
+      "slug": "eexs"
+    },
+    {
+      "ats": "oracle",
+      "company": "LCS",
+      "host": "eexs.fa.us2.oraclecloud.com",
+      "key": "oracle:eexs.fa.us2.oraclecloud.com:alljobs",
+      "site": "AllJobs",
+      "slug": "eexs"
+    },
+    {
+      "ats": "oracle",
       "company": "Bellingham at West Chester",
       "host": "eexs.fa.us2.oraclecloud.com",
       "key": "oracle:eexs.fa.us2.oraclecloud.com:bellinghamatwestchester",
@@ -7233,6 +7286,14 @@
       "host": "eexs.fa.us2.oraclecloud.com",
       "key": "oracle:eexs.fa.us2.oraclecloud.com:greenwoodvillagesouth",
       "site": "GreenwoodVillageSouth",
+      "slug": "eexs"
+    },
+    {
+      "ats": "oracle",
+      "company": "LCS",
+      "host": "eexs.fa.us2.oraclecloud.com",
+      "key": "oracle:eexs.fa.us2.oraclecloud.com:lcs",
+      "site": "LCS",
       "slug": "eexs"
     },
     {
@@ -9905,6 +9966,12 @@
     },
     {
       "ats": "workable",
+      "company": "SchooLinks",
+      "key": "workable:schoolinks",
+      "slug": "schoolinks"
+    },
+    {
+      "ats": "workable",
       "company": "SciTec",
       "key": "workable:scitec",
       "slug": "scitec"
@@ -10574,6 +10641,15 @@
       "site": "allegrocareers",
       "slug": "allegromicro",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Nissan Global",
+      "host": "alliance.wd3.myworkdayjobs.com",
+      "key": "workday:alliance.wd3.myworkdayjobs.com:alliance:nissanjobs",
+      "site": "nissanjobs",
+      "slug": "alliance",
+      "wd": "wd3"
     },
     {
       "ats": "workday",
@@ -12170,6 +12246,24 @@
     },
     {
       "ats": "workday",
+      "company": "Cherry Bekaert",
+      "host": "cbh.wd12.myworkdayjobs.com",
+      "key": "workday:cbh.wd12.myworkdayjobs.com:cbh:cherrybekaert",
+      "site": "CherryBekaert",
+      "slug": "cbh",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
+      "company": "Cherry Bekaert",
+      "host": "cbh.wd12.myworkdayjobs.com",
+      "key": "workday:cbh.wd12.myworkdayjobs.com:cbh:cherrybekaertearlycareers",
+      "site": "CherryBekaertEarlyCareers",
+      "slug": "cbh",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
       "company": "Cboe Global Markets",
       "host": "cboe.wd1.myworkdayjobs.com",
       "key": "workday:cboe.wd1.myworkdayjobs.com:cboe:external_career_cboe",
@@ -12239,6 +12333,15 @@
       "site": "Centific_Global",
       "slug": "centific",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Centric Software",
+      "host": "centricsoftware.wd501.myworkdayjobs.com",
+      "key": "workday:centricsoftware.wd501.myworkdayjobs.com:centricsoftware:centric",
+      "site": "Centric",
+      "slug": "centricsoftware",
+      "wd": "wd501"
     },
     {
       "ats": "workday",
@@ -17471,6 +17574,15 @@
     },
     {
       "ats": "workday",
+      "company": "Pew Research Center",
+      "host": "pewtrusts.wd5.myworkdayjobs.com",
+      "key": "workday:pewtrusts.wd5.myworkdayjobs.com:pewtrusts:centerexternal",
+      "site": "CenterExternal",
+      "slug": "pewtrusts",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Pfizer",
       "host": "pfizer.wd1.myworkdayjobs.com",
       "key": "workday:pfizer.wd1.myworkdayjobs.com:pfizer:pfizercareers",
@@ -18566,6 +18678,15 @@
       "site": "shicareers",
       "slug": "shi",
       "wd": "wd12"
+    },
+    {
+      "ats": "workday",
+      "company": "Sierra Space",
+      "host": "sierraspace.wd1.myworkdayjobs.com",
+      "key": "workday:sierraspace.wd1.myworkdayjobs.com:sierraspace:sierra_space_external_career_site",
+      "site": "Sierra_Space_External_Career_Site",
+      "slug": "sierraspace",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
