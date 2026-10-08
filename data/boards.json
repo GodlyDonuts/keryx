@@ -2662,6 +2662,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "66degrees",
+      "key": "greenhouse:66degrees",
+      "slug": "66degrees"
+    },
+    {
+      "ats": "greenhouse",
       "company": "84.51 Degrees",
       "key": "greenhouse:8451",
       "slug": "8451"
@@ -4660,6 +4666,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Nexight Group",
+      "key": "greenhouse:nexightgroup",
+      "slug": "nexightgroup"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Munich Re",
       "key": "greenhouse:nextinsurancemresandbox",
       "slug": "nextinsurancemresandbox"
@@ -6256,6 +6268,18 @@
     },
     {
       "ats": "lever",
+      "company": "Furientis",
+      "key": "lever:furientis",
+      "slug": "furientis"
+    },
+    {
+      "ats": "lever",
+      "company": "GenBio AI",
+      "key": "lever:genbio",
+      "slug": "genbio"
+    },
+    {
+      "ats": "lever",
       "company": "Global Lending Services",
       "key": "lever:glsllc",
       "slug": "glsllc"
@@ -6787,6 +6811,12 @@
       "company": "Versana",
       "key": "lever:versana",
       "slug": "Versana"
+    },
+    {
+      "ats": "lever",
+      "company": "Viget",
+      "key": "lever:viget",
+      "slug": "viget"
     },
     {
       "ats": "lever",
@@ -10947,6 +10977,15 @@
     },
     {
       "ats": "workday",
+      "company": "Apple Bank",
+      "host": "applebank.wd5.myworkdayjobs.com",
+      "key": "workday:applebank.wd5.myworkdayjobs.com:applebank:applebankcareers",
+      "site": "applebankcareers",
+      "slug": "applebank",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Applied Information Sciences",
       "host": "appliedis.wd5.myworkdayjobs.com",
       "key": "workday:appliedis.wd5.myworkdayjobs.com:appliedis:ais_careers",
@@ -14970,10 +15009,10 @@
     },
     {
       "ats": "workday",
-      "company": "Huntington Bancshares",
+      "company": "Huntington Bank",
       "host": "huntington.wd12.myworkdayjobs.com",
       "key": "workday:huntington.wd12.myworkdayjobs.com:huntington:hnbcareers",
-      "site": "HNBcareers",
+      "site": "hnbcareers",
       "slug": "huntington",
       "wd": "wd12"
     },
@@ -15618,7 +15657,7 @@
     },
     {
       "ats": "workday",
-      "company": "Jones Lang LaSalle",
+      "company": "Jones Lang LaSalle (JLL)",
       "host": "jll.wd1.myworkdayjobs.com",
       "key": "workday:jll.wd1.myworkdayjobs.com:jll:jllcareers",
       "site": "jllcareers",
@@ -16590,7 +16629,7 @@
     },
     {
       "ats": "workday",
-      "company": "ModMed",
+      "company": "Modernizing Medicine",
       "host": "modmed.wd501.myworkdayjobs.com",
       "key": "workday:modmed.wd501.myworkdayjobs.com:modmed:modmed12",
       "site": "ModMed12",
@@ -19797,7 +19836,7 @@
       "company": "Thermo Fisher Scientific",
       "host": "thermofisher.wd5.myworkdayjobs.com",
       "key": "workday:thermofisher.wd5.myworkdayjobs.com:thermofisher:thermofishercareers",
-      "site": "ThermoFisherCareers",
+      "site": "thermofishercareers",
       "slug": "thermofisher",
       "wd": "wd5"
     },
@@ -20112,7 +20151,7 @@
       "company": "Milwaukee Tool",
       "host": "tti.wd1.myworkdayjobs.com",
       "key": "workday:tti.wd1.myworkdayjobs.com:tti:milwaukee",
-      "site": "Milwaukee",
+      "site": "milwaukee",
       "slug": "tti",
       "wd": "wd1"
     },
