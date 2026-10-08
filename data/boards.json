@@ -314,6 +314,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Chalk",
+      "key": "ashby:chalk",
+      "slug": "chalk"
+    },
+    {
+      "ats": "ashby",
       "company": "Chamber Cardio",
       "key": "ashby:chambercardio",
       "slug": "chambercardio"
@@ -9672,6 +9678,12 @@
     },
     {
       "ats": "workable",
+      "company": "Elevate",
+      "key": "workable:elevate-47",
+      "slug": "elevate-47"
+    },
+    {
+      "ats": "workable",
       "company": "Elevate Semiconductor",
       "key": "workable:elevate-semiconductor",
       "slug": "elevate-semiconductor"
@@ -10644,7 +10656,7 @@
     },
     {
       "ats": "workday",
-      "company": "Nissan Global",
+      "company": "Nissan",
       "host": "alliance.wd3.myworkdayjobs.com",
       "key": "workday:alliance.wd3.myworkdayjobs.com:alliance:nissanjobs",
       "site": "nissanjobs",
@@ -20649,6 +20661,24 @@
       "site": "vumccareers",
       "slug": "vumc",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Walbec Group",
+      "host": "walbecgroup.wd501.myworkdayjobs.com",
+      "key": "workday:walbecgroup.wd501.myworkdayjobs.com:walbecgroup:walbecgroup",
+      "site": "WalbecGroup",
+      "slug": "walbecgroup",
+      "wd": "wd501"
+    },
+    {
+      "ats": "workday",
+      "company": "Walbec Group",
+      "host": "walbecgroup.wd501.myworkdayjobs.com",
+      "key": "workday:walbecgroup.wd501.myworkdayjobs.com:walbecgroup:walbecgroupfield",
+      "site": "WalbecGroupField",
+      "slug": "walbecgroup",
+      "wd": "wd501"
     },
     {
       "ats": "workday",
