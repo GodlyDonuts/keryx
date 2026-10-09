@@ -2884,6 +2884,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Arcesium",
+      "key": "greenhouse:arcesiumllc",
+      "slug": "arcesiumllc"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Archer",
       "key": "greenhouse:archer56",
       "slug": "archer56"
@@ -6013,6 +6019,12 @@
       "company": "CrowdGen by Appen",
       "key": "lever:appen",
       "slug": "appen"
+    },
+    {
+      "ats": "lever",
+      "company": "Appen",
+      "key": "lever:appen-2",
+      "slug": "appen-2"
     },
     {
       "ats": "lever",
@@ -10280,10 +10292,10 @@
     },
     {
       "ats": "workday",
-      "company": "Advocate Health Care",
+      "company": "Advocate Health",
       "host": "aah.wd5.myworkdayjobs.com",
       "key": "workday:aah.wd5.myworkdayjobs.com:aah:external",
-      "site": "External",
+      "site": "external",
       "slug": "aah",
       "wd": "wd5"
     },
@@ -10748,7 +10760,7 @@
     },
     {
       "ats": "workday",
-      "company": "Allstate Insurance Company",
+      "company": "Allstate",
       "host": "allstate.wd5.myworkdayjobs.com",
       "key": "workday:allstate.wd5.myworkdayjobs.com:allstate:allstate_careers",
       "site": "allstate_careers",
@@ -13265,6 +13277,15 @@
       "site": "dan_global",
       "slug": "dentsuaegis",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "City and County of Denver",
+      "host": "denver.wd1.myworkdayjobs.com",
+      "key": "workday:denver.wd1.myworkdayjobs.com:denver:ccd-denver-denvergov-csc_jobs-civil_service_jobs-police_jobs-fire_jobs",
+      "site": "CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs",
+      "slug": "denver",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -17597,6 +17618,15 @@
     },
     {
       "ats": "workday",
+      "company": "Papa John's",
+      "host": "papajohns.wd1.myworkdayjobs.com",
+      "key": "workday:papajohns.wd1.myworkdayjobs.com:papajohns:papajohnscareers",
+      "site": "papajohnscareers",
+      "slug": "papajohns",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Parexel",
       "host": "parexel.wd1.myworkdayjobs.com",
       "key": "workday:parexel.wd1.myworkdayjobs.com:parexel:parexel_external_careers",
@@ -20174,7 +20204,7 @@
       "company": "Milwaukee Tool",
       "host": "tti.wd1.myworkdayjobs.com",
       "key": "workday:tti.wd1.myworkdayjobs.com:tti:milwaukee",
-      "site": "milwaukee",
+      "site": "Milwaukee",
       "slug": "tti",
       "wd": "wd1"
     },

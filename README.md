@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,415 internships · 4,681 new-grad roles · 14,096 total openings**
+**9,473 internships · 4,712 new-grad roles · 14,185 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,423 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 407 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 643 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 200 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,742 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,431 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 406 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 649 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 202 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,785 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,046 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,005 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,630 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,054 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,011 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,647 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Air Products | Summer Intern- IT/Digital Technology (2027) | Allentown, Pennsylvania | Not listed | not available | 2026-10-09 | **[Apply →](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT-Digital-Technology--2027-_JR-2026-21953)**<br><sub>airproducts.wd5.myworkdayjobs.com</sub> |
+| Allegion | Summer Intern - Product Management | Carmel, IN | Not listed | not available | 2026-10-09 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Product-Management_JR37369-1)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
+| Applied Materials | Electrical Engineer Intern - Controls/PCB | Gloucester, MA | Summer 2027 | not available | 2026-10-09 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineer--Intern--Controls-PCB----BS-or-MS--Gloucester--MA-_R2630658)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
 | Aptiv | Embedded Software - Engineering Intern | USA Walnut Creek, CA - WR | Not listed | not available | 2026-10-09 | **[Apply →](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386)**<br><sub>aptiv.wd5.myworkdayjobs.com</sub> |
 | Aptiv | Linux Software Development Intern | USA Home Office - WR | Not listed | not available | 2026-10-09 | **[Apply →](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398)**<br><sub>aptiv.wd5.myworkdayjobs.com</sub> |
 | Aptiv | Linux Software Development Intern | USA Home Office - WR | Not listed | not available | 2026-10-09 | **[Apply →](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399)**<br><sub>aptiv.wd5.myworkdayjobs.com</sub> |
-| Standard Aero | IT Analyst Co-op | Cincinnati, OH | Spring 2027 | not available | 2026-10-09 | **[Apply →](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10255)**<br><sub>cva.fa.us1.oraclecloud.com</sub> |
-| 7-Eleven | AI Engineer Intern | Irving, TX | Summer 2027 | not available | 2026-10-08 | **[Apply →](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/AI-Engineer-Intern_R26_5974-1)**<br><sub>my7elevenhr.wd12.myworkdayjobs.com</sub> |
-| 7-Eleven | Digital Product Manager Intern | Irving, TX | Summer 2027 | not available | 2026-10-08 | **[Apply →](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Digital-Product-Manager-Intern_R26_5991)**<br><sub>my7elevenhr.wd12.myworkdayjobs.com</sub> |
-| AeroVironment | Autonomy & Robotics Engineer Intern | Germantown, MD, Dayton, OH, Pottstown, PA, Albuquerque, NM, Sunrise, FL, Arlington County, Arlington, VA, Melbourne, FL, Petaluma, CA, Minneapolis, MN, Herndon, VA, Huntsville, AL, San Diego, CA, Moorpark, CA, Simi Valley, CA | Summer 2027 | not available | 2026-10-08 | **[Apply →](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8556)**<br><sub>avav.wd1.myworkdayjobs.com</sub> |
-| Amazon | Business Intelligence Engineer Intern | Seattle, WA | Summer 2027 | not available | 2026-10-08 | **[Apply →](https://amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us)**<br><sub>amazon.jobs</sub> |
-| Amazon | Data Engineer Intern | Seattle, WA | Summer 2027 | not available | 2026-10-08 | **[Apply →](https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us)**<br><sub>amazon.jobs</sub> |
-| American Electric Power | Data Scientist Intern - Columbus, OH | Columbus, OH | Not listed | not available | 2026-10-08 | **[Apply →](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R19884)**<br><sub>aep.wd1.myworkdayjobs.com</sub> |
-| Astranis Space Technologies | Software Developer - Network Software Intern - Summer 2027 | San Francisco, CA | Summer 2027 | not available | 2026-10-08 | **[Apply →](https://job-boards.greenhouse.io/astranis/jobs/4705597006)**<br><sub>job-boards.greenhouse.io</sub> |
-| Astranis Space Technologies | Software Developer - Network Software Intern - Winter 2027 | San Francisco, CA | Winter 2027 | not available | 2026-10-08 | **[Apply →](https://job-boards.greenhouse.io/astranis/jobs/4705599006)**<br><sub>job-boards.greenhouse.io</sub> |
+| Arcesium | Infrastructure Engineer Intern | New York | Not listed | not stated | 2026-10-09 | **[Apply →](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007)**<br><sub>job-boards.greenhouse.io</sub> |
+| GCM Grosvenor | 2027 IT-Product & Strategy Summer Intern | Chicago, Illinois, United States | Summer 2027 | Dec 2028–Spring 2029<br><sub>stated</sub> | 2026-10-09 | **[Apply →](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015835003)**<br><sub>job-boards.greenhouse.io</sub> |
+| GCM Grosvenor | 2027 Software Engineering Summer Intern | Chicago, Illinois, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-10-09 | **[Apply →](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003)**<br><sub>job-boards.greenhouse.io</sub> |
+| Johnson & Johnson | Strategic Insight and Analytics Co-op | Horsham, PA | Summer 2027 | not available | 2026-10-09 | **[Apply →](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Strategic-Insight-and-Analytics-Co-Op-Off-Cycle--March---August-_R-103640)**<br><sub>jj.wd5.myworkdayjobs.com</sub> |
+| Johnson Controls | Software Engineer Co-op | Burlington, MA | Winter 2027 | not available | 2026-10-09 | **[Apply →](https://jci.wd5.myworkdayjobs.com/JCI/job/Burlington-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_EB00075408)**<br><sub>jci.wd5.myworkdayjobs.com</sub> |
+| Lennox | AI-Enabled Full-Stack Software Engineering Intern | Richardson, TX | Not listed | not available | 2026-10-09 | **[Apply →](https://uscareers-lennox.icims.com/jobs/54888/ai-enabled-full-stack-software-engineering-intern/job)**<br><sub>uscareers-lennox.icims.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Advantage Solutions | Category Insights Analyst | Chicago, IL, St. Louis, MO, Trenton, NJ | Not listed | not available | 2026-10-09 | **[Apply →](https://uscareers2-asm.icims.com/jobs/441209/job?mobile=true&needsRedirect=false)**<br><sub>uscareers2-asm.icims.com</sub> |
+| AmTrust Financial | Software Engineer 1 | Florida | Not listed | not available | 2026-10-09 | **[Apply →](https://careers-amtrustgroup.icims.com/jobs/21073/job?mobile=true&needsRedirect=false)**<br><sub>careers-amtrustgroup.icims.com</sub> |
 | CWILL | Order Tracking Product Management Trainee | Cary, NC | Not listed | not available | 2026-10-09 | **[Apply →](https://apply.workable.com/cwill-us/j/DD1A0BECB1/apply)**<br><sub>apply.workable.com</sub> |
+| Ford Motor Company | Accounting Technology Analyst | Dearborn, MI | Not listed | not available | 2026-10-09 | **[Apply →](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72451)**<br><sub>efds.fa.em5.oraclecloud.com</sub> |
 | Forge Nano | Software Engineer 1 | Thornton, CO | Not listed | not available | 2026-10-09 | **[Apply →](https://forge-nano.breezy.hr/p/66630c61f7e4/apply)**<br><sub>forge-nano.breezy.hr</sub> |
-| Uber | Graduate Software Engineer 2 | Sunnyvale, CA | Not listed | not available | 2026-10-09 | **[Apply →](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/301355)**<br><sub>iaziqy.fa.ocs.oraclecloud.com</sub> |
-| Uber | PhD Software Engineer 2 | Sunnyvale, CA | Not listed | not available | 2026-10-09 | **[Apply →](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/300813)**<br><sub>iaziqy.fa.ocs.oraclecloud.com</sub> |
-| 66 Degrees | Associate AI/ML Engineer - Gradient Specialist | Chicago, IL | Not listed | not available | 2026-10-08 | **[Apply →](https://job-boards.greenhouse.io/66degrees/jobs/6220259004)**<br><sub>job-boards.greenhouse.io</sub> |
-| 66 Degrees | Associate Data Engineer - Gradient Specialist | Chicago, IL | Not listed | not available | 2026-10-08 | **[Apply →](https://job-boards.greenhouse.io/66degrees/jobs/6220280004)**<br><sub>job-boards.greenhouse.io</sub> |
-| AeroVironment | Electrical Engineer 1 | Petaluma, CA | Not listed | not available | 2026-10-08 | **[Apply →](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Petaluma-CA/Electrical-Engineer-I_9066)**<br><sub>avav.wd1.myworkdayjobs.com</sub> |
-| AeroVironment | Software Engineer | Albuquerque, NM | Not listed | not available | 2026-10-08 | **[Apply →](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/Software-Engineer_9081)**<br><sub>avav.wd1.myworkdayjobs.com</sub> |
-| AeroVironment | Software Engineer 1 - Apps | San Diego, CA | Not listed | not available | 2026-10-08 | **[Apply →](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/7540-Metropolitan-Dr-San-Diego-CA/Software-Engineer--Apps---I_8655)**<br><sub>avav.wd1.myworkdayjobs.com</sub> |
-| Akima | Unity Game Developer | Huntsville, AL | Not listed | not available | 2026-10-08 | **[Apply →](https://careers.akima.com/jobs/26095?icims=1)**<br><sub>careers.akima.com</sub> |
-| Allstate Insurance Company | AI Product Engineer - Copilot & Power Platform | Remote in USA | Not listed | not available | 2026-10-08 | **[Apply →](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/AI-Product-Engineer--Copilot---Power-Platform---Remote---US-_R35481-1)**<br><sub>allstate.wd5.myworkdayjobs.com</sub> |
-| Amazon | Software Development Engineer - Amazon Leo - Early Career - 2026 | Redmond, WA | 2026 | not available | 2026-10-08 | **[Apply →](https://www.amazon.jobs/jobs/10513110/apply)**<br><sub>www.amazon.jobs</sub> |
+| Freedom Technology Solutions Group | Junior Software Engineer | Annapolis Junction, MD | Not listed | not available | 2026-10-09 | **[Apply →](https://job-boards.greenhouse.io/freedomconsulting/jobs/5248064007)**<br><sub>job-boards.greenhouse.io</sub> |
+| GE Aerospace | Entry Level FPGA Design/Verification Engineer | Grand Rapids, MI | Not listed | not available | 2026-10-09 | **[Apply →](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Grand-Rapids/Entry-Level---FPGA-Design-Verification-Engineer_R5041307-1)**<br><sub>geaerospace.wd5.myworkdayjobs.com</sub> |
+| General Dynamics | Entry Level Engineer - Embedded Software / Systems | New London, CT | Not listed | not available | 2026-10-09 | **[Apply →](https://careers-gdeb.icims.com/jobs/21062/job?mobile=true&needsRedirect=false)**<br><sub>careers-gdeb.icims.com</sub> |
+| Milwaukee Tool | EMC Electrical Engineering Technician 2 | Menomonee Falls, WI | Not listed | not available | 2026-10-09 | **[Apply →](https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Menomonee-Falls-WI/EMC-Electrical-Engineering-Technician-II---1st-Shift_R78106)**<br><sub>tti.wd1.myworkdayjobs.com</sub> |
+| Noblis | Software Developer - Multiple levels | Herndon, VA | Not listed | not available | 2026-10-09 | **[Apply →](https://careers.noblis.org/jobs/27974?icims=1)**<br><sub>careers.noblis.org</sub> |
+| RTX | Embedded Security Software Engineer 1 | Tewksbury, MA | Not listed | not available | 2026-10-09 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
+| RTX | Embedded Software Engineer 1 | Fullerton, CA | Not listed | not available | 2026-10-09 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-611--1801-Hughes-Dr--BLDG-611/Embedded-Software-Engineer-I--Onsite-_01881493)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
