@@ -2306,6 +2306,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Zefr",
+      "key": "ashby:zefr",
+      "slug": "zefr"
+    },
+    {
+      "ats": "ashby",
       "company": "Zello",
       "key": "ashby:zello",
       "slug": "Zello"
@@ -6142,6 +6148,12 @@
     },
     {
       "ats": "lever",
+      "company": "Complex NTWRK",
+      "key": "lever:complex",
+      "slug": "Complex"
+    },
+    {
+      "ats": "lever",
       "company": "NRI North America",
       "key": "lever:corebts",
       "slug": "corebts"
@@ -6553,6 +6565,12 @@
       "company": "Payactiv",
       "key": "lever:payactiv",
       "slug": "payactiv"
+    },
+    {
+      "ats": "lever",
+      "company": "Penta Group",
+      "key": "lever:pentagrp",
+      "slug": "pentagrp"
     },
     {
       "ats": "lever",
@@ -9794,6 +9812,12 @@
     },
     {
       "ats": "workable",
+      "company": "Funnel Leasing",
+      "key": "workable:funnel-leasing",
+      "slug": "funnel-leasing"
+    },
+    {
+      "ats": "workable",
       "company": "Generation West Virginia",
       "key": "workable:generation-west-virginia-1",
       "slug": "generation-west-virginia-1"
@@ -10079,6 +10103,12 @@
       "company": "Stockholm Environment Institute - U.S",
       "key": "workable:sei",
       "slug": "sei"
+    },
+    {
+      "ats": "workable",
+      "company": "Sigma Defense",
+      "key": "workable:sigmadefense",
+      "slug": "sigmadefense"
     },
     {
       "ats": "workable",
@@ -13619,6 +13649,15 @@
       "site": "econicpartnerscareers",
       "slug": "econicpartners",
       "wd": "wd501"
+    },
+    {
+      "ats": "workday",
+      "company": "Everwise Credit Union",
+      "host": "ecu.wd12.myworkdayjobs.com",
+      "key": "workday:ecu.wd12.myworkdayjobs.com:ecu:everwise_careers",
+      "site": "everwise_careers",
+      "slug": "ecu",
+      "wd": "wd12"
     },
     {
       "ats": "workday",
@@ -20369,6 +20408,15 @@
       "site": "External",
       "slug": "unisys",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Unum",
+      "host": "unum.wd1.myworkdayjobs.com",
+      "key": "workday:unum.wd1.myworkdayjobs.com:unum:external",
+      "site": "External",
+      "slug": "unum",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
