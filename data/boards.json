@@ -2662,7 +2662,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "66degrees",
+      "company": "66 Degrees",
       "key": "greenhouse:66degrees",
       "slug": "66degrees"
     },
@@ -2689,6 +2689,12 @@
       "company": "Accenture",
       "key": "greenhouse:accenturefederalservices",
       "slug": "accenturefederalservices"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "AcuityMD",
+      "key": "greenhouse:acuitymd",
+      "slug": "acuitymd"
     },
     {
       "ats": "greenhouse",
@@ -8508,6 +8514,14 @@
       "ats": "oracle",
       "company": "Uber",
       "host": "iaziqy.fa.ocs.oraclecloud.com",
+      "key": "oracle:iaziqy.fa.ocs.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "iaziqy"
+    },
+    {
+      "ats": "oracle",
+      "company": "Uber",
+      "host": "iaziqy.fa.ocs.oraclecloud.com",
       "key": "oracle:iaziqy.fa.ocs.oraclecloud.com:ubercareers",
       "site": "UberCareers",
       "slug": "iaziqy"
@@ -10734,7 +10748,7 @@
     },
     {
       "ats": "workday",
-      "company": "Allstate",
+      "company": "Allstate Insurance Company",
       "host": "allstate.wd5.myworkdayjobs.com",
       "key": "workday:allstate.wd5.myworkdayjobs.com:allstate:allstate_careers",
       "site": "allstate_careers",
@@ -11790,7 +11804,7 @@
       "company": "Bank of Montreal",
       "host": "bmo.wd3.myworkdayjobs.com",
       "key": "workday:bmo.wd3.myworkdayjobs.com:bmo:external",
-      "site": "external",
+      "site": "External",
       "slug": "bmo",
       "wd": "wd3"
     },
@@ -13095,7 +13109,7 @@
       "company": "CVS Health",
       "host": "cvshealth.wd1.myworkdayjobs.com",
       "key": "workday:cvshealth.wd1.myworkdayjobs.com:cvshealth:cvs_health_careers",
-      "site": "cvs_health_careers",
+      "site": "CVS_Health_Careers",
       "slug": "cvshealth",
       "wd": "wd1"
     },
@@ -14919,7 +14933,7 @@
     },
     {
       "ats": "workday",
-      "company": "Hewlett Packard (HP)",
+      "company": "Hewlett Packard",
       "host": "hp.wd5.myworkdayjobs.com",
       "key": "workday:hp.wd5.myworkdayjobs.com:hp:exteu-ac-careersite",
       "site": "EXTEU-AC-CareerSite",
@@ -16836,6 +16850,15 @@
     },
     {
       "ats": "workday",
+      "company": "7-Eleven",
+      "host": "my7elevenhr.wd12.myworkdayjobs.com",
+      "key": "workday:my7elevenhr.wd12.myworkdayjobs.com:my7elevenhr:careers",
+      "site": "Careers",
+      "slug": "my7elevenhr",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
       "company": "Cencora",
       "host": "myhrabc.wd5.myworkdayjobs.com",
       "key": "workday:myhrabc.wd5.myworkdayjobs.com:myhrabc:global",
@@ -17898,7 +17921,7 @@
     },
     {
       "ats": "workday",
-      "company": "PROS Holdings, Inc",
+      "company": "PROS Holdings",
       "host": "pros.wd5.myworkdayjobs.com",
       "key": "workday:pros.wd5.myworkdayjobs.com:pros:pros_careers",
       "site": "pros_careers",
@@ -20688,6 +20711,15 @@
     },
     {
       "ats": "workday",
+      "company": "Vertex Pharmaceuticals",
+      "host": "vrtx.wd501.myworkdayjobs.com",
+      "key": "workday:vrtx.wd501.myworkdayjobs.com:vrtx:vertex_careers",
+      "site": "vertex_careers",
+      "slug": "vrtx",
+      "wd": "wd501"
+    },
+    {
+      "ats": "workday",
       "company": "Vermont State University",
       "host": "vsc.wd108.myworkdayjobs.com",
       "key": "workday:vsc.wd108.myworkdayjobs.com:vsc:vtsu",
@@ -21208,6 +21240,15 @@
       "site": "WPI_External_Career_Site",
       "slug": "wpi",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "WSFS Bank",
+      "host": "wsfsbank.wd1.myworkdayjobs.com",
+      "key": "workday:wsfsbank.wd1.myworkdayjobs.com:wsfsbank:wsfscareers",
+      "site": "wsfscareers",
+      "slug": "wsfsbank",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
