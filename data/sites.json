@@ -338,7 +338,7 @@
       "boards": [],
       "company": "Encore",
       "key": "02825973dcd54c8b0856ba39",
-      "last_scanned": "2026-09-19",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.encoreglobal.com/"
     },
@@ -643,7 +643,7 @@
       "company": "Black & Veatch",
       "error": "public request failed for https://www.bv.com/en-US/Home: HTTP Error 404: Not Found",
       "key": "045274256e4fdb25278f972a",
-      "last_scanned": "2026-10-04",
+      "last_scanned": "2026-10-10",
       "url": "https://bv.com/Home"
     },
     {
@@ -1942,7 +1942,7 @@
       "company": "Swift",
       "error": "public request failed for https://www.swift.com/: HTTP Error 403: Forbidden",
       "key": "0c7be45b999355e55510d422",
-      "last_scanned": "2026-10-08",
+      "last_scanned": "2026-10-10",
       "url": "https://www.swift.com/"
     },
     {
@@ -2135,7 +2135,7 @@
       "boards": [],
       "company": "CHS Inc.",
       "key": "0da83727887e5ee742a09928",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.chsinc.com/"
     },
@@ -9308,7 +9308,7 @@
       ],
       "company": "Render",
       "key": "36c1fa9f996a1a9d4067b602",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://render.com/"
     },
@@ -12760,6 +12760,14 @@
     },
     {
       "boards": [],
+      "company": "Focus Loom",
+      "key": "4a9a892c36f8dd21f980d1c9",
+      "last_scanned": "2026-10-10",
+      "resolved_roles": 0,
+      "url": "https://www.linkedin.com/company/106102351"
+    },
+    {
+      "boards": [],
       "company": "Plymouth Rock Assurance",
       "key": "4add85b3fa88487b36017948",
       "last_scanned": "2026-10-09",
@@ -14263,6 +14271,16 @@
       "url": "https://www.davita.com/"
     },
     {
+      "boards": [
+        "oracle:elcn.fa.us2.oraclecloud.com:cx"
+      ],
+      "company": "EXP",
+      "key": "5346fc5c8fc00a4f7326d078",
+      "last_scanned": "2026-10-10",
+      "resolved_roles": 0,
+      "url": "https://www.exp.com/"
+    },
+    {
       "company": "InstantServe Healthcare",
       "error": "public request failed for https://instantservehealthcare.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)>",
       "key": "534b2a21ce48325a75b1cd0d",
@@ -14829,7 +14847,7 @@
       "company": "Syensqo",
       "error": "public request failed for https://www.syensqo.com/: HTTP Error 406: Not Acceptable",
       "key": "561b1436b6fc39ecb07f08e4",
-      "last_scanned": "2026-09-20",
+      "last_scanned": "2026-10-10",
       "url": "https://www.syensqo.com/"
     },
     {
@@ -25642,7 +25660,7 @@
       "company": "City of New York",
       "error": "public request failed for https://www.nyc.gov:443/: HTTP Error 403: Forbidden",
       "key": "933f905d11093fc22ee903e2",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-10",
       "url": "https://www1.nyc.gov/"
     },
     {
@@ -27671,6 +27689,14 @@
     },
     {
       "boards": [],
+      "company": "Future Mode",
+      "key": "9fc52a336d182bc761357183",
+      "last_scanned": "2026-10-10",
+      "resolved_roles": 0,
+      "url": "https://www.linkedin.com/company/80148032"
+    },
+    {
+      "boards": [],
       "company": "University System of Georgia",
       "key": "9fcbde8265ebdee818496b57",
       "last_scanned": "2026-08-20",
@@ -27786,7 +27812,7 @@
       "boards": [],
       "company": "CHEManager International",
       "key": "a0671d62adf5ac83e375ab7d",
-      "last_scanned": "2026-09-29",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.chemanager-online.com/"
     },
@@ -29538,7 +29564,7 @@
       "boards": [],
       "company": "FanDuel",
       "key": "a9ab9401b7de39bd3fa639ca",
-      "last_scanned": "2026-09-26",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.fanduel.com/"
     },
@@ -31631,7 +31657,7 @@
       "company": "Richard Adams Engineers & Consultants",
       "error": "Invalid IPv6 URL",
       "key": "b67dfb9fe79e3e03d97ac4ba",
-      "last_scanned": "2026-09-20",
+      "last_scanned": "2026-10-10",
       "url": "https://adams-engineers.com/"
     },
     {
@@ -33177,6 +33203,14 @@
       "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.twosigma.com/"
+    },
+    {
+      "boards": [],
+      "company": "SKYLAB3D",
+      "key": "bfc47659e4154feba3421bbd",
+      "last_scanned": "2026-10-10",
+      "resolved_roles": 0,
+      "url": "https://www.skylab3d.com/"
     },
     {
       "boards": [],
@@ -37577,7 +37611,7 @@
       "boards": [],
       "company": "Sargent & Lundy",
       "key": "d6c23319757e699a5c075aa9",
-      "last_scanned": "2026-10-03",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.sargentlundy.com/"
     },
@@ -38664,7 +38698,7 @@
       "boards": [],
       "company": "General Atomics",
       "key": "dd78da0cce443ba9cdf19427",
-      "last_scanned": "2026-09-19",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.ga.com/"
     },
@@ -42698,7 +42732,7 @@
       "boards": [],
       "company": "Swisslog",
       "key": "f36fc13d223fe54af9c2764c",
-      "last_scanned": "2026-09-11",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://swisslog.com/"
     },
@@ -43357,7 +43391,7 @@
       ],
       "company": "Cohere",
       "key": "f7a59c043f8227ec0e6a6939",
-      "last_scanned": "2026-09-28",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://cohere.com/"
     },
