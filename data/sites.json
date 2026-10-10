@@ -5,7 +5,7 @@
       "boards": [],
       "company": "Southwire Company",
       "key": "000698aea31635127eed2134",
-      "last_scanned": "2026-09-26",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://southwire.com/"
     },
@@ -397,7 +397,7 @@
       ],
       "company": "Northwood",
       "key": "03053c2fc82ddd47560526ee",
-      "last_scanned": "2026-09-19",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.northwoodspace.io/"
     },
@@ -2506,7 +2506,7 @@
       "boards": [],
       "company": "Ahlstrom",
       "key": "0f9ed603d382544aa4ebd776",
-      "last_scanned": "2026-09-30",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.ahlstrom.com/"
     },
@@ -3037,7 +3037,7 @@
       "company": "Acosta",
       "error": "public request failed for https://www.acosta.com/Home.aspx: HTTP Error 404: Not Found",
       "key": "129351d34458837e7052c9d6",
-      "last_scanned": "2026-09-27",
+      "last_scanned": "2026-10-10",
       "url": "https://www.acosta.com/Home.aspx"
     },
     {
@@ -6297,6 +6297,14 @@
     },
     {
       "boards": [],
+      "company": "Amway",
+      "key": "26f6d130197ca849ce9e0b7b",
+      "last_scanned": "2026-10-10",
+      "resolved_roles": 0,
+      "url": "https://amway-europe.com/"
+    },
+    {
+      "boards": [],
       "company": "The Walt Disney Studios",
       "key": "26fc82c7ef183fae72605aaf",
       "last_scanned": "2026-09-17",
@@ -6560,7 +6568,7 @@
       "boards": [],
       "company": "FlatironDragados",
       "key": "2871d631964ddca82ed3257f",
-      "last_scanned": "2026-10-03",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.fdcorp.com/"
     },
@@ -6725,7 +6733,7 @@
       "boards": [],
       "company": "Skydio",
       "key": "2982c8699cfb62cf0fbb6d0a",
-      "last_scanned": "2026-09-26",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.skydio.com/"
     },
@@ -6891,6 +6899,14 @@
       "last_scanned": "2026-10-06",
       "resolved_roles": 0,
       "url": "https://uwm.com/"
+    },
+    {
+      "boards": [],
+      "company": "SPC Construction",
+      "key": "2a88ac846f67f94ec4603bb5",
+      "last_scanned": "2026-10-10",
+      "resolved_roles": 0,
+      "url": "https://www.SPCco.com/"
     },
     {
       "boards": [
@@ -7369,7 +7385,7 @@
       "boards": [],
       "company": "Re:Build Manufacturing",
       "key": "2d2acdebd8fd9beba4e9769b",
-      "last_scanned": "2026-09-22",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.rebuildmanufacturing.com/"
     },
@@ -9767,9 +9783,9 @@
     },
     {
       "company": "ZOLL Medical Corporation",
-      "error": "public request failed for https://www.lifevest.zoll.com/: HTTP Error 404: Not Found",
+      "error": "public request failed for https://www.lifevest.zoll.com/: HTTP Error 502: Bad Gateway",
       "key": "3981002d65d5397b11bfdb49",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-10-10",
       "url": "https://www.lifevest.zoll.com/"
     },
     {
@@ -11618,7 +11634,7 @@
       "boards": [],
       "company": "Bowman Consulting",
       "key": "4433059ec968ee6c69f24480",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://bowman.com/"
     },
@@ -18200,7 +18216,7 @@
       ],
       "company": "Magna International",
       "key": "68fac9ab696490d168347de6",
-      "last_scanned": "2026-10-02",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.magna.com/"
     },
@@ -19493,10 +19509,12 @@
       "url": "https://www.haggar.com/"
     },
     {
-      "boards": [],
+      "boards": [
+        "oracle:ibwsjb.fa.ocs.oraclecloud.com:cx"
+      ],
       "company": "Encompass Health",
       "key": "70b5cd8b7af7cb8557e78904",
-      "last_scanned": "2026-09-18",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.encompasshealth.com/"
     },
@@ -20814,7 +20832,7 @@
       "boards": [],
       "company": "Hubbell Incorporated",
       "key": "782af6d46bdec192f29faaab",
-      "last_scanned": "2026-10-01",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.hubbell.com/"
     },
@@ -21023,7 +21041,7 @@
       ],
       "company": "Flex",
       "key": "794cddf6cef6a571efa464b6",
-      "last_scanned": "2026-09-19",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://flex.com/"
     },
@@ -21898,7 +21916,7 @@
       ],
       "company": "Boyd",
       "key": "7e49252582d8aeb938c328c8",
-      "last_scanned": "2026-09-26",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.boydcorp.com/"
     },
@@ -22345,7 +22363,7 @@
       ],
       "company": "Consumer Direct Care Network",
       "key": "80adfa6d71fb13cdc4dd1932",
-      "last_scanned": "2026-10-02",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://consumerdirectcare.com/"
     },
@@ -23217,7 +23235,7 @@
       ],
       "company": "IKO North America",
       "key": "862665205edeb224a73c2ea1",
-      "last_scanned": "2026-09-30",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.iko.com/"
     },
@@ -24268,7 +24286,7 @@
       "company": "Marathon Petroleum Corporation",
       "error": "public request failed for https://www.marathonpetroleum.com/: HTTP Error 403: Forbidden",
       "key": "8b96c5fecf4a8c25a350411f",
-      "last_scanned": "2026-10-08",
+      "last_scanned": "2026-10-10",
       "url": "https://www.marathonpetroleum.com/"
     },
     {
@@ -25262,7 +25280,7 @@
       "boards": [],
       "company": "Commerce Bank",
       "key": "911cef481b95a5b8e0e08c56",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.commercebank.com/"
     },
@@ -29589,7 +29607,7 @@
       "boards": [],
       "company": "Bitdeer (NASDAQ: BTDR)",
       "key": "a9fb000b2784e93e2b350b62",
-      "last_scanned": "2026-09-18",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.bitdeer.com/"
     },
@@ -29853,7 +29871,7 @@
       "boards": [],
       "company": "Instawork",
       "key": "abd977e15434d63f73372153",
-      "last_scanned": "2026-09-26",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.instawork.com/"
     },
@@ -29901,7 +29919,7 @@
       "boards": [],
       "company": "TikTok USDS Joint Venture",
       "key": "ac1af92ed1d2e62377c4b93e",
-      "last_scanned": "2026-09-30",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://usdsjv.tiktok.com/"
     },
@@ -31597,7 +31615,7 @@
       "boards": [],
       "company": "UBS",
       "key": "b66e3fa56ef1af1b0cc7cda0",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.ubs.com/"
     },
@@ -33430,7 +33448,7 @@
       "boards": [],
       "company": "Harbor Freight Tools",
       "key": "c10b7be73246d2968523a844",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 1,
       "url": "https://www.harborfreightjobs.com/"
     },
@@ -33697,7 +33715,7 @@
       ],
       "company": "Acron Aviation",
       "key": "c2b6b9104dd797c47f77fde9",
-      "last_scanned": "2026-09-14",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://acronaviation.com/"
     },
@@ -35453,7 +35471,7 @@
       "boards": [],
       "company": "LJA",
       "key": "cc0bee59813b25dacebf61e0",
-      "last_scanned": "2026-09-29",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.lja.com/"
     },
@@ -35515,7 +35533,7 @@
       "boards": [],
       "company": "Point72",
       "key": "cc9595ce03a3f502ed02b0ce",
-      "last_scanned": "2026-10-02",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.point72.com/"
     },
@@ -35804,7 +35822,7 @@
       "company": "WSP in the U.S.",
       "error": "public request failed for https://www.wsp.com/en-us: HTTP Error 403: Forbidden",
       "key": "ce26e2f6b0157eb94cc09fde",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-10",
       "url": "https://www.wsp.com/en-us"
     },
     {
@@ -36118,7 +36136,7 @@
       ],
       "company": "AIG",
       "key": "cfa65940a2fcd02d9e6a8358",
-      "last_scanned": "2026-10-02",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.aig.com/"
     },
@@ -37275,7 +37293,7 @@
       "boards": [],
       "company": "Central Insurance",
       "key": "d55113b4a5d0d221c14969c6",
-      "last_scanned": "2026-09-18",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.central-insurance.com/"
     },
@@ -37601,7 +37619,7 @@
       "company": "ABB",
       "error": "public request failed for https://www.abb.com/global/en: The read operation timed out",
       "key": "d6f42a2109607bc74736215f",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-10",
       "url": "https://global.abb/group/en"
     },
     {
@@ -38120,7 +38138,7 @@
       "company": "Ahold Delhaize USA",
       "error": "public request failed for https://www.adusa.com/: HTTP Error 403: Forbidden",
       "key": "da23f789b7f957919fb3d324",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.adusa.com/"
     },
@@ -38151,7 +38169,7 @@
       "company": "Analog Devices",
       "error": "public request failed for https://www.analog.com/: The read operation timed out",
       "key": "da5b6ccc15041bc6fbc26e91",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-10",
       "url": "https://www.analog.com/"
     },
     {
@@ -38266,7 +38284,7 @@
       "company": "H&R Block",
       "error": "public request failed for https://www.hrblock.com/: HTTP Error 403: Forbidden",
       "key": "db03322fa7387157436c78f0",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-10",
       "url": "https://www.hrblock.com/"
     },
     {
@@ -38811,7 +38829,7 @@
       "company": "Silicon Labs",
       "error": "public request failed for https://www.silabs.com/: HTTP Error 403: Forbidden",
       "key": "de8172f6ce3be830b9f4b88f",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://silabs.com/"
     },
@@ -38895,7 +38913,7 @@
       ],
       "company": "DXC Technology",
       "key": "ded6ff4ce873fef2d620c0e0",
-      "last_scanned": "2026-10-02",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.dxc.com/"
     },
@@ -38911,7 +38929,7 @@
       "company": "Entertainment Partners",
       "error": "public request failed for https://www.ep.com/home/: HTTP Error 404: Not Found",
       "key": "dee76757e0647df2769b15d4",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-10",
       "url": "https://www.ep.com/home/"
     },
     {
@@ -39025,7 +39043,7 @@
       "boards": [],
       "company": "Gemini",
       "key": "df457dd0fe9d1b11c1474f4c",
-      "last_scanned": "2026-10-03",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://gemini.com/"
     },
@@ -39177,7 +39195,7 @@
       "boards": [],
       "company": "McKim & Creed, Inc.",
       "key": "e04787c2ae4f8fe7cb3e1188",
-      "last_scanned": "2026-09-18",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://mckimcreed.com/"
     },
@@ -40332,7 +40350,7 @@
       "company": "Bass Pro Shops",
       "error": "public request failed for https://www.basspro.com/: HTTP Error 403: Forbidden",
       "key": "e72b5a3bdeb17556daf241aa",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-10",
       "url": "https://www.basspro.com/"
     },
     {
@@ -40371,7 +40389,7 @@
       "company": "ServiceNow",
       "error": "public request failed for https://www.servicenow.com/: HTTP Error 403: Forbidden",
       "key": "e76619ad9660a1c181a33522",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-10",
       "url": "https://www.servicenow.com/"
     },
     {
@@ -40660,7 +40678,7 @@
       "company": "Knowesis Inc.",
       "error": "Invalid IPv6 URL",
       "key": "e93b7d34f5e5c97c54372bad",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-10",
       "url": "https://www.knowesis-inc.com/"
     },
     {
@@ -41154,7 +41172,7 @@
       "company": "Infosys",
       "error": "public request failed for https://www.infosys.com/: HTTP Error 403: Forbidden",
       "key": "eb401d2139ce32943d9ce970",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-10",
       "url": "https://www.infosys.com/"
     },
     {
@@ -41298,7 +41316,7 @@
       "company": "Delta Air Lines",
       "error": "public request failed for https://www.delta.com/: HTTP Error 444: Unknown",
       "key": "ec7c99f34f2e512e16326371",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-10",
       "url": "https://www.delta.com/"
     },
     {
@@ -41732,7 +41750,7 @@
       ],
       "company": "National Laboratory of the Rockies",
       "key": "eecdeef7e74c59d1a34130f8",
-      "last_scanned": "2026-10-03",
+      "last_scanned": "2026-10-10",
       "resolved_roles": 0,
       "url": "https://www.nlr.gov/"
     },
@@ -42952,7 +42970,7 @@
       "company": "Hilton",
       "error": "public request failed for https://www.hilton.com/en/: HTTP Error 403: Forbidden",
       "key": "f565ba7cf3843ea931c463ef",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-10",
       "url": "https://www.hilton.com/en/"
     },
     {
@@ -43027,7 +43045,7 @@
       "company": "Rubrik",
       "error": "public request failed for https://www.rubrik.com/: HTTP Error 403: Forbidden",
       "key": "f61cf0c24b28035366bfaa16",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-10",
       "url": "https://rubrik.com/"
     },
     {
@@ -43727,7 +43745,7 @@
       "company": "Altron, Inc.",
       "error": "Invalid IPv6 URL",
       "key": "fa4be155deb8b15047a379d2",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-10",
       "url": "https://altroninc.com/"
     },
     {
@@ -43896,7 +43914,7 @@
       "company": "MarketVector Indexes",
       "error": "public request failed for https://www.marketvector.com/: HTTP Error 403: Forbidden",
       "key": "fb704a0cdee5fe221e42e144",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-10",
       "url": "https://www.marketvector.com/"
     },
     {
@@ -43927,14 +43945,14 @@
       "company": "Hewlett Packard Enterprise",
       "error": "public request failed for https://www.hpe.com/: The read operation timed out",
       "key": "fb9d829f215a3234760b16c3",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-10",
       "url": "https://www.hpe.com/"
     },
     {
       "company": "Medline",
       "error": "public request failed for https://www.medline.com/home.jsp: HTTP Error 403: Forbidden",
       "key": "fba9f138ac3501568473f595",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-10",
       "url": "https://www.medline.com/home.jsp"
     },
     {
@@ -43949,7 +43967,7 @@
       "company": "AbbVie",
       "error": "public request failed for https://www.abbvie.com/: HTTP Error 403: Forbidden",
       "key": "fbba7a3efaed795ea7ce58d7",
-      "last_scanned": "2026-10-08",
+      "last_scanned": "2026-10-10",
       "url": "https://www.abbvie.com/"
     },
     {
@@ -44405,7 +44423,7 @@
       "company": "Corning Incorporated",
       "error": "public request failed for https://www.corning.com/: HTTP Error 403: Forbidden",
       "key": "fdd9fdefbf94bcc1eb6163ea",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-10",
       "url": "https://www.corning.com/"
     },
     {

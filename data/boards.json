@@ -2144,7 +2144,7 @@
     },
     {
       "ats": "ashby",
-      "company": "Triumph",
+      "company": "Triumph Arcade",
       "key": "ashby:triumph-arcade",
       "slug": "triumph-arcade"
     },
@@ -2843,7 +2843,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "ALTEN Technology",
+      "company": "ALTEN Technology USA",
       "key": "greenhouse:altentechnologyusa",
       "slug": "altentechnologyusa"
     },
@@ -6731,6 +6731,12 @@
     },
     {
       "ats": "lever",
+      "company": "Significance",
+      "key": "lever:significanceinc",
+      "slug": "significanceinc"
+    },
+    {
+      "ats": "lever",
       "company": "SoloPulse",
       "key": "lever:solopulseco",
       "slug": "solopulseco"
@@ -8648,6 +8654,14 @@
       "key": "oracle:ibtcjb.fa.ocs.oraclecloud.com:careers",
       "site": "careers",
       "slug": "ibtcjb"
+    },
+    {
+      "ats": "oracle",
+      "company": "Encompass Health",
+      "host": "ibwsjb.fa.ocs.oraclecloud.com",
+      "key": "oracle:ibwsjb.fa.ocs.oraclecloud.com:cx",
+      "site": "CX",
+      "slug": "ibwsjb"
     },
     {
       "ats": "oracle",
@@ -12810,7 +12824,7 @@
       "company": "Carnegie Mellon University",
       "host": "cmu.wd115.myworkdayjobs.com",
       "key": "workday:cmu.wd115.myworkdayjobs.com:cmu:sei",
-      "site": "SEI",
+      "site": "sei",
       "slug": "cmu",
       "wd": "wd115"
     },
@@ -15306,6 +15320,15 @@
       "site": "idexx",
       "slug": "idexx",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "IDEXX",
+      "host": "idexx.wd115.myworkdayjobs.com",
+      "key": "workday:idexx.wd115.myworkdayjobs.com:idexx:idexx",
+      "site": "idexx",
+      "slug": "idexx",
+      "wd": "wd115"
     },
     {
       "ats": "workday",
@@ -20217,7 +20240,7 @@
       "company": "T. Rowe Price",
       "host": "troweprice.wd5.myworkdayjobs.com",
       "key": "workday:troweprice.wd5.myworkdayjobs.com:troweprice:troweprice",
-      "site": "TRowePrice",
+      "site": "troweprice",
       "slug": "troweprice",
       "wd": "wd5"
     },
