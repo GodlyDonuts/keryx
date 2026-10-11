@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,388 internships · 5,156 new-grad roles · 14,544 total openings**
+**9,394 internships · 5,168 new-grad roles · 14,562 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,438 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 407 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 648 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 202 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,693 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,431 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 405 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 646 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 201 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,711 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,070 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,463 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,623 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,077 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,461 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,630 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Entegris | Enterprise Solution Architecture Analyst Co-Op | Chaska, MN | Not listed | not available | 2026-10-11 | **[Apply →](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Enterprise-Solution-Architecture-Analyst-Co-Op_REQ-14445)**<br><sub>entegris.wd1.myworkdayjobs.com</sub> |
+| Entegris | Product Design Co-Op | Colorado Springs, CO | Not listed | not available | 2026-10-11 | **[Apply →](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Product-Design-Co-Op_REQ-14435)**<br><sub>entegris.wd1.myworkdayjobs.com</sub> |
+| Micron Technology | Intern - TSE KEG Engineer | Boise, ID - Main Site | Not listed | not available | 2026-10-11 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/TSE-KEG-Intern-Engineer_JR112283)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
 | Advanced Space | 2027 Technical Growth and Capture Intern/Co-op | Westminster, CO | Not listed | not stated | 2026-10-10 | **[Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4444656009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Applied Materials | Software Engineering Summer Intern - Masters - Santa Clara - CA | Santa Clara, CA | Not listed | not available | 2026-10-10 | **[Apply →](https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Software-Engineering-Summer-Intern--Masters---Santa-Clara--CA-_R2630705)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
 | Digital Factory, Inc. | iOS Developer - Internship | Chicago, IL, United States | Not listed | not available | 2026-10-10 | **[Apply →](https://dgtl-factory.com/careers/54)**<br><sub>dgtl-factory.com</sub> |
-| Flex | Automation/Controls Engineering Co-Op - Spring 2027 | USA, IL, Libertyville | Spring 2027 | not available | 2026-10-10 | **[Apply →](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Automation-Controls-Engineering-Co-Op---Spring-2027_WD229698)**<br><sub>flextronics.wd1.myworkdayjobs.com</sub> |
-| Flex | Robotics/Mechatronics Engineering Co-Op - Spring 2027 | USA, IL, Libertyville | Spring 2027 | not available | 2026-10-10 | **[Apply →](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Robotics-Mechatronics-Engineering-Co-Op---Spring-2027_WD229699)**<br><sub>flextronics.wd1.myworkdayjobs.com</sub> |
-| Gemini | Software Engineering Intern - Winter 2027 | New York City, NY | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-10-10 | **[Apply →](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272)**<br><sub>boards.greenhouse.io</sub> |
-| IKO North America | Mechanical Process Engineer Co-Op - Spring 2027 | Seville, OH | Spring 2027 | not available | 2026-10-10 | **[Apply →](https://iko.wd3.myworkdayjobs.com/IKO_Careers/job/Seville-OH/Mechanical-Process-Engineer-Co-Op---Spring-2027_REQ-13883)**<br><sub>iko.wd3.myworkdayjobs.com</sub> |
+| EXP | Electrical Intern | Maitland, FL, United States | Not listed | not stated | 2026-10-10 | **[Apply →](https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113311)**<br><sub>elcn.fa.us2.oraclecloud.com</sub> |
 | Insulet Corporation | Co-op, Life Cycle Engineering - Systems: January - June 2027 (Hybrid) | Acton, Massachusetts | Not listed | not available | 2026-10-10 | **[Apply →](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Life-Cycle-Engineering---Systems--January---June-2027--Hybrid-_REQ-2026-18149)**<br><sub>insulet.wd5.myworkdayjobs.com</sub> |
 | Johns Hopkins Applied Physics Laboratory | Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection | Laurel, MD | Summer 2027 | not available | 2026-10-10 | **[Apply →](https://careers.jhuapl.edu/jobs/60432?icims=1)**<br><sub>careers.jhuapl.edu</sub> |
 | Loram Maintenance of Way, Inc. | Machine Learning / Artificial Intelligence (AI) Intern | Hamel, MN, United States | Not listed | not available | 2026-10-10 | **[Apply →](https://jobs.loram.com/job/23818519/machine-learning-artificial-intelligence-ai-intern-hamel-mn/)**<br><sub>jobs.loram.com</sub> |
-| Magna International | Intern - Validation Engineering | Auburn Hills, Michigan, US | Not listed | not available | 2026-10-10 | **[Apply →](https://magna.wd3.myworkdayjobs.com/Magna/job/Auburn-Hills-Michigan-US/Intern---Validation-Engineering_R00261307)**<br><sub>magna.wd3.myworkdayjobs.com</sub> |
 | Micron Technology | Intern – Process Engineer ID1 | Boise, ID - Main Site | Not listed | not available | 2026-10-10 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Engineer-ID1_JR109507)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
+| NVIDIA | NVIDIA 2027 Internships: Software Engineering | Santa Clara, CA | Not listed | not available | 2026-10-10 | **[Apply →](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495)**<br><sub>nvidia.wd5.myworkdayjobs.com</sub> |
+| NVIDIA | NVIDIA 2027 Internships: Systems Software Engineering | Santa Clara, CA | Not listed | not available | 2026-10-10 | **[Apply →](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492)**<br><sub>nvidia.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -59,6 +59,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Amazon | Software Development Engineer | Newark, NJ | 2027 | not available | 2026-10-10 | **[Apply →](https://www.amazon.jobs/jobs/10566605/apply)**<br><sub>www.amazon.jobs</sub> |
+| Applied Systems | Associate Software Engineer / Software Engineer | Chicago, IL +2 | 2027 | not available | 2026-10-10 | **[Apply →](https://careers-appliedsystems.icims.com/jobs/7318/associate-software-engineer---software-engineer/job)**<br><sub>careers-appliedsystems.icims.com</sub> |
 | Harbor Freight Tools | Application Analyst (Retail Software)- Remote | Agoura Hills, California, United States | 2026 | not available | 2026-10-10 | **[Apply →](https://harbor-freight-tools.careerarc.com/job-listings/harbor-freight-tools-jobs-application-analyst-retail-software-remote-52953839?campaign_id=44948&career_site_id=44948&src=106)**<br><sub>harbor-freight-tools.careerarc.com</sub> |
 | Highmark Health | Associate Software Engineer | Pennsylvania, USA +43 | 2027 | not available | 2026-10-10 | **[Apply →](https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Software-Engineer_J286291)**<br><sub>highmarkhealth.wd1.myworkdayjobs.com</sub> |
 | Impact | Associate Software Engineer | Santa Barbara, CA | 2027 | not stated | 2026-10-10 | **[Apply →](https://job-boards.greenhouse.io/impact/jobs/8645964002)**<br><sub>job-boards.greenhouse.io</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | ServiceNow | Software Engineer - Core Infrastructure - Moveworks - New Grad | Mountain View, CA | 2027 | not available | 2026-10-10 | **[Apply →](https://jobs.smartrecruiters.com/ServiceNow/744000153279380-software-engineer-core-infrastructure-moveworks-new-grad-?oga=true)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Shield AI | Software Engineer 1 - Factory Team | Washington, DC | 2027 | not available | 2026-10-10 | **[Apply →](https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68/apply)**<br><sub>jobs.lever.co</sub> |
 | Shield AI | Software Engineer 2 - Factory | Washington, DC | Not listed | not available | 2026-10-10 | **[Apply →](https://jobs.lever.co/shieldai/681efe7f-2c2a-4830-8976-9a6f77d9d3e5/apply)**<br><sub>jobs.lever.co</sub> |
-| Swift | Jr. Software Development Engineer in Test - SDET | Manassas, VA | 2027 | not available | 2026-10-10 | **[Apply →](https://swift.wd3.myworkdayjobs.com/en-US/join-swift/job/Manassas-United-States/Jr-Software-Development-Engineer-in-Test--SDET-_2026-16183-1)**<br><sub>swift.wd3.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

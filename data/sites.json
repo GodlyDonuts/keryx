@@ -354,7 +354,7 @@
       "boards": [],
       "company": "NYU Langone Health",
       "key": "028599e0a1f34f432a63f74a",
-      "last_scanned": "2026-09-22",
+      "last_scanned": "2026-10-11",
       "resolved_roles": 0,
       "url": "https://nyulangone.org/"
     },
@@ -9441,7 +9441,7 @@
       "boards": [],
       "company": "PsiQuantum",
       "key": "37e585395663210815df1d44",
-      "last_scanned": "2026-08-29",
+      "last_scanned": "2026-10-11",
       "resolved_roles": 0,
       "url": "https://www.psiquantum.com/"
     },
@@ -9732,7 +9732,7 @@
       "boards": [],
       "company": "Weyerhaeuser",
       "key": "395374fa23fcad90364f4337",
-      "last_scanned": "2026-09-03",
+      "last_scanned": "2026-10-11",
       "resolved_roles": 0,
       "url": "https://www.weyerhaeuser.com/"
     },
@@ -10947,7 +10947,7 @@
       "company": "AMD",
       "error": "public request failed for https://www.amd.com/: The read operation timed out",
       "key": "402b3c74b76212235bffcd36",
-      "last_scanned": "2026-10-07",
+      "last_scanned": "2026-10-11",
       "url": "https://www.amd.com/"
     },
     {
@@ -13423,7 +13423,7 @@
       "company": "Spectrum",
       "error": "public request failed for https://www.spectrum.com/: The read operation timed out",
       "key": "4e396251d8bf7c4d45293805",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-11",
       "url": "https://www.spectrum.com/"
     },
     {
@@ -16291,7 +16291,7 @@
       "company": "Propio Language Services",
       "error": "public requests require HTTPS and a hostname",
       "key": "5dcb7e41b299124e3284c3ac",
-      "last_scanned": "2026-10-01",
+      "last_scanned": "2026-10-11",
       "url": "https://propio-ls.com/"
     },
     {
@@ -16376,7 +16376,7 @@
       "company": "AE2S (Advanced Engineering and Environmental Services, LLC)",
       "error": "public request failed for https://www.ae2s.com/: HTTP Error 403: Forbidden",
       "key": "5e309f5a9106891cfcc8d051",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-11",
       "resolved_roles": 1,
       "url": "https://ae2s.com/"
     },
@@ -16912,7 +16912,7 @@
       "boards": [],
       "company": "WD",
       "key": "614eaedc2d32b02535d89977",
-      "last_scanned": "2026-10-04",
+      "last_scanned": "2026-10-11",
       "resolved_roles": 0,
       "url": "https://www.westerndigital.com/"
     },
@@ -18761,7 +18761,7 @@
       "company": "Amway",
       "error": "public request failed for https://www.amway.com/: HTTP Error 403: Forbidden",
       "key": "6bee503c93ffbcc63f7e2a62",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-11",
       "url": "https://www.amway.com/"
     },
     {
@@ -19333,6 +19333,16 @@
       "url": "https://www.rinconconsultants.com/"
     },
     {
+      "boards": [
+        "greenhouse:salientmotion"
+      ],
+      "company": "Salient Motion",
+      "key": "6f780b501bf5b1aad8c07dc6",
+      "last_scanned": "2026-10-11",
+      "resolved_roles": 0,
+      "url": "https://www.salientmotion.com/"
+    },
+    {
       "boards": [],
       "company": "AMETEK",
       "key": "6f7a496616e23cc98021694f",
@@ -19470,7 +19480,7 @@
       "company": "impact.com",
       "error": "public request failed for https://with-impact.com/: <urlopen error [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1000)>",
       "key": "704e13abe652a8593e2a8b3e",
-      "last_scanned": "2026-10-08",
+      "last_scanned": "2026-10-11",
       "url": "https://with-impact.com/"
     },
     {
@@ -22201,7 +22211,7 @@
       "boards": [],
       "company": "Ruger Firearms",
       "key": "7f8762a5f74c0ac3a4c22e1a",
-      "last_scanned": "2026-09-20",
+      "last_scanned": "2026-10-11",
       "resolved_roles": 0,
       "url": "https://www.ruger.com/"
     },
@@ -22472,6 +22482,14 @@
       "last_scanned": "2026-09-19",
       "resolved_roles": 0,
       "url": "https://www.quanticnow.com/"
+    },
+    {
+      "boards": [],
+      "company": "OMD",
+      "key": "8153bb692e8d13cdb7ef73a6",
+      "last_scanned": "2026-10-11",
+      "resolved_roles": 0,
+      "url": "https://www.omd.com/"
     },
     {
       "boards": [
@@ -24382,7 +24400,7 @@
       "boards": [],
       "company": "DBR",
       "key": "8bd78ac004ece4e8ad9bf045",
-      "last_scanned": "2026-09-11",
+      "last_scanned": "2026-10-11",
       "resolved_roles": 0,
       "url": "https://dbrinc.com/"
     },
@@ -27289,6 +27307,14 @@
       "last_scanned": "2026-10-07",
       "resolved_roles": 0,
       "url": "https://www.shiseido.com/"
+    },
+    {
+      "boards": [],
+      "company": "Comtech Telecommunications Corp.",
+      "key": "9db29bbdb5d0fac7a91faa22",
+      "last_scanned": "2026-10-11",
+      "resolved_roles": 0,
+      "url": "https://comtech.com/"
     },
     {
       "boards": [],
@@ -34038,9 +34064,8 @@
     {
       "boards": [],
       "company": "Quiddity",
-      "error": "public request failed for https://quiddity.com/: <urlopen error timed out>",
       "key": "c408f5fe2b0ea75c2dbe6e1f",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-11",
       "resolved_roles": 0,
       "url": "https://quiddity.com/"
     },
@@ -34086,7 +34111,7 @@
       "boards": [],
       "company": "Click Bond",
       "key": "c452031abe9ae2a79d5bce89",
-      "last_scanned": "2026-09-17",
+      "last_scanned": "2026-10-11",
       "resolved_roles": 0,
       "url": "https://clickbond.com/"
     },
@@ -35203,7 +35228,7 @@
       "boards": [],
       "company": "The Nuclear Company",
       "key": "ca793ff99952b0acf0c96c8f",
-      "last_scanned": "2026-09-26",
+      "last_scanned": "2026-10-11",
       "resolved_roles": 0,
       "url": "https://www.thenuclearcompany.com/"
     },
@@ -38179,7 +38204,7 @@
       "boards": [],
       "company": "Nucor Corporation",
       "key": "da1373d0e6aa938de97e2a56",
-      "last_scanned": "2026-09-29",
+      "last_scanned": "2026-10-11",
       "resolved_roles": 0,
       "url": "https://www.nucor.com/"
     },
@@ -41006,7 +41031,7 @@
       "company": "Propio",
       "error": "public requests require HTTPS and a hostname",
       "key": "ea6870e5a338b64e388b2ad5",
-      "last_scanned": "2026-09-24",
+      "last_scanned": "2026-10-11",
       "url": "https://www.propio.com/"
     },
     {
