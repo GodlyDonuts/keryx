@@ -2558,6 +2558,13 @@
     },
     {
       "ats": "bamboohr",
+      "company": "ALLETE",
+      "host": "newenergyequity.bamboohr.com",
+      "key": "bamboohr:newenergyequity",
+      "slug": "newenergyequity"
+    },
+    {
+      "ats": "bamboohr",
       "company": "Nexthop.ai",
       "host": "nexthopai.bamboohr.com",
       "key": "bamboohr:nexthopai",
@@ -7004,6 +7011,30 @@
       "company": "Zoox",
       "key": "lever:zoox",
       "slug": "zoox"
+    },
+    {
+      "ats": "oracle",
+      "company": "Worthington Steel",
+      "host": "cbdt.fa.us2.oraclecloud.com",
+      "key": "oracle:cbdt.fa.us2.oraclecloud.com:cx",
+      "site": "CX",
+      "slug": "cbdt"
+    },
+    {
+      "ats": "oracle",
+      "company": "Worthington Steel",
+      "host": "cbdt.fa.us2.oraclecloud.com",
+      "key": "oracle:cbdt.fa.us2.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "cbdt"
+    },
+    {
+      "ats": "oracle",
+      "company": "Worthington Steel",
+      "host": "cbdt.fa.us2.oraclecloud.com",
+      "key": "oracle:cbdt.fa.us2.oraclecloud.com:worthingtonsteelcareers",
+      "site": "WorthingtonSteelCareers",
+      "slug": "cbdt"
     },
     {
       "ats": "oracle",
@@ -12827,7 +12858,7 @@
     },
     {
       "ats": "workday",
-      "company": "Carnegie Mellon University",
+      "company": "Cmu",
       "host": "cmu.wd115.myworkdayjobs.com",
       "key": "workday:cmu.wd115.myworkdayjobs.com:cmu:sei",
       "site": "sei",
@@ -13183,6 +13214,15 @@
       "key": "workday:csl.wd1.myworkdayjobs.com:csl:csl_external",
       "site": "CSL_External",
       "slug": "csl",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "C&S Wholesale Grocers",
+      "host": "cswg.wd1.myworkdayjobs.com",
+      "key": "workday:cswg.wd1.myworkdayjobs.com:cswg:cs_careers",
+      "site": "cs_careers",
+      "slug": "cswg",
       "wd": "wd1"
     },
     {

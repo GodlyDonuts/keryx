@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,425 internships · 5,163 new-grad roles · 14,588 total openings**
+**9,385 internships · 5,160 new-grad roles · 14,545 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,422 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 407 | **[View openings →](internships/fall-2026.md)** |
+| ☀️ Summer 2027 | 4,418 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 409 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 636 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 201 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,759 | **[View openings →](internships/unscheduled.md)** |
+| ❄️ Winter 2027 | 202 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,720 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,080 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,458 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,625 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,076 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,486 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,598 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Analog Devices | Biomedical Engineering Intern | US, MA, Wilmington | Not listed | not available | 2026-10-11 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Copart | Database Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-10-11 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | Entegris | Enterprise Solution Architecture Analyst Co-Op | Chaska, MN | Not listed | not available | 2026-10-11 | **[Apply →](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Enterprise-Solution-Architecture-Analyst-Co-Op_REQ-14445)**<br><sub>entegris.wd1.myworkdayjobs.com</sub> |
 | Entegris | Product Design Co-Op | Colorado Springs, CO | Not listed | not available | 2026-10-11 | **[Apply →](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Product-Design-Co-Op_REQ-14435)**<br><sub>entegris.wd1.myworkdayjobs.com</sub> |
 | Micron Technology | Intern - TSE KEG Engineer | Boise, ID - Main Site | Not listed | not available | 2026-10-11 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/TSE-KEG-Intern-Engineer_JR112283)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
 | Advanced Space | 2027 Technical Growth and Capture Intern/Co-op | Westminster, CO | Not listed | not stated | 2026-10-10 | **[Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4444656009)**<br><sub>job-boards.greenhouse.io</sub> |
+| C&S Wholesale Grocers | IS Internship - Data Analytics & Data Science | Edison, NJ | Not listed | not available | 2026-10-10 | **[Apply →](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963)**<br><sub>cswg.wd1.myworkdayjobs.com</sub> |
 | Digital Factory, Inc. | iOS Developer - Internship | Chicago, IL, United States | Not listed | not available | 2026-10-10 | **[Apply →](https://dgtl-factory.com/careers/54)**<br><sub>dgtl-factory.com</sub> |
 | EXP | Electrical Intern | Maitland, FL, United States | Not listed | not stated | 2026-10-10 | **[Apply →](https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113311)**<br><sub>elcn.fa.us2.oraclecloud.com</sub> |
-| Insulet Corporation | Co-op, Life Cycle Engineering - Systems: January - June 2027 (Hybrid) | Acton, Massachusetts | Not listed | not available | 2026-10-10 | **[Apply →](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Life-Cycle-Engineering---Systems--January---June-2027--Hybrid-_REQ-2026-18149)**<br><sub>insulet.wd5.myworkdayjobs.com</sub> |
+| Gemini | Software Engineering Intern - Winter 2027 | New York City, NY | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-10-10 | **[Apply →](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272)**<br><sub>boards.greenhouse.io</sub> |
 | Johns Hopkins Applied Physics Laboratory | Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection | Laurel, MD | Summer 2027 | not available | 2026-10-10 | **[Apply →](https://careers.jhuapl.edu/jobs/60432?icims=1)**<br><sub>careers.jhuapl.edu</sub> |
 | Loram Maintenance of Way, Inc. | Machine Learning / Artificial Intelligence (AI) Intern | Hamel, MN, United States | Not listed | not available | 2026-10-10 | **[Apply →](https://jobs.loram.com/job/23818519/machine-learning-artificial-intelligence-ai-intern-hamel-mn/)**<br><sub>jobs.loram.com</sub> |
-| Micron Technology | Intern – Process Engineer ID1 | Boise, ID - Main Site | Not listed | not available | 2026-10-10 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Engineer-ID1_JR109507)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
-| NVIDIA | NVIDIA 2027 Internships: Software Engineering | Santa Clara, CA | Not listed | not available | 2026-10-10 | **[Apply →](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495)**<br><sub>nvidia.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -59,6 +59,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Anduril | Embedded Firmware Engineer - Connected Warfare | Costa Mesa, CA | 2027 | not available | 2026-10-11 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5225618007?gh_jid=5225618007)**<br><sub>boards.greenhouse.io</sub> |
+| Figma | Early Career, Inside Sales Representative (2027) | San Francisco, CA • New York, NY | 2027 | not stated | 2026-10-11 | **[Apply →](https://boards.greenhouse.io/figma/jobs/6174190004?gh_jid=6174190004)**<br><sub>boards.greenhouse.io</sub> |
 | Roblox | Software Engineer - Economy Platform | San Mateo, CA | 2027 | not available | 2026-10-11 | **[Apply →](https://careers.roblox.com/jobs/8060254?gh_jid=8060254)**<br><sub>careers.roblox.com</sub> |
 | Amazon | Software Development Engineer | Newark, NJ | 2027 | not available | 2026-10-10 | **[Apply →](https://www.amazon.jobs/jobs/10566605/apply)**<br><sub>www.amazon.jobs</sub> |
 | Applied Systems | Associate Software Engineer / Software Engineer | Chicago, IL +2 | 2027 | not available | 2026-10-10 | **[Apply →](https://careers-appliedsystems.icims.com/jobs/7318/associate-software-engineer---software-engineer/job)**<br><sub>careers-appliedsystems.icims.com</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Microsoft | Software Engineer | Redmond, WA | Not listed | not available | 2026-10-10 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393557037774)**<br><sub>apply.careers.microsoft.com</sub> |
 | Mini-Circuits | Test Engineer | Hialeah, FL | Not listed | not available | 2026-10-10 | **[Apply →](https://jobs.jobvite.com/mini-circuits-review/job/opcWAfwR?nl=1&nl=1&fr=false)**<br><sub>jobs.jobvite.com</sub> |
 | Qualcomm | DFT Engineer - ASICS Engineering | San Diego, CA | Not listed | not available | 2026-10-10 | **[Apply →](https://qualcomm.eightfold.ai/careers/job/446721493810)**<br><sub>qualcomm.eightfold.ai</sub> |
-| ServiceNow | Software Engineer - Core Infrastructure - Moveworks - New Grad | Mountain View, CA | 2027 | not available | 2026-10-10 | **[Apply →](https://jobs.smartrecruiters.com/ServiceNow/744000153279380-software-engineer-core-infrastructure-moveworks-new-grad-?oga=true)**<br><sub>jobs.smartrecruiters.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

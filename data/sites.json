@@ -5667,6 +5667,14 @@
     },
     {
       "boards": [],
+      "company": "Minnesota Power",
+      "key": "21f7b17243c7f1bb65064a63",
+      "last_scanned": "2026-10-11",
+      "resolved_roles": 0,
+      "url": "https://www.mnpower.com/"
+    },
+    {
+      "boards": [],
       "company": "Madison Gas and Electric",
       "key": "221983ad8d642f8359c20ab0",
       "last_scanned": "2026-09-28",
@@ -8874,7 +8882,7 @@
       "boards": [],
       "company": "Boom Supersonic",
       "key": "3459c40a4012227b799fe1ae",
-      "last_scanned": "2026-10-04",
+      "last_scanned": "2026-10-11",
       "resolved_roles": 0,
       "url": "https://boomsupersonic.com/"
     },
@@ -9176,7 +9184,7 @@
       "boards": [],
       "company": "Textron Aviation",
       "key": "35eb15dcf038cca3d5f49252",
-      "last_scanned": "2026-10-02",
+      "last_scanned": "2026-10-11",
       "resolved_roles": 0,
       "url": "https://txtav.com/"
     },
@@ -11459,6 +11467,14 @@
       "last_scanned": "2026-09-22",
       "resolved_roles": 0,
       "url": "https://www.guidecx.com/"
+    },
+    {
+      "boards": [],
+      "company": "C&S Wholesale Grocers",
+      "key": "4336bb32d5d5ace948796e01",
+      "last_scanned": "2026-10-11",
+      "resolved_roles": 0,
+      "url": "https://www.cswg.com/"
     },
     {
       "boards": [],
@@ -17823,7 +17839,7 @@
       ],
       "company": "Greif",
       "key": "66cf5a41edc65b623e1f30a1",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-10-11",
       "resolved_roles": 0,
       "url": "https://greif.com/"
     },
@@ -19116,7 +19132,7 @@
       "company": "Ipsos in US",
       "error": "public request failed for https://ipsos-na.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ipsos-na.com'. (_ssl.c:1000)>",
       "key": "6dec96f49534b008cf989eae",
-      "last_scanned": "2026-10-05",
+      "last_scanned": "2026-10-11",
       "url": "https://ipsos-na.com/"
     },
     {
@@ -22892,6 +22908,16 @@
       "last_scanned": "2026-10-04",
       "resolved_roles": 0,
       "url": "https://sevenresearch.com/"
+    },
+    {
+      "boards": [
+        "bamboohr:newenergyequity"
+      ],
+      "company": "ALLETE",
+      "key": "84303e03fb34026fa45e1967",
+      "last_scanned": "2026-10-11",
+      "resolved_roles": 0,
+      "url": "https://allete.com/"
     },
     {
       "boards": [],
@@ -27296,7 +27322,7 @@
       "company": "ACCA Careers",
       "error": "public request failed for https://jobs.accaglobal.com/: HTTP Error 403: Forbidden",
       "key": "9d721e5757201143b39abc83",
-      "last_scanned": "2026-10-08",
+      "last_scanned": "2026-10-11",
       "resolved_roles": 0,
       "url": "https://jobs.accaglobal.com/"
     },
@@ -30964,6 +30990,14 @@
       "url": "https://power.mhi.com/regions/amer/"
     },
     {
+      "boards": [],
+      "company": "Butterball",
+      "key": "b1b56a5cdc469744c5413140",
+      "last_scanned": "2026-10-11",
+      "resolved_roles": 0,
+      "url": "https://www.butterball.com/"
+    },
+    {
       "boards": [
         "greenhouse:quince"
       ],
@@ -33820,6 +33854,18 @@
       "url": "https://www.dot.nd.gov/"
     },
     {
+      "boards": [
+        "oracle:cbdt.fa.us2.oraclecloud.com:cx",
+        "oracle:cbdt.fa.us2.oraclecloud.com:cx_1",
+        "oracle:cbdt.fa.us2.oraclecloud.com:worthingtonsteelcareers"
+      ],
+      "company": "Worthington Steel",
+      "key": "c2d94b592743bb1838054297",
+      "last_scanned": "2026-10-11",
+      "resolved_roles": 0,
+      "url": "https://www.worthingtonsteel.com/"
+    },
+    {
       "boards": [],
       "company": "Prime Healthcare",
       "key": "c2dcaf67db2ca8f99ea37925",
@@ -35546,7 +35592,7 @@
       "boards": [],
       "company": "RS&H",
       "key": "cc0b1739f4660242937c89a8",
-      "last_scanned": "2026-10-02",
+      "last_scanned": "2026-10-11",
       "resolved_roles": 0,
       "url": "https://www.rsandh.com/"
     },
@@ -37974,6 +38020,14 @@
     },
     {
       "boards": [],
+      "company": "Elemental Machines",
+      "key": "d870ad7d4fcafb9efda96a2d",
+      "last_scanned": "2026-10-11",
+      "resolved_roles": 0,
+      "url": "https://elementalmachines.com/"
+    },
+    {
+      "boards": [],
       "company": "MechSpire",
       "key": "d87542d338d2e602da26c6c5",
       "last_scanned": "2026-10-10",
@@ -39395,7 +39449,7 @@
       "company": "Parker Hannifin",
       "error": "public request failed for https://www.parker.com/: HTTP Error 403: Forbidden",
       "key": "e119a7f6379a58ca0c779bf4",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-11",
       "url": "https://www.parker.com/"
     },
     {
