@@ -9,24 +9,24 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,444 internships · 5,168 new-grad roles · 14,612 total openings**
+**9,388 internships · 5,156 new-grad roles · 14,544 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,466 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 406 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 651 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 203 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,718 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,438 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 407 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 648 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 202 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,693 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,081 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,464 | **[View openings →](new-grad/2026.md)** |
+| 2027 | 1,070 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,463 | **[View openings →](new-grad/2026.md)** |
 | Year not listed | 2,623 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
@@ -60,6 +60,7 @@ Recent full-time opportunities that open the employer's application page directl
 |---|---|---|---|---|---:|---|
 | Amazon | Software Development Engineer | Newark, NJ | 2027 | not available | 2026-10-10 | **[Apply →](https://www.amazon.jobs/jobs/10566605/apply)**<br><sub>www.amazon.jobs</sub> |
 | Harbor Freight Tools | Application Analyst (Retail Software)- Remote | Agoura Hills, California, United States | 2026 | not available | 2026-10-10 | **[Apply →](https://harbor-freight-tools.careerarc.com/job-listings/harbor-freight-tools-jobs-application-analyst-retail-software-remote-52953839?campaign_id=44948&career_site_id=44948&src=106)**<br><sub>harbor-freight-tools.careerarc.com</sub> |
+| Highmark Health | Associate Software Engineer | Pennsylvania, USA +43 | 2027 | not available | 2026-10-10 | **[Apply →](https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Software-Engineer_J286291)**<br><sub>highmarkhealth.wd1.myworkdayjobs.com</sub> |
 | Impact | Associate Software Engineer | Santa Barbara, CA | 2027 | not stated | 2026-10-10 | **[Apply →](https://job-boards.greenhouse.io/impact/jobs/8645964002)**<br><sub>job-boards.greenhouse.io</sub> |
 | Impact | Full Stack Software Engineer | Seattle, WA | 2027 | not available | 2026-10-10 | **[Apply →](https://job-boards.greenhouse.io/impact/jobs/8465838002)**<br><sub>job-boards.greenhouse.io</sub> |
 | Microsoft | Software Engineer | Redmond, WA | Not listed | not available | 2026-10-10 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393557037774)**<br><sub>apply.careers.microsoft.com</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Shield AI | Software Engineer 1 - Factory Team | Washington, DC | 2027 | not available | 2026-10-10 | **[Apply →](https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68/apply)**<br><sub>jobs.lever.co</sub> |
 | Shield AI | Software Engineer 2 - Factory | Washington, DC | Not listed | not available | 2026-10-10 | **[Apply →](https://jobs.lever.co/shieldai/681efe7f-2c2a-4830-8976-9a6f77d9d3e5/apply)**<br><sub>jobs.lever.co</sub> |
 | Swift | Jr. Software Development Engineer in Test - SDET | Manassas, VA | 2027 | not available | 2026-10-10 | **[Apply →](https://swift.wd3.myworkdayjobs.com/en-US/join-swift/job/Manassas-United-States/Jr-Software-Development-Engineer-in-Test--SDET-_2026-16183-1)**<br><sub>swift.wd3.myworkdayjobs.com</sub> |
-| Together AI | Software Engineer - New Grad - 2027 | San Francisco, CA | 2027 | not available | 2026-10-10 | **[Apply →](https://job-boards.greenhouse.io/togetherai/jobs/5211582007)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
