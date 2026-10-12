@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,336 internships · 5,163 new-grad roles · 14,499 total openings**
+**9,365 internships · 5,160 new-grad roles · 14,525 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
 | ☀️ Summer 2027 | 4,418 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 408 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 634 | **[View openings →](internships/spring-2027.md)** |
+| 🍂 Fall 2026 | 406 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 632 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 202 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,674 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 3,707 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,076 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,488 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,599 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,063 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,463 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,634 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,17 +38,17 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Analog Devices | Biomedical Engineering Intern | US, MA, Wilmington | Not listed | not available | 2026-10-11 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
-| Copart | Database Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-10-11 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
+| BKF Engineers | 2027 Civil Engineering Intern | Redwood City, United States | Not listed | not available | 2026-10-11 | **[Apply →](https://apply.workable.com/bkfengineers/j/2A7CA36BB8/)**<br><sub>apply.workable.com</sub> |
+| Bosch | Robotics Research Intern | Sunnyvale, CA, us | Not listed | not available | 2026-10-11 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000154911489)**<br><sub>jobs.smartrecruiters.com</sub> |
+| C&S Wholesale Grocers | IS Internship - Data Analytics & Data Science | Edison, NJ | Not listed | not available | 2026-10-11 | **[Apply →](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963)**<br><sub>cswg.wd1.myworkdayjobs.com</sub> |
+| Databricks | Software Engineering Intern - 2027 Start - Winter | Mountain View, CA +2 | Winter 2027 | Fall 2027–Spring 2028<br><sub>stated</sub> | 2026-10-11 | **[Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002)**<br><sub>databricks.com</sub> |
 | Entegris | Enterprise Solution Architecture Analyst Co-Op | Chaska, MN | Not listed | not available | 2026-10-11 | **[Apply →](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Enterprise-Solution-Architecture-Analyst-Co-Op_REQ-14445)**<br><sub>entegris.wd1.myworkdayjobs.com</sub> |
 | Entegris | Product Design Co-Op | Colorado Springs, CO | Not listed | not available | 2026-10-11 | **[Apply →](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Product-Design-Co-Op_REQ-14435)**<br><sub>entegris.wd1.myworkdayjobs.com</sub> |
+| GlobalFoundries | Strategic Pricing & AI Analytics Intern (Summer 2027) | USA - Texas - Austin | Summer 2027 | not available | 2026-10-11 | **[Apply →](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Strategic-Pricing---AI-Analytics-Intern--Summer-2027-_JR-2605139)**<br><sub>globalfoundries.wd1.myworkdayjobs.com</sub> |
 | Harbinger Motors | Intern, Battery Test | Garden Grove, CA | Not listed | Current student status<br><sub>stated</sub> | 2026-10-11 | **[Apply →](https://job-boards.greenhouse.io/harbingermotors/jobs/5263015007)**<br><sub>job-boards.greenhouse.io</sub> |
 | Micron Technology | Intern - TSE KEG Engineer | Boise, ID - Main Site | Not listed | not available | 2026-10-11 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/TSE-KEG-Intern-Engineer_JR112283)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
+| Rippling | Data Science Intern - Summer 2027 | San Francisco, CA | Summer 2027 | not available | 2026-10-11 | **[Apply →](https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8)**<br><sub>ats.rippling.com</sub> |
 | RTX | Mechanical Engineer Intern (Summer 2027) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 | Summer 2027 | not available | 2026-10-11 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineer-Intern--Summer-2027-_01881647)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
-| Advanced Space | 2027 Technical Growth and Capture Intern/Co-op | Westminster, CO | Not listed | not stated | 2026-10-10 | **[Apply →](https://job-boards.greenhouse.io/advancedspace/jobs/4444656009)**<br><sub>job-boards.greenhouse.io</sub> |
-| C&S Wholesale Grocers | IS Internship - Data Analytics & Data Science | Edison, NJ | Not listed | not available | 2026-10-10 | **[Apply →](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963)**<br><sub>cswg.wd1.myworkdayjobs.com</sub> |
-| Digital Factory, Inc. | iOS Developer - Internship | Chicago, IL, United States | Not listed | not available | 2026-10-10 | **[Apply →](https://dgtl-factory.com/careers/54)**<br><sub>dgtl-factory.com</sub> |
-| EXP | Electrical Intern | Maitland, FL, United States | Not listed | not stated | 2026-10-10 | **[Apply →](https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113311)**<br><sub>elcn.fa.us2.oraclecloud.com</sub> |
-| Gemini | Software Engineering Intern - Winter 2027 | New York City, NY | Winter 2027 | Current student status<br><sub>stated</sub> | 2026-10-10 | **[Apply →](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272)**<br><sub>boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,10 +58,10 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Pearson | Data Analyst - Measurement | Remote in USA | Not listed | not available | 2026-10-12 | **[Apply →](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26228)**<br><sub>hccz.fa.em3.oraclecloud.com</sub> |
 | Anduril | Embedded Firmware Engineer - Connected Warfare | Costa Mesa, CA | 2027 | not available | 2026-10-11 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5225618007?gh_jid=5225618007)**<br><sub>boards.greenhouse.io</sub> |
 | Figma | Early Career, Inside Sales Representative (2027) | San Francisco, CA • New York, NY | 2027 | not stated | 2026-10-11 | **[Apply →](https://boards.greenhouse.io/figma/jobs/6174190004?gh_jid=6174190004)**<br><sub>boards.greenhouse.io</sub> |
-| Roblox | Software Engineer - Economy Platform | San Mateo, CA | 2027 | not available | 2026-10-11 | **[Apply →](https://careers.roblox.com/jobs/8060254?gh_jid=8060254)**<br><sub>careers.roblox.com</sub> |
-| Roblox | Software Engineer - ROS | San Mateo, CA | 2027 | not available | 2026-10-11 | **[Apply →](https://careers.roblox.com/jobs/8262223?gh_jid=8262223)**<br><sub>careers.roblox.com</sub> |
+| NVIDIA | Software Engineer New Grad - DL Kernel Libraries | Santa Clara, CA | Not listed | not available | 2026-10-11 | **[Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337)**<br><sub>nvidia.wd5.myworkdayjobs.com</sub> |
 | Twitch | Software Engineer I | San Francisco, CA | 2027 | not available | 2026-10-11 | **[Apply →](https://job-boards.greenhouse.io/twitch/jobs/8879673002)**<br><sub>job-boards.greenhouse.io</sub> |
 | Amazon | Software Development Engineer | Newark, NJ | 2027 | not available | 2026-10-10 | **[Apply →](https://www.amazon.jobs/jobs/10566605/apply)**<br><sub>www.amazon.jobs</sub> |
 | Applied Systems | Associate Software Engineer / Software Engineer | Chicago, IL +2 | 2027 | not available | 2026-10-10 | **[Apply →](https://careers-appliedsystems.icims.com/jobs/7318/associate-software-engineer---software-engineer/job)**<br><sub>careers-appliedsystems.icims.com</sub> |

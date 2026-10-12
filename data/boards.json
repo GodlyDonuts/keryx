@@ -8422,6 +8422,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Pearson",
+      "host": "hccz.fa.em3.oraclecloud.com",
+      "key": "oracle:hccz.fa.em3.oraclecloud.com:cx_2",
+      "site": "CX_2",
+      "slug": "hccz"
+    },
+    {
+      "ats": "oracle",
       "company": "Citizens Financial Group",
       "host": "hcgn.fa.us2.oraclecloud.com",
       "key": "oracle:hcgn.fa.us2.oraclecloud.com:cx_1",
@@ -9753,6 +9761,12 @@
       "company": "BIP Ventures",
       "key": "workable:bipventures",
       "slug": "bipventures"
+    },
+    {
+      "ats": "workable",
+      "company": "BKF Engineers",
+      "key": "workable:bkfengineers",
+      "slug": "bkfengineers"
     },
     {
       "ats": "workable",
@@ -16809,10 +16823,10 @@
     },
     {
       "ats": "workday",
-      "company": "Marsh",
+      "company": "Marsh McLennan",
       "host": "mmc.wd1.myworkdayjobs.com",
       "key": "workday:mmc.wd1.myworkdayjobs.com:mmc:mmc",
-      "site": "MMC",
+      "site": "mmc",
       "slug": "mmc",
       "wd": "wd1"
     },
@@ -19188,7 +19202,7 @@
       "company": "Sonos",
       "host": "sonos.wd1.myworkdayjobs.com",
       "key": "workday:sonos.wd1.myworkdayjobs.com:sonos:sonos",
-      "site": "Sonos",
+      "site": "sonos",
       "slug": "sonos",
       "wd": "wd1"
     },
