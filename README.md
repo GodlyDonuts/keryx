@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,407 internships · 5,186 new-grad roles · 14,593 total openings**
+**9,520 internships · 5,197 new-grad roles · 14,717 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,425 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 404 | **[View openings →](internships/fall-2026.md)** |
+| ☀️ Summer 2027 | 4,485 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 408 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 634 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 201 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,743 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 3,792 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,075 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,500 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,611 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,076 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,489 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,632 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Acron Aviation | Software Engineer Intern - Phoenix Site | Phoenix, AZ | Not listed | not available | 2026-10-12 | **[Apply →](https://jobs.lever.co/acronaviation/17b5f12d-f590-432d-a421-d6f90274ae9a)**<br><sub>jobs.lever.co</sub> |
+| ADT | Product Management & Product Operations Intern | Boca Raton, FL | Summer 2027 | not available | 2026-10-12 | **[Apply →](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393)**<br><sub>fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 | AECOM | Civil Engineering Intern I | Chicago, IL, us | Not listed | not available | 2026-10-12 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155030899)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AECOM | Rail Engineering Intern | Chicago, IL, us | Not listed | not available | 2026-10-12 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155033629)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AECOM | Traffic Engineering Intern - Hiring Event with AECOM - Raleigh | Greenville, SC, us | Not listed | not available | 2026-10-12 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155018677)**<br><sub>jobs.smartrecruiters.com</sub> |
-| CapTech Consulting | Consulting Software Engineer Intern | Richmond, VA | Summer 2027 | not available | 2026-10-12 | **[Apply →](https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115)**<br><sub>jobs.smartrecruiters.com</sub> |
-| CapTech Consulting | Data Analysis/Data Engineering Intern | Richmond, VA | Summer 2027 | not available | 2026-10-12 | **[Apply →](https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Google | Forward Deployed Engineer Intern | NYC, Sunnyvale, CA | Summer 2027 | not available | 2026-10-12 | **[Apply →](https://www.google.com/about/careers/applications/jobs/results/75665705386549958)**<br><sub>www.google.com</sub> |
-| Intel | Process Integration and Yield Engineering PhD Intern | US, Oregon, Hillsboro | Not listed | not available | 2026-10-12 | **[Apply →](https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern_JR0287132)**<br><sub>intel.wd1.myworkdayjobs.com</sub> |
-| Nordson | Intern (Disposables Engineering) | USA - Texas - Allen | Not listed | not available | 2026-10-12 | **[Apply →](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Texas---Allen/Intern--Disposables-Engineering-_REQ52924)**<br><sub>nordsonhcm.wd501.myworkdayjobs.com</sub> |
-| WSP | Structural Engineering Intern- Summer 2027 | New York, NY, United States | Summer 2027 | May 2027 or later<br><sub>required / stated</sub> | 2026-10-12 | **[Apply →](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97220)**<br><sub>emit.fa.ca3.oraclecloud.com</sub> |
-| WSP | Water Resources Engineering Intern- Summer 2027 | South Jordan, UT, United States | Summer 2027 | 2027–2028<br><sub>required / stated</sub> | 2026-10-12 | **[Apply →](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96934)**<br><sub>emit.fa.ca3.oraclecloud.com</sub> |
-| Analog Devices | Biomedical Engineering Intern | US, MA, Wilmington | Not listed | not available | 2026-10-11 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
-| BKF Engineers | 2027 Civil Engineering Intern | Redwood City, United States | Not listed | not available | 2026-10-11 | **[Apply →](https://apply.workable.com/bkfengineers/j/2A7CA36BB8/)**<br><sub>apply.workable.com</sub> |
+| Amperesand | Technical Program Manager Intern | Reno, Nevada, United States | Not listed | Current student status<br><sub>stated</sub> | 2026-10-12 | **[Apply →](https://job-boards.greenhouse.io/amperesand/jobs/4448972009)**<br><sub>job-boards.greenhouse.io</sub> |
+| Arcesium | Product Management Intern | New York | Not listed | Current student status<br><sub>stated</sub> | 2026-10-12 | **[Apply →](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257266007)**<br><sub>job-boards.greenhouse.io</sub> |
+| Ascension | Data Science Intern | Atlanta, GA, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-10-12 | **[Apply →](https://ibpcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1004/job/2026-465186)**<br><sub>ibpcjb.fa.ocs.oraclecloud.com</sub> |
+| Ascension | Intern, Integrated Participant Solutions Analytics | St. Louis, MO, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-10-12 | **[Apply →](https://ibpcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1004/job/2026-465198)**<br><sub>ibpcjb.fa.ocs.oraclecloud.com</sub> |
+| Ascension | Intern, Master Data Management | Tempe, AZ, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-10-12 | **[Apply →](https://ibpcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1004/job/2026-465180)**<br><sub>ibpcjb.fa.ocs.oraclecloud.com</sub> |
+| Ascension | IT Contracting Intern | St. Louis, MO, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-10-12 | **[Apply →](https://ibpcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1004/job/2026-465203)**<br><sub>ibpcjb.fa.ocs.oraclecloud.com</sub> |
+| Ascension | Strategic Sourcing Analytics Intern | St. Louis, MO, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-10-12 | **[Apply →](https://ibpcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1004/job/2026-465200)**<br><sub>ibpcjb.fa.ocs.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| AbbVie | Associate Engineer - Technology 1 | North Chicago, IL | Not listed | not available | 2026-10-12 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990016054796)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Aderant | Associate Software Engineer | Atlanta, GA | Not listed | not available | 2026-10-12 | **[Apply →](https://aderant.wd5.myworkdayjobs.com/Aderant_External_Careers/job/Atlanta-Georgia/Associate-Software-Engineer_REQ_100000484)**<br><sub>aderant.wd5.myworkdayjobs.com</sub> |
 | AECOM | Entry-Level Geotechnical Engineer | Germantown, MD, us | Not listed | not available | 2026-10-12 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155049105)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AECOM | Entry-Level Traffic Engineer - Hiring Event with AECOM - Raleigh | Raleigh, NC, us | Not listed | not available | 2026-10-12 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155020469)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Apple | ASIC Design Engineer - Fabric/Interconnect | Austin, TX, Santa Clara, CA | Not listed | not available | 2026-10-12 | **[Apply →](https://jobs.apple.com/en-us/details/200688304)**<br><sub>jobs.apple.com</sub> |
+| Applied Intuition | Embedded Test Engineer - New Grad - 2027 | Sunnyvale, CA | 2027 | not available | 2026-10-12 | **[Apply →](https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c)**<br><sub>jobs.ashbyhq.com</sub> |
+| Astera Labs | Analog Mixed Signal Engineer | San Jose, CA, Irvine, CA | Not listed | not available | 2026-10-12 | **[Apply →](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739771005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Blue Origin | Robotics Engineer 1 | Washington | Not listed | not available | 2026-10-12 | **[Apply →](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Robotics-Engineer-I_R73861)**<br><sub>blueorigin.wd5.myworkdayjobs.com</sub> |
+| Chalk | Software Engineer - New Grad | San Francisco, CA +1 | 2027 | not available | 2026-10-12 | **[Apply →](https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f)**<br><sub>jobs.ashbyhq.com</sub> |
+| Concept Solutions, LLC | Associates Software Engineer – Go (Golang) | Washington, DC, United States | 2026 | not available | 2026-10-12 | **[Apply →](https://www.concept-solutions.com/careers/jobs/associates-software-engineer-go-golang-4579798/)**<br><sub>www.concept-solutions.com</sub> |
+| Cox | Data Engineer 1 | Carmel, IN | Not listed | not available | 2026-10-12 | **[Apply →](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Data-Engineer-I_R202683561-1)**<br><sub>cox.wd1.myworkdayjobs.com</sub> |
 | Crown Innovations | R&D Engineer 1 | Mountain View, CA | Not listed | not available | 2026-10-12 | **[Apply →](https://jobs.smartrecruiters.com/TBD20261012CrownInnovationsInc/744000144158449)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Crown Innovations | Systems Engineer 1 | Mountain View, CA | Not listed | not available | 2026-10-12 | **[Apply →](https://jobs.smartrecruiters.com/TBD20261012CrownInnovationsInc/744000144160949)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Howmet Aerospace | Manufacturing Engineer - Entry Level, Continuous Improvement | Whitehall, MI, United States | Not listed | not stated | 2026-10-12 | **[Apply →](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119909)**<br><sub>fa-exty-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
-| Pearson | Data Analyst - Measurement | Remote in USA | Not listed | not available | 2026-10-12 | **[Apply →](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26228)**<br><sub>hccz.fa.em3.oraclecloud.com</sub> |
-| Wolverine Trading | Early Career C++ Software Engineer | Chicago, IL | Not listed | not available | 2026-10-12 | **[Apply →](https://wolve.pinpointhq.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648?ats=pinpointhq)**<br><sub>wolve.pinpointhq.com</sub> |
-| Anduril | Embedded Firmware Engineer - Connected Warfare | Costa Mesa, CA | 2027 | not available | 2026-10-11 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5225618007?gh_jid=5225618007)**<br><sub>boards.greenhouse.io</sub> |
-| Figma | Early Career, Inside Sales Representative (2027) | San Francisco, CA • New York, NY | 2027 | not stated | 2026-10-11 | **[Apply →](https://boards.greenhouse.io/figma/jobs/6174190004?gh_jid=6174190004)**<br><sub>boards.greenhouse.io</sub> |
-| NVIDIA | Software Engineer, DL Kernel Libraries - New College Grad 2027 | US, CA, Santa Clara | 2027 | not available | 2026-10-11 | **[Apply →](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337)**<br><sub>nvidia.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

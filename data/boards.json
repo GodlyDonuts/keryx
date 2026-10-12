@@ -1274,6 +1274,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Merciv",
+      "key": "ashby:merciv",
+      "slug": "merciv"
+    },
+    {
+      "ats": "ashby",
       "company": "Mercor",
       "key": "ashby:mercor",
       "slug": "mercor"
@@ -4974,6 +4980,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Precision AQ",
+      "key": "greenhouse:precisionaq",
+      "slug": "precisionaq"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Profluent",
       "key": "greenhouse:profluent",
       "slug": "profluent"
@@ -8134,6 +8146,14 @@
     },
     {
       "ats": "oracle",
+      "company": "TriNet",
+      "host": "fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "fa-etgw-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
       "company": "Amery Hospital & Clinic",
       "host": "fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com",
       "key": "oracle:fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com:amery-hospital-and-clinic",
@@ -8659,6 +8679,14 @@
       "key": "oracle:ibedqy.fa.ocs.oraclecloud.com:onegas-careers",
       "site": "ONEGas-Careers",
       "slug": "ibedqy"
+    },
+    {
+      "ats": "oracle",
+      "company": "Ascension",
+      "host": "ibpcjb.fa.ocs.oraclecloud.com",
+      "key": "oracle:ibpcjb.fa.ocs.oraclecloud.com:cx_1004",
+      "site": "CX_1004",
+      "slug": "ibpcjb"
     },
     {
       "ats": "oracle",
@@ -12365,6 +12393,15 @@
     },
     {
       "ats": "workday",
+      "company": "Marigold",
+      "host": "campaignmonitor.wd5.myworkdayjobs.com",
+      "key": "workday:campaignmonitor.wd5.myworkdayjobs.com:campaignmonitor:marigold",
+      "site": "marigold",
+      "slug": "campaignmonitor",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "The Campbell's Company",
       "host": "campbellsoup.wd5.myworkdayjobs.com",
       "key": "workday:campbellsoup.wd5.myworkdayjobs.com:campbellsoup:externalcareers_globalsite",
@@ -14449,6 +14486,15 @@
       "key": "workday:gables.wd5.myworkdayjobs.com:gables:gables_careers",
       "site": "Gables_Careers",
       "slug": "gables",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "GAF",
+      "host": "gafsgi.wd5.myworkdayjobs.com",
+      "key": "workday:gafsgi.wd5.myworkdayjobs.com:gafsgi:gaf_careers",
+      "site": "GAF_Careers",
+      "slug": "gafsgi",
       "wd": "wd5"
     },
     {
@@ -18152,6 +18198,15 @@
     },
     {
       "ats": "workday",
+      "company": "Prologis",
+      "host": "prologis.wd5.myworkdayjobs.com",
+      "key": "workday:prologis.wd5.myworkdayjobs.com:prologis:prologis_external_careers",
+      "site": "Prologis_External_Careers",
+      "slug": "prologis",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "PROS Holdings",
       "host": "pros.wd5.myworkdayjobs.com",
       "key": "workday:pros.wd5.myworkdayjobs.com:pros:pros_careers",
@@ -18503,10 +18558,10 @@
     },
     {
       "ats": "workday",
-      "company": "Resmed",
+      "company": "ResMed",
       "host": "resmed.wd3.myworkdayjobs.com",
       "key": "workday:resmed.wd3.myworkdayjobs.com:resmed:resmed_external_careers",
-      "site": "ResMed_External_Careers",
+      "site": "resmed_external_careers",
       "slug": "resmed",
       "wd": "wd3"
     },
