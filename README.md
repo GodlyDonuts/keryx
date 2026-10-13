@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,532 internships · 5,164 new-grad roles · 14,696 total openings**
+**9,537 internships · 5,170 new-grad roles · 14,707 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,514 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 4,485 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 403 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 633 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 205 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,777 | **[View openings →](internships/unscheduled.md)** |
+| 🌱 Spring 2027 | 632 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 208 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,809 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,072 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,457 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,635 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,063 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,474 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,633 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -60,16 +60,16 @@ Recent full-time opportunities that open the employer's application page directl
 |---|---|---|---|---|---:|---|
 | AECOM | Entry-Level Civil Engineer - Remediation - Hiring Event with AECOM - Raleigh | Raleigh, NC, us | Not listed | not available | 2026-10-13 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155155079)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Astera Labs | Analog/Mixed Signal System Test Engineer | San Jose, CA | Not listed | not available | 2026-10-13 | **[Apply →](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4742217005)**<br><sub>job-boards.greenhouse.io</sub> |
+| Chewy | Business Intelligence Analyst 1 | Dayton, OH, Houston, TX, Ocala, FL, Clayton, IN, Reno, NV, Goodyear, AZ, Salisbury, NC, Jessup, PA, Belton, MO, Lewisberry, PA, Wilkes-Barre, PA | Not listed | not available | 2026-10-13 | **[Apply →](https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Clayton-IN/Business-Intelligence-Analyst-I_R31111)**<br><sub>wd5.myworkdaysite.com</sub> |
+| Dexcom | Hardware Engineer 1 | San Diego, CA | Not listed | not available | 2026-10-13 | **[Apply →](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Hardware-Engineer-1_JR119889-1)**<br><sub>dexcom.wd1.myworkdayjobs.com</sub> |
+| Microsoft | Software Engineer | Redmond, WA | Not listed | not available | 2026-10-13 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393556985571)**<br><sub>apply.careers.microsoft.com</sub> |
 | TikTok | Research Scientist Graduate | Seattle, WA | Not listed | not available | 2026-10-13 | **[Apply →](https://lifeattiktok.com/search/7695929967028750645)**<br><sub>lifeattiktok.com</sub> |
 | TikTok | Research Scientist New Grad | Seattle, WA | Not listed | not available | 2026-10-13 | **[Apply →](https://lifeattiktok.com/search/7695927144126253317)**<br><sub>lifeattiktok.com</sub> |
+| Zimmer Biomet Holdings | Associate Product Manager - Upstream Marketing - NPI Strategy | Englewood, CO | Not listed | not available | 2026-10-13 | **[Apply →](https://careers.zimmerbiomet.com/us/en/job/13127)**<br><sub>careers.zimmerbiomet.com</sub> |
 | AbbVie | Associate Engineer - Technology 1 | North Chicago, IL | Not listed | not available | 2026-10-12 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990016054796)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AECOM | Entry-Level Geotechnical Engineer | Germantown, MD, us | Not listed | not available | 2026-10-12 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155049105)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AECOM | Entry-Level Traffic Engineer - Hiring Event with AECOM - Raleigh | Raleigh, NC, us | Not listed | not available | 2026-10-12 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155020469)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Analog Devices | Research Science Engineering | Durham, NC | Not listed | not available | 2026-10-12 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Research-Science-Engineering_R265913)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
-| Apple | ASIC Design Engineer - Fabric/Interconnect | Austin, TX, Santa Clara, CA | Not listed | not available | 2026-10-12 | **[Apply →](https://jobs.apple.com/en-us/details/200688304)**<br><sub>jobs.apple.com</sub> |
-| Applied Intuition | Embedded Test Engineer - New Grad - 2027 | Sunnyvale, CA | 2027 | not available | 2026-10-12 | **[Apply →](https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c)**<br><sub>jobs.ashbyhq.com</sub> |
-| Astera Labs | Analog Mixed Signal Engineer | San Jose, CA, Irvine, CA | Not listed | not available | 2026-10-12 | **[Apply →](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739771005)**<br><sub>job-boards.greenhouse.io</sub> |
-| Blue Origin | Robotics Engineer 1 | Washington | Not listed | not available | 2026-10-12 | **[Apply →](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Robotics-Engineer-I_R73861)**<br><sub>blueorigin.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
