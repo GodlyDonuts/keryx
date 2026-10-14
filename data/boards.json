@@ -3104,6 +3104,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Atoms",
+      "key": "greenhouse:atoms",
+      "slug": "atoms"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Ecommerce Guide",
       "key": "greenhouse:attentive",
       "slug": "attentive"
@@ -4487,6 +4493,12 @@
       "company": "K2 Space",
       "key": "greenhouse:k2spacecorporation",
       "slug": "k2spacecorporation"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Kairos Power",
+      "key": "greenhouse:kairospower",
+      "slug": "kairospower"
     },
     {
       "ats": "greenhouse",
@@ -7286,7 +7298,7 @@
     },
     {
       "ats": "oracle",
-      "company": "Macy's Retail Holdings, Inc.",
+      "company": "Macy's",
       "host": "ebwh.fa.us2.oraclecloud.com",
       "key": "oracle:ebwh.fa.us2.oraclecloud.com:cx_1001",
       "site": "CX_1001",
@@ -9077,6 +9089,12 @@
       "company": "AmNet Services",
       "key": "smartrecruiters:amnetservicesinc",
       "slug": "AmNetServicesInc"
+    },
+    {
+      "ats": "smartrecruiters",
+      "company": "Anton Paar",
+      "key": "smartrecruiters:antonpaar1",
+      "slug": "AntonPaar1"
     },
     {
       "ats": "smartrecruiters",
@@ -11585,7 +11603,7 @@
       "company": "Assurant",
       "host": "assurant.wd1.myworkdayjobs.com",
       "key": "workday:assurant.wd1.myworkdayjobs.com:assurant:external_limited_posting",
-      "site": "External_Limited_Posting",
+      "site": "external_limited_posting",
       "slug": "assurant",
       "wd": "wd1"
     },
