@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,669 internships · 5,214 new-grad roles · 14,883 total openings**
+**9,919 internships · 5,437 new-grad roles · 15,356 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,482 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 403 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 644 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 205 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,935 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,621 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 400 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 662 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 207 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 4,029 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,170 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,436 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,608 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,217 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,546 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,674 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| ADT | Data, Analytics & AI Internship | Boca Raton, FL, United States | Summer 2027 | Dec 2027–May 2028<br><sub>stated</sub> | 2026-10-13 | **[Apply →](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022387)**<br><sub>fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
-| AECOM | Civil Engineering Intern - Roadway Design - Hiring Event with AECOM - Raleigh | Raleigh, NC, us | Not listed | not available | 2026-10-13 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155312519)**<br><sub>jobs.smartrecruiters.com</sub> |
-| AECOM | Engineering Intern - Hydraulics - Hiring Event with AECOM – Raleigh | Raleigh, NC, us | Not listed | not available | 2026-10-13 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155155259)**<br><sub>jobs.smartrecruiters.com</sub> |
-| AECOM | Traffic Engineering Intern - Hiring Event with AECOM - Raleigh | Raleigh, NC, us | Not listed | not available | 2026-10-13 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155269360)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Arcesium | Corporate Strategy Intern | New York | Not listed | Current student status<br><sub>stated</sub> | 2026-10-13 | **[Apply →](https://job-boards.greenhouse.io/arcesiumllc/jobs/5262605007)**<br><sub>job-boards.greenhouse.io</sub> |
-| Arcesium | Finance Intern | New York | Not listed | not stated | 2026-10-13 | **[Apply →](https://job-boards.greenhouse.io/arcesiumllc/jobs/5262557007)**<br><sub>job-boards.greenhouse.io</sub> |
-| BGE, Inc | CHARLOTTE - Planning & Landscape Architecture, Internship | 1111 Metropolitan Avenue, Suite 250, ​Charlotte, North Carolina 28204 | Not listed | not stated | 2026-10-13 | **[Apply →](https://job-boards.greenhouse.io/bgeinc/jobs/5451646008)**<br><sub>job-boards.greenhouse.io</sub> |
-| BGE, Inc | North Austin - Land/Site Development, Internship | 101 W Louis Henna Blvd, Suite 400, Austin, Texas 78728 | Not listed | not stated | 2026-10-13 | **[Apply →](https://job-boards.greenhouse.io/bgeinc/jobs/5450919008)**<br><sub>job-boards.greenhouse.io</sub> |
-| Bose | Audio Machine Learning Co-op | US, MA - Framingham | Not listed | not available | 2026-10-13 | **[Apply →](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Co-op_R29274)**<br><sub>boseallaboutme.wd503.myworkdayjobs.com</sub> |
-| Bose | Embedded Audio ML Engineer Co-op | US, MA - Framingham | Not listed | not available | 2026-10-13 | **[Apply →](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719)**<br><sub>boseallaboutme.wd503.myworkdayjobs.com</sub> |
-| Boston Scientific | R&D Firmware Engineer Intern | Arden Hills, MN | Summer 2027 | not available | 2026-10-13 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813547667)**<br><sub>bostonscientific.eightfold.ai</sub> |
-| Clera | GTM Intern | United States | Not listed | not stated | 2026-10-13 | **[Apply →](https://jobs.ashbyhq.com/clera/2ddf7fac-1eb1-414f-9aac-dda533ed6fba)**<br><sub>jobs.ashbyhq.com</sub> |
+| Ace Electric, Inc | Project Engineer College Intern - Electrical Construction (Summer 2027) | Valdosta, Georgia | Summer 2027 | not stated | 2026-10-14 | **[Apply →](https://aceelectric.bamboohr.com/careers/997/)**<br><sub>aceelectric.bamboohr.com</sub> |
+| AECOM | Civil Engineering Intern – Hiring Event with AECOM – Atlanta, GA | Savannah, GA, us | Not listed | not available | 2026-10-14 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155564606)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AECOM | Design Engineering Intern - Networking Event with AECOM – Raleigh, NC | Greenville, SC, us | Not listed | not available | 2026-10-14 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155557909)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AECOM | Engineering/Data Analytics Intern – Hiring Event with AECOM – Atlanta, GA | Atlanta, GA, us | Not listed | not available | 2026-10-14 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155565444)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AECOM | Structural Engineering Intern | Columbus, OH, us | Not listed | not available | 2026-10-14 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155595329)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AECOM | Structural Engineering Intern | Cleveland, OH, us | Not listed | not available | 2026-10-14 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155595277)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AECOM | Structural Engineering Intern | Raleigh, NC, us | Not listed | not available | 2026-10-14 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155592720)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Amazon | Hardware Development Engineer Intern | North Reading, MA, Hawthorne, CA, Sunnyvale, CA | Summer 2027 | not available | 2026-10-14 | **[Apply →](https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027)**<br><sub>amazon.jobs</sub> |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Strategy & Analytics, Credit & Fraud Risk - New York, NY | New York, NY, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-10-14 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
+| Anduril | 2027 Flight Test Engineer Intern | Costa Mesa, California, United States | Summer 2027 | Student status conditions<br><sub>required</sub> | 2026-10-14 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007)**<br><sub>boards.greenhouse.io</sub> |
+| Assurant | Summer 2027 Intern: Data Support Analyst | Illinois Virtual | Summer 2027 | not available | 2026-10-14 | **[Apply →](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Illinois-Virtual/Summer-2027-Intern--Data-Support-Analyst_R-115717)**<br><sub>assurant.wd1.myworkdayjobs.com</sub> |
+| Astranis Space Technologies | Flight Software Intern - Winter 2027 | San Francisco, CA | Winter 2027 | not available | 2026-10-14 | **[Apply →](https://job-boards.greenhouse.io/astranis/jobs/4704595006)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Accenture Federal Services | Software Engineer | San Diego, CA | 2027 | not available | 2026-10-13 | **[Apply →](https://boards.greenhouse.io/accenturefederalservices/jobs/4714235006?gh_jid=4714235006)**<br><sub>boards.greenhouse.io</sub> |
-| Accenture Federal Services | Software Installation Engineer | San Diego, CA | 2027 | not available | 2026-10-13 | **[Apply →](https://boards.greenhouse.io/accenturefederalservices/jobs/4712838006?gh_jid=4712838006)**<br><sub>boards.greenhouse.io</sub> |
-| AdvanceCT | Business Associate, Research | New Haven, CT, United States | 2026 | not available | 2026-10-13 | **[Apply →](https://www.advancect.org/our-team/job-opportunities/business-associate-research)**<br><sub>www.advancect.org</sub> |
-| AECOM | Entry-Level Civil Engineer - Remediation - Hiring Event with AECOM - Raleigh | Raleigh, NC, us | Not listed | not available | 2026-10-13 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155155079)**<br><sub>jobs.smartrecruiters.com</sub> |
-| AECOM | Entry-Level Civil Engineer - Roadway Designer - Networking Event with AECOM – Raleigh | Raleigh, NC, us | Not listed | not available | 2026-10-13 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155268930)**<br><sub>jobs.smartrecruiters.com</sub> |
-| AECOM | Entry-Level Environmental Engineer | Milwaukee, WI, us | Not listed | not available | 2026-10-13 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155258344)**<br><sub>jobs.smartrecruiters.com</sub> |
-| AMERICAN SYSTEMS | NAVAIR Software Engineer/Developer | California, MD | 2027 | not available | 2026-10-13 | **[Apply →](https://careers-americansystems.icims.com/jobs/4813/navair-software-engineer-developer/job)**<br><sub>careers-americansystems.icims.com</sub> |
-| Astera Labs | Analog/Mixed Signal System Test Engineer | San Jose, CA | Not listed | not available | 2026-10-13 | **[Apply →](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4742217005)**<br><sub>job-boards.greenhouse.io</sub> |
-| Axtria | AI & Data Associate | Berkeley Heights, NJ | Not listed | not available | 2026-10-13 | **[Apply →](https://axtriainc.applytojob.com/apply/WvWFVnBuU0/Campus-2027-AI-Data)**<br><sub>axtriainc.applytojob.com</sub> |
-| Boeing | Entry-Level Software Engineer-Test & Verification | Tinker AFB, OK | 2027 | not available | 2026-10-13 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
-| City of Philadelphia | Junior Cloud Engineer | Philadelphia, PA | 2027 | not available | 2026-10-13 | **[Apply →](https://jobs.smartrecruiters.com/CityofPhiladelphia/744000146469759-junior-cloud-engineer?oga=true)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Dexcom | Hardware Engineer 1 | San Diego, CA | Not listed | not available | 2026-10-13 | **[Apply →](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Hardware-Engineer-1_JR119889-1)**<br><sub>dexcom.wd1.myworkdayjobs.com</sub> |
+| AeroVironment | Junior Software Engineer | Jessup, MD | Not listed | not available | 2026-10-14 | **[Apply →](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Jessup-MD/Jr-Software-Engineer_9123-1)**<br><sub>avav.wd1.myworkdayjobs.com</sub> |
+| Amentum | C/C++ Software Developer | Dahlgren, VA | 2027 | not available | 2026-10-14 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C-C---Software-Developer_R0171182)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
+| Anduril | 2027 Early Career Division Operations | Reston, Virginia, United States | 2027 | not stated | 2026-10-14 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5261363007?gh_jid=5261363007)**<br><sub>boards.greenhouse.io</sub> |
+| Astranis Space Technologies | Flight Software Associate - Winter 2027 | San Francisco, CA | 2027 | not available | 2026-10-14 | **[Apply →](https://job-boards.greenhouse.io/astranis/jobs/4704714006)**<br><sub>job-boards.greenhouse.io</sub> |
+| Axtria | Decision Intelligence Analyst | Berkeley Heights, NJ | Not listed | not available | 2026-10-14 | **[Apply →](https://axtriainc.applytojob.com/apply/pw4tXgyRFb/Campus-2027-Decision-Intelligence-DI-Analyst)**<br><sub>axtriainc.applytojob.com</sub> |
+| Brain | Software Engineer I - Firmware | San Diego, CA | 2027 | not available | 2026-10-14 | **[Apply →](https://www.braincorp.com/open-positions?gh_jid=8879726002)**<br><sub>www.braincorp.com</sub> |
+| CWILL | Product Management Trainee | Cary, NC | Not listed | not available | 2026-10-14 | **[Apply →](https://apply.workable.com/cwill-us/j/06A1E720C7/apply)**<br><sub>apply.workable.com</sub> |
+| Guidehouse | Financial Management Transformation Developer | Remote - Huntsville, AL | 2027 | not available | 2026-10-14 | **[Apply →](https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---AL-Huntsville/Financial-Management-Transformation-Developer_44628)**<br><sub>guidehouse.wd1.myworkdayjobs.com</sub> |
+| Jabil | AI and Data Solutions Developer - Global Supply Chain | Tampa, FL, St. Petersburg, FL | 2027 | not available | 2026-10-14 | **[Apply →](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Solutions-Developer-Global-Supply-Chain_J2467953)**<br><sub>jabil.wd5.myworkdayjobs.com</sub> |
+| L3Harris Technologies | Associate – Integration / Test Engineer | Melbourne, FL | Not listed | not available | 2026-10-14 | **[Apply →](https://jobs.l3harris.com/job/Melbourne-Associate,-Integration-Test-Engineer-FL-32919/1419938400/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
+| Meta | ASIC Engineer New Grad - Design | Austin, TX | Not listed | not available | 2026-10-14 | **[Apply →](https://www.metacareers.com/jobs/1084023187741651)**<br><sub>www.metacareers.com</sub> |
+| Northrop Grumman | Associate Hardware Electronics Engineer | Annapolis, MD | Not listed | not available | 2026-10-14 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Associate-H-W-Electronics-Engineer---Annapolis-MD_R10254896)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
