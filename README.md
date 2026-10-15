@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,813 internships · 5,159 new-grad roles · 14,972 total openings**
+**9,865 internships · 5,175 new-grad roles · 15,040 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
 | ☀️ Summer 2027 | 4,562 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 400 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 649 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 206 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,996 | **[View openings →](internships/unscheduled.md)** |
+| 🍂 Fall 2026 | 398 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 656 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 205 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 4,044 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,193 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,373 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,593 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,196 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,397 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,582 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,17 +38,17 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Bee Sweet Citrus, Inc. | Data Processing Intern | Fowler, California, United States | Not listed | not available | 2026-10-15 | **[Apply →](https://beesweetcitrus.applytojob.com/apply/MMbyNj6r3a/Data-Processing-Intern)**<br><sub>beesweetcitrus.applytojob.com</sub> |
-| Braun Intertec Corporation | 2027 Civil Engineering & Construction Materials Testing 6-month Co-op (Fargo) | Fargo, ND | Not listed | not available | 2026-10-15 | **[Apply →](https://braunintertec.wd5.myworkdayjobs.com/BraunIntertecCareers/job/Fargo-ND/XMLNAME-2027-Civil-Engineering---Construction-Materials-Testing-6-month-Co-op--Fargo-_R4914)**<br><sub>braunintertec.wd5.myworkdayjobs.com</sub> |
+| Braun Intertec Corporation | 2027 Civil Engineering & Construction Materials Testing 6-month Co-op (Hibbing) | Hibbing, MN | Not listed | not available | 2026-10-15 | **[Apply →](https://braunintertec.wd5.myworkdayjobs.com/BraunIntertecCareers/job/Hibbing-MN/XMLNAME-2027-Civil-Engineering---Construction-Materials-Testing-6-month-Co-op--Hibbing-_R4915)**<br><sub>braunintertec.wd5.myworkdayjobs.com</sub> |
 | Clearwater Analytics | Software Development Intern | Boise, ID | Not listed | not available | 2026-10-15 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Boise/Software-Development-Intern_R12098)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
-| Clearwater Analytics | Software Development Intern | Chicago, IL | Not listed | not available | 2026-10-15 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12186)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
+| Clearwater Analytics | Software Development Intern | Chicago, IL | Not listed | not available | 2026-10-15 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12188)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
 | Covestro | IT&D Intern | Pittsburgh, PA | Not listed | not available | 2026-10-15 | **[Apply →](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pittsburgh-PA/IT-D-Intern_JR-2026-01869)**<br><sub>covestro.wd3.myworkdayjobs.com</sub> |
 | Dell Technologies | Product & Application Security Undergraduate Intern | Round Rock, TX, United States | Not listed | Dec 2027–May 2028<br><sub>stated</sub> | 2026-10-15 | **[Apply →](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299002)**<br><sub>iawmqy.fa.ocs.oraclecloud.com</sub> |
 | Deloitte | Audit & Assurance Intern - AI and Data Science | LA | Winter 2027 | not available | 2026-10-15 | **[Apply →](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857)**<br><sub>apply.deloitte.com</sub> |
 | Deloitte | Audit & Assurance Intern - Valuation & Analytics | Atlanta, GA | Winter 2027 | not available | 2026-10-15 | **[Apply →](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Valuation-Analytics-Winter-2027/361853)**<br><sub>apply.deloitte.com</sub> |
 | Fortive | Mechanical Engineering Intern | Irvine, CA, United States | Summer 2027 | Dec 2027 or later<br><sub>stated</sub> | 2026-10-15 | **[Apply →](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10826)**<br><sub>ejta.fa.us6.oraclecloud.com</sub> |
-| Generac | Mechanical Engineering Intern - Transfer Switch - Summer 2027 | Waukesha, WI - USA | Summer 2027 | not available | 2026-10-15 | **[Apply →](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Mechanical-Engineering-Intern---Transfer-Switch---Summer-2027_JR17048)**<br><sub>generac.wd5.myworkdayjobs.com</sub> |
+| Greif | 2027 Engineering Co-Op | Baltimore-OH | Not listed | not available | 2026-10-15 | **[Apply →](https://greif.wd5.myworkdayjobs.com/Greif/job/Baltimore-OH/XMLNAME-2027-Engineering-Co-Op_035404)**<br><sub>greif.wd5.myworkdayjobs.com</sub> |
+| KnowBe4 | Multimedia Designer Intern | Clearwater, Florida | Not listed | Current student status<br><sub>required</sub> | 2026-10-15 | **[Apply →](https://job-boards.greenhouse.io/knowbe4/jobs/8889268002)**<br><sub>job-boards.greenhouse.io</sub> |
 | Matic | Product Design Intern | Menlo Park, CA | Not listed | not stated | 2026-10-15 | **[Apply →](https://jobs.ashbyhq.com/MaticRobots/655f8bb2-26f0-4324-acd6-f9c0d0d24f6b)**<br><sub>jobs.ashbyhq.com</sub> |
-| Michael Baker International | IT Support Desk Intern | Moon Township, PA, United States | Not listed | Current student status<br><sub>required</sub> | 2026-10-15 | **[Apply →](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4004/job/310031)**<br><sub>ebxs.fa.us2.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
