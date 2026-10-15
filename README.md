@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,796 internships · 5,234 new-grad roles · 15,030 total openings**
+**9,813 internships · 5,159 new-grad roles · 14,972 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,604 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 398 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 646 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 208 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,940 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,562 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 400 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 649 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 206 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,996 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,181 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,371 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,682 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,193 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,373 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,593 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Bee Sweet Citrus, Inc. | Data Processing Intern | Fowler, California, United States | Not listed | not available | 2026-10-15 | **[Apply →](https://beesweetcitrus.applytojob.com/apply/MMbyNj6r3a/Data-Processing-Intern)**<br><sub>beesweetcitrus.applytojob.com</sub> |
+| Braun Intertec Corporation | 2027 Civil Engineering & Construction Materials Testing 6-month Co-op (Fargo) | Fargo, ND | Not listed | not available | 2026-10-15 | **[Apply →](https://braunintertec.wd5.myworkdayjobs.com/BraunIntertecCareers/job/Fargo-ND/XMLNAME-2027-Civil-Engineering---Construction-Materials-Testing-6-month-Co-op--Fargo-_R4914)**<br><sub>braunintertec.wd5.myworkdayjobs.com</sub> |
 | Clearwater Analytics | Software Development Intern | Boise, ID | Not listed | not available | 2026-10-15 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Boise/Software-Development-Intern_R12098)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
 | Clearwater Analytics | Software Development Intern | Chicago, IL | Not listed | not available | 2026-10-15 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12186)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
+| Covestro | IT&D Intern | Pittsburgh, PA | Not listed | not available | 2026-10-15 | **[Apply →](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pittsburgh-PA/IT-D-Intern_JR-2026-01869)**<br><sub>covestro.wd3.myworkdayjobs.com</sub> |
+| Dell Technologies | Product & Application Security Undergraduate Intern | Round Rock, TX, United States | Not listed | Dec 2027–May 2028<br><sub>stated</sub> | 2026-10-15 | **[Apply →](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299002)**<br><sub>iawmqy.fa.ocs.oraclecloud.com</sub> |
+| Deloitte | Audit & Assurance Intern - AI and Data Science | LA | Winter 2027 | not available | 2026-10-15 | **[Apply →](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857)**<br><sub>apply.deloitte.com</sub> |
+| Deloitte | Audit & Assurance Intern - Valuation & Analytics | Atlanta, GA | Winter 2027 | not available | 2026-10-15 | **[Apply →](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Valuation-Analytics-Winter-2027/361853)**<br><sub>apply.deloitte.com</sub> |
+| Fortive | Mechanical Engineering Intern | Irvine, CA, United States | Summer 2027 | Dec 2027 or later<br><sub>stated</sub> | 2026-10-15 | **[Apply →](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10826)**<br><sub>ejta.fa.us6.oraclecloud.com</sub> |
 | Generac | Mechanical Engineering Intern - Transfer Switch - Summer 2027 | Waukesha, WI - USA | Summer 2027 | not available | 2026-10-15 | **[Apply →](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Mechanical-Engineering-Intern---Transfer-Switch---Summer-2027_JR17048)**<br><sub>generac.wd5.myworkdayjobs.com</sub> |
-| Michael Baker International | IT Support Desk Intern | Moon Township, PA, United States | Not listed | Current student status<br><sub>required</sub> | 2026-10-15 | **[Apply →](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310031)**<br><sub>ebxs.fa.us2.oraclecloud.com</sub> |
-| Michelin | Summer 2027 Internship: Engineering and/or Sciences , IT/IS (Anderson, SC) | ANDERSON, SC | Summer 2027 | not available | 2026-10-15 | **[Apply →](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/ANDERSON-SC/Summer-2027-Internship--Engineering-and-or-Sciences---IT-IS--Anderson--SC-_R-2026030935)**<br><sub>michelinhr.wd3.myworkdayjobs.com</sub> |
-| Micron Technology | Intern - Mask Technology | Boise, ID - Main Site | Not listed | not available | 2026-10-15 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Mask-Technology_JR110035)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
-| Micron Technology | Intern - Process Development Engineer, 3D DRAM CMP | Boise, ID - Main Site | Not listed | not available | 2026-10-15 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-CMP_JR107848)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
-| Micron Technology | Intern - RDA/Metrology-Process Shift Engineer, TD | Boise, ID - Main Site | Not listed | not available | 2026-10-15 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---RDA-Metrology-Process-Shift-Engineer--TD_JR109078)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
-| Micron Technology | Intern Design Engineer - HIG HBM | Richardson, TX | Not listed | not available | 2026-10-15 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern-Design-Engineer---HIG-HBM_JR112516)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
-| Moog | Intern, Actuation Engineering | Torrance, CA | Not listed | not available | 2026-10-15 | **[Apply →](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Actuation-Engineering_R-26-19536)**<br><sub>moog.wd5.myworkdayjobs.com</sub> |
-| Philips | Co-op – Mechanical/Process Engineer – Reedsville, PA – 2027 | Reedsville, Pennsylvania, United States | Not listed | not available | 2026-10-15 | **[Apply →](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Reedsville-Pennsylvania-United-States/Intern---Mechanical-Process-Engineer---Reedsville--PA---2026_592205)**<br><sub>philips.wd3.myworkdayjobs.com</sub> |
-| Tessera Labs | Full Stack Software Engineer Intern - Full Stack | San Jose, CA, Remote in USA, NYC | Fall 2026 | not available | 2026-10-15 | **[Apply →](https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Matic | Product Design Intern | Menlo Park, CA | Not listed | not stated | 2026-10-15 | **[Apply →](https://jobs.ashbyhq.com/MaticRobots/655f8bb2-26f0-4324-acd6-f9c0d0d24f6b)**<br><sub>jobs.ashbyhq.com</sub> |
+| Michael Baker International | IT Support Desk Intern | Moon Township, PA, United States | Not listed | Current student status<br><sub>required</sub> | 2026-10-15 | **[Apply →](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4004/job/310031)**<br><sub>ebxs.fa.us2.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Arcfield | Software Engineer 1 | Rome, NY | Not listed | not available | 2026-10-15 | **[Apply →](https://careers.arcfield.com/jobs/8780?icims=1)**<br><sub>careers.arcfield.com</sub> |
 | Emerson Electric | EMC Engineer | Austin, TX | Not listed | not available | 2026-10-15 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
+| Gas South | Marketing Analyst 1 | Gainesville, FL, Atlanta, GA | Not listed | not available | 2026-10-15 | **[Apply →](https://job-boards.greenhouse.io/gassouth/jobs/8139174)**<br><sub>job-boards.greenhouse.io</sub> |
 | Microsoft | Product Manager | Remote in USA | Not listed | not available | 2026-10-15 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393557027388)**<br><sub>apply.careers.microsoft.com</sub> |
 | Microsoft | Software Engineer | Redmond, WA | Not listed | not available | 2026-10-15 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393557026652)**<br><sub>apply.careers.microsoft.com</sub> |
 | PlusAI | Senior Machine Learning Engineer - Perception | Santa Clara, CA | Not listed | not available | 2026-10-15 | **[Apply →](https://jobs.lever.co/plus-2/49900d1b-1074-4372-82b0-a5f33c038a8c/apply)**<br><sub>jobs.lever.co</sub> |
+| SeatGeek | Software Engineer - New Grad | New York City, NY | 2027 | not available | 2026-10-15 | **[Apply →](https://seatgeek.com/jobs/8227548?gh_jid=8227548)**<br><sub>seatgeek.com</sub> |
 | TikTok | Backend Engineer Graduate - Social Foundation | San Jose, CA | Not listed | not available | 2026-10-15 | **[Apply →](https://lifeattiktok.com/search/7696782198126545157)**<br><sub>lifeattiktok.com</sub> |
+| Western Alliance | Engineer 1 | Dallas, TX, Phoenix, AZ | Not listed | not available | 2026-10-15 | **[Apply →](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Engineer-I_R14052)**<br><sub>wd5.myworkdaysite.com</sub> |
 | ZS | Decision Analytics Associate | Bethesda, MD | Not listed | not available | 2026-10-15 | **[Apply →](https://jobs.zs.com/jobs/63654?icims=1)**<br><sub>jobs.zs.com</sub> |
 | AeroVironment | Junior Software Engineer | Jessup, MD | Not listed | not available | 2026-10-14 | **[Apply →](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Jessup-MD/Jr-Software-Engineer_9123-1)**<br><sub>avav.wd1.myworkdayjobs.com</sub> |
 | Amazon | Post-Silicon Systems Validation Engineer 1 | Austin, TX | Not listed | not available | 2026-10-14 | **[Apply →](https://amazon.jobs/en/jobs/10475661/post-silicon-systems-validation-engineer-i-annapurna-labs)**<br><sub>amazon.jobs</sub> |
-| Amazon | Software Engineer I | San Francisco, CA | 2027 | not available | 2026-10-14 | **[Apply →](https://www.amazon.jobs/jobs/10573768/apply)**<br><sub>www.amazon.jobs</sub> |
-| Amentum | C/C++ Software Developer | Dahlgren, VA | 2027 | not available | 2026-10-14 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C-C---Software-Developer_R0171182)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
-| American Electric Power | TSOE Tools & Analytics Engineer | Corpus Christi, TX, New Albany, OH | Not listed | not available | 2026-10-14 | **[Apply →](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/TSOE-Tools---Analytics-Engineer_R19939)**<br><sub>aep.wd1.myworkdayjobs.com</sub> |
-| Amgen | Commercial Data and Analytics Data Scientist - Obesity | Thousand Oaks, CA | Not listed | not available | 2026-10-14 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Associate---Hybrid---Thousand-Oaks_R-258217)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
