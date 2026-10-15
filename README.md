@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,885 internships · 5,319 new-grad roles · 15,204 total openings**
+**9,853 internships · 5,305 new-grad roles · 15,158 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,643 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 403 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 653 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 212 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,974 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,655 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 401 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 652 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 208 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,937 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,195 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,447 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,677 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,197 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,407 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,701 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -58,6 +58,9 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Emerson Electric | EMC Engineer | Austin, TX | Not listed | not available | 2026-10-15 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
+| PlusAI | Senior Machine Learning Engineer - Perception | Santa Clara, CA | Not listed | not available | 2026-10-15 | **[Apply →](https://jobs.lever.co/plus-2/49900d1b-1074-4372-82b0-a5f33c038a8c/apply)**<br><sub>jobs.lever.co</sub> |
+| ZS | Decision Analytics Associate | Bethesda, MD | Not listed | not available | 2026-10-15 | **[Apply →](https://jobs.zs.com/jobs/63654?icims=1)**<br><sub>jobs.zs.com</sub> |
 | AeroVironment | Junior Software Engineer | Jessup, MD | Not listed | not available | 2026-10-14 | **[Apply →](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Jessup-MD/Jr-Software-Engineer_9123-1)**<br><sub>avav.wd1.myworkdayjobs.com</sub> |
 | Amazon | Post-Silicon Systems Validation Engineer 1 | Austin, TX | Not listed | not available | 2026-10-14 | **[Apply →](https://amazon.jobs/en/jobs/10475661/post-silicon-systems-validation-engineer-i-annapurna-labs)**<br><sub>amazon.jobs</sub> |
 | Amentum | C/C++ Software Developer | Dahlgren, VA | 2027 | not available | 2026-10-14 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C-C---Software-Developer_R0171182)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
@@ -67,9 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Anduril | 2027 Early Career Division Operations | Reston, Virginia, United States | 2027 | not stated | 2026-10-14 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5261363007?gh_jid=5261363007)**<br><sub>boards.greenhouse.io</sub> |
 | Anton Paar | Hardware Test Engineer | Boynton Beach, FL | Not listed | not available | 2026-10-14 | **[Apply →](https://jobs.smartrecruiters.com/AntonPaar1/744000155580449)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Applied Materials | Superconducting Circuit Quantum Engineer | Santa Clara, CA | Not listed | not available | 2026-10-14 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Superconducting-Circuit-Quantum-Engineer_R2630761-1)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
-| Astranis Space Technologies | Flight Software Associate - Winter 2027 | San Francisco, CA | 2027 | not available | 2026-10-14 | **[Apply →](https://job-boards.greenhouse.io/astranis/jobs/4704714006)**<br><sub>job-boards.greenhouse.io</sub> |
-| Avis Budget Group | Deployed Transformation Engineer New Grad | Parsippany-Troy Hills, NJ | Not listed | not available | 2026-10-14 | **[Apply →](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Deployed-Transformation-Engineer---Post-Grad-Opportunity_R0191172)**<br><sub>avisbudget.wd1.myworkdayjobs.com</sub> |
-| Avnet | Computer Technician 1 | Chandler, AZ | Not listed | not available | 2026-10-14 | **[Apply →](https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Chandler-Arizona-United-States-Of-America/Computer-Technician-I_JR-023701)**<br><sub>wd1.myworkdaysite.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
