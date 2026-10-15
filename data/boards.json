@@ -2068,7 +2068,7 @@
       "ats": "ashby",
       "company": "Superhuman",
       "key": "ashby:superhuman%20platform%20inc",
-      "slug": "Superhuman%20Platform%20Inc"
+      "slug": "superhuman%20platform%20inc"
     },
     {
       "ats": "ashby",
@@ -6344,6 +6344,12 @@
     },
     {
       "ats": "lever",
+      "company": "Commonwealth Fusion Systems",
+      "key": "lever:cfsenergy",
+      "slug": "cfsenergy"
+    },
+    {
+      "ats": "lever",
       "company": "CIM Group",
       "key": "lever:cimgroup",
       "slug": "cimgroup"
@@ -6719,6 +6725,12 @@
       "company": "Mendix",
       "key": "lever:mendix",
       "slug": "mendix"
+    },
+    {
+      "ats": "lever",
+      "company": "Metergy Solutions",
+      "key": "lever:metergysolutions",
+      "slug": "metergysolutions"
     },
     {
       "ats": "lever",
@@ -11483,6 +11495,15 @@
     },
     {
       "ats": "workday",
+      "company": "Ardian",
+      "host": "ardian.wd103.myworkdayjobs.com",
+      "key": "workday:ardian.wd103.myworkdayjobs.com:ardian:ardiancareers",
+      "site": "ArdianCareers",
+      "slug": "ardian",
+      "wd": "wd103"
+    },
+    {
+      "ats": "workday",
       "company": "Ares Management",
       "host": "aresmgmt.wd1.myworkdayjobs.com",
       "key": "workday:aresmgmt.wd1.myworkdayjobs.com:aresmgmt:external",
@@ -11744,7 +11765,7 @@
     },
     {
       "ats": "workday",
-      "company": "AutoStore",
+      "company": "Autostore",
       "host": "autostore.wd3.myworkdayjobs.com",
       "key": "workday:autostore.wd3.myworkdayjobs.com:autostore:autostore",
       "site": "autostore",
@@ -13139,7 +13160,7 @@
     },
     {
       "ats": "workday",
-      "company": "CWAN",
+      "company": "Clearwater Analytics",
       "host": "clearwateranalytics.wd1.myworkdayjobs.com",
       "key": "workday:clearwateranalytics.wd1.myworkdayjobs.com:clearwateranalytics:clearwater_analytics_careers",
       "site": "Clearwater_Analytics_Careers",
@@ -14225,6 +14246,15 @@
       "site": "externalnew",
       "slug": "encore",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Sompo",
+      "host": "endurance.wd103.myworkdayjobs.com",
+      "key": "workday:endurance.wd103.myworkdayjobs.com:endurance:sompointernational",
+      "site": "SompoInternational",
+      "slug": "endurance",
+      "wd": "wd103"
     },
     {
       "ats": "workday",
@@ -16589,7 +16619,7 @@
       "company": "Litera",
       "host": "litera.wd12.myworkdayjobs.com",
       "key": "workday:litera.wd12.myworkdayjobs.com:litera:litera_careers",
-      "site": "litera_careers",
+      "site": "Litera_Careers",
       "slug": "litera",
       "wd": "wd12"
     },
@@ -17006,6 +17036,15 @@
       "site": "Vantor",
       "slug": "maxar",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "CoverMyMeds",
+      "host": "mckesson.wd3.myworkdayjobs.com",
+      "key": "workday:mckesson.wd3.myworkdayjobs.com:mckesson:covermymeds_external_careers",
+      "site": "CoverMyMeds_External_Careers",
+      "slug": "mckesson",
+      "wd": "wd3"
     },
     {
       "ats": "workday",
@@ -19226,7 +19265,7 @@
       "company": "Salesforce",
       "host": "salesforce.wd12.myworkdayjobs.com",
       "key": "workday:salesforce.wd12.myworkdayjobs.com:salesforce:futureforce_newgradroles",
-      "site": "Futureforce_NewGradRoles",
+      "site": "futureforce_newgradroles",
       "slug": "salesforce",
       "wd": "wd12"
     },

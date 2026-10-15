@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,865 internships · 5,175 new-grad roles · 15,040 total openings**
+**9,894 internships · 5,186 new-grad roles · 15,080 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,562 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 398 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 656 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 205 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,044 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,605 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 399 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 659 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 211 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 4,020 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,196 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,397 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,582 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,188 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,384 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,614 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,17 +38,17 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Bee Sweet Citrus, Inc. | Data Processing Intern | Fowler, California, United States | Not listed | not available | 2026-10-15 | **[Apply →](https://beesweetcitrus.applytojob.com/apply/MMbyNj6r3a/Data-Processing-Intern)**<br><sub>beesweetcitrus.applytojob.com</sub> |
+| Blue Origin | Terawave Product Management Intern - MBA | Kent, WA | Summer 2027 | not available | 2026-10-15 | **[Apply →](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200)**<br><sub>blueorigin.wd5.myworkdayjobs.com</sub> |
 | Braun Intertec Corporation | 2027 Civil Engineering & Construction Materials Testing 6-month Co-op (Hibbing) | Hibbing, MN | Not listed | not available | 2026-10-15 | **[Apply →](https://braunintertec.wd5.myworkdayjobs.com/BraunIntertecCareers/job/Hibbing-MN/XMLNAME-2027-Civil-Engineering---Construction-Materials-Testing-6-month-Co-op--Hibbing-_R4915)**<br><sub>braunintertec.wd5.myworkdayjobs.com</sub> |
+| Centene | AI Software Developer Intern | Missouri | Summer 2027 | not available | 2026-10-15 | **[Apply →](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710)**<br><sub>centene.wd5.myworkdayjobs.com</sub> |
+| Clean Harbors | Mechanical Engineering Project Management Intern - Summer 2027 | Norwell, MA, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-10-15 | **[Apply →](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CLH-US/job/167238)**<br><sub>epyc.fa.us2.oraclecloud.com</sub> |
+| Clearwater Analytics | Data Management & Reporting Intern | Office - New York | Not listed | not available | 2026-10-15 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Data-Management---Reporting-Intern_R12095)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
 | Clearwater Analytics | Software Development Intern | Boise, ID | Not listed | not available | 2026-10-15 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Boise/Software-Development-Intern_R12098)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
-| Clearwater Analytics | Software Development Intern | Chicago, IL | Not listed | not available | 2026-10-15 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12188)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
-| Covestro | IT&D Intern | Pittsburgh, PA | Not listed | not available | 2026-10-15 | **[Apply →](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pittsburgh-PA/IT-D-Intern_JR-2026-01869)**<br><sub>covestro.wd3.myworkdayjobs.com</sub> |
-| Dell Technologies | Product & Application Security Undergraduate Intern | Round Rock, TX, United States | Not listed | Dec 2027–May 2028<br><sub>stated</sub> | 2026-10-15 | **[Apply →](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299002)**<br><sub>iawmqy.fa.ocs.oraclecloud.com</sub> |
-| Deloitte | Audit & Assurance Intern - AI and Data Science | LA | Winter 2027 | not available | 2026-10-15 | **[Apply →](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-AI-and-Data-Science-Winter-2027/361857)**<br><sub>apply.deloitte.com</sub> |
-| Deloitte | Audit & Assurance Intern - Valuation & Analytics | Atlanta, GA | Winter 2027 | not available | 2026-10-15 | **[Apply →](https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Valuation-Analytics-Winter-2027/361853)**<br><sub>apply.deloitte.com</sub> |
-| Fortive | Mechanical Engineering Intern | Irvine, CA, United States | Summer 2027 | Dec 2027 or later<br><sub>stated</sub> | 2026-10-15 | **[Apply →](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10826)**<br><sub>ejta.fa.us6.oraclecloud.com</sub> |
-| Greif | 2027 Engineering Co-Op | Baltimore-OH | Not listed | not available | 2026-10-15 | **[Apply →](https://greif.wd5.myworkdayjobs.com/Greif/job/Baltimore-OH/XMLNAME-2027-Engineering-Co-Op_035404)**<br><sub>greif.wd5.myworkdayjobs.com</sub> |
-| KnowBe4 | Multimedia Designer Intern | Clearwater, Florida | Not listed | Current student status<br><sub>required</sub> | 2026-10-15 | **[Apply →](https://job-boards.greenhouse.io/knowbe4/jobs/8889268002)**<br><sub>job-boards.greenhouse.io</sub> |
-| Matic | Product Design Intern | Menlo Park, CA | Not listed | not stated | 2026-10-15 | **[Apply →](https://jobs.ashbyhq.com/MaticRobots/655f8bb2-26f0-4324-acd6-f9c0d0d24f6b)**<br><sub>jobs.ashbyhq.com</sub> |
+| Commonwealth Fusion Systems | Intern - AI & Infrastructure Engineer - Spring 2027 | Devens, MA | Spring 2027 | Current student status<br><sub>stated</sub> | 2026-10-15 | **[Apply →](https://jobs.lever.co/cfsenergy/fa87d365-ac8a-44c3-8fda-c9dec3ea8878)**<br><sub>jobs.lever.co</sub> |
+| Commonwealth Fusion Systems | Intern - Assembly Technical Project Manager - Spring 2027 | Devens, MA | Spring 2027 | Current student status<br><sub>stated</sub> | 2026-10-15 | **[Apply →](https://jobs.lever.co/cfsenergy/43b60f04-f044-47dd-9291-f40b38ffaab3)**<br><sub>jobs.lever.co</sub> |
+| Commonwealth Fusion Systems | Intern - Controls Engineer - Summer 2027 | Milpitas, CA | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-10-15 | **[Apply →](https://jobs.lever.co/cfsenergy/e3408817-347e-45bc-8627-305b75b6b978)**<br><sub>jobs.lever.co</sub> |
+| Commonwealth Fusion Systems | Intern - Health Physics - Spring or Summer 2027 | Devens, MA | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-10-15 | **[Apply →](https://jobs.lever.co/cfsenergy/777157b6-9969-438e-ba04-8ca0069f1e0b)**<br><sub>jobs.lever.co</sub> |
+| Commonwealth Fusion Systems | Intern - Mechanical Engineer - Summer 2027 | Milpitas, CA | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-10-15 | **[Apply →](https://jobs.lever.co/cfsenergy/9690a768-362f-4df8-86a1-554b896cbc76)**<br><sub>jobs.lever.co</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| 1Password | Junior Developer | Remote in USA, Remote in Canada | Not listed | not available | 2026-10-15 | **[Apply →](https://jobs.ashbyhq.com/1password/a492badd-a02f-4360-aa15-7ea8c6e2c85e/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| Affirm | Software Engineer 1 - Fullstack - Search | Remote in USA | Not listed | not available | 2026-10-15 | **[Apply →](https://job-boards.greenhouse.io/affirm/jobs/8017340003)**<br><sub>job-boards.greenhouse.io</sub> |
+| Amazon | Software Development Engineer - Early Career | Cambridge, MA | 2027 | not available | 2026-10-15 | **[Apply →](https://www.amazon.jobs/jobs/10530257/apply)**<br><sub>www.amazon.jobs</sub> |
+| Amentum | Simulink Software Developer | Dahlgren, VA | 2027 | not available | 2026-10-15 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Simulink-Software-Developer_R0168128-1)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
+| Analog Devices | Design Evaluation Engineer | Wilmington, MA | Not listed | not available | 2026-10-15 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Design-Evaluation-Engineer_R265970)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
+| Applied Materials | Software Engineer 3 | Santa Clara, CA | Not listed | not available | 2026-10-15 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-III_R2631234)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
 | Arcfield | Software Engineer 1 | Rome, NY | Not listed | not available | 2026-10-15 | **[Apply →](https://careers.arcfield.com/jobs/8780?icims=1)**<br><sub>careers.arcfield.com</sub> |
+| Booz Allen | Software Engineer - Mid | Wharton, NJ | Not listed | not available | 2026-10-15 | **[Apply →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Wharton-NJ/Software-Engineer--Mid_R0251705)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
+| CVS Health | Analyst – Software Development Engineer - Conversion | New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho | Not listed | not available | 2026-10-15 | **[Apply →](https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Work-from-home/Analyst--Software-Development-Engineer--Conversion-_R1059972)**<br><sub>cvshealth.wd1.myworkdayjobs.com</sub> |
 | Emerson Electric | EMC Engineer | Austin, TX | Not listed | not available | 2026-10-15 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
+| Farmers Insurance | Associate Data Scientist | United States | Not listed | not available | 2026-10-15 | **[Apply →](https://jobs.farmersinsurance.com/job/Associate-Data-Scientist/1375029557/?ats=successfactors)**<br><sub>jobs.farmersinsurance.com</sub> |
 | Gas South | Marketing Analyst 1 | Gainesville, FL, Atlanta, GA | Not listed | not available | 2026-10-15 | **[Apply →](https://job-boards.greenhouse.io/gassouth/jobs/8139174)**<br><sub>job-boards.greenhouse.io</sub> |
-| Microsoft | Product Manager | Remote in USA | Not listed | not available | 2026-10-15 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393557027388)**<br><sub>apply.careers.microsoft.com</sub> |
-| Microsoft | Software Engineer | Redmond, WA | Not listed | not available | 2026-10-15 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393557026652)**<br><sub>apply.careers.microsoft.com</sub> |
-| PlusAI | Senior Machine Learning Engineer - Perception | Santa Clara, CA | Not listed | not available | 2026-10-15 | **[Apply →](https://jobs.lever.co/plus-2/49900d1b-1074-4372-82b0-a5f33c038a8c/apply)**<br><sub>jobs.lever.co</sub> |
-| SeatGeek | Software Engineer - New Grad | New York City, NY | 2027 | not available | 2026-10-15 | **[Apply →](https://seatgeek.com/jobs/8227548?gh_jid=8227548)**<br><sub>seatgeek.com</sub> |
-| TikTok | Backend Engineer Graduate - Social Foundation | San Jose, CA | Not listed | not available | 2026-10-15 | **[Apply →](https://lifeattiktok.com/search/7696782198126545157)**<br><sub>lifeattiktok.com</sub> |
-| Western Alliance | Engineer 1 | Dallas, TX, Phoenix, AZ | Not listed | not available | 2026-10-15 | **[Apply →](https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Engineer-I_R14052)**<br><sub>wd5.myworkdaysite.com</sub> |
-| ZS | Decision Analytics Associate | Bethesda, MD | Not listed | not available | 2026-10-15 | **[Apply →](https://jobs.zs.com/jobs/63654?icims=1)**<br><sub>jobs.zs.com</sub> |
-| AeroVironment | Junior Software Engineer | Jessup, MD | Not listed | not available | 2026-10-14 | **[Apply →](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Jessup-MD/Jr-Software-Engineer_9123-1)**<br><sub>avav.wd1.myworkdayjobs.com</sub> |
-| Amazon | Post-Silicon Systems Validation Engineer 1 | Austin, TX | Not listed | not available | 2026-10-14 | **[Apply →](https://amazon.jobs/en/jobs/10475661/post-silicon-systems-validation-engineer-i-annapurna-labs)**<br><sub>amazon.jobs</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
