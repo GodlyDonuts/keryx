@@ -1910,6 +1910,12 @@
     },
     {
       "ats": "ashby",
+      "company": "ScorePlay",
+      "key": "ashby:scoreplay",
+      "slug": "scoreplay"
+    },
+    {
+      "ats": "ashby",
       "company": "Sela",
       "key": "ashby:sela%20ai",
       "slug": "Sela%20AI"
@@ -19418,6 +19424,15 @@
       "site": "SentryCareers",
       "slug": "sentryinsurance",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Servco Pacific Inc.",
+      "host": "servco.wd5.myworkdayjobs.com",
+      "key": "workday:servco.wd5.myworkdayjobs.com:servco:servco_careers",
+      "site": "Servco_Careers",
+      "slug": "servco",
+      "wd": "wd5"
     },
     {
       "ats": "workday",

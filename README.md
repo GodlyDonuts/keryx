@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,922 internships · 5,337 new-grad roles · 15,259 total openings**
+**9,885 internships · 5,319 new-grad roles · 15,204 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,650 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 400 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 657 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 207 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,008 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,643 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 403 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 653 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 212 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,974 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,198 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,450 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,689 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,195 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,447 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,677 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -47,8 +47,8 @@ Recent internship and co-op listings that open the employer's application page d
 | AGCO | Agricultural Business Analytics Intern | Champaign, IL | Spring 2027 | not available | 2026-10-14 | **[Apply →](https://careers.agcocorp.com/job/Champaign-Agricultural-Business-Analytics-Intern-Summer-2027-IL/1440135500/?ats=successfactors)**<br><sub>careers.agcocorp.com</sub> |
 | AGCO | AI & Data Science Intern | Champaign, IL | Spring 2027 | not available | 2026-10-14 | **[Apply →](https://careers.agcocorp.com/job/Champaign-AI-&-Data-Science-Intern-Spring-2027-IL/1440146300/?ats=successfactors)**<br><sub>careers.agcocorp.com</sub> |
 | Amazon | Hardware Development Engineer Intern | North Reading, MA, Hawthorne, CA, Sunnyvale, CA | Summer 2027 | not available | 2026-10-14 | **[Apply →](https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027)**<br><sub>amazon.jobs</sub> |
+| American Bankers Association | Intern, Salesforce Business Analyst | US DC Main Office | Not listed | not available | 2026-10-14 | **[Apply →](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Salesforce-Business-Analyst_R620)**<br><sub>aba.wd1.myworkdayjobs.com</sub> |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Strategy & Analytics, Credit & Fraud Risk - New York, NY | New York, NY, United States | Summer 2027 | Dec 2027–Jun 2028<br><sub>required</sub> | 2026-10-14 | **[Apply →](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011984)**<br><sub>egug.fa.us2.oraclecloud.com</sub> |
-| Anduril | 2027 Flight Test Engineer Intern | Costa Mesa, California, United States | Summer 2027 | Student status conditions<br><sub>required</sub> | 2026-10-14 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007)**<br><sub>boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
