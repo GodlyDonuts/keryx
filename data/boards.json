@@ -56,6 +56,12 @@
     },
     {
       "ats": "ashby",
+      "company": "AgZen",
+      "key": "ashby:agzen",
+      "slug": "agzen"
+    },
+    {
+      "ats": "ashby",
       "company": "AiPrise",
       "key": "ashby:aiprise",
       "slug": "aiprise"
@@ -8525,6 +8531,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Citco",
+      "host": "fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "fa-euxc-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
       "company": "Zachry Group",
       "host": "fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com",
       "key": "oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com:cx_1029",
@@ -12120,10 +12134,10 @@
     },
     {
       "ats": "workday",
-      "company": "Brown & Brown",
+      "company": "Brown & Brown Insurance",
       "host": "bbinsurance.wd1.myworkdayjobs.com",
       "key": "workday:bbinsurance.wd1.myworkdayjobs.com:bbinsurance:careers",
-      "site": "Careers",
+      "site": "careers",
       "slug": "bbinsurance",
       "wd": "wd1"
     },
@@ -13086,7 +13100,7 @@
       "company": "Choice Hotels",
       "host": "choicehotels.wd5.myworkdayjobs.com",
       "key": "workday:choicehotels.wd5.myworkdayjobs.com:choicehotels:external",
-      "site": "external",
+      "site": "External",
       "slug": "choicehotels",
       "wd": "wd5"
     },
@@ -19347,6 +19361,24 @@
     },
     {
       "ats": "workday",
+      "company": "Ryan",
+      "host": "ryan.wd1.myworkdayjobs.com",
+      "key": "workday:ryan.wd1.myworkdayjobs.com:ryan:ryancareers",
+      "site": "RyanCareers",
+      "slug": "ryan",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Ryan",
+      "host": "ryan.wd1.myworkdayjobs.com",
+      "key": "workday:ryan.wd1.myworkdayjobs.com:ryan:students-graduates",
+      "site": "Students-Graduates",
+      "slug": "ryan",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Ryan Companies US, Inc.",
       "host": "ryancompanies.wd5.myworkdayjobs.com",
       "key": "workday:ryancompanies.wd5.myworkdayjobs.com:ryancompanies:ryancompanies",
@@ -19413,7 +19445,7 @@
       "company": "Salesforce",
       "host": "salesforce.wd12.myworkdayjobs.com",
       "key": "workday:salesforce.wd12.myworkdayjobs.com:salesforce:futureforce_newgradroles",
-      "site": "futureforce_newgradroles",
+      "site": "Futureforce_NewGradRoles",
       "slug": "salesforce",
       "wd": "wd12"
     },
