@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,890 internships · 5,196 new-grad roles · 15,086 total openings**
+**9,868 internships · 5,186 new-grad roles · 15,054 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,629 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 399 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 659 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 207 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,996 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,621 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 401 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 649 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 208 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,989 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
 | 2027 | 1,196 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,428 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,572 | **[View openings →](new-grad/unscheduled.md)** |
+| 2026 | 1,423 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,567 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -43,12 +43,12 @@ Recent internship and co-op listings that open the employer's application page d
 | AECOM | Civil/Highway Engineer Intern | Newark, DE, us | Not listed | not available | 2026-10-15 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155789746)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AECOM | Engineering Intern | Arlington, VA, us | Not listed | not available | 2026-10-15 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155792709)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AECOM | Highway Engineering Intern - Hiring Event with AECOM - Arlington, VA | Roanoke, VA, us | Not listed | not available | 2026-10-15 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155897740)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Airbus | Long-term Internship - Engineering | Wichita, KS | Not listed | not available | 2026-10-15 | **[Apply →](https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Long-Term---Engineering_JR10411965)**<br><sub>ag.wd3.myworkdayjobs.com</sub> |
 | American Family Insurance Group | Enterprise Data Intern - Enablement, Service & Support | Madison, WI | Summer 2027 | not available | 2026-10-15 | **[Apply →](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Enterprise-Data-Intern_R39510)**<br><sub>amfam.wd1.myworkdayjobs.com</sub> |
 | American Family Insurance Group | Enterprise Data Intern - Enablement, Service & Support | Madison, WI | Summer 2027 | not available | 2026-10-15 | **[Apply →](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Enterprise-Data-Intern_R39527)**<br><sub>amfam.wd1.myworkdayjobs.com</sub> |
 | Angel City | Data Analytics Intern | Santa Monica, CA | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-10-15 | **[Apply →](https://job-boards.greenhouse.io/wfclainc/jobs/6226220004)**<br><sub>job-boards.greenhouse.io</sub> |
+| Assurant | Summer 2027 Intern: Software Engineering Intern | Atlanta, GA +2 | Summer 2027 | not available | 2026-10-15 | **[Apply →](https://assurant.wd1.myworkdayjobs.com/en-US/external_limited_posting/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727)**<br><sub>assurant.wd1.myworkdayjobs.com</sub> |
 | Atmus Filtration Technologies | Customer Engineering Co-op - Spring 2027 | Cookeville, TN, United States | Spring 2027 | Current student status<br><sub>required</sub> | 2026-10-15 | **[Apply →](https://fa-ewfi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1931)**<br><sub>fa-ewfi-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
-| Atmus Filtration Technologies | Customer Engineering Co-op Summer/Fall 2027 | Stoughton, WI, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-10-15 | **[Apply →](https://fa-ewfi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1914)**<br><sub>fa-ewfi-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
-| Atmus Filtration Technologies | Product Engineering Co-op- Spring 2027 | Cookeville, TN, United States | Spring 2027 | Current student status<br><sub>required</sub> | 2026-10-15 | **[Apply →](https://fa-ewfi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1932)**<br><sub>fa-ewfi-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
