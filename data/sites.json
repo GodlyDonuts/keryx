@@ -240,7 +240,7 @@
       "boards": [],
       "company": "Weatherford",
       "key": "0173c400333dd82bd88d29a1",
-      "last_scanned": "2026-09-24",
+      "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://www.weatherford.com/"
     },
@@ -299,6 +299,14 @@
       "last_scanned": "2026-09-15",
       "resolved_roles": 0,
       "url": "https://www.gfifoods.com/"
+    },
+    {
+      "boards": [],
+      "company": "Mativ",
+      "key": "023f212c003c5309d4169a28",
+      "last_scanned": "2026-10-16",
+      "resolved_roles": 0,
+      "url": "https://mativ.com/"
     },
     {
       "boards": [],
@@ -1560,6 +1568,13 @@
       "url": "https://www.upperdeck.com/"
     },
     {
+      "company": "U.S. Tsubaki Power Transmission, LLC",
+      "error": "public requests require HTTPS and a hostname",
+      "key": "096fe708b631a91fabeeb1ec",
+      "last_scanned": "2026-10-16",
+      "url": "https://ustsubaki.com/"
+    },
+    {
       "company": "J. Fletcher Creamer & Son, Inc.",
       "error": "public request failed for https://jfcson.com/: HTTP Error 403: Forbidden",
       "key": "09929a35ef39d61c9d2256a6",
@@ -1637,7 +1652,7 @@
       "boards": [],
       "company": "Westwood Professional Services",
       "key": "0a17db525b13de45806369fd",
-      "last_scanned": "2026-09-24",
+      "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://www.westwoodps.com/"
     },
@@ -4355,7 +4370,7 @@
       "boards": [],
       "company": "Tampa Electric",
       "key": "19cc1c5a8d6d72726588e443",
-      "last_scanned": "2026-10-07",
+      "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://www.tampaelectric.com/"
     },
@@ -5681,6 +5696,14 @@
       "last_scanned": "2026-09-15",
       "resolved_roles": 0,
       "url": "https://www.plastipak.com/"
+    },
+    {
+      "boards": [],
+      "company": "Park My Ride, LLC",
+      "key": "209c7a4e2d30835047e9b843",
+      "last_scanned": "2026-10-16",
+      "resolved_roles": 0,
+      "url": "https://parkmyride.io/"
     },
     {
       "boards": [
@@ -7286,7 +7309,7 @@
       ],
       "company": "K2 Space Corporation",
       "key": "2aab4df86bfdc47690fb5028",
-      "last_scanned": "2026-10-07",
+      "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://www.k2space.com/"
     },
@@ -9443,7 +9466,7 @@
       "boards": [],
       "company": "Wallace Design Collective",
       "key": "3511954b707560afa588684d",
-      "last_scanned": "2026-09-12",
+      "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://wallace.design/"
     },
@@ -13597,8 +13620,8 @@
       "boards": [],
       "company": "PPL Corporation",
       "key": "4bfa170da1cab48bfa46e738",
-      "last_scanned": "2026-10-01",
-      "resolved_roles": 1,
+      "last_scanned": "2026-10-16",
+      "resolved_roles": 0,
       "url": "https://www.pplweb.com/"
     },
     {
@@ -13815,7 +13838,7 @@
       ],
       "company": "Alkami Technology",
       "key": "4d26995d74a0ad752eb68007",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://www.alkami.com/"
     },
@@ -13986,7 +14009,7 @@
       "boards": [],
       "company": "Ardurra",
       "key": "4e1d1551b598c04cc868d5e9",
-      "last_scanned": "2026-09-24",
+      "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://ardurra.com/"
     },
@@ -14036,7 +14059,7 @@
       "company": "Spectrum",
       "error": "public request failed for https://www.spectrum.com/: The read operation timed out",
       "key": "4e396251d8bf7c4d45293805",
-      "last_scanned": "2026-10-15",
+      "last_scanned": "2026-10-16",
       "url": "https://www.spectrum.com/"
     },
     {
@@ -15890,7 +15913,7 @@
       "boards": [],
       "company": "Jane Street",
       "key": "57ff228225f21956fee745ec",
-      "last_scanned": "2026-08-25",
+      "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://www.janestreet.com/"
     },
@@ -16956,9 +16979,9 @@
     },
     {
       "boards": [],
-      "company": "Goldbelt, Incorporated",
+      "company": "Goldbelt Apex LLC",
       "key": "5d8b520128187e8e841ccc31",
-      "last_scanned": "2026-10-08",
+      "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://goldbelt.com/"
     },
@@ -19289,7 +19312,7 @@
       "boards": [],
       "company": "Amrize",
       "key": "6a95c58233559d4677a0351d",
-      "last_scanned": "2026-10-07",
+      "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://www.amrize.com/"
     },
@@ -22887,9 +22910,8 @@
     {
       "boards": [],
       "company": "Daikin Comfort",
-      "error": "public request failed for https://daikincomfort.com:443/: The read operation timed out",
       "key": "7e90ca0e382bb6b1c0f0808c",
-      "last_scanned": "2026-10-15",
+      "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://www.daikincomfort.com/"
     },
@@ -23561,7 +23583,7 @@
       "boards": [],
       "company": "UST HealthProof",
       "key": "8203da9967ebd30e01a8ce6a",
-      "last_scanned": "2026-09-30",
+      "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://usthealthproof.com/"
     },
@@ -23608,7 +23630,7 @@
       "boards": [],
       "company": "CA Department of Corrections & Rehabilitation",
       "key": "825446b92ed2f90439b986f6",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://www.cdcr.ca.gov/Facilities_Locator/SQ.html"
     },
@@ -24427,7 +24449,7 @@
       "boards": [],
       "company": "SPX Technologies",
       "key": "87293238f5e7c38f3b042627",
-      "last_scanned": "2026-10-01",
+      "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://www.spx.com/"
     },
@@ -26321,7 +26343,7 @@
       "boards": [],
       "company": "BMW Group",
       "key": "90b5056f80a50ca234d1a108",
-      "last_scanned": "2026-09-23",
+      "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://www.bmwgroup.com/"
     },
@@ -27691,7 +27713,7 @@
       "boards": [],
       "company": "DRiV",
       "key": "99077c256da0930c5cf74b68",
-      "last_scanned": "2026-09-24",
+      "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://www.driv.com/"
     },
@@ -28222,7 +28244,7 @@
       "boards": [],
       "company": "Garver",
       "key": "9c3b964d670bab2d2a7764f6",
-      "last_scanned": "2026-10-07",
+      "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://garverusa.com/"
     },
@@ -30554,7 +30576,7 @@
       "company": "T-Mobile",
       "error": "Invalid IPv6 URL",
       "key": "a8106192bed87328c0610b3f",
-      "last_scanned": "2026-09-09",
+      "last_scanned": "2026-10-16",
       "url": "https://www.t-mobile.com/"
     },
     {
@@ -31052,7 +31074,7 @@
       "company": "84.51\u02da",
       "error": "public request failed for https://8451.com/: HTTP Error 403: Forbidden",
       "key": "aaafdcde0e530c471430c698",
-      "last_scanned": "2026-10-15",
+      "last_scanned": "2026-10-16",
       "url": "https://8451.com/"
     },
     {
@@ -33844,7 +33866,7 @@
       "boards": [],
       "company": "Apogee Research, LLC",
       "key": "bae50173fa46057c34795ef1",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://www.apogee-research.com/"
     },
@@ -39330,7 +39352,7 @@
       "company": "ABB",
       "error": "public request failed for https://www.abb.com/global/en: The read operation timed out",
       "key": "d6f42a2109607bc74736215f",
-      "last_scanned": "2026-10-15",
+      "last_scanned": "2026-10-16",
       "url": "https://global.abb/group/en"
     },
     {
@@ -43201,6 +43223,14 @@
     },
     {
       "boards": [],
+      "company": "Hollow Star Solutions",
+      "key": "ec77292a37f14167d317fb76",
+      "last_scanned": "2026-10-16",
+      "resolved_roles": 0,
+      "url": "https://www.linkedin.com/company/98856018"
+    },
+    {
+      "boards": [],
       "company": "Hardin Design and Development",
       "key": "ec79c55127e052f0304ec4b9",
       "last_scanned": "2026-09-16",
@@ -43459,7 +43489,7 @@
       "boards": [],
       "company": "Wurl",
       "key": "eda49ef2e228aecb65b3ddf0",
-      "last_scanned": "2026-09-24",
+      "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://www.wurl.com/"
     },
@@ -45508,7 +45538,7 @@
       "boards": [],
       "company": "TCOM, L.P.",
       "key": "f8a3f44b84ae4b1b3824b062",
-      "last_scanned": "2026-09-29",
+      "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://tcomlp.com/"
     },
@@ -46746,7 +46776,7 @@
       "boards": [],
       "company": "Hidden Level",
       "key": "ffa1a22a64e18dee1a51866d",
-      "last_scanned": "2026-10-02",
+      "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://www.hiddenlevel.com/"
     },

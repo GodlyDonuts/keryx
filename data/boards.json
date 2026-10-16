@@ -15479,6 +15479,15 @@
     },
     {
       "ats": "workday",
+      "company": "Hilb Group",
+      "host": "hilbgroup.wd5.myworkdayjobs.com",
+      "key": "workday:hilbgroup.wd5.myworkdayjobs.com:hilbgroup:hg-careers",
+      "site": "HG-Careers",
+      "slug": "hilbgroup",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Hitachi Energy",
       "host": "hitachi.wd1.myworkdayjobs.com",
       "key": "workday:hitachi.wd1.myworkdayjobs.com:hitachi:hitachi",
@@ -17126,7 +17135,7 @@
     },
     {
       "ats": "workday",
-      "company": "Mdtkangaroo",
+      "company": "MiniMed",
       "host": "mdtkangaroo.wd108.myworkdayjobs.com",
       "key": "workday:mdtkangaroo.wd108.myworkdayjobs.com:mdtkangaroo:minimedcareers",
       "site": "minimedcareers",
@@ -17156,7 +17165,7 @@
       "company": "Medtronic",
       "host": "medtronic.wd1.myworkdayjobs.com",
       "key": "workday:medtronic.wd1.myworkdayjobs.com:medtronic:medtroniccareers",
-      "site": "medtroniccareers",
+      "site": "MedtronicCareers",
       "slug": "medtronic",
       "wd": "wd1"
     },
