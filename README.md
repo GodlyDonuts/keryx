@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,818 internships · 4,998 new-grad roles · 14,816 total openings**
+**9,743 internships · 4,998 new-grad roles · 14,741 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,617 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 392 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 660 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 211 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,938 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,586 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 393 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 661 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 206 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,897 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,241 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,202 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,555 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,244 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,207 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,547 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -47,7 +47,7 @@ Recent internship and co-op listings that open the employer's application page d
 | Simon Property Group | Intern - Data Engineering (Data Analytics, Information Sciences, Computer Science Majors) | Indianapolis, IN | Not listed | not available | 2026-10-17 | **[Apply →](https://simon.wd1.myworkdayjobs.com/simon/job/Indianapolis-IN/Intern---Data-Engineering--Data-Analytics--Information-Sciences--Computer-Science-Majors-_R13976)**<br><sub>simon.wd1.myworkdayjobs.com</sub> |
 | Simon Property Group | Intern - Front End Developer - Computer Science - Web Development - or Information Sciences Majors | Indianapolis, IN | Not listed | not available | 2026-10-17 | **[Apply →](https://simon.wd1.myworkdayjobs.com/en-US/simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975)**<br><sub>simon.wd1.myworkdayjobs.com</sub> |
 | Simon Property Group | Intern - Project Delivery (Information Services / Computer Science Majors) | Indianapolis, IN | Not listed | not available | 2026-10-17 | **[Apply →](https://simon.wd1.myworkdayjobs.com/simon/job/Indianapolis-IN/Intern---Project-Delivery--Information-Services---Computer-Science-Majors-_R13947)**<br><sub>simon.wd1.myworkdayjobs.com</sub> |
-| Tencent | Cloud Media Services Intern | US-California-Palo Alto | Not listed | not available | 2026-10-17 | **[Apply →](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186)**<br><sub>tencent.wd1.myworkdayjobs.com</sub> |
+| Tencent | Cloud Media Services Intern | Palo Alto, CA | Not listed | not available | 2026-10-17 | **[Apply →](https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186)**<br><sub>tencent.wd1.myworkdayjobs.com</sub> |
 | TikTok | Software Development Engineer Intern - Global E-Commerce-Quality Platform & AI Test Automation - 2027 Summer | Seattle, WA | Summer 2027 | not available | 2026-10-17 | **[Apply →](https://lifeattiktok.com/search/7668837276597127477)**<br><sub>lifeattiktok.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
@@ -62,6 +62,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Amazon | Software Development Engineer - Consumer Domains | Newark, NJ | 2027 | not available | 2026-10-17 | **[Apply →](https://www.amazon.jobs/jobs/10560727/apply)**<br><sub>www.amazon.jobs</sub> |
 | Amazon | Systems Development Engineer – Early Career | Seattle, WA | Not listed | not available | 2026-10-17 | **[Apply →](https://amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us)**<br><sub>amazon.jobs</sub> |
 | Verkada | Embedded Software Engineer - Access Control | San Mateo, CA | 2027 | not available | 2026-10-17 | **[Apply →](https://job-boards.greenhouse.io/verkada/jobs/5194716007)**<br><sub>job-boards.greenhouse.io</sub> |
+| Wolverine Trading | Entry Level C++ Software Engineer - December 2026 Graduates | Chicago, IL | 2026 | not available | 2026-10-17 | **[Apply →](https://careers.wolve.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e)**<br><sub>careers.wolve.com</sub> |
 | Wolverine Trading | Entry Level C++ Software Engineer - Spring 2027 Graduates | Chicago, IL | 2027 | not available | 2026-10-17 | **[Apply →](https://careers.wolve.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6)**<br><sub>careers.wolve.com</sub> |
 | AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Arlington, VA | Glen Allen, VA, us | Not listed | not available | 2026-10-16 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155892100)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Arlington, VA | Hunt Valley, MD, us | Not listed | not available | 2026-10-16 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155899839)**<br><sub>jobs.smartrecruiters.com</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | American Institutes for Research | Data Scientist - Project Success and Innovation | Austin, TX, Remote in USA, Chicago, IL, Arlington County, Arlington, VA, Sacramento, CA, Chapel Hill, NC | Not listed | not available | 2026-10-16 | **[Apply →](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5454172008)**<br><sub>job-boards.greenhouse.io</sub> |
 | Astranis Space Technologies | Software Developer - Network Software Associate - Summer 2027 | San Francisco, CA | 2027 | not available | 2026-10-16 | **[Apply →](https://job-boards.greenhouse.io/astranis/jobs/4705615006)**<br><sub>job-boards.greenhouse.io</sub> |
 | Astranis Space Technologies | Software Developer - Network Software Associate - Winter 2027 | San Francisco, CA | 2027 | not available | 2026-10-16 | **[Apply →](https://job-boards.greenhouse.io/astranis/jobs/4705617006)**<br><sub>job-boards.greenhouse.io</sub> |
-| Axon | Software Engineer 1 | Boston, MA, Seattle, WA, Scottsdale, AZ, Atlanta, GA | Not listed | not available | 2026-10-16 | **[Apply →](https://job-boards.greenhouse.io/axon/jobs/7703668003)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
