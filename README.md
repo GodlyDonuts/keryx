@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,843 internships · 5,000 new-grad roles · 14,843 total openings**
+**9,818 internships · 4,998 new-grad roles · 14,816 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,623 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 394 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 661 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 208 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,957 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,617 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 392 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 660 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 211 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,938 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,251 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,187 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,562 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,241 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,202 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,555 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| AFB International | Engineering Intern | Aurora, MO | Not listed | not available | 2026-10-17 | **[Apply →](https://ebi.wd5.myworkdayjobs.com/afbcareers/job/Aurora-MO/Engineering-Intern_REQ107706-1)**<br><sub>ebi.wd5.myworkdayjobs.com</sub> |
 | Carrier | Software Engineering Intern - Summer | Syracuse, NY | Not listed | not available | 2026-10-17 | **[Apply →](https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220161)**<br><sub>carrier.wd5.myworkdayjobs.com</sub> |
 | Clearwater Analytics | Data Management & Reporting Intern | Office - New York | Not listed | not available | 2026-10-17 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Data-Management---Reporting-Intern_R12095)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
 | CNA Insurance | Technology Internship Program (Agile Product Design) | Chicago, IL, USA | Not listed | not available | 2026-10-17 | **[Apply →](https://cna.wd1.myworkdayjobs.com/cna_careers/job/Chicago-IL-USA/Technology-Internship-Program--Agile-Product-Design-_R-8125)**<br><sub>cna.wd1.myworkdayjobs.com</sub> |
 | CNA Insurance | Technology Internship Program (Data Analytics) | Chicago, IL, USA | Not listed | not available | 2026-10-17 | **[Apply →](https://cna.wd1.myworkdayjobs.com/cna_careers/job/Chicago-IL-USA/Technology-Internship-Program--Data-Analytics-_R-8124)**<br><sub>cna.wd1.myworkdayjobs.com</sub> |
+| Eulerity | AI Intern - Office of CEO & Head of Product | New York, NY | Not listed | not stated | 2026-10-17 | **[Apply →](https://job-boards.greenhouse.io/eulerity/jobs/4722871006)**<br><sub>job-boards.greenhouse.io</sub> |
+| Ingredion | AI & Data Scientist Intern | Westchester, IL | Not listed | not available | 2026-10-17 | **[Apply →](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40007-1)**<br><sub>ingredion.wd1.myworkdayjobs.com</sub> |
+| Simon Property Group | Intern - Data Engineering (Data Analytics, Information Sciences, Computer Science Majors) | Indianapolis, IN | Not listed | not available | 2026-10-17 | **[Apply →](https://simon.wd1.myworkdayjobs.com/simon/job/Indianapolis-IN/Intern---Data-Engineering--Data-Analytics--Information-Sciences--Computer-Science-Majors-_R13976)**<br><sub>simon.wd1.myworkdayjobs.com</sub> |
+| Simon Property Group | Intern - Front End Developer - Computer Science - Web Development - or Information Sciences Majors | Indianapolis, IN | Not listed | not available | 2026-10-17 | **[Apply →](https://simon.wd1.myworkdayjobs.com/en-US/simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975)**<br><sub>simon.wd1.myworkdayjobs.com</sub> |
+| Simon Property Group | Intern - Project Delivery (Information Services / Computer Science Majors) | Indianapolis, IN | Not listed | not available | 2026-10-17 | **[Apply →](https://simon.wd1.myworkdayjobs.com/simon/job/Indianapolis-IN/Intern---Project-Delivery--Information-Services---Computer-Science-Majors-_R13947)**<br><sub>simon.wd1.myworkdayjobs.com</sub> |
 | Tencent | Cloud Media Services Intern | US-California-Palo Alto | Not listed | not available | 2026-10-17 | **[Apply →](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186)**<br><sub>tencent.wd1.myworkdayjobs.com</sub> |
 | TikTok | Software Development Engineer Intern - Global E-Commerce-Quality Platform & AI Test Automation - 2027 Summer | Seattle, WA | Summer 2027 | not available | 2026-10-17 | **[Apply →](https://lifeattiktok.com/search/7668837276597127477)**<br><sub>lifeattiktok.com</sub> |
-| WithersRavenel | Site Civil Engineering Intern | Cary, NC, United States | Not listed | not available | 2026-10-17 | **[Apply →](https://withersravenel.com/careers/job-postings/site-civil-engineering-intern/)**<br><sub>withersravenel.com</sub> |
-| Zipline | Aircraft Software Integration Intern - Spring 2027 | South San Francisco, CA | Spring 2027 | not available | 2026-10-17 | **[Apply →](https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003)**<br><sub>www.zipline.com</sub> |
-| Zurn Elkay Water Solutions | IT Business Systems Intern (Summer 2027) | Milwaukee, WI | Summer 2027 | not available | 2026-10-17 | **[Apply →](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/IT-Business-Systems-Intern--Summer-2027-_REQ-020154)**<br><sub>elkay.wd1.myworkdayjobs.com</sub> |
-| ADT | Hardware Engineering & Connected Devices Intern | Boca Raton, FL | Summer 2027 | Dec 2027–May 2028<br><sub>stated</sub> | 2026-10-16 | **[Apply →](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022475)**<br><sub>fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
-| AECOM | Highway Engineering Intern - Hiring Event with AECOM - Arlington, VA | Roanoke, VA, us | Not listed | not available | 2026-10-16 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155897740)**<br><sub>jobs.smartrecruiters.com</sub> |
-| AECOM | Internship and Entry-Level Graduate Opportunities - Engineering & Manufacturing Fair | Rocky Hill, CT, us | Not listed | not available | 2026-10-16 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000156080829)**<br><sub>jobs.smartrecruiters.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
