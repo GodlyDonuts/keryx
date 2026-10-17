@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,802 internships · 4,991 new-grad roles · 14,793 total openings**
+**9,843 internships · 5,000 new-grad roles · 14,843 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,602 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 397 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 665 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 210 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,928 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,623 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 394 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 661 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 208 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,957 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,248 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,188 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,555 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,251 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,187 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,562 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Alcon | 2027 Summer Software - Data & AI Engineering Interns | Fort Worth, TX +4 | Summer 2027 | not available | 2026-10-17 | **[Apply →](https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2027-Summer-Software--Data---AI-Engineering-Interns_R-2026-49480)**<br><sub>alcon.wd5.myworkdayjobs.com</sub> |
 | Carrier | Software Engineering Intern - Summer | Syracuse, NY | Not listed | not available | 2026-10-17 | **[Apply →](https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220161)**<br><sub>carrier.wd5.myworkdayjobs.com</sub> |
 | Clearwater Analytics | Data Management & Reporting Intern | Office - New York | Not listed | not available | 2026-10-17 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Data-Management---Reporting-Intern_R12095)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
 | CNA Insurance | Technology Internship Program (Agile Product Design) | Chicago, IL, USA | Not listed | not available | 2026-10-17 | **[Apply →](https://cna.wd1.myworkdayjobs.com/cna_careers/job/Chicago-IL-USA/Technology-Internship-Program--Agile-Product-Design-_R-8125)**<br><sub>cna.wd1.myworkdayjobs.com</sub> |
 | CNA Insurance | Technology Internship Program (Data Analytics) | Chicago, IL, USA | Not listed | not available | 2026-10-17 | **[Apply →](https://cna.wd1.myworkdayjobs.com/cna_careers/job/Chicago-IL-USA/Technology-Internship-Program--Data-Analytics-_R-8124)**<br><sub>cna.wd1.myworkdayjobs.com</sub> |
-| IKO North America | Engineering Internship | Sylacauga, AL | Not listed | not available | 2026-10-17 | **[Apply →](https://iko.wd3.myworkdayjobs.com/IKO_Careers/job/Sylacauga-AL/Engineering-Internship_REQ-13890)**<br><sub>iko.wd3.myworkdayjobs.com</sub> |
+| Tencent | Cloud Media Services Intern | US-California-Palo Alto | Not listed | not available | 2026-10-17 | **[Apply →](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186)**<br><sub>tencent.wd1.myworkdayjobs.com</sub> |
 | TikTok | Software Development Engineer Intern - Global E-Commerce-Quality Platform & AI Test Automation - 2027 Summer | Seattle, WA | Summer 2027 | not available | 2026-10-17 | **[Apply →](https://lifeattiktok.com/search/7668837276597127477)**<br><sub>lifeattiktok.com</sub> |
 | WithersRavenel | Site Civil Engineering Intern | Cary, NC, United States | Not listed | not available | 2026-10-17 | **[Apply →](https://withersravenel.com/careers/job-postings/site-civil-engineering-intern/)**<br><sub>withersravenel.com</sub> |
 | Zipline | Aircraft Software Integration Intern - Spring 2027 | South San Francisco, CA | Spring 2027 | not available | 2026-10-17 | **[Apply →](https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003)**<br><sub>www.zipline.com</sub> |
 | Zurn Elkay Water Solutions | IT Business Systems Intern (Summer 2027) | Milwaukee, WI | Summer 2027 | not available | 2026-10-17 | **[Apply →](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/IT-Business-Systems-Intern--Summer-2027-_REQ-020154)**<br><sub>elkay.wd1.myworkdayjobs.com</sub> |
 | ADT | Hardware Engineering & Connected Devices Intern | Boca Raton, FL | Summer 2027 | Dec 2027–May 2028<br><sub>stated</sub> | 2026-10-16 | **[Apply →](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022475)**<br><sub>fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
-| AGCO | Embedded Software Engineer Intern | Hesston, KS, Jackson, MN | Summer 2027 | not available | 2026-10-16 | **[Apply →](https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors)**<br><sub>careers.agcocorp.com</sub> |
+| AECOM | Highway Engineering Intern - Hiring Event with AECOM - Arlington, VA | Roanoke, VA, us | Not listed | not available | 2026-10-16 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155897740)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AECOM | Internship and Entry-Level Graduate Opportunities - Engineering & Manufacturing Fair | Rocky Hill, CT, us | Not listed | not available | 2026-10-16 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000156080829)**<br><sub>jobs.smartrecruiters.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -59,8 +59,10 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Amazon | Software Development Engineer - Amazon Dedicated Cloud - Early Career - 2026 - Amazon Dedicated Cloud - ADC | Seattle, WA | 2026 | not available | 2026-10-17 | **[Apply →](https://www.amazon.jobs/jobs/10529546/apply)**<br><sub>www.amazon.jobs</sub> |
+| Amazon | Software Development Engineer - Consumer Domains | Newark, NJ | 2027 | not available | 2026-10-17 | **[Apply →](https://www.amazon.jobs/jobs/10560727/apply)**<br><sub>www.amazon.jobs</sub> |
 | Amazon | Systems Development Engineer – Early Career | Seattle, WA | Not listed | not available | 2026-10-17 | **[Apply →](https://amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us)**<br><sub>amazon.jobs</sub> |
 | Verkada | Embedded Software Engineer - Access Control | San Mateo, CA | 2027 | not available | 2026-10-17 | **[Apply →](https://job-boards.greenhouse.io/verkada/jobs/5194716007)**<br><sub>job-boards.greenhouse.io</sub> |
+| Wolverine Trading | Entry Level C++ Software Engineer - Spring 2027 Graduates | Chicago, IL | 2027 | not available | 2026-10-17 | **[Apply →](https://careers.wolve.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6)**<br><sub>careers.wolve.com</sub> |
 | AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Arlington, VA | Glen Allen, VA, us | Not listed | not available | 2026-10-16 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155892100)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Arlington, VA | Hunt Valley, MD, us | Not listed | not available | 2026-10-16 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000155899839)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Amentum | RTOS / VXWorks developer | Dahlgren, VA | 2027 | not available | 2026-10-16 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/RTOS---VXWorks-developer_R0168163-1)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
@@ -68,8 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Astranis Space Technologies | Software Developer - Network Software Associate - Summer 2027 | San Francisco, CA | 2027 | not available | 2026-10-16 | **[Apply →](https://job-boards.greenhouse.io/astranis/jobs/4705615006)**<br><sub>job-boards.greenhouse.io</sub> |
 | Astranis Space Technologies | Software Developer - Network Software Associate - Winter 2027 | San Francisco, CA | 2027 | not available | 2026-10-16 | **[Apply →](https://job-boards.greenhouse.io/astranis/jobs/4705617006)**<br><sub>job-boards.greenhouse.io</sub> |
 | Axon | Software Engineer 1 | Boston, MA, Seattle, WA, Scottsdale, AZ, Atlanta, GA | Not listed | not available | 2026-10-16 | **[Apply →](https://job-boards.greenhouse.io/axon/jobs/7703668003)**<br><sub>job-boards.greenhouse.io</sub> |
-| Blissway | Electrical or Embedded Systems Engineer | Denver, CO | Not listed | not available | 2026-10-16 | **[Apply →](https://jobs.ashbyhq.com/blissway/9cc9751f-5995-422b-baa9-3ac57f3d24e1/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Broadcom | Test Engineer - Ate | San Jose, CA | Not listed | not available | 2026-10-16 | **[Apply →](https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA-San-Jose-Innovation-Drive/Test-Engineer--ATE-_R027448)**<br><sub>broadcom.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
