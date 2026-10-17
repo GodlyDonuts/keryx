@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,854 internships · 5,205 new-grad roles · 15,059 total openings**
+**9,793 internships · 5,196 new-grad roles · 14,989 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,620 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 401 | **[View openings →](internships/fall-2026.md)** |
+| ☀️ Summer 2027 | 4,588 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 399 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 664 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 210 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,959 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 3,932 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,236 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,389 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,580 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,246 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,400 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,550 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,8 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Sanofi | 2027 Spring Co op Biologics Design and AI Cambridge MA | Cambridge, MA | Spring 2027 | not available | 2026-10-17 | **[Apply →](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Biologics-Design-and-AI-Cambridge-MA_R2854337)**<br><sub>sanofi.wd3.myworkdayjobs.com</sub> |
+| TikTok | Software Development Engineer Intern - Global E-Commerce-Quality Platform & AI Test Automation - 2027 Summer | Seattle, WA | Summer 2027 | not available | 2026-10-17 | **[Apply →](https://lifeattiktok.com/search/7668837276597127477)**<br><sub>lifeattiktok.com</sub> |
 | ADT | Hardware Engineering & Connected Devices Internship | Boca Raton, FL, United States | Summer 2027 | Dec 2027–May 2028<br><sub>stated</sub> | 2026-10-16 | **[Apply →](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022475)**<br><sub>fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 | AGCO | Embedded Software Engineer Intern | Hesston, KS, Jackson, MN | Summer 2027 | not available | 2026-10-16 | **[Apply →](https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors)**<br><sub>careers.agcocorp.com</sub> |
 | AgZen | Research & Development Engineering Co-op | Somerville, MA | Not listed | Current student status<br><sub>stated</sub> | 2026-10-16 | **[Apply →](https://jobs.ashbyhq.com/agzen/a828d0cd-1e72-45db-9ef0-244cfc61271a)**<br><sub>jobs.ashbyhq.com</sub> |
@@ -45,10 +47,8 @@ Recent internship and co-op listings that open the employer's application page d
 | Amcor | Engineering Intern | ARP Millville NJ | Not listed | not available | 2026-10-16 | **[Apply →](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ARP-Millville-NJ/Engineering-Intern_REQ_97055)**<br><sub>amcor.wd5.myworkdayjobs.com</sub> |
 | American Bankers Association | Banking Policy and Economic Research Intern | Washington, DC | Summer 2027 | not available | 2026-10-16 | **[Apply →](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625)**<br><sub>aba.wd1.myworkdayjobs.com</sub> |
 | American Family Insurance Group | Data Engineering / Data Science Intern | Madison, WI | Summer 2027 | not available | 2026-10-16 | **[Apply →](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineering_R39674)**<br><sub>amfam.wd1.myworkdayjobs.com</sub> |
-| Angel City | Data Analytics Intern | Santa Monica, CA | Fall 2026 | Current student status<br><sub>stated</sub> | 2026-10-16 | **[Apply →](https://job-boards.greenhouse.io/wfclainc/jobs/6226220004)**<br><sub>job-boards.greenhouse.io</sub> |
 | ARCO National Construction Company | Mechanical Engineer Intern | Richmond Heights, MO, US | Not listed | Current student status<br><sub>stated</sub> | 2026-10-16 | **[Apply →](https://job-boards.greenhouse.io/anc/jobs/4456159009)**<br><sub>job-boards.greenhouse.io</sub> |
 | Ascension | Intern Managed Care Analytics | United States | Not listed | Current student status<br><sub>stated</sub> | 2026-10-16 | **[Apply →](https://ibpcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1004/job/15636)**<br><sub>ibpcjb.fa.ocs.oraclecloud.com</sub> |
-| Ascension | Master Data Management Intern | Tempe, AZ, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-10-16 | **[Apply →](https://ibpcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1004/job/2026-465180)**<br><sub>ibpcjb.fa.ocs.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
