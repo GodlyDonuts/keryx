@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,712 internships · 5,002 new-grad roles · 14,714 total openings**
+**9,725 internships · 5,008 new-grad roles · 14,733 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,579 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 393 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 652 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 206 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,882 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,588 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 394 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 651 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 207 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,885 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,251 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,218 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,533 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,253 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,225 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,530 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -42,13 +42,13 @@ Recent internship and co-op listings that open the employer's application page d
 | Clearwater Analytics | Data Management & Reporting Intern | Office - New York | Not listed | not available | 2026-10-17 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Data-Management---Reporting-Intern_R12095)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
 | CNA Insurance | Technology Internship Program (Agile Product Design) | Chicago, IL, USA | Not listed | not available | 2026-10-17 | **[Apply →](https://cna.wd1.myworkdayjobs.com/cna_careers/job/Chicago-IL-USA/Technology-Internship-Program--Agile-Product-Design-_R-8125)**<br><sub>cna.wd1.myworkdayjobs.com</sub> |
 | CNA Insurance | Technology Internship Program (Data Analytics) | Chicago, IL, USA | Not listed | not available | 2026-10-17 | **[Apply →](https://cna.wd1.myworkdayjobs.com/cna_careers/job/Chicago-IL-USA/Technology-Internship-Program--Data-Analytics-_R-8124)**<br><sub>cna.wd1.myworkdayjobs.com</sub> |
+| Databricks | Software Engineering Intern - 2027 Start - Winter | Mountain View, CA +2 | Winter 2027 | Fall 2027–Spring 2028<br><sub>stated</sub> | 2026-10-17 | **[Apply →](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002)**<br><sub>databricks.com</sub> |
 | Eulerity | AI Intern - Office of CEO & Head of Product | New York, NY | Not listed | not stated | 2026-10-17 | **[Apply →](https://job-boards.greenhouse.io/eulerity/jobs/4722871006)**<br><sub>job-boards.greenhouse.io</sub> |
 | Ingredion | AI & Data Scientist Intern | Westchester, IL | Not listed | not available | 2026-10-17 | **[Apply →](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40007-1)**<br><sub>ingredion.wd1.myworkdayjobs.com</sub> |
-| Simon Property Group | Intern - Data Engineering (Data Analytics, Information Sciences, Computer Science Majors) | Indianapolis, IN | Not listed | not available | 2026-10-17 | **[Apply →](https://simon.wd1.myworkdayjobs.com/simon/job/Indianapolis-IN/Intern---Data-Engineering--Data-Analytics--Information-Sciences--Computer-Science-Majors-_R13976)**<br><sub>simon.wd1.myworkdayjobs.com</sub> |
-| Simon Property Group | Intern - Front End Developer - Computer Science - Web Development - or Information Sciences Majors | Indianapolis, IN | Not listed | not available | 2026-10-17 | **[Apply →](https://simon.wd1.myworkdayjobs.com/en-US/simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975)**<br><sub>simon.wd1.myworkdayjobs.com</sub> |
-| Simon Property Group | Intern - Project Delivery (Information Services / Computer Science Majors) | Indianapolis, IN | Not listed | not available | 2026-10-17 | **[Apply →](https://simon.wd1.myworkdayjobs.com/simon/job/Indianapolis-IN/Intern---Project-Delivery--Information-Services---Computer-Science-Majors-_R13947)**<br><sub>simon.wd1.myworkdayjobs.com</sub> |
-| Tencent | Cloud Media Services Intern | Palo Alto, CA | Not listed | not available | 2026-10-17 | **[Apply →](https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186)**<br><sub>tencent.wd1.myworkdayjobs.com</sub> |
-| TikTok | Software Development Engineer Intern - Global E-Commerce-Quality Platform & AI Test Automation - 2027 Summer | Seattle, WA | Summer 2027 | not available | 2026-10-17 | **[Apply →](https://lifeattiktok.com/search/7668837276597127477)**<br><sub>lifeattiktok.com</sub> |
+| Northrop Grumman | 2027 Intern - Guidance Navigation and Control Engineer | United States-California-San Diego | Not listed | not available | 2026-10-17 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Guidance-Navigation-and-Control-Engineer_R10256435)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
+| Northrop Grumman | 2027 Materials/Chemical Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | Not listed | not available | 2026-10-17 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Materials-Chemical-Engineer-Intern---Baltimore-MD_R10256386)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
+| Northrop Grumman | 2027 Systems Engineering Intern - Aurora CO | United States-Colorado-Aurora | Not listed | not available | 2026-10-17 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Systems-Engineering-Intern---Aurora-CO_R10256237)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
+| Northrop Grumman | 2027 Systems Engineering Intern - Colorado Springs CO | United States-Colorado-Colorado Springs | Not listed | not available | 2026-10-17 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Systems-Engineering-Intern---Colorado-Springs-CO_R10256088)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
