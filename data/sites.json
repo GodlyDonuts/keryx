@@ -3114,7 +3114,7 @@
       "boards": [],
       "company": "AXQ Capital",
       "key": "122898168491f0a21e0945e5",
-      "last_scanned": "2026-10-11",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 1,
       "url": "https://www.axqcap.com/"
     },
@@ -4638,7 +4638,7 @@
       "boards": [],
       "company": "Auria Space",
       "key": "1b1a7bb9ec709d961b93db00",
-      "last_scanned": "2026-10-11",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://www.auria.space/"
     },
@@ -5536,7 +5536,7 @@
       ],
       "company": "Anord Mardix",
       "key": "1f784bbdc7f07d084f000de9",
-      "last_scanned": "2026-10-03",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://anordmardix.com/"
     },
@@ -11502,7 +11502,7 @@
       "boards": [],
       "company": "ShopBack",
       "key": "3fa06c48073469773c8204c8",
-      "last_scanned": "2026-10-02",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://www.shopback.sg/"
     },
@@ -13617,7 +13617,7 @@
       "boards": [],
       "company": "Kittelson & Associates, Inc.",
       "key": "4b19d9cd0ac72e3faf780b47",
-      "last_scanned": "2026-09-20",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 1,
       "url": "https://kittelson.com/"
     },
@@ -20535,7 +20535,7 @@
       "boards": [],
       "company": "The Swift Group, LLC",
       "key": "6fa34c96bdd78cef7a7c6915",
-      "last_scanned": "2026-10-03",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://theswiftgroup.com/"
     },
@@ -29124,6 +29124,13 @@
       "url": "https://www.mlb.com/mets"
     },
     {
+      "company": "Connection",
+      "error": "public request failed for https://www.connection.com/: HTTP Error 403: Forbidden",
+      "key": "9ed92704b201e747c415350a",
+      "last_scanned": "2026-10-18",
+      "url": "https://www.connection.com/"
+    },
+    {
       "boards": [],
       "company": "Soft Tech Consulting",
       "key": "9edacd8802097e37a4bc6f75",
@@ -31806,7 +31813,7 @@
       "boards": [],
       "company": "BNSF Railway",
       "key": "ac6eb95f002ded811a17571d",
-      "last_scanned": "2026-09-20",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://www.bnsf.com/"
     },
@@ -32053,7 +32060,7 @@
       "boards": [],
       "company": "HF Sinclair",
       "key": "add3bc5385b7ebf66a09e102",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://www.hfsinclair.com/"
     },
@@ -32519,7 +32526,7 @@
       ],
       "company": "Notion",
       "key": "b04d19f21678295e26b2d736",
-      "last_scanned": "2026-10-11",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://www.notion.com/"
     },
@@ -34967,7 +34974,7 @@
       "boards": [],
       "company": "Billtrust",
       "key": "be33b24b720d83f056e3ec97",
-      "last_scanned": "2026-10-11",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://billtrust.com/"
     },
@@ -40245,7 +40252,7 @@
       "boards": [],
       "company": "MechSpire",
       "key": "d87542d338d2e602da26c6c5",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://www.linkedin.com/company/92823876"
     },
@@ -41792,7 +41799,7 @@
       ],
       "company": "Center for AI Safety",
       "key": "e14ccef54cf8c84fd0e41bbb",
-      "last_scanned": "2026-10-04",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://safe.ai/"
     },
@@ -42271,7 +42278,7 @@
       "boards": [],
       "company": "Nuvo",
       "key": "e4ad0e75a6658cbda6a0ee58",
-      "last_scanned": "2026-09-26",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://www.nuvo.com/"
     },
@@ -44292,6 +44299,13 @@
       "url": "https://www.johnsonoutdoors.com/"
     },
     {
+      "company": "Brian Bemis Toyota of DeKalb",
+      "error": "public request failed for https://brianbemis.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
+      "key": "eebeea4a48288992e8d87e8a",
+      "last_scanned": "2026-10-18",
+      "url": "https://brianbemis.com/"
+    },
+    {
       "boards": [
         "workday:accelleron.wd3.myworkdayjobs.com:accelleron:accelleron",
         "workday:accelleron.wd3.myworkdayjobs.com:accelleron:accelleron%22%7d%7d"
@@ -44314,7 +44328,7 @@
       "company": "Burns & McDonnell",
       "error": "Invalid IPv6 URL",
       "key": "eec8917d7550e69bd17e19be",
-      "last_scanned": "2026-10-17",
+      "last_scanned": "2026-10-18",
       "url": "https://www.burnsmcd.com/"
     },
     {
