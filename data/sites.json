@@ -5715,7 +5715,7 @@
       "company": "WHOOP",
       "error": "public request failed for https://www.whoop.com/: HTTP Error 403: Forbidden",
       "key": "208af606069f130189efa0d5",
-      "last_scanned": "2026-10-16",
+      "last_scanned": "2026-10-18",
       "url": "https://www.whoop.com/"
     },
     {
@@ -5769,6 +5769,14 @@
       "last_scanned": "2026-10-07",
       "resolved_roles": 0,
       "url": "https://www.sandhills.com/"
+    },
+    {
+      "boards": [],
+      "company": "Pratt Industries",
+      "key": "20b1bf5c8b245d74f9690206",
+      "last_scanned": "2026-10-18",
+      "resolved_roles": 0,
+      "url": "https://www.prattindustries.com/"
     },
     {
       "company": "JST Corporation / Sales America",
@@ -7466,7 +7474,7 @@
       "boards": [],
       "company": "CF Industries",
       "key": "2b35433ccd5982135a7ea571",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://www.cfindustries.com/"
     },
@@ -9375,7 +9383,7 @@
       "boards": [],
       "company": "Crete Carrier Corporation",
       "key": "33eae9d3894ec2d1c211b56b",
-      "last_scanned": "2026-08-18",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://cretecarrier.com/"
     },
@@ -12491,7 +12499,7 @@
       "boards": [],
       "company": "InstaLILY AI",
       "key": "450e2c4b38978191e2147027",
-      "last_scanned": "2026-09-16",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://instalily.ai/"
     },
@@ -13559,7 +13567,7 @@
       "boards": [],
       "company": "Plymouth Rock Assurance",
       "key": "4add85b3fa88487b36017948",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://www.plymouthrock.com/"
     },
@@ -15368,6 +15376,14 @@
     },
     {
       "boards": [],
+      "company": "Wabash",
+      "key": "5428fd2d1046d6b4a49a0834",
+      "last_scanned": "2026-10-18",
+      "resolved_roles": 0,
+      "url": "https://onewabash.com/"
+    },
+    {
+      "boards": [],
       "company": "Navy Federal Credit Union",
       "key": "543a308225a9b9c2c7f28133",
       "last_scanned": "2026-10-15",
@@ -16071,7 +16087,7 @@
       ],
       "company": "Saronic Technologies",
       "key": "57b957802af4cbc1da6a42cf",
-      "last_scanned": "2026-09-26",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://www.saronic.com/"
     },
@@ -16383,7 +16399,7 @@
       "company": "Tesla",
       "error": "public request failed for https://www.tesla.com/: HTTP Error 403: Forbidden",
       "key": "596d5f8ba4114e6c6c07da9e",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-18",
       "url": "https://www.tesla.com/"
     },
     {
@@ -21256,7 +21272,7 @@
       "boards": [],
       "company": "Great West Casualty Company",
       "key": "73e4d36bd88a4b0c24ad43e6",
-      "last_scanned": "2026-10-07",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://ssl.gwccnet.com/"
     },
@@ -24196,10 +24212,12 @@
       "url": "https://www.richardgroup.com/"
     },
     {
-      "boards": [],
+      "boards": [
+        "greenhouse:sevenresearch"
+      ],
       "company": "Seven Research, LLC",
       "key": "841d48e6b937fc110884f3d3",
-      "last_scanned": "2026-10-04",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://sevenresearch.com/"
     },
@@ -25625,8 +25643,8 @@
       "boards": [],
       "company": "MIT Lincoln Laboratory",
       "key": "8a99eef253c787d68fe7b9a8",
-      "last_scanned": "2026-10-08",
-      "resolved_roles": 2,
+      "last_scanned": "2026-10-18",
+      "resolved_roles": 0,
       "url": "https://www.ll.mit.edu/"
     },
     {
@@ -28935,7 +28953,7 @@
       "boards": [],
       "company": "IEX",
       "key": "9de9d41398cc3e70bbdf7045",
-      "last_scanned": "2026-10-04",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://iex.io/"
     },
@@ -32457,6 +32475,13 @@
       "url": "https://www.ghafari.com/"
     },
     {
+      "company": "HEICO",
+      "error": "public request failed for https://www.heico.com/: HTTP Error 403: Forbidden",
+      "key": "b0183ca7fc6f228001d290f0",
+      "last_scanned": "2026-10-18",
+      "url": "https://www.heico.com/"
+    },
+    {
       "boards": [],
       "company": "Everlaw",
       "key": "b029b7303c437dd368d3a9a6",
@@ -33078,7 +33103,7 @@
       "boards": [],
       "company": "Ruan Transportation Management Systems",
       "key": "b3bf1c61d3b90c24f6d24af1",
-      "last_scanned": "2026-09-16",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://www.ruan.com/"
     },
@@ -33277,7 +33302,7 @@
       "boards": [],
       "company": "Cahill Contractors",
       "key": "b4d6548d04b1c7ebb61e1533",
-      "last_scanned": "2026-09-26",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://cahill-sf.com/"
     },
@@ -34182,7 +34207,7 @@
       "boards": [],
       "company": "Helena Agri-Enterprises, LLC",
       "key": "ba0e09045d74c6b6fe523f63",
-      "last_scanned": "2026-08-28",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://helenaagri.com/"
     },
@@ -37324,7 +37349,7 @@
       "boards": [],
       "company": "The Nuclear Company",
       "key": "ca793ff99952b0acf0c96c8f",
-      "last_scanned": "2026-10-11",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://www.thenuclearcompany.com/"
     },
@@ -38713,6 +38738,14 @@
       "url": "https://www.abridge.com/"
     },
     {
+      "boards": [],
+      "company": "Atlas Roofing Corporation",
+      "key": "d1272f58fb805b41047799e6",
+      "last_scanned": "2026-10-18",
+      "resolved_roles": 0,
+      "url": "https://www.atlasroofing.com/"
+    },
+    {
       "company": "Linkan",
       "error": "Invalid IPv6 URL",
       "key": "d13074cd5ebca2aae6e33893",
@@ -39319,7 +39352,7 @@
       ],
       "company": "Toyota Automated Logistics",
       "key": "d38d33a40e23097a38c2d578",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://toyota-automated-logistics.com/"
     },
@@ -41144,7 +41177,7 @@
       "boards": [],
       "company": "Nationwide",
       "key": "de328d90df69a7159557bd6e",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://www.nationwide.com/"
     },
