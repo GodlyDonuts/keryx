@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,725 internships · 5,008 new-grad roles · 14,733 total openings**
+**9,719 internships · 5,003 new-grad roles · 14,722 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,588 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 394 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 651 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 4,576 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 393 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 654 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 207 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,885 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 3,889 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,253 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,225 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,530 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,254 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,198 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,551 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,8 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Tesla | Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027 | Fremont, CA | Spring 2027 | not available | 2026-10-18 | **[Apply →](https://www.tesla.com/careers/search/job/286986)**<br><sub>www.tesla.com</sub> |
+| Tesla | Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure | Austin, TX | Spring 2027 | not available | 2026-10-18 | **[Apply →](https://www.tesla.com/careers/search/job/287024)**<br><sub>www.tesla.com</sub> |
 | AFB International | Engineering Intern | Aurora, MO | Not listed | not available | 2026-10-17 | **[Apply →](https://ebi.wd5.myworkdayjobs.com/afbcareers/job/Aurora-MO/Engineering-Intern_REQ107706-1)**<br><sub>ebi.wd5.myworkdayjobs.com</sub> |
 | Carrier | Software Engineering Intern - Summer | Syracuse, NY | Not listed | not available | 2026-10-17 | **[Apply →](https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CANHQ-CCS-HQ---Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220161)**<br><sub>carrier.wd5.myworkdayjobs.com</sub> |
 | Clearwater Analytics | Data Management & Reporting Intern | Office - New York | Not listed | not available | 2026-10-17 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Data-Management---Reporting-Intern_R12095)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
@@ -47,8 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | Ingredion | AI & Data Scientist Intern | Westchester, IL | Not listed | not available | 2026-10-17 | **[Apply →](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40007-1)**<br><sub>ingredion.wd1.myworkdayjobs.com</sub> |
 | Northrop Grumman | 2027 Intern - Guidance Navigation and Control Engineer | United States-California-San Diego | Not listed | not available | 2026-10-17 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern---Guidance-Navigation-and-Control-Engineer_R10256435)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
 | Northrop Grumman | 2027 Materials/Chemical Engineer Intern - Baltimore MD | United States-Maryland-Baltimore | Not listed | not available | 2026-10-17 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Materials-Chemical-Engineer-Intern---Baltimore-MD_R10256386)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
-| Northrop Grumman | 2027 Systems Engineering Intern - Aurora CO | United States-Colorado-Aurora | Not listed | not available | 2026-10-17 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Systems-Engineering-Intern---Aurora-CO_R10256237)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
-| Northrop Grumman | 2027 Systems Engineering Intern - Colorado Springs CO | United States-Colorado-Colorado Springs | Not listed | not available | 2026-10-17 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Systems-Engineering-Intern---Colorado-Springs-CO_R10256088)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links

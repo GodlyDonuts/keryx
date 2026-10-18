@@ -3470,7 +3470,7 @@
       "boards": [],
       "company": "Tensor Auto",
       "key": "13f10b49cb4beb3bd872bffd",
-      "last_scanned": "2026-10-11",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://www.tensor.ai/"
     },
@@ -3844,7 +3844,7 @@
       "boards": [],
       "company": "JT4",
       "key": "1611036ce41f5cba75f65708",
-      "last_scanned": "2026-10-06",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://www.jt4llc.com/"
     },
@@ -14566,6 +14566,14 @@
       "last_scanned": "2026-09-29",
       "resolved_roles": 0,
       "url": "https://amfam.com/"
+    },
+    {
+      "boards": [],
+      "company": "Cal Poly Pomona Enterprises",
+      "key": "4fbc74f148f08fe3fda656bd",
+      "last_scanned": "2026-10-18",
+      "resolved_roles": 0,
+      "url": "https://foundation.cpp.edu/"
     },
     {
       "boards": [],
@@ -25894,6 +25902,16 @@
       "url": "https://www.enerconpower.com/"
     },
     {
+      "boards": [
+        "greenhouse:xpengmotors"
+      ],
+      "company": "XPENG",
+      "key": "8c47a3080650305ac9075b4c",
+      "last_scanned": "2026-10-18",
+      "resolved_roles": 1,
+      "url": "https://www.xpeng.com/"
+    },
+    {
       "company": "Hach",
       "error": "public request failed for https://www.hach.com/: HTTP Error 403: Forbidden",
       "key": "8c4fd79c8c25a869c28bbb71",
@@ -33640,7 +33658,7 @@
       "company": "MidwayUSA",
       "error": "public request failed for https://midwayusa.com/: HTTP Error 403: Forbidden",
       "key": "b6f61e781abe106ee0f5e2c9",
-      "last_scanned": "2026-10-05",
+      "last_scanned": "2026-10-18",
       "url": "https://midwayusa.com/"
     },
     {
@@ -46100,7 +46118,7 @@
       "boards": [],
       "company": "Hawaiian Telcom",
       "key": "f88b4ff54af2f39c8a48db82",
-      "last_scanned": "2026-10-01",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://www.hawaiiantel.com/"
     },
@@ -46412,7 +46430,7 @@
       "boards": [],
       "company": "Celestica",
       "key": "fade0577769425e39d8030b6",
-      "last_scanned": "2026-10-08",
+      "last_scanned": "2026-10-18",
       "resolved_roles": 0,
       "url": "https://www.celestica.com/"
     },
