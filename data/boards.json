@@ -1760,6 +1760,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Qualitate",
+      "key": "ashby:qualitate",
+      "slug": "qualitate"
+    },
+    {
+      "ats": "ashby",
       "company": "Quantcast",
       "key": "ashby:quantcast",
       "slug": "quantcast"
@@ -4233,6 +4239,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Graviton",
+      "key": "greenhouse:gravitonresearchcapital",
+      "slug": "gravitonresearchcapital"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Gridmatic",
       "key": "greenhouse:gridmaticinc",
       "slug": "gridmaticinc"
@@ -5007,7 +5019,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "Old Mission Capital",
+      "company": "Old Mission",
       "key": "greenhouse:oldmissioncapital",
       "slug": "oldmissioncapital"
     },
@@ -5922,6 +5934,12 @@
       "company": "Unite Us",
       "key": "greenhouse:uniteus",
       "slug": "uniteus"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Becker Friedman Institute for Economics",
+      "key": "greenhouse:universityofchicago",
+      "slug": "universityofchicago"
     },
     {
       "ats": "greenhouse",
@@ -13412,6 +13430,15 @@
     },
     {
       "ats": "workday",
+      "company": "Cognex",
+      "host": "cognex.wd1.myworkdayjobs.com",
+      "key": "workday:cognex.wd1.myworkdayjobs.com:cognex:external_career_site",
+      "site": "External_Career_Site",
+      "slug": "cognex",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Cohesity",
       "host": "cohesity.wd5.myworkdayjobs.com",
       "key": "workday:cohesity.wd5.myworkdayjobs.com:cohesity:cohesity_careers",
@@ -17273,7 +17300,7 @@
     },
     {
       "ats": "workday",
-      "company": "MiniMed",
+      "company": "Mdtkangaroo",
       "host": "mdtkangaroo.wd108.myworkdayjobs.com",
       "key": "workday:mdtkangaroo.wd108.myworkdayjobs.com:mdtkangaroo:minimedcareers",
       "site": "minimedcareers",
@@ -22175,6 +22202,15 @@
       "key": "workday:welocalize.wd1.myworkdayjobs.com:welocalize:welocalize",
       "site": "welocalize",
       "slug": "welocalize",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Werner Enterprises",
+      "host": "werner.wd1.myworkdayjobs.com",
+      "key": "workday:werner.wd1.myworkdayjobs.com:werner:werner_careers",
+      "site": "Werner_Careers",
+      "slug": "werner",
       "wd": "wd1"
     },
     {
