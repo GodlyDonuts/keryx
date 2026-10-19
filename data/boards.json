@@ -1622,6 +1622,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Patreon",
+      "key": "ashby:patreon",
+      "slug": "patreon"
+    },
+    {
+      "ats": "ashby",
       "company": "Pebl",
       "key": "ashby:pebl",
       "slug": "pebl"
@@ -3321,6 +3327,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Braze",
+      "key": "greenhouse:braze",
+      "slug": "braze"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Brevium",
       "key": "greenhouse:brevium",
       "slug": "brevium"
@@ -4983,7 +4995,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "National Information Solutions Cooperative",
+      "company": "National Information Solutions Cooperative (NISC)",
       "key": "greenhouse:nisc",
       "slug": "nisc"
     },
@@ -5046,6 +5058,12 @@
       "company": "OppFi",
       "key": "greenhouse:opploans",
       "slug": "opploans"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Optimal Care",
+      "key": "greenhouse:optimalcare",
+      "slug": "optimalcare"
     },
     {
       "ats": "greenhouse",
@@ -8729,6 +8747,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Akamai Technologies",
+      "host": "fa-extu-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "fa-extu-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
       "company": "Howmet Aerospace",
       "host": "fa-exty-saasfaprod1.fa.ocs.oraclecloud.com",
       "key": "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
@@ -10145,6 +10171,12 @@
     },
     {
       "ats": "workable",
+      "company": "ATEC Spine",
+      "key": "workable:atec-spine",
+      "slug": "atec-spine"
+    },
+    {
+      "ats": "workable",
       "company": "Avalore",
       "key": "workable:avalore",
       "slug": "avalore"
@@ -10448,6 +10480,12 @@
       "company": "New Flyer",
       "key": "workable:new-flyer",
       "slug": "new-flyer"
+    },
+    {
+      "ats": "workable",
+      "company": "Node.Digital",
+      "key": "workable:node",
+      "slug": "node"
     },
     {
       "ats": "workable",
@@ -13472,6 +13510,15 @@
       "site": "Careers",
       "slug": "collegeboard",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Colliers",
+      "host": "colliers.wd3.myworkdayjobs.com",
+      "key": "workday:colliers.wd3.myworkdayjobs.com:colliers:colliers-external-career-site",
+      "site": "Colliers-External-Career-Site",
+      "slug": "colliers",
+      "wd": "wd3"
     },
     {
       "ats": "workday",
@@ -17240,7 +17287,7 @@
       "company": "Mastercard",
       "host": "mastercard.wd1.myworkdayjobs.com",
       "key": "workday:mastercard.wd1.myworkdayjobs.com:mastercard:corporatecareers",
-      "site": "CorporateCareers",
+      "site": "corporatecareers",
       "slug": "mastercard",
       "wd": "wd1"
     },
@@ -18920,6 +18967,15 @@
     },
     {
       "ats": "workday",
+      "company": "PulteGroup",
+      "host": "pultegroup.wd1.myworkdayjobs.com",
+      "key": "workday:pultegroup.wd1.myworkdayjobs.com:pultegroup:pgi",
+      "site": "PGI",
+      "slug": "pultegroup",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "PURE Insurance",
       "host": "pureinsurance.wd5.myworkdayjobs.com",
       "key": "workday:pureinsurance.wd5.myworkdayjobs.com:pureinsurance:pure",
@@ -19208,10 +19264,10 @@
     },
     {
       "ats": "workday",
-      "company": "ResMed",
+      "company": "Resmed",
       "host": "resmed.wd3.myworkdayjobs.com",
       "key": "workday:resmed.wd3.myworkdayjobs.com:resmed:resmed_external_careers",
-      "site": "resmed_external_careers",
+      "site": "ResMed_External_Careers",
       "slug": "resmed",
       "wd": "wd3"
     },
@@ -19384,6 +19440,15 @@
       "key": "workday:rockymountain.wd1.myworkdayjobs.com:rockymountain:rmi",
       "site": "RMI",
       "slug": "rockymountain",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Rogue Fitness",
+      "host": "roguefitness.wd1.myworkdayjobs.com",
+      "key": "workday:roguefitness.wd1.myworkdayjobs.com:roguefitness:roguefitness_external_careers",
+      "site": "RogueFitness_External_Careers",
+      "slug": "roguefitness",
       "wd": "wd1"
     },
     {
@@ -21770,6 +21835,15 @@
       "site": "vfc_careers",
       "slug": "vfc",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Ribbon",
+      "host": "vhr-genband.wd1.myworkdayjobs.com",
+      "key": "workday:vhr-genband.wd1.myworkdayjobs.com:vhr-genband:ribboncareers",
+      "site": "ribboncareers",
+      "slug": "vhr-genband",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
