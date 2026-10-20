@@ -8652,7 +8652,7 @@
       "company": "Chubb",
       "host": "fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com",
       "key": "oracle:fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com:cx_2001",
-      "site": "cx_2001",
+      "site": "CX_2001",
       "slug": "fa-ewgu-saasfaprod1"
     },
     {
@@ -16660,10 +16660,10 @@
     },
     {
       "ats": "workday",
-      "company": "KLA",
+      "company": "KLA Corporation",
       "host": "kla.wd1.myworkdayjobs.com",
       "key": "workday:kla.wd1.myworkdayjobs.com:kla:annarbor",
-      "site": "AnnArbor",
+      "site": "annarbor",
       "slug": "kla",
       "wd": "wd1"
     },
