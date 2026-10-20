@@ -10544,6 +10544,12 @@
     },
     {
       "ats": "workable",
+      "company": "Ottimate",
+      "key": "workable:ottimate",
+      "slug": "ottimate"
+    },
+    {
+      "ats": "workable",
       "company": "Palona AI",
       "key": "workable:palona",
       "slug": "palona"
@@ -19249,6 +19255,15 @@
       "key": "workday:realtyincome.wd108.myworkdayjobs.com:realtyincome:realty_income_careers",
       "site": "realty_income_careers",
       "slug": "realtyincome",
+      "wd": "wd108"
+    },
+    {
+      "ats": "workday",
+      "company": "Slate Auto",
+      "host": "recar.wd108.myworkdayjobs.com",
+      "key": "workday:recar.wd108.myworkdayjobs.com:recar:slatecareers",
+      "site": "SLATEcareers",
+      "slug": "recar",
       "wd": "wd108"
     },
     {
