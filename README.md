@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**9,906 internships · 5,066 new-grad roles · 14,972 total openings**
+**9,905 internships · 5,097 new-grad roles · 15,002 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,667 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 396 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 663 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 204 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 3,976 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,683 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 395 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 667 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 209 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 3,951 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,264 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,266 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,536 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,255 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,305 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,537 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Boston Scientific | R&D Software Engineer Intern | Arden Hills, MN | Summer 2027 | not available | 2026-10-20 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813563514)**<br><sub>bostonscientific.eightfold.ai</sub> |
 | Paccar | Dealer Development Marketing Data Analytics Intern | Kirkland, WA | Summer 2027 | not available | 2026-10-20 | **[Apply →](https://jobs.paccar.com/job/Kirkland-Summer-2027-Dealer-Development-Marketing-Data-Analytics-Intern-WA-98033/1449209833/?ats=successfactors)**<br><sub>jobs.paccar.com</sub> |
+| Verizon Communications | Basking Ridge, NJ: VTeamer for a Day: Verizon Consumer Group: Data Science Summer 2027 Internship | Basking Ridge, New Jersey | Summer 2027 | not available | 2026-10-20 | **[Apply →](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417)**<br><sub>verizon.wd12.myworkdayjobs.com</sub> |
+| Verizon Communications | Verizon Consumer Group: Data Science Summer 2027 Internship | Basking Ridge, New Jersey | Summer 2027 | not available | 2026-10-20 | **[Apply →](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102419)**<br><sub>verizon.wd12.myworkdayjobs.com</sub> |
 | AECOM | Traffic Engineering Intern - Hiring Event with AECOM - Raleigh | Greenville, SC, us | Not listed | not available | 2026-10-19 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000156310319)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AllianceBernstein | Business Analyst Summer Intern | Nashville, Tennessee | Not listed | not available | 2026-10-19 | **[Apply →](https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Business-Analyst-Summer-Intern_R0019767)**<br><sub>abglobal.wd1.myworkdayjobs.com</sub> |
+| Alo Yoga | Legal Intern | Beverly Hills, California, United States | Not listed | Current student status<br><sub>stated</sub> | 2026-10-19 | **[Apply →](https://boards.greenhouse.io/aloyoga/jobs/6228886004?gh_jid=6228886004)**<br><sub>boards.greenhouse.io</sub> |
 | American Fidelity | Software Developer Innovation Internship | Oklahoma City, Oklahoma | Not listed | not available | 2026-10-19 | **[Apply →](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Developer-Innovation-Internship_JR1118)**<br><sub>americanfidelity.wd5.myworkdayjobs.com</sub> |
-| Amplify | AI Scientist Intern | Remote in USA | Summer 2027 | not available | 2026-10-19 | **[Apply →](https://jobs.ashbyhq.com/amplify/bb45b7f6-dd7e-40e5-84e6-52e21650a7b8/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Amplify | Data Analytics Intern | Remote in USA | Summer 2027 | not available | 2026-10-19 | **[Apply →](https://jobs.ashbyhq.com/amplify/7b859cc1-1354-43c5-bbd4-0571e85f7c51/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Amplify | Product Management Intern | Remote in USA | Summer 2027 | not available | 2026-10-19 | **[Apply →](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Amplify | Software Engineer Intern | Remote in USA | Summer 2027 | not available | 2026-10-19 | **[Apply →](https://jobs.ashbyhq.com/amplify/855d22a3-f15e-49f6-854c-29e505653efa/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Anduril | 2027 Field Test Engineer Intern | Costa Mesa, California, United States; Quincy, Massachusetts, United States | Summer 2027 | Student status conditions<br><sub>required</sub> | 2026-10-19 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007)**<br><sub>boards.greenhouse.io</sub> |
-| Anduril | 2027 Guidance, Navigation, & Control Engineer Intern | Costa Mesa, California, United States | Summer 2027 | Student status conditions<br><sub>required</sub> | 2026-10-19 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5268736007?gh_jid=5268736007)**<br><sub>boards.greenhouse.io</sub> |
-| Anduril | 2027 Low Observables Engineer Intern | Costa Mesa, California, United States | Summer 2027 | Student status conditions<br><sub>required</sub> | 2026-10-19 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007)**<br><sub>boards.greenhouse.io</sub> |
+| Amplify | Summer 2027: AI Scientist Intern | Remote - United States | Summer 2027 | Fall–2027<br><sub>stated</sub> | 2026-10-19 | **[Apply →](https://jobs.ashbyhq.com/amplify/bb45b7f6-dd7e-40e5-84e6-52e21650a7b8)**<br><sub>jobs.ashbyhq.com</sub> |
+| Amplify | Summer 2027: Corporate Strategy Intern | Remote - United States | Summer 2027 | Fall–2027<br><sub>stated</sub> | 2026-10-19 | **[Apply →](https://jobs.ashbyhq.com/amplify/9d58173f-3112-4c03-b393-3c2dab4c1e20)**<br><sub>jobs.ashbyhq.com</sub> |
+| Amplify | Summer 2027: Customer Experience Intern | Remote - United States | Summer 2027 | Student status conditions<br><sub>stated</sub> | 2026-10-19 | **[Apply →](https://jobs.ashbyhq.com/amplify/cb658439-f141-451e-9949-8651dc8c549d)**<br><sub>jobs.ashbyhq.com</sub> |
+| Amplify | Summer 2027: Data Analytics Intern | Remote - United States | Summer 2027 | Fall–2027<br><sub>stated</sub> | 2026-10-19 | **[Apply →](https://jobs.ashbyhq.com/amplify/7b859cc1-1354-43c5-bbd4-0571e85f7c51)**<br><sub>jobs.ashbyhq.com</sub> |
+| Amplify | Summer 2027: IT Services Intern | Remote - United States | Summer 2027 | Student status conditions<br><sub>stated</sub> | 2026-10-19 | **[Apply →](https://jobs.ashbyhq.com/amplify/ae648c1a-0973-440e-902d-cc41dc60f52f)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -59,6 +59,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Jerry | Product Manager-in-Training | Palo Alto, CA | Not listed | not available | 2026-10-20 | **[Apply →](https://jobs.ashbyhq.com/jerry.ai/8ef6fafc-3527-42ff-86f8-5f087b4edc64/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| SpaceX | Electrical Engineer New Grad - Electrical | Hawthorne, CA | Not listed | 2026–2027<br><sub>required</sub> | 2026-10-20 | **[Apply →](https://boards.greenhouse.io/spacex/jobs/8900641002)**<br><sub>boards.greenhouse.io</sub> |
 | Acxiom | Associate Solution Developer | Conway, AR | Not listed | not available | 2026-10-19 | **[Apply →](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/Conway/Associate-Solution-Developer_JR014611)**<br><sub>acxiomllc.wd5.myworkdayjobs.com</sub> |
 | AECOM | Entry-Level Civil Engineer - Hiring Event with AECOM - Raleigh, NC | Greenville, SC, us | Not listed | not available | 2026-10-19 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000156311439)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AECOM | Entry-Level Traffic Engineer | Middleton, WI, us | Not listed | not available | 2026-10-19 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000156378581)**<br><sub>jobs.smartrecruiters.com</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Anduril | 2027 Early Career Technical Program Manager | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 2027 | not stated | 2026-10-19 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5268883007?gh_jid=5268883007)**<br><sub>boards.greenhouse.io</sub> |
 | Anduril | 2027 Early Career Warhead Engineer | Costa Mesa, California, United States | 2027 | not stated | 2026-10-19 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5268704007?gh_jid=5268704007)**<br><sub>boards.greenhouse.io</sub> |
 | Apple | Software Engineer - IS&T | Austin, TX | Not listed | not available | 2026-10-19 | **[Apply →](https://jobs.apple.com/en-us/details/200688599)**<br><sub>jobs.apple.com</sub> |
-| Applied Materials | Service Product Manager New Grad - Product Line Management | Austin, TX, Santa Clara, CA | Not listed | not available | 2026-10-19 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Service-Product-Manager-Product-Line-Management-New-College-Grad--Master-s--Santa-Clara--CA-Austin--TX-_R2629842)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
