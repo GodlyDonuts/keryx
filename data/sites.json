@@ -469,6 +469,14 @@
       "url": "https://cchcs.ca.gov/"
     },
     {
+      "boards": [],
+      "company": "Minerals Technologies Inc.",
+      "key": "02d4788443a02e48e00c49be",
+      "last_scanned": "2026-10-21",
+      "resolved_roles": 0,
+      "url": "https://www.mineralstech.com/"
+    },
+    {
       "boards": [
         "ashby:northwoodspace"
       ],
@@ -2830,7 +2838,7 @@
       "boards": [],
       "company": "Philips",
       "key": "10582c54822331946e68c4ff",
-      "last_scanned": "2026-10-14",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.philips.com/"
     },
@@ -3990,7 +3998,7 @@
       "boards": [],
       "company": "Amca",
       "key": "1636d127f82a6e7b1290d260",
-      "last_scanned": "2026-09-29",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://amca.company/"
     },
@@ -6243,7 +6251,7 @@
       "boards": [],
       "company": "Marshall Wace",
       "key": "226d76e77df8b6416a338e3f",
-      "last_scanned": "2026-09-30",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.mwam.com/"
     },
@@ -7185,7 +7193,7 @@
       "boards": [],
       "company": "Datadog",
       "key": "2850f31e276b1d5ea84ab307",
-      "last_scanned": "2026-10-07",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.datadoghq.com/"
     },
@@ -8081,7 +8089,7 @@
       "boards": [],
       "company": "Re:Build Manufacturing",
       "key": "2d2acdebd8fd9beba4e9769b",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.rebuildmanufacturing.com/"
     },
@@ -9897,7 +9905,7 @@
       "boards": [],
       "company": "Midcontinent Independent System Operator (MISO)",
       "key": "354f75efa4dcd676d6912f1f",
-      "last_scanned": "2026-10-07",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.misoenergy.org/"
     },
@@ -10585,7 +10593,7 @@
       "boards": [],
       "company": "Alstom",
       "key": "3932ffe6d67d8f76c2e4d327",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.alstom.com/"
     },
@@ -11605,7 +11613,7 @@
       "boards": [],
       "company": "Haley & Aldrich",
       "key": "3ed3083f17c1abdb5056c23b",
-      "last_scanned": "2026-09-10",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.haleyaldrich.com/"
     },
@@ -14950,6 +14958,13 @@
       "url": "https://www.corporate.carrier.com/"
     },
     {
+      "company": "Ralliant",
+      "error": "public request failed for https://ralliant.com/: HTTP Error 504: Target in maintenance",
+      "key": "4fe4fce4e5fabe4ec4c32fdf",
+      "last_scanned": "2026-10-21",
+      "url": "https://ralliant.com/"
+    },
+    {
       "boards": [],
       "company": "Sky Transport Solution",
       "key": "4fe75caa25a44941451a74ca",
@@ -16058,7 +16073,7 @@
       "boards": [],
       "company": "SCS Engineers",
       "key": "55a3328353e2eaa76ebcd3a6",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://scsengineers.com/"
     },
@@ -17057,7 +17072,7 @@
       "boards": [],
       "company": "Red Hat",
       "key": "5ada364e564fabead8016334",
-      "last_scanned": "2026-10-07",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.redhat.com/"
     },
@@ -20191,7 +20206,7 @@
       "company": "Rocket",
       "error": "public request failed for https://www.rocketcompanies.com/: HTTP Error 403: Forbidden",
       "key": "6aed8e42722b9d2fe08ab7a0",
-      "last_scanned": "2026-10-15",
+      "last_scanned": "2026-10-21",
       "url": "https://www.rocketcompanies.com/"
     },
     {
@@ -21811,12 +21826,10 @@
       "url": "https://www.geniussports.com/"
     },
     {
-      "boards": [
-        "workday:lazboy.wd1.myworkdayjobs.com:lazboy:lzbcareers"
-      ],
+      "boards": [],
       "company": "La-Z-Boy Incorporated",
       "key": "74024c627bf6a2a615a52820",
-      "last_scanned": "2026-09-29",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.la-z-boy.com/"
     },
@@ -21904,7 +21917,7 @@
       "boards": [],
       "company": "Squarepoint",
       "key": "74a025e9725d9eddfccd3240",
-      "last_scanned": "2026-10-08",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.squarepoint-capital.com/"
     },
@@ -22009,7 +22022,7 @@
       "boards": [],
       "company": "Raba Kistner, Inc.",
       "key": "75267d934018808e7bab4966",
-      "last_scanned": "2026-09-17",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.rkci.com/"
     },
@@ -22033,7 +22046,7 @@
       ],
       "company": "General Mills",
       "key": "753dea817c99fec29342c960",
-      "last_scanned": "2026-10-07",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.generalmills.com/"
     },
@@ -23004,7 +23017,7 @@
       "boards": [],
       "company": "AppLovin",
       "key": "79ed2628550f8aca3410b8c2",
-      "last_scanned": "2026-10-07",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.applovin.com/"
     },
@@ -23498,7 +23511,7 @@
       "boards": [],
       "company": "Pentair",
       "key": "7c350a5284b5364e4cbc3ebc",
-      "last_scanned": "2026-09-30",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.pentair.com/"
     },
@@ -23599,7 +23612,7 @@
       "company": "Thornton Tomasetti",
       "error": "public request failed for https://www.thorntontomasetti.com/: HTTP Error 403: Forbidden",
       "key": "7cca0a83d06dbff30ab9278a",
-      "last_scanned": "2026-09-29",
+      "last_scanned": "2026-10-21",
       "url": "https://www.thorntontomasetti.com/"
     },
     {
@@ -27515,7 +27528,7 @@
       "company": "Cadence",
       "error": "public request failed for https://www.cadence.com/: HTTP Error 403: Forbidden",
       "key": "9147379edce13e52e2f1e878",
-      "last_scanned": "2026-10-15",
+      "last_scanned": "2026-10-21",
       "url": "https://www.cadence.com/"
     },
     {
@@ -27741,7 +27754,7 @@
       ],
       "company": "Carboline",
       "key": "92a98db460a9313c280a289a",
-      "last_scanned": "2026-09-30",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.carboline.com/"
     },
@@ -32465,7 +32478,7 @@
       "company": "Select Medical",
       "error": "public request failed for https://www.selectmedical.com/: HTTP Error 403: Forbidden",
       "key": "ab8775c2717fa0ecf217f44c",
-      "last_scanned": "2026-10-19",
+      "last_scanned": "2026-10-21",
       "url": "https://www.selectmedical.com/"
     },
     {
@@ -32584,7 +32597,7 @@
       "boards": [],
       "company": "TikTok USDS Joint Venture",
       "key": "ac1af92ed1d2e62377c4b93e",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://usdsjv.tiktok.com/"
     },
@@ -37171,7 +37184,7 @@
       "boards": [],
       "company": "Volvo Construction Equipment",
       "key": "c43d09f688b8a60c90c57d50",
-      "last_scanned": "2026-09-30",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.volvoce.com/"
     },
@@ -38742,7 +38755,7 @@
       "boards": [],
       "company": "LJA",
       "key": "cc0bee59813b25dacebf61e0",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.lja.com/"
     },
@@ -38794,6 +38807,14 @@
       "last_scanned": "2026-09-22",
       "resolved_roles": 0,
       "url": "https://www.versantpower.com/"
+    },
+    {
+      "boards": [],
+      "company": "Fairfax County Public Schools",
+      "key": "cc891be6383531f7f6f08c88",
+      "last_scanned": "2026-10-21",
+      "resolved_roles": 0,
+      "url": "https://www.fcps.edu/node/24745"
     },
     {
       "company": "Porsche Cars North America",
@@ -39174,7 +39195,7 @@
       "company": "WTW",
       "error": "public request failed for https://www.wtwco.com/: HTTP Error 429: Too Many Requests",
       "key": "ce477d511e3b240f5e6a5a3c",
-      "last_scanned": "2026-10-05",
+      "last_scanned": "2026-10-21",
       "url": "https://www.wtwco.com/"
     },
     {
@@ -40114,10 +40135,11 @@
       "url": "https://www.mkec.com/"
     },
     {
+      "boards": [],
       "company": "Minnesota IT Services",
-      "error": "public requests require HTTPS and a hostname",
       "key": "d270d2ab1561f686aacc1920",
-      "last_scanned": "2026-09-09",
+      "last_scanned": "2026-10-21",
+      "resolved_roles": 0,
       "url": "https://mn.gov/mnit"
     },
     {
@@ -41011,7 +41033,7 @@
       "boards": [],
       "company": "Nox Group",
       "key": "d6c38723ba176c10d95309d3",
-      "last_scanned": "2026-09-08",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://noxgroup.us/"
     },
@@ -41108,7 +41130,7 @@
       ],
       "company": "Beckman Coulter Diagnostics",
       "key": "d73bd6eb1fcbb638808c7f94",
-      "last_scanned": "2026-09-30",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.beckmancoulter.com/"
     },
@@ -41627,7 +41649,7 @@
       "boards": [],
       "company": "Arrowhead Pharmaceuticals",
       "key": "da4468416bce61e476b05382",
-      "last_scanned": "2026-09-30",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 1,
       "url": "https://arrowheadpharma.com/"
     },
@@ -44243,7 +44265,7 @@
       "company": "York Space Systems",
       "error": "Invalid IPv6 URL",
       "key": "e87802ee652eaaf7376fbeb6",
-      "last_scanned": "2026-10-20",
+      "last_scanned": "2026-10-21",
       "url": "https://www.yorkspacesystems.com/"
     },
     {
@@ -44310,7 +44332,7 @@
       "boards": [],
       "company": "Southern Farm Bureau Life Insurance Company",
       "key": "e8efcaeb2d56359eb2b22936",
-      "last_scanned": "2026-09-30",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.sfbli.com/"
     },
@@ -45378,7 +45400,7 @@
       "boards": [],
       "company": "Johnsonville",
       "key": "ee3f9f672a91ca767f613101",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.johnsonville.com/"
     },
@@ -46764,7 +46786,7 @@
       "company": "Ericsson",
       "error": "public request failed for https://www.ericsson.com/en: HTTP Error 403: Forbidden",
       "key": "f53ce3ad208b14b94c9e584f",
-      "last_scanned": "2026-10-13",
+      "last_scanned": "2026-10-21",
       "url": "https://www.ericsson.com/"
     },
     {
@@ -48152,9 +48174,9 @@
     },
     {
       "company": "Epic Games",
-      "error": "public request failed for https://www.epicgames.com:443/: HTTP Error 403: Forbidden",
+      "error": "public request failed for https://store.epicgames.com/: HTTP Error 403: Forbidden",
       "key": "fd2aec6b90163ec9c714ee1b",
-      "last_scanned": "2026-10-18",
+      "last_scanned": "2026-10-21",
       "url": "https://epicgames.com/"
     },
     {

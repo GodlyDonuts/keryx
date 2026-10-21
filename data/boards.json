@@ -8018,6 +8018,14 @@
     },
     {
       "ats": "oracle",
+      "company": "DP World",
+      "host": "ehpv.fa.em2.oraclecloud.com",
+      "key": "oracle:ehpv.fa.em2.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "ehpv"
+    },
+    {
+      "ats": "oracle",
       "company": "Resideo",
       "host": "ehtl.fa.us6.oraclecloud.com",
       "key": "oracle:ehtl.fa.us6.oraclecloud.com:cx",
@@ -12089,7 +12097,7 @@
       "company": "AVEVA",
       "host": "aveva.wd3.myworkdayjobs.com",
       "key": "workday:aveva.wd3.myworkdayjobs.com:aveva:aveva_careers",
-      "site": "AVEVA_careers",
+      "site": "aveva_careers",
       "slug": "aveva",
       "wd": "wd3"
     },
@@ -18983,7 +18991,7 @@
       "company": "Premier",
       "host": "premierinc.wd1.myworkdayjobs.com",
       "key": "workday:premierinc.wd1.myworkdayjobs.com:premierinc:external_professional",
-      "site": "External_Professional",
+      "site": "external_professional",
       "slug": "premierinc",
       "wd": "wd1"
     },
