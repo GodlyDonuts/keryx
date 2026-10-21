@@ -736,7 +736,7 @@
       "company": "Black & Veatch",
       "error": "public request failed for https://www.bv.com/en-US/Home: HTTP Error 404: Not Found",
       "key": "045274256e4fdb25278f972a",
-      "last_scanned": "2026-10-19",
+      "last_scanned": "2026-10-21",
       "url": "https://bv.com/Home"
     },
     {
@@ -1715,6 +1715,17 @@
       "url": "https://composio.dev/"
     },
     {
+      "boards": [
+        "workable:api",
+        "workable:shameless-foods"
+      ],
+      "company": "Shameless Foods",
+      "key": "09db59209eec912f66aa84d9",
+      "last_scanned": "2026-10-21",
+      "resolved_roles": 0,
+      "url": "https://eatshameless.com/"
+    },
+    {
       "boards": [],
       "company": "BLEND",
       "key": "09def7a43b0b745a018ace50",
@@ -1917,8 +1928,9 @@
     {
       "boards": [],
       "company": "MaineHealth",
+      "error": "public request failed for https://www.mainehealth.org/: HTTP Error 403: Forbidden",
       "key": "0b0a931d9b71f4c8c05a7565",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://mainehealth.org/"
     },
@@ -2086,6 +2098,14 @@
       "last_scanned": "2026-10-14",
       "resolved_roles": 0,
       "url": "https://alti-global.com/"
+    },
+    {
+      "boards": [],
+      "company": "Dev10",
+      "key": "0c46999f4ea5967b8e11addd",
+      "last_scanned": "2026-10-21",
+      "resolved_roles": 0,
+      "url": "https://www.dev-10.com/"
     },
     {
       "boards": [],
@@ -2651,7 +2671,7 @@
       "boards": [],
       "company": "California State University San Marcos",
       "key": "0f279e9935294430ac5b144b",
-      "last_scanned": "2026-09-30",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://csusm.edu/"
     },
@@ -5877,7 +5897,7 @@
       "boards": [],
       "company": "The Food Bank for Central & Northeast Missouri",
       "key": "2072f36bdcb3ce064b114a58",
-      "last_scanned": "2026-10-01",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://sharefoodbringhope.org/"
     },
@@ -6437,6 +6457,14 @@
     },
     {
       "boards": [],
+      "company": "Catalyst Power",
+      "key": "23a3e533bc1fb6512a487ff3",
+      "last_scanned": "2026-10-21",
+      "resolved_roles": 0,
+      "url": "https://catalystpower.com/"
+    },
+    {
+      "boards": [],
       "company": "Kestrel Yard",
       "key": "23a6c5ad5f9309d6d141f7ae",
       "last_scanned": "2026-10-13",
@@ -6617,6 +6645,16 @@
       "url": "https://www.rhimagnesita.com/"
     },
     {
+      "boards": [
+        "workday:ceritypartners.wd12.myworkdayjobs.com:ceritypartners:ceritypartnerscareers"
+      ],
+      "company": "Cerity Partners",
+      "key": "245a9f0d54b7f42d5bd0430b",
+      "last_scanned": "2026-10-21",
+      "resolved_roles": 0,
+      "url": "https://ceritypartners.com/"
+    },
+    {
       "boards": [],
       "company": "University of Nebraska at Omaha",
       "key": "2472b1fc1594d2fc1d689a3c",
@@ -6670,6 +6708,16 @@
       "last_scanned": "2026-09-17",
       "resolved_roles": 0,
       "url": "https://www.wfec.com/"
+    },
+    {
+      "boards": [
+        "workday:primetherapeutics.wd1.myworkdayjobs.com:primetherapeutics:primetherapeuticscareers"
+      ],
+      "company": "Prime Therapeutics",
+      "key": "24aaf5db176fb963d41cc4e2",
+      "last_scanned": "2026-10-21",
+      "resolved_roles": 0,
+      "url": "https://www.primetherapeutics.com/"
     },
     {
       "boards": [],
@@ -6906,7 +6954,7 @@
       "boards": [],
       "company": "Flatiron Construction",
       "key": "26b7505d781eb68bbac4f04b",
-      "last_scanned": "2026-09-23",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.flatironcorp.com/"
     },
@@ -7665,7 +7713,7 @@
       "company": "Fastenal",
       "error": "public request failed for https://www.fastenal.com/web/home: HTTP Error 403: Forbidden",
       "key": "2b0eceb392520de261c31913",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-10-21",
       "url": "https://www.fastenal.com/web/home"
     },
     {
@@ -7955,7 +8003,7 @@
       ],
       "company": "Graham Capital Management, L.P.",
       "key": "2c6dd0119a067571c8c983c4",
-      "last_scanned": "2026-10-07",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.grahamcapital.com/"
     },
@@ -8285,7 +8333,7 @@
       "company": "Chewy",
       "error": "public request failed for https://www.chewy.com/: HTTP Error 429: Too Many Requests",
       "key": "2def7651800388563e300806",
-      "last_scanned": "2026-10-20",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.chewy.com/"
     },
@@ -11235,7 +11283,7 @@
       "company": "Sigma Defense Systems LLC",
       "error": "public request failed for https://sigmadefense.com/: HTTP Error 403: Forbidden",
       "key": "3c7efded776a6bed34f6a659",
-      "last_scanned": "2026-10-13",
+      "last_scanned": "2026-10-21",
       "url": "https://sigmadefense.com/"
     },
     {
@@ -12797,7 +12845,7 @@
       "company": "The Aerospace Corporation",
       "error": "public request failed for https://www.aerospace.org/: HTTP Error 403: Forbidden",
       "key": "44befca86996326dc400b08f",
-      "last_scanned": "2026-10-08",
+      "last_scanned": "2026-10-21",
       "url": "https://www.aerospace.org/"
     },
     {
@@ -12849,7 +12897,7 @@
       ],
       "company": "Wellington Management",
       "key": "450f7067cd99d4510ab130a9",
-      "last_scanned": "2026-10-01",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://wellington.com/"
     },
@@ -14778,7 +14826,7 @@
       ],
       "company": "WSFS Bank",
       "key": "4ef197e230b08bac6a232ae9",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.wsfsbank.com/"
     },
@@ -15865,7 +15913,7 @@
       "boards": [],
       "company": "National Commission on Certification of Physician Assistants (NCCPA)",
       "key": "54a4b52356ec065a0fff12e2",
-      "last_scanned": "2026-09-15",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.nccpa.net/"
     },
@@ -16721,7 +16769,7 @@
       "boards": [],
       "company": "Dewberry",
       "key": "585f6aeac8de845b1e68b83f",
-      "last_scanned": "2026-09-09",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.dewberry.com/"
     },
@@ -17115,7 +17163,7 @@
       "company": "Stanley Black & Decker, Inc.",
       "error": "public request failed for https://www.stanleyblackanddecker.com/: HTTP Error 403: Forbidden",
       "key": "5acc625a815c258fc2f37a7e",
-      "last_scanned": "2026-10-15",
+      "last_scanned": "2026-10-21",
       "url": "https://www.stanleyblackanddecker.com/"
     },
     {
@@ -18623,7 +18671,7 @@
       "company": "E15 Group",
       "error": "public requests require HTTPS and a hostname",
       "key": "62dfdc001adfe5a817c40178",
-      "last_scanned": "2026-08-27",
+      "last_scanned": "2026-10-21",
       "url": "https://e15group.com/"
     },
     {
@@ -19306,7 +19354,7 @@
       "company": "SAP",
       "error": "public request failed for https://www.sap.com/: HTTP Error 403: Forbidden",
       "key": "66654736107967ac46480871",
-      "last_scanned": "2026-10-19",
+      "last_scanned": "2026-10-21",
       "url": "https://www.sap.com/"
     },
     {
@@ -19768,7 +19816,7 @@
       "boards": [],
       "company": "ICE",
       "key": "68481b77c54d570bb2a51529",
-      "last_scanned": "2026-10-07",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.ice.com/"
     },
@@ -19957,6 +20005,14 @@
       "last_scanned": "2026-08-19",
       "resolved_roles": 0,
       "url": "https://www.flex-n-gate.com/"
+    },
+    {
+      "boards": [],
+      "company": "FMX",
+      "key": "692cd7705602127623e88490",
+      "last_scanned": "2026-10-21",
+      "resolved_roles": 0,
+      "url": "https://www.gofmx.com/"
     },
     {
       "boards": [],
@@ -20792,8 +20848,8 @@
       "boards": [],
       "company": "CliquePrize - Local Giveaway Marketing for Small Businesses",
       "key": "6db5e355800d70b885a2b908",
-      "last_scanned": "2026-09-19",
-      "resolved_roles": 1,
+      "last_scanned": "2026-10-21",
+      "resolved_roles": 0,
       "url": "https://www.cliqueprize.com/"
     },
     {
@@ -21658,7 +21714,7 @@
       "boards": [],
       "company": "ICF",
       "key": "72cd6f8696738864f0572d04",
-      "last_scanned": "2026-10-14",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.icf.com/"
     },
@@ -22194,7 +22250,7 @@
       "boards": [],
       "company": "Interactive Brokers",
       "key": "759b2c02108d6a25e95a6e5a",
-      "last_scanned": "2026-08-22",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.interactivebrokers.com/en/home.php"
     },
@@ -24446,6 +24502,14 @@
     },
     {
       "boards": [],
+      "company": "Littler",
+      "key": "80d710aa73a9e1ca0e2dcab8",
+      "last_scanned": "2026-10-21",
+      "resolved_roles": 0,
+      "url": "https://www.littler.com/"
+    },
+    {
+      "boards": [],
       "company": "WebMD",
       "key": "80df553731cd65aadd4fb3dc",
       "last_scanned": "2026-10-15",
@@ -25973,7 +26037,7 @@
       "boards": [],
       "company": "Spiralyze",
       "key": "891aefe5bef32e75382aec4d",
-      "last_scanned": "2026-10-07",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://spiralyze.com/"
     },
@@ -28552,7 +28616,7 @@
       "company": "CAI",
       "error": "public request failed for https://cai.io/: HTTP Error 403: Forbidden",
       "key": "964b133fc642b220ea0175d9",
-      "last_scanned": "2026-10-13",
+      "last_scanned": "2026-10-21",
       "url": "https://cai.io/"
     },
     {
@@ -29417,6 +29481,14 @@
     },
     {
       "boards": [],
+      "company": "G3",
+      "key": "9bbd5e103beef354af36eb92",
+      "last_scanned": "2026-10-21",
+      "resolved_roles": 0,
+      "url": "https://g3translate.com/"
+    },
+    {
+      "boards": [],
       "company": "Dignity Health",
       "key": "9bce5a8d498933adf1e4bdff",
       "last_scanned": "2026-08-29",
@@ -29474,7 +29546,7 @@
       ],
       "company": "SciTec",
       "key": "9bfcc8aa5448dace21242c06",
-      "last_scanned": "2026-10-13",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://scitec.com/"
     },
@@ -32248,6 +32320,14 @@
     },
     {
       "boards": [],
+      "company": "Type One Energy",
+      "key": "a98bbd393f505504d39bc031",
+      "last_scanned": "2026-10-21",
+      "resolved_roles": 0,
+      "url": "https://www.typeoneenergy.com/"
+    },
+    {
+      "boards": [],
       "company": "Retrof\u00eate",
       "key": "a98e8372a1d9c6f29433670f",
       "last_scanned": "2026-10-14",
@@ -32454,7 +32534,7 @@
       "boards": [],
       "company": "Aon",
       "key": "aa9668652232c8e21ee7ff27",
-      "last_scanned": "2026-10-13",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.aon.com/"
     },
@@ -36374,6 +36454,13 @@
       "last_scanned": "2026-10-17",
       "resolved_roles": 0,
       "url": "https://www.twosigma.com/"
+    },
+    {
+      "company": "Etsy",
+      "error": "public request failed for https://www.etsy.com/: HTTP Error 403: Forbidden",
+      "key": "bfc328c769d020b3b0aec806",
+      "last_scanned": "2026-10-21",
+      "url": "https://www.etsy.com/"
     },
     {
       "boards": [],
@@ -41297,7 +41384,7 @@
       "boards": [],
       "company": "CTR Cryo",
       "key": "d75abd2f0b694718ee83fdb8",
-      "last_scanned": "2026-09-23",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.ctrcryo.com/"
     },
@@ -42315,7 +42402,7 @@
       "boards": [],
       "company": "Whataburger",
       "key": "dd4b640c9cf72810bd714a01",
-      "last_scanned": "2026-10-14",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.whataburger.com/"
     },
@@ -42407,6 +42494,13 @@
       "last_scanned": "2026-09-12",
       "resolved_roles": 0,
       "url": "https://whissle.ai/"
+    },
+    {
+      "company": "Yakima Chief Hops",
+      "error": "public hostname did not resolve: www.tene.in",
+      "key": "dde89ef9b61fa1c3224b97c7",
+      "last_scanned": "2026-10-21",
+      "url": "https://www.tene.in/"
     },
     {
       "boards": [],
@@ -43025,7 +43119,7 @@
       "company": "Tris Pharma",
       "error": "public redirect lacked a destination: https://trispharma.com/",
       "key": "e10b9280723958daf0fffc5a",
-      "last_scanned": "2026-09-17",
+      "last_scanned": "2026-10-21",
       "url": "https://trispharma.com/"
     },
     {
@@ -43316,6 +43410,14 @@
       "last_scanned": "2026-09-18",
       "resolved_roles": 0,
       "url": "https://deshazo.com/"
+    },
+    {
+      "boards": [],
+      "company": "Ralph L. Wadsworth Construction",
+      "key": "e2f70633da2ebeff25d2fa48",
+      "last_scanned": "2026-10-21",
+      "resolved_roles": 0,
+      "url": "https://www.wadsco.com/"
     },
     {
       "boards": [],
@@ -44185,8 +44287,9 @@
     {
       "boards": [],
       "company": "Yardi",
+      "error": "public request failed for https://www.yardi.com/: HTTP Error 403: Forbidden",
       "key": "e75de160003411315217bfbe",
-      "last_scanned": "2026-08-15",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://www.yardi.com/"
     },
@@ -45027,7 +45130,7 @@
       "boards": [],
       "company": "Disney Experiences",
       "key": "eb35da4a30e31ad829406bb6",
-      "last_scanned": "2026-09-22",
+      "last_scanned": "2026-10-21",
       "resolved_roles": 0,
       "url": "https://disneyconnect.com/"
     },
@@ -45822,6 +45925,14 @@
       "url": "https://www.knobelsdorffenterprises.com/"
     },
     {
+      "boards": [],
+      "company": "Wealthspire",
+      "key": "ef2fcde1035979e80551c41f",
+      "last_scanned": "2026-10-21",
+      "resolved_roles": 0,
+      "url": "https://www.wealthspire.com/"
+    },
+    {
       "boards": [
         "bamboohr:sedarotech"
       ],
@@ -46494,6 +46605,17 @@
       "last_scanned": "2026-10-20",
       "resolved_roles": 0,
       "url": "https://www.neiengineering.com/"
+    },
+    {
+      "boards": [
+        "bamboohr:lunitinternational",
+        "workable:lunit"
+      ],
+      "company": "Lunit Cancer Screening",
+      "key": "f27e0970959e8f731d34ba7a",
+      "last_scanned": "2026-10-21",
+      "resolved_roles": 0,
+      "url": "https://www.lunit.io/"
     },
     {
       "boards": [],
@@ -47686,7 +47808,7 @@
       "company": "Salas O'Brien",
       "error": "public request failed for https://salasobrien.com/about/: HTTP Error 404: Not Found",
       "key": "f9afbd9082e566faa78a1b13",
-      "last_scanned": "2026-10-01",
+      "last_scanned": "2026-10-21",
       "url": "https://www.salasobrien.com/about/"
     },
     {
@@ -48073,7 +48195,7 @@
       "company": "Marine Solutions, Inc.",
       "error": "public response exceeded 3145728 bytes",
       "key": "fc0029be067dfb9a4a353a2f",
-      "last_scanned": "2026-10-01",
+      "last_scanned": "2026-10-21",
       "url": "https://www.msimarinesolutions.com/"
     },
     {
