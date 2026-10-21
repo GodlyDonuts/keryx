@@ -13355,7 +13355,7 @@
     },
     {
       "ats": "workday",
-      "company": "Cincinnati Children\u2019s",
+      "company": "Cincinnati Children\u2019s Hospital and Medical Center",
       "host": "cincinnatichildrens.wd5.myworkdayjobs.com",
       "key": "workday:cincinnatichildrens.wd5.myworkdayjobs.com:cincinnatichildrens:careersatcincinnatichildrens",
       "site": "careersatcincinnatichildrens",
@@ -19227,6 +19227,15 @@
       "host": "rakuten.wd1.myworkdayjobs.com",
       "key": "workday:rakuten.wd1.myworkdayjobs.com:rakuten:rakutenamericas",
       "site": "RakutenAmericas",
+      "slug": "rakuten",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Rakuten International",
+      "host": "rakuten.wd1.myworkdayjobs.com",
+      "key": "workday:rakuten.wd1.myworkdayjobs.com:rakuten:rakutentv",
+      "site": "RakutenTV",
       "slug": "rakuten",
       "wd": "wd1"
     },
