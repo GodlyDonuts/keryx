@@ -556,7 +556,7 @@
       "ats": "ashby",
       "company": "Crusoe",
       "key": "ashby:crusoe",
-      "slug": "crusoe"
+      "slug": "Crusoe"
     },
     {
       "ats": "ashby",
@@ -1664,7 +1664,7 @@
     },
     {
       "ats": "ashby",
-      "company": "Pariveda Solutions",
+      "company": "Pariveda",
       "key": "ashby:pariveda",
       "slug": "pariveda"
     },
@@ -2782,6 +2782,13 @@
       "host": "powersandsons.bamboohr.com",
       "key": "bamboohr:powersandsons",
       "slug": "powersandsons"
+    },
+    {
+      "ats": "bamboohr",
+      "company": "Performance Software",
+      "host": "psware.bamboohr.com",
+      "key": "bamboohr:psware",
+      "slug": "psware"
     },
     {
       "ats": "bamboohr",
@@ -4350,6 +4357,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Grassroots Analytics",
+      "key": "greenhouse:grassrootsanalytics",
+      "slug": "grassrootsanalytics"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Gravitics Inc",
       "key": "greenhouse:graviticsinc",
       "slug": "graviticsinc"
@@ -5085,6 +5098,12 @@
       "company": "Nexight Group",
       "key": "greenhouse:nexightgroup",
       "slug": "nexightgroup"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Nexla",
+      "key": "greenhouse:nexla",
+      "slug": "nexla"
     },
     {
       "ats": "greenhouse",
@@ -7083,6 +7102,12 @@
       "company": "Patch My PC",
       "key": "lever:patchmypc",
       "slug": "patchmypc"
+    },
+    {
+      "ats": "lever",
+      "company": "Pattern",
+      "key": "lever:pattern",
+      "slug": "pattern"
     },
     {
       "ats": "lever",
@@ -9197,6 +9222,14 @@
       "key": "oracle:ibedqy.fa.ocs.oraclecloud.com:onegas-careers",
       "site": "ONEGas-Careers",
       "slug": "ibedqy"
+    },
+    {
+      "ats": "oracle",
+      "company": "Washington Metropolitan Area Transit Authority (WMATA)",
+      "host": "ibpbjb.fa.ocs.oraclecloud.com",
+      "key": "oracle:ibpbjb.fa.ocs.oraclecloud.com:cx_2011",
+      "site": "CX_2011",
+      "slug": "ibpbjb"
     },
     {
       "ats": "oracle",
@@ -11597,7 +11630,7 @@
     },
     {
       "ats": "workday",
-      "company": "Allstate",
+      "company": "Allstate Insurance Company",
       "host": "allstate.wd5.myworkdayjobs.com",
       "key": "workday:allstate.wd5.myworkdayjobs.com:allstate:sourcing_event",
       "site": "sourcing_event",
@@ -13292,7 +13325,7 @@
       "company": "CDK Global",
       "host": "cdk.wd1.myworkdayjobs.com",
       "key": "workday:cdk.wd1.myworkdayjobs.com:cdk:cdk",
-      "site": "cdk",
+      "site": "CDK",
       "slug": "cdk",
       "wd": "wd1"
     },
@@ -14054,6 +14087,15 @@
     },
     {
       "ats": "workday",
+      "company": "Crescent Energy",
+      "host": "crescentenergyco.wd108.myworkdayjobs.com",
+      "key": "workday:crescentenergyco.wd108.myworkdayjobs.com:crescentenergyco:crescent_energy_careers",
+      "site": "crescent_energy_careers",
+      "slug": "crescentenergyco",
+      "wd": "wd108"
+    },
+    {
+      "ats": "workday",
       "company": "Criteo",
       "host": "criteo.wd3.myworkdayjobs.com",
       "key": "workday:criteo.wd3.myworkdayjobs.com:criteo:criteo_career_site",
@@ -14156,7 +14198,7 @@
       "company": "CVS Health",
       "host": "cvshealth.wd1.myworkdayjobs.com",
       "key": "workday:cvshealth.wd1.myworkdayjobs.com:cvshealth:private_postings_intern_conversion_only",
-      "site": "private_postings_intern_conversion_only",
+      "site": "Private_Postings_Intern_Conversion_ONLY",
       "slug": "cvshealth",
       "wd": "wd1"
     },
@@ -15149,6 +15191,15 @@
       "site": "ext",
       "slug": "fiserv",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Flexera",
+      "host": "flexerasoftware.wd1.myworkdayjobs.com",
+      "key": "workday:flexerasoftware.wd1.myworkdayjobs.com:flexerasoftware:flexerasoftware",
+      "site": "FlexeraSoftware",
+      "slug": "flexerasoftware",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -16979,7 +17030,7 @@
     },
     {
       "ats": "workday",
-      "company": "Kion Group",
+      "company": "KION Group",
       "host": "kiongroup.wd3.myworkdayjobs.com",
       "key": "workday:kiongroup.wd3.myworkdayjobs.com:kiongroup:kiongroup",
       "site": "kiongroup",
@@ -18737,7 +18788,7 @@
       "company": "Amerisure",
       "host": "osv-amerisure.wd5.myworkdayjobs.com",
       "key": "workday:osv-amerisure.wd5.myworkdayjobs.com:osv-amerisure:amerisure",
-      "site": "Amerisure",
+      "site": "amerisure",
       "slug": "osv-amerisure",
       "wd": "wd5"
     },

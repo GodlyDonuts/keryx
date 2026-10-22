@@ -744,7 +744,7 @@
       "company": "Black & Veatch",
       "error": "public request failed for https://www.bv.com/en-US/Home: HTTP Error 404: Not Found",
       "key": "045274256e4fdb25278f972a",
-      "last_scanned": "2026-10-21",
+      "last_scanned": "2026-10-22",
       "url": "https://bv.com/Home"
     },
     {
@@ -2233,7 +2233,7 @@
       "boards": [],
       "company": "White Cap Canada",
       "key": "0cac864e978ef620dfaf83bb",
-      "last_scanned": "2026-10-15",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://www.whitecap.com/"
     },
@@ -2410,7 +2410,7 @@
       ],
       "company": "SWIVEL",
       "key": "0da9142b37fce450a75bdc4e",
-      "last_scanned": "2026-09-30",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://www.getswivel.io/"
     },
@@ -4567,6 +4567,14 @@
     },
     {
       "boards": [],
+      "company": "Delta Dental of Missouri",
+      "key": "198afa1cd033144878f87e52",
+      "last_scanned": "2026-10-22",
+      "resolved_roles": 0,
+      "url": "https://www.deltadentalmo.com/"
+    },
+    {
+      "boards": [],
       "company": "Skanska",
       "key": "1992e27c4b7126430c97f8f5",
       "last_scanned": "2026-10-20",
@@ -6656,7 +6664,7 @@
       "company": "MKS Inc.",
       "error": "Invalid IPv6 URL",
       "key": "2402c0a34e52eb5afe5f918e",
-      "last_scanned": "2026-10-20",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://www.mks.com/"
     },
@@ -9486,7 +9494,7 @@
       "boards": [],
       "company": "AFP Cuprum",
       "key": "3212ec17f31c11934727845b",
-      "last_scanned": "2026-09-14",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://www.cuprum.cl/"
     },
@@ -9999,6 +10007,13 @@
       "url": "https://www.zynga.com/"
     },
     {
+      "company": "KellyOCG",
+      "error": "public request failed for https://www.kellyocg.com/home/: HTTP Error 404: Not Found",
+      "key": "34f02a022be2bb5eb9142262",
+      "last_scanned": "2026-10-22",
+      "url": "https://www.kellyocg.com/home/"
+    },
+    {
       "boards": [],
       "company": "SageSure",
       "key": "34f325be9f0ec35a60433b0c",
@@ -10061,7 +10076,7 @@
       ],
       "company": "Momentive",
       "key": "3524b4769fc37b42841d499a",
-      "last_scanned": "2026-10-01",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://www.momentive.com/"
     },
@@ -10133,7 +10148,7 @@
       "boards": [],
       "company": "Hermeus",
       "key": "35a0f63c8f24449970e1b95b",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://www.hermeus.com/"
     },
@@ -13915,7 +13930,7 @@
       "boards": [],
       "company": "AcuityMD",
       "key": "499a3678bfbb88080469db59",
-      "last_scanned": "2026-10-15",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://acuity-md.com/"
     },
@@ -14199,10 +14214,12 @@
       "url": "https://commure.com/"
     },
     {
-      "boards": [],
+      "boards": [
+        "workday:cdk.wd1.myworkdayjobs.com:cdk:cdk"
+      ],
       "company": "CDK Global",
       "key": "4b37de0cbec464745802c308",
-      "last_scanned": "2026-08-31",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://www.cdkglobal.com/"
     },
@@ -14362,7 +14379,7 @@
       "company": "VivSoft",
       "error": "Invalid IPv6 URL",
       "key": "4bce8e39a3374dc2ea7bee96",
-      "last_scanned": "2026-10-15",
+      "last_scanned": "2026-10-22",
       "url": "https://www.vivsoft.io/"
     },
     {
@@ -15281,7 +15298,7 @@
       ],
       "company": "Nashville Music City Center",
       "key": "5037c19ea8688f543801d7fa",
-      "last_scanned": "2026-08-27",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://www.nashvillemusiccitycenter.com/"
     },
@@ -16749,7 +16766,7 @@
       "boards": [],
       "company": "Starcom",
       "key": "57d2ef3b8014cf062a5ba6df",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://www.starcomww.com/"
     },
@@ -17446,7 +17463,7 @@
       ],
       "company": "SWBC",
       "key": "5b527b946b3094d6c78c572a",
-      "last_scanned": "2026-09-30",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://www.swbc.com/"
     },
@@ -22918,7 +22935,7 @@
       ],
       "company": "Trinity Life Sciences",
       "key": "77858e188c14272c5d2467b2",
-      "last_scanned": "2026-10-13",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://trinitylifesciences.com/"
     },
@@ -24731,7 +24748,7 @@
       "boards": [],
       "company": "FDH Aero",
       "key": "80ae247536369eaa8df7128c",
-      "last_scanned": "2026-09-25",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://fdhaero.com/"
     },
@@ -25219,6 +25236,16 @@
       "last_scanned": "2026-09-04",
       "resolved_roles": 0,
       "url": "https://www.legrand.com/"
+    },
+    {
+      "boards": [
+        "oracle:ibpbjb.fa.ocs.oraclecloud.com:cx_2011"
+      ],
+      "company": "Washington Metropolitan Area Transit Authority (WMATA)",
+      "key": "83de9ed5bc78b79032a0a4c2",
+      "last_scanned": "2026-10-22",
+      "resolved_roles": 0,
+      "url": "https://www.wmata.com/"
     },
     {
       "boards": [],
@@ -25878,7 +25905,7 @@
       "boards": [],
       "company": "Leprino",
       "key": "8749ffc8ccc2103045498272",
-      "last_scanned": "2026-09-24",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://www.leprinofoods.com/"
     },
@@ -29580,9 +29607,9 @@
     },
     {
       "boards": [],
-      "company": "TRACTIAN",
+      "company": "Tractian",
       "key": "9a5a989a66ac79bc024564a1",
-      "last_scanned": "2026-10-02",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://tractian.com/"
     },
@@ -31446,7 +31473,7 @@
       "company": "Badger Meter",
       "error": "public request failed for https://www.badgermeter.com/: HTTP Error 403: Forbidden",
       "key": "a3523e4641668a90ae081856",
-      "last_scanned": "2026-10-20",
+      "last_scanned": "2026-10-22",
       "url": "https://badgermeter.com/"
     },
     {
@@ -31836,7 +31863,7 @@
       ],
       "company": "Commonwealth Fusion Systems",
       "key": "a54162c63ac31bde1dd27e70",
-      "last_scanned": "2026-10-15",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://www.cfs.energy/"
     },
@@ -32939,7 +32966,7 @@
       "company": "Safran Defense & Space, Inc.",
       "error": "public request failed for https://www.safran-dsi.com/: HTTP Error 403: Forbidden",
       "key": "aae6e05f7d1abf19a882caee",
-      "last_scanned": "2026-10-21",
+      "last_scanned": "2026-10-22",
       "url": "https://www.safran-dsi.com/"
     },
     {
@@ -33087,7 +33114,7 @@
       ],
       "company": "FNBO",
       "key": "abe16df252996af363269959",
-      "last_scanned": "2026-09-15",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://www.fnbo.com/"
     },
@@ -35523,7 +35550,7 @@
       "boards": [],
       "company": "Plexus Corp.",
       "key": "b8dda84e86ab4fa63c5290b3",
-      "last_scanned": "2026-10-08",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://www.plexus.com/"
     },
@@ -35647,6 +35674,14 @@
       "last_scanned": "2026-09-30",
       "resolved_roles": 0,
       "url": "https://quantumsignalai.com/"
+    },
+    {
+      "boards": [],
+      "company": "VALT Enterprizes, Inc.",
+      "key": "b9df307911b6cfad48aa7c31",
+      "last_scanned": "2026-10-22",
+      "resolved_roles": 0,
+      "url": "https://www.valt-ent.com/"
     },
     {
       "boards": [],
@@ -37838,7 +37873,7 @@
       "boards": [],
       "company": "Shure",
       "key": "c4d5a0bf9be2de1f374c496c",
-      "last_scanned": "2026-10-15",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://www.shure.com/"
     },
@@ -38992,7 +39027,7 @@
       "boards": [],
       "company": "Ingredion Incorporated",
       "key": "ca9f85eab87868b99a6b53ed",
-      "last_scanned": "2026-10-13",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://ingredion.com/"
     },
@@ -39041,7 +39076,7 @@
       "company": "Michigan Medicine",
       "error": "public request failed for https://www.uofmhealth.org/: HTTP Error 403: Forbidden",
       "key": "cae8ba12e6fff9d87adb501b",
-      "last_scanned": "2026-10-20",
+      "last_scanned": "2026-10-22",
       "url": "https://www.uofmhealth.org/"
     },
     {
@@ -39833,7 +39868,7 @@
       "company": "Solar Turbines",
       "error": "public request failed for https://www.solarturbines.com/: The read operation timed out",
       "key": "cea5c5bef940afaa674ce18f",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-22",
       "url": "https://www.solarturbines.com/"
     },
     {
@@ -40787,6 +40822,14 @@
     },
     {
       "boards": [],
+      "company": "UNC Health",
+      "key": "d2a09dad8ac4e0f1466a616f",
+      "last_scanned": "2026-10-22",
+      "resolved_roles": 0,
+      "url": "https://www.unchealth.org/"
+    },
+    {
+      "boards": [],
       "company": "Carolina Handling",
       "key": "d2a13391570f6870f5390cc1",
       "last_scanned": "2026-09-17",
@@ -41058,6 +41101,14 @@
       "last_scanned": "2026-10-15",
       "resolved_roles": 0,
       "url": "https://www.cwill.com/"
+    },
+    {
+      "boards": [],
+      "company": "LUMIBIRD : the specialist in laser technologies",
+      "key": "d3ba86860d60011aad3ab820",
+      "last_scanned": "2026-10-22",
+      "resolved_roles": 0,
+      "url": "https://www.lumibird.com/"
     },
     {
       "boards": [],
@@ -42242,7 +42293,7 @@
       "company": "Ahold Delhaize USA",
       "error": "public request failed for https://www.adusa.com/: HTTP Error 403: Forbidden",
       "key": "da23f789b7f957919fb3d324",
-      "last_scanned": "2026-10-13",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://www.adusa.com/"
     },
@@ -42445,7 +42496,7 @@
       "company": "Cystic Fibrosis Foundation",
       "error": "public request failed for https://www.cff.org/: HTTP Error 403: Forbidden",
       "key": "db27d792bc8daba4a4bc54ae",
-      "last_scanned": "2026-10-16",
+      "last_scanned": "2026-10-22",
       "url": "https://www.cff.org/"
     },
     {
@@ -43486,6 +43537,14 @@
       "last_scanned": "2026-10-07",
       "resolved_roles": 0,
       "url": "https://www.nyuhs.org/"
+    },
+    {
+      "boards": [],
+      "company": "OTC Industrial Technologies",
+      "key": "e1015dcced8e293be935b79c",
+      "last_scanned": "2026-10-22",
+      "resolved_roles": 0,
+      "url": "https://otcindustrial.com/"
     },
     {
       "boards": [],
@@ -44612,6 +44671,13 @@
       "url": "https://www.rti.org/"
     },
     {
+      "company": "David Yurman",
+      "error": "Invalid IPv6 URL",
+      "key": "e713ab47e86b5a7cc428612f",
+      "last_scanned": "2026-10-22",
+      "url": "https://www.davidyurman.com/"
+    },
+    {
       "boards": [],
       "company": "Providence Engineering",
       "key": "e7164c3419f62b16f4002d69",
@@ -44687,7 +44753,7 @@
       "company": "ServiceNow",
       "error": "public request failed for https://www.servicenow.com/: HTTP Error 403: Forbidden",
       "key": "e76619ad9660a1c181a33522",
-      "last_scanned": "2026-10-21",
+      "last_scanned": "2026-10-22",
       "url": "https://www.servicenow.com/"
     },
     {
@@ -45171,7 +45237,7 @@
       "company": "Port of Seattle",
       "error": "public request failed for https://www.portseattle.org/Pages/default.aspx: HTTP Error 404: Not Found",
       "key": "e9f6f06029a15a885474fd00",
-      "last_scanned": "2026-08-24",
+      "last_scanned": "2026-10-22",
       "url": "https://www.portseattle.org/Pages/default.aspx"
     },
     {
@@ -46405,7 +46471,7 @@
       "company": "Schneider Electric",
       "error": "Invalid IPv6 URL",
       "key": "efc63904d017ad3d103211de",
-      "last_scanned": "2026-10-20",
+      "last_scanned": "2026-10-22",
       "url": "https://www.se.com/"
     },
     {
@@ -47477,6 +47543,14 @@
     },
     {
       "boards": [],
+      "company": "Wilton Re",
+      "key": "f546cb4f1e1c14737964e6c6",
+      "last_scanned": "2026-10-22",
+      "resolved_roles": 0,
+      "url": "https://www.wiltonre.com/"
+    },
+    {
+      "boards": [],
       "company": "The Cadmus Group",
       "key": "f5471e9360add3a263b89110",
       "last_scanned": "2026-09-29",
@@ -48317,7 +48391,7 @@
       "boards": [],
       "company": "Electric Power Engineers",
       "key": "fa1ae7c3a0a527e18dec4a67",
-      "last_scanned": "2026-09-13",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://www.epeconsulting.com/"
     },
@@ -48345,6 +48419,14 @@
       "last_scanned": "2026-09-29",
       "resolved_roles": 0,
       "url": "https://www.jhlconstructors.com/"
+    },
+    {
+      "boards": [],
+      "company": "Citrin Cooperman",
+      "key": "fa79349c360ed748cda115fa",
+      "last_scanned": "2026-10-22",
+      "resolved_roles": 0,
+      "url": "https://www.citrincooperman.com/"
     },
     {
       "boards": [],
@@ -48869,7 +48951,7 @@
       ],
       "company": "Otis Elevator Co.",
       "key": "fd13cc9dc07c4fa16475c79c",
-      "last_scanned": "2026-10-13",
+      "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://www.otis.com/"
     },
