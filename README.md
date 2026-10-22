@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,097 internships · 5,092 new-grad roles · 15,189 total openings**
+**10,100 internships · 5,107 new-grad roles · 15,207 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,745 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 4,741 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 389 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 674 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 219 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,070 | **[View openings →](internships/unscheduled.md)** |
+| 🌱 Spring 2027 | 676 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 222 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 4,072 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,212 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,289 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,591 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,239 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,313 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,555 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| 1Password | Developer Intern, Data Security - Winter 2027 | Remote (United States / Canada) | Winter 2027 | not stated | 2026-10-22 | **[Apply →](https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1)**<br><sub>jobs.ashbyhq.com</sub> |
+| 1Password | Developer Intern, Extension Excellence - Winter 2027 | Remote (United States / Canada) | Winter 2027 | not stated | 2026-10-22 | **[Apply →](https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491)**<br><sub>jobs.ashbyhq.com</sub> |
+| 1Password | Developer Intern, Front-End Platform - Winter 2027 | Remote (United States / Canada) | Winter 2027 | not stated | 2026-10-22 | **[Apply →](https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37)**<br><sub>jobs.ashbyhq.com</sub> |
+| 1Password | Developer Intern, Machine Identity - Winter 2027 | Remote (United States / Canada) | Winter 2027 | not stated | 2026-10-22 | **[Apply →](https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f)**<br><sub>jobs.ashbyhq.com</sub> |
+| 1Password | Developer Intern, Provisioning - Winter 2027 | Remote (United States / Canada) | Winter 2027 | not stated | 2026-10-22 | **[Apply →](https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9)**<br><sub>jobs.ashbyhq.com</sub> |
+| 1Password | Developer Intern, Vault Team - Winter 2027 | Remote (United States / Canada) | Winter 2027 | not stated | 2026-10-22 | **[Apply →](https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779)**<br><sub>jobs.ashbyhq.com</sub> |
+| 1Password | Security Intern, Threat Operations - Winter 2027 | Remote (United States / Canada) | Winter 2027 | not stated | 2026-10-22 | **[Apply →](https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847)**<br><sub>jobs.ashbyhq.com</sub> |
+| AbbVie | 2027 Project Engineering Co-op (Jan - July) (Undergraduate) | Worcester, MA, us | Not listed | not available | 2026-10-22 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990016344757)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AbbVie | 2027 Validation Engineer Co-Op (July - Dec) (Undergraduate) | Worcester, MA, us | Not listed | not available | 2026-10-22 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990016346156)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AbbVie | 2027 Validation Engineering Co-Op (Jan-July) (Undergraduate) | Worcester, MA, us | Not listed | not available | 2026-10-22 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990016344666)**<br><sub>jobs.smartrecruiters.com</sub> |
 | Aptiv | Software Development Intern | Troy, MI - USA | Not listed | not available | 2026-10-22 | **[Apply →](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861)**<br><sub>aptiv.wd5.myworkdayjobs.com</sub> |
-| International Rescue Committee | Development Data and Research Intern | Silver Spring, MD | Spring 2027 | not available | 2026-10-22 | **[Apply →](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Silver-Spring-MD-USA/Development-Data-and-Research-Intern----Spring2027-_JR00005497)**<br><sub>theirc.wd1.myworkdayjobs.com</sub> |
-| OpenArt AI | Strategy & Market Intelligence Intern (MBA) | San Carlos, California, USA | Not listed | Current student status<br><sub>stated</sub> | 2026-10-22 | **[Apply →](https://jobs.ashbyhq.com/openart/b71c3048-5216-49b1-aabf-d5b605da53bd)**<br><sub>jobs.ashbyhq.com</sub> |
-| Red Hat | Software Engineer Intern | Raleigh, NC +2 | Not listed | not available | 2026-10-22 | **[Apply →](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Raleigh/Software-Engineer-Intern_R-059038)**<br><sub>redhat.wd5.myworkdayjobs.com</sub> |
-| RTX | Software Engineering Intern (Summer 2027) | US-CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77 | Summer 2027 | not available | 2026-10-22 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
-| Skydio | Hardware Test and Reliability Intern - Summer 2027 | San Mateo, CA | Summer 2027 | not available | 2026-10-22 | **[Apply →](https://jobs.ashbyhq.com/skydio/36d75e36-eeb2-4399-8887-37c4a5ff5800/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Solstice Advanced Materials | Intern Bachelors Engineering | Metropolis, IL, United States | Not listed | Current student status<br><sub>stated</sub> | 2026-10-22 | **[Apply →](https://ibzdjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SolsticeAdvancedMaterials/job/108083)**<br><sub>ibzdjb.fa.ocs.oraclecloud.com</sub> |
-| Solstice Advanced Materials | Intern Bachelors Engineering | Spokane, WA, United States | Not listed | Current student status<br><sub>stated</sub> | 2026-10-22 | **[Apply →](https://ibzdjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SolsticeAdvancedMaterials/job/108076)**<br><sub>ibzdjb.fa.ocs.oraclecloud.com</sub> |
-| Tesla | Internship - Electrical Engineer - Embedded Systems & Test Engineering - Supply Chain - Winter/Spring 2027 | Palo Alto, CA, Fremont, CA | Spring 2027 | not available | 2026-10-22 | **[Apply →](https://www.tesla.com/careers/search/job/287407)**<br><sub>www.tesla.com</sub> |
-| TikTok | Software Engineer Intern - TikTok Search Data Infra - 2027 Fall | San Jose, CA | Not listed | not available | 2026-10-22 | **[Apply →](https://lifeattiktok.com/search/7675129440242010421)**<br><sub>lifeattiktok.com</sub> |
-| Uline | Software Developer Intern | Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, WI, Kenosha, WI | Summer 2027 | not available | 2026-10-22 | **[Apply →](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537)**<br><sub>uline.wd1.myworkdayjobs.com</sub> |
-| WSP | Structural Engineering Intern - Summer 2027 | San Diego, CA, United States | Summer 2027 | Aug 2027 or later<br><sub>required / stated</sub> | 2026-10-22 | **[Apply →](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98073)**<br><sub>emit.fa.ca3.oraclecloud.com</sub> |
+| Atoms | ML/AI Research Internship - PhD | San Francisco, CA | Not listed | Current student status<br><sub>stated</sub> | 2026-10-22 | **[Apply →](https://job-boards.greenhouse.io/cssmerge/jobs/8909115002)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -67,9 +67,9 @@ Recent full-time opportunities that open the employer's application page directl
 | Draper | Software Machine Learning Engineer - GNSS - Software Defined Radio | Cambridge, MA | Not listed | not available | 2026-10-22 | **[Apply →](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Mach-Learn-Engr--GNSS--Software-Defined-Radio-_JR003064)**<br><sub>draper.wd5.myworkdayjobs.com</sub> |
 | Mayo Clinic | Associate Data Science Analyst | Jacksonville, FL | Not listed | not available | 2026-10-22 | **[Apply →](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394007)**<br><sub>fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 | N1 Health | Associate Data Ops Engineer | Boston, MA | Not listed | not available | 2026-10-22 | **[Apply →](https://jobs.lever.co/algorex/cf93bbb8-6b46-430b-8554-6fab5aa8e719/apply)**<br><sub>jobs.lever.co</sub> |
+| Notion | Software Engineer - New Grad - Dec 2026 | San Francisco, CA | 2026 | Dec 2026–Feb 2027<br><sub>required / stated</sub> | 2026-10-22 | **[Apply →](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816)**<br><sub>jobs.ashbyhq.com</sub> |
 | Oracle | February 2027 - Undergrad Software Engineer - Oracle Cloud Infrastructure - OCI - Nashville - TN | Nashville, TN | 2027 | not available | 2026-10-22 | **[Apply →](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/346357)**<br><sub>careers.oracle.com</sub> |
 | Red Hat | Associate Software Engineer | Raleigh, NC +2 | 2027 | not available | 2026-10-22 | **[Apply →](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Raleigh/Associate-Software-Engineer_R-059573)**<br><sub>redhat.wd5.myworkdayjobs.com</sub> |
-| Trusted Concepts, Inc. | Junior Software Developer | Aurora, CO, United States | 2026 | not available | 2026-10-22 | **[Apply →](https://twosixtech.com/job/?gh_jid=5838068004)**<br><sub>twosixtech.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

@@ -2491,6 +2491,12 @@
       "slug": "zuru"
     },
     {
+      "ats": "ashby",
+      "company": "Zus Health",
+      "key": "ashby:zus-health",
+      "slug": "zus-health"
+    },
+    {
       "ats": "bamboohr",
       "company": "Ace Electric, Inc",
       "host": "aceelectric.bamboohr.com",
@@ -10478,6 +10484,12 @@
     },
     {
       "ats": "workable",
+      "company": "EnerMech",
+      "key": "workable:enermech",
+      "slug": "enermech"
+    },
+    {
+      "ats": "workable",
       "company": "ENFOS",
       "key": "workable:enfos-inc",
       "slug": "enfos-inc"
@@ -10868,7 +10880,7 @@
     },
     {
       "ats": "workable",
-      "company": "Scientific Systems",
+      "company": "Scientific Systems Company",
       "key": "workable:ssci",
       "slug": "ssci"
     },
@@ -12620,6 +12632,15 @@
     },
     {
       "ats": "workday",
+      "company": "Bloomberg Industry Group",
+      "host": "bloomberg.wd1.myworkdayjobs.com",
+      "key": "workday:bloomberg.wd1.myworkdayjobs.com:bloomberg:bloombergindustrygroup_external_career_site",
+      "site": "bloombergindustrygroup_external_career_site",
+      "slug": "bloomberg",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Blue Origin",
       "host": "blueorigin.wd5.myworkdayjobs.com",
       "key": "workday:blueorigin.wd5.myworkdayjobs.com:blueorigin:blueorigin",
@@ -13390,6 +13411,15 @@
       "key": "workday:chevron.wd5.myworkdayjobs.com:chevron:university",
       "site": "University",
       "slug": "chevron",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Chewy",
+      "host": "chewy.wd5.myworkdayjobs.com",
+      "key": "workday:chewy.wd5.myworkdayjobs.com:chewy:external",
+      "site": "external",
+      "slug": "chewy",
       "wd": "wd5"
     },
     {
@@ -15434,6 +15464,15 @@
       "site": "Careers_GM",
       "slug": "generalmotors",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Genesys",
+      "host": "genesys.wd1.myworkdayjobs.com",
+      "key": "workday:genesys.wd1.myworkdayjobs.com:genesys:2_genesys_jobs",
+      "site": "2_genesys_jobs",
+      "slug": "genesys",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -17777,7 +17816,7 @@
     },
     {
       "ats": "workday",
-      "company": "MiTek",
+      "company": "Mii",
       "host": "mii.wd5.myworkdayjobs.com",
       "key": "workday:mii.wd5.myworkdayjobs.com:mii:universityrecruiting",
       "site": "universityrecruiting",
@@ -18791,6 +18830,15 @@
       "site": "OMCareers",
       "slug": "owensminor",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Tommy Bahama",
+      "host": "oxford.wd5.myworkdayjobs.com",
+      "key": "workday:oxford.wd5.myworkdayjobs.com:oxford:tommybahamaus",
+      "site": "tommybahamaus",
+      "slug": "oxford",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
