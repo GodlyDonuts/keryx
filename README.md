@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,432 internships · 5,198 new-grad roles · 15,630 total openings**
+**10,492 internships · 5,210 new-grad roles · 15,702 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
 | ☀️ Summer 2027 | 4,926 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 368 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 694 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 232 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,212 | **[View openings →](internships/unscheduled.md)** |
+| 🍂 Fall 2026 | 365 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 690 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 233 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 4,278 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,176 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,477 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,545 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,189 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,488 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,533 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -48,7 +48,7 @@ Recent internship and co-op listings that open the employer's application page d
 | AMD | Masters AI Training Software & Performance Co-op | San Jose, CA | Summer 2027 | not available | 2026-10-28 | **[Apply →](https://careers.amd.com/jobs/93476?icims=1)**<br><sub>careers.amd.com</sub> |
 | American Family Insurance Group | Talent Analytics Intern | Madison, WI | Summer 2027 | not available | 2026-10-28 | **[Apply →](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Talent-Analytics_R39669-2)**<br><sub>amfam.wd1.myworkdayjobs.com</sub> |
 | Analog Devices | Embedded Software Engineer Intern | Wilmington, MA +2 | Not listed | not available | 2026-10-28 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
-| Applied Materials | 2027 Spring Structural Dynamics Analyst Co-op - BS or MS (Gloucester, MA) | Gloucester,MA | Spring 2027 | not available | 2026-10-28 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Structural-Dynamics-Analyst-Co-op---BS-or-MS--Gloucester--MA-_R2629885)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
+| Apple Bank | 2027 Summer Intern- IT Data, Analytics, & Automation | New York, NY | Summer 2027 | not available | 2026-10-28 | **[Apply →](https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--IT-Data--Analytics----Automation_2026-1414)**<br><sub>applebank.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,6 +58,7 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Affirm | Software Engineer - Early Career - NYC | New York City, NY | 2027 | not stated | 2026-10-28 | **[Apply →](https://job-boards.greenhouse.io/affirm/jobs/8008649003)**<br><sub>job-boards.greenhouse.io</sub> |
 | Amazon | Software Developer Engineer - Product Knowledge Store | Seattle, WA, United States | Not listed | not available | 2026-10-28 | **[Apply →](https://amazon.jobs/en/jobs/10590471/software-dev-engineer-product-knowledge-store)**<br><sub>amazon.jobs</sub> |
 | Amazon | Software Development Engineer | Newark, NJ | 2027 | not available | 2026-10-28 | **[Apply →](https://www.amazon.jobs/jobs/10566605/apply)**<br><sub>www.amazon.jobs</sub> |
 | AMD | Distributed Systems Software Engineer - Collectives | Austin, TX, San Jose, CA | 2026 | not available | 2026-10-28 | **[Apply →](https://careers.amd.com/jobs/93894?icims=1)**<br><sub>careers.amd.com</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Barclays | Full Stack Developer | Hanover, NJ | Not listed | not available | 2026-10-28 | **[Apply →](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Full-Stack-Developer_JR-0000098421-1)**<br><sub>barclays.wd3.myworkdayjobs.com</sub> |
 | Booz Allen | Business and Data Analyst | Chantilly, VA, Herndon, VA | Not listed | not available | 2026-10-28 | **[Apply →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Herndon-VA/Business-and-Data-Analyst_R0252518)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
 | Cambridge Mobile Telematics | Software Engineer, Cloud | Cambridge, MA | 2026 | not available | 2026-10-28 | **[Apply →](https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=8331436)**<br><sub>www.cmtelematics.com</sub> |
-| CharterUP | Data Analyst | Atlanta, GA | 2026 | not available | 2026-10-28 | **[Apply →](https://job-boards.greenhouse.io/charterup/jobs/5466377008)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
