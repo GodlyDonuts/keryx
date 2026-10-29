@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,341 internships · 5,195 new-grad roles · 15,536 total openings**
+**10,381 internships · 5,243 new-grad roles · 15,624 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,871 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 358 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 687 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 4,839 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 370 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 694 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 230 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,195 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 4,248 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,171 | **[View openings →](new-grad/2027.md)** |
+| 2027 | 1,194 | **[View openings →](new-grad/2027.md)** |
 | 2026 | 1,465 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,559 | **[View openings →](new-grad/unscheduled.md)** |
+| Year not listed | 2,584 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Base Power | Power Systems Engineering Intern | Austin, TX | Not listed | Current student status<br><sub>stated</sub> | 2026-10-29 | **[Apply →](https://jobs.ashbyhq.com/base-power/8397f115-7806-4911-a12b-6231852c3443)**<br><sub>jobs.ashbyhq.com</sub> |
 | Bass Pro Shops | Product Development Intern Summer 2027 | Springfield, MO (Bass Pro Shops Base Camp) | Summer 2027 | not available | 2026-10-29 | **[Apply →](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Product-Development-Intern-Summer-2027_R267451)**<br><sub>basspro.wd1.myworkdayjobs.com</sub> |
+| BDO USA | Assurance Intern, Technology Risk Assurance – Summer 2027 (New York) | New York, NY, United States | Summer 2027 | not stated | 2026-10-29 | **[Apply →](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOExperiencedCareers/job/14411)**<br><sub>ebqb.fa.us2.oraclecloud.com</sub> |
+| BDO USA | Assurance Intern, Technology Risk Assurance – Summer 2027 (New York) | New York, NY, United States | Summer 2027 | not stated | 2026-10-29 | **[Apply →](https://ebqb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BDOEntryLevelCareers/job/14411)**<br><sub>ebqb.fa.us2.oraclecloud.com</sub> |
+| Bee Sweet Citrus, Inc. | Data Processing Intern | Fowler, California, United States | Not listed | not available | 2026-10-29 | **[Apply →](https://beesweetcitrus.applytojob.com/apply/MMbyNj6r3a/Data-Processing-Intern)**<br><sub>beesweetcitrus.applytojob.com</sub> |
+| Bose | Embedded Software Engineer Co-op - Audio Tech | Massachusetts, USA +4 | Not listed | not available | 2026-10-29 | **[Apply →](https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Embedded-Software-Engineer-Co-op----Audio-Tech_R29278)**<br><sub>boseallaboutme.wd503.myworkdayjobs.com</sub> |
 | Boston Scientific | AI Solutions Engineering Intern | Arden Hills, MN | Summer 2027 | not available | 2026-10-29 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813547675)**<br><sub>bostonscientific.eightfold.ai</sub> |
+| CACI | Software Engineering Co-op/Intern - Spring 2027 | Rochester, NY, US | Spring 2027 | not available | 2026-10-29 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
+| CACI | Systems Engineering Co-op/Intern - Spring 2027 | Rochester, NY, US | Spring 2027 | not available | 2026-10-29 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Systems-Engineering-Co-op-Intern---Spring-2027_334157)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
 | Clearwater Analytics | Software Development Intern | Boise, ID | Not listed | not available | 2026-10-29 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Boise/Software-Development-Intern_R12098)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
-| Clearwater Analytics | Software Development Intern | Chicago, IL | Not listed | not available | 2026-10-29 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12188)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
-| DRW | Software Developer Intern | Chicago, IL | Not listed | not available | 2026-10-29 | **[Apply →](https://job-boards.greenhouse.io/drweng/jobs/7992936)**<br><sub>job-boards.greenhouse.io</sub> |
-| General Mills | Internship - Digital & Technology Associate | Minneapolis, MN | Not listed | not available | 2026-10-29 | **[Apply →](https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Internship---Digital---Technology-Associate_10128716)**<br><sub>genmills.wd1.myworkdayjobs.com</sub> |
-| General Mills | Internship - Research & Development Engineer | Minneapolis, MN | Not listed | not available | 2026-10-29 | **[Apply →](https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Internship---Research---Development-Engineer_10128710)**<br><sub>genmills.wd1.myworkdayjobs.com</sub> |
-| General Mills | Internship - Research & Development Packaging Engineer | Minneapolis, MN | Not listed | not available | 2026-10-29 | **[Apply →](https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Minneapolis-MN/Internship---Research---Development-Packaging-Engineer_10128711)**<br><sub>genmills.wd1.myworkdayjobs.com</sub> |
-| KLA | Software Engineer Intern | Milpitas, CA | Not listed | not available | 2026-10-29 | **[Apply →](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721)**<br><sub>kla.wd1.myworkdayjobs.com</sub> |
-| KLA | Software Engineer Intern | Milpitas, CA | Not listed | not available | 2026-10-29 | **[Apply →](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1)**<br><sub>kla.wd1.myworkdayjobs.com</sub> |
-| OATEY | IT Infrastructure Systems Intern | Cleveland, OH (Headquarters) | Not listed | not available | 2026-10-29 | **[Apply →](https://wd5.myworkdaysite.com/Oatey_External_/job/Cleveland-OH-Headquarters/IT-Infrastructure-Systems-Intern_R7190)**<br><sub>wd5.myworkdaysite.com</sub> |
-| Tesla | Data Engineer Intern - Energy | Palo Alto, CA | Summer 2027 | not available | 2026-10-29 | **[Apply →](https://www.tesla.com/careers/search/job/287982)**<br><sub>www.tesla.com</sub> |
+| Clearwater Analytics | Software Development Intern | Chicago, IL | Not listed | not available | 2026-10-29 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12186)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
+| Dow Jones | Summer 2027 Internship Program – Product Strategy Intern | New York City | Summer 2027 | not available | 2026-10-29 | **[Apply →](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/New-York-City/Summer-2027-Internship-Program---Product-Strategy-Intern_Job_Req_55317)**<br><sub>dowjones.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| KLA | System Software Engineer - Distributed Computing | Milpitas, CA | Not listed | not available | 2026-10-29 | **[Apply →](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720)**<br><sub>kla.wd1.myworkdayjobs.com</sub> |
-| KLA Corporation | System Software Engineer - Distributed Computing | Milpitas, CA | Not listed | not available | 2026-10-29 | **[Apply →](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720-1)**<br><sub>kla.wd1.myworkdayjobs.com</sub> |
+| Analog Devices | Associate Test Engineer | Austin, TX, San Jose, CA, Canada, United States | Not listed | not available | 2026-10-29 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Associate-Test-Engineer_R268237)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
+| Anton Paar | Hardware Test Engineer | Boynton Beach, FL | Not listed | not available | 2026-10-29 | **[Apply →](https://jobs.smartrecruiters.com/AntonPaar1/744000158512881)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Cisco | Data Science Analyst 1 | San Jose, CA | Not listed | not available | 2026-10-29 | **[Apply →](https://careers.cisco.com/global/en/job/2028889)**<br><sub>careers.cisco.com</sub> |
+| Dell Technologies | Test Engineer 1 | Franklin, MA | Not listed | not available | 2026-10-29 | **[Apply →](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/296584)**<br><sub>iawmqy.fa.ocs.oraclecloud.com</sub> |
+| Dell Technologies | Test Engineer 1 | Franklin, MA | Not listed | not available | 2026-10-29 | **[Apply →](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/296581)**<br><sub>iawmqy.fa.ocs.oraclecloud.com</sub> |
+| KLA | System Software Engineer - Distributed Computing | Milpitas, CA | 2027 | not available | 2026-10-29 | **[Apply →](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720)**<br><sub>kla.wd1.myworkdayjobs.com</sub> |
+| KLA Corporation | System Software Engineer - Distributed Computing | Milpitas, CA | 2027 | not available | 2026-10-29 | **[Apply →](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720-1)**<br><sub>kla.wd1.myworkdayjobs.com</sub> |
+| North South Consulting Group, LLC | Jr. Salesforce Developer | Elizabethtown, KY, United States | 2026 | not available | 2026-10-29 | **[Apply →](https://northsouthconsultinggroup.applytojob.com/apply/HYYWDrn992/Jr-Salesforce-Developer)**<br><sub>northsouthconsultinggroup.applytojob.com</sub> |
+| RTX | Software Security Engineer 1 | El Segundo, CA | Not listed | not available | 2026-10-29 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Security-Engineer-I_01885443)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
 | Tesla | Data Collection Operator - Optimus | Littleton, CO | Not listed | not available | 2026-10-29 | **[Apply →](https://www.tesla.com/careers/search/job/287960)**<br><sub>www.tesla.com</sub> |
+| Thoughtworks | Software Developer New Grad | Chicago, IL | Not listed | not available | 2026-10-29 | **[Apply →](https://www.thoughtworks.com/careers/jobs/8333235?gh_jid=8333235)**<br><sub>www.thoughtworks.com</sub> |
 | TikTok | Backend Engineer Graduate - Account - 2027 Start | San Jose, CA | 2027 | not available | 2026-10-29 | **[Apply →](https://lifeattiktok.com/search/7696779797359233333)**<br><sub>lifeattiktok.com</sub> |
-| Zenlayer | Associate Cloud / Network Support Engineer — New Graduate WELCOME! | Diamond Bar, California | 2026 | not stated | 2026-10-29 | **[Apply →](https://zenlayer.bamboohr.com/careers/432/)**<br><sub>zenlayer.bamboohr.com</sub> |
-| Affirm | Software Engineer - Early Career - NYC | New York City, NY | 2027 | not stated | 2026-10-28 | **[Apply →](https://job-boards.greenhouse.io/affirm/jobs/8008649003)**<br><sub>job-boards.greenhouse.io</sub> |
-| Amazon | Software Developer Engineer - Product Knowledge Store | Seattle, WA, United States | Not listed | not available | 2026-10-28 | **[Apply →](https://amazon.jobs/en/jobs/10590471/software-dev-engineer-product-knowledge-store)**<br><sub>amazon.jobs</sub> |
-| Amazon | Software Development Engineer | Newark, NJ | 2027 | not available | 2026-10-28 | **[Apply →](https://www.amazon.jobs/jobs/10566605/apply)**<br><sub>www.amazon.jobs</sub> |
-| AMD | Distributed Systems Software Engineer - Collectives | Austin, TX, San Jose, CA | 2026 | not available | 2026-10-28 | **[Apply →](https://careers.amd.com/jobs/93894?icims=1)**<br><sub>careers.amd.com</sub> |
-| AMERICAN SYSTEMS | Java Developer l | Lakewood, CO | 2027 | not available | 2026-10-28 | **[Apply →](https://careers-americansystems.icims.com/jobs/4686/java-developer-l/job)**<br><sub>careers-americansystems.icims.com</sub> |
-| Apple | Custom CAD Engineer | San Diego, CA | Not listed | not available | 2026-10-28 | **[Apply →](https://jobs.apple.com/en-us/details/200691947)**<br><sub>jobs.apple.com</sub> |
-| Apple | Physical Design Methodology CAD Engineer | Austin, TX, Santa Clara, CA, Cupertino, CA | Not listed | not available | 2026-10-28 | **[Apply →](https://jobs.apple.com/en-us/details/200692170)**<br><sub>jobs.apple.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
