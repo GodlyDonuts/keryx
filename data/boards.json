@@ -580,7 +580,7 @@
       "ats": "ashby",
       "company": "Crusoe",
       "key": "ashby:crusoe",
-      "slug": "Crusoe"
+      "slug": "crusoe"
     },
     {
       "ats": "ashby",
@@ -1172,6 +1172,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Isembard",
+      "key": "ashby:isembard",
+      "slug": "isembard"
+    },
+    {
+      "ats": "ashby",
       "company": "Jerry",
       "key": "ashby:jerry.ai",
       "slug": "jerry.ai"
@@ -1535,6 +1541,12 @@
       "company": "Newxel",
       "key": "ashby:newxel",
       "slug": "newxel"
+    },
+    {
+      "ats": "ashby",
+      "company": "NextToken",
+      "key": "ashby:nexttoken",
+      "slug": "nexttoken"
     },
     {
       "ats": "ashby",
@@ -5430,6 +5442,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Network Bio",
+      "key": "greenhouse:networkbio",
+      "slug": "networkbio"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Neuralink",
       "key": "greenhouse:neuralink",
       "slug": "neuralink"
@@ -5493,6 +5511,12 @@
       "company": "New York ISO",
       "key": "greenhouse:nyisocoops",
       "slug": "nyisocoops"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "New York ISO",
+      "key": "greenhouse:nyisointernships",
+      "slug": "nyisointernships"
     },
     {
       "ats": "greenhouse",
@@ -6204,6 +6228,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Star Mountain Capital",
+      "key": "greenhouse:starmountaincapital",
+      "slug": "starmountaincapital"
+    },
+    {
+      "ats": "greenhouse",
       "company": "StarTree",
       "key": "greenhouse:startree",
       "slug": "startree"
@@ -6519,6 +6549,12 @@
       "company": "UJET",
       "key": "greenhouse:ujet",
       "slug": "ujet"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Noble Machines",
+      "key": "greenhouse:undercontrolroboticsinc",
+      "slug": "undercontrolroboticsinc"
     },
     {
       "ats": "greenhouse",
@@ -7821,6 +7857,12 @@
       "company": "SteerBridge",
       "key": "lever:steerbridge",
       "slug": "steerbridge"
+    },
+    {
+      "ats": "lever",
+      "company": "Strada Education Foundation",
+      "key": "lever:stradaeducation",
+      "slug": "stradaeducation"
     },
     {
       "ats": "lever",
@@ -9564,6 +9606,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Molina Healthcare",
+      "host": "hckd.fa.us2.oraclecloud.com",
+      "key": "oracle:hckd.fa.us2.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "hckd"
+    },
+    {
+      "ats": "oracle",
       "company": "Intertek",
       "host": "hcog.fa.em2.oraclecloud.com",
       "key": "oracle:hcog.fa.em2.oraclecloud.com:cx_1",
@@ -10505,6 +10555,12 @@
       "company": "Proximate Technologies",
       "key": "smartrecruiters:proximatetechnologiesinc1",
       "slug": "ProximateTechnologiesInc1"
+    },
+    {
+      "ats": "smartrecruiters",
+      "company": "Pyrotek",
+      "key": "smartrecruiters:pyrotek3",
+      "slug": "Pyrotek3"
     },
     {
       "ats": "smartrecruiters",
@@ -12977,6 +13033,15 @@
       "site": "external",
       "slug": "avnet",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Allied World",
+      "host": "awac.wd108.myworkdayjobs.com",
+      "key": "workday:awac.wd108.myworkdayjobs.com:awac:alliedworld_careers",
+      "site": "AlliedWorld_Careers",
+      "slug": "awac",
+      "wd": "wd108"
     },
     {
       "ats": "workday",
@@ -17075,6 +17140,15 @@
     },
     {
       "ats": "workday",
+      "company": "Hyster-Yale Materials Handling",
+      "host": "hysteryale.wd1.myworkdayjobs.com",
+      "key": "workday:hysteryale.wd1.myworkdayjobs.com:hysteryale:hyster-yalecareers",
+      "site": "hyster-yalecareers",
+      "slug": "hysteryale",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Hy-Vee, Inc.",
       "host": "hyvee.wd1.myworkdayjobs.com",
       "key": "workday:hyvee.wd1.myworkdayjobs.com:hyvee:ddfoodscareers",
@@ -18938,7 +19012,7 @@
     },
     {
       "ats": "workday",
-      "company": "MUFG",
+      "company": "Mitsubishi UFG",
       "host": "mufgub.wd3.myworkdayjobs.com",
       "key": "workday:mufgub.wd3.myworkdayjobs.com:mufgub:mufg-careers",
       "site": "mufg-careers",
@@ -21692,6 +21766,33 @@
     },
     {
       "ats": "workday",
+      "company": "Stout",
+      "host": "stout.wd5.myworkdayjobs.com",
+      "key": "workday:stout.wd5.myworkdayjobs.com:stout:stout-careers",
+      "site": "Stout-Careers",
+      "slug": "stout",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Stout",
+      "host": "stout.wd5.myworkdayjobs.com",
+      "key": "workday:stout.wd5.myworkdayjobs.com:stout:stout-experienced-careers",
+      "site": "Stout-Experienced-Careers",
+      "slug": "stout",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Stout",
+      "host": "stout.wd5.myworkdayjobs.com",
+      "key": "workday:stout.wd5.myworkdayjobs.com:stout:stout-student-careers",
+      "site": "Stout-Student-Careers",
+      "slug": "stout",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Simpson Strong-Tie",
       "host": "strongtie.wd1.myworkdayjobs.com",
       "key": "workday:strongtie.wd1.myworkdayjobs.com:strongtie:external",
@@ -22525,6 +22626,15 @@
       "key": "workday:toyota.wd503.myworkdayjobs.com:toyota:tmna_professional",
       "site": "tmna_professional",
       "slug": "toyota",
+      "wd": "wd503"
+    },
+    {
+      "ats": "workday",
+      "company": "TP-Link Systems Inc.",
+      "host": "tplink.wd503.myworkdayjobs.com",
+      "key": "workday:tplink.wd503.myworkdayjobs.com:tplink:external",
+      "site": "External",
+      "slug": "tplink",
       "wd": "wd503"
     },
     {
