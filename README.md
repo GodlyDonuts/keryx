@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,384 internships · 5,223 new-grad roles · 15,607 total openings**
+**10,363 internships · 5,242 new-grad roles · 15,605 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,867 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 366 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 693 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 4,842 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 363 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 688 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 230 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,228 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 4,240 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,170 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,452 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,601 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,172 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,456 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,614 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -58,6 +58,8 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Microsoft | Firmware Engineer | Redmond, WA, Mountain View, CA | Not listed | not available | 2026-10-30 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393557039426)**<br><sub>apply.careers.microsoft.com</sub> |
+| Verizon Communications | Engineer 1 - Systems Engineering (Generative AI & Agentic Systems) | Temple Terrace, FL | Not listed | not available | 2026-10-30 | **[Apply →](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I-Systems-Engineering_R-1103177-1)**<br><sub>verizon.wd12.myworkdayjobs.com</sub> |
 | Allegion | Software Systems Engineer | Indianapolis, IN | Not listed | not available | 2026-10-29 | **[Apply →](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Software-Systems-Engineer---Indianapolis--IN_JR38122)**<br><sub>allegion.wd5.myworkdayjobs.com</sub> |
 | Amazon | Software Development Engineer | Cupertino, CA | Not listed | not available | 2026-10-29 | **[Apply →](https://amazon.jobs/en/jobs/10592066/software-development-engineer)**<br><sub>amazon.jobs</sub> |
 | Amazon | Software Privacy Engineer - Multiple Teams | Bellevue, WA | Not listed | not available | 2026-10-29 | **[Apply →](https://amazon.jobs/en/jobs/10592045/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa)**<br><sub>amazon.jobs</sub> |
@@ -68,8 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Argonne National Laboratory | Robotics Software Developer Postbaccalaureate Appointee - Rapid Prototyping Laboratory | Lemont, IL | Not listed | not available | 2026-10-29 | **[Apply →](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postbaccalaureate-Appointee---Robotics-Software-Developer--Rapid-Prototyping-Laboratory_423629-1)**<br><sub>argonne.wd1.myworkdayjobs.com</sub> |
 | Axon | 2026 AfroTech Software Engineer | Boston, MA +4 | 2026 | not available | 2026-10-29 | **[Apply →](https://job-boards.greenhouse.io/axontalentcommunity/jobs/8010994003)**<br><sub>job-boards.greenhouse.io</sub> |
 | Bass Pro Shops | Product Specialist Apparel | Springfield, MO | Not listed | not available | 2026-10-29 | **[Apply →](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Product-Specialist-Apparel_R271531)**<br><sub>basspro.wd1.myworkdayjobs.com</sub> |
-| Boeing | Associate Software Engineer | Huntsville, AL | 2027 | not available | 2026-10-29 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Huntsville-AL/Associate-Software-Engineer_JR2026525135-2)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
-| Booz Allen | Data Scientist | Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA | Not listed | not available | 2026-10-29 | **[Apply →](https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Data-Scientist_R0252604)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
