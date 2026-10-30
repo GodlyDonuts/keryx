@@ -490,7 +490,7 @@
       "ats": "ashby",
       "company": "Coinflow",
       "key": "ashby:coinflow",
-      "slug": "Coinflow"
+      "slug": "coinflow"
     },
     {
       "ats": "ashby",
@@ -1666,7 +1666,7 @@
       "ats": "ashby",
       "company": "Ontic",
       "key": "ashby:ontic",
-      "slug": "Ontic"
+      "slug": "ontic"
     },
     {
       "ats": "ashby",
@@ -2336,6 +2336,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Teamworks",
+      "key": "ashby:teamworks",
+      "slug": "teamworks"
+    },
+    {
+      "ats": "ashby",
       "company": "Teleskope",
       "key": "ashby:teleskope",
       "slug": "teleskope"
@@ -2770,6 +2776,13 @@
       "host": "elephantinsurance.bamboohr.com",
       "key": "bamboohr:elephantinsurance",
       "slug": "elephantinsurance"
+    },
+    {
+      "ats": "bamboohr",
+      "company": "Essex General Construction, Inc.",
+      "host": "essexgc.bamboohr.com",
+      "key": "bamboohr:essexgc",
+      "slug": "essexgc"
     },
     {
       "ats": "bamboohr",
@@ -7715,7 +7728,7 @@
     },
     {
       "ats": "lever",
-      "company": "Rover",
+      "company": "Rover.com",
       "key": "lever:rover",
       "slug": "rover"
     },
@@ -12160,7 +12173,7 @@
       "company": "Alation",
       "host": "alation.wd503.myworkdayjobs.com",
       "key": "workday:alation.wd503.myworkdayjobs.com:alation:externalsite",
-      "site": "ExternalSite",
+      "site": "externalsite",
       "slug": "alation",
       "wd": "wd503"
     },
@@ -18795,6 +18808,15 @@
       "key": "workday:moog.wd5.myworkdayjobs.com:moog:moog_external_career_site",
       "site": "moog_external_career_site",
       "slug": "moog",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Morningstar",
+      "host": "morningstar.wd5.myworkdayjobs.com",
+      "key": "workday:morningstar.wd5.myworkdayjobs.com:morningstar:confidential",
+      "site": "confidential",
+      "slug": "morningstar",
       "wd": "wd5"
     },
     {
