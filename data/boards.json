@@ -3180,7 +3180,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "Invisible Technologies",
+      "company": "Invisible Technologies AI",
       "key": "greenhouse:agency",
       "slug": "agency"
     },
@@ -3483,6 +3483,12 @@
       "company": "Ecommerce Guide",
       "key": "greenhouse:attentive",
       "slug": "attentive"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Atto Trading",
+      "key": "greenhouse:attotrading",
+      "slug": "attotrading"
     },
     {
       "ats": "greenhouse",
@@ -7293,6 +7299,12 @@
       "company": "FinQuery",
       "key": "lever:finquery",
       "slug": "finquery"
+    },
+    {
+      "ats": "lever",
+      "company": "Firework",
+      "key": "lever:fireworkhq",
+      "slug": "fireworkhq"
     },
     {
       "ats": "lever",
@@ -22986,6 +22998,15 @@
       "key": "workday:umd.wd1.myworkdayjobs.com:umd:umcp",
       "site": "UMCP",
       "slug": "umd",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "University of Miami",
+      "host": "umiami.wd1.myworkdayjobs.com",
+      "key": "workday:umiami.wd1.myworkdayjobs.com:umiami:umcareerstaff",
+      "site": "UMCareerStaff",
+      "slug": "umiami",
       "wd": "wd1"
     },
     {
