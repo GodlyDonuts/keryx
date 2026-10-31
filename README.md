@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,329 internships · 5,211 new-grad roles · 15,540 total openings**
+**10,324 internships · 5,181 new-grad roles · 15,505 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,823 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 4,831 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 340 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 713 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 234 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,219 | **[View openings →](internships/unscheduled.md)** |
+| 🌱 Spring 2027 | 712 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 232 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 4,209 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,196 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,423 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,592 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,163 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,429 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,589 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -39,6 +39,8 @@ Recent internship and co-op listings that open the employer's application page d
 |---|---|---|---|---|---:|---|
 | Air Products | Summer Intern- IT/Digital Technology (2027) | Allentown, Pennsylvania | Not listed | not available | 2026-10-31 | **[Apply →](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT-Digital-Technology--2027-_JR-2026-21953)**<br><sub>airproducts.wd5.myworkdayjobs.com</sub> |
 | Antares Nuclear | Government Affairs Intern | DC | Not listed | Current student status<br><sub>stated</sub> | 2026-10-31 | **[Apply →](https://jobs.ashbyhq.com/Antares/0ba5a72f-35b5-451e-b05a-8f96c9d3101e)**<br><sub>jobs.ashbyhq.com</sub> |
+| Applied Materials | 2026 Process Engineer Co-op - Adv Degree (Gloucester, MA) | Gloucester,MA | Not listed | not available | 2026-10-31 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Process-Engineer-Co-op---Adv-Degree--Gloucester--MA-_R2623409)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
+| BlackRock | 2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco | San Francisco, CA | Not listed | not available | 2026-10-31 | **[Apply →](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476)**<br><sub>blackrock.wd1.myworkdayjobs.com</sub> |
 | Danaher | Software Engineering Intern | Vista, CA | Not listed | not available | 2026-10-31 | **[Apply →](https://danaher.wd1.myworkdayjobs.com/en-US/danaherjobs/job/Vista-California-United-States/Software-Engineering-Intern_R1315719)**<br><sub>danaher.wd1.myworkdayjobs.com</sub> |
 | Docusign | Software Engineer Intern | Seattle, WA | Not listed | not available | 2026-10-31 | **[Apply →](https://uscareers-docusign.icims.com/jobs/30597/software-engineer-intern/job)**<br><sub>uscareers-docusign.icims.com</sub> |
 | Docusign | Software Engineer Intern | Chicago, IL | Not listed | not available | 2026-10-31 | **[Apply →](https://uscareers-docusign.icims.com/jobs/30470/software-engineer-intern/job)**<br><sub>uscareers-docusign.icims.com</sub> |
@@ -47,8 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | Health Care Service | Early Careers - Security Data Classification Intern | TX - Richardson | Not listed | not available | 2026-10-31 | **[Apply →](https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/TX---Richardson/Early-Careers---Security-Data-Classification-Intern_R0059513)**<br><sub>hcsc.wd1.myworkdayjobs.com</sub> |
 | Health Care Service | Early Careers - Security Engineering Senior Intern | TX - Richardson | Not listed | not available | 2026-10-31 | **[Apply →](https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/TX---Richardson/Early-Careers---Security-Engineering-Senior-Intern_R0059512)**<br><sub>hcsc.wd1.myworkdayjobs.com</sub> |
 | Lennox | AI-Enabled Full-Stack Software Engineering Intern | Richardson, TX | Not listed | not available | 2026-10-31 | **[Apply →](https://uscareers-lennox.icims.com/jobs/54888/ai-enabled-full-stack-software-engineering-intern/job)**<br><sub>uscareers-lennox.icims.com</sub> |
-| Lennox | Cloud Advance Admin/Developer Intern | Richardson, TX | Not listed | not available | 2026-10-31 | **[Apply →](https://uscareers-lennox.icims.com/jobs/54891/cloud-advance-admin-developer-intern/job)**<br><sub>uscareers-lennox.icims.com</sub> |
-| Palantir | Finance Operator Intern | New York, NY | Not listed | Summer 2027 or later<br><sub>required</sub> | 2026-10-31 | **[Apply →](https://jobs.lever.co/palantir/bd7766c4-6aea-4b37-8d47-a8864bb9bd69)**<br><sub>jobs.lever.co</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links

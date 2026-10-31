@@ -784,7 +784,7 @@
       "company": "Black & Veatch",
       "error": "public request failed for https://www.bv.com/en-US/Home: HTTP Error 404: Not Found",
       "key": "045274256e4fdb25278f972a",
-      "last_scanned": "2026-10-22",
+      "last_scanned": "2026-10-31",
       "url": "https://bv.com/Home"
     },
     {
@@ -14263,6 +14263,16 @@
       "url": "https://www.healthresearch.org/"
     },
     {
+      "boards": [
+        "ashby:lumin-digital"
+      ],
+      "company": "Lumin Digital",
+      "key": "47f2cbade0b3dbcab8c3a77a",
+      "last_scanned": "2026-10-31",
+      "resolved_roles": 0,
+      "url": "https://lumindigital.com/"
+    },
+    {
       "boards": [],
       "company": "The Marzetti Company",
       "key": "47ff9aa151b60bd0bde750fb",
@@ -17270,6 +17280,14 @@
     },
     {
       "boards": [],
+      "company": "Economy Polymers & Chemicals",
+      "key": "5627d96f3b48ac9a73103136",
+      "last_scanned": "2026-10-31",
+      "resolved_roles": 0,
+      "url": "https://economypolymers.com/"
+    },
+    {
+      "boards": [],
       "company": "Automation Anywhere",
       "key": "56296c999fd3a1b6388d7246",
       "last_scanned": "2026-10-09",
@@ -18584,7 +18602,7 @@
       "company": "Pacific Life",
       "error": "Invalid IPv6 URL",
       "key": "5c4e966237a2d52abb7168fc",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-31",
       "url": "https://www.pacificlife.com/"
     },
     {
@@ -18662,7 +18680,7 @@
       "company": "OpenEye",
       "error": "public requests require HTTPS and a hostname",
       "key": "5ca701b5ae8bd3b948c1b77f",
-      "last_scanned": "2026-10-16",
+      "last_scanned": "2026-10-31",
       "url": "https://openeye.net/"
     },
     {
@@ -20420,7 +20438,7 @@
       "boards": [],
       "company": "Invesco",
       "key": "66062ab713177d31f18e16bf",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.invesco.com/"
     },
@@ -30569,7 +30587,7 @@
       "boards": [],
       "company": "Applied Concepts, Inc.",
       "key": "970c3cee418aacf36e2f0320",
-      "last_scanned": "2026-09-04",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.stalkerradar.com/"
     },
@@ -34948,7 +34966,7 @@
       "boards": [],
       "company": "MPR Associates, Inc.",
       "key": "ac397e6be1cf9391271f742e",
-      "last_scanned": "2026-10-15",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.mpr.com/"
     },
@@ -37150,6 +37168,14 @@
       "url": "https://www.rincon.com/"
     },
     {
+      "boards": [],
+      "company": "Arango",
+      "key": "b77cb230d073a41c992d2ae1",
+      "last_scanned": "2026-10-31",
+      "resolved_roles": 0,
+      "url": "https://arango.ai/"
+    },
+    {
       "boards": [
         "oracle:icfcjb.fa.ocs.oraclecloud.com:aerospace"
       ],
@@ -37224,7 +37250,7 @@
       "boards": [],
       "company": "Lam Research",
       "key": "b7dfaf71220fd37125f1a150",
-      "last_scanned": "2026-10-17",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.lamresearch.com/"
     },
@@ -39527,7 +39553,7 @@
       "boards": [],
       "company": "Onto Innovation",
       "key": "c336b7be79f125a8d2c3d216",
-      "last_scanned": "2026-10-15",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.ontoinnovation.com/"
     },
@@ -43818,7 +43844,7 @@
       "boards": [],
       "company": "Sargent & Lundy",
       "key": "d6c23319757e699a5c075aa9",
-      "last_scanned": "2026-10-17",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.sargentlundy.com/"
     },
@@ -48996,7 +49022,7 @@
       ],
       "company": "STV",
       "key": "f0429d0b17d1648d60d607b7",
-      "last_scanned": "2026-10-15",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.stvinc.com/"
     },
