@@ -1416,7 +1416,7 @@
       "company": "Johnson & Johnson MedTech",
       "error": "public request failed for https://www.jnjmedtech.com/en-US: HTTP Error 403: Forbidden",
       "key": "07267150fcd5a80aa624febb",
-      "last_scanned": "2026-10-22",
+      "last_scanned": "2026-10-31",
       "url": "https://www.jnjmedtech.com/en-US"
     },
     {
@@ -4676,7 +4676,7 @@
       "boards": [],
       "company": "Milliman",
       "key": "18ad1214311c0d253d3db2e0",
-      "last_scanned": "2026-10-20",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.milliman.com/"
     },
@@ -8508,7 +8508,7 @@
       "company": "Air Products",
       "error": "public request failed for https://www.airproducts.com/: HTTP Error 403: Forbidden",
       "key": "2c75477d3554390644d82d02",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-31",
       "url": "https://www.airproducts.com/"
     },
     {
@@ -12327,6 +12327,13 @@
       "url": "https://comagine.org/"
     },
     {
+      "company": "Coloplast",
+      "error": "public request failed for https://www.coloplast.com/: HTTP Error 403: Forbidden",
+      "key": "3e9663194bd7e869dd0490bc",
+      "last_scanned": "2026-10-31",
+      "url": "https://www.coloplast.com/"
+    },
+    {
       "boards": [],
       "company": "Maesa",
       "key": "3ea76feb27e82107eb2eb0b9",
@@ -13490,7 +13497,7 @@
       "boards": [],
       "company": "Bowman Consulting",
       "key": "4433059ec968ee6c69f24480",
-      "last_scanned": "2026-10-19",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://bowman.com/"
     },
@@ -17036,7 +17043,7 @@
       "boards": [],
       "company": "Dayton Freight Lines, Inc.",
       "key": "55452373d93c985b39b82df6",
-      "last_scanned": "2026-10-16",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.daytonfreight.com/"
     },
@@ -19705,7 +19712,7 @@
       ],
       "company": "Sundt Construction",
       "key": "6275644e0fd184678cf7b5c6",
-      "last_scanned": "2026-10-15",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.sundt.com/foundation"
     },
@@ -20115,7 +20122,7 @@
       "boards": [],
       "company": "Talcott Financial Group",
       "key": "649b7c8e7a230f59b4fc2d36",
-      "last_scanned": "2026-10-07",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://talcott.com/"
     },
@@ -20757,7 +20764,7 @@
       "boards": [],
       "company": "SOCOTEC",
       "key": "6758f6fe4e168514e3723e07",
-      "last_scanned": "2026-10-14",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.socotec.com/"
     },
@@ -22267,7 +22274,7 @@
       ],
       "company": "STR",
       "key": "6ebac429f171135740f67921",
-      "last_scanned": "2026-10-19",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 1,
       "url": "https://www.str.us/"
     },
@@ -22603,7 +22610,7 @@
       "boards": [],
       "company": "Haggar Clothing Co.",
       "key": "70a4f5956453b44a843f0991",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.haggar.com/"
     },
@@ -24137,7 +24144,7 @@
       ],
       "company": "Architecture49 Inc.",
       "key": "77bc53a3d120066b3495ec5b",
-      "last_scanned": "2026-10-14",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://architecture49.com/en/"
     },
@@ -24422,7 +24429,7 @@
       ],
       "company": "Flex",
       "key": "794cddf6cef6a571efa464b6",
-      "last_scanned": "2026-10-21",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://flex.com/"
     },
@@ -24808,6 +24815,16 @@
     },
     {
       "boards": [
+        "workday:pinnacle.wd1.myworkdayjobs.com:pinnacle:pinnacle"
+      ],
+      "company": "Pinnacle",
+      "key": "7af63fcd2b7a0fb11b0b57e0",
+      "last_scanned": "2026-10-31",
+      "resolved_roles": 0,
+      "url": "https://pinnaclereliability.com/"
+    },
+    {
+      "boards": [
         "bamboohr:zenlayer"
       ],
       "company": "Zenlayer",
@@ -25004,7 +25021,7 @@
       "company": "PC Construction Company",
       "error": "public request failed for https://pcconstruction.com/: HTTP Error 403: Forbidden",
       "key": "7bccb8464cfda9d59e7171a0",
-      "last_scanned": "2026-10-29",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://pcconstruction.com/"
     },
@@ -26766,7 +26783,7 @@
       "boards": [],
       "company": "Wolverine Trading",
       "key": "84f82ccce2ba6775c77ae149",
-      "last_scanned": "2026-10-16",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.wolve.com/"
     },
@@ -26910,7 +26927,7 @@
       ],
       "company": "Lazard",
       "key": "858a1b484a1335d3cf171b12",
-      "last_scanned": "2026-10-16",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.lazard.com/"
     },
@@ -28236,7 +28253,7 @@
       "boards": [],
       "company": "VTG",
       "key": "8b720391ed899b5d72e817b9",
-      "last_scanned": "2026-10-19",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.vtg.com/"
     },
@@ -28252,7 +28269,7 @@
       "company": "Marathon Petroleum Corporation",
       "error": "public request failed for https://www.marathonpetroleum.com/: HTTP Error 403: Forbidden",
       "key": "8b96c5fecf4a8c25a350411f",
-      "last_scanned": "2026-10-22",
+      "last_scanned": "2026-10-31",
       "url": "https://www.marathonpetroleum.com/"
     },
     {
@@ -30042,7 +30059,7 @@
       "company": "Armadin",
       "error": "public request failed for https://www.armadin.com/: HTTP Error 403: Forbidden",
       "key": "9462d1b7d8d043eb6267747a",
-      "last_scanned": "2026-10-15",
+      "last_scanned": "2026-10-31",
       "url": "https://www.armadin.com/"
     },
     {
@@ -33483,7 +33500,7 @@
       "boards": [],
       "company": "GCM Grosvenor",
       "key": "a4f89037e4ad882950ed2ffc",
-      "last_scanned": "2026-10-16",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.gcmgrosvenor.com/"
     },
@@ -33898,7 +33915,7 @@
       "boards": [],
       "company": "Teledyne Brown Engineering",
       "key": "a6e8b9571cebb9657ae4bd38",
-      "last_scanned": "2026-10-03",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.tbe.com/"
     },
@@ -34894,7 +34911,7 @@
       "boards": [],
       "company": "TikTok USDS Joint Venture",
       "key": "ac1af92ed1d2e62377c4b93e",
-      "last_scanned": "2026-10-21",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://usdsjv.tiktok.com/"
     },
@@ -36546,7 +36563,7 @@
       "company": "Phoenix Contact USA",
       "error": "public request failed for https://www.phoenixcontact.com/en-us/: HTTP Error 403: Forbidden",
       "key": "b4ac14ada647731cc5239ee8",
-      "last_scanned": "2026-10-11",
+      "last_scanned": "2026-10-31",
       "url": "https://www.phoenixcontact.com/en-us/"
     },
     {
@@ -36784,7 +36801,7 @@
       "boards": [],
       "company": "Realm Alliance",
       "key": "b5c8d14c961c360857befe06",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.realmalliance.com/"
     },
@@ -36981,7 +36998,7 @@
       "boards": [],
       "company": "CESO, INC.",
       "key": "b6dbc3b62e25ac839f06a374",
-      "last_scanned": "2026-09-18",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://cesoinc.com/"
     },
@@ -37125,7 +37142,7 @@
       ],
       "company": "Honeywell Aerospace",
       "key": "b78265621b04acc175ec0f76",
-      "last_scanned": "2026-10-21",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.honeywellaerospace.com/"
     },
@@ -39389,7 +39406,7 @@
       ],
       "company": "Acron Aviation",
       "key": "c2b6b9104dd797c47f77fde9",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://acronaviation.com/"
     },
@@ -41394,7 +41411,7 @@
       "boards": [],
       "company": "LJA",
       "key": "cc0bee59813b25dacebf61e0",
-      "last_scanned": "2026-10-21",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.lja.com/"
     },
@@ -41781,7 +41798,7 @@
       "company": "WSP in the U.S.",
       "error": "public request failed for https://www.wsp.com/en-us: HTTP Error 403: Forbidden",
       "key": "ce26e2f6b0157eb94cc09fde",
-      "last_scanned": "2026-10-30",
+      "last_scanned": "2026-10-31",
       "url": "https://www.wsp.com/en-us"
     },
     {
@@ -43486,7 +43503,7 @@
       "boards": [],
       "company": "Central Insurance",
       "key": "d55113b4a5d0d221c14969c6",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.central-insurance.com/"
     },
@@ -43603,7 +43620,7 @@
       "boards": [],
       "company": "Wella Company",
       "key": "d5ec010ba7e8c43244209b18",
-      "last_scanned": "2026-09-18",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.wellacompany.com/"
     },
@@ -44440,7 +44457,7 @@
       "boards": [],
       "company": "Mott MacDonald",
       "key": "da123dd2c7202f98e668a26b",
-      "last_scanned": "2026-10-20",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.mottmac.com/hungary"
     },
@@ -45491,7 +45508,7 @@
       "boards": [],
       "company": "Gemini",
       "key": "df457dd0fe9d1b11c1474f4c",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://gemini.com/"
     },
@@ -45687,7 +45704,7 @@
       "boards": [],
       "company": "McKim & Creed, Inc.",
       "key": "e04787c2ae4f8fe7cb3e1188",
-      "last_scanned": "2026-10-17",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://mckimcreed.com/"
     },
@@ -45835,7 +45852,7 @@
       "company": "Parker Hannifin",
       "error": "public request failed for https://www.parker.com/: HTTP Error 403: Forbidden",
       "key": "e119a7f6379a58ca0c779bf4",
-      "last_scanned": "2026-10-22",
+      "last_scanned": "2026-10-31",
       "url": "https://www.parker.com/"
     },
     {
@@ -50560,7 +50577,7 @@
       ],
       "company": "TreeHouse Foods",
       "key": "f865d2a2699c2501c97060d3",
-      "last_scanned": "2026-10-16",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://treehousefoods.com/"
     },
@@ -50957,7 +50974,7 @@
       "boards": [],
       "company": "Celestica",
       "key": "fade0577769425e39d8030b6",
-      "last_scanned": "2026-10-18",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.celestica.com/"
     },
