@@ -817,7 +817,7 @@
       "boards": [],
       "company": "Marvin",
       "key": "04630bf878294c16cd14869c",
-      "last_scanned": "2026-10-17",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.marvin.com/"
     },
@@ -1390,7 +1390,7 @@
       "boards": [],
       "company": "AQR Capital Management",
       "key": "070bfea3282b9a298fe9237e",
-      "last_scanned": "2026-10-22",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.aqr.com/"
     },
@@ -3634,7 +3634,7 @@
       "boards": [],
       "company": "KPFF Consulting Engineers",
       "key": "1323ec853bdfcae16ed7d877",
-      "last_scanned": "2026-10-16",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.kpff.com/"
     },
@@ -4774,7 +4774,7 @@
       "boards": [],
       "company": "Skanska",
       "key": "1992e27c4b7126430c97f8f5",
-      "last_scanned": "2026-10-20",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://skanska.com/"
     },
@@ -7752,7 +7752,7 @@
       "boards": [],
       "company": "FlatironDragados",
       "key": "2871d631964ddca82ed3257f",
-      "last_scanned": "2026-10-18",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.fdcorp.com/"
     },
@@ -9403,7 +9403,7 @@
       ],
       "company": "Brown & Brown",
       "key": "3004d336351b874e56944f7f",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://pac-res.com/"
     },
@@ -10474,7 +10474,7 @@
       "boards": [],
       "company": "SageSure",
       "key": "34f325be9f0ec35a60433b0c",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.sagesure.com/"
     },
@@ -11165,7 +11165,7 @@
       ],
       "company": "Charter Steel",
       "key": "385299934be93f94321c3e84",
-      "last_scanned": "2026-10-19",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.chartersteel.com/"
     },
@@ -17980,6 +17980,16 @@
       "url": "https://www.midlandcredit.com/"
     },
     {
+      "boards": [
+        "ashby:pocket"
+      ],
+      "company": "Pocket (YC W26)",
+      "key": "59aa3b0506e8877c73fa24d7",
+      "last_scanned": "2026-10-31",
+      "resolved_roles": 0,
+      "url": "https://heypocket.com/"
+    },
+    {
       "boards": [],
       "company": "Modern Technology Solutions, Inc. (MTSI)",
       "key": "59b3ff9a954d52b36164c27f",
@@ -20154,7 +20164,7 @@
       "boards": [],
       "company": "Partly",
       "key": "64d5e10cffbaf912730eaacb",
-      "last_scanned": "2026-10-22",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.partly.com/"
     },
@@ -21152,7 +21162,7 @@
       ],
       "company": "Magna International",
       "key": "68fac9ab696490d168347de6",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.magna.com/"
     },
@@ -22238,10 +22248,13 @@
       "url": "https://pgventuresstudio.com/"
     },
     {
+      "boards": [
+        "workday:winlandfoods.wd1.myworkdayjobs.com:winlandfoods:external"
+      ],
       "company": "Winland Foods",
-      "error": "public request failed for https://winlandfoods.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)>",
       "key": "6e79ebaa56ea3dc29aa13532",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-31",
+      "resolved_roles": 0,
       "url": "https://winlandfoods.com/"
     },
     {
@@ -24581,7 +24594,7 @@
       "boards": [],
       "company": "Key Capture Energy",
       "key": "79fc148c0f549ee67f22b27d",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.keycaptureenergy.com/"
     },
@@ -27627,7 +27640,7 @@
       ],
       "company": "Zekelman Industries",
       "key": "88d8773b8f26ddf439cd6d6e",
-      "last_scanned": "2026-10-22",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.zekelman.com/"
     },
@@ -27677,7 +27690,7 @@
       "boards": [],
       "company": "Aether Field",
       "key": "891c01bcf25ab854b39e1c26",
-      "last_scanned": "2026-10-12",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.linkedin.com/company/108607800"
     },
@@ -29402,7 +29415,7 @@
       "boards": [],
       "company": "Commerce Bank",
       "key": "911cef481b95a5b8e0e08c56",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.commercebank.com/"
     },
@@ -29563,7 +29576,7 @@
       "boards": [],
       "company": "Papa Johns",
       "key": "91d7cab724e4582d154fc700",
-      "last_scanned": "2026-10-09",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.papajohns.com/"
     },
@@ -29717,7 +29730,7 @@
       "boards": [],
       "company": "Greater New York Insurance Companies",
       "key": "92c2cae7519389a6c531c3f9",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.gny.com/"
     },
@@ -29873,7 +29886,7 @@
       "boards": [],
       "company": "Aegon",
       "key": "934a7326f2ee350d9d9c37c5",
-      "last_scanned": "2026-10-10",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.aegon.com/"
     },
@@ -32428,7 +32441,7 @@
       "boards": [],
       "company": "CHEManager International",
       "key": "a0671d62adf5ac83e375ab7d",
-      "last_scanned": "2026-10-17",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.chemanager-online.com/"
     },
@@ -34719,7 +34732,7 @@
       "company": "Safran Defense & Space, Inc.",
       "error": "public request failed for https://www.safran-dsi.com/: HTTP Error 403: Forbidden",
       "key": "aae6e05f7d1abf19a882caee",
-      "last_scanned": "2026-10-30",
+      "last_scanned": "2026-10-31",
       "url": "https://www.safran-dsi.com/"
     },
     {
@@ -36254,7 +36267,7 @@
       "boards": [],
       "company": "Newell Brands",
       "key": "b2f30d2268f2edecb27bb1b5",
-      "last_scanned": "2026-10-13",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.newellbrands.com/"
     },
@@ -37524,7 +37537,7 @@
       "company": "NS2 Mission",
       "error": "public request failed for https://www.sapns2.com/mission/: HTTP Error 403: Forbidden",
       "key": "b9ba0b63391d713aa13eb313",
-      "last_scanned": "2026-10-22",
+      "last_scanned": "2026-10-31",
       "url": "https://www.sapns2.com/mission/"
     },
     {
@@ -39545,9 +39558,9 @@
     },
     {
       "company": "Conair LLC",
-      "error": "public request failed for https://www.conair.com/on/demandware.store/Sites-us-conair-sfra-Site/en_US/PX-Show?url=aHR0cHM6Ly93d3cuY29uYWlyLmNvbS9vbi9kZW1hbmR3YXJlLnN0b3JlL1NpdGVzLXVzLWNvbmFpci1zZnJhLVNpdGU%3d&frame=1792665127046: HTTP Error ",
+      "error": "public request failed for https://www.conair.com/on/demandware.store/Sites-us-conair-sfra-Site/en_US/PX-Show?url=aHR0cHM6Ly93d3cuY29uYWlyLmNvbS9vbi9kZW1hbmR3YXJlLnN0b3JlL1NpdGVzLXVzLWNvbmFpci1zZnJhLVNpdGU%3d&frame=1793476329719: HTTP Error ",
       "key": "c36d3521a5023b23d7e54850",
-      "last_scanned": "2026-10-22",
+      "last_scanned": "2026-10-31",
       "url": "https://www.conair.com/"
     },
     {
@@ -43153,7 +43166,7 @@
       "boards": [],
       "company": "Pulice",
       "key": "d3637b7cde12f84dab1ac53d",
-      "last_scanned": "2026-10-08",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.pulice.com/"
     },
@@ -44046,7 +44059,7 @@
       "boards": [],
       "company": "BorgWarner",
       "key": "d7ce76f7c8aea1d0fcee3bb9",
-      "last_scanned": "2026-10-20",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.borgwarner.com/"
     },
@@ -44189,7 +44202,7 @@
       "boards": [],
       "company": "MechSpire",
       "key": "d87542d338d2e602da26c6c5",
-      "last_scanned": "2026-10-18",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.linkedin.com/company/92823876"
     },
@@ -47660,7 +47673,7 @@
       "boards": [],
       "company": "Cleveland-Cliffs",
       "key": "ea49486e48e4a0f270b8da00",
-      "last_scanned": "2026-10-02",
+      "last_scanned": "2026-10-31",
       "resolved_roles": 0,
       "url": "https://www.clevelandcliffs.com/"
     },
@@ -48619,7 +48632,7 @@
       "company": "Burns & McDonnell",
       "error": "Invalid IPv6 URL",
       "key": "eec8917d7550e69bd17e19be",
-      "last_scanned": "2026-10-22",
+      "last_scanned": "2026-10-31",
       "url": "https://www.burnsmcd.com/"
     },
     {

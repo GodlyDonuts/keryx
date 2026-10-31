@@ -1862,6 +1862,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Pocket (YC W26)",
+      "key": "ashby:pocket",
+      "slug": "pocket"
+    },
+    {
+      "ats": "ashby",
       "company": "Polimorphic",
       "key": "ashby:polimorphic",
       "slug": "polimorphic"
@@ -5775,6 +5781,12 @@
       "company": "Precision AQ",
       "key": "greenhouse:precisionaq",
       "slug": "precisionaq"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Pretium",
+      "key": "greenhouse:pretiuminternships2027",
+      "slug": "pretiuminternships2027"
     },
     {
       "ats": "greenhouse",
@@ -13063,7 +13075,7 @@
       "company": "Allied World",
       "host": "awac.wd108.myworkdayjobs.com",
       "key": "workday:awac.wd108.myworkdayjobs.com:awac:alliedworld_careers",
-      "site": "AlliedWorld_Careers",
+      "site": "alliedworld_careers",
       "slug": "awac",
       "wd": "wd108"
     },
