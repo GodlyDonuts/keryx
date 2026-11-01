@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,297 internships · 5,231 new-grad roles · 15,528 total openings**
+**10,241 internships · 5,206 new-grad roles · 15,447 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,817 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 339 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 712 | **[View openings →](internships/spring-2027.md)** |
+| ☀️ Summer 2027 | 4,781 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 340 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 709 | **[View openings →](internships/spring-2027.md)** |
 | ❄️ Winter 2027 | 233 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,196 | **[View openings →](internships/unscheduled.md)** |
+| 📅 Season not listed | 4,178 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,157 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,484 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,590 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,162 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,492 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,552 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -38,17 +38,17 @@ Recent internship and co-op listings that open the employer's application page d
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | Amgen | Grad Intern – Bioanalytical Research Associate (Summer 2027) | US - California - Thousand Oaks | Summer 2027 | not available | 2026-11-01 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Grad-Intern---Bioanalytical-Research-Associate--Summer-2027-_R-260097)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
+| Analog Devices | Biomedical Engineering Intern | US, MA, Wilmington | Not listed | not available | 2026-11-01 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
+| Applied Materials | 2027 Spring Electrical Engineer Co-op (Billerica, MA) | Billerica,MA | Spring 2027 | not available | 2026-11-01 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Electrical-Engineer-Co-op--Billerica--MA-_R2631535-1)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
+| Applied Materials | 2027 Spring Manufacturing Engineer Co-op (Billerica, MA) | Billerica,MA | Spring 2027 | not available | 2026-11-01 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Manufacturing-Engineer-Co-op--Billerica--MA-_R2631532)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
+| Applied Materials | 2027 Spring Process Engineer Co-op (Billerica, MA) | Billerica,MA | Spring 2027 | not available | 2026-11-01 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Process-Engineer-Co-op--Billerica--MA-_R2631536)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
+| Applied Materials | 2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA) | Gloucester,MA | Spring 2027 | not available | 2026-11-01 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Process-Engineer-Co-op---Doctorate--Gloucester--MA-_R2632516)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
 | Copart | Database Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-11-01 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | IKO North America | Chemical Process Engineer Co-Op - Spring 2027 | Seville, OH | Spring 2027 | not available | 2026-11-01 | **[Apply →](https://iko.wd3.myworkdayjobs.com/IKO_Careers/job/Seville-OH/Chemical-Process-Engineer-Co-Op---Spring-2027_REQ-13884)**<br><sub>iko.wd3.myworkdayjobs.com</sub> |
-| Insulet Corporation | Co-op, Life Cycle Engineering - Systems: January - June 2027 (Hybrid) | Acton, Massachusetts | Not listed | not available | 2026-11-01 | **[Apply →](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Life-Cycle-Engineering---Systems--January---June-2027--Hybrid-_REQ-2026-18149)**<br><sub>insulet.wd5.myworkdayjobs.com</sub> |
 | KnowBe4 | Associate Product Manager Summer Internship (Hybrid) | Clearwater, Florida | Not listed | Current student status<br><sub>required</sub> | 2026-11-01 | **[Apply →](https://job-boards.greenhouse.io/knowbe4/jobs/8919274002)**<br><sub>job-boards.greenhouse.io</sub> |
 | KnowBe4 | Demand Generation Summer Internship (Hybrid) | Arlington, Virginia | Not listed | Current student status<br><sub>required</sub> | 2026-11-01 | **[Apply →](https://job-boards.greenhouse.io/knowbe4/jobs/8919215002)**<br><sub>job-boards.greenhouse.io</sub> |
 | KnowBe4 | Demand Generation Summer Internship (Hybrid) | New York, New York | Not listed | Current student status<br><sub>required</sub> | 2026-11-01 | **[Apply →](https://job-boards.greenhouse.io/knowbe4/jobs/8919201002)**<br><sub>job-boards.greenhouse.io</sub> |
 | KnowBe4 | Multimedia Designer Summer Internship (Hybrid) | Clearwater, Florida | Not listed | Current student status<br><sub>required</sub> | 2026-11-01 | **[Apply →](https://job-boards.greenhouse.io/knowbe4/jobs/8919260002)**<br><sub>job-boards.greenhouse.io</sub> |
-| KnowBe4 | Sales Development Representative Summer Internship (Hybrid) | Clearwater, Florida | Not listed | not stated | 2026-11-01 | **[Apply →](https://job-boards.greenhouse.io/knowbe4/jobs/8919154002)**<br><sub>job-boards.greenhouse.io</sub> |
-| KnowBe4 | Sales Development Representative Summer Internship (Hybrid) | New York, New York | Not listed | not stated | 2026-11-01 | **[Apply →](https://job-boards.greenhouse.io/knowbe4/jobs/8919183002)**<br><sub>job-boards.greenhouse.io</sub> |
-| KnowBe4 | Sales Development Representative Summer Internship (Hybrid) | Arlington, Virginia | Not listed | not stated | 2026-11-01 | **[Apply →](https://job-boards.greenhouse.io/knowbe4/jobs/8919174002)**<br><sub>job-boards.greenhouse.io</sub> |
-| KnowBe4 | Software Engineer Summer Internship | Clearwater, Florida | Not listed | Current student status<br><sub>required</sub> | 2026-11-01 | **[Apply →](https://job-boards.greenhouse.io/knowbe4/jobs/8919280002)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -67,9 +67,9 @@ Recent full-time opportunities that open the employer's application page directl
 | Northrop Grumman | Associate Software Engineer | Huntsville, AL | Not listed | not available | 2026-11-01 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
 | SAIC | Geographic Information Systems Analyst | California, MD | Not listed | not available | 2026-11-01 | **[Apply →](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618675)**<br><sub>eihu.fa.us8.oraclecloud.com</sub> |
 | TikTok | Software Development Engineer Graduate - TikTok - Testing - Growth - 2027 Start | San Jose, CA | 2027 | not available | 2026-11-01 | **[Apply →](https://lifeattiktok.com/search/7669957922422507781)**<br><sub>lifeattiktok.com</sub> |
+| ALTEN Technology USA | SAP ABAP & BTP Full Stack Developer - Entry-Level | Irvine, CA +1 | 2027 | not stated | 2026-10-31 | **[Apply →](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5262456007)**<br><sub>job-boards.greenhouse.io</sub> |
 | Amazon | Hardware Development Engineer 1 - Drone Engineering | Seattle, WA | Not listed | not available | 2026-10-31 | **[Apply →](https://amazon.jobs/en/jobs/10593930/hardware-dev-engineer-i-prime-air-drone-engineering)**<br><sub>amazon.jobs</sub> |
 | Amazon | Software Development Engineer | Newark, NJ | 2027 | not available | 2026-10-31 | **[Apply →](https://www.amazon.jobs/jobs/10566605/apply)**<br><sub>www.amazon.jobs</sub> |
-| Analog Devices | Analog Design Engineer | Dallas, TX | Not listed | not available | 2026-10-31 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Dallas-Tollway/Analog-Design-Engineer_R266775)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
