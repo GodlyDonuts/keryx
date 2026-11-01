@@ -3676,8 +3676,8 @@
       "boards": [],
       "company": "Synopsys Inc",
       "key": "1338b9bc608d179208580ee9",
-      "last_scanned": "2026-09-18",
-      "resolved_roles": 0,
+      "last_scanned": "2026-11-01",
+      "resolved_roles": 1,
       "url": "https://www.synopsys.com/"
     },
     {
@@ -6904,7 +6904,7 @@
       "boards": [],
       "company": "Kestrel Yard",
       "key": "23a6c5ad5f9309d6d141f7ae",
-      "last_scanned": "2026-10-13",
+      "last_scanned": "2026-11-01",
       "resolved_roles": 0,
       "url": "https://www.linkedin.com/company/90858281"
     },
@@ -11401,9 +11401,9 @@
     },
     {
       "company": "ZOLL Medical Corporation",
-      "error": "public request failed for https://www.lifevest.zoll.com/: HTTP Error 502: Bad Gateway",
+      "error": "public request failed for https://www.lifevest.zoll.com/: HTTP Error 404: Not Found",
       "key": "3981002d65d5397b11bfdb49",
-      "last_scanned": "2026-10-16",
+      "last_scanned": "2026-11-01",
       "url": "https://www.lifevest.zoll.com/"
     },
     {
@@ -14463,7 +14463,7 @@
       "boards": [],
       "company": "Reflect Orbital",
       "key": "48ebb222450cf51fcefa15ca",
-      "last_scanned": "2026-09-24",
+      "last_scanned": "2026-11-01",
       "resolved_roles": 0,
       "url": "https://www.reflectorbital.com/"
     },
@@ -14980,7 +14980,7 @@
       ],
       "company": "Amgen",
       "key": "4b3a4b9d8baf2ce7db9fd337",
-      "last_scanned": "2026-10-14",
+      "last_scanned": "2026-11-01",
       "resolved_roles": 0,
       "url": "https://www.amgen.com/"
     },
@@ -19066,7 +19066,7 @@
       ],
       "company": "Inotiv",
       "key": "5e633e52711709d0528ef909",
-      "last_scanned": "2026-09-23",
+      "last_scanned": "2026-11-01",
       "resolved_roles": 0,
       "url": "https://www.inotiv.com/"
     },
@@ -19330,7 +19330,7 @@
       "boards": [],
       "company": "Mid-Continent Instruments and Avionics",
       "key": "60155ff4835c050ca09c423f",
-      "last_scanned": "2026-10-20",
+      "last_scanned": "2026-11-01",
       "resolved_roles": 0,
       "url": "https://mcico.com/"
     },
@@ -19469,6 +19469,14 @@
       "last_scanned": "2026-10-22",
       "resolved_roles": 0,
       "url": "https://www.ashbyhq.com/"
+    },
+    {
+      "boards": [],
+      "company": "Xtalks",
+      "key": "60ee2b28a4362f23005da5a9",
+      "last_scanned": "2026-11-01",
+      "resolved_roles": 0,
+      "url": "https://www.xtalks.com/"
     },
     {
       "boards": [
@@ -20881,7 +20889,7 @@
       "boards": [],
       "company": "Mead & Hunt",
       "key": "6776b4691767146f08f872ce",
-      "last_scanned": "2026-10-22",
+      "last_scanned": "2026-11-01",
       "resolved_roles": 0,
       "url": "https://meadhunt.com/"
     },
@@ -22613,7 +22621,7 @@
       "company": "impact.com",
       "error": "public request failed for https://with-impact.com/: <urlopen error [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1000)>",
       "key": "704e13abe652a8593e2a8b3e",
-      "last_scanned": "2026-10-22",
+      "last_scanned": "2026-11-01",
       "url": "https://with-impact.com/"
     },
     {
@@ -24282,7 +24290,7 @@
       "boards": [],
       "company": "Hubbell Incorporated",
       "key": "782af6d46bdec192f29faaab",
-      "last_scanned": "2026-10-17",
+      "last_scanned": "2026-11-01",
       "resolved_roles": 0,
       "url": "https://www.hubbell.com/"
     },
@@ -27137,7 +27145,7 @@
       ],
       "company": "IKO North America",
       "key": "862665205edeb224a73c2ea1",
-      "last_scanned": "2026-10-17",
+      "last_scanned": "2026-11-01",
       "resolved_roles": 0,
       "url": "https://www.iko.com/"
     },
@@ -27415,7 +27423,7 @@
       "boards": [],
       "company": "IQT",
       "key": "87ba61352b441fffa25599d7",
-      "last_scanned": "2026-10-20",
+      "last_scanned": "2026-11-01",
       "resolved_roles": 0,
       "url": "https://www.iqt.org/"
     },
@@ -28079,7 +28087,7 @@
       "company": "Keysight Technologies",
       "error": "public request failed for https://www.keysight.com/us/en/home.html: HTTP Error 403: Forbidden",
       "key": "8a4c83a51cc7aa0939ee1126",
-      "last_scanned": "2026-10-30",
+      "last_scanned": "2026-11-01",
       "url": "https://www.keysight.com/"
     },
     {
@@ -28347,7 +28355,7 @@
       "company": "Marathon Petroleum Corporation",
       "error": "public request failed for https://www.marathonpetroleum.com/: HTTP Error 403: Forbidden",
       "key": "8b96c5fecf4a8c25a350411f",
-      "last_scanned": "2026-10-31",
+      "last_scanned": "2026-11-01",
       "url": "https://www.marathonpetroleum.com/"
     },
     {
@@ -29220,7 +29228,7 @@
       "boards": [],
       "company": "KOSTAL Group",
       "key": "8fd42aa4b8004b2ca2d9eed3",
-      "last_scanned": "2026-08-29",
+      "last_scanned": "2026-11-01",
       "resolved_roles": 0,
       "url": "https://www.kostal.com/"
     },
@@ -32503,6 +32511,14 @@
     },
     {
       "boards": [],
+      "company": "Toyo Tires",
+      "key": "a0610cbaa6971a3f52ab6981",
+      "last_scanned": "2026-11-01",
+      "resolved_roles": 0,
+      "url": "https://toyotires.com/"
+    },
+    {
+      "boards": [],
       "company": "CHEManager International",
       "key": "a0671d62adf5ac83e375ab7d",
       "last_scanned": "2026-10-31",
@@ -33878,7 +33894,7 @@
       "boards": [],
       "company": "LP Building Solutions",
       "key": "a6603c7d6d9e6433804fbe7c",
-      "last_scanned": "2026-09-18",
+      "last_scanned": "2026-11-01",
       "resolved_roles": 0,
       "url": "https://lpcorp.com/"
     },
@@ -34631,6 +34647,14 @@
       "last_scanned": "2026-09-25",
       "resolved_roles": 0,
       "url": "https://jub.com/"
+    },
+    {
+      "boards": [],
+      "company": "U.S. Tsubaki Automotive",
+      "key": "aa3011aca75f8b6bc3758013",
+      "last_scanned": "2026-11-01",
+      "resolved_roles": 0,
+      "url": "https://www.ustsubaki.com/business-units/automotive/"
     },
     {
       "company": "MSU Federal Credit Union",
@@ -41139,7 +41163,7 @@
       "boards": [],
       "company": "The Nuclear Company",
       "key": "ca793ff99952b0acf0c96c8f",
-      "last_scanned": "2026-10-18",
+      "last_scanned": "2026-11-01",
       "resolved_roles": 0,
       "url": "https://www.thenuclearcompany.com/"
     },
@@ -46499,6 +46523,16 @@
       "url": "https://sabird-bellows.co.uk/"
     },
     {
+      "boards": [
+        "workday:bbinsurance.wd1.myworkdayjobs.com:bbinsurance:careers"
+      ],
+      "company": "Brown & Brown",
+      "key": "e4ab9f6a47e7f4bf653d6dc5",
+      "last_scanned": "2026-11-01",
+      "resolved_roles": 0,
+      "url": "https://bbtoledo.com/"
+    },
+    {
       "boards": [],
       "company": "Nuvo",
       "key": "e4ad0e75a6658cbda6a0ee58",
@@ -50843,7 +50877,7 @@
       "boards": [],
       "company": "Asure Software",
       "key": "f9ad4102e3f332d18248647d",
-      "last_scanned": "2026-09-30",
+      "last_scanned": "2026-11-01",
       "resolved_roles": 0,
       "url": "https://www.asuresoftware.com/"
     },
@@ -51402,7 +51436,7 @@
       "company": "State of Ohio",
       "error": "public request failed for https://ohio.gov/: HTTP Error 404: Not Found",
       "key": "fcbd3e50b175e5aac8edd70f",
-      "last_scanned": "2026-10-22",
+      "last_scanned": "2026-11-01",
       "url": "https://ohio.gov/"
     },
     {
