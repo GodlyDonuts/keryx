@@ -3942,7 +3942,7 @@
       ],
       "company": "Great Lakes Water Authority",
       "key": "146f7586b315b56604e1b199",
-      "last_scanned": "2026-09-28",
+      "last_scanned": "2026-11-02",
       "resolved_roles": 0,
       "url": "https://www.glwater.org/"
     },
@@ -6222,7 +6222,7 @@
       "company": "Amtrak",
       "error": "public request failed for https://www.amtrak.com/: HTTP Error 403: Forbidden",
       "key": "2026f42fd24d743be2742e0f",
-      "last_scanned": "2026-10-15",
+      "last_scanned": "2026-11-02",
       "url": "https://www.amtrak.com/"
     },
     {
@@ -11569,7 +11569,7 @@
       "boards": [],
       "company": "Carolina Population Center",
       "key": "3a1ce862e89c8933dc9ebfc7",
-      "last_scanned": "2026-10-22",
+      "last_scanned": "2026-11-02",
       "resolved_roles": 0,
       "url": "https://www.cpc.unc.edu/"
     },
@@ -24583,7 +24583,7 @@
       "boards": [],
       "company": "H2M architects + engineers",
       "key": "7981204787d65218f886cd52",
-      "last_scanned": "2026-09-21",
+      "last_scanned": "2026-11-02",
       "resolved_roles": 0,
       "url": "https://h2m.com/"
     },
@@ -28261,6 +28261,14 @@
       "url": "https://www.bakerhughes.com/"
     },
     {
+      "boards": [],
+      "company": "Oakwood PMS",
+      "key": "8af29fe7b9b176e127067a57",
+      "last_scanned": "2026-11-02",
+      "resolved_roles": 0,
+      "url": "https://oakwoodpms.com/"
+    },
+    {
       "company": "Penn-Plax",
       "error": "Invalid IPv6 URL",
       "key": "8afb8e81fbb7f3eebe8a8cd5",
@@ -29056,7 +29064,7 @@
       "boards": [],
       "company": "Contech Engineered Solutions",
       "key": "8ed6d6d6c504ef818f0ec80d",
-      "last_scanned": "2026-10-19",
+      "last_scanned": "2026-11-02",
       "resolved_roles": 0,
       "url": "https://www.conteches.com/"
     },
@@ -30115,7 +30123,7 @@
       ],
       "company": "TKDA",
       "key": "9404ea27246ff5343d839526",
-      "last_scanned": "2026-10-19",
+      "last_scanned": "2026-11-02",
       "resolved_roles": 0,
       "url": "https://tkda.com/"
     },
@@ -34464,7 +34472,7 @@
       "boards": [],
       "company": "Knorr-Bremse Lisieux \u2013 Syst\u00e8mes pour V\u00e9hicules Utilitaires",
       "key": "a91b0332b93208bbbec2e3e0",
-      "last_scanned": "2026-10-13",
+      "last_scanned": "2026-11-02",
       "resolved_roles": 0,
       "url": "https://www.knorr-bremse.fr/"
     },
@@ -39702,9 +39710,9 @@
     },
     {
       "company": "Conair LLC",
-      "error": "public request failed for https://www.conair.com/on/demandware.store/Sites-us-conair-sfra-Site/en_US/PX-Show?url=aHR0cHM6Ly93d3cuY29uYWlyLmNvbS9vbi9kZW1hbmR3YXJlLnN0b3JlL1NpdGVzLXVzLWNvbmFpci1zZnJhLVNpdGU%3d&frame=1793520098330: HTTP Error ",
+      "error": "public request failed for https://www.conair.com/on/demandware.store/Sites-us-conair-sfra-Site/en_US/PX-Show?url=aHR0cHM6Ly93d3cuY29uYWlyLmNvbS9vbi9kZW1hbmR3YXJlLnN0b3JlL1NpdGVzLXVzLWNvbmFpci1zZnJhLVNpdGU%3d&frame=1793612304590: HTTP Error ",
       "key": "c36d3521a5023b23d7e54850",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://www.conair.com/"
     },
     {
@@ -39944,7 +39952,7 @@
       "boards": [],
       "company": "Roku",
       "key": "c46b839668acadb7216a906d",
-      "last_scanned": "2026-09-23",
+      "last_scanned": "2026-11-02",
       "resolved_roles": 0,
       "url": "https://www.roku.com/"
     },
@@ -39999,9 +40007,9 @@
     },
     {
       "company": "Hexagon Autonomous Solutions",
-      "error": "public request failed for https://www.hexagonpositioning.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.hexagonpositioning.com'. (_ssl.c:1000)>",
+      "error": "public request failed for https://www.hexagonpositioning.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.hexagonpositioning.com'. (_ssl.c:1081)>",
       "key": "c4c46b6f5b11430205da5be6",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://www.hexagonpositioning.com/"
     },
     {
@@ -40398,7 +40406,7 @@
       "company": "Edgehog Trading",
       "error": "public request failed for https://www.edgehogtrading.com/: HTTP Error 429: Too Many Requests",
       "key": "c70ccbef972a5e29dd8e692e",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://www.edgehogtrading.com/"
     },
     {
@@ -41276,7 +41284,7 @@
       "company": "Michigan Medicine",
       "error": "public request failed for https://www.uofmhealth.org/: HTTP Error 403: Forbidden",
       "key": "cae8ba12e6fff9d87adb501b",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://www.uofmhealth.org/"
     },
     {
@@ -41357,7 +41365,7 @@
       "company": "Tata Consultancy Services",
       "error": "public request failed for https://www.tcs.com/: HTTP Error 403: Forbidden",
       "key": "cb1b4f4fb4ca317c8023b438",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://www.tcs.com/"
     },
     {
@@ -41792,7 +41800,7 @@
       "company": "CITY HOME",
       "error": "public request failed for https://www.cityhome.com/: HTTP Error 403: Forbidden",
       "key": "cd47c63de83ae5e199b4dce8",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://www.cityhome.com/"
     },
     {
@@ -41929,9 +41937,8 @@
         "ashby:zefr"
       ],
       "company": "Zefr",
-      "error": "public request failed for https://www.zefr.com/: HTTP Error 403: Forbidden",
       "key": "ce1757b155bdd7aec404410b",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "resolved_roles": 0,
       "url": "https://www.zefr.com/"
     },
@@ -41955,7 +41962,7 @@
       "company": "WSP in the U.S.",
       "error": "public request failed for https://www.wsp.com/en-us: HTTP Error 403: Forbidden",
       "key": "ce26e2f6b0157eb94cc09fde",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://www.wsp.com/en-us"
     },
     {
@@ -42200,7 +42207,7 @@
       "company": "Health Advances",
       "error": "public request failed for https://www.healthadvances.com/: HTTP Error 403: Forbidden",
       "key": "cf1c4313f04999630ccef081",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "resolved_roles": 0,
       "url": "https://www.healthadvances.com/"
     },
@@ -42797,7 +42804,7 @@
       "company": "KeyBank",
       "error": "public request failed for https://www.key.com/personal/index.jsp?key=com: The read operation timed out",
       "key": "d199e86886d0fb0b5b3f0142",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://www.key.com/personal/index.jsp?key=com"
     },
     {
@@ -43018,7 +43025,7 @@
       "company": "First Century Bank",
       "error": "public hostname did not resolve: myfcbmortgage.com",
       "key": "d2753149669289e997b8d304",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://myfcbmortgage.com/"
     },
     {
@@ -43939,7 +43946,7 @@
       "company": "Axon",
       "error": "public request failed for https://www.axon.com/: HTTP Error 403: Forbidden",
       "key": "d6a5abf47b84616dd2379fa7",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "resolved_roles": 0,
       "url": "https://www.axon.com/"
     },
@@ -44670,7 +44677,7 @@
       "company": "Analog Devices",
       "error": "public request failed for https://www.analog.com/: The read operation timed out",
       "key": "da5b6ccc15041bc6fbc26e91",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://www.analog.com/"
     },
     {
@@ -45308,7 +45315,7 @@
       "company": "Yakima Chief Hops",
       "error": "public hostname did not resolve: www.tene.in",
       "key": "dde89ef9b61fa1c3224b97c7",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://www.tene.in/"
     },
     {
@@ -45440,7 +45447,7 @@
       "company": "Silicon Labs",
       "error": "public request failed for https://www.silabs.com/: HTTP Error 403: Forbidden",
       "key": "de8172f6ce3be830b9f4b88f",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "resolved_roles": 0,
       "url": "https://silabs.com/"
     },
@@ -45961,7 +45968,7 @@
       "company": "Minuteman Security & Life Safety",
       "error": "public requests require HTTPS and a hostname",
       "key": "e0f128120e5bd6dbe5aeb8b9",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://www.minutemanst.com/"
     },
     {
@@ -46364,7 +46371,7 @@
       "company": "II-VI Aerospace & Defense",
       "error": "public request failed for https://www.iiviad.com/: The read operation timed out",
       "key": "e348ba7001d69a7fb24eb8cc",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://www.iiviad.com/"
     },
     {
@@ -47164,7 +47171,7 @@
       "company": "Bass Pro Shops",
       "error": "public request failed for https://www.basspro.com/: HTTP Error 403: Forbidden",
       "key": "e72b5a3bdeb17556daf241aa",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://www.basspro.com/"
     },
     {
@@ -47196,7 +47203,7 @@
       "company": "Yardi",
       "error": "public request failed for https://www.yardi.com/: HTTP Error 403: Forbidden",
       "key": "e75de160003411315217bfbe",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "resolved_roles": 0,
       "url": "https://www.yardi.com/"
     },
@@ -47221,7 +47228,7 @@
       "company": "National Basketball Association (NBA)",
       "error": "public request failed for https://www.nba.com/: HTTP Error 403: Forbidden",
       "key": "e78466be5cd0d44f88a172f0",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://www.nba.com/"
     },
     {
@@ -47414,7 +47421,7 @@
       "company": "York Space Systems",
       "error": "Invalid IPv6 URL",
       "key": "e87802ee652eaaf7376fbeb6",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://www.yorkspacesystems.com/"
     },
     {
@@ -48092,7 +48099,7 @@
       "company": "Infosys",
       "error": "public request failed for https://www.infosys.com/: HTTP Error 403: Forbidden",
       "key": "eb401d2139ce32943d9ce970",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://www.infosys.com/"
     },
     {
@@ -49027,7 +49034,7 @@
       "company": "Donaldson",
       "error": "public requests require HTTPS and a hostname",
       "key": "efbbf2363c937d437dc9e013",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://donaldson.com/"
     },
     {
@@ -49359,7 +49366,7 @@
       "company": "California Department of Social Services",
       "error": "public requests require HTTPS and a hostname",
       "key": "f15df43a5173bfe15cc6e37c",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://www.cdss.ca.gov/inforesources/cdss-programs/ihss/ihss-career-pathways-program"
     },
     {
@@ -50257,7 +50264,7 @@
       "company": "Rubrik",
       "error": "public request failed for https://www.rubrik.com/: HTTP Error 403: Forbidden",
       "key": "f61cf0c24b28035366bfaa16",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://rubrik.com/"
     },
     {
@@ -51289,7 +51296,7 @@
       "company": "Medline",
       "error": "public request failed for https://www.medline.com/home.jsp: HTTP Error 403: Forbidden",
       "key": "fba9f138ac3501568473f595",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://www.medline.com/home.jsp"
     },
     {
@@ -51492,7 +51499,7 @@
       "company": "State of Ohio",
       "error": "public request failed for https://ohio.gov/: HTTP Error 404: Not Found",
       "key": "fcbd3e50b175e5aac8edd70f",
-      "last_scanned": "2026-11-01",
+      "last_scanned": "2026-11-02",
       "url": "https://ohio.gov/"
     },
     {
