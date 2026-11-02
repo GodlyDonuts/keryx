@@ -5688,6 +5688,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "ParetoHealth",
+      "key": "greenhouse:paretocaptiveservicesllc",
+      "slug": "paretocaptiveservicesllc"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Path Robotics",
       "key": "greenhouse:pathrobotics",
       "slug": "pathrobotics"
@@ -7284,6 +7290,12 @@
     },
     {
       "ats": "lever",
+      "company": "Element Solutions",
+      "key": "lever:elementsolutions",
+      "slug": "elementsolutions"
+    },
+    {
+      "ats": "lever",
       "company": "Eastern Research Group",
       "key": "lever:erg",
       "slug": "erg"
@@ -8437,6 +8449,14 @@
       "key": "oracle:edyy.fa.us2.oraclecloud.com:cx_6001",
       "site": "CX_6001",
       "slug": "edyy"
+    },
+    {
+      "ats": "oracle",
+      "company": "Rockland Trust",
+      "host": "eehb.fa.us2.oraclecloud.com",
+      "key": "oracle:eehb.fa.us2.oraclecloud.com:cx_2005",
+      "site": "CX_2005",
+      "slug": "eehb"
     },
     {
       "ats": "oracle",
@@ -15733,7 +15753,7 @@
     },
     {
       "ats": "workday",
-      "company": "Ercot",
+      "company": "Electric Reliability Council of Texas",
       "host": "ercot.wd1.myworkdayjobs.com",
       "key": "workday:ercot.wd1.myworkdayjobs.com:ercot:ercot_careers",
       "site": "ercot_careers",
@@ -18514,6 +18534,15 @@
     },
     {
       "ats": "workday",
+      "company": "Martin's Point Health Care",
+      "host": "martin.wd1.myworkdayjobs.com",
+      "key": "workday:martin.wd1.myworkdayjobs.com:martin:mphc",
+      "site": "mphc",
+      "slug": "martin",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Marvell",
       "host": "marvell.wd1.myworkdayjobs.com",
       "key": "workday:marvell.wd1.myworkdayjobs.com:marvell:marvellcareers",
@@ -19527,6 +19556,15 @@
       "key": "workday:nshs.wd1.myworkdayjobs.com:nshs:ns-eeh",
       "site": "ns-eeh",
       "slug": "nshs",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Novacore",
+      "host": "nsminc.wd1.myworkdayjobs.com",
+      "key": "workday:nsminc.wd1.myworkdayjobs.com:nsminc:novacore_careers",
+      "site": "Novacore_Careers",
+      "slug": "nsminc",
       "wd": "wd1"
     },
     {
@@ -23182,6 +23220,15 @@
       "site": "Careers",
       "slug": "usnh",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Associated Medical Professionals of NY",
+      "host": "usuro.wd1.myworkdayjobs.com",
+      "key": "workday:usuro.wd1.myworkdayjobs.com:usuro:amp_career",
+      "site": "AMP_Career",
+      "slug": "usuro",
+      "wd": "wd1"
     },
     {
       "ats": "workday",

@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,171 internships · 5,202 new-grad roles · 15,373 total openings**
+**10,307 internships · 5,130 new-grad roles · 15,437 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,756 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 338 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 706 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 234 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,137 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,859 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 339 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 707 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 232 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 4,170 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,132 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,482 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,588 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,153 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,395 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,582 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Roku | Software Engineer Intern - AI Engineering | San Jose, CA | Summer 2027 | not available | 2026-11-02 | **[Apply →](https://www.weareroku.com/jobs/8258241?gh_jid=8258241)**<br><sub>www.weareroku.com</sub> |
-| Amgen | Grad Intern – Bioanalytical Research Associate (Summer 2027) | US - California - Thousand Oaks | Summer 2027 | not available | 2026-11-01 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Grad-Intern---Bioanalytical-Research-Associate--Summer-2027-_R-260097)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
-| Analog Devices | Biomedical Engineering Intern | US, MA, Wilmington | Not listed | not available | 2026-11-01 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
-| Applied Materials | 2027 Manufacturing Engineer Summer Internship (Bachelors Austin, TX) | Austin,TX | Summer 2027 | not available | 2026-11-01 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2027-Manufacturing-Engineer-Summer-Internship--Bachelors-Austin--TX-_R2626242)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
-| Applied Materials | 2027 Spring Process Engineer Co-op (Billerica, MA) | Billerica,MA | Spring 2027 | not available | 2026-11-01 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/BillericaMA/XMLNAME-2027-Spring-Process-Engineer-Co-op--Billerica--MA-_R2631536)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
-| Great Lakes Water Authority | College Intern - Wastewater Engineering | 9300 W. Jefferson Detroit, MI 48209 | Not listed | not available | 2026-11-01 | **[Apply →](https://glwater.wd108.myworkdayjobs.com/Careers/job/9300-W-Jefferson-Detroit-MI-48209/College-Intern---Wastewater-Engineering_R26_0000000231)**<br><sub>glwater.wd108.myworkdayjobs.com</sub> |
-| Great Lakes Water Authority | College Intern - Water Engineering | 10100 E. Jefferson Detroit, MI 48214 | Not listed | not available | 2026-11-01 | **[Apply →](https://glwater.wd108.myworkdayjobs.com/Careers/job/10100-E-Jefferson-Detroit-MI-48214/College-Intern---Water-Engineering_R26_0000000233)**<br><sub>glwater.wd108.myworkdayjobs.com</sub> |
-| IKO North America | Chemical Process Engineer Co-Op - Spring 2027 | Seville, OH | Spring 2027 | not available | 2026-11-01 | **[Apply →](https://iko.wd3.myworkdayjobs.com/IKO_Careers/job/Seville-OH/Chemical-Process-Engineer-Co-Op---Spring-2027_REQ-13884)**<br><sub>iko.wd3.myworkdayjobs.com</sub> |
-| KnowBe4 | Associate Product Manager Summer Internship (Hybrid) | Clearwater, Florida | Summer 2027 | Current student status<br><sub>required</sub> | 2026-11-01 | **[Apply →](https://job-boards.greenhouse.io/knowbe4/jobs/8919274002)**<br><sub>job-boards.greenhouse.io</sub> |
-| KnowBe4 | Demand Generation Summer Internship (Hybrid) | Arlington, Virginia | Not listed | Current student status<br><sub>required</sub> | 2026-11-01 | **[Apply →](https://job-boards.greenhouse.io/knowbe4/jobs/8919215002)**<br><sub>job-boards.greenhouse.io</sub> |
-| KnowBe4 | Demand Generation Summer Internship (Hybrid) | New York, New York | Not listed | Current student status<br><sub>required</sub> | 2026-11-01 | **[Apply →](https://job-boards.greenhouse.io/knowbe4/jobs/8919201002)**<br><sub>job-boards.greenhouse.io</sub> |
-| KnowBe4 | Multimedia Designer Summer Internship (Hybrid) | Clearwater, Florida | Not listed | Current student status<br><sub>required</sub> | 2026-11-01 | **[Apply →](https://job-boards.greenhouse.io/knowbe4/jobs/8919260002)**<br><sub>job-boards.greenhouse.io</sub> |
+| AECOM | Civil Engineering Intern | Boston, MA, us | Not listed | not available | 2026-11-02 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000159197410)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AECOM | Civil Engineering Transit Intern | Chicago, IL, us | Not listed | not available | 2026-11-02 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000159130421)**<br><sub>jobs.smartrecruiters.com</sub> |
+| CoStar Group | Data Science Intern | Richmond, VA | Summer 2027 | not available | 2026-11-02 | **[Apply →](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140)**<br><sub>costar.wd1.myworkdayjobs.com</sub> |
+| Emerson Electric | Mechanical Engineer Co-op July-December | Mansfield, MA, United States | Not listed | Current student status<br><sub>stated</sub> | 2026-11-02 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012073)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
+| Entrust | AI Developer Intern | United States - Shakopee, MN (GHQ) | Not listed | not available | 2026-11-02 | **[Apply →](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397)**<br><sub>entrust.wd1.myworkdayjobs.com</sub> |
+| First Citizens BancShares | Data Analyst Intern - Enterprise Data Analyst - Data Products | Raleigh, NC | Summer 2027 | not available | 2026-11-02 | **[Apply →](https://firstcitizens.jibeapply.com/jobs/36234?icims=1)**<br><sub>firstcitizens.jibeapply.com</sub> |
+| Grant Thornton Ireland | Audit IT Assurance Intern - Summer 2027 | Tulsa, OK, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-11-02 | **[Apply →](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GrantThorntonIrelandExperiencedHires/job/116239)**<br><sub>ehzq.fa.us2.oraclecloud.com</sub> |
+| Grant Thornton Ireland | Audit IT Assurance Intern - Summer 2027 | Tulsa, OK, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-11-02 | **[Apply →](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GrantThorntonIrelandGraduateProgramme/job/116239)**<br><sub>ehzq.fa.us2.oraclecloud.com</sub> |
+| ID.me | Summer Intern 2027 - Product Security Engineering Intern | Mountain View, CA | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-11-02 | **[Apply →](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8076649003)**<br><sub>job-boards.greenhouse.io</sub> |
+| Intuitive Surgical | AI/ML Engineer Intern | Sunnyvale, CA, us | Not listed | not available | 2026-11-02 | **[Apply →](https://jobs.smartrecruiters.com/Intuitive/744000159218439)**<br><sub>jobs.smartrecruiters.com</sub> |
+| JM Family | AI Intern | Deerfield Beach, FL | Summer 2027 | not available | 2026-11-02 | **[Apply →](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Intern_JR105180)**<br><sub>jmfamily.wd1.myworkdayjobs.com</sub> |
+| Lila Sciences | Co-op, Agentic and Generative Protein Design | Cambridge, MA USA; San Francisco, CA USA | Not listed | not stated | 2026-11-02 | **[Apply →](https://job-boards.greenhouse.io/lilasciences/jobs/4462613009)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| AECOM | Entry-Level Digital Solutions Business Analyst | Germantown, MD, us | 2026 | not available | 2026-11-02 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000159214369)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Applied Materials | IT Solutions Analyst - New College Grad (Bachelors - Santa Clara, CA) | Santa Clara,CA | 2026 | not available | 2026-11-02 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/IT-Solutions-Analyst---New-College-Grad--Bachelors---Santa-Clara--CA-_R2611661)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
+| Applied Materials | Product Line Management II New College Grad- Master's (Santa Clara, CA) | Santa Clara,CA | 2026 | not available | 2026-11-02 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-II-New-College-Grad--Master-s--Santa-Clara--CA-_R2627412)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
+| Chalk | Software Engineer - New Grad | San Francisco, CA +1 | 2027 | not available | 2026-11-02 | **[Apply →](https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f)**<br><sub>jobs.ashbyhq.com</sub> |
+| Citizens Financial Group | Business Insights Analyst: Branch Network Distribution | United States | Not listed | not available | 2026-11-02 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50057)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
+| Element Solutions | Junior Data Engineer | Remote in USA | Not listed | not available | 2026-11-02 | **[Apply →](https://jobs.lever.co/elementsolutions/88f248fb-459a-4d4e-8f6a-80e1671bf86e/apply)**<br><sub>jobs.lever.co</sub> |
+| Ford Motor Company | CAE Engineer - Early Career Program, Advanced EV | Long Beach, CA, United States | 2027 | Current student status<br><sub>stated</sub> | 2026-11-02 | **[Apply →](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73523)**<br><sub>efds.fa.em5.oraclecloud.com</sub> |
+| General Matter | Field Engineer (New Grad) | Paducah, KY | 2027 | not stated | 2026-11-02 | **[Apply →](https://job-boards.greenhouse.io/generalmatter/jobs/5466633008)**<br><sub>job-boards.greenhouse.io</sub> |
 | Google | Software Engineer 2 – Early Career | Palo Alto, CA, Madison, WI, Seattle, WA, LA, Raleigh, NC, San Bruno, CA, Durham, NC, Pittsburgh, PA, Kirkland, WA, NYC, Sunnyvale, CA, Mountain View, CA | Not listed | not available | 2026-11-02 | **[Apply →](https://www.google.com/about/careers/applications/jobs/results/109116638069957318)**<br><sub>www.google.com</sub> |
 | Huntington Ingalls Industries | IT Software Engineer 1 - Robotic Process Automation | Newport News, VA | Not listed | not available | 2026-11-02 | **[Apply →](https://careers.huntingtoningalls.com/job/Newport-News-IT-SOFTWARE-ENGINEER-1-ROBOTIC-PROCESS-AUTOMATION-%28RPA%29-Virg/1445226800/?ats=successfactors)**<br><sub>careers.huntingtoningalls.com</sub> |
-| Qualcomm | Associate Calibration Engineer - Calibration Engineering | San Diego, CA | Not listed | not available | 2026-11-02 | **[Apply →](https://qualcomm.eightfold.ai/careers/job/446721831785)**<br><sub>qualcomm.eightfold.ai</sub> |
-| Anduril | Embedded Firmware Engineer - Connected Warfare | Costa Mesa, CA | 2027 | not available | 2026-11-01 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5225618007?gh_jid=5225618007)**<br><sub>boards.greenhouse.io</sub> |
-| Applied Materials | Product Line Management I, New College Grad- Bachelor's (Santa Clara, CA) | Santa Clara,CA | 2026 | not available | 2026-11-01 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-I--New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2630862-1)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
-| Brown & Brown Insurance | Junior HubSpot Developer | Plano, TX | Not listed | not available | 2026-11-01 | **[Apply →](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694)**<br><sub>bbinsurance.wd1.myworkdayjobs.com</sub> |
-| Huntington Ingalls Industries | Product Owner - Digital Plant | Newport News, VA | Not listed | not available | 2026-11-01 | **[Apply →](https://careers.huntingtoningalls.com/job/Newport-News-PRODUCT-OWNER-DIGITAL-PLANT-Virg/1446303400/?ats=successfactors)**<br><sub>careers.huntingtoningalls.com</sub> |
-| Huntington Ingalls Industries | Software Engineer 1 | Newport News, VA | Not listed | not available | 2026-11-01 | **[Apply →](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors)**<br><sub>careers.huntingtoningalls.com</sub> |
-| Impact | Associate Software Engineer | Santa Barbara, CA | 2027 | not stated | 2026-11-01 | **[Apply →](https://job-boards.greenhouse.io/impact/jobs/8645964002)**<br><sub>job-boards.greenhouse.io</sub> |
-| Impact | Full Stack Software Engineer | Seattle, WA | 2027 | not available | 2026-11-01 | **[Apply →](https://job-boards.greenhouse.io/impact/jobs/8465838002)**<br><sub>job-boards.greenhouse.io</sub> |
-| Intel | EDA Tools Software Engineer | Hillsboro, OR | 2027 | not available | 2026-11-01 | **[Apply →](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/EDA-Tools-Software-Engineer_JR0287371)**<br><sub>intel.wd1.myworkdayjobs.com</sub> |
-| Northrop Grumman | Associate Software Engineer | Huntsville, AL | Not listed | not available | 2026-11-01 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
+| Integration Innovation (i3) | Junior Machine Learning Engineer | Arlington County, Arlington, VA | Not listed | not available | 2026-11-02 | **[Apply →](https://i3-corps.jibeapply.com/jobs/5417?icims=1)**<br><sub>i3-corps.jibeapply.com</sub> |
+| Martin's Point Health Care | Associate Enterprise Data Engineer | Portland, ME | Not listed | not available | 2026-11-02 | **[Apply →](https://martin.wd1.myworkdayjobs.com/mphc/job/Portland-ME/Associate-Enterprise-Data-Engineer---Remote_REQ-2026-384)**<br><sub>martin.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
