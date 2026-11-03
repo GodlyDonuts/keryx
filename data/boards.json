@@ -208,7 +208,7 @@
       "ats": "ashby",
       "company": "Astro Mechanica",
       "key": "ashby:astro-mechanica",
-      "slug": "Astro-Mechanica"
+      "slug": "astro-mechanica"
     },
     {
       "ats": "ashby",
@@ -1685,6 +1685,12 @@
       "company": "One Brief",
       "key": "ashby:onebrief",
       "slug": "onebrief"
+    },
+    {
+      "ats": "ashby",
+      "company": "onepot",
+      "key": "ashby:onepot",
+      "slug": "onepot"
     },
     {
       "ats": "ashby",
@@ -3540,6 +3546,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Authentic",
+      "key": "greenhouse:authenticinsurance",
+      "slug": "authenticinsurance"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Awetomaton",
       "key": "greenhouse:awetomaton",
       "slug": "awetomaton"
@@ -4788,6 +4800,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Hearst",
+      "key": "greenhouse:hearst",
+      "slug": "hearst"
+    },
+    {
+      "ats": "greenhouse",
       "company": "HeartFlow",
       "key": "greenhouse:heartflowinc",
       "slug": "heartflowinc"
@@ -5505,6 +5523,12 @@
       "company": "NewsBreak",
       "key": "greenhouse:newsbreak",
       "slug": "newsbreak"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Nex",
+      "key": "greenhouse:nex",
+      "slug": "nex"
     },
     {
       "ats": "greenhouse",
@@ -10571,6 +10595,12 @@
       "company": "CACI",
       "key": "smartrecruiters:nextcenturycorporation",
       "slug": "NextCenturyCorporation"
+    },
+    {
+      "ats": "smartrecruiters",
+      "company": "Nexthink",
+      "key": "smartrecruiters:nexthink",
+      "slug": "Nexthink"
     },
     {
       "ats": "smartrecruiters",
@@ -22364,6 +22394,15 @@
       "site": "Tarkett_Careers",
       "slug": "tarkett",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Taxwell",
+      "host": "taxwell.wd1.myworkdayjobs.com",
+      "key": "workday:taxwell.wd1.myworkdayjobs.com:taxwell:taxwellcareers",
+      "site": "taxwellcareers",
+      "slug": "taxwell",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
