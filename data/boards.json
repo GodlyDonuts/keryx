@@ -206,6 +206,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Astro Mechanica",
+      "key": "ashby:astro-mechanica",
+      "slug": "Astro-Mechanica"
+    },
+    {
+      "ats": "ashby",
       "company": "Astronomer",
       "key": "ashby:astronomer",
       "slug": "astronomer"
@@ -1859,6 +1865,12 @@
       "company": "Plot Technologies",
       "key": "ashby:plot",
       "slug": "plot"
+    },
+    {
+      "ats": "ashby",
+      "company": "Polished Snow",
+      "key": "ashby:plsn",
+      "slug": "plsn"
     },
     {
       "ats": "ashby",
@@ -3780,7 +3792,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "Cartesian",
+      "company": "Cartesian Systems",
       "key": "greenhouse:cartesiansystems",
       "slug": "cartesiansystems"
     },
@@ -6510,7 +6522,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "Toshiba Global Commerce",
+      "company": "Toshiba Global Commerce Solutions",
       "key": "greenhouse:toshibaglobalcommercesolutions",
       "slug": "toshibaglobalcommercesolutions"
     },
@@ -9540,6 +9552,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Staples",
+      "host": "fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com:staplesinc",
+      "site": "StaplesInc",
+      "slug": "fa-exhh-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
       "company": "Fanatics",
       "host": "fa-exki-saasfaprod1.fa.ocs.oraclecloud.com",
       "key": "oracle:fa-exki-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
@@ -11565,6 +11585,12 @@
       "company": "RHONDOS",
       "key": "workable:rhondos-inc",
       "slug": "rhondos-inc"
+    },
+    {
+      "ats": "workable",
+      "company": "RISE\u00ae Robotics",
+      "key": "workable:rise-robotics",
+      "slug": "rise-robotics"
     },
     {
       "ats": "workable",
@@ -18885,7 +18911,7 @@
     },
     {
       "ats": "workday",
-      "company": "Marsh",
+      "company": "Marsh McLennan",
       "host": "mmc.wd1.myworkdayjobs.com",
       "key": "workday:mmc.wd1.myworkdayjobs.com:mmc:mmc",
       "site": "mmc",
@@ -19152,6 +19178,15 @@
       "site": "OneMainCareers",
       "slug": "myhrhome",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Marriott Vacations Worldwide",
+      "host": "mymvw.wd5.myworkdayjobs.com",
+      "key": "workday:mymvw.wd5.myworkdayjobs.com:mymvw:mvw",
+      "site": "mvw",
+      "slug": "mymvw",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
@@ -19668,6 +19703,15 @@
     },
     {
       "ats": "workday",
+      "company": "ODL, Inc",
+      "host": "odl.wd5.myworkdayjobs.com",
+      "key": "workday:odl.wd5.myworkdayjobs.com:odl:odl",
+      "site": "ODL",
+      "slug": "odl",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Oklahoma State Government",
       "host": "okgov.wd1.myworkdayjobs.com",
       "key": "workday:okgov.wd1.myworkdayjobs.com:okgov:okgovjobs",
@@ -19701,6 +19745,15 @@
       "site": "SHSJB",
       "slug": "onehealthineers",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Lineage Logistics",
+      "host": "onelineage.wd1.myworkdayjobs.com",
+      "key": "workday:onelineage.wd1.myworkdayjobs.com:onelineage:external",
+      "site": "external",
+      "slug": "onelineage",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -22629,7 +22682,7 @@
     },
     {
       "ats": "workday",
-      "company": "CRC Group",
+      "company": "Tihinsurance",
       "host": "tihinsurance.wd1.myworkdayjobs.com",
       "key": "workday:tihinsurance.wd1.myworkdayjobs.com:tihinsurance:crc_careers",
       "site": "crc_careers",

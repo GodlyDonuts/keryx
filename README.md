@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,307 internships · 5,130 new-grad roles · 15,437 total openings**
+**10,387 internships · 5,104 new-grad roles · 15,491 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,859 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 339 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 707 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 232 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,170 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 4,897 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 340 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 719 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 233 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 4,198 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,153 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,395 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,582 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,149 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,370 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,585 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -39,16 +39,16 @@ Recent internship and co-op listings that open the employer's application page d
 |---|---|---|---|---|---:|---|
 | AECOM | Civil Engineering Intern | Boston, MA, us | Not listed | not available | 2026-11-02 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000159197410)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AECOM | Civil Engineering Transit Intern | Chicago, IL, us | Not listed | not available | 2026-11-02 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000159130421)**<br><sub>jobs.smartrecruiters.com</sub> |
-| CoStar Group | Data Science Intern | Richmond, VA | Summer 2027 | not available | 2026-11-02 | **[Apply →](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140)**<br><sub>costar.wd1.myworkdayjobs.com</sub> |
+| Applied Materials | 2027 Data Analytics & Business Operations Spring Co-Op or Summer Intern- Bachelor's/Master's (Austin, TX) | Austin,TX | Not listed | not available | 2026-11-02 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2027-Data-Analytics---Business-Operations-Spring-Co-Op-or-Summer-Intern--Bachelor-s-Master-s--Austin--TX-_R2626381)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
+| Applied Materials | Data Intelligence/Technical Program Manager Intern | Santa Clara, CA | Summer 2027 | not available | 2026-11-02 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Intelligence-Technical-Program-Management-Intern--Master-s--Santa-Clara--CA-_R2627705)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
+| Applied Materials | Electrical Engineer Intern | Santa Clara, CA | Summer 2027 | not available | 2026-11-02 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Electrical-Engineer-Intern--Master-s--Santa-Clara--CA-_R2629967)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
+| Applied Materials | Software Engineer Intern | Santa Clara, CA | Summer 2027 | not available | 2026-11-02 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Software-Engineer-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2630003)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
+| Booz Allen | Summer Games Data Scientist Intern | Detroit, MI | Summer 2027 | not available | 2026-11-02 | **[Apply →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
+| BXP, Inc | IT Services Co-Op | Boston, MA, United States | Not listed | not stated | 2026-11-02 | **[Apply →](https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/26177)**<br><sub>edxn.fa.us2.oraclecloud.com</sub> |
 | Emerson Electric | Mechanical Engineer Co-op July-December | Mansfield, MA, United States | Not listed | Current student status<br><sub>stated</sub> | 2026-11-02 | **[Apply →](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012073)**<br><sub>hdjq.fa.us2.oraclecloud.com</sub> |
 | Entrust | AI Developer Intern | United States - Shakopee, MN (GHQ) | Not listed | not available | 2026-11-02 | **[Apply →](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397)**<br><sub>entrust.wd1.myworkdayjobs.com</sub> |
 | First Citizens BancShares | Data Analyst Intern - Enterprise Data Analyst - Data Products | Raleigh, NC | Summer 2027 | not available | 2026-11-02 | **[Apply →](https://firstcitizens.jibeapply.com/jobs/36234?icims=1)**<br><sub>firstcitizens.jibeapply.com</sub> |
-| Grant Thornton Ireland | Audit IT Assurance Intern - Summer 2027 | Tulsa, OK, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-11-02 | **[Apply →](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GrantThorntonIrelandExperiencedHires/job/116239)**<br><sub>ehzq.fa.us2.oraclecloud.com</sub> |
-| Grant Thornton Ireland | Audit IT Assurance Intern - Summer 2027 | Tulsa, OK, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-11-02 | **[Apply →](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GrantThorntonIrelandGraduateProgramme/job/116239)**<br><sub>ehzq.fa.us2.oraclecloud.com</sub> |
-| ID.me | Summer Intern 2027 - Product Security Engineering Intern | Mountain View, CA | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-11-02 | **[Apply →](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8076649003)**<br><sub>job-boards.greenhouse.io</sub> |
-| Intuitive Surgical | AI/ML Engineer Intern | Sunnyvale, CA, us | Not listed | not available | 2026-11-02 | **[Apply →](https://jobs.smartrecruiters.com/Intuitive/744000159218439)**<br><sub>jobs.smartrecruiters.com</sub> |
-| JM Family | AI Intern | Deerfield Beach, FL | Summer 2027 | not available | 2026-11-02 | **[Apply →](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Intern_JR105180)**<br><sub>jmfamily.wd1.myworkdayjobs.com</sub> |
-| Lila Sciences | Co-op, Agentic and Generative Protein Design | Cambridge, MA USA; San Francisco, CA USA | Not listed | not stated | 2026-11-02 | **[Apply →](https://job-boards.greenhouse.io/lilasciences/jobs/4462613009)**<br><sub>job-boards.greenhouse.io</sub> |
+| GlobalFoundries | Design Verification Engineer Intern | Richardson, TX | Summer 2027 | not available | 2026-11-02 | **[Apply →](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604024)**<br><sub>globalfoundries.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| AbbVie | AI Engineer | North Chicago, IL | Not listed | not available | 2026-11-02 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990016565806)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AbbVie | Associate Device Software Engineer | Irvine, CA | Not listed | not available | 2026-11-02 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990016568546)**<br><sub>jobs.smartrecruiters.com</sub> |
 | AECOM | Entry-Level Digital Solutions Business Analyst | Germantown, MD, us | 2026 | not available | 2026-11-02 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000159214369)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AMEWAS | Software Developer-Junior | Patuxent River, MD, United States | 2026 | not available | 2026-11-02 | **[Apply →](https://amewas.applicantstack.com/x/detail/a2hcrhchb3r1)**<br><sub>amewas.applicantstack.com</sub> |
+| Anduril | Space Orbital Software Engineer | Costa Mesa, CA | Not listed | not available | 2026-11-02 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5236290007)**<br><sub>boards.greenhouse.io</sub> |
+| Apple | Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems | San Diego, CA | 2026 | not available | 2026-11-02 | **[Apply →](https://jobs.apple.com/en-us/details/200692907)**<br><sub>jobs.apple.com</sub> |
+| Apple | Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems | San Diego, CA | Not listed | not available | 2026-11-02 | **[Apply →](https://jobs.apple.com/en-us/details/200692894)**<br><sub>jobs.apple.com</sub> |
+| Applied Materials | Computer Vision/Machine Learning/Deep Learning Algorithm Developer | Santa Clara, CA | Not listed | not available | 2026-11-02 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/CV-ML-DL-Algorithm-Developer_R2632865)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
 | Applied Materials | IT Solutions Analyst - New College Grad (Bachelors - Santa Clara, CA) | Santa Clara,CA | 2026 | not available | 2026-11-02 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/IT-Solutions-Analyst---New-College-Grad--Bachelors---Santa-Clara--CA-_R2611661)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
 | Applied Materials | Product Line Management II New College Grad- Master's (Santa Clara, CA) | Santa Clara,CA | 2026 | not available | 2026-11-02 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-II-New-College-Grad--Master-s--Santa-Clara--CA-_R2627412)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
-| Chalk | Software Engineer - New Grad | San Francisco, CA +1 | 2027 | not available | 2026-11-02 | **[Apply →](https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f)**<br><sub>jobs.ashbyhq.com</sub> |
-| Citizens Financial Group | Business Insights Analyst: Branch Network Distribution | United States | Not listed | not available | 2026-11-02 | **[Apply →](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50057)**<br><sub>hcgn.fa.us2.oraclecloud.com</sub> |
-| Element Solutions | Junior Data Engineer | Remote in USA | Not listed | not available | 2026-11-02 | **[Apply →](https://jobs.lever.co/elementsolutions/88f248fb-459a-4d4e-8f6a-80e1671bf86e/apply)**<br><sub>jobs.lever.co</sub> |
-| Ford Motor Company | CAE Engineer - Early Career Program, Advanced EV | Long Beach, CA, United States | 2027 | Current student status<br><sub>stated</sub> | 2026-11-02 | **[Apply →](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73523)**<br><sub>efds.fa.em5.oraclecloud.com</sub> |
-| General Matter | Field Engineer (New Grad) | Paducah, KY | 2027 | not stated | 2026-11-02 | **[Apply →](https://job-boards.greenhouse.io/generalmatter/jobs/5466633008)**<br><sub>job-boards.greenhouse.io</sub> |
-| Google | Software Engineer 2 – Early Career | Palo Alto, CA, Madison, WI, Seattle, WA, LA, Raleigh, NC, San Bruno, CA, Durham, NC, Pittsburgh, PA, Kirkland, WA, NYC, Sunnyvale, CA, Mountain View, CA | Not listed | not available | 2026-11-02 | **[Apply →](https://www.google.com/about/careers/applications/jobs/results/109116638069957318)**<br><sub>www.google.com</sub> |
-| Huntington Ingalls Industries | IT Software Engineer 1 - Robotic Process Automation | Newport News, VA | Not listed | not available | 2026-11-02 | **[Apply →](https://careers.huntingtoningalls.com/job/Newport-News-IT-SOFTWARE-ENGINEER-1-ROBOTIC-PROCESS-AUTOMATION-%28RPA%29-Virg/1445226800/?ats=successfactors)**<br><sub>careers.huntingtoningalls.com</sub> |
-| Integration Innovation (i3) | Junior Machine Learning Engineer | Arlington County, Arlington, VA | Not listed | not available | 2026-11-02 | **[Apply →](https://i3-corps.jibeapply.com/jobs/5417?icims=1)**<br><sub>i3-corps.jibeapply.com</sub> |
-| Martin's Point Health Care | Associate Enterprise Data Engineer | Portland, ME | Not listed | not available | 2026-11-02 | **[Apply →](https://martin.wd1.myworkdayjobs.com/mphc/job/Portland-ME/Associate-Enterprise-Data-Engineer---Remote_REQ-2026-384)**<br><sub>martin.wd1.myworkdayjobs.com</sub> |
+| Aprio | Campus AI & Automation Associate | Atlanta, GA | Not listed | not available | 2026-11-02 | **[Apply →](https://jobs.lever.co/Aprio/9d2bacac-b74e-46ba-8fd3-ad3abb8b1378/apply)**<br><sub>jobs.lever.co</sub> |
+| ASML | System Integration and Test Engineer | San Diego, CA | Not listed | not available | 2026-11-02 | **[Apply →](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/System-Integration-and-Test-Engineer_J-00356216)**<br><sub>asml.wd3.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
