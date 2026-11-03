@@ -14603,7 +14603,7 @@
       "company": "Cognex",
       "host": "cognex.wd1.myworkdayjobs.com",
       "key": "workday:cognex.wd1.myworkdayjobs.com:cognex:external_career_site",
-      "site": "External_Career_Site",
+      "site": "external_career_site",
       "slug": "cognex",
       "wd": "wd1"
     },
@@ -20789,6 +20789,15 @@
       "site": "ResMed_External_Careers",
       "slug": "resmed",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Resource Innovations",
+      "host": "resourceinnovations.wd504.myworkdayjobs.com",
+      "key": "workday:resourceinnovations.wd504.myworkdayjobs.com:resourceinnovations:ri",
+      "site": "RI",
+      "slug": "resourceinnovations",
+      "wd": "wd504"
     },
     {
       "ats": "workday",
