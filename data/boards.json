@@ -728,6 +728,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Engramme",
+      "key": "ashby:engramme",
+      "slug": "engramme"
+    },
+    {
+      "ats": "ashby",
       "company": "Envision Horizons",
       "key": "ashby:envision-horizons",
       "slug": "envision-horizons"
@@ -2357,6 +2363,12 @@
       "company": "Sydecar",
       "key": "ashby:sydecar",
       "slug": "sydecar"
+    },
+    {
+      "ats": "ashby",
+      "company": "Taara",
+      "key": "ashby:taaraconnect",
+      "slug": "taaraconnect"
     },
     {
       "ats": "ashby",
@@ -7227,6 +7239,12 @@
       "company": "Coalfire",
       "key": "lever:coalfire",
       "slug": "coalfire"
+    },
+    {
+      "ats": "lever",
+      "company": "Cogent Analytics",
+      "key": "lever:cogentanalytics",
+      "slug": "cogentanalytics"
     },
     {
       "ats": "lever",
@@ -12101,7 +12119,7 @@
       "company": "Ace Hardware",
       "host": "acehardware.wd1.myworkdayjobs.com",
       "key": "workday:acehardware.wd1.myworkdayjobs.com:acehardware:external",
-      "site": "External",
+      "site": "external",
       "slug": "acehardware",
       "wd": "wd1"
     },
@@ -17207,6 +17225,15 @@
       "site": "Securian_External",
       "slug": "hq",
       "wd": "wd12"
+    },
+    {
+      "ats": "workday",
+      "company": "Hospital for Special Surgery",
+      "host": "hss.wd1.myworkdayjobs.com",
+      "key": "workday:hss.wd1.myworkdayjobs.com:hss:hss_careers",
+      "site": "HSS_Careers",
+      "slug": "hss",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
