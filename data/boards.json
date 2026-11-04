@@ -1514,6 +1514,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Morning Consult",
+      "key": "ashby:morningconsult",
+      "slug": "morningconsult"
+    },
+    {
+      "ats": "ashby",
       "company": "Morse Micro",
       "key": "ashby:morse-micro",
       "slug": "morse-micro"
@@ -3456,7 +3462,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "Assyst",
+      "company": "ASSYST",
       "key": "greenhouse:assystinc",
       "slug": "assystinc"
     },
@@ -12758,6 +12764,15 @@
     },
     {
       "ats": "workday",
+      "company": "Apache Industrial",
+      "host": "apacheip.wd1.myworkdayjobs.com",
+      "key": "workday:apacheip.wd1.myworkdayjobs.com:apacheip:apache_careers",
+      "site": "apache_careers",
+      "slug": "apacheip",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Apple Bank",
       "host": "applebank.wd5.myworkdayjobs.com",
       "key": "workday:applebank.wd5.myworkdayjobs.com:applebank:applebankcareers",
@@ -14918,6 +14933,24 @@
     },
     {
       "ats": "workday",
+      "company": "COUNTRY Financial\u00ae",
+      "host": "countryfinancial.wd5.myworkdayjobs.com",
+      "key": "workday:countryfinancial.wd5.myworkdayjobs.com:countryfinancial:countryagencyexternal",
+      "site": "COUNTRYAgencyExternal",
+      "slug": "countryfinancial",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "COUNTRY Financial\u00ae",
+      "host": "countryfinancial.wd5.myworkdayjobs.com",
+      "key": "workday:countryfinancial.wd5.myworkdayjobs.com:countryfinancial:countrycorporateexternal",
+      "site": "COUNTRYCorporateExternal",
+      "slug": "countryfinancial",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "COUNTRY Financial",
       "host": "countryfinancial.wd5.myworkdayjobs.com",
       "key": "workday:countryfinancial.wd5.myworkdayjobs.com:countryfinancial:countrycorporateinternships",
@@ -16058,6 +16091,15 @@
       "site": "FINC",
       "slug": "finastra",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Firefly Aerospace",
+      "host": "fireflyspace.wd115.myworkdayjobs.com",
+      "key": "workday:fireflyspace.wd115.myworkdayjobs.com:fireflyspace:firefly",
+      "site": "Firefly",
+      "slug": "fireflyspace",
+      "wd": "wd115"
     },
     {
       "ats": "workday",
@@ -19283,7 +19325,7 @@
     },
     {
       "ats": "workday",
-      "company": "NCR",
+      "company": "NCR Voyix",
       "host": "ncr.wd1.myworkdayjobs.com",
       "key": "workday:ncr.wd1.myworkdayjobs.com:ncr:ext_us",
       "site": "ext_us",
@@ -23456,6 +23498,15 @@
       "site": "veleracareers",
       "slug": "velera",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Hach",
+      "host": "veralto.wd1.myworkdayjobs.com",
+      "key": "workday:veralto.wd1.myworkdayjobs.com:veralto:hachjobs",
+      "site": "HachJobs",
+      "slug": "veralto",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
