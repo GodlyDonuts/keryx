@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,400 internships · 5,109 new-grad roles · 15,509 total openings**
+**10,829 internships · 5,590 new-grad roles · 16,419 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,835 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 338 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 715 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 231 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,281 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 5,069 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 343 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 739 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 235 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 4,443 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,169 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,358 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,582 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,220 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,615 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,755 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| AECOM | Internship and Entry-Level Graduate Opportunities - California State University, Sacramento Fall 2026 Engineering & Computer Science Career Fair | Sacramento, CA, United States (Hybrid) | Fall 2026 | not available | 2026-11-04 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000159662579)**<br><sub>jobs.smartrecruiters.com</sub> |
-| ARCO a Family of Construction Companies | Construction Project Manager Intern or Co-op (2027) | Greenville, SC, US | Not listed | Current student status<br><sub>stated</sub> | 2026-11-04 | **[Apply →](https://job-boards.greenhouse.io/arco/jobs/4479411009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Aurora Innovation | Lidar Systems Intern | Mountain View, CA | Fall 2026 | Current student status<br><sub>required</sub> | 2026-11-04 | **[Apply →](https://jobs.ashbyhq.com/aurora-operations-inc/ce5ad079-0588-402a-aa0e-b5efe0ba28f1)**<br><sub>jobs.ashbyhq.com</sub> |
-| Berkshire Hathaway Energy | Intern - Renewable Generation Engineering | Des Moines, IA, United States | Not listed | Expected Aug 2027 graduation<br><sub>stated</sub> | 2026-11-04 | **[Apply →](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006009)**<br><sub>fa-essf-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
-| BGE, Inc | NASHVILLE - Land/Site Development, Internship | Nashville, Tennessee, United States | Not listed | not stated | 2026-11-04 | **[Apply →](https://job-boards.greenhouse.io/bgeinc/jobs/5473735008)**<br><sub>job-boards.greenhouse.io</sub> |
-| BorgWarner | Software Engineering Intern (Year-Round) | Auburn Hills - Michigan - USA | Not listed | not available | 2026-11-04 | **[Apply →](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1)**<br><sub>borgwarner.wd5.myworkdayjobs.com</sub> |
-| Centene | AI Business Strategy Intern (Undergraduate Summer 2027) | Remote-MO | Summer 2027 | not available | 2026-11-04 | **[Apply →](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Business-Strategy-Intern--Undergraduate-Summer-2027-_1667703-1)**<br><sub>centene.wd5.myworkdayjobs.com</sub> |
-| Clean Harbors | Electrical Engineer Intern - Summer 2027 | Fallon, NV, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-11-04 | **[Apply →](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168340)**<br><sub>epyc.fa.us2.oraclecloud.com</sub> |
-| Clean Harbors | Mechanical Engineer Intern - Summer 2027 | Wichita, KS, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-11-04 | **[Apply →](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/168312)**<br><sub>epyc.fa.us2.oraclecloud.com</sub> |
-| Clearwater Analytics | Software Development Intern | Boise, ID | Not listed | not available | 2026-11-04 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Boise/Software-Development-Intern_R12098)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
-| Clearwater Analytics | Software Development Intern | Chicago, IL | Not listed | not available | 2026-11-04 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12188)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
-| Dell Technologies | ISG Product Management Graduate Internship | Round Rock, TX, United States | Not listed | Dec 2027–May 2028<br><sub>stated</sub> | 2026-11-04 | **[Apply →](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297775)**<br><sub>iawmqy.fa.ocs.oraclecloud.com</sub> |
+| Bosch | Motorsport Software and Data Analytics Graduate Intern | Farmington Hills, MI, United States | Not listed | not available | 2026-11-06 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000160208440)**<br><sub>jobs.smartrecruiters.com</sub> |
+| CACI | AI/ML Engineering Co-op | King of Prussia, PA | Spring 2027 | not available | 2026-11-06 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
+| CACI | Software Engineering Co-op | King of Prussia, PA | Spring 2027 | not available | 2026-11-06 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
+| Elucid | Machine Learning PhD Intern | Boston, MA | Spring 2027 | not available | 2026-11-06 | **[Apply →](https://elucid.applytojob.com/apply/A4aXsoyfPV/Machine-Learning-PhD-Intern-Spring-2027)**<br><sub>elucid.applytojob.com</sub> |
+| Epic Games | Player Marketing Intern (MBA) | Cary,North Carolina,United States | Not listed | Current student status<br><sub>stated</sub> | 2026-11-06 | **[Apply →](https://epicgames.com/careers/jobs/6218206004?gh_jid=6218206004)**<br><sub>epicgames.com</sub> |
+| Galaxy | 2027 Digital Infrastructure Intern - NYC | New York | Summer 2027 | not available | 2026-11-06 | **[Apply →](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250002004)**<br><sub>job-boards.greenhouse.io</sub> |
+| Globus Medical | Software COOP | Methuen, MA | Not listed | not available | 2026-11-06 | **[Apply →](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Methuen-MA/Software-COOP_JR108063)**<br><sub>globusmedical.wd5.myworkdayjobs.com</sub> |
+| Hitachi Energy | Full Stack Developer Intern | Dallas, Texas, United States | Not listed | not available | 2026-11-06 | **[Apply →](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Dallas-Texas-United-States/Full-Stack-Developer-Intern_R0149426)**<br><sub>hitachi.wd1.myworkdayjobs.com</sub> |
+| Honeywell | Product Management Intern (MBA) | Atlanta, GA, United States | Not listed | Dec 2026 or later<br><sub>required</sub> | 2026-11-06 | **[Apply →](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159658)**<br><sub>ibqbjb.fa.ocs.oraclecloud.com</sub> |
+| Impact Advisors | Cloud ERP Implementation Intern | US Remote | Not listed | not available | 2026-11-06 | **[Apply →](https://impactadvisors.wd501.myworkdayjobs.com/impactadvisors/job/US-Remote/Cloud-ERP-Implementation-Intern_R101899)**<br><sub>impactadvisors.wd501.myworkdayjobs.com</sub> |
+| Innovative Systems | Intern/Co-op- Summer 2027 - Software Engineering | Pittsburgh, PA | Summer 2027 | not available | 2026-11-06 | **[Apply →](https://career.innovativesystems.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering)**<br><sub>career.innovativesystems.com</sub> |
+| Invesco | Early Career Intern - Real Estate (Data Science) | Dallas, Texas | Summer 2027 | not available | 2026-11-06 | **[Apply →](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1)**<br><sub>invesco.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| AeroVironment | RF PCB Layout Engineer | Germantown, MD, Albuquerque, NM | Not listed | not available | 2026-11-04 | **[Apply →](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/RF-PCB-Layout-Engineer_9319)**<br><sub>avav.wd1.myworkdayjobs.com</sub> |
-| Analog Devices | Field Robotics Systems Engineer | Wilmington, MA | Not listed | not available | 2026-11-04 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Field-Robotics-Systems-Engineer_R266640)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
-| Astranis Space Technologies | Flight Software Associate - Summer 2027 | San Francisco, CA | 2027 | not available | 2026-11-04 | **[Apply →](https://job-boards.greenhouse.io/astranis/jobs/4704716006)**<br><sub>job-boards.greenhouse.io</sub> |
-| Astranis Space Technologies | Flight Software Associate - Winter 2027 | San Francisco, CA | 2027 | not available | 2026-11-04 | **[Apply →](https://job-boards.greenhouse.io/astranis/jobs/4704714006)**<br><sub>job-boards.greenhouse.io</sub> |
-| endeavorai.com | Forward Deployed Engineer | Chicago, IL | Not listed | not available | 2026-11-04 | **[Apply →](https://jobs.ashbyhq.com/endeavorai/00a6bb4f-fccb-4948-a2e9-71b736c2b0b4/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
-| Halma | Product Specialist | Scottsdale, AZ | Not listed | not available | 2026-11-04 | **[Apply →](https://halma.wd3.myworkdayjobs.com/Halma/job/Scottsdale/Product-Specialist_JR26_001227)**<br><sub>halma.wd3.myworkdayjobs.com</sub> |
-| KLA | Software Engineer - Embedded Software/Firmware Development - Embedded Image Processing | Ann Arbor, MI | 2027 | not available | 2026-11-04 | **[Apply →](https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Ann-Arbor-MI/Software-Engineer---Embedded-Software-Firmware-Development---Embedded-Image-Processing--_2636711)**<br><sub>kla.wd1.myworkdayjobs.com</sub> |
-| KLA | Software Engineer - Embedded Software/Firmware Development - Embedded Image Processing | Ann Arbor, MI | 2027 | not available | 2026-11-04 | **[Apply →](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Ann-Arbor-MI/Software-Engineer---Embedded-Software-Firmware-Development---Embedded-Image-Processing--_2636711-1)**<br><sub>kla.wd1.myworkdayjobs.com</sub> |
-| L3Harris Technologies | Associate Software Engineer | Palm Bay, FL | Not listed | not available | 2026-11-04 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1447658800/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| L3Harris Technologies | Associate Software Engineer | Palm Bay, FL | Not listed | not available | 2026-11-04 | **[Apply →](https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1447664100/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| Northrop Grumman | Associate Hardware Electronics Engineer | Sykesville, MD | Not listed | not available | 2026-11-04 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-Associate-H-W-Electronics-Engineer---Sykesville-MD_R10258576)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
-| RTX | Electrical Engineer 1 - Test Solutions | Andover, MA, Marlborough, MA, Tewksbury, MA | Not listed | not available | 2026-11-04 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineer-I---Test-Solutions---Onsite_01836498-1)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
+| Amazon | Software Development Engineer | Newark, NJ | 2027 | not available | 2026-11-06 | **[Apply →](https://www.amazon.jobs/jobs/10566605/apply)**<br><sub>www.amazon.jobs</sub> |
+| Amazon | Software Development Engineer - Early Career | Cambridge, MA | 2027 | not available | 2026-11-06 | **[Apply →](https://www.amazon.jobs/jobs/10530257/apply)**<br><sub>www.amazon.jobs</sub> |
+| Amazon | Software Development Engineer - SoC Hardware Abstraction Layer | Cupertino, CA | Not listed | not available | 2026-11-06 | **[Apply →](https://amazon.jobs/en/jobs/10598432/software-development-engineer-soc-hal)**<br><sub>amazon.jobs</sub> |
+| Charles Schwab | Associate Software Development & Engineering | Austin, TX, Southlake, TX | Not listed | not available | 2026-11-06 | **[Apply →](https://career-schwab.icims.com/jobs/129593/job?mobile=true&needsRedirect=false)**<br><sub>career-schwab.icims.com</sub> |
+| Huntington Ingalls Industries | Software Engineer 1 | Newport News, VA | Not listed | not available | 2026-11-06 | **[Apply →](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1448477600/?ats=successfactors)**<br><sub>careers.huntingtoningalls.com</sub> |
+| Nationwide | Engineer - Software Engineer | Iowa, USA | 2027 | not available | 2026-11-06 | **[Apply →](https://nationwide.wd1.myworkdayjobs.com/en-US/nationwide_career/job/Iowa---Des-Moines-1100-Locust-Street/Engineer--Software-Engineer_101075)**<br><sub>nationwide.wd1.myworkdayjobs.com</sub> |
+| neurohire.ai | Data Scientist | Remote in USA | Not listed | not available | 2026-11-06 | **[Apply →](https://apply.workable.com/neurohire-dot-a-i/j/FC707275E0/apply)**<br><sub>apply.workable.com</sub> |
+| Palantir | Forward Deployed Software Engineer - New Grad - Warp Speed | New York City, NY | 2027 | Dec 2026–Spring 2027<br><sub>required</sub> | 2026-11-06 | **[Apply →](https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7)**<br><sub>jobs.lever.co</sub> |
+| SeatGeek | Software Engineer - New Grad | New York City, NY | 2027 | not available | 2026-11-06 | **[Apply →](https://seatgeek.com/jobs/8227548?gh_jid=8227548)**<br><sub>seatgeek.com</sub> |
+| Sopra Steria | FPGA Verification Engineer | Platteville, WI | Not listed | not available | 2026-11-06 | **[Apply →](https://jobs.smartrecruiters.com/SopraSteria1/744000160224361)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Sopra Steria | FPGA Verification Engineer – Entry Level | East Hartford, CT | Not listed | not available | 2026-11-06 | **[Apply →](https://jobs.smartrecruiters.com/SopraSteria1/744000160220699)**<br><sub>jobs.smartrecruiters.com</sub> |
+| TikTok | Research Engineer - Agentic Video Editing | San Jose, CA | Not listed | not available | 2026-11-06 | **[Apply →](https://lifeattiktok.com/search/7704036750285867269)**<br><sub>lifeattiktok.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
