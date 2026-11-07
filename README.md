@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,583 internships · 5,239 new-grad roles · 15,822 total openings**
+**10,652 internships · 5,231 new-grad roles · 15,883 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 4,962 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 337 | **[View openings →](internships/fall-2026.md)** |
+| ☀️ Summer 2027 | 4,999 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 335 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 723 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 231 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,330 | **[View openings →](internships/unscheduled.md)** |
+| ❄️ Winter 2027 | 235 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 4,360 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,133 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,372 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,734 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,127 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,385 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,719 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,7 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| AFB International | Engineering Intern | Aurora, MO | Not listed | not available | 2026-11-07 | **[Apply →](https://ebi.wd5.myworkdayjobs.com/afbcareers/job/Aurora-MO/Engineering-Intern_REQ107706-1)**<br><sub>ebi.wd5.myworkdayjobs.com</sub> |
 | American Century Investments | Sustainable Research Intern | New York, New York | Not listed | not available | 2026-11-07 | **[Apply →](https://americancentury.wd5.myworkdayjobs.com/americancenturyinvestments/job/New-York-New-York/Sustainable-Research-Intern_R0005745)**<br><sub>americancentury.wd5.myworkdayjobs.com</sub> |
 | Clearwater Analytics | Data Management & Reporting Intern | Office - New York | Not listed | not available | 2026-11-07 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Data-Management---Reporting-Intern_R12095)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
 | CNA Insurance | Technology Internship Program (Data Analytics) | Chicago, IL, USA | Not listed | not available | 2026-11-07 | **[Apply →](https://cna.wd1.myworkdayjobs.com/cna_careers/job/Chicago-IL-USA/Technology-Internship-Program--Data-Analytics-_R-8124)**<br><sub>cna.wd1.myworkdayjobs.com</sub> |
@@ -45,10 +46,9 @@ Recent internship and co-op listings that open the employer's application page d
 | KPE Research Solutions | Research Assistant Intern (unpaid) | Indiana, United States | Not listed | not available | 2026-11-07 | **[Apply →](https://kpersolutions.com/research-assistant-intern-unpaid/)**<br><sub>kpersolutions.com</sub> |
 | Shield AI | 2027 Summer Intern - Supplier Development Engineer - 6463 | Dallas, Texas | Summer 2027 | Dec 2027–Spring 2028<br><sub>stated / required</sub> | 2026-11-07 | **[Apply →](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/463966b6-fd51-47ef-b9b1-cb53c47cc275)**<br><sub>jobs.ashbyhq.com</sub> |
 | Shield AI | 2027 Summer Intern - Supply Chain Materials Planner - 6434 | Seattle, Washington | Summer 2027 | Dec 2027–Spring 2028<br><sub>required</sub> | 2026-11-07 | **[Apply →](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/3c202b6e-1aeb-4f57-b4b9-7062a1969809)**<br><sub>jobs.ashbyhq.com</sub> |
+| Tencent | Cloud Media Services Intern | Palo Alto, CA | Not listed | not available | 2026-11-07 | **[Apply →](https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186)**<br><sub>tencent.wd1.myworkdayjobs.com</sub> |
 | Tesla | Software Engineer Intern - SI Reinforcement Learning | Palo Alto, CA | Summer 2027 | not available | 2026-11-07 | **[Apply →](https://www.tesla.com/careers/search/job/289241)**<br><sub>www.tesla.com</sub> |
 | TikTok | Data Operations Intern | LA | Summer 2027 | not available | 2026-11-07 | **[Apply →](https://lifeattiktok.com/search/7704912455690504453)**<br><sub>lifeattiktok.com</sub> |
-| TikTok | GEO Content Product Manager Intern | San Jose, CA | Summer 2027 | not available | 2026-11-07 | **[Apply →](https://lifeattiktok.com/search/7696000178264361269)**<br><sub>lifeattiktok.com</sub> |
-| TikTok | Software Engineer Intern | San Jose, CA | Summer 2027 | not available | 2026-11-07 | **[Apply →](https://lifeattiktok.com/search/7705012688944810245)**<br><sub>lifeattiktok.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
