@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,694 internships · 5,254 new-grad roles · 15,948 total openings**
+**10,626 internships · 5,251 new-grad roles · 15,877 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 5,033 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 342 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 731 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 236 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,352 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 5,004 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 340 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 728 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 235 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 4,319 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,142 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,395 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,717 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,139 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,400 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,712 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -42,13 +42,13 @@ Recent internship and co-op listings that open the employer's application page d
 | TikTok | Software Engineer Intern | San Jose, CA | Summer 2027 | not available | 2026-11-07 | **[Apply →](https://lifeattiktok.com/search/7705012688944810245)**<br><sub>lifeattiktok.com</sub> |
 | Zoox | AI Workflows & Safety Decision Making Intern \[2027\] | Foster City, CA | Summer 2027 | not available | 2026-11-07 | **[Apply →](https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1)**<br><sub>jobs.lever.co</sub> |
 | ASML | Internship - Mechanical Design Engineer | Wilton, CT, USA | Not listed | not available | 2026-11-06 | **[Apply →](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Design-Engineer_J-00356215)**<br><sub>asml.wd3.myworkdayjobs.com</sub> |
+| ASML | Internship - Mechatronics Engineer | Wilton, CT, USA | Not listed | not available | 2026-11-06 | **[Apply →](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356213)**<br><sub>asml.wd3.myworkdayjobs.com</sub> |
 | Bosch | Motorsport Software and Data Analytics Graduate Intern | Farmington Hills, MI, United States | Not listed | not available | 2026-11-06 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000160208440)**<br><sub>jobs.smartrecruiters.com</sub> |
 | CACI | AI/ML Engineering Co-op | King of Prussia, PA | Spring 2027 | not available | 2026-11-06 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
 | CACI | Software Engineering Co-op | King of Prussia, PA | Spring 2027 | not available | 2026-11-06 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
 | Citadel | Software Engineer - Intern - US | Houston, TX +2 | Not listed | not available | 2026-11-06 | **[Apply →](https://www.citadel.com/careers/details/software-engineer-intern-us/)**<br><sub>www.citadel.com</sub> |
 | Clean Harbors | Process Technology Intern Industrial Services / Summer 2027 | Crossville, IL, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-11-06 | **[Apply →](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167974)**<br><sub>epyc.fa.us2.oraclecloud.com</sub> |
 | Deeplocal | Creative Technology Intern | Pittsburgh, PA | Summer 2027 | not available | 2026-11-06 | **[Apply →](https://job-boards.greenhouse.io/deeplocal/jobs/8360330)**<br><sub>job-boards.greenhouse.io</sub> |
-| Duolingo | AI Research Intern | Pittsburgh, PA, NYC | Summer 2027 | not available | 2026-11-06 | **[Apply →](https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002)**<br><sub>careers.duolingo.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
