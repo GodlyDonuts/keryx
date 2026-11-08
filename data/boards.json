@@ -58,7 +58,7 @@
       "ats": "ashby",
       "company": "Agave",
       "key": "ashby:agave",
-      "slug": "agave"
+      "slug": "Agave"
     },
     {
       "ats": "ashby",
@@ -118,7 +118,7 @@
       "ats": "ashby",
       "company": "Anori",
       "key": "ashby:anori",
-      "slug": "anori"
+      "slug": "Anori"
     },
     {
       "ats": "ashby",
@@ -208,7 +208,7 @@
       "ats": "ashby",
       "company": "Astro Mechanica",
       "key": "ashby:astro-mechanica",
-      "slug": "astro-mechanica"
+      "slug": "Astro-Mechanica"
     },
     {
       "ats": "ashby",
@@ -496,7 +496,7 @@
       "ats": "ashby",
       "company": "Coinflow",
       "key": "ashby:coinflow",
-      "slug": "coinflow"
+      "slug": "Coinflow"
     },
     {
       "ats": "ashby",
@@ -1258,7 +1258,7 @@
       "ats": "ashby",
       "company": "Kognitos",
       "key": "ashby:kognitos",
-      "slug": "kognitos"
+      "slug": "Kognitos"
     },
     {
       "ats": "ashby",
@@ -1312,7 +1312,7 @@
       "ats": "ashby",
       "company": "Lightfield",
       "key": "ashby:lightfield",
-      "slug": "lightfield"
+      "slug": "Lightfield"
     },
     {
       "ats": "ashby",
@@ -2236,7 +2236,7 @@
       "ats": "ashby",
       "company": "Serval",
       "key": "ashby:serval",
-      "slug": "serval"
+      "slug": "Serval"
     },
     {
       "ats": "ashby",
@@ -2584,7 +2584,7 @@
       "ats": "ashby",
       "company": "Valon Tech",
       "key": "ashby:valon",
-      "slug": "valon"
+      "slug": "Valon"
     },
     {
       "ats": "ashby",
@@ -13785,6 +13785,15 @@
     },
     {
       "ats": "workday",
+      "company": "Bloom Energy",
+      "host": "bloomenergy.wd1.myworkdayjobs.com",
+      "key": "workday:bloomenergy.wd1.myworkdayjobs.com:bloomenergy:bloomenergycareers",
+      "site": "BloomEnergyCareers",
+      "slug": "bloomenergy",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Blue Origin",
       "host": "blueorigin.wd5.myworkdayjobs.com",
       "key": "workday:blueorigin.wd5.myworkdayjobs.com:blueorigin:blueorigin",
@@ -15444,7 +15453,7 @@
       "company": "DataRobot",
       "host": "datarobot.wd1.myworkdayjobs.com",
       "key": "workday:datarobot.wd1.myworkdayjobs.com:datarobot:datarobot_external_careers",
-      "site": "DataRobot_External_Careers",
+      "site": "datarobot_external_careers",
       "slug": "datarobot",
       "wd": "wd1"
     },
@@ -18924,6 +18933,15 @@
     },
     {
       "ats": "workday",
+      "company": "Martin Marietta",
+      "host": "martinmarietta.wd5.myworkdayjobs.com",
+      "key": "workday:martinmarietta.wd5.myworkdayjobs.com:martinmarietta:martin_marietta_careers",
+      "site": "Martin_Marietta_Careers",
+      "slug": "martinmarietta",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Marvell",
       "host": "marvell.wd1.myworkdayjobs.com",
       "key": "workday:marvell.wd1.myworkdayjobs.com:marvell:marvellcareers",
@@ -20364,7 +20382,7 @@
     },
     {
       "ats": "workday",
-      "company": "Paloaltonetworks",
+      "company": "Palo Alto Networks",
       "host": "paloaltonetworks.wd5.myworkdayjobs.com",
       "key": "workday:paloaltonetworks.wd5.myworkdayjobs.com:paloaltonetworks:hidden-private-pawn-temp-gateway-147258369",
       "site": "hidden-private-pawn-temp-gateway-147258369",
