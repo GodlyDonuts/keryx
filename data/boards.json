@@ -2062,7 +2062,7 @@
       "ats": "ashby",
       "company": "REGENT",
       "key": "ashby:regent",
-      "slug": "regent"
+      "slug": "REGENT"
     },
     {
       "ats": "ashby",
@@ -2865,6 +2865,13 @@
       "host": "dubak.bamboohr.com",
       "key": "bamboohr:dubak",
       "slug": "dubak"
+    },
+    {
+      "ats": "bamboohr",
+      "company": "ECM Tek, LLC",
+      "host": "ecmtek.bamboohr.com",
+      "key": "bamboohr:ecmtek",
+      "slug": "ecmtek"
     },
     {
       "ats": "bamboohr",
@@ -7903,7 +7910,7 @@
     },
     {
       "ats": "lever",
-      "company": "Pivotal Aero",
+      "company": "Pivotal Software",
       "key": "lever:pivotal",
       "slug": "pivotal"
     },
@@ -11649,7 +11656,7 @@
     },
     {
       "ats": "workable",
-      "company": "Multi Media, LLC",
+      "company": "Multi Media",
       "key": "workable:multimediallc",
       "slug": "multimediallc"
     },
@@ -14484,6 +14491,15 @@
     },
     {
       "ats": "workday",
+      "company": "CEC Entertainment",
+      "host": "cecentertainment.wd5.myworkdayjobs.com",
+      "key": "workday:cecentertainment.wd5.myworkdayjobs.com:cecentertainment:cec_careers",
+      "site": "CEC_Careers",
+      "slug": "cecentertainment",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Central Hudson",
       "host": "cenhud.wd5.myworkdayjobs.com",
       "key": "workday:cenhud.wd5.myworkdayjobs.com:cenhud:cenhud",
@@ -15759,6 +15775,15 @@
       "site": "dtna_external",
       "slug": "dtna",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Duly Health and Care",
+      "host": "dulyhealthandcare.wd1.myworkdayjobs.com",
+      "key": "workday:dulyhealthandcare.wd1.myworkdayjobs.com:dulyhealthandcare:duly",
+      "site": "Duly",
+      "slug": "dulyhealthandcare",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
@@ -19212,7 +19237,7 @@
       "company": "MFS",
       "host": "mfs.wd1.myworkdayjobs.com",
       "key": "workday:mfs.wd1.myworkdayjobs.com:mfs:mfs-careers",
-      "site": "mfs-careers",
+      "site": "MFS-Careers",
       "slug": "mfs",
       "wd": "wd1"
     },
@@ -19515,7 +19540,7 @@
     },
     {
       "ats": "workday",
-      "company": "Mitsubishi UFG",
+      "company": "MUFG",
       "host": "mufgub.wd3.myworkdayjobs.com",
       "key": "workday:mufgub.wd3.myworkdayjobs.com:mufgub:mufg-careers",
       "site": "mufg-careers",
@@ -23469,7 +23494,7 @@
       "company": "Milwaukee Tool",
       "host": "tti.wd1.myworkdayjobs.com",
       "key": "workday:tti.wd1.myworkdayjobs.com:tti:milwaukee",
-      "site": "milwaukee",
+      "site": "Milwaukee",
       "slug": "tti",
       "wd": "wd1"
     },
@@ -24546,10 +24571,10 @@
     },
     {
       "ats": "workday",
-      "company": "WGU",
+      "company": "WGU - Western Governors University",
       "host": "wgu.wd5.myworkdayjobs.com",
       "key": "workday:wgu.wd5.myworkdayjobs.com:wgu:external",
-      "site": "External",
+      "site": "external",
       "slug": "wgu",
       "wd": "wd5"
     },
