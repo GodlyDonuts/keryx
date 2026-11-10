@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,469 internships · 5,022 new-grad roles · 15,491 total openings**
+**10,566 internships · 5,110 new-grad roles · 15,676 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 5,025 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 331 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 669 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 218 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,226 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 5,039 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 333 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 676 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 220 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 4,298 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,150 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,133 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,739 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,191 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,191 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,728 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| General Dynamics Mission Systems | Ontology and Semantic Engineering Intern | Chantilly, VA, Pittsfield, MA, Scottsdale, AZ | Summer 2027 | not available | 2026-11-10 | **[Apply →](https://careers-gdms.icims.com/jobs/76088/job?mobile=true&needsRedirect=false)**<br><sub>careers-gdms.icims.com</sub> |
-| General Dynamics Mission Systems | Ontology Data Analysis and Validation Intern | Chantilly, VA, Pittsfield, MA, Scottsdale, AZ | Summer 2027 | not available | 2026-11-10 | **[Apply →](https://careers-gdms.icims.com/jobs/76095/job?mobile=true&needsRedirect=false)**<br><sub>careers-gdms.icims.com</sub> |
-| Intuitive Surgical | Robotics and Controls Engineer Intern | Sunnyvale, CA | Summer 2027 | not available | 2026-11-10 | **[Apply →](https://jobs.smartrecruiters.com/Intuitive/744000160747319)**<br><sub>jobs.smartrecruiters.com</sub> |
-| onsemi | AI & Data Analytics Intern | Scottsdale, AZ | Summer 2027 | not available | 2026-11-10 | **[Apply →](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010)**<br><sub>hctz.fa.us2.oraclecloud.com</sub> |
-| REGENT | Defense Team - Business Development Co-Op (Spring 2027) | North Kingstown, Rhode Island, USA | Spring 2027 | not stated | 2026-11-10 | **[Apply →](https://jobs.ashbyhq.com/REGENT/ef7de80d-2e83-4714-9d77-5508d5f34086)**<br><sub>jobs.ashbyhq.com</sub> |
-| REGENT | Engineering Intern to the Chief Engineer (Summer) | North Kingstown, Rhode Island, USA | Not listed | not stated | 2026-11-10 | **[Apply →](https://jobs.ashbyhq.com/REGENT/3d52867d-d340-4f45-8b35-9533ee456db8)**<br><sub>jobs.ashbyhq.com</sub> |
-| REGENT | Human Factors Intern (Summer) | North Kingstown, Rhode Island, USA | Not listed | not stated | 2026-11-10 | **[Apply →](https://jobs.ashbyhq.com/REGENT/f2a3c474-c7e6-47b5-bf78-1ebbf3298526)**<br><sub>jobs.ashbyhq.com</sub> |
-| REGENT | Mass Properties Intern (Summer) | North Kingstown, Rhode Island, USA | Not listed | not stated | 2026-11-10 | **[Apply →](https://jobs.ashbyhq.com/REGENT/7c8fd767-dbac-41d8-a9f8-a364741d6c2a)**<br><sub>jobs.ashbyhq.com</sub> |
-| REGENT | Modeling & Simulation Intern (Summer) | North Kingstown, Rhode Island, USA | Not listed | not stated | 2026-11-10 | **[Apply →](https://jobs.ashbyhq.com/REGENT/bca4be90-229d-49c4-8424-44a15dd72b1c)**<br><sub>jobs.ashbyhq.com</sub> |
-| REGENT | Performance Intern (Summer) | North Kingstown, Rhode Island, USA | Not listed | not stated | 2026-11-10 | **[Apply →](https://jobs.ashbyhq.com/REGENT/9cdc5628-fa73-4c8a-9aac-7a7399153a5b)**<br><sub>jobs.ashbyhq.com</sub> |
-| 7-Eleven | Data Engineer Intern | Irving, TX | Summer 2027 | not available | 2026-11-09 | **[Apply →](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281)**<br><sub>my7elevenhr.wd12.myworkdayjobs.com</sub> |
-| Acres | Data Intern | Fayetteville, AR, United States | Not listed | not available | 2026-11-09 | **[Apply →](https://ats.rippling.com/acres/jobs/4c4d71f6-c2d3-4184-a8e8-517b254af892)**<br><sub>ats.rippling.com</sub> |
+| Addepar | AI Engineering Intern - Summer 2027 | New York, NY | Summer 2027 | not available | 2026-11-10 | **[Apply →](https://job-boards.greenhouse.io/addepar1/jobs/8927543002)**<br><sub>job-boards.greenhouse.io</sub> |
+| Addepar | Software Engineering Intern - Summer 2027 | New York, NY | Summer 2027 | not available | 2026-11-10 | **[Apply →](https://job-boards.greenhouse.io/addepar1/jobs/8927531002)**<br><sub>job-boards.greenhouse.io</sub> |
+| All-Star Sports Academy | Baseball Data Analyst Intern - Summer 2027 | West Chester, PA, United States | Summer 2027 | not available | 2026-11-10 | **[Apply →](https://www.teamworkonline.com/youth-sports-jobs/All-Star-Sports-Academy-jobs/All-Star-Sports-Academy-jobs/baseball-data-analyst-intern-summer-2027-2199031)**<br><sub>www.teamworkonline.com</sub> |
+| AllianceBernstein | Infrastructure Engineering Summer Intern | Nashville, Tennessee | Not listed | not available | 2026-11-10 | **[Apply →](https://abglobal.wd1.myworkdayjobs.com/abcampuscareers/job/Nashville-Tennessee/Infrastructure-Engineering-Summer-Intern_R0019749)**<br><sub>abglobal.wd1.myworkdayjobs.com</sub> |
+| Celonis | Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern | Raleigh, US, North Carolina | Not listed | not available | 2026-11-10 | **[Apply →](https://job-boards.greenhouse.io/celonis/jobs/8198760003?gh_jid=8198760003)**<br><sub>job-boards.greenhouse.io</sub> |
+| DP World | AI & Analytics Intern - Talent Management | Charlotte, NC | Summer 2027 | not available | 2026-11-10 | **[Apply →](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27855)**<br><sub>ehpv.fa.em2.oraclecloud.com</sub> |
+| EquipmentShare | Engineering Intern - Embedded | Columbia, MO | Summer 2027 | not available | 2026-11-10 | **[Apply →](https://www.equipmentshare.com/careers/openings/?gh_jid=8371891)**<br><sub>www.equipmentshare.com</sub> |
+| EquipmentShare | Engineering Intern - Embedded | Columbia, MO | Summer 2027 | not available | 2026-11-10 | **[Apply →](https://www.equipmentshare.com/careers/openings/?gh_jid=8371896)**<br><sub>www.equipmentshare.com</sub> |
+| EquipmentShare | Intern: Engineering - Embedded | Columbia, MO | Not listed | not available | 2026-11-10 | **[Apply →](https://www.equipmentshare.com/careers/openings/?gh_jid=8142763)**<br><sub>www.equipmentshare.com</sub> |
+| Eulerity | Backend Developer Intern | New York City, NY | Not listed | not stated | 2026-11-10 | **[Apply →](https://job-boards.greenhouse.io/eulerity/jobs/4709040006)**<br><sub>job-boards.greenhouse.io</sub> |
+| FormFactor | Intern, Facilities Engineering | Farmers Branch, TX | Not listed | not available | 2026-11-10 | **[Apply →](https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Farmers-Branch-TX/Intern--Facilities-Engineering_JR101337-1)**<br><sub>formfactor.wd1.myworkdayjobs.com</sub> |
+| GEICO | Insurance Product & Pricing Internship Program - Analytics Track | Bethesda, MD | Not listed | not available | 2026-11-10 | **[Apply →](https://geico.wd1.myworkdayjobs.com/external/job/Bethesda-MD/Insurance-Product---Pricing-Internship-Program---Analytics-Track_R0066582)**<br><sub>geico.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| L3Harris Technologies | Senior Associate, Integration / Test Engineer | Colorado Springs, CO | Not listed | not available | 2026-11-10 | **[Apply →](https://jobs.l3harris.com/job/Colorado-Springs-Sr_-Associate,-Integration-Test-Engineer-CO-80916/1423113700/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| Multi Media | Software Engineer 1/2 | Remote in USA | Not listed | not available | 2026-11-10 | **[Apply →](https://apply.workable.com/multimediallc/j/24DBCDDF27/apply#jobs)**<br><sub>apply.workable.com</sub> |
-| Adobe | Data Science Engineer New Grad | San Jose, CA | Not listed | not available | 2026-11-09 | **[Apply →](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455)**<br><sub>adobe.wd5.myworkdayjobs.com</sub> |
-| Advantage Solutions | Category Insights Analyst | Dallas, TX, Chicago, IL, Boise, ID, St. Louis, MO | Not listed | not available | 2026-11-09 | **[Apply →](https://uscareers2-asm.icims.com/jobs/442816/job?mobile=true&needsRedirect=false)**<br><sub>uscareers2-asm.icims.com</sub> |
-| AECOM | Entry Level Civil Engineer | Minneapolis, MN SUITE 1100 800, us | Not listed | not available | 2026-11-09 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000160722789)**<br><sub>jobs.smartrecruiters.com</sub> |
-| AECOM | Software Developer 1 | Tallahassee, FL | Not listed | not available | 2026-11-09 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000160723419)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Anduril | Early Career RF Mission Systems Engineer, Air Dominance & Strike | Costa Mesa, California, United States | Not listed | not stated | 2026-11-09 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5290310007?gh_jid=5290310007)**<br><sub>boards.greenhouse.io</sub> |
-| Broadcom | DFT Engineer | San Jose, CA | Not listed | not available | 2026-11-09 | **[Apply →](https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA-San-Jose-Innovation-Drive/DFT-Engineer_R027651-4)**<br><sub>broadcom.wd1.myworkdayjobs.com</sub> |
-| CarMax | Technology Rotation Program | Richmond, VA | Not listed | not available | 2026-11-09 | **[Apply →](https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Technology-Rotation-Program_JR-189585)**<br><sub>carmax.wd1.myworkdayjobs.com</sub> |
-| Chalk | Software Engineer - New Grad | San Francisco, CA +1 | 2027 | not available | 2026-11-09 | **[Apply →](https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f)**<br><sub>jobs.ashbyhq.com</sub> |
-| Circuit Clinical | Clinical Informatics Analyst | Remote in USA | Not listed | not available | 2026-11-09 | **[Apply →](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4651814)**<br><sub>recruiting.paylocity.com</sub> |
-| CSI | Software Engineer 1 - C#/.NET | Paducah, KY, Valparaiso, IN | Not listed | not available | 2026-11-09 | **[Apply →](https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Paducah-KY-Corporate/Software-Engineer-I---C--NET---Hybrid---Paducah--KY_R-100739)**<br><sub>csiweb.wd1.myworkdayjobs.com</sub> |
+| Accenture Federal Services | Software Installation Engineer | San Diego, CA | 2027 | not available | 2026-11-10 | **[Apply →](https://boards.greenhouse.io/accenturefederalservices/jobs/4712838006?gh_jid=4712838006)**<br><sub>boards.greenhouse.io</sub> |
+| Amazon | Software Development Engineer | Newark, NJ | 2027 | not available | 2026-11-10 | **[Apply →](https://www.amazon.jobs/jobs/10566605/apply)**<br><sub>www.amazon.jobs</sub> |
+| Amazon | Software Development Engineer - Early Career - 2027 - US | Seattle, WA | 2027 | not available | 2026-11-10 | **[Apply →](https://www.amazon.jobs/jobs/10583340/apply)**<br><sub>www.amazon.jobs</sub> |
+| Amazon | Software Development Engineer - iOS | Newark, NJ | 2027 | not available | 2026-11-10 | **[Apply →](https://www.amazon.jobs/jobs/10595875/apply)**<br><sub>www.amazon.jobs</sub> |
+| Amentum | RTOS / VXWorks developer | Dahlgren, VA | 2027 | not available | 2026-11-10 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/RTOS---VXWorks-developer_R0168163-1)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
+| Anysphere | Software Engineer, New Grad 2027 | San Francisco, CA | 2027 | 2027 or later<br><sub>stated</sub> | 2026-11-10 | **[Apply →](https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6)**<br><sub>jobs.ashbyhq.com</sub> |
+| Atoms | Early Career Recruiting | Los Angeles, CA | Not listed | not stated | 2026-11-10 | **[Apply →](https://job-boards.greenhouse.io/cssmerge/jobs/8936917002)**<br><sub>job-boards.greenhouse.io</sub> |
+| Atoms | Early Career Recruiting | San Francisco, CA | Not listed | not stated | 2026-11-10 | **[Apply →](https://job-boards.greenhouse.io/cssmerge/jobs/8936923002)**<br><sub>job-boards.greenhouse.io</sub> |
+| Boeing | Associate Software Test Engineer - P-8 Mission Systems | Kent, WA | 2027 | not available | 2026-11-10 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Kent-WA/Associate-Software-Test-Engineer--P-8-Mission-Systems-_JR2026496240-1)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
+| CrossCountry Consulting | Forward Deployed Software Engineer - Recent Graduate - New York | New York City, NY | 2027 | not available | 2026-11-10 | **[Apply →](https://jobs.lever.co/crosscountry-consulting/f294b6dd-b2dc-46c5-9139-9ba93163ba5c)**<br><sub>jobs.lever.co</sub> |
+| Eagle Wireless | MES Software Engineer | Solon, OH | Not listed | not available | 2026-11-10 | **[Apply →](https://ats.rippling.com/eagle-wireless/jobs/98f304e6-3067-4d28-ba94-4c48d5c92434)**<br><sub>ats.rippling.com</sub> |
+| Eagle Wireless | Test Automation Engineer | St Louis Park, MN | Not listed | not available | 2026-11-10 | **[Apply →](https://ats.rippling.com/eagle-wireless/jobs/ada461d3-5a62-4dcf-bf3f-c561bc264c38)**<br><sub>ats.rippling.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
