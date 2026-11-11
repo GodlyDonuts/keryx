@@ -3632,6 +3632,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Avride",
+      "key": "greenhouse:avride",
+      "slug": "avride"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Awetomaton",
       "key": "greenhouse:awetomaton",
       "slug": "awetomaton"
@@ -5864,6 +5870,18 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Pathward",
+      "key": "greenhouse:pathward",
+      "slug": "pathward"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Pathward",
+      "key": "greenhouse:pathward%22%7d%7d",
+      "slug": "pathward%22%7D%7D"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Pattern Data",
       "key": "greenhouse:patterndata",
       "slug": "patterndata"
@@ -7295,6 +7313,12 @@
       "company": "Belvedere Trading, LLC",
       "key": "lever:belvederetrading%22",
       "slug": "belvederetrading%22"
+    },
+    {
+      "ats": "lever",
+      "company": "Biointellisense",
+      "key": "lever:biointellisense",
+      "slug": "biointellisense"
     },
     {
       "ats": "lever",
@@ -11794,7 +11818,7 @@
     },
     {
       "ats": "workable",
-      "company": "pony.ai",
+      "company": "Pony.ai",
       "key": "workable:pony-dot-ai",
       "slug": "pony-dot-ai"
     },
@@ -15904,7 +15928,7 @@
       "company": "Echo Global Logistics",
       "host": "echo.wd1.myworkdayjobs.com",
       "key": "workday:echo.wd1.myworkdayjobs.com:echo:echo_logistics",
-      "site": "echo_logistics",
+      "site": "Echo_Logistics",
       "slug": "echo",
       "wd": "wd1"
     },
@@ -17503,7 +17527,7 @@
     },
     {
       "ats": "workday",
-      "company": "Hewlett Packard",
+      "company": "HP Inc",
       "host": "hp.wd5.myworkdayjobs.com",
       "key": "workday:hp.wd5.myworkdayjobs.com:hp:exteu-ac-careersite",
       "site": "EXTEU-AC-CareerSite",
@@ -19225,7 +19249,7 @@
       "company": "Medtronic",
       "host": "medtronic.wd1.myworkdayjobs.com",
       "key": "workday:medtronic.wd1.myworkdayjobs.com:medtronic:medtroniccareers",
-      "site": "medtroniccareers",
+      "site": "MedtronicCareers",
       "slug": "medtronic",
       "wd": "wd1"
     },
@@ -21619,7 +21643,7 @@
       "company": "Salesforce",
       "host": "salesforce.wd12.myworkdayjobs.com",
       "key": "workday:salesforce.wd12.myworkdayjobs.com:salesforce:futureforce_newgradroles",
-      "site": "Futureforce_NewGradRoles",
+      "site": "futureforce_newgradroles",
       "slug": "salesforce",
       "wd": "wd12"
     },
@@ -24595,10 +24619,10 @@
     },
     {
       "ats": "workday",
-      "company": "Wex",
+      "company": "WEX",
       "host": "wexinc.wd5.myworkdayjobs.com",
       "key": "workday:wexinc.wd5.myworkdayjobs.com:wexinc:wexinc",
-      "site": "WEXInc",
+      "site": "wexinc",
       "slug": "wexinc",
       "wd": "wd5"
     },
