@@ -44,6 +44,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Adaption",
+      "key": "ashby:adaption",
+      "slug": "adaption"
+    },
+    {
+      "ats": "ashby",
       "company": "Aditude",
       "key": "ashby:aditude",
       "slug": "aditude"
@@ -833,6 +839,12 @@
       "company": "Focused",
       "key": "ashby:focused",
       "slug": "focused"
+    },
+    {
+      "ats": "ashby",
+      "company": "Formulary Financial",
+      "key": "ashby:formulary",
+      "slug": "formulary"
     },
     {
       "ats": "ashby",
@@ -1793,6 +1805,12 @@
       "company": "PAR Technology",
       "key": "ashby:par%20technology",
       "slug": "PAR%20Technology"
+    },
+    {
+      "ats": "ashby",
+      "company": "Parabola",
+      "key": "ashby:parabola-io",
+      "slug": "parabola-io"
     },
     {
       "ats": "ashby",
@@ -3810,6 +3828,12 @@
       "company": "Brevium",
       "key": "greenhouse:brevium",
       "slug": "brevium"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Brex",
+      "key": "greenhouse:brex",
+      "slug": "brex"
     },
     {
       "ats": "greenhouse",
@@ -11051,6 +11075,12 @@
     },
     {
       "ats": "smartrecruiters",
+      "company": "Spring Venture Group",
+      "key": "smartrecruiters:springventuregroup1",
+      "slug": "SpringVentureGroup1"
+    },
+    {
+      "ats": "smartrecruiters",
       "company": "Software Quality Experts",
       "key": "smartrecruiters:sqexpetsllc",
       "slug": "SQexpetsLLC"
@@ -16991,6 +17021,15 @@
     },
     {
       "ats": "workday",
+      "company": "Gordon Food Service",
+      "host": "gfs.wd5.myworkdayjobs.com",
+      "key": "workday:gfs.wd5.myworkdayjobs.com:gfs:usprivate-gfs",
+      "site": "usprivate-gfs",
+      "slug": "gfs",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Graham Healthcare Group",
       "host": "ghc.wd1.myworkdayjobs.com",
       "key": "workday:ghc.wd1.myworkdayjobs.com:ghc:ghg_careers",
@@ -18035,6 +18074,15 @@
     },
     {
       "ats": "workday",
+      "company": "InteLogix",
+      "host": "intelogix.wd108.myworkdayjobs.com",
+      "key": "workday:intelogix.wd108.myworkdayjobs.com:intelogix:external",
+      "site": "external",
+      "slug": "intelogix",
+      "wd": "wd108"
+    },
+    {
+      "ats": "workday",
       "company": "Interdigital",
       "host": "interdigital.wd5.myworkdayjobs.com",
       "key": "workday:interdigital.wd5.myworkdayjobs.com:interdigital:interdigital_career",
@@ -18275,6 +18323,15 @@
       "site": "JET_Careers",
       "slug": "jasperholdings",
       "wd": "wd504"
+    },
+    {
+      "ats": "workday",
+      "company": "Marel",
+      "host": "jbtm.wd108.myworkdayjobs.com",
+      "key": "workday:jbtm.wd108.myworkdayjobs.com:jbtm:jbt_marel_career_site",
+      "site": "jbt_marel_career_site",
+      "slug": "jbtm",
+      "wd": "wd108"
     },
     {
       "ats": "workday",
