@@ -3056,6 +3056,13 @@
     },
     {
       "ats": "bamboohr",
+      "company": "Petite Plume",
+      "host": "petiteplume.bamboohr.com",
+      "key": "bamboohr:petiteplume",
+      "slug": "petiteplume"
+    },
+    {
+      "ats": "bamboohr",
       "company": "PHIHONG USA",
       "host": "phihong.bamboohr.com",
       "key": "bamboohr:phihong",
@@ -4139,6 +4146,12 @@
       "company": "Copper River Family of Companies",
       "key": "greenhouse:crfamilyofcompanies",
       "slug": "crfamilyofcompanies"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Critical Mass",
+      "key": "greenhouse:criticalmass",
+      "slug": "criticalmass"
     },
     {
       "ats": "greenhouse",
@@ -11818,7 +11831,7 @@
     },
     {
       "ats": "workable",
-      "company": "Pony.ai",
+      "company": "pony.ai",
       "key": "workable:pony-dot-ai",
       "slug": "pony-dot-ai"
     },
@@ -14485,10 +14498,10 @@
     },
     {
       "ats": "workday",
-      "company": "Cboe",
+      "company": "Cboe Global Markets",
       "host": "cboe.wd1.myworkdayjobs.com",
       "key": "workday:cboe.wd1.myworkdayjobs.com:cboe:external_career_cboe",
-      "site": "External_Career_CBOE",
+      "site": "external_career_cboe",
       "slug": "cboe",
       "wd": "wd1"
     },
@@ -18268,7 +18281,7 @@
       "company": "Johnson Controls",
       "host": "jci.wd5.myworkdayjobs.com",
       "key": "workday:jci.wd5.myworkdayjobs.com:jci:jci",
-      "site": "jci",
+      "site": "JCI",
       "slug": "jci",
       "wd": "wd5"
     },
@@ -24709,10 +24722,28 @@
     },
     {
       "ats": "workday",
+      "company": "Universities of Wisconsin",
+      "host": "wisconsin.wd1.myworkdayjobs.com",
+      "key": "workday:wisconsin.wd1.myworkdayjobs.com:wisconsin:uw_comprehensives",
+      "site": "UW_Comprehensives",
+      "slug": "wisconsin",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "University of Wisconsin-Madison",
       "host": "wisconsin.wd1.myworkdayjobs.com",
       "key": "workday:wisconsin.wd1.myworkdayjobs.com:wisconsin:uw_madison",
       "site": "UW_Madison",
+      "slug": "wisconsin",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Universities of Wisconsin",
+      "host": "wisconsin.wd1.myworkdayjobs.com",
+      "key": "workday:wisconsin.wd1.myworkdayjobs.com:wisconsin:uw_milwaukee",
+      "site": "UW_Milwaukee",
       "slug": "wisconsin",
       "wd": "wd1"
     },
