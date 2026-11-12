@@ -13930,7 +13930,7 @@
       "company": "Bloom Energy",
       "host": "bloomenergy.wd1.myworkdayjobs.com",
       "key": "workday:bloomenergy.wd1.myworkdayjobs.com:bloomenergy:bloomenergycareers",
-      "site": "BloomEnergyCareers",
+      "site": "bloomenergycareers",
       "slug": "bloomenergy",
       "wd": "wd1"
     },
@@ -17410,6 +17410,15 @@
     },
     {
       "ats": "workday",
+      "company": "Hayward Holdings, Inc.",
+      "host": "hayward.wd1.myworkdayjobs.com",
+      "key": "workday:hayward.wd1.myworkdayjobs.com:hayward:external",
+      "site": "External",
+      "slug": "hayward",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Electric Battery Adhesives",
       "host": "hbfuller.wd1.myworkdayjobs.com",
       "key": "workday:hbfuller.wd1.myworkdayjobs.com:hbfuller:careers",
@@ -17674,7 +17683,7 @@
       "company": "HUB International",
       "host": "hubinternational.wd1.myworkdayjobs.com",
       "key": "workday:hubinternational.wd1.myworkdayjobs.com:hubinternational:hubinternational",
-      "site": "HUBInternational",
+      "site": "hubinternational",
       "slug": "hubinternational",
       "wd": "wd1"
     },
@@ -18586,6 +18595,15 @@
       "site": "kiongroup",
       "slug": "kiongroup",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Kiss Products",
+      "host": "kissusa.wd12.myworkdayjobs.com",
+      "key": "workday:kissusa.wd12.myworkdayjobs.com:kissusa:kiss_careers_external",
+      "site": "KISS_Careers_External",
+      "slug": "kissusa",
+      "wd": "wd12"
     },
     {
       "ats": "workday",
@@ -21096,6 +21114,24 @@
       "key": "workday:ptc.wd1.myworkdayjobs.com:ptc:ptc",
       "site": "ptc",
       "slug": "ptc",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "GBH",
+      "host": "publicmedia.wd1.myworkdayjobs.com",
+      "key": "workday:publicmedia.wd1.myworkdayjobs.com:publicmedia:interns",
+      "site": "Interns",
+      "slug": "publicmedia",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "GBH",
+      "host": "publicmedia.wd1.myworkdayjobs.com",
+      "key": "workday:publicmedia.wd1.myworkdayjobs.com:publicmedia:wgbh_careers",
+      "site": "WGBH_Careers",
+      "slug": "publicmedia",
       "wd": "wd1"
     },
     {
