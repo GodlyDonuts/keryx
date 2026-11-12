@@ -4299,6 +4299,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Dillards",
+      "key": "greenhouse:dillards",
+      "slug": "dillards"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Discord",
       "key": "greenhouse:discord",
       "slug": "discord"
@@ -6633,7 +6639,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "TeleTracking",
+      "company": "TeleTracking Technologies",
       "key": "greenhouse:teletrackingtechnologiesinc",
       "slug": "teletrackingtechnologiesinc"
     },
@@ -10004,6 +10010,14 @@
       "key": "oracle:hcrb.fa.us2.oraclecloud.com:cx",
       "site": "CX",
       "slug": "hcrb"
+    },
+    {
+      "ats": "oracle",
+      "company": "Wells Enterprises",
+      "host": "hcsb.fa.us2.oraclecloud.com",
+      "key": "oracle:hcsb.fa.us2.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "hcsb"
     },
     {
       "ats": "oracle",
@@ -14704,7 +14718,7 @@
       "company": "Chatham Financial",
       "host": "chathamfinancial.wd501.myworkdayjobs.com",
       "key": "workday:chathamfinancial.wd501.myworkdayjobs.com:chathamfinancial:chathamfinancial",
-      "site": "chathamfinancial",
+      "site": "ChathamFinancial",
       "slug": "chathamfinancial",
       "wd": "wd501"
     },
@@ -18283,10 +18297,10 @@
     },
     {
       "ats": "workday",
-      "company": "Vulcan",
+      "company": "Illinois Tool Works",
       "host": "itw.wd5.myworkdayjobs.com",
       "key": "workday:itw.wd5.myworkdayjobs.com:itw:external",
-      "site": "External",
+      "site": "external",
       "slug": "itw",
       "wd": "wd5"
     },
@@ -18364,7 +18378,7 @@
     },
     {
       "ats": "workday",
-      "company": "Marel",
+      "company": "JBT Marel",
       "host": "jbtm.wd108.myworkdayjobs.com",
       "key": "workday:jbtm.wd108.myworkdayjobs.com:jbtm:jbt_marel_career_site",
       "site": "jbt_marel_career_site",
@@ -18702,6 +18716,15 @@
       "key": "workday:labcorp.wd1.myworkdayjobs.com:labcorp:external",
       "site": "external",
       "slug": "labcorp",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Lamb Weston",
+      "host": "lambweston.wd1.myworkdayjobs.com",
+      "key": "workday:lambweston.wd1.myworkdayjobs.com:lambweston:lamb_external",
+      "site": "Lamb_External",
+      "slug": "lambweston",
       "wd": "wd1"
     },
     {
@@ -19534,6 +19557,15 @@
     },
     {
       "ats": "workday",
+      "company": "Mobility Global",
+      "host": "mobility.wd503.myworkdayjobs.com",
+      "key": "workday:mobility.wd503.myworkdayjobs.com:mobility:mobility",
+      "site": "Mobility",
+      "slug": "mobility",
+      "wd": "wd503"
+    },
+    {
+      "ats": "workday",
       "company": "Moderna",
       "host": "modernatx.wd1.myworkdayjobs.com",
       "key": "workday:modernatx.wd1.myworkdayjobs.com:modernatx:m_tx",
@@ -20038,6 +20070,15 @@
     },
     {
       "ats": "workday",
+      "company": "Nextpower",
+      "host": "nextracker.wd5.myworkdayjobs.com",
+      "key": "workday:nextracker.wd5.myworkdayjobs.com:nextracker:nextpower_careers",
+      "site": "nextpower_careers",
+      "slug": "nextracker",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Northrop Grumman",
       "host": "ngc.wd1.myworkdayjobs.com",
       "key": "workday:ngc.wd1.myworkdayjobs.com:ngc:northrop_grumman_external_site",
@@ -20350,6 +20391,15 @@
       "site": "oldrepublictitle",
       "slug": "oldrepublic",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Omya",
+      "host": "omya.wd3.myworkdayjobs.com",
+      "key": "workday:omya.wd3.myworkdayjobs.com:omya:omya",
+      "site": "Omya",
+      "slug": "omya",
+      "wd": "wd3"
     },
     {
       "ats": "workday",
@@ -22090,6 +22140,15 @@
     },
     {
       "ats": "workday",
+      "company": "Sidley Austin",
+      "host": "sidley.wd501.myworkdayjobs.com",
+      "key": "workday:sidley.wd501.myworkdayjobs.com:sidley:us",
+      "site": "US",
+      "slug": "sidley",
+      "wd": "wd501"
+    },
+    {
+      "ats": "workday",
       "company": "Sierra Space",
       "host": "sierraspace.wd1.myworkdayjobs.com",
       "key": "workday:sierraspace.wd1.myworkdayjobs.com:sierraspace:sierra_space_external_career_site",
@@ -23539,7 +23598,7 @@
     },
     {
       "ats": "workday",
-      "company": "TP-Link Systems Inc.",
+      "company": "TP-Link Systems",
       "host": "tplink.wd503.myworkdayjobs.com",
       "key": "workday:tplink.wd503.myworkdayjobs.com:tplink:external",
       "site": "External",
