@@ -1340,6 +1340,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Liquid AI",
+      "key": "ashby:liquid-ai",
+      "slug": "liquid-ai"
+    },
+    {
+      "ats": "ashby",
       "company": "LiteLLM",
       "key": "ashby:litellm",
       "slug": "litellm"
@@ -3654,6 +3660,12 @@
       "company": "Authentic",
       "key": "greenhouse:authenticinsurance",
       "slug": "authenticinsurance"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Avante",
+      "key": "greenhouse:avante",
+      "slug": "avante"
     },
     {
       "ats": "greenhouse",
@@ -9696,6 +9708,14 @@
       "key": "oracle:fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com:cx_1001",
       "site": "CX_1001",
       "slug": "fa-etvc-saasfaprod1"
+    },
+    {
+      "ats": "oracle",
+      "company": "Zensar",
+      "host": "fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com:cx_1",
+      "site": "CX_1",
+      "slug": "fa-etvl-saasfaprod1"
     },
     {
       "ats": "oracle",
@@ -16985,6 +17005,15 @@
     },
     {
       "ats": "workday",
+      "company": "Georg Fischer",
+      "host": "georgfischer.wd103.myworkdayjobs.com",
+      "key": "workday:georgfischer.wd103.myworkdayjobs.com:georgfischer:georgfischer_careers",
+      "site": "GeorgFischer_Careers",
+      "slug": "georgfischer",
+      "wd": "wd103"
+    },
+    {
+      "ats": "workday",
       "company": "Team Georgia Careers",
       "host": "georgia.wd5.myworkdayjobs.com",
       "key": "workday:georgia.wd5.myworkdayjobs.com:georgia:tgc",
@@ -19235,6 +19264,15 @@
     },
     {
       "ats": "workday",
+      "company": "Materion Corporation",
+      "host": "materion.wd5.myworkdayjobs.com",
+      "key": "workday:materion.wd5.myworkdayjobs.com:materion:materion",
+      "site": "Materion",
+      "slug": "materion",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Vantor",
       "host": "maxar.wd1.myworkdayjobs.com",
       "key": "workday:maxar.wd1.myworkdayjobs.com:maxar:vantor",
@@ -20594,6 +20632,15 @@
     },
     {
       "ats": "workday",
+      "company": "Panera Bread",
+      "host": "panerabread.wd5.myworkdayjobs.com",
+      "key": "workday:panerabread.wd5.myworkdayjobs.com:panerabread:panera_careers",
+      "site": "panera_careers",
+      "slug": "panerabread",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Papa John's",
       "host": "papajohns.wd1.myworkdayjobs.com",
       "key": "workday:papajohns.wd1.myworkdayjobs.com:papajohns:papajohnscareers",
@@ -21401,6 +21448,15 @@
       "site": "external",
       "slug": "revvity",
       "wd": "wd103"
+    },
+    {
+      "ats": "workday",
+      "company": "Reworld Waste",
+      "host": "reworld.wd5.myworkdayjobs.com",
+      "key": "workday:reworld.wd5.myworkdayjobs.com:reworld:external",
+      "site": "External",
+      "slug": "reworld",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
@@ -22772,6 +22828,15 @@
     },
     {
       "ats": "workday",
+      "company": "State of Wisconsin Investment Board",
+      "host": "swib.wd12.myworkdayjobs.com",
+      "key": "workday:swib.wd12.myworkdayjobs.com:swib:ext",
+      "site": "ext",
+      "slug": "swib",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
       "company": "Swift",
       "host": "swift.wd3.myworkdayjobs.com",
       "key": "workday:swift.wd3.myworkdayjobs.com:swift:join-swift",
@@ -24002,6 +24067,15 @@
       "site": "ValmontCareers",
       "slug": "valmont",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Vanderlande",
+      "host": "vanderlande.wd3.myworkdayjobs.com",
+      "key": "workday:vanderlande.wd3.myworkdayjobs.com:vanderlande:careers",
+      "site": "careers",
+      "slug": "vanderlande",
+      "wd": "wd3"
     },
     {
       "ats": "workday",
