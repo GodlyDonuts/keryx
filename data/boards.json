@@ -224,6 +224,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Atalanta",
+      "key": "ashby:atalanta",
+      "slug": "atalanta"
+    },
+    {
+      "ats": "ashby",
       "company": "Atomic Semi",
       "key": "ashby:atomicsemi",
       "slug": "atomicsemi"
@@ -371,6 +377,12 @@
       "company": "Build AI",
       "key": "ashby:build-ai",
       "slug": "build-ai"
+    },
+    {
+      "ats": "ashby",
+      "company": "Thoughtworks",
+      "key": "ashby:c898d712-c4ab-4157-954a-5df226a781e2",
+      "slug": "c898d712-c4ab-4157-954a-5df226a781e2"
     },
     {
       "ats": "ashby",
@@ -6477,6 +6489,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Skyryse",
+      "key": "greenhouse:skyryse",
+      "slug": "skyryse"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Sleep Doctor",
       "key": "greenhouse:sleepdoctor",
       "slug": "sleepdoctor"
@@ -8103,6 +8121,12 @@
     },
     {
       "ats": "lever",
+      "company": "Redhorse Corporation",
+      "key": "lever:redhorsecorp",
+      "slug": "redhorsecorp"
+    },
+    {
+      "ats": "lever",
       "company": "Reply",
       "key": "lever:reply",
       "slug": "reply"
@@ -8788,6 +8812,14 @@
       "key": "oracle:edyy.fa.us2.oraclecloud.com:cx_6001",
       "site": "CX_6001",
       "slug": "edyy"
+    },
+    {
+      "ats": "oracle",
+      "company": "WTW",
+      "host": "eedu.fa.em3.oraclecloud.com",
+      "key": "oracle:eedu.fa.em3.oraclecloud.com:cx_1003",
+      "site": "CX_1003",
+      "slug": "eedu"
     },
     {
       "ats": "oracle",
@@ -12338,6 +12370,12 @@
       "slug": "western-magnetics"
     },
     {
+      "ats": "workable",
+      "company": "XMSTART",
+      "key": "workable:xm-start",
+      "slug": "xm-start"
+    },
+    {
       "ats": "workday",
       "company": "2020 Companies",
       "host": "2020companies.wd1.myworkdayjobs.com",
@@ -15003,10 +15041,10 @@
     },
     {
       "ats": "workday",
-      "company": "CLA (CliftonLarsonAllen)",
+      "company": "CliftonLarsonAllen",
       "host": "cliftonlarsonallen.wd115.myworkdayjobs.com",
       "key": "workday:cliftonlarsonallen.wd115.myworkdayjobs.com:cliftonlarsonallen:cla",
-      "site": "CLA",
+      "site": "cla",
       "slug": "cliftonlarsonallen",
       "wd": "wd115"
     },
@@ -15701,6 +15739,15 @@
       "key": "workday:dealertire.wd5.myworkdayjobs.com:dealertire:dealertirellc-careers",
       "site": "DealerTireLLC-Careers",
       "slug": "dealertire",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Deckers Brands",
+      "host": "deckers.wd5.myworkdayjobs.com",
+      "key": "workday:deckers.wd5.myworkdayjobs.com:deckers:deckers",
+      "site": "deckers",
+      "slug": "deckers",
       "wd": "wd5"
     },
     {
@@ -21687,6 +21734,15 @@
       "site": "External_Career_Site",
       "slug": "rjet",
       "wd": "wd108"
+    },
+    {
+      "ats": "workday",
+      "company": "RLI",
+      "host": "rlicorp.wd1.myworkdayjobs.com",
+      "key": "workday:rlicorp.wd1.myworkdayjobs.com:rlicorp:rli_corp_careers",
+      "site": "rli_corp_careers",
+      "slug": "rlicorp",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
