@@ -788,6 +788,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Klaviyo",
+      "key": "ashby:f40d14d9-07f4-403d-802b-37453deccf0a",
+      "slug": "f40d14d9-07f4-403d-802b-37453deccf0a"
+    },
+    {
+      "ats": "ashby",
       "company": "Shield AI",
       "key": "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a",
       "slug": "f7d8749a-72d6-407c-bf98-292ea630c73a"
@@ -1964,6 +1970,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Pragmatike",
+      "key": "ashby:pragmatike",
+      "slug": "pragmatike"
+    },
+    {
+      "ats": "ashby",
       "company": "Preference Model",
       "key": "ashby:preference-model",
       "slug": "Preference-Model"
@@ -2759,6 +2771,12 @@
       "company": "Zello",
       "key": "ashby:zello",
       "slug": "Zello"
+    },
+    {
+      "ats": "ashby",
+      "company": "ZettaSquared",
+      "key": "ashby:zetta2",
+      "slug": "zetta2"
     },
     {
       "ats": "ashby",
@@ -3732,6 +3750,12 @@
       "company": "Bertram Capital Management",
       "key": "greenhouse:bertramcapitalmanagement",
       "slug": "bertramcapitalmanagement"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Beta Technologies",
+      "key": "greenhouse:betatechnologiesinc",
+      "slug": "betatechnologiesinc"
     },
     {
       "ats": "greenhouse",
@@ -6513,6 +6537,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "StackAV",
+      "key": "greenhouse:stackav",
+      "slug": "stackav"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Star Catcher",
       "key": "greenhouse:star-catcher",
       "slug": "star-catcher"
@@ -8322,6 +8352,12 @@
       "company": "Cubit Capital",
       "key": "lever:venusaero",
       "slug": "venusaero"
+    },
+    {
+      "ats": "lever",
+      "company": "Veris Insights",
+      "key": "lever:verisinsights",
+      "slug": "verisinsights"
     },
     {
       "ats": "lever",
@@ -10527,6 +10563,12 @@
     },
     {
       "ats": "smartrecruiters",
+      "company": "Carlisle Companies",
+      "key": "smartrecruiters:carlisle",
+      "slug": "Carlisle"
+    },
+    {
+      "ats": "smartrecruiters",
       "company": "Circle Logistics",
       "key": "smartrecruiters:circlelogistics1",
       "slug": "CircleLogistics1"
@@ -12042,6 +12084,12 @@
       "company": "Stockholm Environment Institute - U.S",
       "key": "workable:sei",
       "slug": "sei"
+    },
+    {
+      "ats": "workable",
+      "company": "Senseye",
+      "key": "workable:senseye",
+      "slug": "senseye"
     },
     {
       "ats": "workable",
@@ -15165,7 +15213,7 @@
     },
     {
       "ats": "workday",
-      "company": "Compassion",
+      "company": "Compassion International",
       "host": "compassion.wd5.myworkdayjobs.com",
       "key": "workday:compassion.wd5.myworkdayjobs.com:compassion:compassioncareers",
       "site": "compassioncareers",
@@ -16689,7 +16737,7 @@
       "company": "FormFactor",
       "host": "formfactor.wd1.myworkdayjobs.com",
       "key": "workday:formfactor.wd1.myworkdayjobs.com:formfactor:ffi-careers",
-      "site": "FFI-Careers",
+      "site": "ffi-careers",
       "slug": "formfactor",
       "wd": "wd1"
     },
@@ -20538,6 +20586,15 @@
     },
     {
       "ats": "workday",
+      "company": "Environmental Defense Fund",
+      "host": "osv-edf.wd5.myworkdayjobs.com",
+      "key": "workday:osv-edf.wd5.myworkdayjobs.com:osv-edf:confidential",
+      "site": "Confidential",
+      "slug": "osv-edf",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Magnite",
       "host": "osv-rubicon.wd5.myworkdayjobs.com",
       "key": "workday:osv-rubicon.wd5.myworkdayjobs.com:osv-rubicon:magnitecareers",
@@ -23013,7 +23070,7 @@
     },
     {
       "ats": "workday",
-      "company": "Perseus Group",
+      "company": "Perseus",
       "host": "talentmanagementsolution.wd3.myworkdayjobs.com",
       "key": "workday:talentmanagementsolution.wd3.myworkdayjobs.com:talentmanagementsolution:perseus-careers",
       "site": "perseus-careers",
@@ -23709,7 +23766,7 @@
       "company": "T. Rowe Price",
       "host": "troweprice.wd5.myworkdayjobs.com",
       "key": "workday:troweprice.wd5.myworkdayjobs.com:troweprice:troweprice",
-      "site": "TRowePrice",
+      "site": "troweprice",
       "slug": "troweprice",
       "wd": "wd5"
     },

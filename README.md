@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,744 internships · 4,998 new-grad roles · 15,742 total openings**
+**10,746 internships · 5,037 new-grad roles · 15,783 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 5,116 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 328 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 681 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 228 | **[View openings →](internships/winter-2027.md)** |
+| ☀️ Summer 2027 | 5,117 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 322 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 687 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 229 | **[View openings →](internships/winter-2027.md)** |
 | 📅 Season not listed | 4,391 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,256 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 980 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,762 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,238 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,028 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,771 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Argonne National Laboratory | Intern – Business Information Systems, Enterprise Software Solutions | Lemont, IL USA | Not listed | not available | 2026-11-12 | **[Apply →](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702)**<br><sub>argonne.wd1.myworkdayjobs.com</sub> |
+| AstraZeneca | Biologics Engineering, Computational and Experimental Design of Multispecific Antibodies Intern | US - Gaithersburg - MD | Not listed | not available | 2026-11-12 | **[Apply →](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Biologics-Engineering--Computational-and-Experimental-Design-of-Multispecific-Antibodies-Intern_R-264042)**<br><sub>astrazeneca.wd3.myworkdayjobs.com</sub> |
+| AstraZeneca | Manufacturing Analyst Intern | US - Rockville - MD | Not listed | not available | 2026-11-12 | **[Apply →](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Rockville---MD/Manufacturing-Analyst-Intern_R-264060)**<br><sub>astrazeneca.wd3.myworkdayjobs.com</sub> |
+| AstraZeneca | Manufacturing Sciences, Validation Engineer Intern | US - Gaithersburg - MD | Not listed | not available | 2026-11-12 | **[Apply →](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Manufacturing-Sciences--Validation-Engineer-Intern_R-264093)**<br><sub>astrazeneca.wd3.myworkdayjobs.com</sub> |
+| Bask Health | AI Engineering Intern | United States (Remote) | Not listed | not available | 2026-11-12 | **[Apply →](https://apply.workable.com/bask-health-1/j/F0E122E877/)**<br><sub>apply.workable.com</sub> |
 | Bask Health | Frontend Engineering Intern | United States (Remote) | Not listed | not available | 2026-11-12 | **[Apply →](https://apply.workable.com/bask-health-1/j/9C2964C7CD/)**<br><sub>apply.workable.com</sub> |
-| Blue Cross Blue Shield of Michigan | Summer 2027 Intern - Data Science / Biostatistician | Detroit, MI, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-11-12 | **[Apply →](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14837)**<br><sub>ejko.fa.us2.oraclecloud.com</sub> |
-| Cboe Global Markets | Software Engineer Intern | Chicago, IL +2 | Not listed | not available | 2026-11-12 | **[Apply →](https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Chicago-IL/Software-Engineer-Intern_R-4654)**<br><sub>cboe.wd1.myworkdayjobs.com</sub> |
-| ConductorAI | Software Engineer Intern | New York City, NY | Not listed | Current student status<br><sub>stated</sub> | 2026-11-12 | **[Apply →](https://jobs.ashbyhq.com/conductorai/d6a1b110-10ad-4b5e-83a0-88c5fd7bc891)**<br><sub>jobs.ashbyhq.com</sub> |
-| Entegris | Embedded Software Engineering Intern | Bloomington, MN | Summer 2027 | not available | 2026-11-12 | **[Apply →](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bloomington-MN/Embedded-Software-Engineering-Intern_REQ-15870)**<br><sub>entegris.wd1.myworkdayjobs.com</sub> |
-| Entegris | Equipment Engineering Intern | Billerica, MA | Not listed | not available | 2026-11-12 | **[Apply →](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Equipment-Engineering-Intern_REQ-15883)**<br><sub>entegris.wd1.myworkdayjobs.com</sub> |
-| Entegris | Product Design R&D Intern - Summer 2027 | Colorado Springs, CO | Summer 2027 | not available | 2026-11-12 | **[Apply →](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Product-Design-R-D-Intern---Summer-2027_REQ-15877)**<br><sub>entegris.wd1.myworkdayjobs.com</sub> |
-| Insulet Corporation | Co-op, Software Development Engineer in Test: January - June 2027 (Hybrid) | Acton, Massachusetts | Not listed | not available | 2026-11-12 | **[Apply →](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Software-Development-Engineer-in-Test--January---June-2027--Hybrid-_REQ-2026-18026)**<br><sub>insulet.wd5.myworkdayjobs.com</sub> |
-| Kulicke & Soffa | Intern, WB Process Engineering | Santa Ana, CA, United States | Fall 2026 | not stated | 2026-11-12 | **[Apply →](https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11816)**<br><sub>etyy.fa.ap2.oraclecloud.com</sub> |
-| Microsoft | Data Scientist Intern - CoreAI | Redmond, WA | Summer 2027 | not available | 2026-11-12 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393557027390)**<br><sub>apply.careers.microsoft.com</sub> |
-| Parspec | Product Marketing Manager Intern | Hybrid - San Mateo, California | Not listed | Current student status<br><sub>stated</sub> | 2026-11-12 | **[Apply →](https://jobs.ashbyhq.com/parspec/abbea999-9113-4e40-9f07-f462f2cd0edc)**<br><sub>jobs.ashbyhq.com</sub> |
-| Red Hat | Software Engineer Intern | Raleigh, NC +2 | Not listed | not available | 2026-11-12 | **[Apply →](https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Raleigh/Software-Engineer-Intern_R-059038)**<br><sub>redhat.wd5.myworkdayjobs.com</sub> |
+| Bask Health | Machine Learning Engineering Intern | United States (Remote) | Not listed | not available | 2026-11-12 | **[Apply →](https://apply.workable.com/bask-health-1/j/71AEBBCADE/)**<br><sub>apply.workable.com</sub> |
+| Bosch | AI Research Intern – Time Series Foundation Models | Sunnyvale, California, us | Not listed | not available | 2026-11-12 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000161339309)**<br><sub>jobs.smartrecruiters.com</sub> |
+| CACI | Embedded Software Development Intern - Summer 2027 | Denver, CO, US | Summer 2027 | not available | 2026-11-12 | **[Apply →](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147)**<br><sub>caci.wd1.myworkdayjobs.com</sub> |
+| Cardinal Health | Technology Intern | Dublin, OH | Summer 2027 | not available | 2026-11-12 | **[Apply →](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Technology-Internship--Summer-2027-_20189610-1)**<br><sub>cardinalhealth.wd1.myworkdayjobs.com</sub> |
+| CareSource | Clinical Operations Business Analyst Intern | Remote in USA | Summer 2027 | not available | 2026-11-12 | **[Apply →](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Clinical-Operations-Business-Analyst_R14353)**<br><sub>caresource.wd1.myworkdayjobs.com</sub> |
+| CareSource | Software Engineer Intern | Remote in USA | Summer 2027 | not available | 2026-11-12 | **[Apply →](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Software-Engineer_R14136)**<br><sub>caresource.wd1.myworkdayjobs.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -59,17 +59,17 @@ Recent full-time opportunities that open the employer's application page directl
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
 | AECOM | Entry-Level Electrical Engineer | Atlanta, GA, us | Not listed | not available | 2026-11-12 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000161349180)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Affirm | Software Engineer 1 - Backend - Continuous Delivery | Remote in USA | Not listed | not available | 2026-11-12 | **[Apply →](https://job-boards.greenhouse.io/affirm/jobs/8181183003)**<br><sub>job-boards.greenhouse.io</sub> |
+| Amazon | Software Development Engineer - FinTech/Customer Service Tech | Newark, NJ | 2027 | not available | 2026-11-12 | **[Apply →](https://www.amazon.jobs/jobs/10564323/apply)**<br><sub>www.amazon.jobs</sub> |
+| Apple | Software Engineer - Ad Platforms | Cupertino, CA | 2026 | not available | 2026-11-12 | **[Apply →](https://jobs.apple.com/en-us/details/200694769)**<br><sub>jobs.apple.com</sub> |
+| ARCXIS | AI Rapid Prototype Developer Level 1 | Houston, TX | Not listed | not available | 2026-11-12 | **[Apply →](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4661286)**<br><sub>recruiting.paylocity.com</sub> |
+| ASM International | Engineer 2 - Electrical Engineering | Phoenix, AZ | Not listed | not available | 2026-11-12 | **[Apply →](https://www.asm.com/open-vacancies/?gh_jid=5021046101)**<br><sub>www.asm.com</sub> |
 | Bask Health | Frontend Engineer New Grad | Remote in USA | Not listed | not available | 2026-11-12 | **[Apply →](https://apply.workable.com/bask-health-1/j/95FB1074E4/apply)**<br><sub>apply.workable.com</sub> |
 | Bask Health | Junior Design Engineer | Remote in USA | Not listed | not available | 2026-11-12 | **[Apply →](https://apply.workable.com/bask-health-1/j/E8EA53DF48/apply)**<br><sub>apply.workable.com</sub> |
+| Beta Technologies | ERP Master Data Specialist | South Burlington, VT | Not listed | not available | 2026-11-12 | **[Apply →](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4262266009)**<br><sub>job-boards.greenhouse.io</sub> |
+| Boeing | Entry Flight Software Engineer - Vehicle Management Systems | El Segundo, CA | Not listed | not available | 2026-11-12 | **[Apply →](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Flight-Software-Engineer---Vehicle-Management-Systems_JR2026527015-1)**<br><sub>boeing.wd1.myworkdayjobs.com</sub> |
+| Booz Allen | Junior C++ Software Engineer | Beavercreek, OH | Not listed | not available | 2026-11-12 | **[Apply →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
 | CDK Global | Associate Database Engineer | Austin, TX | Not listed | not available | 2026-11-12 | **[Apply →](https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Database-Engineer_JR9386)**<br><sub>cdk.wd1.myworkdayjobs.com</sub> |
-| Centene | Business Analyst 1 - Healthcare Analytics | Kansas, Pennsylvania, North Dakota, Delaware, Iowa, Washington, DC, Vermont, Connecticut, Texas, Florida, New Hampshire, South Carolina, South Dakota, Georgia, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Nebraska, Rhode Island, Kentucky, West Virginia, NYC, Maryland, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Michigan, Illinois, Alabama | Not listed | not available | 2026-11-12 | **[Apply →](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-LA/Business-Analyst-I--Healthcare-Analytics_1655832)**<br><sub>centene.wd5.myworkdayjobs.com</sub> |
-| Dillards | COBOL Developer | Little Rock, AR | Not listed | not available | 2026-11-12 | **[Apply →](https://job-boards.greenhouse.io/dillards/jobs/5293318007)**<br><sub>job-boards.greenhouse.io</sub> |
-| Johns Hopkins Applied Physics Laboratory | Mission Modeling, Simulation & Software Engineer New Grad | Laurel, MD | Not listed | not available | 2026-11-12 | **[Apply →](https://careers.jhuapl.edu/jobs/60029?icims=1&lang=en-us)**<br><sub>careers.jhuapl.edu</sub> |
-| L3Harris Technologies | Associate Electrical Engineer | Ashburn, VA | Not listed | not available | 2026-11-12 | **[Apply →](https://jobs.l3harris.com/job/Ashburn-Associate,-Electrical-Engineer-VA-20147/1450077500/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| Louisiana Healthcare Connections | Business Analyst I, Healthcare Analytics | Connecticut, United States | 2026 | not available | 2026-11-12 | **[Apply →](https://jobs.centene.com/us/en/jobs/1655832/business-analyst-i-healthcare-analytics/)**<br><sub>jobs.centene.com</sub> |
-| Medpace | Junior Data Governance Analyst | Cincinnati, OH | Not listed | not available | 2026-11-12 | **[Apply →](https://careers.medpace.com/jobs/13127?icims=1&lang=en-us)**<br><sub>careers.medpace.com</sub> |
-| Oracle | February 2027 - Undergrad Software Engineer - Oracle Cloud Infrastructure - OCI - Nashville - TN | Nashville, TN | 2027 | not available | 2026-11-12 | **[Apply →](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/346357)**<br><sub>careers.oracle.com</sub> |
-| RTX | Components Engineer 1 | El Segundo, CA | Not listed | not available | 2026-11-12 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Components-Engineer-I--Onsite-_01889186)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
