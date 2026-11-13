@@ -18315,10 +18315,10 @@
     },
     {
       "ats": "workday",
-      "company": "Iowa State University",
+      "company": "Illinois State University",
       "host": "isu.wd1.myworkdayjobs.com",
       "key": "workday:isu.wd1.myworkdayjobs.com:isu:iowastatejobs",
-      "site": "IowaStateJobs",
+      "site": "iowastatejobs",
       "slug": "isu",
       "wd": "wd1"
     },
@@ -24458,6 +24458,15 @@
       "key": "workday:viavisolutions.wd1.myworkdayjobs.com:viavisolutions:careers",
       "site": "careers",
       "slug": "viavisolutions",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Victaulic",
+      "host": "victaulic.wd1.myworkdayjobs.com",
+      "key": "workday:victaulic.wd1.myworkdayjobs.com:victaulic:victaulic_careers",
+      "site": "victaulic_careers",
+      "slug": "victaulic",
       "wd": "wd1"
     },
     {
