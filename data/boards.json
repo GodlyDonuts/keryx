@@ -5241,6 +5241,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Integrated Biosciences",
+      "key": "greenhouse:integratedbiosciencesinc",
+      "slug": "integratedbiosciencesinc"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Vestmark",
       "key": "greenhouse:internrecruiting",
       "slug": "internrecruiting"
@@ -5580,6 +5586,12 @@
       "company": "May Mobility",
       "key": "greenhouse:maymobility",
       "slug": "maymobility"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "McMaster-Carr",
+      "key": "greenhouse:mcmaster-carr-systems",
+      "slug": "mcmaster-carr-systems"
     },
     {
       "ats": "greenhouse",
@@ -16748,6 +16760,15 @@
       "host": "flextronics.wd1.myworkdayjobs.com",
       "key": "workday:flextronics.wd1.myworkdayjobs.com:flextronics:careers",
       "site": "Careers",
+      "slug": "flextronics",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Electrical Power Products",
+      "host": "flextronics.wd1.myworkdayjobs.com",
+      "key": "workday:flextronics.wd1.myworkdayjobs.com:flextronics:ep2_careers",
+      "site": "EP2_Careers",
       "slug": "flextronics",
       "wd": "wd1"
     },
