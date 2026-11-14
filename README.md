@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,676 internships · 4,970 new-grad roles · 15,646 total openings**
+**10,619 internships · 4,930 new-grad roles · 15,549 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 5,069 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 324 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 672 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 219 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,392 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 5,044 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 323 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 670 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 218 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 4,364 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,274 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 963 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,733 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,229 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 958 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,743 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -40,15 +40,15 @@ Recent internship and co-op listings that open the employer's application page d
 | Amazon | Data Center Infrastructure Engineer Intern, Summer 2027 - East | Herndon, Virginia, USA | Summer 2027 | not available | 2026-11-14 | **[Apply →](https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east)**<br><sub>www.amazon.jobs</sub> |
 | Amazon | Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast | Umatilla, Oregon, USA | Summer 2027 | not available | 2026-11-14 | **[Apply →](https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast)**<br><sub>www.amazon.jobs</sub> |
 | Amazon | Software Development Engineer Intern - Amazon Leo - Summer 2027 - USA | Redmond, WA | Summer 2027 | not available | 2026-11-14 | **[Apply →](https://www.amazon.jobs/jobs/10587999/apply)**<br><sub>www.amazon.jobs</sub> |
+| Cboe Global Markets | Quant & Data Analytics Intern | Chicago, IL | Not listed | not available | 2026-11-14 | **[Apply →](https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/Chicago-IL/Quant---Data-Analytics-Intern_R-4708)**<br><sub>cboe.wd1.myworkdayjobs.com</sub> |
 | Cleveland-Cliffs | Process Control Engineering Intern | Indiana Harbor | Not listed | not available | 2026-11-14 | **[Apply →](https://aksteel.wd1.myworkdayjobs.com/careers/job/Indiana-Harbor/Process-Control-Engineering-Intern_R13477)**<br><sub>aksteel.wd1.myworkdayjobs.com</sub> |
-| Jabil | Industrial Engineering Intern | St. Petersburg/Tampa, FL | Not listed | not available | 2026-11-14 | **[Apply →](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Industrial-Engineering-Intern_J2470894)**<br><sub>jabil.wd5.myworkdayjobs.com</sub> |
 | KLA | Engineering Intern | Milpitas, CA | Not listed | not available | 2026-11-14 | **[Apply →](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Engineering-Intern_2642277)**<br><sub>kla.wd1.myworkdayjobs.com</sub> |
 | Lawrence Livermore National Laboratory | Computational Engineering Division Graduate Intern - Summer 2027 | Livermore, CA, United States | Summer 2027 | not available | 2026-11-14 | **[Apply →](https://www.llnl.gov/join-our-team/careers/find-your-job/all/all/3743990014730886)**<br><sub>www.llnl.gov</sub> |
 | Lawrence Livermore National Laboratory | National Security Engineering Division (NSED) Undergraduate Intern - Summer 2027 | Livermore, CA, United States | Summer 2027 | not available | 2026-11-14 | **[Apply →](https://www.llnl.gov/join-our-team/careers/find-your-job/all/all/3743990014731656)**<br><sub>www.llnl.gov</sub> |
 | Moog | Intern, Electrical Engineering | Buffalo, NY | Not listed | not available | 2026-11-14 | **[Apply →](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-20268)**<br><sub>moog.wd5.myworkdayjobs.com</sub> |
 | ONEOK | Instrumentation & Electrical Technician Intern | Midland, TX | Not listed | not available | 2026-11-14 | **[Apply →](https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Midland-TX/Intern---Field--DOT---Unfilled-_R8354)**<br><sub>oneok.wd1.myworkdayjobs.com</sub> |
+| Sanofi | 2027 Spring Co op Biologics Design and AI Cambridge MA | Cambridge, MA | Spring 2027 | not available | 2026-11-14 | **[Apply →](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Biologics-Design-and-AI-Cambridge-MA_R2854337)**<br><sub>sanofi.wd3.myworkdayjobs.com</sub> |
 | SAS | Software Developer Intern - Go/Golang Experience | Cary, NC | Summer 2027 | not available | 2026-11-14 | **[Apply →](https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false)**<br><sub>careers-sas.icims.com</sub> |
-| SeatGeek | Software Engineer - Internship | New York City, NY | Not listed | not available | 2026-11-14 | **[Apply →](https://seatgeek.com/jobs/8227553?gh_jid=8227553)**<br><sub>seatgeek.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
