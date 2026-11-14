@@ -4419,6 +4419,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "edmentum",
+      "key": "greenhouse:edmentum",
+      "slug": "edmentum"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Efficient Computer",
       "key": "greenhouse:efficientcomputer",
       "slug": "efficientcomputer"
@@ -17557,6 +17563,15 @@
     },
     {
       "ats": "workday",
+      "company": "Harris",
+      "host": "harris.wd108.myworkdayjobs.com",
+      "key": "workday:harris.wd108.myworkdayjobs.com:harris:harriscompanycareers",
+      "site": "HarrisCompanyCareers",
+      "slug": "harris",
+      "wd": "wd108"
+    },
+    {
+      "ats": "workday",
       "company": "Harris Computer",
       "host": "harriscomputer.wd3.myworkdayjobs.com",
       "key": "workday:harriscomputer.wd3.myworkdayjobs.com:harriscomputer:1",
@@ -18832,6 +18847,15 @@
       "site": "Koppers",
       "slug": "koppers",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "KSB",
+      "host": "ksb.wd3.myworkdayjobs.com",
+      "key": "workday:ksb.wd3.myworkdayjobs.com:ksb:ksb_externalcareersite",
+      "site": "KSB_ExternalCareerSite",
+      "slug": "ksb",
+      "wd": "wd3"
     },
     {
       "ats": "workday",
