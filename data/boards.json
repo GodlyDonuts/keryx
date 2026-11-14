@@ -1622,6 +1622,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Nexus Cognitive Technologies",
+      "key": "ashby:nexus-cognitive",
+      "slug": "nexus-cognitive"
+    },
+    {
+      "ats": "ashby",
       "company": "Nexxen",
       "key": "ashby:nexxen",
       "slug": "nexxen"
@@ -2120,7 +2126,7 @@
     },
     {
       "ats": "ashby",
-      "company": "Reliable Robotics Corporation",
+      "company": "Reliable Robotics",
       "key": "ashby:reliable-robotics",
       "slug": "reliable-robotics"
     },
@@ -3357,7 +3363,7 @@
     },
     {
       "ats": "greenhouse",
-      "company": "Invisible Technologies AI",
+      "company": "Invisible Technologies",
       "key": "greenhouse:agency",
       "slug": "agency"
     },
@@ -4116,6 +4122,12 @@
       "company": "Cloudflare",
       "key": "greenhouse:cloudflare",
       "slug": "cloudflare"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Cambridge Mobile Telematics",
+      "key": "greenhouse:cmt",
+      "slug": "cmt"
     },
     {
       "ats": "greenhouse",
@@ -9204,6 +9216,14 @@
       "key": "oracle:ehzq.fa.us2.oraclecloud.com:grantthorntonisleofman",
       "site": "GrantThorntonIsleOfMan",
       "slug": "ehzq"
+    },
+    {
+      "ats": "oracle",
+      "company": "Carnival Corporation",
+      "host": "eicl.fa.em5.oraclecloud.com",
+      "key": "oracle:eicl.fa.em5.oraclecloud.com:corp",
+      "site": "CORP",
+      "slug": "eicl"
     },
     {
       "ats": "oracle",
@@ -17507,6 +17527,15 @@
     },
     {
       "ats": "workday",
+      "company": "Hargrove Engineers & Constructors",
+      "host": "hargroveepc.wd12.myworkdayjobs.com",
+      "key": "workday:hargroveepc.wd12.myworkdayjobs.com:hargroveepc:hargrove_careers",
+      "site": "Hargrove_Careers",
+      "slug": "hargroveepc",
+      "wd": "wd12"
+    },
+    {
+      "ats": "workday",
       "company": "Harris Computer",
       "host": "harriscomputer.wd3.myworkdayjobs.com",
       "key": "workday:harriscomputer.wd3.myworkdayjobs.com:harriscomputer:1",
@@ -18191,7 +18220,7 @@
     },
     {
       "ats": "workday",
-      "company": "Insulet Corporation",
+      "company": "Insulet",
       "host": "insulet.wd5.myworkdayjobs.com",
       "key": "workday:insulet.wd5.myworkdayjobs.com:insulet:insuletcareers",
       "site": "insuletcareers",
@@ -24594,6 +24623,15 @@
       "host": "vrtx.wd501.myworkdayjobs.com",
       "key": "workday:vrtx.wd501.myworkdayjobs.com:vrtx:vertex_careers",
       "site": "vertex_careers",
+      "slug": "vrtx",
+      "wd": "wd501"
+    },
+    {
+      "ats": "workday",
+      "company": "Vertex Pharmaceuticals",
+      "host": "vrtx.wd501.myworkdayjobs.com",
+      "key": "workday:vrtx.wd501.myworkdayjobs.com:vrtx:vertex_intern",
+      "site": "vertex_intern",
       "slug": "vrtx",
       "wd": "wd501"
     },
