@@ -16825,6 +16825,15 @@
     },
     {
       "ats": "workday",
+      "company": "Flowserve Corporation",
+      "host": "flowserve.wd1.myworkdayjobs.com",
+      "key": "workday:flowserve.wd1.myworkdayjobs.com:flowserve:applied",
+      "site": "applied",
+      "slug": "flowserve",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "FLSmidth",
       "host": "flsmidth.wd3.myworkdayjobs.com",
       "key": "workday:flsmidth.wd3.myworkdayjobs.com:flsmidth:fls_global",
@@ -24511,10 +24520,10 @@
     },
     {
       "ats": "workday",
-      "company": "Videojet Technologies",
+      "company": "Videojet",
       "host": "veralto.wd1.myworkdayjobs.com",
       "key": "workday:veralto.wd1.myworkdayjobs.com:veralto:videojetjobs",
-      "site": "VideojetJobs",
+      "site": "videojetjobs",
       "slug": "veralto",
       "wd": "wd1"
     },
