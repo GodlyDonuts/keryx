@@ -3115,6 +3115,13 @@
     },
     {
       "ats": "bamboohr",
+      "company": "Strala",
+      "host": "observepoint.bamboohr.com",
+      "key": "bamboohr:observepoint",
+      "slug": "observepoint"
+    },
+    {
+      "ats": "bamboohr",
       "company": "Peloton",
       "host": "pelotonwellfocused.bamboohr.com",
       "key": "bamboohr:pelotonwellfocused",
@@ -22147,7 +22154,7 @@
       "company": "Salesforce",
       "host": "salesforce.wd12.myworkdayjobs.com",
       "key": "workday:salesforce.wd12.myworkdayjobs.com:salesforce:futureforce_newgradroles",
-      "site": "futureforce_newgradroles",
+      "site": "Futureforce_NewGradRoles",
       "slug": "salesforce",
       "wd": "wd12"
     },

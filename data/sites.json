@@ -743,7 +743,7 @@
       ],
       "company": "Elanco",
       "key": "03708c36c6c204119e614d43",
-      "last_scanned": "2026-11-04",
+      "last_scanned": "2026-11-15",
       "resolved_roles": 0,
       "url": "https://www.elanco.com/"
     },
@@ -4496,11 +4496,12 @@
     },
     {
       "boards": [
-        "greenhouse:users"
+        "greenhouse:users",
+        "greenhouse:veeamsoftware"
       ],
       "company": "Veeam Software",
       "key": "15abf5976719edfad686a2b8",
-      "last_scanned": "2026-10-02",
+      "last_scanned": "2026-11-15",
       "resolved_roles": 0,
       "url": "https://www.veeam.com/"
     },
@@ -11037,6 +11038,16 @@
       "url": "https://www.redcatholdings.com/"
     },
     {
+      "boards": [
+        "bamboohr:observepoint"
+      ],
+      "company": "Strala",
+      "key": "33605210f88010f266ca67c7",
+      "last_scanned": "2026-11-15",
+      "resolved_roles": 0,
+      "url": "https://www.strala.com/"
+    },
+    {
       "boards": [],
       "company": "Starwood Capital Group",
       "key": "3366cedc2c9169a2b5c7af14",
@@ -12343,7 +12354,7 @@
       "boards": [],
       "company": "Cedars-Sinai",
       "key": "39772adf10ee191285c3f27e",
-      "last_scanned": "2026-11-07",
+      "last_scanned": "2026-11-15",
       "resolved_roles": 0,
       "url": "https://www.cedars-sinai.org/"
     },
@@ -14699,7 +14710,7 @@
       ],
       "company": "AssetMark",
       "key": "447ef26771b216e53bad61dd",
-      "last_scanned": "2026-10-29",
+      "last_scanned": "2026-11-15",
       "resolved_roles": 0,
       "url": "https://www.assetmark.com/"
     },
@@ -16768,7 +16779,7 @@
       "boards": [],
       "company": "Johnson Financial Group",
       "key": "4de21b31f1306ff41f757d7e",
-      "last_scanned": "2026-10-03",
+      "last_scanned": "2026-11-15",
       "resolved_roles": 0,
       "url": "https://www.johnsonfinancialgroup.com/"
     },
@@ -17183,7 +17194,7 @@
       "boards": [],
       "company": "Actus Consulting Group",
       "key": "4f554cfcca707a5c5bbbdc2c",
-      "last_scanned": "2026-10-28",
+      "last_scanned": "2026-11-15",
       "resolved_roles": 0,
       "url": "https://www.actusconsulting.com/"
     },
@@ -20714,7 +20725,7 @@
       "boards": [],
       "company": "Hitachi Energy",
       "key": "5eb84e283befa4fb670ea267",
-      "last_scanned": "2026-10-29",
+      "last_scanned": "2026-11-15",
       "resolved_roles": 0,
       "url": "https://www.hitachienergy.com/in/en"
     },
@@ -22590,8 +22601,9 @@
         "workday:nvent.wd5.myworkdayjobs.com:nvent:nvent"
       ],
       "company": "nVent",
+      "error": "public request failed for https://www.nvent.com/: HTTP Error 403: Forbidden",
       "key": "678f719edc5f11e3bdad649f",
-      "last_scanned": "2026-10-30",
+      "last_scanned": "2026-11-15",
       "resolved_roles": 0,
       "url": "https://www.nvent.com/"
     },
@@ -23065,7 +23077,7 @@
       "boards": [],
       "company": "Diversified Energy Company",
       "key": "69a7b90fd71c909d80339e3d",
-      "last_scanned": "2026-10-03",
+      "last_scanned": "2026-11-15",
       "resolved_roles": 0,
       "url": "https://www.div.energy/"
     },
@@ -24067,7 +24079,7 @@
       "company": "DV Trading LLC",
       "error": "public request failed for https://www.dvtrading.co/: HTTP Error 526: <none>",
       "key": "6e1dbefdee0f362023608d2e",
-      "last_scanned": "2026-11-12",
+      "last_scanned": "2026-11-15",
       "url": "https://www.dvtrading.co/"
     },
     {
@@ -30216,7 +30228,7 @@
       "company": "Ria Money Transfer",
       "error": "public request failed for https://www.riamoneytransfer.com/en-in/: HTTP Error 403: Forbidden",
       "key": "8a04db612815b747e7249712",
-      "last_scanned": "2026-11-11",
+      "last_scanned": "2026-11-15",
       "resolved_roles": 0,
       "url": "https://in.riafinancial.com/home"
     },
@@ -31700,7 +31712,7 @@
       "boards": [],
       "company": "Watchfire",
       "key": "90d11a47f51c754532d40996",
-      "last_scanned": "2026-10-15",
+      "last_scanned": "2026-11-15",
       "resolved_roles": 0,
       "url": "https://www.watchfiresigns.com/"
     },
@@ -33725,7 +33737,7 @@
       "boards": [],
       "company": "Patel, Greene & Associates, LLC (PGA)",
       "key": "9a754caf9389e1e301f56643",
-      "last_scanned": "2026-09-11",
+      "last_scanned": "2026-11-15",
       "resolved_roles": 0,
       "url": "https://www.patelgreene.com/"
     },
@@ -34876,7 +34888,7 @@
       "company": "Future Mode",
       "error": "public request failed for https://www.linkedin.com/uas/login?session_redirect=%2Fcompany%2F80148032: HTTP Error 403: Forbidden",
       "key": "9fc52a336d182bc761357183",
-      "last_scanned": "2026-11-14",
+      "last_scanned": "2026-11-15",
       "resolved_roles": 0,
       "url": "https://www.linkedin.com/company/80148032"
     },
@@ -36312,7 +36324,7 @@
       ],
       "company": "Commonwealth Fusion Systems",
       "key": "a54162c63ac31bde1dd27e70",
-      "last_scanned": "2026-10-30",
+      "last_scanned": "2026-11-15",
       "resolved_roles": 0,
       "url": "https://www.cfs.energy/"
     },
@@ -39640,7 +39652,7 @@
       "company": "Brady Corporation",
       "error": "public request failed for https://www.bradyid.com/: HTTP Error 403: Forbidden",
       "key": "b54562ae9eb9940c506b8de8",
-      "last_scanned": "2026-11-14",
+      "last_scanned": "2026-11-15",
       "url": "https://www.bradyid.com/"
     },
     {
@@ -43040,7 +43052,7 @@
       ],
       "company": "JPMorganChase",
       "key": "c49810a886dcff1671a1c95b",
-      "last_scanned": "2026-11-07",
+      "last_scanned": "2026-11-15",
       "resolved_roles": 0,
       "url": "https://www.jpmorganchase.com/"
     },
@@ -45188,7 +45200,7 @@
       "company": "WSP in the U.S.",
       "error": "public request failed for https://www.wsp.com/en-us: HTTP Error 403: Forbidden",
       "key": "ce26e2f6b0157eb94cc09fde",
-      "last_scanned": "2026-11-14",
+      "last_scanned": "2026-11-15",
       "url": "https://www.wsp.com/en-us"
     },
     {
@@ -52544,7 +52556,7 @@
       "company": "Burns & McDonnell",
       "error": "Invalid IPv6 URL",
       "key": "eec8917d7550e69bd17e19be",
-      "last_scanned": "2026-11-12",
+      "last_scanned": "2026-11-15",
       "url": "https://www.burnsmcd.com/"
     },
     {
@@ -55420,7 +55432,7 @@
       "company": "State of Ohio",
       "error": "public request failed for https://ohio.gov/: HTTP Error 404: Not Found",
       "key": "fcbd3e50b175e5aac8edd70f",
-      "last_scanned": "2026-11-13",
+      "last_scanned": "2026-11-15",
       "url": "https://ohio.gov/"
     },
     {
