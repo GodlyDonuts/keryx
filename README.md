@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,564 internships · 4,957 new-grad roles · 15,521 total openings**
+**10,530 internships · 4,949 new-grad roles · 15,479 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 5,013 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 5,009 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 322 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 675 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 216 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,338 | **[View openings →](internships/unscheduled.md)** |
+| 🌱 Spring 2027 | 662 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 217 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 4,320 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,224 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,011 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,722 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,228 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,009 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,712 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,6 +37,9 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Amazon | Software Development Engineer Intern - Embedded Systems - Summer 2027 - USA | Seattle, WA | Summer 2027 | not available | 2026-11-15 | **[Apply →](https://www.amazon.jobs/jobs/10567914/apply)**<br><sub>www.amazon.jobs</sub> |
+| Cboe Global Markets | Technical Business Analyst Intern | Chicago, IL | Not listed | not available | 2026-11-15 | **[Apply →](https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/Chicago-IL/Technical-Business-Analyst-Intern_R-4710)**<br><sub>cboe.wd1.myworkdayjobs.com</sub> |
+| Direct Supply | Software Engineer Intern | Milwaukee, WI | Not listed | not available | 2026-11-15 | **[Apply →](https://directsupply.wd501.myworkdayjobs.com/en-US/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559)**<br><sub>directsupply.wd501.myworkdayjobs.com</sub> |
 | Elanco | Manufacturing Scientist/Technical Services Intern – Elanco Technology Center (Summer 2027) | Indianapolis, IN | Summer 2027 | not available | 2026-11-15 | **[Apply →](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Manufacturing-Scientist-Technical-Services-Intern---Elanco-Technology-Center--Summer-2027-_R0026897)**<br><sub>elanco.wd5.myworkdayjobs.com</sub> |
 | Fanatics | Summer 2027 Intern - Pre-Press & Business Operations | New York, NY, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-11-15 | **[Apply →](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507753009)**<br><sub>job-boards.greenhouse.io</sub> |
 | Fanatics | Summer 2027 Internship - Accounting & Controllership Intern | New York, NY, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-11-15 | **[Apply →](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507797009)**<br><sub>job-boards.greenhouse.io</sub> |
@@ -46,9 +49,6 @@ Recent internship and co-op listings that open the employer's application page d
 | Fanatics | Summer 2027 Internship - Creative & Illustration Intern | Seattle, WA, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-11-15 | **[Apply →](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507814009)**<br><sub>job-boards.greenhouse.io</sub> |
 | Fanatics | Summer 2027 Internship - Game Design Intern | Seattle, WA, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-11-15 | **[Apply →](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507816009)**<br><sub>job-boards.greenhouse.io</sub> |
 | Fanatics | Summer 2027 Internship - Industrial Engineering Intern | Sunnyvale, TX, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-11-15 | **[Apply →](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507650009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Fanatics | Summer 2027 Internship - Legal Intern | New York, NY, United States | Summer 2027 | Current student status<br><sub>preferred</sub> | 2026-11-15 | **[Apply →](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507830009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Fanatics | Summer 2027 Internship - Licensing Intern | New York, NY, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-11-15 | **[Apply →](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507681009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Fanatics | Summer 2027 Internship - Manufacturing and Business Operations Summer 2027 Intern | Sunnyvale, TX, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-11-15 | **[Apply →](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507664009)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -61,6 +61,7 @@ Recent full-time opportunities that open the employer's application page directl
 | Hive | Forward Deployed Software Engineer | San Francisco, CA | 2027 | not available | 2026-11-15 | **[Apply →](https://jobs.lever.co/hive/55154d4d-bd3e-4f83-9ec3-982da1e8da42)**<br><sub>jobs.lever.co</sub> |
 | Hive | Software Engineer - Frontend | San Francisco, CA | 2027 | not available | 2026-11-15 | **[Apply →](https://jobs.lever.co/hive/4947a174-d218-4c83-be26-89b1e889dc16)**<br><sub>jobs.lever.co</sub> |
 | Hive | Software Engineer - Frontend | Seattle, WA | 2027 | not available | 2026-11-15 | **[Apply →](https://jobs.lever.co/hive/818e2024-c973-4cf7-84fd-7b14bd3a24f8)**<br><sub>jobs.lever.co</sub> |
+| Motorola Solutions | Embedded Software Engineer | Allen, TX | 2027 | not available | 2026-11-15 | **[Apply →](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Allen-TX-TX139/Embedded-Software-Engineer_R68965-1)**<br><sub>motorolasolutions.wd5.myworkdayjobs.com</sub> |
 | Trane Technologies | Associate Embedded SW Engineer | La Crosse, WI | 2027 | not available | 2026-11-15 | **[Apply →](https://tranetechnologies.wd12.myworkdayjobs.com/en-US/trane_technologies_careers/job/La-Crosse-Wisconsin/Associate-Embedded-SW-Engineer_JR-14625-1)**<br><sub>tranetechnologies.wd12.myworkdayjobs.com</sub> |
 | Amazon | EFA Network Software Engineer I - Annapurna Labs | Seattle, WA | 2027 | not available | 2026-11-14 | **[Apply →](https://www.amazon.jobs/jobs/10481932/apply)**<br><sub>www.amazon.jobs</sub> |
 | Amazon | Software Development Engineer - Amazon Leo - Early Career - 2026 | Redmond, WA | 2026 | not available | 2026-11-14 | **[Apply →](https://www.amazon.jobs/jobs/10513110/apply)**<br><sub>www.amazon.jobs</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Integrated Biosciences | Software Engineer - Robotics | Redwood City, CA | Not listed | not available | 2026-11-14 | **[Apply →](https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009)**<br><sub>job-boards.greenhouse.io</sub> |
 | Mercury | Software Engineer - Mercury Command | Remote - San Francisco, CA +2 | 2027 | not available | 2026-11-14 | **[Apply →](https://job-boards.greenhouse.io/mercury/jobs/6233238004)**<br><sub>job-boards.greenhouse.io</sub> |
 | Microsoft | Software Engineer - Microsoft Business Operations | Redmond, WA | Not listed | not available | 2026-11-14 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393557073410)**<br><sub>apply.careers.microsoft.com</sub> |
-| Nooks | Software Engineer - New Grad | San Francisco, CA | 2027 | not available | 2026-11-14 | **[Apply →](https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
