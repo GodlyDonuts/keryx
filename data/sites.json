@@ -2227,7 +2227,7 @@
       "company": "MaineHealth",
       "error": "public request failed for https://www.mainehealth.org/: HTTP Error 403: Forbidden",
       "key": "0b0a931d9b71f4c8c05a7565",
-      "last_scanned": "2026-11-02",
+      "last_scanned": "2026-11-16",
       "resolved_roles": 0,
       "url": "https://mainehealth.org/"
     },
@@ -9675,6 +9675,14 @@
     },
     {
       "boards": [],
+      "company": "AscendArc",
+      "key": "2e03a1c70e4a76f84f3061bf",
+      "last_scanned": "2026-11-16",
+      "resolved_roles": 0,
+      "url": "https://www.ascendarc.com/"
+    },
+    {
+      "boards": [],
       "company": "Virginia Commonwealth University School of Medicine",
       "key": "2e117cea4681013a4c6239e3",
       "last_scanned": "2026-10-07",
@@ -11155,7 +11163,7 @@
       "boards": [],
       "company": "ai.moms",
       "key": "33e01c315ad72fe1dc139de6",
-      "last_scanned": "2026-11-08",
+      "last_scanned": "2026-11-16",
       "resolved_roles": 0,
       "url": "https://aimoms.ai/"
     },
@@ -20626,7 +20634,7 @@
       "company": "AE2S (Advanced Engineering and Environmental Services, LLC)",
       "error": "public request failed for https://www.ae2s.com/: HTTP Error 403: Forbidden",
       "key": "5e309f5a9106891cfcc8d051",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "resolved_roles": 1,
       "url": "https://ae2s.com/"
     },
@@ -23877,6 +23885,14 @@
       "key": "6cffbf51787f841d31a22c00",
       "last_scanned": "2026-10-09",
       "url": "https://www.littelfuse.com/"
+    },
+    {
+      "boards": [],
+      "company": "UHS",
+      "key": "6d004458b8a25a7b008c8cd1",
+      "last_scanned": "2026-11-16",
+      "resolved_roles": 0,
+      "url": "https://uhs.com/"
     },
     {
       "boards": [],
@@ -37041,6 +37057,14 @@
     },
     {
       "boards": [],
+      "company": "Origin Medical",
+      "key": "a8c61e243fd2f6be2f3b991c",
+      "last_scanned": "2026-11-16",
+      "resolved_roles": 0,
+      "url": "https://www.originmedical.ai/"
+    },
+    {
+      "boards": [],
       "company": "Raven Software",
       "key": "a8cb27f93f9c5258dabdb2c3",
       "last_scanned": "2026-10-05",
@@ -37759,7 +37783,7 @@
       "boards": [],
       "company": "Instawork",
       "key": "abd977e15434d63f73372153",
-      "last_scanned": "2026-11-08",
+      "last_scanned": "2026-11-16",
       "resolved_roles": 0,
       "url": "https://www.instawork.com/"
     },
@@ -37814,7 +37838,7 @@
       "boards": [],
       "company": "TikTok USDS Joint Venture",
       "key": "ac1af92ed1d2e62377c4b93e",
-      "last_scanned": "2026-10-31",
+      "last_scanned": "2026-11-16",
       "resolved_roles": 0,
       "url": "https://usdsjv.tiktok.com/"
     },
@@ -46096,7 +46120,7 @@
       "company": "KeyBank",
       "error": "public request failed for https://www.key.com/personal/index.jsp?key=com: The read operation timed out",
       "key": "d199e86886d0fb0b5b3f0142",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "url": "https://www.key.com/personal/index.jsp?key=com"
     },
     {
@@ -46857,7 +46881,7 @@
       "company": "Fulgent Genetics",
       "error": "public request failed for https://www.fulgentdiagnostics.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.fulgentdiagnostics.com'. (_ssl.c:1081)>",
       "key": "d48142aa528554229db8d202",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "url": "https://www.fulgentdiagnostics.com/"
     },
     {
@@ -46982,7 +47006,7 @@
       "company": "Maine Department of Transportation",
       "error": "public request failed for https://www.maine.gov/dot: HTTP Error 403: Forbidden",
       "key": "d4d7fe816681b9bdbc5c6c51",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "url": "https://www.maine.gov/dot"
     },
     {
@@ -47760,7 +47784,7 @@
       "company": "Steve Madden",
       "error": "Invalid IPv6 URL",
       "key": "d882e407f1c787ad33151f3b",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "url": "https://www.stevemadden.com/"
     },
     {
@@ -48090,9 +48114,8 @@
     {
       "boards": [],
       "company": "Ahold Delhaize USA",
-      "error": "public request failed for https://www.adusa.com/: HTTP Error 403: Forbidden",
       "key": "da23f789b7f957919fb3d324",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "resolved_roles": 0,
       "url": "https://www.adusa.com/"
     },
@@ -48139,7 +48162,7 @@
       "company": "Analog Devices",
       "error": "public request failed for https://www.analog.com/: The read operation timed out",
       "key": "da5b6ccc15041bc6fbc26e91",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "url": "https://www.analog.com/"
     },
     {
@@ -48254,7 +48277,7 @@
       "company": "Intuitive Machines",
       "error": "too many public redirects: https://www.intuitivemachines.com/",
       "key": "daf60823d787b44d6afc05c7",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "url": "https://www.intuitivemachines.com/"
     },
     {
@@ -48956,7 +48979,7 @@
       "company": "Silicon Labs",
       "error": "public request failed for https://www.silabs.com/: HTTP Error 403: Forbidden",
       "key": "de8172f6ce3be830b9f4b88f",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "resolved_roles": 0,
       "url": "https://silabs.com/"
     },
@@ -50780,7 +50803,7 @@
       "company": "David Yurman",
       "error": "Invalid IPv6 URL",
       "key": "e713ab47e86b5a7cc428612f",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "url": "https://www.davidyurman.com/"
     },
     {
@@ -50851,7 +50874,7 @@
       "company": "Yardi",
       "error": "public request failed for https://www.yardi.com/: HTTP Error 403: Forbidden",
       "key": "e75de160003411315217bfbe",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "resolved_roles": 0,
       "url": "https://www.yardi.com/"
     },
@@ -50859,7 +50882,7 @@
       "company": "ServiceNow",
       "error": "public request failed for https://www.servicenow.com/: HTTP Error 403: Forbidden",
       "key": "e76619ad9660a1c181a33522",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "url": "https://www.servicenow.com/"
     },
     {
@@ -51254,7 +51277,7 @@
       "company": "CLVG Consulting Inc. - SBA 8(a), WOSB",
       "error": "Invalid IPv6 URL",
       "key": "e94e38ebab92b4cd21f6314e",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "url": "https://clvgconsulting.com/"
     },
     {
@@ -51630,7 +51653,7 @@
       "company": "NetApp",
       "error": "public request failed for https://www.netapp.com/: HTTP Error 403: Forbidden",
       "key": "ea93c2dda51f4733bfae8226",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "url": "https://netapp.com/"
     },
     {
@@ -51803,7 +51826,7 @@
       "company": "Infosys",
       "error": "public request failed for https://www.infosys.com/: HTTP Error 403: Forbidden",
       "key": "eb401d2139ce32943d9ce970",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "url": "https://www.infosys.com/"
     },
     {
@@ -53352,7 +53375,7 @@
       "company": "SeatGeek",
       "error": "public request failed for https://seatgeek.com/: HTTP Error 403: Forbidden",
       "key": "f1e40e1981c91c89a23119bf",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "url": "https://seatgeek.com/"
     },
     {
@@ -54114,7 +54137,7 @@
       "company": "Rubrik",
       "error": "public request failed for https://www.rubrik.com/: HTTP Error 403: Forbidden",
       "key": "f61cf0c24b28035366bfaa16",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "url": "https://rubrik.com/"
     },
     {
@@ -54667,7 +54690,7 @@
       "company": "WSP",
       "error": "public request failed for https://www.wsp.com/: HTTP Error 403: Forbidden",
       "key": "f87ce539e493ffa8dd66c10d",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "url": "https://www.wsp.com/"
     },
     {
@@ -54842,7 +54865,7 @@
       "company": "ICAP",
       "error": "public request failed for https://www.icap.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.icap.com'. (_ssl.c:1081)>",
       "key": "f9b8f723a520b25eb2094568",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "url": "https://www.icap.com/"
     },
     {
@@ -54923,7 +54946,7 @@
       "company": "Petco",
       "error": "public request failed for https://www.petco.com/: HTTP Error 403: Forbidden",
       "key": "fa05677e8eeef963ed44859a",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "url": "https://petco.com/"
     },
     {
@@ -54963,7 +54986,7 @@
       "company": "Altron, Inc.",
       "error": "Invalid IPv6 URL",
       "key": "fa4be155deb8b15047a379d2",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "url": "https://altroninc.com/"
     },
     {
@@ -55204,7 +55227,7 @@
       "company": "Snowflake",
       "error": "public request failed for https://www.snowflake.com/en/: HTTP Error 403: Forbidden",
       "key": "fb855d8ad8c874882df7dbf9",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "resolved_roles": 0,
       "url": "https://www.snowflake.com/"
     },
@@ -55220,14 +55243,14 @@
       "company": "Hewlett Packard Enterprise",
       "error": "public request failed for https://www.hpe.com/: The read operation timed out",
       "key": "fb9d829f215a3234760b16c3",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "url": "https://www.hpe.com/"
     },
     {
       "company": "Medline",
       "error": "public request failed for https://www.medline.com/home.jsp: HTTP Error 403: Forbidden",
       "key": "fba9f138ac3501568473f595",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "url": "https://www.medline.com/home.jsp"
     },
     {
@@ -55456,7 +55479,7 @@
       "company": "State of Ohio",
       "error": "public request failed for https://ohio.gov/: HTTP Error 404: Not Found",
       "key": "fcbd3e50b175e5aac8edd70f",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "url": "https://ohio.gov/"
     },
     {
@@ -55589,7 +55612,7 @@
       "company": "Epic Games",
       "error": "public request failed for https://www.epicgames.com:443/: HTTP Error 403: Forbidden",
       "key": "fd2aec6b90163ec9c714ee1b",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-16",
       "url": "https://epicgames.com/"
     },
     {

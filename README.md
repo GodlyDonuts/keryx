@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,491 internships · 4,934 new-grad roles · 15,425 total openings**
+**10,495 internships · 4,926 new-grad roles · 15,421 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 5,014 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 323 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 663 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 215 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,276 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 5,008 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 321 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 666 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 216 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 4,284 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,223 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,028 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,683 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,206 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 988 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,732 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -58,6 +58,7 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Zuru | Business Analyst | Minneapolis, MN | Not listed | not available | 2026-11-16 | **[Apply →](https://jobs.ashbyhq.com/zuru/35a4eeb0-bdf4-4e8a-94f3-955e214777e1/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Hive | Forward Deployed Software Engineer | San Francisco, CA | 2027 | not available | 2026-11-15 | **[Apply →](https://jobs.lever.co/hive/55154d4d-bd3e-4f83-9ec3-982da1e8da42)**<br><sub>jobs.lever.co</sub> |
 | Hive | Software Engineer - Frontend | San Francisco, CA | 2027 | not available | 2026-11-15 | **[Apply →](https://jobs.lever.co/hive/4947a174-d218-4c83-be26-89b1e889dc16)**<br><sub>jobs.lever.co</sub> |
 | Hive | Software Engineer - Frontend | Seattle, WA | 2027 | not available | 2026-11-15 | **[Apply →](https://jobs.lever.co/hive/818e2024-c973-4cf7-84fd-7b14bd3a24f8)**<br><sub>jobs.lever.co</sub> |
@@ -69,7 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | European Energy Exchange AG | Working Student (f/m/d) – IT Strategy & Governance | Clearing, Illinois, United States | 2026 | not available | 2026-11-14 | **[Apply →](https://career.deutsche-boerse.com/ecc/job/Leipzig-Working-Student-%28fmd%29-IT-Strategy-&-Governance/1415669133/)**<br><sub>career.deutsche-boerse.com</sub> |
 | Integrated Biosciences | Software Engineer - Robotics | Redwood City, CA | Not listed | not available | 2026-11-14 | **[Apply →](https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009)**<br><sub>job-boards.greenhouse.io</sub> |
 | Mercury | Software Engineer - Mercury Command | Remote - San Francisco, CA +2 | 2027 | not available | 2026-11-14 | **[Apply →](https://job-boards.greenhouse.io/mercury/jobs/6233238004)**<br><sub>job-boards.greenhouse.io</sub> |
-| Microsoft | Software Engineer - Microsoft Business Operations | Redmond, WA | Not listed | not available | 2026-11-14 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393557073410)**<br><sub>apply.careers.microsoft.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
