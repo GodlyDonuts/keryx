@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,495 internships · 4,926 new-grad roles · 15,421 total openings**
+**10,591 internships · 4,930 new-grad roles · 15,521 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 5,008 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 321 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 666 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 216 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,284 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 5,031 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 324 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 669 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 217 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 4,350 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,206 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 988 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,732 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,224 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 993 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,713 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Amazon | Software Development Engineer Intern - Embedded Systems - Summer 2027 - USA | Seattle, WA | Summer 2027 | not available | 2026-11-15 | **[Apply →](https://www.amazon.jobs/jobs/10567914/apply)**<br><sub>www.amazon.jobs</sub> |
-| Cboe Global Markets | Technical Business Analyst Intern | Chicago, IL | Not listed | not available | 2026-11-15 | **[Apply →](https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/Chicago-IL/Technical-Business-Analyst-Intern_R-4710)**<br><sub>cboe.wd1.myworkdayjobs.com</sub> |
-| Direct Supply | Software Engineer Intern | Milwaukee, WI | Not listed | not available | 2026-11-15 | **[Apply →](https://directsupply.wd501.myworkdayjobs.com/en-US/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559)**<br><sub>directsupply.wd501.myworkdayjobs.com</sub> |
-| Elanco | Manufacturing Scientist/Technical Services Intern – Elanco Technology Center (Summer 2027) | Indianapolis, IN | Summer 2027 | not available | 2026-11-15 | **[Apply →](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Manufacturing-Scientist-Technical-Services-Intern---Elanco-Technology-Center--Summer-2027-_R0026897)**<br><sub>elanco.wd5.myworkdayjobs.com</sub> |
-| Fanatics | Summer 2027 Intern - Pre-Press & Business Operations | New York, NY, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-11-15 | **[Apply →](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507753009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Fanatics | Summer 2027 Internship - Accounting & Controllership Intern | New York, NY, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-11-15 | **[Apply →](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507797009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Fanatics | Summer 2027 Internship - Athlete Partnerships Contract Administration & PO Operations Intern | New York, NY, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-11-15 | **[Apply →](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507827009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Fanatics | Summer 2027 Internship - Athlete Partnerships Planner Intern | New York, NY, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-11-15 | **[Apply →](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507823009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Fanatics | Summer 2027 Internship - Collector Relations Intern | Los Angeles, CA, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-11-15 | **[Apply →](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507821009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Fanatics | Summer 2027 Internship - Creative & Illustration Intern | Seattle, WA, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-11-15 | **[Apply →](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507814009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Fanatics | Summer 2027 Internship - Game Design Intern | Seattle, WA, United States | Summer 2027 | Current student status<br><sub>required</sub> | 2026-11-15 | **[Apply →](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507816009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Fanatics | Summer 2027 Internship - Industrial Engineering Intern | Sunnyvale, TX, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-11-15 | **[Apply →](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507650009)**<br><sub>job-boards.greenhouse.io</sub> |
+| AECOM | Engineering Intern | Cleveland, OH, us | Not listed | not available | 2026-11-16 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000161861399)**<br><sub>jobs.smartrecruiters.com</sub> |
+| AECOM | Engineering Intern | Novi, MI, us | Not listed | not available | 2026-11-16 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000161861479)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Altice USA | Software Developer Intern | Bethpage, NY | Winter 2027 | not available | 2026-11-16 | **[Apply →](https://www.optimumcareers.com/job/Bethpage-Intern-Software-Developer-NY-11714/1450884000/?ats=successfactors)**<br><sub>www.optimumcareers.com</sub> |
+| BGE, Inc | SAN ANTONIO - Transportation, Internship | 7330 San Pedro Ave., Suite 301, San Antonio, Texas 78216 | Not listed | not stated | 2026-11-16 | **[Apply →](https://job-boards.greenhouse.io/bgeinc/jobs/5483023008)**<br><sub>job-boards.greenhouse.io</sub> |
+| Boston Scientific | AI Acceleration Intern | Marlborough, MA | Summer 2027 | not available | 2026-11-16 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813862390)**<br><sub>bostonscientific.eightfold.ai</sub> |
+| Boston Scientific | AI Engineer Intern - Generative & Agentic AI | Marlborough, MA, Maple Grove, MN, Arden Hills, MN | Summer 2027 | not available | 2026-11-16 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813827837)**<br><sub>bostonscientific.eightfold.ai</sub> |
+| Carnival Corporation | Intern, Consumer Insights and Marketing Analytics | Miami, FL, United States | Summer 2027 | not stated | 2026-11-16 | **[Apply →](https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14352)**<br><sub>eicl.fa.em5.oraclecloud.com</sub> |
+| Carnival Corporation | Intern, Data & AI Solutions (PCL) | Miami, FL, United States | Summer 2027 | not stated | 2026-11-16 | **[Apply →](https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14311)**<br><sub>eicl.fa.em5.oraclecloud.com</sub> |
+| Carnival Corporation | Intern, eCommerce Product Intern | Fort Lauderdale, FL, United States | Summer 2027 | not stated | 2026-11-16 | **[Apply →](https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14404)**<br><sub>eicl.fa.em5.oraclecloud.com</sub> |
+| Carnival Corporation | Intern, Energy Analytics & Decarbonization (CCL) | Miami, FL, United States | Not listed | not stated | 2026-11-16 | **[Apply →](https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14327)**<br><sub>eicl.fa.em5.oraclecloud.com</sub> |
+| Carnival Corporation | Intern, Port Operations Data Analytics | Miami, FL, United States | Summer 2027 | not stated | 2026-11-16 | **[Apply →](https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14373)**<br><sub>eicl.fa.em5.oraclecloud.com</sub> |
+| Carnival Corporation | Intern, Product Management (PCL) | Fort Lauderdale, FL, United States | Summer 2027 | not stated | 2026-11-16 | **[Apply →](https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14351)**<br><sub>eicl.fa.em5.oraclecloud.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,6 +58,8 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Amentum | Entry Level Software Engineer - SECRET | Dahlgren, VA | 2027 | not available | 2026-11-16 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
+| Quanta Services | Business Analyst | Lone Tree, CO | 2026 | not available | 2026-11-16 | **[Apply →](https://careers2-quanta.icims.com/jobs/20046/job?mobile=true&needsRedirect=false)**<br><sub>careers2-quanta.icims.com</sub> |
 | Zuru | Business Analyst | Minneapolis, MN | Not listed | not available | 2026-11-16 | **[Apply →](https://jobs.ashbyhq.com/zuru/35a4eeb0-bdf4-4e8a-94f3-955e214777e1/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Hive | Forward Deployed Software Engineer | San Francisco, CA | 2027 | not available | 2026-11-15 | **[Apply →](https://jobs.lever.co/hive/55154d4d-bd3e-4f83-9ec3-982da1e8da42)**<br><sub>jobs.lever.co</sub> |
 | Hive | Software Engineer - Frontend | San Francisco, CA | 2027 | not available | 2026-11-15 | **[Apply →](https://jobs.lever.co/hive/4947a174-d218-4c83-be26-89b1e889dc16)**<br><sub>jobs.lever.co</sub> |
@@ -68,8 +70,6 @@ Recent full-time opportunities that open the employer's application page directl
 | Amazon | Software Development Engineer - Amazon Leo - Early Career - 2026 | Redmond, WA | 2026 | not available | 2026-11-14 | **[Apply →](https://www.amazon.jobs/jobs/10513110/apply)**<br><sub>www.amazon.jobs</sub> |
 | European Energy Exchange AG | Working Student (f/m/d) - Data Innovation & Risk Management | Clearing, Illinois, United States | 2026 | not available | 2026-11-14 | **[Apply →](https://career.deutsche-boerse.com/job-invite/27336/)**<br><sub>career.deutsche-boerse.com</sub> |
 | European Energy Exchange AG | Working Student (f/m/d) – IT Strategy & Governance | Clearing, Illinois, United States | 2026 | not available | 2026-11-14 | **[Apply →](https://career.deutsche-boerse.com/ecc/job/Leipzig-Working-Student-%28fmd%29-IT-Strategy-&-Governance/1415669133/)**<br><sub>career.deutsche-boerse.com</sub> |
-| Integrated Biosciences | Software Engineer - Robotics | Redwood City, CA | Not listed | not available | 2026-11-14 | **[Apply →](https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Mercury | Software Engineer - Mercury Command | Remote - San Francisco, CA +2 | 2027 | not available | 2026-11-14 | **[Apply →](https://job-boards.greenhouse.io/mercury/jobs/6233238004)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
