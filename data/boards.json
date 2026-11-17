@@ -3316,6 +3316,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Absolics",
+      "key": "greenhouse:absolicsinc",
+      "slug": "absolicsinc"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Accenture",
       "key": "greenhouse:accenturefederalservices",
       "slug": "accenturefederalservices"
@@ -7444,6 +7450,12 @@
     },
     {
       "ats": "lever",
+      "company": "Arrive Logistics",
+      "key": "lever:arrivelogistics",
+      "slug": "arrivelogistics"
+    },
+    {
+      "ats": "lever",
       "company": "ARSIEM",
       "key": "lever:arsiem",
       "slug": "arsiem"
@@ -7645,6 +7657,12 @@
       "company": "HRL Laboratories",
       "key": "lever:dodmg",
       "slug": "dodmg"
+    },
+    {
+      "ats": "lever",
+      "company": "Duetti",
+      "key": "lever:duetti",
+      "slug": "duetti"
     },
     {
       "ats": "lever",
@@ -17642,6 +17660,15 @@
     },
     {
       "ats": "workday",
+      "company": "Altera Digital Health",
+      "host": "harriscomputer.wd3.myworkdayjobs.com",
+      "key": "workday:harriscomputer.wd3.myworkdayjobs.com:harriscomputer:altera",
+      "site": "Altera",
+      "slug": "harriscomputer",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
       "company": "Atlanta Hawks",
       "host": "hawks.wd1.myworkdayjobs.com",
       "key": "workday:hawks.wd1.myworkdayjobs.com:hawks:external",
@@ -23990,7 +24017,7 @@
       "company": "TricorBraun",
       "host": "tricorbraun.wd115.myworkdayjobs.com",
       "key": "workday:tricorbraun.wd115.myworkdayjobs.com:tricorbraun:careers",
-      "site": "Careers",
+      "site": "careers",
       "slug": "tricorbraun",
       "wd": "wd115"
     },
@@ -24803,6 +24830,15 @@
       "site": "VTSU",
       "slug": "vsc",
       "wd": "wd108"
+    },
+    {
+      "ats": "workday",
+      "company": "Vinik Sports Group",
+      "host": "vsg.wd1.myworkdayjobs.com",
+      "key": "workday:vsg.wd1.myworkdayjobs.com:vsg:vsg",
+      "site": "vsg",
+      "slug": "vsg",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
