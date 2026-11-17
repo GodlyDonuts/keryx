@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,634 internships · 4,923 new-grad roles · 15,557 total openings**
+**10,711 internships · 4,946 new-grad roles · 15,657 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 5,054 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 323 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 666 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 218 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,373 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 5,107 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 319 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 667 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 216 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 4,402 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,231 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 974 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,718 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,205 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,033 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,708 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Zoox | UX Designer Intern \[Summer 2027\] | Foster City, CA | Summer 2027 | Fall 2027–Summer 2028<br><sub>stated</sub> | 2026-11-17 | **[Apply →](https://jobs.lever.co/zoox/6a2a0d85-f466-4177-8236-eac6e2df2e93)**<br><sub>jobs.lever.co</sub> |
-| AECOM | Engineering Intern | Cleveland, OH, us | Not listed | not available | 2026-11-16 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000161861399)**<br><sub>jobs.smartrecruiters.com</sub> |
-| AECOM | Engineering Intern | Novi, MI, us | Not listed | not available | 2026-11-16 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000161861479)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Altice USA | Software Developer Intern | Bethpage, NY | Winter 2027 | not available | 2026-11-16 | **[Apply →](https://www.optimumcareers.com/job/Bethpage-Intern-Software-Developer-NY-11714/1450884000/?ats=successfactors)**<br><sub>www.optimumcareers.com</sub> |
-| Astronics | Manufacturing Engineering Intern - Summer 2027 | Redmond, Washington, United States | Summer 2027 | not stated | 2026-11-16 | **[Apply →](https://job-boards.greenhouse.io/astronicscorporation/jobs/4508864009)**<br><sub>job-boards.greenhouse.io</sub> |
-| BGE, Inc | SAN ANTONIO - Transportation, Internship | 7330 San Pedro Ave., Suite 301, San Antonio, Texas 78216 | Not listed | not stated | 2026-11-16 | **[Apply →](https://job-boards.greenhouse.io/bgeinc/jobs/5483023008)**<br><sub>job-boards.greenhouse.io</sub> |
-| bioMérieux | Machine Learning Co-op | Durham, NC | Winter 2027 | not available | 2026-11-16 | **[Apply →](https://jobs.jobvite.com/biofiredx/job/ol94AfwS?nl=1&nl=1&fr=false)**<br><sub>jobs.jobvite.com</sub> |
-| Boston Scientific | AI Acceleration Intern | Marlborough, MA | Summer 2027 | not available | 2026-11-16 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813862390)**<br><sub>bostonscientific.eightfold.ai</sub> |
-| Boston Scientific | AI Engineer Intern - Generative & Agentic AI | Marlborough, MA, Maple Grove, MN, Arden Hills, MN | Summer 2027 | not available | 2026-11-16 | **[Apply →](https://bostonscientific.eightfold.ai/careers/job/563602813827837)**<br><sub>bostonscientific.eightfold.ai</sub> |
-| Bound | Engineering Intern | Ames, IA | Summer 2027 | not available | 2026-11-16 | **[Apply →](https://ats.rippling.com/bound/jobs/f489575d-5484-4c43-9b6d-a9dce9b29bcd)**<br><sub>ats.rippling.com</sub> |
-| Bound | Product Management Intern | Ames, IA | Summer 2027 | not available | 2026-11-16 | **[Apply →](https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316)**<br><sub>ats.rippling.com</sub> |
-| Bracebridge Capital | Northeastern University Software Engineer - Business Intelligence Co-op | Boston, MA | Not listed | not available | 2026-11-16 | **[Apply →](https://job-boards.greenhouse.io/bracebridgecapital/jobs/4744999005)**<br><sub>job-boards.greenhouse.io</sub> |
+| All Options | Graduate Quantitative Trader Intern | Austin, TX | Summer 2027 | not available | 2026-11-17 | **[Apply →](https://alloptions.bamboohr.com/careers/85/)**<br><sub>alloptions.bamboohr.com</sub> |
+| Bosch | AI Application Intern (8 months/40 hours per week) | Farmington Hills, MI, us | Summer 2027 | not available | 2026-11-17 | **[Apply →](https://jobs.smartrecruiters.com/BoschGroup/744000162076254)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Carnival Corporation | Intern, Maritime Cyber Safety | Miami, FL, United States | Summer 2027 | not stated | 2026-11-17 | **[Apply →](https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14394)**<br><sub>eicl.fa.em5.oraclecloud.com</sub> |
+| Castelion | Intern, Harness Manufacturing | Torrance, CA | Not listed | Current student status<br><sub>required</sub> | 2026-11-17 | **[Apply →](https://job-boards.greenhouse.io/castelioncorporation/jobs/4509759009)**<br><sub>job-boards.greenhouse.io</sub> |
+| Castelion | Intern, PCBA Manufacturing | Torrance, CA | Not listed | Current student status<br><sub>required</sub> | 2026-11-17 | **[Apply →](https://job-boards.greenhouse.io/castelioncorporation/jobs/4509752009)**<br><sub>job-boards.greenhouse.io</sub> |
+| Meta | Research Intern - Embedded AI on Wearables - PhD | Redmond, WA | Not listed | not available | 2026-11-17 | **[Apply →](https://www.metacareers.com/jobs/4070678619908522)**<br><sub>www.metacareers.com</sub> |
+| Nelnet | Intern - Data Analytics | Lincoln, NE | Not listed | not available | 2026-11-17 | **[Apply →](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---Data-Analytics_R23367)**<br><sub>nelnet.wd1.myworkdayjobs.com</sub> |
+| Nordson | Intern (Software Engineering) | USA - Rhode Island - East Providence | Not listed | not available | 2026-11-17 | **[Apply →](https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Rhode-Island---East-Providence/Intern--Software-Engineering-_REQ53006)**<br><sub>nordsonhcm.wd501.myworkdayjobs.com</sub> |
+| PDT Partners | Summer 2027 Systems Engineering Intern | New York, NY, United States | Summer 2027 | Fall 2027 or later<br><sub>stated</sub> | 2026-11-17 | **[Apply →](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292)**<br><sub>job-boards.greenhouse.io</sub> |
+| Rivian | ADAS HW Systems Validation Intern - ADAS HW Systems Validation | Champaign, IL | Spring 2027 | not available | 2026-11-17 | **[Apply →](https://careers.rivian.com/jobs/36514?icims=1&lang=en-us)**<br><sub>careers.rivian.com</sub> |
+| Rivian | Software Engineering Intern - Embedded Software - Spring 2027 Co-op | Palo Alto, CA | Spring 2027 | not available | 2026-11-17 | **[Apply →](https://us-careers-rivian.icims.com/jobs/33832/job)**<br><sub>us-careers-rivian.icims.com</sub> |
+| Road Commission for Oakland County | Geographic Information Systems Internship | Oakland County, Michigan | Summer 2027 | not stated | 2026-11-17 | **[Apply →](https://rcoc.bamboohr.com/careers/314/)**<br><sub>rcoc.bamboohr.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Absolics | Production Automation Engineer | Covington, GA | Not listed | not available | 2026-11-16 | **[Apply →](https://job-boards.greenhouse.io/absolicsinc/jobs/4509348009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Amentum | Entry Level Software Engineer - SECRET | Dahlgren, VA | 2027 | not available | 2026-11-16 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
-| Arrive Logistics | Reporting Analyst 1 | Chicago, IL | Not listed | not available | 2026-11-16 | **[Apply →](https://jobs.lever.co/arrivelogistics/2e210f8b-51e3-4e61-9f43-79daca1cda91/apply)**<br><sub>jobs.lever.co</sub> |
-| Axon | Hardware Validation Automation Analyst 1 | Phoenix, AZ | Not listed | not available | 2026-11-16 | **[Apply →](https://job-boards.greenhouse.io/axon/jobs/8201576003)**<br><sub>job-boards.greenhouse.io</sub> |
-| Blue Cross Blue Shield of Michigan | Analyst Trainee - Data Analysis - Customer Service | Detroit, MI | Not listed | not available | 2026-11-16 | **[Apply →](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15154)**<br><sub>ejko.fa.us2.oraclecloud.com</sub> |
-| CrossCountry Consulting | Junior Forward Deployed Software Engineer | Philadelphia, PA | Not listed | not available | 2026-11-16 | **[Apply →](https://jobs.lever.co/crosscountry-consulting/5f8a920b-77ed-4200-b37d-1f5d68c1bc21/apply)**<br><sub>jobs.lever.co</sub> |
-| CrossCountry Consulting | Junior Forward Deployed Software Engineer | Georgia | Not listed | not available | 2026-11-16 | **[Apply →](https://jobs.lever.co/crosscountry-consulting/dc96666d-77b0-4bc8-b209-a0b9250324a0/apply)**<br><sub>jobs.lever.co</sub> |
-| CrossCountry Consulting | Junior Forward Deployed Software Engineer | McLean, VA | Not listed | not available | 2026-11-16 | **[Apply →](https://jobs.lever.co/crosscountry-consulting/80bd96d8-b824-40ef-9cfe-01860583c4fe/apply)**<br><sub>jobs.lever.co</sub> |
-| DLR Group | Smart Building Analyst 1 | Chicago, IL, Minneapolis, MN | Not listed | not available | 2026-11-16 | **[Apply →](https://job-boards.greenhouse.io/dlrgroup/jobs/5464779008)**<br><sub>job-boards.greenhouse.io</sub> |
-| Fortinet | Early Careers: Software Engineer | Sunnyvale, CA | 2026 | not available | 2026-11-16 | **[Apply →](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24960)**<br><sub>edel.fa.us2.oraclecloud.com</sub> |
-| Fortinet | Embedded Software Engineer - Early Careers | Sunnyvale, CA | Not listed | not available | 2026-11-16 | **[Apply →](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24969)**<br><sub>edel.fa.us2.oraclecloud.com</sub> |
-| GHD | Graduate Developer | Farmington Hills, MI, King of Prussia, PA, Houston, TX, Dallas, TX, Rosemont, IL, Golden, CO | Not listed | not available | 2026-11-16 | **[Apply →](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29481)**<br><sub>ejov.fa.ca2.oraclecloud.com</sub> |
+| All Options | Graduate Quantitative Researcher | Austin, TX | Not listed | not available | 2026-11-17 | **[Apply →](https://alloptions.bamboohr.com/careers/86/)**<br><sub>alloptions.bamboohr.com</sub> |
+| Augurian | Analyst – Analytics | St Paul, MN | Not listed | not available | 2026-11-17 | **[Apply →](https://augurian.bamboohr.com/careers/73/)**<br><sub>augurian.bamboohr.com</sub> |
+| Context Labs | Data Scientist - Energy (Oil & Gas) | Houston, TX | Not listed | not available | 2026-11-17 | **[Apply →](https://contextlabs.bamboohr.com/careers/187/)**<br><sub>contextlabs.bamboohr.com</sub> |
+| Fantom | Software Engineer Level 0 | Hanover, MD | Not listed | not available | 2026-11-17 | **[Apply →](https://jobs.lever.co/fantom-corporation/814d8302-21a4-420c-90d2-925644524af7/apply)**<br><sub>jobs.lever.co</sub> |
+| Inspired Flight Technologies | Electrical Engineer 1 / 2 | San Luis Obispo, CA | Not listed | not available | 2026-11-17 | **[Apply →](https://inspiredflight.bamboohr.com/careers/65/)**<br><sub>inspiredflight.bamboohr.com</sub> |
+| InterImage | Hardware Engineer Level 0 | Fort Meade, MD | Not listed | not available | 2026-11-17 | **[Apply →](https://apply.workable.com/interimage/j/F38279AE12/apply)**<br><sub>apply.workable.com</sub> |
+| InterImage | Software Engineer Level 0 | Fort Meade, MD | Not listed | not available | 2026-11-17 | **[Apply →](https://apply.workable.com/interimage/j/89601AD3BE/apply)**<br><sub>apply.workable.com</sub> |
+| L3Harris Technologies | Engineering Technician A | Salt Lake City, UT | Not listed | not available | 2026-11-17 | **[Apply →](https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-A-UT-84116/1451310200/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
+| Laborie Medical Technologies | Software Engineer 1 | Portsmouth, NH | 2027 | not available | 2026-11-17 | **[Apply →](https://jobs.jobvite.com/laborie/job/oQOXAfwV?nl=1&nl=1&fr=false)**<br><sub>jobs.jobvite.com</sub> |
+| Madhive | Software Engineer - Financial Systems | New York City, NY | 2027 | not available | 2026-11-17 | **[Apply →](https://jobs.ashbyhq.com/madhive/b95e6485-c017-49a0-a966-61f68404279c)**<br><sub>jobs.ashbyhq.com</sub> |
+| Microsoft | Software Engineer Agentic Security | Redmond, WA | Not listed | not available | 2026-11-17 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393557074643)**<br><sub>apply.careers.microsoft.com</sub> |
+| Peraton | Entry-Level Software Engineer - Ignite Innovator Program | Blacksburg, VA | Not listed | not available | 2026-11-17 | **[Apply →](https://peraton.jibeapply.com/jobs/173920?icims=1&lang=en-us)**<br><sub>peraton.jibeapply.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
