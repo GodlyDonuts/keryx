@@ -2924,7 +2924,7 @@
     },
     {
       "ats": "bamboohr",
-      "company": "Bloom Ads Global Media Group",
+      "company": "Bloom Ads",
       "host": "bloomadsglobalmedia.bamboohr.com",
       "key": "bamboohr:bloomadsglobalmedia",
       "slug": "bloomadsglobalmedia"
@@ -2994,6 +2994,13 @@
     },
     {
       "ats": "bamboohr",
+      "company": "Elutions",
+      "host": "elutions.bamboohr.com",
+      "key": "bamboohr:elutions",
+      "slug": "elutions"
+    },
+    {
+      "ats": "bamboohr",
       "company": "Essex General Construction, Inc.",
       "host": "essexgc.bamboohr.com",
       "key": "bamboohr:essexgc",
@@ -3033,6 +3040,13 @@
       "host": "ibabel.bamboohr.com",
       "key": "bamboohr:ibabel",
       "slug": "ibabel"
+    },
+    {
+      "ats": "bamboohr",
+      "company": "ID Plans",
+      "host": "idplans1.bamboohr.com",
+      "key": "bamboohr:idplans1",
+      "slug": "idplans1"
     },
     {
       "ats": "bamboohr",
@@ -11856,6 +11870,12 @@
     },
     {
       "ats": "workable",
+      "company": "Ecliptic Enterprises",
+      "key": "workable:ecliptic-enterprises-corporation",
+      "slug": "ecliptic-enterprises-corporation"
+    },
+    {
+      "ats": "workable",
       "company": "Elevate",
       "key": "workable:elevate-47",
       "slug": "elevate-47"
@@ -11889,6 +11909,12 @@
       "company": "Evolve Security",
       "key": "workable:evolve-security",
       "slug": "evolve-security"
+    },
+    {
+      "ats": "workable",
+      "company": "Executive Title Agency",
+      "key": "workable:executive-title-agency",
+      "slug": "executive-title-agency"
     },
     {
       "ats": "workable",
@@ -16863,7 +16889,7 @@
       "company": "Firefly Aerospace",
       "host": "fireflyspace.wd115.myworkdayjobs.com",
       "key": "workday:fireflyspace.wd115.myworkdayjobs.com:fireflyspace:firefly",
-      "site": "Firefly",
+      "site": "firefly",
       "slug": "fireflyspace",
       "wd": "wd115"
     },
@@ -22938,7 +22964,7 @@
       "company": "Sonos",
       "host": "sonos.wd1.myworkdayjobs.com",
       "key": "workday:sonos.wd1.myworkdayjobs.com:sonos:sonos",
-      "site": "Sonos",
+      "site": "sonos",
       "slug": "sonos",
       "wd": "wd1"
     },
@@ -23118,7 +23144,7 @@
       "company": "Torch Technologies",
       "host": "starfish.wd501.myworkdayjobs.com",
       "key": "workday:starfish.wd501.myworkdayjobs.com:starfish:careers",
-      "site": "careers",
+      "site": "Careers",
       "slug": "starfish",
       "wd": "wd501"
     },
