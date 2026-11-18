@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,709 internships · 4,917 new-grad roles · 15,626 total openings**
+**10,722 internships · 4,882 new-grad roles · 15,604 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 5,098 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 322 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 671 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 218 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,400 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 5,121 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 323 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 666 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 215 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 4,397 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,223 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,003 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,691 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,210 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 967 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,705 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Smarty | Data Acquisition & Quality Specialist Intern | Orem, UT | Winter 2027 | not available | 2026-11-18 | **[Apply →](https://ats.rippling.com/smarty/jobs/9bdebab0-e5e9-49d3-b995-cdaa62796be6)**<br><sub>ats.rippling.com</sub> |
-| Smarty | Product Management Intern | Orem, UT | Summer 2027 | not available | 2026-11-18 | **[Apply →](https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749)**<br><sub>ats.rippling.com</sub> |
-| AECOM | Highway Civil Engineering Intern | Conshohocken, PA, us | Not listed | not available | 2026-11-17 | **[Apply →](https://jobs.smartrecruiters.com/AECOM2/744000162187579)**<br><sub>jobs.smartrecruiters.com</sub> |
-| All Options | Graduate Quantitative Trader Intern | Austin, TX | Summer 2027 | not available | 2026-11-17 | **[Apply →](https://alloptions.bamboohr.com/careers/85/)**<br><sub>alloptions.bamboohr.com</sub> |
-| Amentum | Software Programmer Intern | Tullahoma, TN | Not listed | not available | 2026-11-17 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Software-Programmer-Intern_R0169775)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
-| Amentum | Software Programmer Intern | Detroit, MI | Not listed | not available | 2026-11-17 | **[Apply →](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Software-Programmer-Intern_R0169773)**<br><sub>pae.wd1.myworkdayjobs.com</sub> |
-| Amgen | Grad Intern – R&D TSRS Data Sciences Operations & Analytic (Summer 2027) | United States - Remote | Summer 2027 | not available | 2026-11-17 | **[Apply →](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---R-D-TSRS-Data-Sciences-Operations---Analytic--Summer-2027-_R-260585)**<br><sub>amgen.wd1.myworkdayjobs.com</sub> |
-| Anduril | 2027 Machine Learning Engineer Intern | Santa Ana, California, United States | Summer 2027 | Student status conditions<br><sub>required</sub> | 2026-11-17 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007)**<br><sub>boards.greenhouse.io</sub> |
-| Anduril | 2027 Product Data Quality Co-op | Santa Ana, California, United States | Winter 2027 | Student status conditions<br><sub>required</sub> | 2026-11-17 | **[Apply →](https://boards.greenhouse.io/andurilindustries/jobs/5273039007?gh_jid=5273039007)**<br><sub>boards.greenhouse.io</sub> |
-| APEX Analytix | Product Management Intern - DevOps | Greensboro, NC | Summer 2027 | not available | 2026-11-17 | **[Apply →](https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164)**<br><sub>ats.rippling.com</sub> |
-| Attain Partners | Summer 2027 Consulting Intern | McLean, VA | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-11-17 | **[Apply →](https://job-boards.greenhouse.io/attainpartners/jobs/5485402008)**<br><sub>job-boards.greenhouse.io</sub> |
-| Attain Partners | Summer 2027 Data Analytics Intern | McLean, VA | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-11-17 | **[Apply →](https://job-boards.greenhouse.io/attainpartners/jobs/5485427008)**<br><sub>job-boards.greenhouse.io</sub> |
+| AppLovin | Platform Partnerships Intern | Palo Alto, CA | Spring 2027 | Dec 2027–Spring 2028<br><sub>stated</sub> | 2026-11-18 | **[Apply →](https://boards.greenhouse.io/applovin/jobs/4730428006?gh_jid=4730428006)**<br><sub>boards.greenhouse.io</sub> |
+| BorgWarner | Component Engineering Intern | Kokomo Technical Center - Indiana - USA | Not listed | not available | 2026-11-18 | **[Apply →](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Component-Engineering-Intern_R2026-3933)**<br><sub>borgwarner.wd5.myworkdayjobs.com</sub> |
+| Carboline | Customer Service Analyst Intern | St. Louis, MO, United States | Not listed | Current student status<br><sub>stated</sub> | 2026-11-18 | **[Apply →](https://hcwx.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_12/job/16553)**<br><sub>hcwx.fa.us2.oraclecloud.com</sub> |
+| Cummins | EATON - Electronic Systems Internship (ECJV) | Galesburg, MI, United States | Not listed | not stated | 2026-11-18 | **[Apply →](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440079)**<br><sub>fa-espx-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
+| Cummins | EATON - Mechanical Engineering Internship (ECJV) | Galesburg, MI, United States | Not listed | not stated | 2026-11-18 | **[Apply →](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2439868)**<br><sub>fa-espx-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
+| DLR Group | Electrical Engineering Intern / Summer 2027 | Chicago, Illinois, United States | Summer 2027 | not stated | 2026-11-18 | **[Apply →](https://job-boards.greenhouse.io/dlrgroup/jobs/5486589008)**<br><sub>job-boards.greenhouse.io</sub> |
+| DLR Group | Mechanical Engineering Intern / Summer 2027 | Chicago, Illinois, United States | Summer 2027 | not stated | 2026-11-18 | **[Apply →](https://job-boards.greenhouse.io/dlrgroup/jobs/5486642008)**<br><sub>job-boards.greenhouse.io</sub> |
+| DLR Group | Structural Engineering Intern / Summer 2027 | Chicago, Illinois, United States | Summer 2027 | not stated | 2026-11-18 | **[Apply →](https://job-boards.greenhouse.io/dlrgroup/jobs/5486592008)**<br><sub>job-boards.greenhouse.io</sub> |
+| DriveWealth | AI Consulting Associate Program People Analytics Intern | Chicago, IL, NYC | Summer 2027 | not available | 2026-11-18 | **[Apply →](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
+| GoFundMe | MBA Product Management Internship, Summer 2027 | San Francisco, CA, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-11-18 | **[Apply →](https://job-boards.greenhouse.io/gofundme/jobs/8304644)**<br><sub>job-boards.greenhouse.io</sub> |
+| Google | Software Engineering Intern - PhD - Summer 2027 | Mountain View, CA +29 | Summer 2027 | not available | 2026-11-18 | **[Apply →](https://www.google.com/about/careers/applications/jobs/results/91436104816698054)**<br><sub>www.google.com</sub> |
+| KBRA | 2027 Spring / Summer Marketing Summer Intern | New York, New York | Summer 2027 | not stated | 2026-11-18 | **[Apply →](https://job-boards.greenhouse.io/krollbondratingagency/jobs/8948979002)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Adyen | Junior Full-Stack Developer - Docs Experience Engineering Team | Chicago, IL | Not listed | not available | 2026-11-18 | **[Apply →](https://job-boards.greenhouse.io/adyen/jobs/8068230)**<br><sub>job-boards.greenhouse.io</sub> |
+| Agave | Full-Stack Software Engineer - New Grad | San Francisco, CA | 2027 | not available | 2026-11-18 | **[Apply →](https://jobs.ashbyhq.com/Agave/73bd2c98-bf87-4eaa-aea8-35e7b6131d0e)**<br><sub>jobs.ashbyhq.com</sub> |
 | Amazon | Software Development Engineer - Robotics | Austin, TX, North Reading, MA, Westborough, MA | Not listed | not available | 2026-11-18 | **[Apply →](https://amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027)**<br><sub>amazon.jobs</sub> |
+| Berkshire Hathaway Energy | Software Engineer - Bhepg | Omaha, NE | Not listed | not available | 2026-11-18 | **[Apply →](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006023)**<br><sub>fa-essf-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 | Bloom Ads | Data Analytics Coordinator | Woodland Hills, LA | Not listed | not available | 2026-11-18 | **[Apply →](https://bloomadsglobalmedia.bamboohr.com/careers/141/)**<br><sub>bloomadsglobalmedia.bamboohr.com</sub> |
+| Cummins | Electronic Systems Engineer - Software | Galesburg, MI | Not listed | not available | 2026-11-18 | **[Apply →](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440078)**<br><sub>fa-espx-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
 | Ecliptic Enterprises | Electrical Engineer | San Luis Obispo, CA | Not listed | not available | 2026-11-18 | **[Apply →](https://apply.workable.com/ecliptic-enterprises-corporation/j/57ECAFAD83/apply)**<br><sub>apply.workable.com</sub> |
 | Elutions | Domain Engineer | Tampa, FL | Not listed | not available | 2026-11-18 | **[Apply →](https://elutions.bamboohr.com/careers/172/)**<br><sub>elutions.bamboohr.com</sub> |
 | Executive Title Agency | Data Analyst | Houston, TX | Not listed | not available | 2026-11-18 | **[Apply →](https://apply.workable.com/executive-title-agency/j/BB739F3FED/apply)**<br><sub>apply.workable.com</sub> |
 | ID Plans | Field Data Specialist | Reno, NV | Not listed | not available | 2026-11-18 | **[Apply →](https://idplans1.bamboohr.com/careers/319/)**<br><sub>idplans1.bamboohr.com</sub> |
 | ID Plans | Field Data Specialist | Columbia, SC | Not listed | not available | 2026-11-18 | **[Apply →](https://idplans1.bamboohr.com/careers/318/)**<br><sub>idplans1.bamboohr.com</sub> |
 | ID Plans | Field Data Specialist | Nashville, TN | Not listed | not available | 2026-11-18 | **[Apply →](https://idplans1.bamboohr.com/careers/316/)**<br><sub>idplans1.bamboohr.com</sub> |
-| L3Harris Technologies | Senior Associate, Systems Engineer | Cincinnati, OH | Not listed | not available | 2026-11-18 | **[Apply →](https://jobs.l3harris.com/job/Cincinnati-Senior-Associate,-Systems-Engineering-OH-45245/1451655900/?ats=successfactors)**<br><sub>jobs.l3harris.com</sub> |
-| TikTok | Logistics Product Manager Graduate - Supply Chain and Logistics | Seattle, WA | Not listed | not available | 2026-11-18 | **[Apply →](https://lifeattiktok.com/search/7704910847553931573)**<br><sub>lifeattiktok.com</sub> |
-| Accenture Federal Services | Mobile/TAK Developer | Washington, DC | 2027 | not available | 2026-11-17 | **[Apply →](https://boards.greenhouse.io/accenturefederalservices/jobs/4725823006?gh_jid=4725823006)**<br><sub>boards.greenhouse.io</sub> |
-| ActioNet | Junior Developer | Rosslyn, Arlington, VA | 2027 | not available | 2026-11-17 | **[Apply →](https://jobs.jobvite.com/actionet-review/job/ofYQzfwm?nl=1&nl=1&fr=false)**<br><sub>jobs.jobvite.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

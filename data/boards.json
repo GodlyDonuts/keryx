@@ -8204,6 +8204,12 @@
     },
     {
       "ats": "lever",
+      "company": "Odin Dynamics, Inc",
+      "key": "lever:odin-dynamics",
+      "slug": "odin-dynamics"
+    },
+    {
+      "ats": "lever",
       "company": "Palantir",
       "key": "lever:palantir",
       "slug": "palantir"
@@ -13892,7 +13898,7 @@
       "company": "Axiom Space",
       "host": "axiomspace.wd5.myworkdayjobs.com",
       "key": "workday:axiomspace.wd5.myworkdayjobs.com:axiomspace:external_career_site",
-      "site": "External_Career_Site",
+      "site": "external_career_site",
       "slug": "axiomspace",
       "wd": "wd5"
     },
@@ -22012,6 +22018,15 @@
       "key": "workday:revantage.wd1.myworkdayjobs.com:revantage:revantage",
       "site": "Revantage",
       "slug": "revantage",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Revelyst",
+      "host": "revelyst.wd1.myworkdayjobs.com",
+      "key": "workday:revelyst.wd1.myworkdayjobs.com:revelyst:external_revelyst",
+      "site": "EXTERNAL_REVELYST",
+      "slug": "revelyst",
       "wd": "wd1"
     },
     {
