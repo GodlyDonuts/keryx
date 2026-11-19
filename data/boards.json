@@ -1478,6 +1478,12 @@
     },
     {
       "ats": "ashby",
+      "company": "MakerMaker.AI",
+      "key": "ashby:makermaker.ai",
+      "slug": "makermaker.ai"
+    },
+    {
+      "ats": "ashby",
       "company": "Mariana Minerals",
       "key": "ashby:marianaminerals",
       "slug": "marianaminerals"
@@ -22791,7 +22797,7 @@
       "company": "Sierra Space",
       "host": "sierraspace.wd1.myworkdayjobs.com",
       "key": "workday:sierraspace.wd1.myworkdayjobs.com:sierraspace:sierra_space_external_career_site",
-      "site": "Sierra_Space_External_Career_Site",
+      "site": "sierra_space_external_career_site",
       "slug": "sierraspace",
       "wd": "wd1"
     },
@@ -24300,6 +24306,15 @@
     },
     {
       "ats": "workday",
+      "company": "Trek Bicycle",
+      "host": "trekbikes.wd1.myworkdayjobs.com",
+      "key": "workday:trekbikes.wd1.myworkdayjobs.com:trekbikes:trek",
+      "site": "TREK",
+      "slug": "trekbikes",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Trend Micro",
       "host": "trendmicro.wd3.myworkdayjobs.com",
       "key": "workday:trendmicro.wd3.myworkdayjobs.com:trendmicro:external",
@@ -24801,6 +24816,15 @@
       "site": "valeo_jobs",
       "slug": "valeo",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Valeris",
+      "host": "valeris.wd108.myworkdayjobs.com",
+      "key": "workday:valeris.wd108.myworkdayjobs.com:valeris:valeris",
+      "site": "Valeris",
+      "slug": "valeris",
+      "wd": "wd108"
     },
     {
       "ats": "workday",
