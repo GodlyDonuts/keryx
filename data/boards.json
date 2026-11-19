@@ -1088,6 +1088,12 @@
     },
     {
       "ats": "ashby",
+      "company": "HappyRobot",
+      "key": "ashby:happyrobot.ai",
+      "slug": "happyrobot.ai"
+    },
+    {
+      "ats": "ashby",
       "company": "Harper",
       "key": "ashby:harperinsure",
       "slug": "harperinsure"
@@ -1343,6 +1349,12 @@
       "company": "Lambda",
       "key": "ashby:lambda",
       "slug": "lambda"
+    },
+    {
+      "ats": "ashby",
+      "company": "Lance",
+      "key": "ashby:lance",
+      "slug": "Lance"
     },
     {
       "ats": "ashby",
@@ -5946,6 +5958,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Neros Technologies",
+      "key": "greenhouse:nerostechnologies",
+      "slug": "nerostechnologies"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Network Bio",
       "key": "greenhouse:networkbio",
       "slug": "networkbio"
@@ -9814,6 +9832,14 @@
     },
     {
       "ats": "oracle",
+      "company": "Atlantic Health System",
+      "host": "erqh.fa.us2.oraclecloud.com",
+      "key": "oracle:erqh.fa.us2.oraclecloud.com:cx_1001",
+      "site": "CX_1001",
+      "slug": "erqh"
+    },
+    {
+      "ats": "oracle",
       "company": "DeKalb County",
       "host": "ertd.fa.us2.oraclecloud.com",
       "key": "oracle:ertd.fa.us2.oraclecloud.com:cx_1001",
@@ -11520,6 +11546,12 @@
     },
     {
       "ats": "smartrecruiters",
+      "company": "Stefanini",
+      "key": "smartrecruiters:stefanini1",
+      "slug": "Stefanini1"
+    },
+    {
+      "ats": "smartrecruiters",
       "company": "STEM Xpert",
       "key": "smartrecruiters:stemxpert1",
       "slug": "StemXpert1"
@@ -11667,6 +11699,12 @@
       "company": "Western Digital",
       "key": "smartrecruiters:westerndigital",
       "slug": "WesternDigital"
+    },
+    {
+      "ats": "smartrecruiters",
+      "company": "Jessup University",
+      "key": "smartrecruiters:williamjessupuniversitybayareacampus",
+      "slug": "WilliamJessupUniversityBayAreaCampus"
     },
     {
       "ats": "smartrecruiters",
@@ -14493,6 +14531,15 @@
       "site": "Bose_Careers",
       "slug": "boseallaboutme",
       "wd": "wd503"
+    },
+    {
+      "ats": "workday",
+      "company": "Boston Dynamics",
+      "host": "bostondynamics.wd1.myworkdayjobs.com",
+      "key": "workday:bostondynamics.wd1.myworkdayjobs.com:bostondynamics:boston_dynamics",
+      "site": "Boston_Dynamics",
+      "slug": "bostondynamics",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
