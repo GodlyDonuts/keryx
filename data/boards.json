@@ -2120,6 +2120,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Quindar",
+      "key": "ashby:quindar",
+      "slug": "quindar"
+    },
+    {
+      "ats": "ashby",
       "company": "Qumulo",
       "key": "ashby:qumulo",
       "slug": "qumulo"
@@ -3432,6 +3438,13 @@
     },
     {
       "ats": "bamboohr",
+      "company": "USAN",
+      "host": "usan.bamboohr.com",
+      "key": "bamboohr:usan",
+      "slug": "usan"
+    },
+    {
+      "ats": "bamboohr",
       "company": "Vestal Corporation",
       "host": "vestalcorporation.bamboohr.com",
       "key": "bamboohr:vestalcorporation",
@@ -3792,6 +3805,12 @@
       "company": "Armada",
       "key": "greenhouse:armada",
       "slug": "armada"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Arva Intelligence",
+      "key": "greenhouse:arvaintelligence",
+      "slug": "arvaintelligence"
     },
     {
       "ats": "greenhouse",
@@ -13748,6 +13767,15 @@
     },
     {
       "ats": "workday",
+      "company": "AriensCo",
+      "host": "arienscompany.wd5.myworkdayjobs.com",
+      "key": "workday:arienscompany.wd5.myworkdayjobs.com:arienscompany:external",
+      "site": "External",
+      "slug": "arienscompany",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Aristocrat Interactive",
       "host": "aristocrat.wd3.myworkdayjobs.com",
       "key": "workday:aristocrat.wd3.myworkdayjobs.com:aristocrat:aristocratexternalcareerssite",
@@ -15218,7 +15246,7 @@
       "company": "Chamberlain Group",
       "host": "chamberlain.wd1.myworkdayjobs.com",
       "key": "workday:chamberlain.wd1.myworkdayjobs.com:chamberlain:chamberlain_group",
-      "site": "Chamberlain_Group",
+      "site": "chamberlain_group",
       "slug": "chamberlain",
       "wd": "wd1"
     },
@@ -17384,10 +17412,10 @@
     },
     {
       "ats": "workday",
-      "company": "Frost",
+      "company": "Frost Bank",
       "host": "frostbank.wd5.myworkdayjobs.com",
       "key": "workday:frostbank.wd5.myworkdayjobs.com:frostbank:external",
-      "site": "External",
+      "site": "external",
       "slug": "frostbank",
       "wd": "wd5"
     },
@@ -22025,6 +22053,15 @@
       "site": "RakutenTV",
       "slug": "rakuten",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "RAND Corporation",
+      "host": "rand.wd5.myworkdayjobs.com",
+      "key": "workday:rand.wd5.myworkdayjobs.com:rand:external_career_site",
+      "site": "external_career_site",
+      "slug": "rand",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
