@@ -1304,6 +1304,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Kira",
+      "key": "ashby:kira",
+      "slug": "kira"
+    },
+    {
+      "ats": "ashby",
       "company": "Klarity",
       "key": "ashby:klarity-ai",
       "slug": "klarity-ai"
@@ -2852,6 +2858,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Zero Homes",
+      "key": "ashby:zerohomes",
+      "slug": "zerohomes"
+    },
+    {
+      "ats": "ashby",
       "company": "ZettaSquared",
       "key": "ashby:zetta2",
       "slug": "zetta2"
@@ -3327,6 +3339,13 @@
       "host": "saalt.bamboohr.com",
       "key": "bamboohr:saalt",
       "slug": "saalt"
+    },
+    {
+      "ats": "bamboohr",
+      "company": "SAAZ Micro",
+      "host": "saaz.bamboohr.com",
+      "key": "bamboohr:saaz",
+      "slug": "saaz"
     },
     {
       "ats": "bamboohr",
@@ -6645,6 +6664,12 @@
       "company": "Scout AI",
       "key": "greenhouse:scoutai",
       "slug": "scoutai"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Scout Space",
+      "key": "greenhouse:scoutspace",
+      "slug": "scoutspace"
     },
     {
       "ats": "greenhouse",
@@ -11894,6 +11919,12 @@
     },
     {
       "ats": "workable",
+      "company": "Cascade Engineering Services",
+      "key": "workable:cascade-engineering-services-1",
+      "slug": "cascade-engineering-services-1"
+    },
+    {
+      "ats": "workable",
       "company": "CATHEXIS",
       "key": "workable:cathexis",
       "slug": "cathexis"
@@ -17108,6 +17139,15 @@
     },
     {
       "ats": "workday",
+      "company": "Fiskars Group",
+      "host": "fiskars.wd3.myworkdayjobs.com",
+      "key": "workday:fiskars.wd3.myworkdayjobs.com:fiskars:fiskarsgroup",
+      "site": "FiskarsGroup",
+      "slug": "fiskars",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
       "company": "Flexera",
       "host": "flexerasoftware.wd1.myworkdayjobs.com",
       "key": "workday:flexerasoftware.wd1.myworkdayjobs.com:flexerasoftware:flexerasoftware",
@@ -21509,6 +21549,15 @@
     },
     {
       "ats": "workday",
+      "company": "Piper Sandler",
+      "host": "pipersandler.wd501.myworkdayjobs.com",
+      "key": "workday:pipersandler.wd501.myworkdayjobs.com:pipersandler:piper_sandler_careers",
+      "site": "Piper_Sandler_Careers",
+      "slug": "pipersandler",
+      "wd": "wd501"
+    },
+    {
+      "ats": "workday",
       "company": "PJT Partners",
       "host": "pjtpartners.wd1.myworkdayjobs.com",
       "key": "workday:pjtpartners.wd1.myworkdayjobs.com:pjtpartners:careers",
@@ -24641,6 +24690,15 @@
     },
     {
       "ats": "workday",
+      "company": "Ultra Maritime",
+      "host": "ultra.wd3.myworkdayjobs.com",
+      "key": "workday:ultra.wd3.myworkdayjobs.com:ultra:um-careers",
+      "site": "um-careers",
+      "slug": "ultra",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
       "company": "UMB",
       "host": "umb.wd1.myworkdayjobs.com",
       "key": "workday:umb.wd1.myworkdayjobs.com:umb:umbexternal",
@@ -24869,7 +24927,7 @@
       "company": "Valeris",
       "host": "valeris.wd108.myworkdayjobs.com",
       "key": "workday:valeris.wd108.myworkdayjobs.com:valeris:valeris",
-      "site": "Valeris",
+      "site": "valeris",
       "slug": "valeris",
       "wd": "wd108"
     },

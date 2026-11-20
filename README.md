@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,800 internships · 4,919 new-grad roles · 15,719 total openings**
+**10,954 internships · 4,986 new-grad roles · 15,940 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 5,130 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 317 | **[View openings →](internships/fall-2026.md)** |
+| ☀️ Summer 2027 | 5,222 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 315 | **[View openings →](internships/fall-2026.md)** |
 | 🌱 Spring 2027 | 667 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 215 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,471 | **[View openings →](internships/unscheduled.md)** |
+| ❄️ Winter 2027 | 218 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 4,532 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,237 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 979 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,703 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,299 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,012 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,675 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Antares | Multiphysics Software Intern - Summer 2027 | Los Angeles, CA | Summer 2027 | not available | 2026-11-19 | **[Apply →](https://jobs.ashbyhq.com/Antares/922a527d-9826-446d-9aba-ffc611995830)**<br><sub>jobs.ashbyhq.com</sub> |
-| Atlantic Health System | Pharmacy (Data Analytics) Intern | Morristown, NJ, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-11-19 | **[Apply →](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551)**<br><sub>erqh.fa.us2.oraclecloud.com</sub> |
-| Aurora Innovation | Safety & Systems Engineering Intern | Mountain View, CA | Summer 2027 | Current student status<br><sub>required</sub> | 2026-11-19 | **[Apply →](https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5)**<br><sub>jobs.ashbyhq.com</sub> |
-| Bass Pro Shops | Product Development Intern Summer 2027 | Springfield, MO (Bass Pro Shops Base Camp) | Summer 2027 | not available | 2026-11-19 | **[Apply →](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Product-Development-Intern-Summer-2027_R267451)**<br><sub>basspro.wd1.myworkdayjobs.com</sub> |
-| Clearwater Analytics | Software Development Intern | Boise, ID | Not listed | not available | 2026-11-19 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Boise/Software-Development-Intern_R12192)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
-| Clearwater Analytics | Software Development Intern | Chicago, IL | Not listed | not available | 2026-11-19 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12188)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
-| CNA Insurance | Technology Internship Program (Software Engineering) | Chicago, IL, USA | Not listed | not available | 2026-11-19 | **[Apply →](https://cna.wd1.myworkdayjobs.com/cna_careers/job/Chicago-IL-USA/Technology-Internship-Program--Software-Engineering-_R-8107)**<br><sub>cna.wd1.myworkdayjobs.com</sub> |
-| Entrust | Firmware Engineering Co-op | United States - Shakopee, MN (GHQ) | Not listed | not available | 2026-11-19 | **[Apply →](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Firmware-Engineering-Co-op_R004419)**<br><sub>entrust.wd1.myworkdayjobs.com</sub> |
-| Intuitive | Manufacturing Software Engineering Intern | Sunnyvale, CA | Not listed | not available | 2026-11-19 | **[Apply →](https://jobs.smartrecruiters.com/Intuitive/744000158313919-manufacturing-software-engineering-intern?oga=true)**<br><sub>jobs.smartrecruiters.com</sub> |
-| KLA | Software Engineering Intern | Milpitas, CA | Not listed | not available | 2026-11-19 | **[Apply →](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern_2641572)**<br><sub>kla.wd1.myworkdayjobs.com</sub> |
-| Meta | Software Engineering Intern | Bellevue, WA +3 | Not listed | not available | 2026-11-19 | **[Apply →](https://www.metacareers.com/jobs/1952991802037374)**<br><sub>www.metacareers.com</sub> |
-| Micron Technology | Intern – CMBU Product Management | San Jose, CA | Not listed | not available | 2026-11-19 | **[Apply →](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941)**<br><sub>micron.wd1.myworkdayjobs.com</sub> |
+| Lawrence Livermore National Laboratory (LLNL) | Business Systems Analyst Undergraduate Intern - 2027 | Livermore, CA, us | Not listed | not available | 2026-11-20 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990016984896)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Lawrence Livermore National Laboratory (LLNL) | Computational Engineering Division Graduate Intern - Summer 2027 | Livermore, CA, us | Summer 2027 | not available | 2026-11-20 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990016985746)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Lawrence Livermore National Laboratory (LLNL) | Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027 | Livermore, CA, us | Summer 2027 | not available | 2026-11-20 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990016985486)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Lawrence Livermore National Laboratory (LLNL) | Defense Technologies Engineering Division (DTED): Graduate Intern - Summer 2027 | Livermore, CA, us | Summer 2027 | not available | 2026-11-20 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990016985656)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Lawrence Livermore National Laboratory (LLNL) | Defense Technologies Engineering Division (DTED): Undergraduate Intern - Summer 2027 | Livermore, CA, us | Summer 2027 | not available | 2026-11-20 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990016986011)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Lawrence Livermore National Laboratory (LLNL) | Laser and Experimental Systems Engineering Graduate Intern - Summer 2027 | Livermore, CA, us | Summer 2027 | not available | 2026-11-20 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990016985006)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Lawrence Livermore National Laboratory (LLNL) | Materials Engineering Division (MED): Graduate Intern - Summer 2027 | Livermore, CA, us | Summer 2027 | not available | 2026-11-20 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990016985261)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Lawrence Livermore National Laboratory (LLNL) | Materials Engineering Division (MED): Undergraduate Intern - Summer 2027 | Livermore, CA, us | Summer 2027 | not available | 2026-11-20 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990016985026)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Lawrence Livermore National Laboratory (LLNL) | Procurement Analyst Undergraduate Intern - 2027 | Livermore, CA, us | Not listed | not available | 2026-11-20 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990016986076)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Lawrence Livermore National Laboratory (LLNL) | Seaborg Institute Nuclear Science and Security Graduate Intern - Summer 2027 | Livermore, CA, us | Summer 2027 | not available | 2026-11-20 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990016985836)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Lawrence Livermore National Laboratory (LLNL) | Seaborg Institute Nuclear Science and Security Undergraduate Intern - Summer 2027 | Livermore, CA, us | Summer 2027 | not available | 2026-11-20 | **[Apply →](https://jobs.smartrecruiters.com/LLNL/3743990016985966)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Lucid Motors | ADAS Systems Integration Intern | Newark, CA | Summer 2027 | not available | 2026-11-20 | **[Apply →](https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007)**<br><sub>lucidmotors.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| ATA Engineering | Engineering Software Programmer | Lakewood, CO, Huntsville, AL, San Diego, CA | Not listed | not available | 2026-11-20 | **[Apply →](https://ataengineering.applytojob.com/apply/ivXsyvzO4I/Engineering-Software-Programmer)**<br><sub>ataengineering.applytojob.com</sub> |
+| Ford Motor Company | Product Development Engineer | Sunrise, FL | Not listed | not available | 2026-11-20 | **[Apply →](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74623)**<br><sub>efds.fa.em5.oraclecloud.com</sub> |
+| SAAZ Micro | Hardware Design Engineer | Camarillo, CA | Not listed | not available | 2026-11-20 | **[Apply →](https://saaz.bamboohr.com/careers/47/)**<br><sub>saaz.bamboohr.com</sub> |
+| Amazon | Post-Silicon Systems Validation Engineer 1 | Austin, TX | Not listed | not available | 2026-11-19 | **[Apply →](https://amazon.jobs/en/jobs/10502826/post-silicon-systems-validation-engineer-i-annapurna-labs)**<br><sub>amazon.jobs</sub> |
 | Amazon | Software Development Engineer | Newark, NJ | 2027 | not available | 2026-11-19 | **[Apply →](https://www.amazon.jobs/jobs/10566605/apply)**<br><sub>www.amazon.jobs</sub> |
+| Amazon | Software Development Engineer - Creator Marketplace | Culver City, CA | 2027 | not available | 2026-11-19 | **[Apply →](https://www.amazon.jobs/jobs/10599970/apply)**<br><sub>www.amazon.jobs</sub> |
 | Amazon | Software Development Engineer - Embedded Systems Early Career - 2027 - US | Seattle, WA | 2027 | not available | 2026-11-19 | **[Apply →](https://www.amazon.jobs/jobs/10595839/apply)**<br><sub>www.amazon.jobs</sub> |
 | AMEWAS | Software Developer-Junior | Patuxent River, MD, United States | 2026 | not available | 2026-11-19 | **[Apply →](https://amewas.applicantstack.com/x/detail/a2hcrhcxfi0j)**<br><sub>amewas.applicantstack.com</sub> |
+| Cascade Engineering Services | Mechanical Engineer / Reliability Test Technician | Redmond, WA | Not listed | not available | 2026-11-19 | **[Apply →](https://apply.workable.com/cascade-engineering-services-1/j/5943C8980A/apply)**<br><sub>apply.workable.com</sub> |
+| Centurum | Data Scientist 1 - Satellite Communications | San Diego, CA | Not listed | not available | 2026-11-19 | **[Apply →](https://centurum.applytojob.com/apply/NGHTfEGLMN/Data-Scientist-I-SATCOM)**<br><sub>centurum.applytojob.com</sub> |
+| Centurum | Data Scientist I (SATCOM) | San Diego, CA, United States | 2026 | not available | 2026-11-19 | **[Apply →](https://centurum.applytojob.com/apply/NGHTfEGLMN/Data%20Scientist%20I%20%28SATCOM%29?source=Centurum)**<br><sub>centurum.applytojob.com</sub> |
 | Empower | Business Analyst | United States | 2026 | not available | 2026-11-19 | **[Apply →](https://empower.na.teamtailor.com/jobs/685662-business-analyst)**<br><sub>empower.na.teamtailor.com</sub> |
-| Formlabs | Embedded Software Engineer | Boston, MA | Not listed | not available | 2026-11-19 | **[Apply →](https://careers.formlabs.com/job/8402093/apply/?gh_jid=8402093)**<br><sub>careers.formlabs.com</sub> |
-| GM Financial | Pricing Analytics Analyst | Fort Worth, TX | Not listed | not available | 2026-11-19 | **[Apply →](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261306)**<br><sub>fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
-| Huntington Ingalls Industries | Software Engineer 1 | Newport News, VA | Not listed | not available | 2026-11-19 | **[Apply →](https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1452128000/?ats=successfactors)**<br><sub>careers.huntingtoningalls.com</sub> |
-| Intel | EDA Tools Software Engineer | Hillsboro, OR | 2027 | not available | 2026-11-19 | **[Apply →](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/EDA-Tools-Software-Engineer_JR0287371)**<br><sub>intel.wd1.myworkdayjobs.com</sub> |
-| Intelliforce-IT Solutions Group | Junior Software Engineer - Prime | Annapolis Junction, MD | 2026 | not available | 2026-11-19 | **[Apply →](https://intelliforceitsolutionsgroup.applytojob.com/apply/kocWKm5EhT/Junior-Software-Engineer-Prime)**<br><sub>intelliforceitsolutionsgroup.applytojob.com</sub> |
-| Journal Technologies | Junior Data Integration Developer | LA, Victoria, BC, Canada, Remote in USA, Logan, UT | Not listed | not available | 2026-11-19 | **[Apply →](https://ats.rippling.com/journaltech/jobs/c16c782e-f2e0-490a-b3fc-061a5df2fa8d)**<br><sub>ats.rippling.com</sub> |
-| Noblis | Software Tester | Merrifield, VA | 2027 | not available | 2026-11-19 | **[Apply →](https://jobs-noblis.icims.com/jobs/28112/job)**<br><sub>jobs-noblis.icims.com</sub> |
-| Qualcomm | Embedded Audio Software Engineer - Software Engineering | San Diego, CA | Not listed | not available | 2026-11-19 | **[Apply →](https://qualcomm.eightfold.ai/careers/job/446722197774)**<br><sub>qualcomm.eightfold.ai</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
