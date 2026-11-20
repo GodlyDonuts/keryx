@@ -2648,6 +2648,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Trener Robotics",
+      "key": "ashby:trener-robotics",
+      "slug": "trener-robotics"
+    },
+    {
+      "ats": "ashby",
       "company": "Triumph Arcade",
       "key": "ashby:triumph-arcade",
       "slug": "triumph-arcade"
@@ -3062,6 +3068,13 @@
     },
     {
       "ats": "bamboohr",
+      "company": "EFI Foundation",
+      "host": "efifoundation.bamboohr.com",
+      "key": "bamboohr:efifoundation",
+      "slug": "efifoundation"
+    },
+    {
+      "ats": "bamboohr",
       "company": "Elephant Insurance",
       "host": "elephantinsurance.bamboohr.com",
       "key": "bamboohr:elephantinsurance",
@@ -3430,6 +3443,13 @@
       "host": "zenlayer.bamboohr.com",
       "key": "bamboohr:zenlayer",
       "slug": "zenlayer"
+    },
+    {
+      "ats": "bamboohr",
+      "company": "Zepto Life Technology",
+      "host": "zeptolife.bamboohr.com",
+      "key": "bamboohr:zeptolife",
+      "slug": "zeptolife"
     },
     {
       "ats": "greenhouse",
@@ -21599,6 +21619,15 @@
       "key": "workday:plains.wd1.myworkdayjobs.com:plains:plains_trucking",
       "site": "Plains_Trucking",
       "slug": "plains",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Plante Moran",
+      "host": "plantemoran.wd1.myworkdayjobs.com",
+      "key": "workday:plantemoran.wd1.myworkdayjobs.com:plantemoran:pmexternalcareers",
+      "site": "pmexternalcareers",
+      "slug": "plantemoran",
       "wd": "wd1"
     },
     {
