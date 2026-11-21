@@ -4042,6 +4042,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Biohub",
+      "key": "greenhouse:biohub",
+      "slug": "biohub"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Birdy Grey",
       "key": "greenhouse:birdygrey",
       "slug": "birdygrey"
@@ -4207,6 +4213,12 @@
       "company": "Carefeed",
       "key": "greenhouse:carefeed",
       "slug": "carefeed"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "CARIAD, Inc.",
+      "key": "greenhouse:cariadinc",
+      "slug": "cariadinc"
     },
     {
       "ats": "greenhouse",
@@ -5878,6 +5890,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Method",
+      "key": "greenhouse:method",
+      "slug": "method"
+    },
+    {
+      "ats": "greenhouse",
       "company": "MetOx International",
       "key": "greenhouse:metoxinternationalinc",
       "slug": "metoxinternationalinc"
@@ -7342,6 +7360,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Vertex Service Partners",
+      "key": "greenhouse:vertexservicepartners",
+      "slug": "vertexservicepartners"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Vestmark",
       "key": "greenhouse:vestmark",
       "slug": "vestmark"
@@ -7585,6 +7609,12 @@
       "company": "Zone 5 Technologies",
       "key": "greenhouse:zone5technologies",
       "slug": "zone5technologies"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Zscaler",
+      "key": "greenhouse:zscaler",
+      "slug": "zscaler"
     },
     {
       "ats": "greenhouse",
@@ -7972,6 +8002,12 @@
     },
     {
       "ats": "lever",
+      "company": "EP Wealth Advisors",
+      "key": "lever:epwealth",
+      "slug": "epwealth"
+    },
+    {
+      "ats": "lever",
       "company": "Eastern Research Group",
       "key": "lever:erg",
       "slug": "erg"
@@ -8299,6 +8335,12 @@
       "company": "Modern Intelligence",
       "key": "lever:modernintelligence",
       "slug": "ModernIntelligence"
+    },
+    {
+      "ats": "lever",
+      "company": "Mom's Meals",
+      "key": "lever:momsmeals",
+      "slug": "momsmeals"
     },
     {
       "ats": "lever",
@@ -16629,6 +16671,15 @@
     },
     {
       "ats": "workday",
+      "company": "EisnerAmper",
+      "host": "eisneramper.wd1.myworkdayjobs.com",
+      "key": "workday:eisneramper.wd1.myworkdayjobs.com:eisneramper:eisneramperearlycareers",
+      "site": "EisnerAmperEarlyCareers",
+      "slug": "eisneramper",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Elanco",
       "host": "elanco.wd5.myworkdayjobs.com",
       "key": "workday:elanco.wd5.myworkdayjobs.com:elanco:external_career",
@@ -17157,6 +17208,15 @@
       "site": "first_orion",
       "slug": "firstorion",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "First PREMIER Bank/PREMIER Bankcard",
+      "host": "firstpremier.wd503.myworkdayjobs.com",
+      "key": "workday:firstpremier.wd503.myworkdayjobs.com:firstpremier:premier_careers",
+      "site": "PREMIER_Careers",
+      "slug": "firstpremier",
+      "wd": "wd503"
     },
     {
       "ats": "workday",
