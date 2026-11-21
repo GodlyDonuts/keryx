@@ -2312,6 +2312,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Secureframe",
+      "key": "ashby:secureframe",
+      "slug": "secureframe"
+    },
+    {
+      "ats": "ashby",
       "company": "Sela",
       "key": "ashby:sela%20ai",
       "slug": "Sela%20AI"
@@ -15378,7 +15384,7 @@
       "company": "Choice Hotels",
       "host": "choicehotels.wd5.myworkdayjobs.com",
       "key": "workday:choicehotels.wd5.myworkdayjobs.com:choicehotels:external",
-      "site": "External",
+      "site": "external",
       "slug": "choicehotels",
       "wd": "wd5"
     },
@@ -20555,6 +20561,42 @@
       "key": "workday:mvphealthcare.wd5.myworkdayjobs.com:mvphealthcare:mvphealthcare",
       "site": "mvphealthcare",
       "slug": "mvphealthcare",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Chicago Cubs",
+      "host": "my1060wd.wd5.myworkdayjobs.com",
+      "key": "workday:my1060wd.wd5.myworkdayjobs.com:my1060wd:chicago_cubs_fo",
+      "site": "Chicago_Cubs_FO",
+      "slug": "my1060wd",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Chicago Cubs",
+      "host": "my1060wd.wd5.myworkdayjobs.com",
+      "key": "workday:my1060wd.wd5.myworkdayjobs.com:my1060wd:chicago_cubs_seasonal",
+      "site": "Chicago_Cubs_Seasonal",
+      "slug": "my1060wd",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Chicago Cubs",
+      "host": "my1060wd.wd5.myworkdayjobs.com",
+      "key": "workday:my1060wd.wd5.myworkdayjobs.com:my1060wd:marquee_360",
+      "site": "Marquee_360",
+      "slug": "my1060wd",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Chicago Cubs",
+      "host": "my1060wd.wd5.myworkdayjobs.com",
+      "key": "workday:my1060wd.wd5.myworkdayjobs.com:my1060wd:marquee_development",
+      "site": "Marquee_Development",
+      "slug": "my1060wd",
       "wd": "wd5"
     },
     {
