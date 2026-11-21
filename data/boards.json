@@ -13812,7 +13812,7 @@
       "company": "AriensCo",
       "host": "arienscompany.wd5.myworkdayjobs.com",
       "key": "workday:arienscompany.wd5.myworkdayjobs.com:arienscompany:external",
-      "site": "External",
+      "site": "external",
       "slug": "arienscompany",
       "wd": "wd5"
     },
@@ -19609,6 +19609,15 @@
       "host": "littelfuse.wd1.myworkdayjobs.com",
       "key": "workday:littelfuse.wd1.myworkdayjobs.com:littelfuse:littelfuse-careers",
       "site": "Littelfuse-Careers",
+      "slug": "littelfuse",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Littelfuse",
+      "host": "littelfuse.wd1.myworkdayjobs.com",
+      "key": "workday:littelfuse.wd1.myworkdayjobs.com:littelfuse:littelfuse-university-relations",
+      "site": "Littelfuse-University-Relations",
       "slug": "littelfuse",
       "wd": "wd1"
     },
