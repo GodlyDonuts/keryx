@@ -3820,6 +3820,18 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Artefact",
+      "key": "greenhouse:artefact",
+      "slug": "artefact"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Artefact",
+      "key": "greenhouse:artefactlinkedin",
+      "slug": "artefactlinkedin"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Arva Intelligence",
       "key": "greenhouse:arvaintelligence",
       "slug": "arvaintelligence"
@@ -17117,6 +17129,15 @@
     },
     {
       "ats": "workday",
+      "company": "Federal Express Corporation",
+      "host": "fedex.wd1.myworkdayjobs.com",
+      "key": "workday:fedex.wd1.myworkdayjobs.com:fedex:fxe_apac_external",
+      "site": "FXE_APAC_External",
+      "slug": "fedex",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Ferguson",
       "host": "ferguson.wd1.myworkdayjobs.com",
       "key": "workday:ferguson.wd1.myworkdayjobs.com:ferguson:ferguson_experienced",
@@ -23114,7 +23135,7 @@
       "company": "Sierra Space",
       "host": "sierraspace.wd1.myworkdayjobs.com",
       "key": "workday:sierraspace.wd1.myworkdayjobs.com:sierraspace:sierra_space_external_career_site",
-      "site": "sierra_space_external_career_site",
+      "site": "Sierra_Space_External_Career_Site",
       "slug": "sierraspace",
       "wd": "wd1"
     },
