@@ -4163,8 +4163,8 @@
       "boards": [],
       "company": "Synopsys Inc",
       "key": "1338b9bc608d179208580ee9",
-      "last_scanned": "2026-11-01",
-      "resolved_roles": 1,
+      "last_scanned": "2026-11-23",
+      "resolved_roles": 0,
       "url": "https://www.synopsys.com/"
     },
     {
@@ -12810,7 +12810,7 @@
       "company": "ZOLL Medical Corporation",
       "error": "public request failed for https://www.lifevest.zoll.com/: HTTP Error 502: Bad Gateway",
       "key": "3981002d65d5397b11bfdb49",
-      "last_scanned": "2026-11-07",
+      "last_scanned": "2026-11-23",
       "url": "https://www.lifevest.zoll.com/"
     },
     {
@@ -21770,7 +21770,7 @@
       "boards": [],
       "company": "Susquehanna International Group",
       "key": "608a19b8d71c79fe5d62d8a3",
-      "last_scanned": "2026-11-14",
+      "last_scanned": "2026-11-23",
       "resolved_roles": 0,
       "url": "https://www.sig.com/"
     },
@@ -21949,7 +21949,7 @@
       "boards": [],
       "company": "WD",
       "key": "614eaedc2d32b02535d89977",
-      "last_scanned": "2026-11-14",
+      "last_scanned": "2026-11-23",
       "resolved_roles": 0,
       "url": "https://www.westerndigital.com/"
     },
@@ -22570,6 +22570,14 @@
       "last_scanned": "2026-09-08",
       "resolved_roles": 0,
       "url": "https://www.corecmci.com/"
+    },
+    {
+      "boards": [],
+      "company": "Red Bull New York",
+      "key": "642e4ef92d2501c4212093b5",
+      "last_scanned": "2026-11-23",
+      "resolved_roles": 0,
+      "url": "https://www.newyorkredbulls.com/"
     },
     {
       "boards": [],
@@ -24057,6 +24065,16 @@
       "url": "https://www.vylor.com/en/"
     },
     {
+      "boards": [
+        "workday:methode.wd5.myworkdayjobs.com:methode:methode"
+      ],
+      "company": "Methode Electronics",
+      "key": "6a636b329c696e2c2e7bbfd3",
+      "last_scanned": "2026-11-23",
+      "resolved_roles": 0,
+      "url": "https://methode.com/"
+    },
+    {
       "boards": [],
       "company": "MxD",
       "key": "6a6a57f079312ac6bdb8d896",
@@ -24187,7 +24205,7 @@
       ],
       "company": "Federal Reserve Bank of San Francisco",
       "key": "6ac10a22e05cd76853424cf9",
-      "last_scanned": "2026-11-07",
+      "last_scanned": "2026-11-23",
       "resolved_roles": 0,
       "url": "https://www.frbsf.org/"
     },
@@ -25653,6 +25671,14 @@
       "last_scanned": "2026-10-16",
       "resolved_roles": 0,
       "url": "https://softheon.com/"
+    },
+    {
+      "boards": [],
+      "company": "Viega LLC",
+      "key": "723f06275b4b780bca33657a",
+      "last_scanned": "2026-11-23",
+      "resolved_roles": 0,
+      "url": "https://viega.us/"
     },
     {
       "boards": [],
@@ -30687,7 +30713,7 @@
       ],
       "company": "Stanley Consultants",
       "key": "880ac243b8be30777f292298",
-      "last_scanned": "2026-10-19",
+      "last_scanned": "2026-11-23",
       "resolved_roles": 0,
       "url": "https://www.stanleyconsultants.com/"
     },
@@ -32057,7 +32083,7 @@
       "company": "The Toro Company",
       "error": "public request failed for https://www.thetorocompany.com/: HTTP Error 403: Forbidden",
       "key": "8d7390347e4c3e5f5b3dca66",
-      "last_scanned": "2026-11-18",
+      "last_scanned": "2026-11-23",
       "resolved_roles": 0,
       "url": "https://www.thetorocompany.com/"
     },
@@ -33591,7 +33617,7 @@
       "company": "Armadin",
       "error": "public request failed for https://www.armadin.com/: HTTP Error 403: Forbidden",
       "key": "9462d1b7d8d043eb6267747a",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.armadin.com/"
     },
     {
@@ -34270,7 +34296,7 @@
       "company": "Best Buy",
       "error": "public request failed for https://www.bestbuy.com/: The read operation timed out",
       "key": "98024e21f1f95892a4893270",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.bestbuy.com/"
     },
     {
@@ -34316,7 +34342,7 @@
       "company": "American Honda Motor Company, Inc.",
       "error": "public request failed for https://www.honda.com/: HTTP Error 403: Forbidden",
       "key": "9834116ab23187904b9ae3e6",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.honda.com/"
     },
     {
@@ -34657,7 +34683,7 @@
       "company": "Bombardier",
       "error": "public request failed for https://bombardier.com/en/aerospace.html: HTTP Error 404: Not Found",
       "key": "99f2ca2416ec5810416ff4c3",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.bombardier.com/en/aerospace.html"
     },
     {
@@ -35585,7 +35611,7 @@
       "company": "NSTAR, now Eversource Energy- Follow our new company page, Eversource Energy",
       "error": "public request failed for https://www.nstar.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)>",
       "key": "9e31eed8ee06b3d790149000",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.nstar.com/"
     },
     {
@@ -35794,6 +35820,14 @@
       "last_scanned": "2026-09-26",
       "resolved_roles": 0,
       "url": "https://www.fintools.com/"
+    },
+    {
+      "boards": [],
+      "company": "Tableau",
+      "key": "9f08b5a99c6c9f62c7b1c976",
+      "last_scanned": "2026-11-23",
+      "resolved_roles": 0,
+      "url": "https://www.tableau.com/"
     },
     {
       "company": "American Express Global Business Travel",
@@ -36099,7 +36133,7 @@
       "company": "RTX",
       "error": "public request failed for https://rtx.com/: HTTP Error 403: Forbidden",
       "key": "9ffce8358b05b9e90aa3d2e1",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "resolved_roles": 0,
       "url": "https://rtx.com/"
     },
@@ -36966,7 +37000,7 @@
       "company": "Blackhawk Network",
       "error": "public request failed for https://blackhawknetwork.com/: HTTP Error 403: Forbidden",
       "key": "a335012995db6d15a79ae825",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.blackhawknetwork.com/"
     },
     {
@@ -37066,7 +37100,7 @@
       "company": "Peraton",
       "error": "public request failed for https://www.peraton.com/: HTTP Error 403: Forbidden",
       "key": "a39cb85ea53d3e892d69d546",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "resolved_roles": 0,
       "url": "https://www.peraton.com/"
     },
@@ -37142,7 +37176,7 @@
       "company": "Eaton",
       "error": "public request failed for https://www.eaton.com/br/pt-br.html: The read operation timed out",
       "key": "a3e49c957b1002b4e1106faa",
-      "last_scanned": "2026-11-13",
+      "last_scanned": "2026-11-23",
       "url": "https://www.eaton.com/br/pt-br.html"
     },
     {
@@ -38077,7 +38111,7 @@
       "company": "T-Mobile",
       "error": "Invalid IPv6 URL",
       "key": "a8106192bed87328c0610b3f",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.t-mobile.com/"
     },
     {
@@ -40742,7 +40776,7 @@
       "company": "Interstate Waste Services, Inc.",
       "error": "public request failed for https://interstatewaste.com/: HTTP Error 403: Forbidden",
       "key": "b437f0da4aac0a5743f17838",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://interstatewaste.com/"
     },
     {
@@ -40757,7 +40791,7 @@
       "company": "Match",
       "error": "public request failed for https://www.match.com/: HTTP Error 403: Forbidden",
       "key": "b44e8fac7b441b43e2800d00",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.lifeatmatch.com/"
     },
     {
@@ -41117,7 +41151,7 @@
       "company": "Applied Materials",
       "error": "public request failed for https://www.appliedmaterials.com/: HTTP Error 403: Forbidden",
       "key": "b5cd5dc20fc3d7d6f0f17f86",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.appliedmaterials.com/"
     },
     {
@@ -41589,7 +41623,7 @@
       "company": "Aspen Technology",
       "error": "public request failed for https://www.aspentech.com/: HTTP Error 403: Forbidden",
       "key": "b7e4e136e231b90df835c757",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.aspentech.com/"
     },
     {
@@ -41727,7 +41761,7 @@
       "company": "Collins Aerospace",
       "error": "public request failed for https://www.rtx.com/collinsaerospace/: HTTP Error 403: Forbidden",
       "key": "b8a63ec118624fff797eb9c4",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "resolved_roles": 0,
       "url": "https://www.collinsaerospace.com/"
     },
@@ -41997,7 +42031,7 @@
       "company": "Torrid",
       "error": "public request failed for https://www.torrid.com/: HTTP Error 403: Forbidden",
       "key": "b9f85ee6a7f6b521af9101d4",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.torrid.com/"
     },
     {
@@ -43781,7 +43815,7 @@
       "company": "Quanta Manufacturing Nashville",
       "error": "public request failed for https://www.linkedin.com/uas/login?session_redirect=%2Fcompany%2F61826811: HTTP Error 403: Forbidden",
       "key": "c1a6f1b14b80e4f17dbb01a5",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.linkedin.com/company/61826811"
     },
     {
@@ -43852,7 +43886,7 @@
       "company": "IDMe",
       "error": "public request failed for https://id.me/: HTTP Error 403: Forbidden",
       "key": "c1f0d4799e5d5e74ca31479f",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://id.me/"
     },
     {
@@ -43910,7 +43944,7 @@
       "company": "Publicis Montr\u00e9al",
       "error": "Invalid IPv6 URL",
       "key": "c23ce6e1b6f1fc2d7c4ac3e9",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.publicismontreal.ca/"
     },
     {
@@ -44425,7 +44459,7 @@
       "boards": [],
       "company": "General Galactic",
       "key": "c46cc377f0ab9c0f00783f48",
-      "last_scanned": "2026-10-01",
+      "last_scanned": "2026-11-23",
       "resolved_roles": 0,
       "url": "https://gengalactic.com/"
     },
@@ -44493,7 +44527,7 @@
       "company": "Applied Engineering, Inc.",
       "error": "public request failed for https://go-applied.com/: HTTP Error 403: Forbidden",
       "key": "c4c414ac7670f8ea5169a077",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://go-applied.com/"
     },
     {
@@ -45061,7 +45095,7 @@
       "company": "Molex",
       "error": "public request failed for https://www.molex.com/: The read operation timed out",
       "key": "c7886cc4c4d4c31dab9d7608",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.molex.com/"
     },
     {
@@ -45377,7 +45411,7 @@
       "boards": [],
       "company": "Newport News Shipbuilding, A Division of HII",
       "key": "c89868074f95bd73a1412cc7",
-      "last_scanned": "2026-11-07",
+      "last_scanned": "2026-11-23",
       "resolved_roles": 0,
       "url": "https://hii.com/what-we-do/divisions/newport-news-shipbuilding"
     },
@@ -46205,7 +46239,7 @@
       "company": "The CCS Companies",
       "error": "public request failed for https://ccsusa.com/: HTTP Error 404: Not Found",
       "key": "cbea7bfd71dcd4a3e65d35ac",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://ccsusa.com/"
     },
     {
@@ -47582,7 +47616,7 @@
       "company": "KeyBank",
       "error": "public request failed for https://www.key.com/personal/index.jsp?key=com: The read operation timed out",
       "key": "d199e86886d0fb0b5b3f0142",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.key.com/personal/index.jsp?key=com"
     },
     {
@@ -47831,7 +47865,7 @@
       "company": "First Century Bank",
       "error": "public hostname did not resolve: myfcbmortgage.com",
       "key": "d2753149669289e997b8d304",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://myfcbmortgage.com/"
     },
     {
@@ -48376,7 +48410,7 @@
       "company": "Fulgent Genetics",
       "error": "public request failed for https://www.fulgentdiagnostics.com/: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.fulgentdiagnostics.com'. (_ssl.c:1081)>",
       "key": "d48142aa528554229db8d202",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.fulgentdiagnostics.com/"
     },
     {
@@ -48657,7 +48691,7 @@
       "company": "Idaho National Laboratory",
       "error": "public request failed for https://inl.gov/: HTTP Error 403: Forbidden",
       "key": "d5c73f56fb739823bf81e20c",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://inl.gov/"
     },
     {
@@ -48874,7 +48908,7 @@
       "company": "Axon",
       "error": "public request failed for https://www.axon.com/: HTTP Error 403: Forbidden",
       "key": "d6a5abf47b84616dd2379fa7",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "resolved_roles": 0,
       "url": "https://www.axon.com/"
     },
@@ -49217,7 +49251,7 @@
       "company": "Ferguson",
       "error": "public request failed for https://www.ferguson.com/: HTTP Error 403: Forbidden",
       "key": "d8282763f020b940527e7c27",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.ferguson.com/"
     },
     {
@@ -49713,7 +49747,7 @@
       "company": "Analog Devices",
       "error": "public request failed for https://www.analog.com/: The read operation timed out",
       "key": "da5b6ccc15041bc6fbc26e91",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.analog.com/"
     },
     {
@@ -49843,7 +49877,7 @@
       "company": "H&R Block",
       "error": "public request failed for https://www.hrblock.com/: HTTP Error 403: Forbidden",
       "key": "db03322fa7387157436c78f0",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.hrblock.com/"
     },
     {
@@ -50222,7 +50256,7 @@
       "company": "American Airlines",
       "error": "public request failed for https://aa.com/: HTTP Error 403: Forbidden",
       "key": "dcfd8065e0e1375394f5b772",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://aa.com/"
     },
     {
@@ -50389,7 +50423,7 @@
       "company": "Yakima Chief Hops",
       "error": "public hostname did not resolve: www.tene.in",
       "key": "dde89ef9b61fa1c3224b97c7",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.tene.in/"
     },
     {
@@ -51672,7 +51706,7 @@
       "boards": [],
       "company": "IDEMIA",
       "key": "e3a658aac3df7651e1c60be7",
-      "last_scanned": "2026-11-12",
+      "last_scanned": "2026-11-23",
       "resolved_roles": 0,
       "url": "https://www.idemia.com/"
     },
@@ -51898,7 +51932,7 @@
       "boards": [],
       "company": "HDR",
       "key": "e4d15a5d0bc04a1c4517f01d",
-      "last_scanned": "2026-11-15",
+      "last_scanned": "2026-11-23",
       "resolved_roles": 0,
       "url": "https://www.hdrinc.com/"
     },
@@ -52109,7 +52143,7 @@
       "company": "N2IA Technologies",
       "error": "Invalid IPv6 URL",
       "key": "e562e2ce98393d9b9330c26d",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.n2ia-technologies.com/"
     },
     {
@@ -52548,7 +52582,7 @@
       "company": "Yardi",
       "error": "public request failed for https://www.yardi.com/: HTTP Error 403: Forbidden",
       "key": "e75de160003411315217bfbe",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "resolved_roles": 0,
       "url": "https://www.yardi.com/"
     },
@@ -52556,7 +52590,7 @@
       "company": "ServiceNow",
       "error": "public request failed for https://www.servicenow.com/: HTTP Error 403: Forbidden",
       "key": "e76619ad9660a1c181a33522",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.servicenow.com/"
     },
     {
@@ -52747,7 +52781,7 @@
       "company": "Wonder",
       "error": "public request failed for https://www.wonder.com/: HTTP Error 403: Forbidden",
       "key": "e80cf9f2e20dec5e87d66f27",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.wonder.com/"
     },
     {
@@ -52815,7 +52849,7 @@
       "company": "York Space Systems",
       "error": "Invalid IPv6 URL",
       "key": "e87802ee652eaaf7376fbeb6",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.yorkspacesystems.com/"
     },
     {
@@ -53377,7 +53411,7 @@
       "company": "NetApp",
       "error": "public request failed for https://www.netapp.com/: HTTP Error 403: Forbidden",
       "key": "ea93c2dda51f4733bfae8226",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://netapp.com/"
     },
     {
@@ -53791,7 +53825,7 @@
       "company": "Delta Air Lines",
       "error": "public request failed for https://www.delta.com/: HTTP Error 444: Unknown",
       "key": "ec7c99f34f2e512e16326371",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.delta.com/"
     },
     {
@@ -54778,7 +54812,7 @@
       "boards": [],
       "company": "Red Bull",
       "key": "f0842a078f506daf975f934e",
-      "last_scanned": "2026-10-14",
+      "last_scanned": "2026-11-23",
       "resolved_roles": 0,
       "url": "https://redbull.com/"
     },
@@ -55676,7 +55710,7 @@
       "company": "Flagship Pioneering",
       "error": "public request failed for https://flagshippioneering.com/: HTTP Error 403: Forbidden",
       "key": "f43996f4b844ec5bafbd980a",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "resolved_roles": 0,
       "url": "https://flagshippioneering.com/"
     },
@@ -55945,7 +55979,7 @@
       "company": "Rubrik",
       "error": "public request failed for https://www.rubrik.com/: HTTP Error 403: Forbidden",
       "key": "f61cf0c24b28035366bfaa16",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://rubrik.com/"
     },
     {
@@ -56531,7 +56565,7 @@
       "company": "FreshDirect",
       "error": "public request failed for https://www.freshdirect.com/: HTTP Error 403: Forbidden",
       "key": "f896be54856baab495434916",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://freshdirect.com/"
     },
     {
@@ -56864,7 +56898,7 @@
       "company": "Citrin Cooperman",
       "error": "public request failed for https://www.citrincooperman.com/: HTTP Error 403: Forbidden",
       "key": "fa79349c360ed748cda115fa",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "resolved_roles": 0,
       "url": "https://www.citrincooperman.com/"
     },
@@ -56925,6 +56959,16 @@
       "last_scanned": "2026-09-09",
       "resolved_roles": 0,
       "url": "https://www.enhanceit.com/"
+    },
+    {
+      "boards": [
+        "ashby:first-resonance"
+      ],
+      "company": "First Resonance",
+      "key": "fac9edf800daadbcb418236f",
+      "last_scanned": "2026-11-23",
+      "resolved_roles": 0,
+      "url": "https://firstresonance.io/"
     },
     {
       "boards": [],
@@ -57087,7 +57131,7 @@
       "company": "Snowflake",
       "error": "public request failed for https://www.snowflake.com/en/: HTTP Error 403: Forbidden",
       "key": "fb855d8ad8c874882df7dbf9",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "resolved_roles": 0,
       "url": "https://www.snowflake.com/"
     },
@@ -57103,14 +57147,14 @@
       "company": "Hewlett Packard Enterprise",
       "error": "public request failed for https://www.hpe.com/: The read operation timed out",
       "key": "fb9d829f215a3234760b16c3",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.hpe.com/"
     },
     {
       "company": "Medline",
       "error": "public request failed for https://www.medline.com/home.jsp: HTTP Error 403: Forbidden",
       "key": "fba9f138ac3501568473f595",
-      "last_scanned": "2026-11-22",
+      "last_scanned": "2026-11-23",
       "url": "https://www.medline.com/home.jsp"
     },
     {

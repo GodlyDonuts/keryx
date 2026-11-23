@@ -860,6 +860,12 @@
     },
     {
       "ats": "ashby",
+      "company": "First Resonance",
+      "key": "ashby:first-resonance",
+      "slug": "first-resonance"
+    },
+    {
+      "ats": "ashby",
       "company": "Fizz",
       "key": "ashby:fizz",
       "slug": "fizz"
@@ -20258,6 +20264,15 @@
       "site": "mercyhealthcareers",
       "slug": "mercyhealth",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Methode Electronics",
+      "host": "methode.wd5.myworkdayjobs.com",
+      "key": "workday:methode.wd5.myworkdayjobs.com:methode:methode",
+      "site": "methode",
+      "slug": "methode",
+      "wd": "wd5"
     },
     {
       "ats": "workday",
