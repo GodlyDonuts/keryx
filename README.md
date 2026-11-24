@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,757 internships · 5,068 new-grad roles · 15,825 total openings**
+**10,828 internships · 5,083 new-grad roles · 15,911 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 5,107 | **[View openings →](internships/summer-2027.md)** |
+| ☀️ Summer 2027 | 5,152 | **[View openings →](internships/summer-2027.md)** |
 | 🍂 Fall 2026 | 302 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 611 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 212 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,525 | **[View openings →](internships/unscheduled.md)** |
+| 🌱 Spring 2027 | 610 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 210 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 4,554 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,225 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 1,141 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,702 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,243 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 1,162 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,678 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
-| Shield AI | Electrical Engineering - 2027 January Co-Op | Dallas, TX, US | Not listed | Expected 2027 graduation<br><sub>stated</sub> | 2026-11-24 | **[Apply →](https://jobs.ashbyhq.com/shield/7c6f4d6d-fac0-4d71-9d4e-7581db11dc33)**<br><sub>jobs.ashbyhq.com</sub> |
-| ABB | Process Engineering Intern - Summer 2027 | New Berlin, Wisconsin, United States of America | Summer 2027 | not available | 2026-11-23 | **[Apply →](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Process-Engineering-Intern---Summer-2027_JR00049939)**<br><sub>abb.wd3.myworkdayjobs.com</sub> |
-| Amazon | Software Development Engineer Intern - Artificial General Intelligence | Boston, MA, Seattle, WA, Bellevue, WA, Sunnyvale, CA | Summer 2027 | not available | 2026-11-23 | **[Apply →](https://amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027)**<br><sub>amazon.jobs</sub> |
-| APEX Analytix | Software Engineer Intern - Platform Tooling | Greensboro, NC | Summer 2027 | not available | 2026-11-23 | **[Apply →](https://ats.rippling.com/apexanalytix-careers/jobs/0ab75bb7-08ee-403a-bbe5-3937bb948b19)**<br><sub>ats.rippling.com</sub> |
-| Badger Meter | Business Analytics Intern | US - WI - Milwaukee HQ | Not listed | not available | 2026-11-23 | **[Apply →](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Business-Analytics-Intern_4677)**<br><sub>badgermeter.wd5.myworkdayjobs.com</sub> |
-| Barclays | Markets Quantitative Analyst Summer Internship Program 2028 New York | New York, 745 7th Avenue | Not listed | not available | 2026-11-23 | **[Apply →](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Markets-Quantitative-Analyst-Summer-Internship-Program-2028-New-York_JR-0000139049)**<br><sub>barclays.wd3.myworkdayjobs.com</sub> |
-| Benchling | Software Engineer, Intern (Summer 2027) | San Francisco, CA | Summer 2027 | not available | 2026-11-23 | **[Apply →](https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099)**<br><sub>jobs.ashbyhq.com</sub> |
-| Cadence | Software Engineering Intern - Circuit Simulation infrastructure | San Jose, CA | Not listed | not available | 2026-11-23 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254-1)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
-| Capital Technology Group | Summer Internship - Agile | Hybrid (Silver Spring, MD) | Summer 2027 | not stated | 2026-11-23 | **[Apply →](https://boards.greenhouse.io/capitaltg/jobs/5307095007?gh_jid=5307095007)**<br><sub>boards.greenhouse.io</sub> |
-| Capital Technology Group | Summer Internship - Business Development | Hybrid (Silver Spring, MD) | Summer 2027 | not stated | 2026-11-23 | **[Apply →](https://boards.greenhouse.io/capitaltg/jobs/5307090007?gh_jid=5307090007)**<br><sub>boards.greenhouse.io</sub> |
-| Capital Technology Group | Summer Internship - Data Engineering and Data Science | Hybrid (Silver Spring, MD) | Not listed | not stated | 2026-11-23 | **[Apply →](https://boards.greenhouse.io/capitaltg/jobs/5307074007?gh_jid=5307074007)**<br><sub>boards.greenhouse.io</sub> |
-| Capital Technology Group | Summer Internship - Software Development | Hybrid (Silver Spring, MD) | Not listed | not stated | 2026-11-23 | **[Apply →](https://boards.greenhouse.io/capitaltg/jobs/5281563007?gh_jid=5281563007)**<br><sub>boards.greenhouse.io</sub> |
+| AMD | Masters AI Rack/Cluster Design Engineering Co-op | Austin, TX | Summer 2027 | not available | 2026-11-24 | **[Apply →](https://careers.amd.com/jobs/89564?icims=1&lang=en-us)**<br><sub>careers.amd.com</sub> |
+| Bloom Energy | Electrical Engineering Intern | Fremont, California | Not listed | not available | 2026-11-24 | **[Apply →](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Fremont-California/Electrical-Engineering-Intern_JR-25271)**<br><sub>bloomenergy.wd1.myworkdayjobs.com</sub> |
+| Cadence | Graduate Student Intern - Software Engineering | Austin, TX | Not listed | not available | 2026-11-24 | **[Apply →](https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56405-2)**<br><sub>cadence.wd1.myworkdayjobs.com</sub> |
+| Garmin | Software Engineering Intern | Manhattan, KS | Not listed | not available | 2026-11-24 | **[Apply →](https://careers-garmin.icims.com/jobs/20177/job)**<br><sub>careers-garmin.icims.com</sub> |
+| JPMorganChase | 2027 Latin American Debt Capital Markets Analyst Internship – Emerging Talent Summer Experience Program | New York, NY, United States | Not listed | Dec 2028–Jun 2029<br><sub>stated / required</sub> | 2026-11-24 | **[Apply →](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210811409)**<br><sub>jpmc.fa.oraclecloud.com</sub> |
+| JPMorganChase | 2027 Market Sales Analyst Internship – Emerging Talent Summer Experience Program | New York, NY, United States | Not listed | Dec 2028–Jun 2029<br><sub>required</sub> | 2026-11-24 | **[Apply →](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210811687)**<br><sub>jpmc.fa.oraclecloud.com</sub> |
+| Legrand | Certification Engineering Intern | Canonsburg, PA, United States | Summer 2027 | Current student status<br><sub>stated</sub> | 2026-11-24 | **[Apply →](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1978)**<br><sub>iadugs.fa.ocs.oraclecloud.com</sub> |
+| Legrand | Manufacturing Engineering Intern | Canonsburg, PA, United States | Not listed | Current student status<br><sub>stated</sub> | 2026-11-24 | **[Apply →](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1903)**<br><sub>iadugs.fa.ocs.oraclecloud.com</sub> |
+| Meijer | Information Technology Intern- Summer 2027 | Grand Rapids, MI | Summer 2027 | not available | 2026-11-24 | **[Apply →](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Information-Technology-Intern--Summer-2027_R000721035)**<br><sub>meijer.wd5.myworkdayjobs.com</sub> |
+| Oscar Health | Mergers and Acquisition Intern | New York, New York, United States | Not listed | not stated | 2026-11-24 | **[Apply →](https://oscarhealth.com/careers/jobs?gh_jid=8414269)**<br><sub>oscarhealth.com</sub> |
+| Prologis | IT Customer Experience Technologies Intern | Denver, Colorado | Not listed | not available | 2026-11-24 | **[Apply →](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/IT-Customer-Experience-Technologies-Intern_R6829)**<br><sub>prologis.wd5.myworkdayjobs.com</sub> |
+| QuEra Computing | Site Reliability Engineer Co-op | Boston, MA, USA | Spring 2027 | Current student status<br><sub>stated</sub> | 2026-11-24 | **[Apply →](https://job-boards.greenhouse.io/queracomputinginc/jobs/5493521008)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Axon | Unity Developer - Internal Tools | Seattle, WA | 2027 | not available | 2026-11-24 | **[Apply →](https://job-boards.greenhouse.io/axon/jobs/8040053003)**<br><sub>job-boards.greenhouse.io</sub> |
+| City of Philadelphia | Junior Cloud Engineer | Philadelphia, PA | 2027 | not available | 2026-11-24 | **[Apply →](https://jobs.smartrecruiters.com/CityofPhiladelphia/744000146469759-junior-cloud-engineer?oga=true)**<br><sub>jobs.smartrecruiters.com</sub> |
+| Dakota Kitchen & Bath | Visual Basic Developer & Systems Support Specialist | Sioux Falls, SD | Not listed | not available | 2026-11-24 | **[Apply →](https://dakotakitchen.bamboohr.com/careers/215/)**<br><sub>dakotakitchen.bamboohr.com</sub> |
 | Datalab USA | Production Programmer – Entry Level SQL Developer | Germantown, MD | Not listed | not available | 2026-11-24 | **[Apply →](https://jobs.lever.co/datalabusa/df8bf76b-2626-4bb2-b4f2-dbefb165228a/apply)**<br><sub>jobs.lever.co</sub> |
+| Garmin | Software Engineer 1 | Chandler, AZ | Not listed | not available | 2026-11-24 | **[Apply →](https://careers.garmin.com/jobs/19953?icims=1&lang=en-us)**<br><sub>careers.garmin.com</sub> |
+| Howmet Aerospace | AI Engineer | Pittsburgh, PA | Not listed | not available | 2026-11-24 | **[Apply →](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120703)**<br><sub>fa-exty-saasfaprod1.fa.ocs.oraclecloud.com</sub> |
+| Intel | EDA Tools Software Engineer | Hillsboro, OR | 2027 | not available | 2026-11-24 | **[Apply →](https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/EDA-Tools-Software-Engineer_JR0287371)**<br><sub>intel.wd1.myworkdayjobs.com</sub> |
+| JP Morgan Chase | Software Engineer 1 - Multiple Teams | Newark, DE | Not listed | not available | 2026-11-24 | **[Apply →](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803021)**<br><sub>jpmc.fa.oraclecloud.com</sub> |
 | Karman Industries | Embedded Software Engineer | LA | Not listed | not available | 2026-11-24 | **[Apply →](https://jobs.ashbyhq.com/Karman%20Industries/79d3076d-9b38-4bbd-b956-2bd4d33254d2/application?embed=true)**<br><sub>jobs.ashbyhq.com</sub> |
 | Microsoft | Software Engineer-Securing AI | Redmond, WA | Not listed | not available | 2026-11-24 | **[Apply →](https://apply.careers.microsoft.com/careers/job/1970393557073425)**<br><sub>apply.careers.microsoft.com</sub> |
-| X Development | AI/ML Engineer & Applied Researcher - Early Stage Projects | Mountain View, CA | Not listed | not available | 2026-11-24 | **[Apply →](https://x.company/careers/8959513002?gh_jid=8959513002)**<br><sub>x.company</sub> |
-| AbbVie | AI Engineer | North Chicago, IL | Not listed | not available | 2026-11-23 | **[Apply →](https://jobs.smartrecruiters.com/AbbVie/3743990017034256)**<br><sub>jobs.smartrecruiters.com</sub> |
-| Aon | Early Careers Health Analytics Specialist | Chicago, IL, Atlanta, GA | Not listed | not available | 2026-11-23 | **[Apply →](https://jobs.aon.com/jobs/113794?icims=1&lang=en-us)**<br><sub>jobs.aon.com</sub> |
-| Austin Theatre Alliance (Paramount and State Theatres) | Web Data Assistant | Austin, TX, United States | 2026 | not available | 2026-11-23 | **[Apply →](https://www.austintheatre.org/about/employment/#web-data-assistant-1)**<br><sub>www.austintheatre.org</sub> |
-| Burgess & Niple | Water/Wastewater Engineer, Early Career | Columbus, OH | Not listed | not stated | 2026-11-23 | **[Apply →](https://job-boards.greenhouse.io/burgessniple/jobs/4506409009)**<br><sub>job-boards.greenhouse.io</sub> |
-| Caesars Entertainment | Enterprise Data Services Analyst 1 | Las Vegas, NV | Not listed | not available | 2026-11-23 | **[Apply →](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/92189)**<br><sub>edmn.fa.us2.oraclecloud.com</sub> |
-| Duke University | Analytics Engineer - Department of Pharmacy | Durham, NC | Not listed | not available | 2026-11-23 | **[Apply →](https://careers.duke.edu/job/Durham-Developer-Analytics-Engineer-Department-of-Pharmacy-NC-27710/1431149100/?ats=successfactors)**<br><sub>careers.duke.edu</sub> |
-| Enterprise Holdings | Data Scientist 1 | St. Louis, MO | Not listed | not available | 2026-11-23 | **[Apply →](https://us-erac.icims.com/jobs/595973/job?mobile=true&needsRedirect=false)**<br><sub>us-erac.icims.com</sub> |
-| Gelber Group | Associate Software Engineer- Trading Integrations Team | Chicago, IL | 2027 | not available | 2026-11-23 | **[Apply →](https://job-boards.greenhouse.io/gelbergroup/jobs/4724799006)**<br><sub>job-boards.greenhouse.io</sub> |
+| Northrop Grumman | Calling all Embedded Software Engineers! | Chandler, AZ | 2027 | not available | 2026-11-24 | **[Apply →](https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Arizona-Chandler/Calling-all-Embedded-Software-Engineers-_R10253219)**<br><sub>ngc.wd1.myworkdayjobs.com</sub> |
+| Peraton | Software Engineer - Ignite Innovator Pgm | Blacksburg, VA | Not listed | not available | 2026-11-24 | **[Apply →](https://peraton.jibeapply.com/jobs/177377?icims=1&lang=en-us)**<br><sub>peraton.jibeapply.com</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column
