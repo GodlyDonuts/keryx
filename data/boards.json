@@ -2246,6 +2246,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Rillet",
+      "key": "ashby:rillet",
+      "slug": "rillet"
+    },
+    {
+      "ats": "ashby",
       "company": "Riveron",
       "key": "ashby:riveron",
       "slug": "riveron"
@@ -2822,7 +2828,7 @@
     },
     {
       "ats": "ashby",
-      "company": "webAI",
+      "company": "WebAI",
       "key": "ashby:webai",
       "slug": "webai"
     },
@@ -3838,6 +3844,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Artefact",
+      "key": "greenhouse:artefactnoram",
+      "slug": "artefactnoram"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Arva Intelligence",
       "key": "greenhouse:arvaintelligence",
       "slug": "arvaintelligence"
@@ -4231,6 +4243,12 @@
       "company": "Capco",
       "key": "greenhouse:capco",
       "slug": "capco"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Capital Technology Group",
+      "key": "greenhouse:capitaltg",
+      "slug": "capitaltg"
     },
     {
       "ats": "greenhouse",
@@ -5701,6 +5719,12 @@
       "company": "KoBold Metals",
       "key": "greenhouse:koboldmetalsdrc",
       "slug": "koboldmetalsdrc"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Koddi",
+      "key": "greenhouse:koddi",
+      "slug": "koddi"
     },
     {
       "ats": "greenhouse",
@@ -12032,6 +12056,12 @@
     },
     {
       "ats": "workable",
+      "company": "Blueprint",
+      "key": "workable:blueprint-health",
+      "slug": "blueprint-health"
+    },
+    {
+      "ats": "workable",
       "company": "Brady Martz",
       "key": "workable:brady-martz",
       "slug": "brady-martz"
@@ -16937,7 +16967,7 @@
     },
     {
       "ats": "workday",
-      "company": "Electric Reliability Council of Texas",
+      "company": "Ercot",
       "host": "ercot.wd1.myworkdayjobs.com",
       "key": "workday:ercot.wd1.myworkdayjobs.com:ercot:ercot_careers",
       "site": "ercot_careers",
@@ -17006,6 +17036,15 @@
       "site": "ExternalSite",
       "slug": "eversource",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Purdue Research Foundation",
+      "host": "evonik.wd3.myworkdayjobs.com",
+      "key": "workday:evonik.wd3.myworkdayjobs.com:evonik:external_careers",
+      "site": "External_Careers",
+      "slug": "evonik",
+      "wd": "wd3"
     },
     {
       "ats": "workday",
@@ -23636,7 +23675,7 @@
       "company": "Torch Technologies",
       "host": "starfish.wd501.myworkdayjobs.com",
       "key": "workday:starfish.wd501.myworkdayjobs.com:starfish:careers",
-      "site": "Careers",
+      "site": "careers",
       "slug": "starfish",
       "wd": "wd501"
     },
