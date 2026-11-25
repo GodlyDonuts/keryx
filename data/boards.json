@@ -2522,6 +2522,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Strava",
+      "key": "ashby:strava",
+      "slug": "Strava"
+    },
+    {
+      "ats": "ashby",
       "company": "Subtotal",
       "key": "ashby:subtotal",
       "slug": "subtotal"
@@ -3438,6 +3444,13 @@
     },
     {
       "ats": "bamboohr",
+      "company": "SyberJet Aircraft",
+      "host": "syberjet.bamboohr.com",
+      "key": "bamboohr:syberjet",
+      "slug": "syberjet"
+    },
+    {
+      "ats": "bamboohr",
       "company": "Tantalus Systems",
       "host": "tantalussystems.bamboohr.com",
       "key": "bamboohr:tantalussystems",
@@ -3559,6 +3572,12 @@
       "company": "Abaka AI",
       "key": "greenhouse:abakaai",
       "slug": "abakaai"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "AbilityPath",
+      "key": "greenhouse:abilitypath",
+      "slug": "abilitypath"
     },
     {
       "ats": "greenhouse",
@@ -4057,6 +4076,12 @@
       "company": "Babel Street",
       "key": "greenhouse:babelstreet",
       "slug": "babelstreet"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Bandwidth",
+      "key": "greenhouse:bandwidth",
+      "slug": "bandwidth"
     },
     {
       "ats": "greenhouse",
@@ -4693,6 +4718,12 @@
       "company": "Docugami",
       "key": "greenhouse:docugami",
       "slug": "docugami"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Domino Data Lab",
+      "key": "greenhouse:dominodatalab",
+      "slug": "dominodatalab"
     },
     {
       "ats": "greenhouse",
@@ -7600,6 +7631,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "WithCoverage",
+      "key": "greenhouse:withcoverage",
+      "slug": "withcoverage"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Woolpert",
       "key": "greenhouse:woolpert",
       "slug": "woolpert"
@@ -8944,7 +8981,7 @@
     },
     {
       "ats": "lever",
-      "company": "WeRide",
+      "company": "WeRide.ai",
       "key": "lever:weride",
       "slug": "weride"
     },
@@ -10093,6 +10130,14 @@
       "key": "oracle:ewvl.fa.us8.oraclecloud.com:cx_1",
       "site": "CX_1",
       "slug": "ewvl"
+    },
+    {
+      "ats": "oracle",
+      "company": "Manhattan District Attorney's Office",
+      "host": "fa-elzs-saasfaprod1.fa.ocs.oraclecloud.com",
+      "key": "oracle:fa-elzs-saasfaprod1.fa.ocs.oraclecloud.com:cx",
+      "site": "CX",
+      "slug": "fa-elzs-saasfaprod1"
     },
     {
       "ats": "oracle",
@@ -11264,7 +11309,7 @@
     },
     {
       "ats": "smartrecruiters",
-      "company": "Hardin Design",
+      "company": "Hardin Design & Development",
       "key": "smartrecruiters:hardindesign",
       "slug": "HardinDesign"
     },
@@ -21128,6 +21173,15 @@
     },
     {
       "ats": "workday",
+      "company": "Northwest Bank",
+      "host": "northwest.wd1.myworkdayjobs.com",
+      "key": "workday:northwest.wd1.myworkdayjobs.com:northwest:northwest_careers",
+      "site": "northwest_careers",
+      "slug": "northwest",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Northwestern Mutual",
       "host": "northwesternmutual.wd5.myworkdayjobs.com",
       "key": "workday:northwesternmutual.wd5.myworkdayjobs.com:northwesternmutual:corporate-careers",
@@ -22697,7 +22751,7 @@
       "company": "Genentech",
       "host": "roche.wd3.myworkdayjobs.com",
       "key": "workday:roche.wd3.myworkdayjobs.com:roche:rog-a2o-gene",
-      "site": "ROG-A2O-GENE",
+      "site": "rog-a2o-gene",
       "slug": "roche",
       "wd": "wd3"
     },
@@ -24113,6 +24167,15 @@
       "site": "tdsynnexcareers",
       "slug": "synnex",
       "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Takeda",
+      "host": "takeda.wd502.myworkdayjobs.com",
+      "key": "workday:takeda.wd502.myworkdayjobs.com:takeda:external",
+      "site": "external",
+      "slug": "takeda",
+      "wd": "wd502"
     },
     {
       "ats": "workday",
@@ -26191,6 +26254,15 @@
       "site": "WNC_External",
       "slug": "wnc",
       "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Wonder",
+      "host": "wonder.wd1.myworkdayjobs.com",
+      "key": "workday:wonder.wd1.myworkdayjobs.com:wonder:wg",
+      "site": "wg",
+      "slug": "wonder",
+      "wd": "wd1"
     },
     {
       "ats": "workday",
