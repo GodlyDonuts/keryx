@@ -3458,6 +3458,13 @@
     },
     {
       "ats": "bamboohr",
+      "company": "The Weitz Company",
+      "host": "theweitzcompany.bamboohr.com",
+      "key": "bamboohr:theweitzcompany",
+      "slug": "theweitzcompany"
+    },
+    {
+      "ats": "bamboohr",
       "company": "Tuckernuck",
       "host": "tnuck.bamboohr.com",
       "key": "bamboohr:tnuck",
@@ -3800,6 +3807,12 @@
       "company": "AppLovin",
       "key": "greenhouse:applovin",
       "slug": "applovin"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "Appodeal",
+      "key": "greenhouse:appodeal",
+      "slug": "appodeal"
     },
     {
       "ats": "greenhouse",
@@ -7100,6 +7113,12 @@
       "company": "StubHub",
       "key": "greenhouse:stubhubinc",
       "slug": "stubhubinc"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "ISO New England",
+      "key": "greenhouse:studentinternships",
+      "slug": "studentinternships"
     },
     {
       "ats": "greenhouse",
@@ -11162,6 +11181,12 @@
       "company": "Beta Soft Systems",
       "key": "smartrecruiters:betasoftsystems3",
       "slug": "BetaSoftSystems3"
+    },
+    {
+      "ats": "smartrecruiters",
+      "company": "BEUMER Group",
+      "key": "smartrecruiters:beumergroup1",
+      "slug": "BEUMERGroup1"
     },
     {
       "ats": "smartrecruiters",
@@ -26020,6 +26045,15 @@
       "site": "WebsterExternalCareerSite",
       "slug": "websteronline",
       "wd": "wd12"
+    },
+    {
+      "ats": "workday",
+      "company": "The Weitz Company",
+      "host": "weitz.wd504.myworkdayjobs.com",
+      "key": "workday:weitz.wd504.myworkdayjobs.com:weitz:weitzcareers",
+      "site": "WeitzCareers",
+      "slug": "weitz",
+      "wd": "wd504"
     },
     {
       "ats": "workday",
