@@ -272,6 +272,12 @@
     },
     {
       "ats": "ashby",
+      "company": "Ayo Semiconductor",
+      "key": "ashby:ayosemi",
+      "slug": "ayosemi"
+    },
+    {
+      "ats": "ashby",
       "company": "BAGS",
       "key": "ashby:bagsfm",
       "slug": "bagsfm"
@@ -521,6 +527,12 @@
       "company": "Collaborative Robotics",
       "key": "ashby:cobot",
       "slug": "cobot"
+    },
+    {
+      "ats": "ashby",
+      "company": "CodeRabbit",
+      "key": "ashby:coderabbit",
+      "slug": "coderabbit"
     },
     {
       "ats": "ashby",
@@ -2045,6 +2057,12 @@
       "company": "Polished Snow",
       "key": "ashby:plsn",
       "slug": "plsn"
+    },
+    {
+      "ats": "ashby",
+      "company": "Plug Technologies",
+      "key": "ashby:plugmotors",
+      "slug": "plugmotors"
     },
     {
       "ats": "ashby",
@@ -5022,6 +5040,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Faropoint",
+      "key": "greenhouse:faropoint",
+      "slug": "faropoint"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Fashion Nova",
       "key": "greenhouse:fashionnova",
       "slug": "fashionnova"
@@ -5784,6 +5808,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "Kikoff",
+      "key": "greenhouse:kikoff",
+      "slug": "kikoff"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Klaviyo",
       "key": "greenhouse:klaviyocampus",
       "slug": "klaviyocampus"
@@ -6333,6 +6363,12 @@
       "company": "OneImaging",
       "key": "greenhouse:oneimaging",
       "slug": "oneimaging"
+    },
+    {
+      "ats": "greenhouse",
+      "company": "OpenSesame",
+      "key": "greenhouse:opensesame",
+      "slug": "opensesame"
     },
     {
       "ats": "greenhouse",
@@ -12443,6 +12479,12 @@
       "company": "DataVisor",
       "key": "workable:datavisor-jobs",
       "slug": "datavisor-jobs"
+    },
+    {
+      "ats": "workable",
+      "company": "Digital Control",
+      "key": "workable:digital-control",
+      "slug": "digital-control"
     },
     {
       "ats": "workable",
@@ -23774,7 +23816,7 @@
       "company": "Sonos",
       "host": "sonos.wd1.myworkdayjobs.com",
       "key": "workday:sonos.wd1.myworkdayjobs.com:sonos:sonos",
-      "site": "sonos",
+      "site": "Sonos",
       "slug": "sonos",
       "wd": "wd1"
     },
