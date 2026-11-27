@@ -6492,6 +6492,12 @@
     },
     {
       "ats": "greenhouse",
+      "company": "PatientPoint",
+      "key": "greenhouse:patientpointinviteonly",
+      "slug": "patientpointinviteonly"
+    },
+    {
+      "ats": "greenhouse",
       "company": "Pattern Data",
       "key": "greenhouse:patterndata",
       "slug": "patterndata"
@@ -11030,6 +11036,14 @@
       "host": "hdow.fa.us6.oraclecloud.com",
       "key": "oracle:hdow.fa.us6.oraclecloud.com:cx_1001",
       "site": "CX_1001",
+      "slug": "hdow"
+    },
+    {
+      "ats": "oracle",
+      "company": "Cantor Fitzgerald",
+      "host": "hdow.fa.us6.oraclecloud.com",
+      "key": "oracle:hdow.fa.us6.oraclecloud.com:cx_1003",
+      "site": "CX_1003",
       "slug": "hdow"
     },
     {
@@ -24035,7 +24049,7 @@
       "company": "Torch Technologies",
       "host": "starfish.wd501.myworkdayjobs.com",
       "key": "workday:starfish.wd501.myworkdayjobs.com:starfish:careers",
-      "site": "careers",
+      "site": "Careers",
       "slug": "starfish",
       "wd": "wd501"
     },
@@ -24728,7 +24742,7 @@
       "company": "Tencent",
       "host": "tencent.wd1.myworkdayjobs.com",
       "key": "workday:tencent.wd1.myworkdayjobs.com:tencent:tencent_careers",
-      "site": "Tencent_Careers",
+      "site": "tencent_careers",
       "slug": "tencent",
       "wd": "wd1"
     },
