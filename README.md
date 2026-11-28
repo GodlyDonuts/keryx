@@ -9,25 +9,25 @@
 ## Find your next role
 
 <!-- COUNTS:START -->
-**10,777 internships · 4,908 new-grad roles · 15,685 total openings**
+**10,747 internships · 4,957 new-grad roles · 15,704 total openings**
 
 ### 🎓 Internships
 
 | Recruiting term | Open roles | Browse |
 |---|---:|---|
-| ☀️ Summer 2027 | 5,140 | **[View openings →](internships/summer-2027.md)** |
-| 🍂 Fall 2026 | 298 | **[View openings →](internships/fall-2026.md)** |
-| 🌱 Spring 2027 | 587 | **[View openings →](internships/spring-2027.md)** |
-| ❄️ Winter 2027 | 196 | **[View openings →](internships/winter-2027.md)** |
-| 📅 Season not listed | 4,556 | **[View openings →](internships/unscheduled.md)** |
+| ☀️ Summer 2027 | 5,205 | **[View openings →](internships/summer-2027.md)** |
+| 🍂 Fall 2026 | 300 | **[View openings →](internships/fall-2026.md)** |
+| 🌱 Spring 2027 | 597 | **[View openings →](internships/spring-2027.md)** |
+| ❄️ Winter 2027 | 202 | **[View openings →](internships/winter-2027.md)** |
+| 📅 Season not listed | 4,443 | **[View openings →](internships/unscheduled.md)** |
 
 ### 🚀 New-graduate roles
 
 | Start year | Open roles | Browse |
 |---|---:|---|
-| 2027 | 1,246 | **[View openings →](new-grad/2027.md)** |
-| 2026 | 987 | **[View openings →](new-grad/2026.md)** |
-| Year not listed | 2,675 | **[View openings →](new-grad/unscheduled.md)** |
+| 2027 | 1,247 | **[View openings →](new-grad/2027.md)** |
+| 2026 | 979 | **[View openings →](new-grad/2026.md)** |
+| Year not listed | 2,731 | **[View openings →](new-grad/unscheduled.md)** |
 <!-- COUNTS:END -->
 
 ## Recent internships with direct links
@@ -37,18 +37,18 @@ Recent internship and co-op listings that open the employer's application page d
 <!-- LATEST-INTERNSHIPS:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| Applied Materials | Data Analyst Intern | Santa Clara, CA | Summer 2027 | not available | 2026-11-28 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Finance-Analyst-Intern--Bachelor-s--Santa-Clara--CA-_R2626652)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
 | Analog Devices | Equipment Engineering Co-Op GFU (May-Dec) | US, OR, Beaverton | Not listed | not available | 2026-11-27 | **[Apply →](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Equipment-Engineering-Co-Op-GFU--May-Dec-_R268545)**<br><sub>analogdevices.wd1.myworkdayjobs.com</sub> |
 | Clearwater Analytics | Software Development Intern | Boise, ID | Not listed | not available | 2026-11-27 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Boise/Software-Development-Intern_R12192)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
-| Clearwater Analytics | Software Development Intern | Boise, ID | Not listed | not available | 2026-11-27 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Boise/Software-Development-Intern_R12098)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
 | Clearwater Analytics | Software Development Intern | Chicago, IL | Not listed | not available | 2026-11-27 | **[Apply →](https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12187)**<br><sub>clearwateranalytics.wd1.myworkdayjobs.com</sub> |
 | Copart | Software Engineering Intern | Dallas, TX - Headquarters | Not listed | not available | 2026-11-27 | **[Apply →](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR112593)**<br><sub>copart.wd12.myworkdayjobs.com</sub> |
 | Envista Forensics | Materials Engineer Intern | Columbus, OH | Not listed | not available | 2026-11-27 | **[Apply →](https://corpartners.wd5.myworkdayjobs.com/Envista/job/Columbus-OH/Materials-Engineer-Intern_R2108)**<br><sub>corpartners.wd5.myworkdayjobs.com</sub> |
 | Ingredion | Functional Fiber Research Intern | Bridgewater, NJ | Not listed | not available | 2026-11-27 | **[Apply →](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Bridgewater-NJ/Functional-Fiber-Research-Intern_Req-40204-1)**<br><sub>ingredion.wd1.myworkdayjobs.com</sub> |
 | Innovative Systems | Intern/Co-op- Summer 2027 - Software Engineering | Pittsburgh, PA | Summer 2027 | not available | 2026-11-27 | **[Apply →](https://career.innovativesystems.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering)**<br><sub>career.innovativesystems.com</sub> |
+| JPMorganChase | 2027 Latin American Debt Capital Markets Analyst Internship – Emerging Talent Summer Experience Program | New York, NY, United States | Not listed | Dec 2028–Jun 2029<br><sub>stated / required</sub> | 2026-11-27 | **[Apply →](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210811409)**<br><sub>jpmc.fa.oraclecloud.com</sub> |
+| JPMorganChase | 2027 Market Sales Analyst Internship – Emerging Talent Summer Experience Program | New York, NY, United States | Not listed | Dec 2028–Jun 2029<br><sub>required</sub> | 2026-11-27 | **[Apply →](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210811687)**<br><sub>jpmc.fa.oraclecloud.com</sub> |
 | LSEG | Intern - Finance Engineer | New York City, United States | Not listed | not available | 2026-11-27 | **[Apply →](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Finance-Engineer_R0124268)**<br><sub>lseg.wd3.myworkdayjobs.com</sub> |
 | Medpace | Software QA Test Engineer Intern - Spring 2027 | Cincinnati, OH | Spring 2027 | not available | 2026-11-27 | **[Apply →](https://uscareers-medpace.icims.com/jobs/12923/job)**<br><sub>uscareers-medpace.icims.com</sub> |
-| Momentive | 2027 CO-OP-Hardcoat Research and Development | US NY Waterford | Not listed | not available | 2026-11-27 | **[Apply →](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Waterford/XMLNAME-2027-CO-OP-Hardcoat-Research-and-Development_R10052)**<br><sub>momentive.wd1.myworkdayjobs.com</sub> |
-| Nooks | Software Engineer - Intern | San Francisco, CA | Not listed | not available | 2026-11-27 | **[Apply →](https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb)**<br><sub>jobs.ashbyhq.com</sub> |
 <!-- LATEST-INTERNSHIPS:END -->
 
 ## Recent new-graduate roles with direct links
@@ -58,18 +58,18 @@ Recent full-time opportunities that open the employer's application page directl
 <!-- LATEST-NEW-GRAD:START -->
 | Company | Role | Location | Term | Eligibility | Posted | Apply |
 |---|---|---|---|---|---:|---|
+| American Electric Power | Distribution Modeling & Analysis Engineer | New Albany, OH | Not listed | not available | 2026-11-28 | **[Apply →](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Distribution-Modeling---Analysis-Engineer-Senior_R18947)**<br><sub>aep.wd1.myworkdayjobs.com</sub> |
+| Applied Materials | Engineering Technician | Austin, TX | Not listed | not available | 2026-11-28 | **[Apply →](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Engineering-Technician_R2633527)**<br><sub>amat.wd1.myworkdayjobs.com</sub> |
+| Bank of Montreal | Software Developer New Grad | Berkeley Heights, NJ | 2027 | not available | 2026-11-28 | **[Apply →](https://bmo.wd3.myworkdayjobs.com/External/job/Berkeley-Heights-NJ-USA/Software-Developer_R260023733)**<br><sub>bmo.wd3.myworkdayjobs.com</sub> |
+| Booz Allen | Health Data Scientist | Atlanta, GA | Not listed | not available | 2026-11-28 | **[Apply →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Health-Data-Scientist_R0252701)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
+| Booz Allen | Junior Data Scientist | San Diego, CA | Not listed | not available | 2026-11-28 | **[Apply →](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/Data-Scientist--Junior_R0251120)**<br><sub>bah.wd1.myworkdayjobs.com</sub> |
+| Cushman & Wakefield | Research Associate - Multiple Teams | Indianapolis, IN, Houston, TX, Nashville, TN, Austin, TX, Chicago, IL, St. Louis, MO, Phoenix, AZ, Denver, CO, Atlanta, GA | Not listed | not available | 2026-11-28 | **[Apply →](https://cw.wd1.myworkdayjobs.com/external/job/Denver-Colorado-USA/Research-Associate---Data-Centers--Alternatives---Practice-Groups_R336908)**<br><sub>cw.wd1.myworkdayjobs.com</sub> |
+| GlobalFoundries | Design-for-Test Engineer (2027 New College Graduate) | USA - Texas - Richardson | 2027 | not available | 2026-11-28 | **[Apply →](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Sr-Engineer-Design_JR-2604155)**<br><sub>globalfoundries.wd1.myworkdayjobs.com</sub> |
+| KeyBank | HR Analytics Rotational Analyst Program | Brooklyn, OH | Not listed | not available | 2026-11-28 | **[Apply →](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-HR-Analytics-Rotational-Analyst-Program_R-41402)**<br><sub>keybank.wd5.myworkdayjobs.com</sub> |
+| RTX | Test Engineer 1 | Jamestown, ND | Not listed | not available | 2026-11-28 | **[Apply →](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Test-Engineer-I--Onsite-_01873351)**<br><sub>globalhr.wd5.myworkdayjobs.com</sub> |
+| Vishay Intertechnology | Layout Engineer | San Jose, CA, Phoenix, AZ | Not listed | not available | 2026-11-28 | **[Apply →](https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/San-Jose-CA/Senior-Layout-Engineer-MOSFET_JR-14542)**<br><sub>vishay.wd3.myworkdayjobs.com</sub> |
 | Amazon | Software Development Engineer - Amazon Leo - Early Career - 2027 - US | Redmond, WA | 2027 | not available | 2026-11-27 | **[Apply →](https://www.amazon.jobs/jobs/10597803/apply)**<br><sub>www.amazon.jobs</sub> |
 | Amazon | Software Development Engineer - Embedded systems - Amazon Leo - Early Career - 2027 - US | Redmond, WA | 2027 | not available | 2026-11-27 | **[Apply →](https://www.amazon.jobs/jobs/10598021/apply)**<br><sub>www.amazon.jobs</sub> |
-| Faropoint | Software Engineer | Hoboken, NJ | 2027 | not available | 2026-11-27 | **[Apply →](https://job-boards.greenhouse.io/faropoint/jobs/5309821007)**<br><sub>job-boards.greenhouse.io</sub> |
-| Guidehouse | Financial Management Transformation Developer | Remote - Huntsville, AL | 2027 | not available | 2026-11-27 | **[Apply →](https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---AL-Huntsville/Financial-Management-Transformation-Developer_44628)**<br><sub>guidehouse.wd1.myworkdayjobs.com</sub> |
-| PDT Partners | Quantitative Researcher | New York, NY, United States | 2026 | not available | 2026-11-27 | **[Apply →](https://job-boards.greenhouse.io/pdtpartners/jobs/82459)**<br><sub>job-boards.greenhouse.io</sub> |
-| Premier Global Links LLC | Software Engineer – Semiconductor & RTL Design | San Jose, CA, United States | 2026 | not available | 2026-11-27 | **[Apply →](https://www.careers-page.com/premier-global-links/job/X977W99Y)**<br><sub>www.careers-page.com</sub> |
-| StubHub | Software Engineer I - New Grad - Consumer Experience | New York City, NY | 2027 | not stated | 2026-11-27 | **[Apply →](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101)**<br><sub>job-boards.eu.greenhouse.io</sub> |
-| AMERICAN SYSTEMS | NAVAIR Software Engineer/Developer | California, MD | 2027 | not available | 2026-11-26 | **[Apply →](https://careers-americansystems.icims.com/jobs/4813/navair-software-engineer-developer/job)**<br><sub>careers-americansystems.icims.com</sub> |
-| Centurum | Data Scientist I (SATCOM) | San Diego, CA, United States | 2026 | not available | 2026-11-26 | **[Apply →](https://centurum.applytojob.com/apply/NGHTfEGLMN/Data%20Scientist%20I%20%28SATCOM%29?source=Centurum)**<br><sub>centurum.applytojob.com</sub> |
-| Cisco | Software Engineer | Research Triangle Park, Durham, NC | 2026 | not available | 2026-11-26 | **[Apply →](https://careers.cisco.com/global/en/job/2030715)**<br><sub>careers.cisco.com</sub> |
-| Dell Technologies | Forward Deployed AI Engineer - Technical Program Management - AI Delivery and Enablement | Hopkinton, MA | Not listed | not available | 2026-11-26 | **[Apply →](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300003)**<br><sub>iawmqy.fa.ocs.oraclecloud.com</sub> |
-| DV Trading | Graduate Software Engineer - DV Commodities | New York City, NY | 2027 | not available | 2026-11-26 | **[Apply →](https://job-boards.greenhouse.io/dvtrading/jobs/4719126005)**<br><sub>job-boards.greenhouse.io</sub> |
 <!-- LATEST-NEW-GRAD:END -->
 
 ## Read the eligibility column

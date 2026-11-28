@@ -12677,6 +12677,12 @@
     },
     {
       "ats": "workable",
+      "company": "HireHawk",
+      "key": "workable:hirehawk",
+      "slug": "hirehawk"
+    },
+    {
+      "ats": "workable",
       "company": "HOKALI",
       "key": "workable:hokali",
       "slug": "hokali"
@@ -13994,7 +14000,7 @@
       "company": "Ameren",
       "host": "ameren.wd1.myworkdayjobs.com",
       "key": "workday:ameren.wd1.myworkdayjobs.com:ameren:external",
-      "site": "External",
+      "site": "external",
       "slug": "ameren",
       "wd": "wd1"
     },
@@ -14828,6 +14834,15 @@
     },
     {
       "ats": "workday",
+      "company": "Blue Cross Blue Shield of Massachusetts",
+      "host": "bcbsma.wd5.myworkdayjobs.com",
+      "key": "workday:bcbsma.wd5.myworkdayjobs.com:bcbsma:bcbsma",
+      "site": "bcbsma",
+      "slug": "bcbsma",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
       "company": "Blue Cross & Blue Shield of Rhode Island",
       "host": "bcbsri.wd1.myworkdayjobs.com",
       "key": "workday:bcbsri.wd1.myworkdayjobs.com:bcbsri:bcbsricareers",
@@ -15047,7 +15062,16 @@
       "company": "Bank of Montreal",
       "host": "bmo.wd3.myworkdayjobs.com",
       "key": "workday:bmo.wd3.myworkdayjobs.com:bmo:external",
-      "site": "external",
+      "site": "External",
+      "slug": "bmo",
+      "wd": "wd3"
+    },
+    {
+      "ats": "workday",
+      "company": "Bank of Montreal",
+      "host": "bmo.wd3.myworkdayjobs.com",
+      "key": "workday:bmo.wd3.myworkdayjobs.com:bmo:privileged",
+      "site": "Privileged",
       "slug": "bmo",
       "wd": "wd3"
     },
@@ -15566,7 +15590,7 @@
     },
     {
       "ats": "workday",
-      "company": "Carpenter Technology Corporation",
+      "company": "Carpenter Technology",
       "host": "cartech.wd5.myworkdayjobs.com",
       "key": "workday:cartech.wd5.myworkdayjobs.com:cartech:ctcexternal",
       "site": "CTCExternal",
@@ -16013,6 +16037,15 @@
       "site": "Clearwater_Analytics_Careers",
       "slug": "clearwateranalytics",
       "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "Clemson University",
+      "host": "clemson.wd12.myworkdayjobs.com",
+      "key": "workday:clemson.wd12.myworkdayjobs.com:clemson:clemson_careers",
+      "site": "Clemson_Careers",
+      "slug": "clemson",
+      "wd": "wd12"
     },
     {
       "ats": "workday",
@@ -17708,7 +17741,7 @@
     },
     {
       "ats": "workday",
-      "company": "FIS",
+      "company": "Fidelity National Information Services",
       "host": "fis.wd5.myworkdayjobs.com",
       "key": "workday:fis.wd5.myworkdayjobs.com:fis:searchjobs",
       "site": "searchjobs",
@@ -20471,7 +20504,7 @@
     },
     {
       "ats": "workday",
-      "company": "Massey Services, Inc.",
+      "company": "Massey Services",
       "host": "masseyservices.wd5.myworkdayjobs.com",
       "key": "workday:masseyservices.wd5.myworkdayjobs.com:masseyservices:masseyservices",
       "site": "masseyservices",
@@ -20719,6 +20752,15 @@
       "key": "workday:mgmresorts.wd5.myworkdayjobs.com:mgmresorts:mgmcareers",
       "site": "mgmcareers",
       "slug": "mgmresorts",
+      "wd": "wd5"
+    },
+    {
+      "ats": "workday",
+      "company": "Michaels Stores",
+      "host": "michaels.wd5.myworkdayjobs.com",
+      "key": "workday:michaels.wd5.myworkdayjobs.com:michaels:external",
+      "site": "external",
+      "slug": "michaels",
       "wd": "wd5"
     },
     {
@@ -22901,6 +22943,15 @@
     },
     {
       "ats": "workday",
+      "company": "Resurgent Capital Services",
+      "host": "resurgent.wd1.myworkdayjobs.com",
+      "key": "workday:resurgent.wd1.myworkdayjobs.com:resurgent:resurgent",
+      "site": "resurgent",
+      "slug": "resurgent",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
       "company": "Revantage Corporate Services",
       "host": "revantage.wd1.myworkdayjobs.com",
       "key": "workday:revantage.wd1.myworkdayjobs.com:revantage:revantage",
@@ -23540,7 +23591,7 @@
     },
     {
       "ats": "workday",
-      "company": "Servco Pacific Inc.",
+      "company": "Servco",
       "host": "servco.wd5.myworkdayjobs.com",
       "key": "workday:servco.wd5.myworkdayjobs.com:servco:servco_careers",
       "site": "Servco_Careers",
@@ -24641,7 +24692,7 @@
       "company": "TravisMathew",
       "host": "tcbrands.wd1.myworkdayjobs.com",
       "key": "workday:tcbrands.wd1.myworkdayjobs.com:tcbrands:travismathew-careers",
-      "site": "travismathew-careers",
+      "site": "TravisMathew-Careers",
       "slug": "tcbrands",
       "wd": "wd1"
     },
@@ -25187,6 +25238,15 @@
     },
     {
       "ats": "workday",
+      "company": "Trinzic",
+      "host": "trinzic.wd115.myworkdayjobs.com",
+      "key": "workday:trinzic.wd115.myworkdayjobs.com:trinzic:trinzic_careers",
+      "site": "Trinzic_Careers",
+      "slug": "trinzic",
+      "wd": "wd115"
+    },
+    {
+      "ats": "workday",
       "company": "T. Rowe Price",
       "host": "troweprice.wd5.myworkdayjobs.com",
       "key": "workday:troweprice.wd5.myworkdayjobs.com:troweprice:troweprice",
@@ -25484,7 +25544,7 @@
     },
     {
       "ats": "workday",
-      "company": "Unum",
+      "company": "Unum Group",
       "host": "unum.wd1.myworkdayjobs.com",
       "key": "workday:unum.wd1.myworkdayjobs.com:unum:external",
       "site": "External",
@@ -25524,6 +25584,15 @@
       "host": "upenn.wd1.myworkdayjobs.com",
       "key": "workday:upenn.wd1.myworkdayjobs.com:upenn:careers-at-penn",
       "site": "careers-at-penn",
+      "slug": "upenn",
+      "wd": "wd1"
+    },
+    {
+      "ats": "workday",
+      "company": "University of Pennsylvania",
+      "host": "upenn.wd1.myworkdayjobs.com",
+      "key": "workday:upenn.wd1.myworkdayjobs.com:upenn:psom",
+      "site": "PSOM",
       "slug": "upenn",
       "wd": "wd1"
     },
